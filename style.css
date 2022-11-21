@@ -1,0 +1,39 @@
+:root {
+  background: #181818; /* #121212 */
+  color: #776f68;
+  font-size: 14px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+  max-width: 600px;
+  padding: 2em;
+}
+
+code {
+  font-family: monospace;
+}
+
+.funfact {
+  font-size: 12px;
+  background-color: black;
+  border: 1px solid #4a4843;
+  padding: 1em;
+}
+
+.added { color: red; }
+.changed { color: green; }
+
+
+table {
+  margin: 2em 0;
+}
+
+table, th, td {
+  border: 1px solid #4a4843;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 0.3em;
+}
