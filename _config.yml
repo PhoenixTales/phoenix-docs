@@ -2,12 +2,9 @@ title: Phoenix Docs
 description: Phoenix Docs | Phoenix Tales
 author: PhoenixTales
 theme: null
-layouts_dir: ./_templates
-includes_dir: ./_templates
 paginate: 4
 paginate_path: "/:num"
 permalink: /:year/:month/:day/:title
-exclude: [ media, vendor ]
 defaults:
   -
     scope:
