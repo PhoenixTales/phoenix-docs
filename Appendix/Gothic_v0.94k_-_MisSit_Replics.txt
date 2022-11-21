@@ -1,0 +1,2395 @@
+				Gothic v0.94k Alpha - Mis&Sit Replics
+
+                 I really sweated away in the mines the last two weeks. All I'm longing for is some time to rest. So don't get on my wick!
+				 Ambient_VLK1_Kap1_A_01_00.WAV
+			 
+				 I suppose you're searching for connection to a camp, right? We use to work here. I can hardly imagine you've got the right attitude towards hard work, so better piss off.
+				 Ambient_VLK1_Kap1_B_01_00.WAV
+			 
+				 Leave me alone. I don't want anyone to see us together. Who knows whom you've made yourself an enemy by now...
+				 Ambient_VLK2_Kap1_A_02_00.WAV
+			 
+				 You'll realize that the one day or the other. Life here is shit. It has always been shit, and it will always be. That's what we call life here.
+				 Ambient_VLK3_Kap1_A_03_00.WAV
+			 
+				 Honor, boy. Honor is a virtue that lacks most of Gomez' men nowadays. Back then, I tell you, during the great revolt, you knew whom you could rely on.
+				 Ambient_VLK4_Kap1_A_04_00.WAV
+			 
+				 Most of the youngsters don't even know the word "honor" anymore.
+				 Ambient_VLK4_Kap1_A_04_01.WAV
+			 
+				 Newbie, eh? If you're looking for a camp, try the sect. You'll go well with those lunatics.
+				 Ambient_GRD6_Kap1_A_06_00.WAV
+			 
+				 We won't welcome every runabout with open arms here, if not they want to go digging in the old mine for us.
+				 Ambient_GRD6_Kap1_A_06_01.WAV
+			 
+				 New here? Guys like you always try to go as far as we let them. You'd better not fool around with us. We are the guards of the orebarons, we are the law.
+				 Ambient_GRD7_Kap1_A_07_00.WAV
+			 
+				 AS long as you don't belong to one of the camps, you'll not be taken seriously, boy. Get lost.
+				 Ambient_GRD13_Kap1_A_13_00.WAV
+			 
+				 Hey, man... you're new here, right? If you're looking for something special, ask the dealers at the marketplace, here in the outer ring. Tell them I sent you.
+				 Ambient_STT10_Kap1_A_10_00.WAV
+			 
+				 New here? I'll give you some piece of advise: If you ever happen to have problems with the guards, meet Gravo at the marketplace.
+				 Ambient_STT12_Kap1_A_12_00.WAV
+			 
+				 He might be helpful for you if you find yourself being in trouble.
+				 Ambient_STT12_Kap1_A_12_01.WAV
+				 
+				 Die Erzbarone wollen Pack wie Dich hier nicht sehen.
+				 GuardPassage_OCC_GATE_Grd_213_Torwache.WAV
+			 
+				 Schnapp ihn Dir!
+				 GuardPassage_OCC_GATE_GRD_213_Dancer02.WAV
+			 
+				 Und was glaubst Du, wie es war? Es war ein Trauerspiel. Erst platzt dieser Kerl rein, die Waffe gezogen. Stinksauer.
+				 ZS_SmallTalk_Text01.WAV
+			 
+				 Und just in dem Moment stolpert er �ber eine Wurzel! Ich hab mich plattgelacht. Sein Gesicht voller Kratzer. Es war herrlich.
+				 ZS_SmallTalk_Text02.WAV
+			 
+				 Auf einmal greift er in den Topf mit dem Reis und sagt: Ist das Bier wirklich hier drin? Und verbrennt sich die Finger, da� er schreit!
+				 ZS_SmallTalk_Text03.WAV
+			 
+				 Ich wei� auch nicht, ob das stimmt. Es wird immer so viel geschw�tzt, aber keiner wei� was genaues. Und uns sagt eh keiner was.
+				 ZS_SmallTalk_Text04.WAV
+			 
+				 Warum sollte er das tun? Er w�rde es sich ganz bestimmt mit ihnen verscherzen. Das wagt er nicht. Das ist ein Feigling.
+				 ZS_SmallTalk_Text05.WAV
+			 
+				 Ach was! Du glaubst auch alles, was man Dir erz�hlt. F�r wie dumm h�lst Du mich eigentlich? Denk doch mal nach. Daf�r h�tte die Zeit nicht gereicht.
+				 ZS_SmallTalk_Text06.WAV
+			 
+				 Ist mir eigentlich auch egal. Wen interessierts? Wenn Du Deine Nase nicht reinsteckst, gibt es auch keinen �rger. Und das ist besser so.
+				 ZS_SmallTalk_Text07.WAV
+			 
+				 Und dann springt er auf einmal in meinen Weg und sagt: Der Gobbo war's! Da hab ich ihm gesagt, er soll sich verpissen. Gobbo. Dem geb ich Gobbo.
+				 ZS_SmallTalk_Text08.WAV
+			 
+				 Ich hab ihm kein Wort geglaubt. Ein Shadowbeast? Dieser Schw�chling? Im Leben nicht! Vermutlich nur eine mittelschwere Ratte.
+				 ZS_SmallTalk_Text09.WAV
+			 
+				 Da hab ich ihn gefragt, woher er das wisse. Und wei�t Du was er gesagt hat? Du err�tst es nicht... Aus einem Brief! Der kann doch weder lesen, noch kennt er jemanden, der schreiben kann!
+				 ZS_SmallTalk_Text10.WAV
+			 
+				 Verdammt noch mal nein. Ich hab's Dir schon tausendmal erkl�rt. Was soll die Fragerei? Langsam mu�t Du's doch mal kapieren. Ich war zu der Zeit in der Mine.
+				 ZS_SmallTalk_Text11.WAV
+			 
+				 Da gab's dann nur noch ein Problem bei der Sache. Der Kerl stand bei ihr im Schrank und hat alles mit angeh�rt! Der Rest des Abends war gelaufen.
+				 ZS_SmallTalk_Text12.WAV
+			 
+				 Ich glaube, das Wetter wird wieder besser. Jetzt wo wir bald wieder in die Mine m�ssen. Hervorragend. Damit geh�rt das Bier mir.
+				 ZS_SmallTalk_Text13.WAV
+			 
+				 Vor Lachen hau ich mir auf's Knie! Du und die Arena, sag ich. Du wei�t ja nicht mal, wo beim Schwert der Griff sitzt.
+				 ZS_SmallTalk_Text14.WAV
+			 
+				 Kannst Du Dir vorstellen, was da alles lagert? Kein Wunder, da� er niemanden mitnimmt. Das ist alles gut versteckt, sicher.
+				 ZS_SmallTalk_Text15.WAV
+			 
+				 Ich hab nix gesehen, aber ich hab so ein Gef�hl. Das war er. Es war zwar stockdunkel, aber ich bin sicher. Er war's. Kein Schei�. Ich wei� auch nicht, wie er das angestellt hat.
+				 ZS_SmallTalk_Text16.WAV
+			 
+				 Da sagt er mir, das sei gar keine Gefahr. Ich solle einfach vorgehen, er w�rde mir den R�cken freihalten. Klar! Ich sag ihm, vergi� es. Du gehst vor.
+				 ZS_SmallTalk_Text17.WAV
+			 
+				 Pl�tzlich f�llt ihm die Spitzhacke aus der Hand und er l�uft lila an. Ich hau ihm auf den R�cken und wei�t Du, was er verschluckt hat? Erz! Wollt er wohl rausschmuggeln.
+				 ZS_SmallTalk_Text18.WAV
+			 
+				 Nein, er doch nicht, sagt er entr�stet! Er kennt sich mit Pilzen aus, sagt er. Ich sag danke und verpi� mich. Und was war? Vier Tage lag er da, mehr tot als lebendig.
+				 ZS_SmallTalk_Text19.WAV
+				 
+				 Ich frag ihn wo er hinwill. Er sagt, das geht mich einen feuchten Schei�dreck an. Der war auf dem Weg zum Versteck. Wetten? Dem kannste nicht trauen.
+				 ZS_SmallTalk_Text20.WAV
+			 
+				 Hey Kumpel!
+				 ZS_MultiHangAround01.WAV
+			 
+				 ZS_MultiHangAroundSmallTalk_Text01.WAV
+			
+				 Omm...
+				 ZS_Meditate_Om.WAV
+			 
+				 Der Schl�fer hat zu mir gesprochen.
+				 ZS_Preach_YBerion01.WAV
+			 
+				 Der Schl�fer wird uns alle befreien.
+				 ZS_Preach_YBerion02.WAV
+			 
+				 Der Schl�fer erwache!
+				 ZS_Preach_YBerion03.WAV
+				 
+				 Edles Tr�pfchen was? Das wird ein netter Rausch!
+				 ORG_803_TheKey01_Trade_01_01.WAV
+			 
+				 Ich h�tte nicht �bel Lust, mir mit was Edlem die Birne vollzuknallen...
+				 ORG_803_TheKey01_Trade_01_Info_01_Satz_01.WAV
+				 
+				 Kommst Du an Wein?
+				 ORG_803_TheKey01_Trade_01_Info_01_Satz_02.WAV
+				 
+				 2 Flaschen und ich geb' Dir etwas richtig n�tzliches!
+				 ORG_803_TheKey01_Trade_01_Info_01_Satz_03.WAV
+			 
+				 Sehr gut. Hier, schneid' Dich nicht...
+				 SFB_1007_Arto01_Trade_01_01.WAV
+				 
+				 Weiss Deine Mutter, dass Du mit Waffen spielst? Hehehe...
+				 SFB_1007_Arto01_Trade_01_02.WAV
+			 
+				 Lecker lecker...
+				 SFB_1007_Arto01_Trade_02_01.WAV
+				 
+				 Das sieht doch gut aus !
+				 SFB_1007_Arto01_Trade_03_01.WAV
+			 
+				 Das sieht doch gut aus !
+				 SFB_1007_Arto01_Trade_07_01.WAV
+			 
+				 Mit dieser R�stung kannst Du Kanonenkugeln im Flug stoppen, so stabil is' die!
+				 SFB_1007_Arto01_Trade_04_01.WAV
+				 
+				 Wenn Du kein S�ldner bist, kann ich Dir die R�stung nicht geben!
+				 SFB_1007_Arto01_Trade_04_02.WAV
+			 
+				 So schnell durchdringt keine Klinge diese R�stung, eine gute Wahl.
+				 SFB_1007_Arto01_Trade_05_01.WAV
+				 
+				 Das Ding h�lt einiges, aber l�ngst nicht alles aus. Verlass Dich nicht zu sehr 'drauf.
+				 SFB_1007_Arto01_Trade_06_01.WAV
+				 
+				 Hey, Du da!
+				 SFB_1007_Arto01_Trade_01_Info_01_Satz_01.WAV
+				 
+				 Ich brauche Manatrank, generell soviel wie Du kriegen kannst. Aber einer reicht f�r den Anfang.
+				 SFB_1007_Arto01_Trade_01_Info_01_Satz_02.WAV
+				 
+				 Ich geb Dir einen guten Zweih�nder daf�r.
+				 SFB_1007_Arto01_Trade_01_Info_01_Satz_03.WAV
+				 
+				 Es ist auch noch was Spezielles da, zwei super Pfeile mit Metallspitzen, absolut t�tlich!
+				 SFB_1007_Arto01_Trade_01_Info_01_Satz_04.WAV
+				 
+				 Du kriegst sie, wenn Du mir was ordentliches zu Saufen bringst, ein Bierchen, oder 'nen Wein...
+				 SFB_1007_Arto01_Trade_01_Info_01_Satz_05.WAV
+			 
+				 Ich w�rde mich aber auch mit 'ner sch�nen Keule zufrieden geben....
+				 SFB_1007_Arto01_Trade_01_Info_01_Satz_06.WAV
+			 
+				 Ach ja, und falls Du an R�stungen interessiert bist, ich hab' alles da, was es gibt!
+				 SFB_1007_Arto01_Trade_01_Info_01_Satz_07.WAV
+			 
+				 'Ne leichte R�stung bekommst Du schon f�r ein Schwert2, eine mittlere geb' ich Dir f�r einen Heiltrank.
+				 SFB_1007_Arto01_Trade_01_Info_01_Satz_08.WAV
+			 
+				 Wenn Du eine schwere R�stung haben willst, musst Du mir schon ein Buch bringen.
+				 SFB_1007_Arto01_Trade_01_Info_01_Satz_09.WAV
+			 
+				 Danke. Der Tausch gilt, Umtausch ausgeschlossen!
+				 SFB_1012_Weeze01_Trade_01_01.WAV
+			 
+				 Danke. Der Tausch gilt, Umtausch ausgeschlossen!
+				 SFB_1012_Weeze01_Trade_02_01.WAV
+			 
+				 Danke. Der Tausch gilt, Umtausch ausgeschlossen!
+				 SFB_1012_Weeze01_Trade_03_01.WAV
+				 
+				 Hey, brauchst Du Fackeln?
+				 SFB_1012_Weeze01_Trade_01_Info_01_Satz_01.WAV
+			 
+				 Ich hab haufenweise davon, 10 St�ck gegen ein sch�nes Bierchen!
+				 SFB_1012_Weeze01_Trade_01_Info_01_Satz_02.WAV
+			 
+				 Ich nehm' aber auch 'n Wein, oder 'ne frische Keule.
+				 SFB_1012_Weeze01_Trade_01_Info_01_Satz_03.WAV
+			 
+				 Im Moment habe ich aber noch ein anderes Problem.
+				 Mis_1_NC_Homer_DamLurker_Offer_14_01.WAV
+				 
+				 Was ist los?
+				 Mis_1_NC_Homer_DamLurker_Offer_15_02.WAV
+			 
+				 Diese verdammte Vieh! Hier taucht so ein Lurker rum. Macht sich am Damm zu schaffen.
+				 Mis_1_NC_Homer_DamLurker_Offer_14_03.WAV
+				 
+				 Dann sollte jemand das Vieh zur Strecke bringen.
+				 Mis_1_NC_Homer_DamLurker_Offer_15_04.WAV
+				 
+				 Ich habs den Jungs schon gesagt, aber niemand k�mmert sich drum.
+				 Mis_1_NC_Homer_DamLurker_Offer_14_05.WAV
+				 
+				 Wie w�re es, wenn Du Dich darum k�mmerst. Ich denke, da� sich das hier im Lager rumsprechen w�rde...
+				 Mis_1_NC_Homer_DamLurker_Offer_14_06.WAV
+				 
+				 Ich schau mal was sich machen l��t.
+				 Mis_1_NC_Homer_DamLurker_FuncYes_15_01.WAV
+			 
+				 Pass auf, diese Lurker sind nicht einfach zu kriegen. Da muss man tricksen.
+				 Mis_1_NC_Homer_DamLurker_FuncYes_14_02.WAV
+				 
+				 Manchmal liegt er auf der anderen Seite des Sees am Ufer.
+				 Mis_1_NC_Homer_DamLurker_FuncYes_14_03.WAV
+				 
+				 Bin ich der Kammerj�ger, oder was?
+				 Mis_1_NC_Homer_DamLurker_FuncNo_15_01.WAV
+			 
+				 Klar, wozu was f�r die Leute hier tun? Du wirst ja sicher auch nie was von ihnen wollen.
+				 Mis_1_NC_Homer_DamLurker_FuncNo_14_02.WAV
+			 
+				 Ich habe schon geh�rt, der Lurker ist tats�chlich tot! Auf Dich kann man sich verlassen.
+				 Mis_1_NC_Homer_DamLurker_Success_14_01.WAV
+			 
+				 Dieser Lurker knabbert immer noch munter unseren Damm an.
+				 Mis_1_NC_Homer_DamLurker_Running_14_01.WAV
+			 
+				 Du bist der, der diesen Lurker erwischt hat. Ein Sorge weniger.
+				 Mis_1_NC_Homer_DamLurkerKilledInfo_08_01.WAV
+			 
+				 Ich hab geh�rt, Du hast diesen Lurker erwischt, der immer den Damm angeknabbert hat.
+				 Mis_1_NC_Homer_DamLurkerKilledInfo2_11_01.WAV
+			 
+				 Das war ja mal ein l�stiges Vieh. Du mu�t mir irgendwann erz�hlen, wie Du den erlegt hast.
+				 Mis_1_NC_Homer_DamLurkerKilledInfo2_11_02.WAV
+			 
+				 Ein sch�nes St�ck Arbeit der Damm. Wir haben monatelang dran gearbeitet. Haben  L�ngspfeiler benutzt , die Seitenstreben verst�rkt und die R�ume mit Steinen aufgef�llt.
+				 Mis_1_NC_Homer_DamLurkerInfo_14_01.WAV
+			 
+				 Ein gutes System, wie es auch die Nordm�nner benutzen.
+				 Mis_1_NC_Homer_DamLurkerInfo_14_02.WAV
+			 
+				 Du kennst dich gut aus.
+				 Mis_1_NC_Homer_DamLurkerInfo_15_03.WAV
+			 
+				 Yep. Ich bin Homer, Baumeister von Beruf. Dich hab ich hier aber noch nicht gesehen.
+				 Mis_1_NC_Homer_DamLurkerInfo_14_04.WAV
+			 
+				 Ich bin noch nicht so lange dabei. Jarvis sagte mir, ich soll besser Augen im R�cken haben, wegen den Banditen.
+				 Mis_1_NC_Homer_DamLurkerInfo_15_05.WAV
+			 
+				 Es gibt immer ein paar Schwachstellen, die ausgebessert werden m�ssen, aber das Grundger�st ist verdammt haltbar. Allerdings frage auch ich mich manchmal, ob es h�lt.
+				 Mis_1_NC_Homer_DamLurkerInfo_14_06.WAV
+			
+				 Tja, morsches Holz sollte man austauschen.
+				 Mis_1_NC_Homer_DamLurkerInfo_15_07.WAV
+			 
+				 Ich tu das, was ich kann. Und versuche zu �berleben.
+				 Mis_1_NC_Homer_DamLurkerInfo_14_08.WAV
+			 
+				 You can deal with the next thing right now.
+				 Mis_1_OC_BringList_Offer_09_01.WAV
+			 
+				 Ich werd' dir noch eine Chance geben - aber diesmal mach's richtig.
+				 Mis_1_OC_BringList_Offer_09_02.WAV
+			 
+				 What's that about?
+				 Mis_1_OC_BringList_Offer_15_03.WAV
+			 
+				 I want you to go to the old mine. There you'll meet a chap called Ian. He'll give you a list.
+				 Mis_1_OC_BringList_Offer_09_04.WAV
+			 
+				 This list is important. It contains all the things needed by the boys in the mine.
+				 Mis_1_OC_BringList_Offer_09_05.WAV
+			 
+				 We are going to send them the stuff with the next convoy.
+				 Mis_1_OC_BringList_Offer_09_06.WAV
+			 
+				 No problem!
+				 Mis_1_OC_BringList_FuncYes_15_01.WAV
+			 
+				 Oh, yes! It is a problem. The New Camp must not get the list by any means, otherwise some heads will be chopped - and your's will be the first!
+				 Mis_1_OC_BringList_FuncYes_09_02.WAV
+			 
+				 As I said, the list is important. If you handle the thing right, I'll introduce you to Gomez.
+				 Mis_1_OC_BringList_FuncYes_09_03.WAV
+			 
+				 If he likes your face, you might soon be one of us.
+				 Mis_1_OC_BringList_FuncYes_09_04.WAV
+			 
+				 If the list is that important, why should Ian give it to me of all people?
+				 Mis_1_OC_BringList_FuncYes_15_05.WAV
+			 
+				 Because you'll tell him that Thorus sent you, and his damn knee still hurts pretty much.
+				 Mis_1_OC_BringList_FuncYes_09_06.WAV
+			 
+				 I will tell him. How can I get to the old mine?
+				 Mis_1_OC_BringList_FuncYes_15_07.WAV
+			 
+				 Graham lives over there. He draws maps. Tell him I sent you and I want him to give you a map. It will help you find the mine.
+				 Mis_1_OC_BringList_FuncYes_09_08.WAV
+			 
+				 I just want to do some other things beforehand ...
+				 Mis_1_OC_BringList_FuncNo_15_01.WAV
+				 
+				 You know where you can find me.
+				 Mis_1_OC_BringList_FuncNo_09_02.WAV
+			 
+				 Well done, boy.
+				 Mis_1_OC_BringList_Success_09_01.WAV
+			 
+				 Where is the list?! Hurry up, or else I'll get you going!!
+				 Mis_1_OC_BringList_Running_09_01.WAV
+			 
+				 Thorus sent me to get a list.
+				 Mis_1_OC_BringList_Info1_15_01.WAV
+			 
+				 And?
+				 Mis_1_OC_BringList_Info1_13_02.WAV
+			 
+				 And he says his damn knee still hurts pretty much.
+				 Mis_1_OC_BringList_Info1_15_03.WAV
+			 
+				 Good. Here, take the list. And hurry up. Thorus is waiting.
+				 Mis_1_OC_BringList_Info1_13_04.WAV
+			 
+				 Why? Are we going in there?
+				 Mis_1_OC_FindWeapon_Offer_15_02.WAV
+			 
+				 Not right now! This is the deserted mine. There's lot of old stuff in there, but the mine is locked. And with a bit of luck you can find something for yourself out here.
+				 Mis_1_OC_FindWeapon_Offer_11_03.WAV
+			 
+				 Did they mine ore here?
+				 Mis_1_OC_FindWeapon_Offer_15_04.WAV
+			 
+				 Right. But now the Old Camp has a far bigger mine not far away from here. Those poor fools, who haven't got any rights, have to sweat away in there just to get a small share of what was delivered from outside today.
+				 Mis_1_OC_FindWeapon_Offer_11_05.WAV
+				 
+				 And because we do not want that to happen to you, you'd better get a weapon now. Cross the bridge over there and have a look around.
+				 Mis_1_OC_FindWeapon_Offer_11_06.WAV
+			 
+				 I'll be waiting here.
+				 Mis_1_OC_FindWeapon_Offer_11_07.WAV
+			 
+				 I've found a weapon.
+				 Mis_1_OC_FindWeapon_Success_15_01.WAV
+			 
+				 Okay, let's go.
+				 Mis_1_OC_FindWeapon_Success_11_02.WAV
+			 
+				 Can you see the beast?
+				 Mis_1_OC_KillChicken_Offer_11_01.WAV
+			 
+				 Mis_1_OC_FindWeapon_Obsolete01.WAV
+			 
+				 What's up, I'm waiting.
+				 Mis_1_OC_FindWeapon_Running_11_01.WAV
+			 
+				 Hey you, come here!
+				 Mis_1_OC_Fingers_TeachLockpick_Offer_05_01.WAV
+			 
+				 What do you want?
+				 Mis_1_OC_Fingers_TeachLockpick_Offer_15_02.WAV
+			 
+				 To suggest a nice little deal.
+				 Mis_1_OC_Fingers_TeachLockpick_Offer_05_03.WAV
+			 
+				 What kind of deal?
+				 Mis_1_OC_Fingers_TeachLockpick_Offer_15_04.WAV
+			 
+				 Listen, there is something I really want to have. And if you get it for me, I'll show you how to open doors without a key.
+				 Mis_1_OC_Fingers_TeachLockpick_Offer_05_05.WAV
+			 
+				 Why don't you get it yourself?
+				 Mis_1_OC_Fingers_TeachLockpick_Offer_15_06.WAV
+			 
+				 The guards know me. They don't know you. They'd keep an eye on me.
+				 Mis_1_OC_Fingers_TeachLockpick_Offer_05_07.WAV
+			 
+				 What are you saying, have we got a deal?
+				 Mis_1_OC_Fingers_TeachLockpick_Offer_05_08.WAV
+			 
+				 What's that about?
+				 Mis_1_OC_BringList_Offer_15_03.wav.WAV
+			 
+				 There is a book in a chest. I know the guy.
+				 Mis_1_OC_Fingers_TeachLockpick_FuncYes_05_02.WAV
+			 
+				 But before you go I'll show you how to open the thing. Follow me.
+				 Mis_1_OC_Fingers_TeachLockpick_FuncYes_05_03.WAV
+			 
+				 Alright. If that's what you want.
+				 Mis_1_OC_Fingers_TeachLockpick_FuncNo_05_02.WAV
+			 
+				 Pleasure doing business with you.
+				 Mis_1_OC_Fingers_TeachLockpick_Success_05_01.WAV
+			 
+				 Mis_1_OC_Fingers_TeachLockpick_Failure_05_01.WAV
+			 
+				 Mis_1_OC_Fingers_TeachLockpick_Obsolete_05_01.WAV
+			 
+				 Alright, you can practise here. Take this lockpick.
+				 Mis_1_OC_Fingers_TeachLockpick_Info1_05_01.WAV
+			 
+				 You can keep whatever you find in the chest. Then you get me the book.
+				 Mis_1_OC_Fingers_TeachLockpick_Info1_05_02.WAV
+			 
+				 Don't forget: It's the hut to the left, the one with the skull over the door.
+				 Mis_1_OC_Fingers_TeachLockpick_Info1_05_03.WAV
+			 
+				 They call me Graham.
+				 Mis_1_OC_Graham_Map_Offer_02_01.WAV
+			 
+				 I am ...
+				 Mis_1_OC_Graham_Map_Offer_15_02.WAV
+			 
+				 ...new here. Everybody started off like you.
+				 Mis_1_OC_Graham_Map_Offer_02_03.WAV
+			 
+				 And what about you?
+				 Mis_1_OC_Graham_Map_Offer_15_04.WAV
+			 
+				 I'm one of those people who can go on doing what they did outside as well.
+				 Mis_1_OC_Graham_Map_Offer_02_05.WAV
+			 
+				 I draw maps.
+				 Mis_1_OC_Graham_Map_Offer_02_06.WAV
+			 
+				 Have you got a map of this jail?
+				 Mis_1_OC_Graham_Map_Offer_15_07.WAV
+			 
+				 Possibly.
+				 Mis_1_OC_Graham_Map_Offer_02_08.WAV
+			 
+				 What do you want for the map?
+				 Mis_1_OC_Graham_Map_Offer_15_09.WAV
+			 
+				 I usually take 20 Ore or equivalent stuff.
+				 Mis_1_OC_Graham_Map_Offer_02_10.WAV
+			 
+				 But if you get me a piece of steel, you can have it.
+				 Mis_1_OC_Graham_Map_Offer_02_11.WAV
+			 
+				 What do you want the steel for?
+				 Mis_1_OC_Graham_Map_Offer_15_12.WAV
+			 
+				 Shhh. Curiosity can be dangerous.
+				 Mis_1_OC_Graham_Map_Offer_02_13.WAV
+			 
+				 Okay. I'll get you the steel.
+				 Mis_1_OC_Graham_Map_Offer_15_14.WAV
+			 
+				 Pure steel. Very good. Thanks.
+				 Mis_1_OC_Graham_Map_Success_02_01.WAV
+			 
+				 Here's the map. I take it you need it.
+				 Mis_1_OC_Graham_Map_Success_02_02.WAV
+			 
+				 Huno the blacksmith will certainly have a piece of steel.
+				 Mis_1_OC_Graham_Map_Running_02_01.WAV
+				 
+				 Are you the blacksmith?
+				 Mis_1_OC_Graham_Map_Info1_15_01.WAV
+			 
+				 No, I'm the orebaron - Of course I am the blacksmith!
+				 Mis_1_OC_Graham_Map_Info1_09_02.WAV
+			 
+				 You have an important task here.
+				 Mis_1_OC_Graham_Map_Info1_15_03.WAV
+			 
+				 I'll tell you something: It is a pleasure working with this ore.
+				 Mis_1_OC_Graham_Map_Info1_09_04.WAV
+			 
+				 Unfortunately, the magic gets lost in the process of smelting
+				 Mis_1_OC_Graham_Map_Info1_09_05.WAV
+			 
+				 In the blast furnaces of Nordmar is where they know about the art of smelting.
+				 Mis_1_OC_Graham_Map_Info1_09_06.WAV
+			 
+				 You can produce weapons of true magic with this steel.
+				 Mis_1_OC_Graham_Map_Info1_09_07.WAV
+			 
+				 The steel I forge is also of a better quality than steel from normal iron ore.
+				 Mis_1_OC_Graham_Map_Info1_09_08.WAV
+			 
+				 And it can be worked more quickly and more easily.
+				 Mis_1_OC_Graham_Map_Info1_09_09.WAV
+			 
+				 Can you give me a piece of steel?
+				 Mis_1_OC_Graham_Map_Info1_15_10.WAV
+			 
+				 What do you want steel for?
+				 Mis_1_OC_Graham_Map_Info1_09_11.WAV
+			 
+				 Curiosity can be dangerous.
+				 Mis_1_OC_Graham_Map_Info1_FuncYes_Info_15_01.WAV
+			 
+				 Cockiness can be daft. That's 8 Ore.
+				 Mis_1_OC_Graham_Map_Info1_FuncYes_Info_09_02.WAV
+			 
+				 It's for Graham, I've got a deal with him.
+				 Mis_1_OC_Graham_Map_Info1_FuncNo_Info_15_01.WAV
+			 
+				 Mhmm ... alright. That's 4 ore.
+				 Mis_1_OC_Graham_Map_Info1_FuncNo_Info_09_02.WAV
+			 
+				 Good deal.
+				 VLK_538_Huno_Trade_09_01.WAV
+				 
+				 Guter Handel
+				 VLK_538_Huno_Trade_09_02.WAV
+			 
+				 That deal was alright.
+				 VLK_573_Graham_Trade_02_01.WAV
+			
+				 Yeah, is it dangerous?
+				 Mis_1_OC_KillChicken_Offer_15_02.WAV
+			 
+				 Not particularly. Some people hunt them, they're not too bad when fried. If you don't come too close to them, they leave you in peace. However, you should not underrate them.
+				 Mis_1_OC_KillChicken_Offer_11_03.WAV
+			 
+				 Now you've got a good weapon, you can show me if you can handle it.
+				 Mis_1_OC_KillChicken_Offer_11_04.WAV
+			 
+				 Here, those beasts like apples. Throw it over there, then it'll be distracted.
+				 Mis_1_OC_KillChicken_Offer_11_05.WAV
+			 
+				 (smiling) Good, you survived.
+				 Mis_1_OC_KillChicken_Success_11_01.WAV
+			 
+				 Let's move on.
+				 Mis_1_OC_KillChicken_Success_11_02.WAV
+			 
+				 Mis_1_OC_KillChicken_Failure01.WAV
+			 
+				 Mis_1_OC_KillChicken_Obsolete01.WAV
+			 
+				 Go on, risk it!
+				 Mis_1_OC_KillChicken_Running_11_01.WAV
+			 
+				 You're pretty impetuous but you finished the beast off.
+				 Mis_1_OC_KillChicken_Info2_11_01.WAV
+			 
+				 Let's move on.
+				 Mis_1_OC_KillChicken_Info2_11_02.WAV
+				 
+				 What do you want?
+				 Mis_1_OC_Kirgo_Teachfight_Info1_05_01.WAV
+			 
+				 Fight!
+				 Mis_1_OC_Kirgo_Teachfight_Info1_FuncYes_15_01.WAV
+			 
+				 Can't you see I'm training?
+				 Mis_1_OC_Kirgo_Teachfight_Info1_FuncYes_05_02.WAV
+			 
+				 Nothing at all!
+				 Mis_1_OC_Kirgo_Teachfight_Info1_FuncNo_15_01.WAV
+			 
+				 Then get lost!
+				 Mis_1_OC_Kirgo_Teachfight_Info1_FuncNo_05_02.WAV
+			 
+				 I can see that. I want to join.
+				 Mis_1_OC_Kirgo_Teachfight_Info2_Info_15_01.WAV
+			 
+				 (unbelieving) You? Boy, I've got other things to do.
+				 Mis_1_OC_Kirgo_Teachfight_Info2_Info_05_02.WAV
+			 
+				 I'm not bad.
+				 Mis_1_OC_Kirgo_Teachfight_Info3_Info_15_01.WAV
+			 
+				 Against who? Goblins and scavengers?
+				 Mis_1_OC_Kirgo_Teachfight_Info3_Info_05_02.WAV
+			 
+				 Ah, come on, I want the best to be my teacher!
+				 Mis_1_OC_Kirgo_Teachfight_Info4_Info_15_01.WAV
+			 
+				 (chugging) That's what you want, is it? Alright, I'll tell you something:
+				 Mis_1_OC_Kirgo_Teachfight_Info4_Info_05_02.WAV
+			 
+				 If you manage to hit me just once before I make you hit the ground,
+				 Mis_1_OC_Kirgo_Teachfight_Info4_Info_05_03.WAV
+			 
+				 I'll show you a few tricks. What d'you say?
+				 Mis_1_OC_Kirgo_Teachfight_Info4_Info_05_04.WAV
+			 
+				 Let's get started!
+				 Mis_1_OC_Kirgo_Teachfight_Info4_FuncYes_15_01.WAV
+			 
+				 Then show me what you can do, boy!
+				 Mis_1_OC_Kirgo_Teachfight_Info4_FuncYes_05_02.WAV
+			 
+				 (cautious) Uh, just how sharp is your knife?
+				 Mis_1_OC_Kirgo_Teachfight_Info4_FuncNo_15_01.WAV
+			 
+				 (disdainful) Get lost.
+				 Mis_1_OC_Kirgo_Teachfight_Info4_FuncNo_05_02.WAV
+			 
+				 That wasn't too bad.
+				 Mis_1_OC_Kirgo_Teachfight_Info5_Info_05_01.WAV
+			 
+				 Du hast Dich verbessert.
+				 Mis_1_OC_Kirgo_Teachfight_Info5_Info_05_02.WAV
+			 
+				 I told you, boy.
+				 ZS_HitMeOnce_GRD_251_Kirgo_05_01.WAV
+			 
+				 Show me once more what you can do.
+				 Mis_1_OC_MordragKO_Offer_09_01.WAV
+			 
+				 What's going on?
+				 Mis_1_OC_MordragKO_Offer_15_02.WAV
+			 
+				 There is some trouble with a guy from the New Camp. His name's Mordrag.
+				 Mis_1_OC_MordragKO_Offer_09_03.WAV
+			 
+				 He steals the property of the orebarons and sells it off to our own people.
+				 Mis_1_OC_MordragKO_Offer_09_04.WAV
+			
+				 He doesn't want to understand our rules. So we have to explain them to him once more.
+				 Mis_1_OC_MordragKO_Offer_09_05.WAV
+			 
+				 What am I supposed to do?
+				 Mis_1_OC_MordragKO_Offer_15_06.WAV
+			 
+				 Go to him and say hello from me. Then give it to him but don't kill him, got it?
+				 Mis_1_OC_MordragKO_Offer_09_07.WAV
+			
+				 What do I get out of it?
+				 Mis_1_OC_MordragKO_FuncYes_15_01.WAV
+			 
+				 If you deal well with the thing, I'll have a word with Gomez. He's a big number here in the Old Camp. Gomez is always looking for capable people.
+				 Mis_1_OC_MordragKO_FuncYes_09_02.WAV
+			 
+				 Besides, all the things the guy has with him are yours ..
+				 Mis_1_OC_MordragKO_FuncYes_09_03.WAV
+			 
+				 Where is he?
+				 Mis_1_OC_MordragKO_FuncYes_15_04.WAV
+			 
+				 During the day you can find him over there at the market square, at night he is with the bandits in the New Camp.
+				 Mis_1_OC_MordragKO_FuncYes_09_05.WAV
+			 
+				 Perhaps I was wrong about you ...
+				 Mis_1_OC_MordragKO_FuncNo_09_01.WAV
+			 
+				 I did it, the guy has learned his lesson.
+				 Mis_1_OC_MordragKO_Success_15_01.WAV
+			 
+				 Well done, boy.
+				 Mis_1_OC_MordragKO_Success_09_02.WAV
+			 
+				 Mordrag will never again steal anything.
+				 Mis_1_OC_MordragKO_Failure_15_01.WAV
+			 
+				 I told you not to kill him. We don't need people here who can only deal with things their way.
+				 Mis_1_OC_MordragKO_Failure_09_02.WAV
+			 
+				 But at least you didn't let him give it to you ...
+				 Mis_1_OC_MordragKO_Failure_09_03.WAV
+			 
+				 Did you say hello to Mordrag?
+				 Mis_1_OC_MordragKO_Running_09_01.WAV
+			
+				 I was there but I didn't say hello.
+				 Mis_1_OC_MordragKO_Running_15_02.WAV
+			 
+				 Then he probably talked you into getting some of his useless stuff.
+				 Mis_1_OC_MordragKO_Running_09_03.WAV
+			
+				 Maybe.
+				 Mis_1_OC_MordragKO_Running_15_04.WAV
+			 
+				 Even if he did, you shouldn't let things like that stop you. That's what it's about here, isn't it?
+				 Mis_1_OC_MordragKO_Running_09_05.WAV
+			 
+				 I am here to say hello from Thorus.
+				 Mis_1_OC_MordragKO_Info1_15_01.WAV
+			 
+				 Oh no, boy, that's what he does with all the new fellows here. I take it he told you that I nick things off everybody and that you are supposed to give it to me because of that.
+				 Mis_1_OC_MordragKO_Info1_11_02.WAV
+			 
+				 Yeah, that's right.
+				 Mis_1_OC_MordragKO_Info1_15_03.WAV
+			 
+				 Listen, I'll give you a fantastic magic water, and you leave me in peace, alright?
+				 Mis_1_OC_MordragKO_Info1_11_04.WAV
+			 
+				 Here's the water for you, but don't drink it all at once. Hahaha ...
+				 Mis_1_OC_MordragKO_2FuncYes_11_01.WAV
+			 
+				 Hey, just drop by the New Camp. Live is better there. No orebarons, no hard graft, and if you're not completely dense, you can have a good life.
+				 Mis_1_OC_MordragKO_2FuncYes_11_02.WAV
+			 
+				 Just think about it.
+				 Mis_1_OC_MordragKO_2FuncYes_11_03.WAV
+			 
+				 As you please, just try to hit me!
+				 Mis_1_OC_MordragKO_2FuncNo_11_01.WAV
+			 
+				 It's good to meet you! You are certainly used to good food.
+				 Mis_1_OC_Snaf_MeatbugSoup_Offer_01_01.WAV
+			 
+				 I have a new recipe - listen: meatbug ragout ? la Snaf with rice.
+				 Mis_1_OC_Snaf_MeatbugSoup_Offer_01_02.WAV
+			 
+				 I just need three more meatbugs' bodies, can you get them for me?
+				 Mis_1_OC_Snaf_MeatbugSoup_Offer_01_03.WAV
+			 
+				 I'll let you have the first taster. Sure! You've deserved it.
+				 Mis_1_OC_Snaf_MeatbugSoup_FuncYes_01_01.WAV
+			 
+				 Then don't come crying for a plate.
+				 Mis_1_OC_Snaf_MeatbugSoup_FuncNo_01_01.WAV
+			 
+				 Oh, good! I'd just like to try it right now ...
+				 Mis_1_OC_Snaf_MeatbugSoup_Success_01_01.WAV
+			 
+				 Here, why don't you take two portions.
+				 Mis_1_OC_Snaf_MeatbugSoup_Success_01_02.WAV
+			 
+				 If you wanna help me, do it now.
+				 Mis_1_OC_Snaf_MeatbugSoup_Running_01_01.WAV
+			 
+				 What are you doing there?
+				 Mis_1_OC_Whistler_StealAxe_Offer_15_01.WAV
+			 
+				 I deal.
+				 Mis_1_OC_Whistler_StealAxe_Offer_03_02.WAV
+			 
+				 What with?
+				 Mis_1_OC_Whistler_StealAxe_Offer_15_03.WAV
+			 
+				 With that guy's axe. Over there, in the hut opposite.
+				 Mis_1_OC_Whistler_StealAxe_Offer_03_04.WAV
+			 
+				 It must be worth 10 Ore.
+				 Mis_1_OC_Whistler_StealAxe_Offer_03_05.WAV
+			 
+				 Why don't you get it yourself?
+				 Mis_1_OC_Whistler_StealAxe_Offer_15_06.WAV
+			 
+				 I would do it, but they think you're a digger. No-one will stop you.
+				 Mis_1_OC_Whistler_StealAxe_Offer_03_07.WAV
+			 
+				 It is different for me ....
+				 Mis_1_OC_Whistler_StealAxe_Offer_03_08.WAV
+			 
+				 Well done. You are really good for something.
+				 Mis_1_OC_Whistler_StealAxe_Success_03_01.WAV
+			 
+				 If I need your help again, I'll come back to you.
+				 Mis_1_OC_Whistler_StealAxe_Success_03_02.WAV
+			 
+				 Mis_1_OC_Whistler_StealAxe_Failure_03_01.WAV
+				 
+				 Mis_1_OC_Whistler_StealAxe_Obsolete0_03_1.WAV
+			 
+				 And what have you got for me?
+				 Mis_1_OC_Whistler_StealAxe_Running_03_01.WAV
+			 
+				 STT_309_Whistler_Trade_03_01.WAV
+			 
+				 Was macht ein Novize hier?
+				 Sit_1_NC_BaalIsidro_TooDrunkToRecruit_15_01.WAV
+			 
+				 Der Schl�fer erwache!
+				 Sit_1_NC_BaalIsidro_TooDrunkToRecruit_03_02.WAV
+			 
+				 Ich bin auf der Suche nach neuen Leuten f�r das Psi Lager. Komm zu uns Bruder!
+				 Sit_1_NC_BaalIsidro_TooDrunkToRecruit_03_03.WAV
+			 
+				 Ich glaub nicht.
+				 Sit_1_NC_BaalIsidro_TooDrunkToRecruit_15_04.WAV
+			
+				 Naja kein Wunder. Ich h�ng auch nur noch hier rum. Tausche mein Kraut gegen den Schnaps von Silas. Der ist aber auch gut, der Schnaps.
+				 Sit_1_NC_BaalIsidro_TooDrunkToRecruit_03_05.WAV
+			 
+				 Und hier dulden Dich die Leute?
+				 Sit_1_NC_BaalIsidro_TooDrunkToRecruit_15_06.WAV
+			 
+				 Fr�her gabs ein paar Auseinandersetzungen, aber inzwischen ist es so, als geh�re ich dazu. Man kann sagen, die haben mich abgeworben.
+				 Sit_1_NC_BaalIsidro_TooDrunkToRecruit_03_07.WAV
+				 
+				 Also wenn Du mal Kraut brauchst, komm zu mir.
+				 Sit_1_NC_BaalIsidro_TooDrunkToRecruit_03_08.WAV
+			 
+				 Was willst Du f�r Dein Kraut haben?
+				 Sit_1_NC_BaalIsidro_TooDrunkToRecruit_15_09.WAV
+				 
+				 Gib mir f�nf Erzbrocken oder zwei Flaschen Schnaps!
+				 Sit_1_NC_BaalIsidro_TooDrunkToRecruit_03_10.WAV
+			 
+				 Ah willst Kraut, was? Gut hier ist.
+				 Sit_1_NC_BaalIsidro_TooDrunkToRecruit_TRADE_Func1_03_01.WAV
+			 
+				 Du bist doch ein Psionikern, oder?
+				 Sit_1_NC_BaalKagan_ExplainsNC_15_01.WAV
+				 
+				 Ja, ich verk�nde die Botschaft des Schl�fers, willst Du nicht zu uns kommen? Du bist doch neu hier.
+				 Sit_1_NC_BaalKagan_ExplainsNC_13_02.WAV
+				 
+				 Du glaubst doch an die Freiheit? Dann folge mir. In unserem Lager gibt es keine Furcht und keine Schl�gereien.
+				 Sit_1_NC_BaalKagan_ExplainsNC_13_03.WAV
+				 
+				 Wir stehen f�r unsere Br�der ein. Nimm das als Zeichen unserer Gro�z�gigkeit.
+				 Sit_1_NC_BaalKagan_ExplainsNC_13_04.WAV
+			 
+				 Es gef�llt mir ganz gut hier.
+				 Sit_1_NC_BaalKagan_ExplainsNC_15_05.WAV
+			 
+				 Das glaub ich Dir, hier jemanden abzuwerben ist unm�glich. Alle die sich hier rumtreiben, wollen nur saufen, pl�ndern und sich einen lauen Lenz machen.
+				 Sit_1_NC_BaalKagan_ExplainsNC_13_06.WAV
+			 
+				 Kann ich nachvollziehen.
+				 Sit_1_NC_BaalKagan_ExplainsNC_15_07.WAV
+			
+				 Wenn Du Dir doch mal das Psi Lager ansehen willst, dann komm ruhig zu mir.
+				 Sit_1_NC_BaalKagan_ExplainsNC_13_08.WAV
+			 
+				 Willst Du mit ins PsiLager kommen?
+				 Sit_1_NC_BaalKagan_ExplainsNC2_13_01.WAV
+			
+				 Wollte nur ein wenig Kraut, aber nicht gleich euch beitreten.
+				 Sit_1_NC_BaalKagan_ExplainsNC2_15_01.WAV
+				 
+				 Auch Du wirst irgendwann den richtigen Weg erkennen.
+				 Sit_1_NC_BaalKagan_ExplainsNC2_13_02.WAV
+				 
+				 Ihr S�ldner bewacht den Erzhaufen?
+				 Sit_1_NC_Blade_TeachBuster_15_01.WAV
+			 
+				 Ja, der Erzhaufen ist das wichtigste hier, er ist das Herz des Neuen Lagers. Den Haufen haben wir f�r die Magier angesammelt.
+				 Sit_1_NC_Blade_TeachBuster_11_02.WAV
+			 
+				 Sie haben Euch eingesperrt und ihr lasst sie hier wohnen und sammelt Erz f�r sie?
+				 Sit_1_NC_Blade_TeachBuster_15_03.WAV
+			 
+				 Nicht nur das, wir sch�tzen sie sogar, denn die Magier sind die einzigen die uns hier wieder rausbringen k�nnen.
+				 Sit_1_NC_Blade_TeachBuster_11_04.WAV
+			
+				 Und wie wollen sie das machen?
+				 Sit_1_NC_Blade_TeachBuster_15_05.WAV
+			 
+				 Sie haben die Barriere hochgezogen, sie werden sie auch wieder zerst�ren.
+				 Sit_1_NC_Blade_TeachBuster_11_06.WAV
+			 
+				 Du geh�rst jetzt zu den S�ldnern?
+				 Sit_1_NC_Blade_TeachBuster2_15_01.WAV
+				 
+				 Gute Sache das. Ich bin seit zwei Jahren dabei und nun hab ich es geschafft!
+				 Sit_1_NC_Blade_TeachBuster2_13_02.WAV
+			 
+				 Was hast Du alles daf�r gemacht?
+				 Sit_1_NC_Blade_TeachBuster2_15_03.WAV
+			 
+				 Hier und da immer wieder ein paar Auftr�ge von Lares �bernommen.
+				 Sit_1_NC_Blade_TeachBuster2_13_04.WAV
+			 
+				 Hab das Alte Lager besucht, meine Ohren aufgehalten und mir erstmal den Respekt der Banditen verdient. Und nat�rlich viel trainiert.
+				 Sit_1_NC_Blade_TeachBuster2_13_05.WAV
+			
+				 Und jetzt springst Du f�r Lee durch den brennenden Reifen?!
+				 Sit_1_NC_Blade_TeachBuster2_15_06.WAV
+				 
+				 Ich glaube an Lee. Seine Jungs halten zusammen wie Pech und Schwefel, das ist besser als sich die ganze Zeit alleine durchzusschlagen.
+				 Sit_1_NC_Blade_TeachBuster2_13_07.WAV
+			 
+				 Du geh�rst auch zu Lees Leuten.
+				 Sit_1_NC_Cord_TrainFighters_15_01.WAV
+			 
+				 Ich bin mit Lee zusammen, seit ich hier bin. Wir kennen uns noch aus der Zeit von draussen. Ich habe die Geschichte, warum er hier gelandet ist damals mitbekommen.
+				 Sit_1_NC_Cord_TrainFighters_14_02.WAV
+			 
+				 Du warst in der Armee, stimmts?
+				 Sit_1_NC_Cord_TrainFighters_15_03.WAV
+			
+				 Richtig. ich z�hlte zum Stab des K�nigs. Ich h�rte wie sie dar�ber redeten Lee aus dem Weg zu schaffen. Lee hatte keine Chance. Ich wollte f�r ein sprechen, aber es hat nichts genutzt.
+				 Sit_1_NC_Cord_TrainFighters_14_04.WAV
+				 
+				 Als die Verr�ter mitbekamen, das ich f�r Lee sprechen wollte, haben sie mich wegen eines geringen Vergehens drangekriegt. Nur wenig sp�ter brachten sie mich auch zur Klippe.
+				 Sit_1_NC_Cord_TrainFighters_14_05.WAV
+				 
+				 Verdammt sei der Tag an dem sie geboren wurden.
+				 Sit_1_NC_Cord_TrainFighters_14_06.WAV
+			 
+				 Lee will sich r�chen.
+				 Sit_1_NC_Cord_TrainFighters_15_07.WAV
+			 
+				 Das ist sein Ding. Ich mach das hier nicht f�r Lee. Ich mache das nicht f�r die Magier. Ich mache das nur f�r mich.
+				 Sit_1_NC_Cord_TrainFighters_14_08.WAV
+				 
+				 Sicher hast Du schon einiges von der Barriere geh�rt.
+				 Sit_1_NC_Cronos_ExplainMagicBarrier_04_01.WAV
+			 
+				 Genug um zu wissen, dass ihr sie erschaffen habt.
+				 Sit_1_NC_Cronos_ExplainMagicBarrier_15_02.WAV
+				 
+				 Ja, das stimmt, aber es war nicht unser Plan, dass die Barriere solche Ausmasse annimmt.
+				 Sit_1_NC_Cronos_ExplainMagicBarrier_04_03.WAV
+			 
+				 Und es war auch nicht Euer Plan das ihr mit drin h�ngt.
+				 Sit_1_NC_Cronos_ExplainMagicBarrier_15_04.WAV
+			 
+				 Stimmt und niemand wei�, was damals schief gelaufen ist. Seitdem arbeiten wir an einem Plan der uns alle hier rausholt.
+				 Sit_1_NC_Cronos_ExplainMagicBarrier_04_05.WAV
+			
+				 Wir forschen mit dem magischen Erz, wenn es uns gelingt die magische Kraft zu fokussieren und zu entz�nden, dann kann diese freigesetzte Energie die Barriere zerst�ren.
+				 Sit_1_NC_Cronos_ExplainMagicBarrier_04_06.WAV
+				 
+				 Die Feuermagiern, forschen die auch?
+				 Sit_1_NC_Cronos_ExplainMagicBarrier2_15_01.WAV
+			 
+				 Wir sind verb�ndet, arbeiten aber nicht mit ihnen zusammen. W�hrend wir uns um die Forschung k�mmern, sorgen sie daf�r, dass das K�nigreich mit Erz versorgt wird.
+				 Sit_1_NC_Cronos_ExplainMagicBarrier2_04_02.WAV
+			 
+				 Dann arbeiten sich die Feuermagier nicht gerade tod.
+				 Sit_1_NC_Cronos_ExplainMagicBarrier2_15_03.WAV
+			 
+				 Sie k�mmern sich auch um die Erzbarone und die Lager. Zusammen sorgen wir daf�r, dass die Lager einander nicht angreifen. Wir sorgen f�r Ruhe.
+				 Sit_1_NC_Cronos_ExplainMagicBarrier2_04_04.WAV
+			 
+				 Unter ruhig stell ich mir was anderes vor.
+				 Sit_1_NC_Cronos_ExplainMagicBarrier2_15_05.WAV
+			 
+				 Dann kannst Du Dir ja vorstellen, wie es hier ohne uns aussehen w�rde.
+				 Sit_1_NC_Cronos_ExplainMagicBarrier2_04_06.WAV
+			 
+				 Sieh mal einer an. Wen haben wir denn da?
+				 Sit_1_NC_Drax_RememberLostRaid_06_01.WAV
+			 
+				 Der stumme Killer. Was treibt Dich her ? Bist stumm wie ein Fisch..he?
+				 Sit_1_NC_Drax_RememberLostRaid_06_02.WAV
+				 
+				 Ein frischer Fisch.wo hast Du Dein Kinderm�dchen gelassen Fisch? Den werde ich mir auch noch vorkn�pfen. Aber erst zu Dir!
+				 Sit_1_NC_Drax_RememberLostRaid_06_03.WAV
+				 
+				 Das war sehr dumm von Dir hier her zu kommen, Fisch.
+				 Sit_1_NC_Drax_RememberLostRaid_06_04.WAV
+			 
+				 Jetzt wird abgerechnet!
+				 Sit_1_NC_Drax_RememberLostRaid_06_05.WAV
+			 
+				 Da bist Du ja, gute Entscheidung hier her zu kommen.
+				 Sit_1_NC_Fox_ExplainsNC_07_01.WAV
+			 
+				 Du wolltest mir ein paar Leute vorstellen.
+				 Sit_1_NC_Fox_ExplainsNC_15_02.WAV
+			 
+				 Richtig. Also da gibts zum einen Lee. Von Lee hast Du bestimmt schon geh�rt, er ist hier der Anf�hrer. Ihm unterstehen die S�ldner und er glaubt auch an den Plan der Wassermagier.
+				 Sit_1_NC_Fox_ExplainsNC_07_03.WAV
+			 
+				 Dann gibts noch Torlof. Wenn Du mal ein Problem hast, geh zu ihm. Er vermittelt zwischen uns und Lees Leuten. Vielleicht hat er auch ein paar Sachen f�r Dich zu tun.
+				 Sit_1_NC_Fox_ExplainsNC_07_04.WAV
+			 
+				 Lares ist der Mann mit dem Plan, wenn es jemanden gibt, der die guten Ideen hat wie etwas zu organisieren ist, dann ist es Lares.Er hat ein Auge f�r gute Leute.
+				 Sit_1_NC_Fox_ExplainsNC_07_05.WAV
+			
+				 Also wenn Du Dir hier im Lager einen Namen machen willst, halte Dich an das, was Lares sagt.
+				 Sit_1_NC_Fox_ExplainsNC_07_06.WAV
+			 
+				 Ricelord tyrannisiert die Bauern. Sie wehren sich nicht, weil sie Angst vor ihm und seinen Jungs haben.
+				 Sit_1_NC_Fox_ExplainsNC1_07_01.WAV
+			 
+				 Er kontrolliert die Reisverteilung, aber in meinen Augen ist er nichts weiter als ein Schw�chling.
+				 Sit_1_NC_Fox_ExplainsNC1_07_02.WAV
+				 
+				 Warum unternimmt niemand etwas?
+				 Sit_1_NC_Fox_ExplainsNC1_15_03.WAV
+			 
+				 Die Frage ist nicht wieso unternimmt niemand etwas, die Frage ist viel mehr, warum sollte jemand etwas unternehmen? Die Bauern arbeiten und wir bekommen was zu Essen.
+				 Sit_1_NC_Fox_ExplainsNC1_07_04.WAV
+				 
+				 Wolf ist unser bester J�ger. Nachts treibt er sich in den W�ldern rum.
+				 Sit_1_NC_Fox_ExplainsNC2_07_01.WAV
+			 
+				 Er ist ziemlich verschlossen, aber er wei� ne ganze Menge �ber Jagd und Viecher.
+				 Sit_1_NC_Fox_ExplainsNC2_07_02.WAV
+			 
+				 Du bist doch der Neue, von dem mir Diego erz�hlt hat, hast Du es endlich ins Neue Lager geschafft.
+				 Sit_1_NC_Gorn_Explains4FriendsAndLee_09_01.WAV
+			 
+				 Ja, wollte mich mal umschauen.
+				 Sit_1_NC_Gorn_Explains4FriendsAndLee_15_02.WAV
+				 
+				 Tu das.
+				 Sit_1_NC_Gorn_Explains4FriendsAndLee_09_03.WAV
+			 
+				 Sag mal, was meint Lee dazu, dass Du Dich mit einem Schatten abgibst?
+				 Sit_1_NC_Gorn_Explains4FriendsAndLee_15_04.WAV
+			 
+				 Hahaha. Er sagt nicht viel, weil er wei�, dass er sich auf mich verlassen kann. Und er wei� auch, dass ich ihm nicht bis in den Tod folgen w�rde.
+				 Sit_1_NC_Gorn_Explains4FriendsAndLee_09_05.WAV
+			 
+				 Au�erdem geb ich mich nicht nur mit Diego ab, es gibt noch 2 Jungs, die Du nicht kennst.
+				 Sit_1_NC_Gorn_Explains4FriendsAndLee_09_06.WAV
+			 
+				 Und wer ist das?
+				 Sit_1_NC_Gorn_Explains4FriendsAndLee_15_07.WAV
+			 
+				 Warte es nur ab, Du wirst sie noch fr�h genug treffen. Bis dahin, lass Dich nicht umbringen.
+				 Sit_1_NC_Gorn_Explains4FriendsAndLee_09_08.WAV
+			 
+				 Bist Du Lees Wache oder warum stehst Du hier rum?
+				 Sit_1_NC_Grunt_GuardLeesCave_15_01.WAV
+				 
+				 Genau. Glaub mal es gibt genug Leute, die Lee an den Kragen wollen.
+				 Sit_1_NC_Grunt_GuardLeesCave_09_02.WAV
+			 
+				 Hey, ich geh�re bestimmt nicht dazu.
+				 Sit_1_NC_Grunt_GuardLeesCave_15_03.WAV
+				 
+				 Das freut mich. Vielleicht geh�rst Du ja auch bald zu den S�ldnern?
+				 Sit_1_NC_Grunt_GuardLeesCave_09_04.WAV
+			 
+				 Vielleicht.
+				 Sit_1_NC_Grunt_GuardLeesCave_15_05.WAV
+			 
+				 Kannst Du k�mpfen?
+				 Sit_1_NC_Grunt_GuardLeesCave_09_06.WAV
+			 
+				 Ich habe schon so manchen Kampf bestritten.
+				 Sit_1_NC_Grunt_GuardLeesCave_FuncYes_15_01.WAV
+				 
+				 Hoffentlich hast Du draus gelernt, gute K�mpfer k�nnen wir brauchen.
+				 Sit_1_NC_Grunt_GuardLeesCave_FuncYes_09_02.WAV
+			 
+				 Bin bisher ohne diese Kunst ausgekommen.
+				 Sit_1_NC_Grunt_GuardLeesCave_FuncNo_15_01.WAV
+			 
+				 Dann solltest Du anfangen es zu lernen
+				 Sit_1_NC_Grunt_GuardLeesCave_FuncNo_09_02.WAV
+			 
+				 Hey, was macht ein Kerl wie Du bei den Bauern? W�rst Du nicht besser bei den S�ldnern aufgehoben?
+				 Sit_1_NC_Horatio_TellshisStory_15_01.WAV
+			 
+				 Nun, Orik hat das auch gesagt, aber ich k�mpfe nicht mehr.
+				 Sit_1_NC_Horatio_TellshisStory_09_02.WAV
+				 
+				 Warum nicht?
+				 Sit_1_NC_Horatio_TellshisStory_15_03.WAV
+			 
+				 Ich habe geschworen, dass ich nicht mehr k�mpfe. Ich habe einmal get�tet, das war einmal zuviel.
+				 Sit_1_NC_Horatio_TellshisStory_09_04.WAV
+			 
+				 Bist Du deshalb hier?
+				 Sit_1_NC_Horatio_TellshisStory_15_05.WAV
+			 
+				 Ja. Ich liebte eine Frau, eines Nachts erwichte ich sie mit einem anderen.
+				 Sit_1_NC_Horatio_TellshisStory_09_06.WAV
+			 
+				 Und Du hast ihn angegriffen.
+				 Sit_1_NC_Horatio_TellshisStory_15_07.WAV
+			 
+				 Ich hab ihn totgeschlagen. Nun, das ist lange her.Ich k�mmere mich jetzt um die Reisfelder.
+				 Sit_1_NC_Horatio_TellshisStory_09_08.WAV
+				 
+				 Aber warum?
+				 Sit_1_NC_Horatio_TellshisStory_15_09.WAV
+				 
+				 Das will ich Dir sagen: Im Alten Lager h�tte ich keine Ruhe vor den Gardisten, aber die S�ldner und Banditen haben Respekt.
+				 Sit_1_NC_Horatio_TellshisStory_09_10.WAV
+			 
+				 Sie f�rchten Dich.
+				 Sit_1_NC_Horatio_TellshisStory_15_11.WAV
+			 
+				 Kann schon sein, aber wenigstens lassen sich mich in Ruhe.
+				 Sit_1_NC_Horatio_TellshisStory_09_12.WAV
+			 
+				 Bist Du sicher, das Du durch dieses Tor gehen willst?
+				 Sit_1_NC_Jarvis_CompareNCtoOC_08_01.WAV
+			 
+				 Willst Du mich aufhalten?
+				 Sit_1_NC_Jarvis_CompareNCtoOC_15_02.WAV
+			 
+				 Nein, aber Du solltest wissen was Dich erwartet. Das l�uft hier nicht so wie im Alten Lager und erst Recht nicht wie bei den Sektenspinnern!
+				 Sit_1_NC_Jarvis_CompareNCtoOC_08_03.WAV
+				 
+				 Und wie l�uft es hier?
+				 Sit_1_NC_Jarvis_CompareNCtoOC_15_04.WAV
+			 
+				 Unser Ziel ist es, hier auszubrechen. Wir arbeiten hart daf�r. Wir wollen uns hier keinen Lenz machen, wie die Lumpen aus dem Alten Lager, die sich nur auf den Schultern der Buddler ausruhen.
+				 Sit_1_NC_Jarvis_CompareNCtoOC_08_05.WAV
+			 
+				 Aber genau das wollen die Banditen. Sie k�mmern sich keinen Deut um das Lager. Ich w�rde sie nicht mal das Vortor bewachen lassen, wahrscheinlich w�re es sinnvoller, dort ein paar Bauern hinzustellen.
+				 Sit_1_NC_Jarvis_CompareNCtoOC_08_06.WAV
+			 
+				 Du verl�sst dich nicht auf die Bande?
+				 Sit_1_NC_Jarvis_CompareNCtoOC_15_07.WAV
+			 
+				 Junge, ich traue ihn nicht weiter als ich sie werfen kann. Diese faulen S�cke haben nur Mist im Kopf  oder sind den ganzen Tag besoffen.
+				 Sit_1_NC_Jarvis_CompareNCtoOC_08_08.WAV
+				 
+				 Aber ihr lebt mit ihnen zusammen.
+				 Sit_1_NC_Jarvis_CompareNCtoOC_15_09.WAV
+			 
+				 Wenn du einen Rat willst, schlaf lieber mit dem R�cken zur Wand!
+				 Sit_1_NC_Jarvis_CompareNCtoOC_08_10.WAV
+			 
+				 Sie k�mpfen nicht gut, das versuchen sie durch Hinterlist auszugleichen. Was sie zu einer Gefahr macht. Sei also wachsam!
+				 Sit_1_NC_Jarvis_CompareNCtoOC_08_11.WAV
+			 
+				 Danke f�r die Warnung. Wir sehen uns noch.
+				 Sit_1_NC_Jarvis_CompareNCtoOC_15_12.WAV
+				 
+				 Pass auf Deinen R�cken auf!
+				 Sit_1_NC_Jarvis_CompareNCtoOC_08_13.WAV
+			 
+				 Vom Schnaps brennen kann man bestimmt gut leben.
+				 Sit_1_NC_Jeremiah_ExplainBoozeForOre_15_01.WAV
+				 
+				 Hey das ganze ist f�r nen guten Zweck.
+				 Sit_1_NC_Jeremiah_ExplainBoozeForOre_04_02.WAV
+				 
+				 Die Sch�rfer k�nnen ihr Erz gegen Schnaps eintauschen. Und das Erz wandert dann nat�rlich auf den Erzhaufen.
+				 Sit_1_NC_Jeremiah_ExplainBoozeForOre_04_03.WAV
+				 
+				 Nat�rlich wandert das GANZE(Ironie) Erz auf den Haufen.
+				 Sit_1_NC_Jeremiah_ExplainBoozeForOre_15_04.WAV
+				 
+				 Selbstverst�ndlich.(grins)Also wenn Du was zu der guten Sache beitragen willst, dann bekommst Du sogar Schnaps daf�r!
+				 Sit_1_NC_Jeremiah_ExplainBoozeForOre_04_05.WAV
+			 
+				 Silas brennt ziemlich kr�ftigen Reisschnaps!
+				 Sit_1_NC_Jeremiah_ExplainBoozeForOre_15_06.WAV
+			 
+				 Da kann man sein Erz wenigstens sinnvoll ausgeben!
+				 Sit_1_NC_Jeremiah_ExplainBoozeForOre_04_07.WAV
+			 
+				 Was ist denn, ich hoffe es ist wichtig!
+				 Sit_1_NC_Lares_BringList_Info_Info_11_01.WAV
+			 
+				 Schau Dir das mal an.
+				 Sit_1_NC_Lares_BringList_FuncYes_15_01.WAV
+			 
+				 Das ist ja die Bedarfsliste!
+				 Sit_1_NC_Lares_BringList_FuncYes_11_02.WAV
+			 
+				 Ja, was w�re sie Dir wert?
+				 Sit_1_NC_Lares_BringList_FuncYes_15_03.WAV
+			 
+				 10 Erz, nicht mehr.
+				 Sit_1_NC_Lares_BringList_FuncYes_11_04.WAV
+			 
+				 Gut, gib her.
+				 Sit_1_NC_Lares_BringList_1FuncYes_15_01.WAV
+			 
+				 Jetzt zeig aber mal her...Ah! interessant...es w�rde sich ja echt lohnen den Convoy zu �berfallen. Hehehe, dass wird Lee nicht gefallen.
+				 Sit_1_NC_Lares_BringList_1FuncYes_11_02.WAV
+				 
+				 Hier kannst sie wieder haben. Bring sie ins Alte Lager, bevor die etwas merken.
+				 Sit_1_NC_Lares_BringList_1FuncYes_11_03.WAV
+			 
+				 Bevor Du verschwindest, so einen wie Dich k�nnten wir hier gebrauchen.
+				 Sit_1_NC_Lares_BringList_1FuncYes_11_04.WAV
+				 
+				 Denkst Du ich wei� nicht, was die Liste wert ist, ich will mindestens 15 Erz.
+				 Sit_1_NC_Lares_BringList_FuncNo_15_01.WAV
+				 
+				 Du hast Schnitt, das gef�llt mir, Du sollst Deine 15 Erz bekommen.
+				 Sit_1_NC_Lares_BringList_FuncNo_11_02.WAV
+			 
+				 Jetzt zeig aber mal her...Ah! interessant...es w�rde sich ja echt lohnen den Convoy zu �berfallen. Hehehe, das wird Lee(Thorus???) nicht gefallen.
+				 Sit_1_NC_Lares_BringList_FuncNo_11_03.WAV
+				 
+				 Hier kannst sie wieder haben. Bring sie ins Alte Lager, bevor die etwas merken.
+				 Sit_1_NC_Lares_BringList_FuncNo_11_04.WAV
+			 
+				 Bevor Du verschwindest, la� Dir gesagt sein, so einen wie Dich k�nnten wir hier gebrauchen.
+				 Sit_1_NC_Lares_BringList_FuncNo_11_05.WAV
+				 
+				 Dann verschwinde, bevor ich noch w�tend werde!
+				 Sit_1_NC_Lares_BringList_1FuncNo_11_01.WAV
+			 
+				 Hey was denkst Du wo Du hin willst.
+				 Sit_1_NC_Lares_BringList_Info2_Info_10_01.WAV
+			 
+				 Ich will zu Lares.
+				 Sit_1_NC_Lares_BringList_Info2_Info_15_02.WAV
+			 
+				 Da musst Du zuerst an mir vorbei, wenn Du keinen guten Grund hast, verschwindest Du am besten.
+				 Sit_1_NC_Lares_BringList_Info2_Info_10_03.WAV
+			 
+				 Wow, das ist ja die Bedarfsliste des Alten Lagers. Gib sie mir, ich werde sie Lares geben.
+				 Sit_1_NC_Lares_BringList_2FuncYes_10_01.WAV
+				 
+				 WAS?!
+				 Sit_1_NC_Lares_BringList_2FuncYes_15_02.WAV
+			 
+				 Du kannst mir vertrauen, gib schon her.
+				 Sit_1_NC_Lares_BringList_2FuncYes_10_03.WAV
+			 
+				 Ich muss mit Lares reden und wenn Du mich nicht vorbei l�sst, wir ihm das nicht gefallen.
+				 Sit_1_NC_Lares_BringList_2FuncNo_15_01.WAV
+			 
+				 Ist das so? Na dann lasse ich Dich durch, merk Dir aber, das mache ich nur heute.
+				 Sit_1_NC_Lares_BringList_2FuncNo_10_02.WAV
+			 
+				 Einverstanden, hier hast Du sie.
+				 Sit_1_NC_Lares_BringList_3FuncYes_15_01.WAV
+			 
+				 Hehehe, Du kannst jetzt gehen.
+				 Sit_1_NC_Lares_BringList_3FuncYes_10_02.WAV
+			 
+				 Ich br�uchte die Liste aber wieder, nachdem sie Lares gesehen hat.
+				 Sit_1_NC_Lares_BringList_3FuncYes_15_03.WAV
+			 
+				 Also eines ist sicher, Lares wird die Liste nie zu Gesicht bekommen und jetzt mach das Du Land gewinnst.
+				 Sit_1_NC_Lares_BringList_3FuncYes_10_04.WAV
+			 
+				 Vergiss es.
+				 Sit_1_NC_Lares_BringList_3FuncNo_15_01.WAV
+			 
+				 Vergiss DU es, so lasse ich Dich hier nicht vorbei.
+				 Sit_1_NC_Lares_BringList_3FuncNo_10_02.WAV
+			 
+				 Sag mal, verfolgst Du mich?
+				 Sit_1_NC_Lares_BringList_Info2_Info_15_01.WAV
+				 
+				 Ach Quatsch, ich passe nur auf, das Dir nix passiert.
+				 Sit_1_NC_Lares_BringList_Info2_Info_11_02.WAV
+				 
+				 (ver�chtlich) Das ist aber freundlich von Dir.
+				 Sit_1_NC_Lares_BringList_Info2_Info_15_03.WAV
+			 
+				 Ich wei�. Wie ich sehe hast Du tats�chlich die Liste bekommen, ich glaube, Du wei�t gar nicht, was die wert ist.
+				 Sit_1_NC_Lares_BringList_Info2_Info_11_04.WAV
+				 
+				 Ich wei� nur, dass sie nicht ins Neue Lager soll.
+				 Sit_1_NC_Lares_BringList_Info2_Info_15_05.WAV
+			 
+				 Ja, die sind ganz scharf auf solche Sachen, vor allem Lares, der und seine Kumpels �berfallen immer die Convoys von uns.
+				 Sit_1_NC_Lares_BringList_Info2_Info_11_06.WAV
+				 
+				 Also pass auf, dass die die Liste nicht in die H�nde bekommen.
+				 Sit_1_NC_Lares_BringList_Info2_Info_11_07.WAV
+				 
+				 Damals... f�hrte ich ein anderes Leben.
+				 Sit_1_NC_Lee_Dam_08_01.WAV
+			 
+				 Am Hof des K�nigs versah ich als Anf�hrer der Leibgarde des K�nigs meinen Dienst... �ber viele Jahre.
+				 Sit_1_NC_Lee_Dam_08_02.WAV
+			 
+				 In einer st�rmischen Nacht meldete die Garde am Tor einen berittenen Boten, gesandt vom Grafen zu Meidheim.
+				 Sit_1_NC_Lee_Dam_08_03.WAV
+				 
+				 Ich f�hrte den Boten in den Thronraum und �bergab ihn der anwesenden Saalwache.
+				 Sit_1_NC_Lee_Dam_08_04.WAV
+			
+				 Als ich den Hof nur wenige Momente sp�ter �berquerte, fand ich eine Schriftrolle,
+				 Sit_1_NC_Lee_Dam_08_05.WAV
+				 
+				 Sie lag unversiegelt im Schlamm des Stalles.
+				 Sit_1_NC_Lee_Dam_08_06.WAV
+				 
+				 Ich b�ckte mich nach der Rolle und warf einen Blick darauf.
+				 Sit_1_NC_Lee_Dam_08_07.WAV
+			 
+				 Es war eine Botschaft des Grafen zu Meidheim an den K�nig.
+				 Sit_1_NC_Lee_Dam_08_08.WAV
+			 
+				 Ich war Entsetzt. Der Inhalt w�rde nicht nur des Grafen Kopf kosten!
+				 Sit_1_NC_Lee_Dam_08_09.WAV
+			 
+				 Noch als ich die Mitteilung mit offenem Mund und ungl�ubig in meiner Hand hielt, h�rte ich die Rufe des Boten.
+				 Sit_1_NC_Lee_Dam_08_10.WAV
+			 
+				 "Wachen! Ergreift ihn!"
+				 Sit_1_NC_Lee_Dam_08_11.WAV
+			 
+				 Meine Wachen n�herten sich z�gerlich. Ich folgte ihnen und sie f�hrten mich zum K�nig.
+				 Sit_1_NC_Lee_Dam_08_12.WAV
+				 
+				 Man beschuldigte mich des Verrats und brachte mich hierher, hinter die Barriere. So glaubten sie, mich zum Schweigen gebracht zu haben.
+				 Sit_1_NC_Lee_Dam_08_13.WAV
+				 
+				 Nur meine jahrelange Treue gegen�ber dem K�nig rettete mir das Leben, doch f�r seine Intrige mu�te ich meine Freiheit lassen.
+				 Sit_1_NC_Lee_Dam_08_14.WAV
+			 
+				 Seitdem habe ich nur ein Ziel. Ich werde diese Barriere verlassen und Rache nehmen.
+				 Sit_1_NC_Lee_Dam_08_15.WAV
+			 
+				 Ich wei� es. Ich werde mich r�chen.
+				 Sit_1_NC_Lee_Dam_08_16.WAV
+				 
+				 Du hast nicht zuf�llig eine Buddel dabei, nein?
+				 Sit_1_NC_Marvin_DrunkenHealer_12_01.WAV
+				 
+				 Nein und ich glaube Du hast auch genug.
+				 Sit_1_NC_Marvin_DrunkenHealer_15_02.WAV
+			 
+				 Z�gel Deine Zunge. Du sprichst mit Marvin dem Heiler.DEM Heiler. Dem einzigen hier.
+				 Sit_1_NC_Marvin_DrunkenHealer_12_03.WAV
+			 
+				 Also wenn Du mir Schnaps besorgst, dann helfe ich Dir, wenn Du mal verletzt bist. Ansonsten kannst Du nat�rlich auch Heiltr�nke bei mir bekommen. F�r nur ..�h..10 Erz.
+				 Sit_1_NC_Marvin_DrunkenHealer_12_04.WAV
+				 
+				 Ahhhhh, das ist gut, hier hast Du den Heiltrank, wenn Du mehr brauchst, wei�t Du ja wo Du mich findest.
+				 Sit_1_NC_Marvin_DrunkenHealer_TRADE_Func1_03_01.WAV
+				 
+				 Hey, Dich hab ich doch schon mal gesehen?
+				 Sit_1_NC_Orik_ExplainMercsAndMages_06_01.WAV
+				 
+				 Unten am Tor. Du hattest Probleme mit den Wachen
+				 Sit_1_NC_Orik_ExplainMercsAndMages_15_02.WAV
+			 
+				 Wer bist Du?
+				 Sit_1_NC_Orik_ExplainMercsAndMages_06_03.WAV
+			 
+				 In Deinen Augen wohl nicht mehr als Futter oder Frischfleisch.
+				 Sit_1_NC_Orik_ExplainMercsAndMages_15_04.WAV
+			 
+				 Hast Du gedient?
+				 Sit_1_NC_Orik_ExplainMercsAndMages_06_05.WAV
+				 
+				 Nein, aber wenn diese Sache nicht dazwischen gekommen w�re, h�tten sie mich bestimmt zu den Grenzkriegen geschickt.
+				 Sit_1_NC_Orik_ExplainMercsAndMages_15_06.WAV
+				 
+				 Davon kannst Du ausgehen. Ich bin Orik, Chef der S�ldner. Meine Jungs hier sind alles ehemalige Armeesoldaten, S�ldner und Deserteure. Gute Jungs.
+				 Sit_1_NC_Orik_ExplainMercsAndMages_06_07.WAV
+				 
+				 Die S�ldner bewachen das Lager?
+				 Sit_1_NC_Orik_ExplainMercsAndMages_15_08.WAV
+			 
+				 Wir sch�tzen das Erz und die Wassermagier. Die Magier k�nnen wohl auf sich selbst aufpassen, aber niemand geht ans Erz.
+				 Sit_1_NC_Orik_ExplainMercsAndMages_06_09.WAV
+			 
+				 Wozu sammelt ihr das Erz?
+				 Sit_1_NC_Orik_ExplainMercsAndMages_15_10.WAV
+			 
+				 Um hier rauszukommen. Die Magier brauchen die magische Kraft des Erz, um damit die verdammte Barriere zu zerst�ren. Damit wird es zum wichtigsten Besitz f�r uns. Also halt Dich fern vom Erzhaufen.
+				 Sit_1_NC_Orik_ExplainMercsAndMages_06_11.WAV
+				 
+				 Wie lange wird es noch dauern, bis der Haufen gro� genug ist?
+				 Sit_1_NC_Orik_ExplainMercsAndMages_15_12.WAV
+			 
+				 Die Magier arbeiten jeden Tag an ihrer Forschung, wie sie die Barriere mit dem Erz knacken k�nnen. Bis sie soweit sind, wird soviel Erz aus der Freien Mine gesch�rft, wie m�glich. Da ist jede Hand gefragt.
+				 Sit_1_NC_Orik_ExplainMercsAndMages_06_13.WAV
+			 
+				 Mein Werkzeug ist das Schwert nicht die Hacke.
+				 Sit_1_NC_Orik_ExplainMercsAndMages_15_14.WAV
+				 
+				 Dann solltest Du Dich uns anschlie�en, wir k�nnen gute M�nner brauchen.Also lass Dich nicht fertig machen.Wenn Du lange genug lebst, kriegst Du vielleicht ne Chance...
+				 Sit_1_NC_Orik_ExplainMercsAndMages_06_15.WAV
+				 
+				 Ich denk dran.
+				 Sit_1_NC_Orik_ExplainMercsAndMages_15_16.WAV
+				 
+				 Sch�n mal wieder ein neues Gesicht zu sehen.
+				 Sit_1_NC_Pock_ExplainPeasents_04_01.WAV
+			 
+				 Du scheinst ja nicht mehr taufrisch zu sein.
+				 Sit_1_NC_Pock_ExplainPeasents_15_02.WAV
+				 
+				 Stimmt, bin schon l�nger hier drin.
+				 Sit_1_NC_Pock_ExplainPeasents_04_03.WAV
+				 
+				 Dann weisst Du bestimmt ne Menge �ber das Gef�ngnis?
+				 Sit_1_NC_Pock_ExplainPeasents_15_04.WAV
+			 
+				 Tja wie mans nimmt, die meiste Zeit verbringe ich hier beim Reispfl�cken.
+				 Sit_1_NC_Pock_ExplainPeasents_04_05.WAV
+			 
+				 Klingt ja hoch interessant.
+				 Sit_1_NC_Pock_ExplainPeasents_15_06.WAV
+			 
+				 Nur dadurch bin ich so alt geworden. Wir bekommen etwas Reis ab und vielleicht mal Schnaps, nicht viel aber es reicht.
+				 Sit_1_NC_Pock_ExplainPeasents_04_07.WAV
+			 
+				 Und weshalb bist Du hier?
+				 Sit_1_NC_Pock_ExplainPeasents_15_08.WAV
+			 
+				 Die Steuern, mein Junge, die Steuern. Die Scheune so leer wie der Bauch, da konnte ich nicht mehr zahlen.
+				 Sit_1_NC_Pock_ExplainPeasents_04_09.WAV
+			 
+				 Irgendwann kamen die Soldaten und brachten mich her und hier ist es nicht schlechter als draussen. Ich werde wenigstens nicht vor Hunger sterben.
+				 Sit_1_NC_Pock_ExplainPeasents_04_10.WAV
+				 
+				 Komm mal r�ber, Mann!
+				 Sit_1_NC_Ratford_WantsDrugs_07_01.WAV
+			 
+				 Na los Frischfleisch! Schwing die Hufe!
+				 Sit_1_NC_Ratford_WantsDrugs_07_02.WAV
+				 
+				 Hast Du ein Problem mit Frischfleisch?
+				 Sit_1_NC_Ratford_WantsDrugs_15_03.WAV
+			 
+				 Du hast doch gerade mit Baal Gak..KaalBaka..., mit dem Novizen geredet. Der hat Dir doch bestimmt was Leckeres gegeben. Wie w�rs wenn wir das teilen?
+				 Sit_1_NC_Ratford_WantsDrugs_07_04.WAV
+			 
+				 Ich glaube nicht.
+				 Sit_1_NC_Ratford_WantsDrugs_15_05.WAV
+			 
+				 Gut. Dann nehm ich halt alles, also Deine letzte Chance,sonst schneide ich Dir meinen Namen ins Fleisch!
+				 Sit_1_NC_Ratford_WantsDrugs_07_06.WAV
+				 
+				 Schon gut, schon gut.
+				 Sit_1_NC_Ratford_WantsDrugs_FuncYes_15_01.WAV
+			 
+				 Los gib schon her.
+				 Sit_1_NC_Ratford_WantsDrugs_FuncYes_07_02.WAV
+				 
+				 Hier hast Du's....
+				 Sit_1_NC_Ratford_WantsDrugs_FuncYes_15_03.WAV
+				 
+				 Warum nicht gleich so Kleiner, ich dachte schon Du willst eine Abreibung.
+				 Sit_1_NC_Ratford_WantsDrugs_FuncYes_07_04.WAV
+				 
+				 R�ck schon raus damit.
+				 Sit_1_NC_Ratford_WantsDrugs_FuncYes_07_05.WAV
+				 
+				 Das ist alles was ich habe.
+				 Sit_1_NC_Ratford_WantsDrugs_FuncYes_15_06.WAV
+			 
+				 Willst Du mich verarschen? Ich glaube ich muss Dir zeigen, was mit Leuten passiert, die mich verarschen wollen.
+				 Sit_1_NC_Ratford_WantsDrugs_FuncYes_07_07.WAV
+			 
+				 Du muss Dir das Zeug schon von mir holen!
+				 Sit_1_NC_Ratford_WantsDrugs_FuncNo_15_01.WAV
+			 
+				 Fahr zur H�lle,Bastard!
+				 Sit_1_NC_Ratford_WantsDrugs_FuncNo_07_02.WAV
+			 
+				 Du bist hier also der Oberbauer?
+				 Sit_1_NC_Ricelord_DrivesRicePickers_15_01.WAV
+			 
+				 Ein Neuer, sieh an. Ich versorge das Lager mit Nahrung. Wenn Du was zu Essen willst, dann arbeite daf�r, genau wie wir alle hier, dann werden wir bestens auskommen.
+				 Sit_1_NC_Ricelord_DrivesRicePickers_12_02.WAV
+				 
+				 L�sst Du allerdings den Erzbaron hier raush�ngen, dann sieh zu, wo Du Dein Futter her kriegst. Hab ich mich klar genug ausgedr�ckt.
+				 Sit_1_NC_Ricelord_DrivesRicePickers_12_03.WAV
+				 
+				 Hab ich verstanden.
+				 Sit_1_NC_Ricelord_DrivesRicePickers_FuncYes_15_01.WAV
+			 
+				 Gut.Vielleicht kann ich Dich irgendwann mal brauchen.
+				 Sit_1_NC_Ricelord_DrivesRicePickers_FuncYes_12_02.WAV
+			 
+				 Was? Hab gerade nicht zugeh�rt.
+				 Sit_1_NC_Ricelord_DrivesRicePickers_FuncNo_15_01.WAV
+			 
+				 Eins solltest Du Dir merken: Leg Dich nie, niemals mit mir an!( gef�hrlich)
+				 Sit_1_NC_Ricelord_DrivesRicePickers_FuncNo_12_02.WAV
+			 
+				 Sie haben mich gefragt ob ich nicht auf dem Reisfeld aushelfen wolle und da hab ich ja gesagt.
+				 Sit_1_NC_Rufus_TellsHisStory_02_01.WAV
+			 
+				 Und dann?.
+				 Sit_1_NC_Rufus_TellsHisStory_15_02.WAV
+			 
+				 Am n�chsten Tag sind sie wieder gekommen und haben gefragt wo ich bleiben w�rde.
+				 Sit_1_NC_Rufus_TellsHisStory_02_03.WAV
+			 
+				 Ich hab versucht ihnen zu erkl�ren, dass ich nur ausgeholfen habe, aber sie haben mir nicht zugeh�rt.
+				 Sit_1_NC_Rufus_TellsHisStory_02_04.WAV
+			 
+				 Und deshalb arbeitest Du auf den Reisfeldern?
+				 Sit_1_NC_Rufus_TellsHisStory_15_05.WAV
+			 
+				 Ja, seit dem bin ich jeden Tag hier drausen und kann nix dagegen machen, ohne den Zorn des Ricelords auf mich zu ziehen.
+				 Sit_1_NC_Rufus_TellsHisStory_02_06.WAV
+				 
+				 Jau Du Landratte, bist noch nicht lange an Bord, was?
+				 Sit_1_NC_Torloff_CompareToPiratesShip_06_01.WAV
+			 
+				 Nee, stimmt.
+				 Sit_1_NC_Torloff_CompareToPiratesShip_15_02.WAV
+			 
+				 Was hasse angestellt?
+				 Sit_1_NC_Torloff_CompareToPiratesShip_06_03.WAV
+			 
+				 �h...ich hab, ...
+				 Sit_1_NC_Torloff_CompareToPiratesShip_15_04.WAV
+			 
+				 Ist auch nicht wichtig. Was z�hlt ist, Du bist an Bord, zur�ck gibt's nich, mein Jung
+				 Sit_1_NC_Torloff_CompareToPiratesShip_06_05.WAV
+			 
+				 Wer hat hier das Sagen?
+				 Sit_1_NC_Torloff_CompareToPiratesShip_15_06.WAV
+				 
+				 Ah, frag immer zuerst nach dem Kapit�n, bei uns bestimmt Lee den Kurs.
+				 Sit_1_NC_Torloff_CompareToPiratesShip_06_07.WAV
+			 
+				 Und welchen Kurs f�hrt ihr?
+				 Sit_1_NC_Torloff_CompareToPiratesShip_15_08.WAV
+			 
+				 Immer der Sonne entgegen, Richtung Freiheit. Auch wenn das der Mannschaft nich immer gef�llt.
+				 Sit_1_NC_Torloff_CompareToPiratesShip_06_09.WAV
+			 
+				 Die Jungs nehmen nicht gerne Befehle entgegen, was?
+				 Sit_1_NC_Torloff_CompareToPiratesShip_15_10.WAV
+			 
+				 Noch viel weniger gerne, als Du denkst (grins). Die ziehen viel lieber los und schnappen sich was von den Waren, die es im Alten Lager gibt.
+				 Sit_1_NC_Torloff_CompareToPiratesShip_06_11.WAV
+			 
+				 Lee hat die Jungs also nicht im Griff.
+				 Sit_1_NC_Torloff_CompareToPiratesShip_15_12.WAV
+				 
+				 Ich sag Dir jetzt mal was: Fr�her, da war ich Bootsmann auf der "Sturmreiter". Und hier mach ich das gleiche, also, wenn Du was von Lee willst, dann musst Du erst an mir vorbei. Und wenn Lee was von dir will, erz�hl ich dir das, Jung'!
+				 Sit_1_NC_Torloff_CompareToPiratesShip_06_13.WAV
+			 
+				 Reg dich ab...
+				 Sit_1_NC_Torloff_CompareToPiratesShip_15_14.WAV
+			 
+				 Nun fang ma nich an gro�e T�ne zu spucken, Jung'. Mach ma lieber die Lauscher auf: Leg dich nich mit Lees S�ldner an! Wenn du hier im Lager mit einem vom Banditenpack Streit hast, dann sieh zu dass die andern sehn, wie du ihm aufs Maul haust.
+				 Sit_1_NC_Torloff_CompareToPiratesShip_06_15.WAV
+			 
+				 Sonst kommt n�mlich direkt der n�chste, der dich f�r nen Waschlappen h�lt. Denn so siehst du auch aus, Jung!
+				 Sit_1_NC_Torloff_CompareToPiratesShip_06_16.WAV
+			 
+				 Dann werde ich sie wohl davon �berzeugen, das dem nicht so ist.
+				 Sit_1_NC_Torloff_CompareToPiratesShip_15_17.WAV
+				 
+				 Du hast es erkannt, mein Jung
+				 Sit_1_NC_Torloff_CompareToPiratesShip_06_18.WAV
+			 
+				 Dann mal Schiff Ahoi.
+				 Sit_1_NC_Torloff_CompareToPiratesShip_15_19.WAV
+			 
+				 Ich hab geh�rt Du bist J�ger?
+				 Sit_1_NC_Wolf_TrainsArchery_15_01.WAV
+			 
+				 Die Leute sagen viel, zuviel.
+				 Sit_1_NC_Wolf_TrainsArchery_09_02.WAV
+			 
+				 H�r zu, ich k�nnte Deine Hilfe gebrauchen. Es gibt da einen Lurker, der sich am Damm zu schaffen macht. Es ist unm�glich das Vieh zu erwischen.
+				 Sit_1_NC_Wolf_TrainsArchery_15_03.WAV
+			 
+				 Und?
+				 Sit_1_NC_Wolf_TrainsArchery_09_04.WAV
+			 
+				 Hast Du eine Idee, wie wir den Lurker kriegen?
+				 Sit_1_NC_Wolf_TrainsArchery_15_05.WAV
+			 
+				 Ich habe nicht gesagt das ich Dir helfen werde.
+				 Sit_1_NC_Wolf_TrainsArchery_09_06.WAV
+			 
+				 Was muss ich tun, damit Du mir hilfst?
+				 Sit_1_NC_Wolf_TrainsArchery_15_07.WAV
+			 
+				 Ich brauche neue Pfeile f�r meinen Langbogen, besorg sie mir, dann werde ich Dir sagen, wie man Lurker jagt.
+				 Sit_1_NC_Wolf_TrainsArchery_09_08.WAV
+			 
+				 Hey ich habe geh�rt, wie Du mit Homer gesprochen hast, Du wirst verdammt schnell sein m�ssen um den Lurker zu erlegen.
+				 Sit_1_NC_Wolf_TrainsArchery2_07_01.WAV
+				 
+				 Ist das ein Problem, kann ich da was dagegen machen?
+				 Sit_1_NC_Wolf_TrainsArchery2_15_02.WAV
+			 
+				 Frage Wolf, unseren bester J�ger. Er Treibt sich immer Nachts in den W�ldern rum, tags�ber ist er hier im Lager, wenn Du irgendwas �ber Viecher wissen willst, wende Dich an ihn. Er ist zwar sehr verschlossen, aber er wei� ne Menge!
+				 Sit_1_NC_Wolf_TrainsArchery2_07_03.WAV
+			 
+				 Einen Lurker f�ngt man mit einem K�der. Nimm rohes fleisch und leg es ans Ufer, in seiner N�he. Warte bis er es schnappt, dann hast Du eine Chance.
+				 Sit_1_NC_Wolf_TrainsArchery_TRADE_Func1_09_01.WAV
+				 
+				 Also das m�ssen schon ein paar mehr sein, bevor ich dir was sagen.
+				 Sit_1_NC_Wolf_TrainsArchery_TRADE_Func1_09_02.WAV
+				 
+				 Brother, come here.
+				 Sit_1_OC_BaalParvez_Want_Meat_10_01.WAV
+				 
+				 What is it?
+				 Sit_1_OC_BaalParvez_Want_Meat_15_02.WAV
+			 
+				 You may have heard that I am from the sect temple.
+				 Sit_1_OC_BaalParvez_Want_Meat_10_03.WAV
+			 
+				 Maybe.
+				 Sit_1_OC_BaalParvez_Want_Meat_15_04.WAV
+			 
+				 "It is better in the sect temple than it is here or in the New Camp
+				 Sit_1_OC_BaalParvez_Want_Meat_10_05.WAV
+			 
+				 But?
+				 Sit_1_OC_BaalParvez_Want_Meat_15_06.WAV
+			 
+				 Well, we only have swamp weed for meals, and I would really like to chew a good peace of meat, and since the new delivery from outside has arrived, there would be an opportunity. So, if you get some meat, please think of me, would you..
+				 Sit_1_OC_BaalParvez_Want_Meat_10_07.WAV
+				 
+				 That meat is raw! Ah, who cares.
+				 Sit_1_OC_BaalParvez_Want_Meat_TRADE_Func_10_01.WAV
+			 
+				 Ahh, what a smell, thanks.
+				 Sit_1_OC_BaalParvez_Want_Meat_TRADE_Func1_10_01.WAV
+			 
+				 I am Bloodwyn. I look after this part of the Camp.
+				 Sit_1_OC_Bloodwyn_ProtectPlayer_Info1_08_01.WAV
+			 
+				 Thorus doesn't want any troubles here, so I am going to explain a few things to you.
+				 Sit_1_OC_Bloodwyn_ProtectPlayer_Info1_08_02.WAV
+			 
+				 First: You are new here, you do not belong anywhere.
+				 Sit_1_OC_Bloodwyn_ProtectPlayer_Info1_08_03.WAV
+			 
+				 In other words: You are worth as much as a digger.
+				 Sit_1_OC_Bloodwyn_ProtectPlayer_Info1_08_04.WAV
+				 
+				 There are two kinds of diggers: Those who pay, and those who bleed.
+				 Sit_1_OC_Bloodwyn_ProtectPlayer_Info1_08_05.WAV
+			 
+				 There are not many of the second kind.
+				 Sit_1_OC_Bloodwyn_ProtectPlayer_Info1_08_06.WAV
+			 
+				 Most of them have enough brains to have us protect them.
+				 Sit_1_OC_Bloodwyn_ProtectPlayer_Info1_08_07.WAV
+			 
+				 What about you?
+				 Sit_1_OC_Bloodwyn_ProtectPlayer_Info1_08_08.WAV
+			 
+				 You don't have to pay right now.
+				 Sit_1_OC_Bloodwyn_ProtectPlayer_Info1_08_09.WAV
+			 
+				 Go to the mine and work for a while.
+				 Sit_1_OC_Bloodwyn_ProtectPlayer_Info1_08_10.WAV
+				 
+				 Then you can have a good time here in the camp.
+				 Sit_1_OC_Bloodwyn_ProtectPlayer_Info1_08_11.WAV
+			 
+				 Good! The boys will look after you! If you have any problems, we will be there.
+				 Grd_233_Bloodwyn_Trade_01_08_01.WAV
+				 
+				 You know, boy, the thing's quite simple, even if it doesn't seem to be fair.
+				 Sit_1_OC_Bruce_ExplainOC_05_01.WAV
+				 
+				 The shadows and diggers live here in the outer ring. Guards, orebarons and fire mages stay in the fortress.
+				 Sit_1_OC_Bruce_ExplainOC_05_02.WAV
+				 
+				 And there are some dark corners for doing business as well. You just have to pay attention to who is nearby.
+				 Sit_1_OC_Bruce_ExplainOC_05_03.WAV
+				 
+				 Fortunately, I did not get trapped into that hierarchy. But here you'll find the good stuff from the outer world, and if you listen carefully, there's always interesting things to know.
+				 Sit_1_OC_Bruce_ExplainOC_05_04.WAV
+			 
+				 What kind of things?
+				 Sit_1_OC_Bruce_ExplainOC_15_05.WAV
+				 
+				 Well, there's a price to pay for everything!
+				 Sit_1_OC_Bruce_ExplainOC_05_06.WAV
+				 
+				 Give people what they really want: Ore, beer, ham, and they won't beat you up. And perhaps they'd even tell you something!
+				 Sit_1_OC_Bruce_ExplainOC_05_07.WAV
+			 
+				 The hut over there is always locked. The guy living there always hides the key in the same place.
+				 Sit_1_OC_Bruce_ExplainOC_TRADE_Func_05_01.WAV
+			
+				 And none of the guys here has noticed that, apart from me. I always keep an eye on things, yeah, that's me. Always watchful.
+				 Sit_1_OC_Bruce_ExplainOC_TRADE_Func_05_02.WAV
+				 
+				 The key is behind the barrel next to the hut. If I were you, I wouldn't waste a chance like that. And there's more:
+				 Sit_1_OC_Bruce_ExplainOC_TRADE_Func_05_03.WAV
+			 
+				 Be careful that the guy over there doesn't see you, or else you'll be in a world of trouble.
+				 Sit_1_OC_Bruce_ExplainOC_TRADE_Func_05_04.WAV
+			
+				 Well, boy, that's how it works here, there's a price to pay for everything.
+				 Sit_1_OC_Bruce_ExplainOC_TRADE_Func_05_05.WAV
+			 
+				 The hut over there is always locked. The guy living there always hides the key in the same place. And none of the guys here has noticed that apart from me. I always keep an eye on things, yeah, that's me. Always watchful.
+				 Sit_1_OC_Bruce_ExplainOC_TRADE_Func2_05_01.WAV
+				 
+				 The key is behind the barrel next to the hut. If I were you, I wouldn't waste a chance like that. And there's more: Be careful that the guy over there doesn't see you, or else you'll be in a world of trouble.
+				 Sit_1_OC_Bruce_ExplainOC_TRADE_Func2_05_02.WAV
+			 
+				 Well, boy, that's how it works here, there's a price to pay for everything.
+				 Sit_1_OC_Bruce_ExplainOC_TRADE_Func2_05_03.WAV
+				 
+				 Sei vorsichtig das dich der Typ da hinten nicht sieht,sonst handelste dir ne Menge �rger ein.
+				 Sit_1_OC_Bruce_ExplainOC_TRADE_Func2_05_04.WAV
+				 
+				 Tja mein Junge, so l�uft das hier, alles hat seinen Preis.
+				 Sit_1_OC_Bruce_ExplainOC_TRADE_Func2_05_05.WAV
+				 
+				 Man, leave me alone. I've just left the mine, and I'm really not into talking right now.
+				 Sit_1_OC_Canthar_ShiftOver_01_01.WAV
+				 
+				 You complain like a woman.
+				 Sit_1_OC_Canthar_ShiftOver_15_02.WAV
+				 
+				 Listen smartarse, you can be thankful that the woman doesn't do you in, but after a week's hard work I don't feel like hitting you.
+				 Sit_1_OC_Canthar_ShiftOver_01_03.WAV
+				 
+				 Who has already been working in the mine for a week?
+				 Sit_1_OC_Canthar_ShiftOver_15_04.WAV
+			 
+				 Those who have to earn their grub because otherwise they wouldn't get it, unlike others here!
+				 Sit_1_OC_Canthar_ShiftOver_01_05.WAV
+			 
+				 Who are those others?
+				 Sit_1_OC_Canthar_ShiftOver_15_06.WAV
+			 
+				 I am talking about the flunkeys of the orebarons, the shadows and guards, who get the best food and don't have to do anything for it.
+				 Sit_1_OC_Canthar_ShiftOver_01_07.WAV
+				 
+				 Why aren't you a shadow or a guard?
+				 Sit_1_OC_Canthar_ShiftOver_15_08.WAV
+			 
+				 Damn, how am I supposed to know, maybe Thorus didn't like my mug. You're new here, aren't you?
+				 Sit_1_OC_Canthar_ShiftOver_01_09.WAV
+			 
+				 Yes.
+				 Sit_1_OC_Canthar_ShiftOver_15_10.WAV
+			 
+				 Ha, there's a pick waiting for you as well, and now get lost. Leave me alone, I wanna get steaming tonight.
+				 Sit_1_OC_Canthar_ShiftOver_01_11.WAV
+			 
+				 Are you talking to me?
+				 Sit_1_OC_Dexter_SellSword_15_01.WAV
+			 
+				 That's right.
+				 Sit_1_OC_Dexter_SellSword_10_02.WAV
+				 
+				 What do you want?
+				 Sit_1_OC_Dexter_SellSword_15_03.WAV
+			 
+				 The question is: What do you want? A sword, for example - it used to belong to a guard, it's no rusty digger crap.
+				 Sit_1_OC_Dexter_SellSword_10_04.WAV
+			 
+				 A sword? How much?
+				 Sit_1_OC_Dexter_SellSword_15_05.WAV
+				 
+				 10 Ore.
+				 Sit_1_OC_Dexter_SellSword_10_06.WAV
+				 
+				 Can I have a look at it?
+				 Sit_1_OC_Dexter_SellSword_15_07.WAV
+			 
+				 I don't want to run after you and the sword over the whole market square, so let me see the 10 Ore first.
+				 Sit_1_OC_Dexter_SellSword_10_08.WAV
+				 
+				 I'll think about it.
+				 Sit_1_OC_Dexter_SellSword_15_09.WAV
+				 
+				 Good swap, isn't it? Hahaha
+				 STT_329_Dexter_Trade_Func_10_01.WAV
+				 
+				 Hey, man! Have you some grub? I hurt my leg in the mine.
+				 Sit_1_OC_Dusty_Starving_03_01.WAV
+			 
+				 Then go to hell, man.
+				 Mis_1_OC_MordragKO_FuncYes_03_01.wav.WAV
+			 
+				 There's nothing to eat either, old man! Come on, give me something. You're new here, aren't you? I'd give you an important tip.
+				 Mis_1_OC_MordragKO_FuncNo_03_01.WAV
+				 
+				 Let me hear how much your tip is worth.
+				 Mis_1_OC_MordragKO_FuncNo_15_02.WAV
+			 
+				 First the grub, then the story. Think about it, I'm in no hurry.
+				 Mis_1_OC_MordragKO_FuncNo_03_03.WAV
+				 
+				 Thanks, man. Listen, I'll explain something to you. In order to achieve something here in the Old Camp, you better have some Ore loose in your pocket.
+				 Sit_1_OC_Dusty_Starving_TRADE_Func_03_01.WAV
+				 
+				 You can't only buy things with it, but also make ""friends"", and that's not a disadvantage here."
+				 Sit_1_OC_Dusty_Starving_TRADE_Func_03_02.WAV
+			 
+				 Why should I want to do that?
+				 Sit_1_OC_Dusty_Starving_TRADE_Func_15_03.WAV
+			 
+				 Boy, on your own, you're not worth anything, and as long as you don't belong to a Camp you are worth less than nothing. A little bit of ore can really be helpful there.
+				 Sit_1_OC_Dusty_Starving_TRADE_Func_03_04.WAV
+			 
+				 What can I do for you?
+				 Sit_1_OC_Fisk_Trade_Armor_12_01.WAV
+			 
+				 It depends.
+				 Sit_1_OC_Fisk_Trade_Armor_15_02.WAV
+			 
+				 If you need anything  - really anything  - I am the right man.
+				 Sit_1_OC_Fisk_Trade_Armor_12_03.WAV
+				 
+				 And - what have you got to offer?
+				 Sit_1_OC_Fisk_Trade_Armor_15_04.WAV
+				 
+				 The way you look, you could use some armour. I just got a light leather armour off a shadow. (cold) he doesn't need it anymore. (speculative) For you - 50 Ore chunks.
+				 Sit_1_OC_Fisk_Trade_Armor_12_05.WAV
+			 
+				 What else have you got?
+				 Sit_1_OC_Fisk_Trade_Armor_15_06.WAV
+			 
+				 Only the usual stuff, schnapps from the New Camp, swamp weed from the camp. Swamp weeds are 5, schnapps are 10 ore.
+				 Sit_1_OC_Fisk_Trade_Armor_12_07.WAV
+				 
+				 You buy things too?
+				 Sit_1_OC_Fisk_Trade_Armor_15_08.WAV
+			
+				 Only from people I know, man. In the end, you might sell off the armour from Gomez' flunkey to me, after you knocked him down, and I'd be in trouble afterwards ... I take only ore from foreigners - there's no name printed on ore.
+				 Sit_1_OC_Fisk_Trade_Armor_12_09.WAV
+			
+				 Let's see, perhaps I'll buy something later ...
+				 Sit_1_OC_Fisk_Trade_Armor_15_10.WAV
+				 
+				 If you're still alive then  - today could be the last day of your life, so why save? You can't take your ore with you. Think about it.
+				 Sit_1_OC_Fisk_Trade_Armor_12_11.WAV
+				 
+				 Here, but don't tell anybody where you got it from.
+				 Sit_1_OC_Fisk_Trade_Armor_TRADE_Func_12_01.WAV
+				 
+				 Have a nice time with this stuff.
+				 Sit_1_OC_Fisk_Trade_Armor_TRADE_Func1_12_01.WAV
+			 
+				 Enjoy it.
+				 Sit_1_OC_Fisk_Trade_Armor_TRADE_Func2_12_01.WAV
+			 
+				 You can be grateful Jesse didn't pay his protection money.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_06_01.WAV
+				 
+				 Otherwise you would have been at his place on the ground.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_06_02.WAV
+			 
+				 Things like that can happen quickly.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_06_03.WAV
+			 
+				 How about you? Don't you need friends?
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_06_04.WAV
+				 
+				 That was clever of you.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_FuncYes_06_01.WAV
+			 
+				 All the guards in my area will look after you from now on, boy.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_FuncYes_06_02.WAV
+			 
+				 Keep an eye on Bloodwyn and Jackal. They protect the people in the two other areas.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_FuncYes_06_03.WAV
+			 
+				 You don't have 3 Ore
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_FuncYes_06_04.WAV
+			 
+				 Get them or you'll be fodder.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_FuncYes_06_05.WAV
+				 
+				 I'm alright on my own.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_FuncNo_15_01.WAV
+				 
+				 As you please. But I have to warn you.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_FuncNo_06_02.WAV
+				 
+				 Especially during the night, there are not many of us in the outer ring.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_FuncNo_06_03.WAV
+				 
+				 And if you haven't got anybody to look after you,
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_FuncNo_06_04.WAV
+			 
+				 you might easily find yourself in your bed with your throat slit in the morning.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_FuncNo_06_05.WAV
+			 
+				 Think about it.
+				 Sit_1_OC_Fletcher_ProtectJesse_Info1_FuncNo_06_06.WAV
+				 
+				 Good! The guys will look after you! If you have problems, we will be there.
+				 Grd_255_Fletcher_Trade_01_06_01.WAV
+				 
+				 I'm sure you've got 3 Ore for me, come on!
+				 ShutUp_VLK_564_Jesse_03_01.WAV
+			 
+				 Give me 3 Ore!
+				 ZS_Robbery_VLK_564_Jesse_03_01.WAV
+			 
+				 Diego sent me.
+				 Global_Gamestart005_06_215_15_01.WAV
+				 
+				 So what?
+				 Global_Gamestart005_06_215_06_02.WAV
+			 
+				 I want to get into the camp.
+				 Global_Gamestart005_06_215_15_03.WAV
+				 
+				 So what?
+				 Global_Gamestart005_06_215_06_04.WAV
+				 
+				 AND that is why I will go in there now.
+				 Global_Gamestart005_06_215_15_05.WAV
+			 
+				 Then why are you standing here and talking shit? Talk to Thorus, he usually hangs around out here.
+				 Global_Gamestart005_06_215_06_06.WAV
+			 
+				 What are you saying, pal?
+				 Sit_1_OC_Gravo_AnalyzeAttitudes_15_01.WAV
+			 
+				 I'm not the youngest chap in the world any more, but I still get it all. Most diggers in the Camp don't give a damn, boy.
+				 Sit_1_OC_Gravo_AnalyzeAttitudes_04_02.WAV
+				 
+				 For most of the shadows and guards it is not important if you bite the dust or if you don't. That's the situation.
+				 Sit_1_OC_Gravo_AnalyzeAttitudes_04_03.WAV
+			 
+				 How do you know?
+				 Sit_1_OC_Gravo_AnalyzeAttitudes_15_04.WAV
+			
+				 I have my sources. If you really do get into trouble, I might be able to help you. For a little reward, of course.
+				 Sit_1_OC_Gravo_AnalyzeAttitudes_04_05.WAV
+			 
+				 We'll see ...
+				 Sit_1_OC_Gravo_AnalyzeAttitudes_15_06.WAV
+			 
+				 A good punch-up is fun, isn't it? Nothing here to worry about. And if somebody should be really pissed of, then just give him a bottle and tell him to raise his glass to you, and everything will be alright again.
+				 Sit_1_OC_Grim_ExplainAngry_05_01.WAV
+			 
+				 Our fight was just due to Thorus. He is one of the good guys. Tough but fair. Treats his boys all the same way.
+				 Sit_1_OC_Grim_ExplainAngry_05_02.WAV
+			 
+				 And he lets them deal with things. Bloodwyn is one of them. Real alright. Fletcher's on the right course as well.
+				 Sit_1_OC_Grim_ExplainAngry_05_03.WAV
+			 
+				 But beware of Jackal. The guy is mean, works with all tricks, uses every weakness he can grasp. Not one touch of honour in his heart.
+				 Sit_1_OC_Grim_ExplainAngry_05_04.WAV
+			 
+				 I did a few small jobs for Thorus myself. That's why Jackal leaves me in peace. I'm sure Thorus will make me a shadow pretty soon.
+				 Sit_1_OC_Grim_ExplainAngry_05_05.WAV
+			 
+				 Yeah, if you work hard, you can achieve a lot. So try hard, boy.
+				 Sit_1_OC_Grim_ExplainAngry_05_06.WAV
+			 
+				 Acting like that, you won't achieve anything here, boy.
+				 VLK_580_Grim_Trade_05_01.WAV
+			 
+				 Bloody idiot!
+				 VLK_580_Grim_Trade_05_02.WAV
+			 
+				 Stop blathering, give it to me!
+				 ShutUp_VLK_580_Grim_05_01.WAV
+			 
+				 Hey boy, I like your weapon. Give it to me!
+				 ZS_Robbery_VLK_580_Grim_05_01.WAV
+			 
+				 Carrying no weapon? Bad mistake.
+				 ZS_Robbery_VLK_580_Grim_05_02.WAV
+			
+				 Going somewhere?
+				 ZS_Robbery_VLK_580_Grim_05_03.WAV
+			 
+				 Boy, why don't you finish off Grim first. You don't want to fight with real men.
+				 B_ReactToDamage_Thorus_09_01.WAV
+			 
+				 Forget it. Leave him alone.
+				 ZS_WaitForDefeat_Grim_05_01.WAV
+			
+				 Did you set that guy on me?
+				 Global_Gamestart006_15_01.WAV
+			 
+				 I just wanted to see which league you're playing in!
+				 Global_Gamestart006_09_02.WAV
+			 
+				 (cynical) Very nice of you.
+				 Global_Gamestart006_15_03.WAV
+			 
+				 You're condemned, man. The world out there doen't want you any more. And we have made our own rules. You've just learned one of them: You hit them or they'll hit you! Keep that in mind!
+				 Global_Gamestart006_09_04.WAV
+			 
+				 I will.
+				 Global_Gamestart006_15_05.WAV
+			 
+				 How often have I told you idiots not to run through my hut.
+				 Sit_1_OC_Guy_HutRage_Info1_01_01.WAV
+			 
+				 Man, just leave me in peace!
+				 Sit_1_OC_Guy_HutRage_Info2_01_01.WAV
+			 
+				 I haven't got a problem with you.
+				 Sit_1_OC_Guy_HutRage_Info2_15_02.WAV
+			 
+				 Everybody here has a problem with me!
+				 Sit_1_OC_Guy_HutRage_Info2_01_03.WAV
+			 
+				 Believe me. It started when I built my hut at the edge.
+				 Sit_1_OC_Guy_HutRage_Info2_01_04.WAV
+			 
+				 Don't build your hut at the edge, they said.
+				 Sit_1_OC_Guy_HutRage_Info2_01_05.WAV
+			 
+				 But none of those jerks told me what would happen if I did.
+				 Sit_1_OC_Guy_HutRage_Info2_01_06.WAV
+				 
+				 When I came back from the mine a few days ago, I had a second door.
+				 Sit_1_OC_Guy_HutRage_Info2_01_07.WAV
+			 
+				 Those arseholes. I hate them. I can't tell you how much I hate them.
+				 Sit_1_OC_Guy_HutRage_Info2_01_08.WAV
+			 
+				 How often have I told you jerks not to run through my hut!
+				 B_Hut_Rage_Guy_01_01.WAV
+				 
+				 Hey you! Come here!
+				 Sit_1_OC_Herek_Beatme_Info1_01_01.WAV
+				 
+				 What do you want?
+				 Sit_1_OC_Herek_Beatme_Info1_15_02.WAV
+				 
+				 I don't like your face.
+				 Sit_1_OC_Herek_Beatme_Info1_01_03.WAV
+			 
+				 If it was up to me, you wouldn't get old here!
+				 Sit_1_OC_Herek_Beatme_Info2_01_01.WAV
+				 
+				 D'you know why I'm here?
+				 Sit_1_OC_Herek_Beatme_Info2_01_02.WAV
+				 
+				 I killed a dozen people in just one night.
+				 Sit_1_OC_Herek_Beatme_Info2_01_03.WAV
+				 
+				 Just like that ... hehehe
+				 Sit_1_OC_Herek_Beatme_Info2_01_04.WAV
+			 
+				 I've never liked guys like you!
+				 Sit_1_OC_Herek_Beatme_Info3_01_01.WAV
+			 
+				 If Herek had paid his protection money, it would have looked pretty bad for you because I would have fought as well.
+				 Sit_1_OC_Herek_Beatme_Info4_08_01.WAV
+			 
+				 Don't think that you can do that with everybody.
+				 Sit_1_OC_Herek_Beatme_Info4_08_02.WAV
+			 
+				 Whoever pays his protection money will be protected!
+				 Sit_1_OC_Herek_Beatme_Info4_08_03.WAV
+				 
+				 New here? Mhmm, let me have a look at you ...
+				 Sit_1_OC_Jackal_NoProtection_07_01.WAV
+			 
+				 I know guys like you, you're a bloody troublemaker.
+				 Sit_1_OC_Jackal_NoProtection_07_02.WAV
+			 
+				 Your kind are not wanted here in my area.
+				 Sit_1_OC_Jackal_NoProtection_07_03.WAV
+			 
+				 I'll tell my boys not to lift a finger if you get into trouble.
+				 Sit_1_OC_Jackal_NoProtection_07_04.WAV
+			 
+				 So don't hang around here for too long, boy.
+				 Sit_1_OC_Jackal_NoProtection_07_05.WAV
+			 
+				 Try your luck with Fletcher or Bloodwyn, perhaps they'll give you protection in their areas.
+				 Sit_1_OC_Jackal_NoProtection_07_06.WAV
+				 
+				 Get lost, boy. I don't take Ore from suckers like you.
+				 GRD_201_Jackal_Trade_07_01.WAV
+			 
+				 Spiel auf Mann! Du hast doch bestimmt was zu erz�hlen!
+				 Sit_1_OC_Marus_GomezTale_Info_15_01.WAV
+				 
+				 Gewi�. Nun h�re Die Geschichte der Buddler von Khorinis:
+				 Sit_1_OC_Marus_GomezTale_Info_05_02.WAV
+			 
+				 Gebannt durch eine Wand aus Magie
+				 Sit_1_OC_Marus_GomezTale_Info_05_03.WAV
+				 
+				 leben die M�nner im Lager
+				 Sit_1_OC_Marus_GomezTale_Info_05_04.WAV
+			
+				 doch die Hoffnung verlieren sie nie
+				 Sit_1_OC_Marus_GomezTale_Info_05_05.WAV
+			 
+				 und ihr Lohn ist wenig und mager
+				 Sit_1_OC_Marus_GomezTale_Info_05_06.WAV
+			
+				 Sie bezahlen mit Blut den magischen Stahl
+				 Sit_1_OC_Marus_GomezTale_Info_05_07.WAV
+				 
+				 f�r den K�nig und seinen Krieg
+				 Sit_1_OC_Marus_GomezTale_Info_05_08.WAV
+			 
+				 sie m�ssen es tun sie ham keine Wahl
+				 Sit_1_OC_Marus_GomezTale_Info_05_09.WAV
+				 
+				 doch erleben keinen einzigen Sieg
+				 Sit_1_OC_Marus_GomezTale_Info_05_10.WAV
+				 
+				 Drum wirst du auch Schatten, Gardist gar Baron
+				 Sit_1_OC_Marus_GomezTale_Info_05_11.WAV
+			 
+				 dann vergiss nicht die M�nner der Minen
+				 Sit_1_OC_Marus_GomezTale_Info_05_12.WAV
+				 
+				 und zahle immer gerechten Lohn
+				 Sit_1_OC_Marus_GomezTale_Info_05_13.WAV
+			 
+				 wills't das die Leute treu dienen
+				 Sit_1_OC_Marus_GomezTale_Info_05_14.WAV
+			 
+				 Und bist Du Baron und bekommst fettes Fleisch
+				 Sit_1_OC_Marus_GomezTale_Info_05_15.WAV
+				 
+				 und Wein und Gesang und Frau'n
+				 Sit_1_OC_Marus_GomezTale_Info_05_16.WAV
+			
+				 dann vergiss nicht den Lohn und vergiss nicht den Preis
+				 Sit_1_OC_Marus_GomezTale_Info_05_17.WAV
+			 
+				 sonst werden sie Dich verhau'n
+				 Sit_1_OC_Marus_GomezTale_Info_05_18.WAV
+			 
+				 Sag mal, wohin geht es eigentlich? Oder ist das eine �berraschung f�r mich? Ich mag �berraschungen.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_01.WAV
+			 
+				 La� Dich von mir nicht st�ren. Ich bleib einfach bei Dir, keine Sorge.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_02.WAV
+				 
+				 Hast Du eigentlich keinen Plan, wo Du hinwillst? Suchst Du ein stilles Pl�tzchen? Wo wir ein bischen reden k�nnen und so?
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_03.WAV
+			 
+				 Kann es sein, da� Du im Kreis l�ufst? Ich meine, ich wei� ja nicht, wo Du hin willst...
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_04.WAV
+				 
+				 Werden wir k�mpfen? Damals in Khorinis haben wir auch unsere Runden gedreht und gek�mpft. Bis die Stadtwachen kamen. Jeden Abend. So wie wir.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_05.WAV
+			 
+				 Das macht richtig Spa� mit Dir. Sch�n, da� Du mich mitnimmst. Das k�nnen wir �fters mal machen. Und heute ist ja auch noch viel Zeit.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_06.WAV
+			 
+				 Ich hab mich schon richtig an Dich gew�hnt. Wir werden sicher eine Menge Spa� miteinander haben. Nicht wahr? Wo schl�fst Du eigentlich? Du kannst gerne zu mir kommen
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_07.WAV
+			 
+				 Wegen was haben sie Dich eigentlich hier reingeworfen? Hast Du auch einen Faible f�r Tiere? Das haben sie ja gar nicht gerne. Da haben sie mich eingebuchtet.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_08.WAV
+			 
+				 Es gibt da ein paar Leute, die versuchen st�ndig mich zu verpr�geln. Fiese Typen aus dem Neuen Lager. Richtige Brutalos. Ich werde ihnen beim n�chsten Mal gleich sagen, da� sie es in Zukunft mir Dir zu tun kriegen. Das wird sie sicher abschrecken.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_09.WAV
+			 
+				 Diese fiesen Schweine aus dem Neuen Lager werden staunen, wenn sie erfahren, da� ich einen Besch�tzer habe. Die werden sich in die Hosen machen. Das wird ein Spa�. Sonst machen sie ja mit allen kurzen Proze�, aber jetzt werden sie sich das zweimal �berlegen.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_10.WAV
+			 
+				 Wei�t Du was? Ich tu Dir einen Gefallen. Ich werde ein gutes Wort f�r Dich einlegen. Dann nehmen sie Dich vielleicht in das Lager auf. Dann k�nnen wir uns jeden Tag sehen.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_11.WAV
+			 
+				 Manche halten mich ja f�r einen durchgeknallten Spinner. Aber jemand wie Du w�rde sich hier ja niemals mit einem Spinner sehen lassen. Sowas spricht sich ja rum. Also werden sie einsehen, da� sie sich in mir get�uscht haben.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_12.WAV
+			 
+				 Du bist mein bester Freund hier drinnen. Die anderen wollen mich immer nur loswerden. Ich bin Dir echt dankbar.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_13.WAV
+			 
+				 H�r mal, die Rennerei wird langsam anstrengend. Wollen wir uns nicht irgendwo ein kuscheliges Pl�tzchen suchen und es uns gem�tlich machen?
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_14.WAV
+				 
+				 Du bist wie ein gro�er Bruder f�r mich. Ich hatte nie einen gro�en Bruder. Auch keinen Kleinen. Meine Eltern wollten mich nicht behalten. Ich bin sicher, das fiel ihnen nicht leicht.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_15.WAV
+			 
+				 Wo kommst Du denn her? Du freust Dich sicher auch so, da� Du jetzt endlich jemanden gefunden hast, der Dich versteht. Ich komme aus Khorinis. Warst Du schon mal dort? Ist ja eigentlich auch egal.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_16.WAV
+				 
+				 Hast Du was zu essen f�r mich? Da ich ja sowas wie Besuch bin, f�nde ich es toll, wenn Du mir was geben w�rdest. das geh�rt sich so. Das haben mir meine Freunde in Khorinis beigebracht. Die hatten mich echt gerne.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_17.WAV
+				 
+				 Glaubst Du, da� uns mal jemand von au�erhalb besucht? Wohl kaum, was, weil die kommen ja dann nicht mehr raus, oder?
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_18.WAV
+			 
+				 Jetzt, wo du bei mir bist, k�nnen wir ja mal einigen Arschl�chern auf's Maul hauen. Die haben mich jahrelang getriezt. Wenn ich einen von denen sehe, dann sag ich ihnen die Meinung.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_19.WAV
+			 
+				 Zusammen sind wir echt unschlagbar. Wir k�nnten das Alte Lager �bernehmen. Mit den Erzbaronen werden wir schon fertig, wir sind ja zu zweit. Ich werde mir etwas ausdenken.
+				 Sit_1_OC_Mud_FollowNerving_Info1_07_20.WAV
+				 
+				 You're new here, aren't you? Beware of the guy over there, the one in the fur armour.
+				 Sit_1_OC_Ryan_FearFox1_02_01.WAV
+			 
+				 He's from the New Camp. He always hangs around here after a new delivery has arrived.
+				 Sit_1_OC_Ryan_FearFox1_02_02.WAV
+			 
+				 He wants to nick our stuff, so be careful.
+				 Sit_1_OC_Ryan_FearFox1_02_03.WAV
+			 
+				 Don't the guards protect you?
+				 Sit_1_OC_Ryan_FearFox2_15_01.WAV
+				 
+				 Ha! Since the rebellion, Gomez' guards have been walking about in the jail warders' armours. And the guys are as bad as that, too.
+				 Sit_1_OC_Ryan_FearFox2_02_02.WAV
+			 
+				 Nothing has changed for us diggers, except that we are now finished off outside and not in the hole under the fortress anymore.
+				 Sit_1_OC_Ryan_FearFox2_02_03.WAV
+			 
+				 I used to pay protection money.
+				 Sit_1_OC_Ryan_FearFox2_02_04.WAV
+				 
+				 Who d'you have to pay?
+				 Sit_1_OC_Ryan_FearFox3_15_01.WAV
+			 
+				 Jackal. He calls the shots in this area. The guy over there has a kind of arrangement with him, so the guards leave him alone.
+				 Sit_1_OC_Ryan_FearFox3_02_02.WAV
+			 
+				 What sort of arrangement?
+				 Sit_1_OC_Ryan_FearFox4_15_01.WAV
+			 
+				 Don't know, but if the guy makes trouble for you, no-one'll help you, so you'd better keep out of his way.
+				 Sit_1_OC_Ryan_FearFox4_02_02.WAV
+			 
+				 What did that little snitch tell you about me?
+				 Sit_1_OC_Ryan_FearFox5_07_01.WAV
+			 
+				 He warned me about you. Said the boss of this area covers up for you.
+				 Sit_1_OC_Ryan_FearFox5_827_funcYes_15_01.WAV
+			 
+				 (amused) Jackal?? Har har. I know some things about good old Jackal that Thorus would be real interested in ...
+				 Sit_1_OC_Ryan_FearFox5_827_funcYes_07_02.WAV
+				 
+				 (mockingly) I never really have any trouble with him.
+				 Sit_1_OC_Ryan_FearFox5_827_funcYes_07_03.WAV
+				 
+				 I take it you're not going to tell me what you know.
+				 Sit_1_OC_Ryan_FearFox5_827_funcYes_15_04.WAV
+			 
+				 Some other time, maybe.
+				 Sit_1_OC_Ryan_FearFox5_827_funcYes_07_05.WAV
+			 
+				 We weren't talking about you.
+				 Sit_1_OC_Ryan_FearFox5_827_funcNo_15_01.WAV
+			 
+				 I saw you staring over here. Listen, man, if you dopes want to make trouble for me, I'll finish you off.
+				 Sit_1_OC_Ryan_FearFox5_827_funcNo_07_02.WAV
+			 
+				 (calls to Ryan) I'll be right with you, Kid!
+				 Sit_1_OC_Ryan_FearFox5_827_funcNo_07_03.WAV
+			
+				 But first, let's sort us out ... You're new here. Pay no attention to weaklings like Ryan. Only the strong win here.
+				 Sit_1_OC_Ryan_FearFox5_827_funcNo_07_04.WAV
+				 
+				 You can only own what you can defend. Protection money or no protection money.
+				 Sit_1_OC_Ryan_FearFox5_827_funcNo_07_05.WAV
+				 
+				 I'll do my best.
+				 Sit_1_OC_Ryan_FearFox5_827_funcNo_15_06.WAV
+				 
+				 You don't really look like one of the dirt eaters. If you don't want to sell your hide to the orebarons, come to the New Camp.
+				 Sit_1_OC_Ryan_FearFox5_827_funcNo_07_07.WAV
+			 
+				 If I see you there, I'll introduce you to some people. But first I have to deal with that dope over there.
+				 Sit_1_OC_Ryan_FearFox5_827_funcNo_07_08.WAV
+			 
+				 You again. Luckily, Ryan's just been well paid in the mine. Fancy some decent food?
+				 Sit_1_OC_Ryan_FearFox6_07_01.WAV
+				 
+				 You're the one who arranges the fights?
+				 Sit_1_OC_Scatty_ExplainArena_Info1_15_01.WAV
+			 
+				 A newcomer! Interested in betting?
+				 Sit_1_OC_Scatty_ExplainArena_Info1_09_02.WAV
+				 
+				 What can I win?
+				 Sit_1_OC_Scatty_ExplainArena_Info1_15_03.WAV
+				 
+				 Depends who you put your money on.
+				 Sit_1_OC_Scatty_ExplainArena_Info1_09_04.WAV
+				 
+				 Kharim is the champion. Odds are 2 to 1.
+				 Sit_1_OC_Scatty_ExplainArena_Info1_09_05.WAV
+				 
+				 He has a different challenger each evening.
+				 Sit_1_OC_Scatty_ExplainArena_Info1_09_06.WAV
+			 
+				 That makes it more exciting. It's 5 to 1 against him.
+				 Sit_1_OC_Scatty_ExplainArena_Info1_09_07.WAV
+			 
+				 D'you never know beforehand who the challenger will be?
+				 Sit_1_OC_Scatty_ExplainArena_Info1_15_08.WAV
+			 
+				 Maybe a new fighter'll volunteer. They usually pick someone.
+				 Sit_1_OC_Scatty_ExplainArena_Info1_09_09.WAV
+				 
+				 People wanna see something.
+				 Sit_1_OC_Scatty_ExplainArena_Info1_09_10.WAV
+			 
+				 Can I fight today?
+				 Sit_1_OC_Scatty_ExplainArena_Info1_FuncYes_15_01.WAV
+			 
+				 You?! Haahaa!! Nobody wants to see anyone fight who's new here.
+				 Sit_1_OC_Scatty_ExplainArena_Info1_FuncYes_09_02.WAV
+				 
+				 Unless you belong to one of the camps, you can't get in the arena.
+				 Sit_1_OC_Scatty_ExplainArena_Info1_FuncYes_09_03.WAV
+				 
+				 Maybe I'll come to the fight this evening.
+				 Sit_1_OC_Scatty_ExplainArena_Info1_FuncNo_15_01.WAV
+			 
+				 If you're still alive then. Take care of yourself, Kid.
+				 Sit_1_OC_Scatty_ExplainArena_Info2_FuncNo_09_02.WAV
+			 
+				 Compared to all the other guys here, you look pretty relaxed.
+				 Sit_1_OC_Sly_Holiday_15_01.WAV
+				 
+				 Yep.
+				 Sit_1_OC_Sly_Holiday_10_02.WAV
+			 
+				 Don't talk much, do you?
+				 Sit_1_OC_Sly_Holiday_15_03.WAV
+			 
+				 I try to relax. If there aren't two guards going mad with a digger, it can be quite peaceful here.
+				 Sit_1_OC_Sly_Holiday_10_04.WAV
+				 
+				 Don't you have any trouble with the guards?
+				 Sit_1_OC_Sly_Holiday_15_05.WAV
+			 
+				 A newcomer! That's all I need. (slightly aggressive) Boy, I WORK for the orebarons. So I work with the guard. (murmurs) Whether I like it or not.
+				 Sit_1_OC_Sly_Holiday_10_06.WAV
+			 
+				 The guards really seem to have appealed to you.
+				 Sit_1_OC_Sly_Holiday_15_07.WAV
+			 
+				 (remorseful) As shadows, we do as the orebarons say.
+				 Sit_1_OC_Sly_Holiday_10_08.WAV
+			 
+				 Shadows?
+				 Sit_1_OC_Sly_Holiday_15_09.WAV
+			 
+				 The shadows of the orebarons. THE shadows, who kick your butt in the mines to make you work! Go picking some ore for a bit, then you can pay me back for all the chatting!
+				 Sit_1_OC_Sly_Holiday_10_10.WAV
+			 
+				 Bet they polished your mug when they fished you out. Good! That saves me some trouble ... Now beat it!
+				 Sit_1_OW_Bridgeguards_13_01.WAV
+				 
+				 Get yourself over to the Old Camp, they've got a pickaxe ready for you, hee hee!
+				 Sit_1_OW_Bridgeguards1_07_01.WAV
+			 
+				 I'm definitely not working my butt off for you in the mines.
+				 Sit_1_OW_Bridgeguards1_15_02.WAV
+		
+				 You must be our new colleague, right? In that case, you'd better be real nice to us, 'cos we'll still be here tomorrow, hee hee.
+				 Sit_1_OW_Bridgeguards1_07_03.WAV
+				 
+				 I've heard there are other camps ...
+				 Sit_1_OW_Bridgeguards1_15_04.WAV
+				 
+				 You'll never even make it there in that getup. And now vamoose.
+				 Sit_1_OW_Bridgeguards1_07_05.WAV
+			 
+				 Who are these boys?
+				 Sit_1_OW_Diego_Bandits_15_01.WAV
+			 
+				 Bandits from the New Camp. You meet them almost everywhere in between the camps.
+				 Sit_1_OW_Diego_Bandits_11_02.WAV
+			 
+				 You mentioned three camps, what is the third camp?
+				 Sit_1_OW_Diego_Bandits_15_03.WAV
+				 
+				 The Sect's Camp is in the East of the colony. The New Camp is in the West.
+				 Sit_1_OW_Diego_Bandits_11_04.WAV
+				 
+				 Wherever you go, you will have to join a camp, you'll never survive on your own! Come along.
+				 Sit_1_OW_Diego_Bandits_11_05.WAV
+				 
+				 I shall leave you alone now.
+				 Sit_1_OW_Diego_Goodbye_11_01.WAV
+				 
+				 You'll be safe behind the bridge for the time being, most beasts and bandits don't dare to come so close to the Old Camp.
+				 Sit_1_OW_Diego_Goodbye_11_02.WAV
+				 
+				 I'm Diego. I take care of the newcomers.
+				 Sit_1_OW_Diego_Gamestart_11_00.WAV
+			 
+				 Where are all the others?
+				 Sit_1_OW_Diego_Gamestart_15_01.WAV
+			 
+				 They bring the stuff from the outside worldinto the Old Camp. None of them are really interested in you, you're not worth much when you're new here and only few people survive the first few days.
+				 Sit_1_OW_Diego_Gamestart_11_02.WAV
+				 
+				 What happens if I just walk out again?
+				 Sit_1_OW_Diego_Gamestart_15_03.WAV
+			 
+				 The last person to try that came out dead the other side. The damned barrier lets you get in, but you'll never get out alive on your own.
+				 Sit_1_OW_Diego_Gamestart_11_04.WAV
+				 
+				 What's that supposed to mean?
+				 Sit_1_OW_Diego_Gamestart_15_05.WAV
+			 
+				 About half the people believe it's possible to get out of here. They've been working on escape plans for years.
+				 Sit_1_OW_Diego_Gamestart_11_06.WAV
+			 
+				 Where can I find these people?
+				 Sit_1_OW_Diego_Gamestart_15_07.WAV
+			 
+				 Are you in a hurry to get out of here? You've only just arrived!
+				 Sit_1_OW_Diego_Gamestart_11_08.WAV
+			 
+				 If there's a way out of here, I'll find it.
+				 Sit_1_OW_Diego_Gamestart_15_09.WAV
+			 
+				 First things first. We should got to the Old Camp. Let's see if we can find you a decent bit of steel on the way there. Come on.
+				 Sit_1_OW_Diego_Gamestart_11_10.WAV
+			 
+				 Right, here we are.
+				 Mis_1_OC_FindWeapon_Offer_11_01.WAV
