@@ -22,6 +22,8 @@ body {
   padding: 2em;
 
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 
 header {
