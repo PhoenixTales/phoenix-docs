@@ -1,29 +1,72 @@
+/* by flosha */
 
 :root {
-  background: #181818; /* #121212 */
-  color: #776f68;
-  font-size: 14px;
-  font-family: Helvetica, Arial, sans-serif;
+  --black: #000;
+  --dark: #121212;
+  --light: #dddddd;
+  --blood: #844d44;
+  --copper: #8c5f4e;
+  --demonic: #855f67;
+  --gold: #976b42;
+  --ore: #4f6766;
+  --silver: ;
 }
 
 body {
-  max-width: 600px;
+  background: var(--dark);
+  color: var(--light);
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.4; 
+  margin: 0;
   padding: 2em;
+
+  display: flex;
 }
 
-code {
-  font-family: monospace;
+header {
+  width: 100%;
 }
 
-.funfact {
-  font-size: 12px;
-  background-color: black;
-  border: 1px solid #4a4843;
-  padding: 1em;
+nav {
+  padding: 2em;
+  max-width: 350px;
 }
 
-.added { color: red; }
-.changed { color: green; }
+main {
+  padding: 2em;
+  max-width: 600px;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: inherit;
+}
+
+h1::before { content: "#"; }
+h2::before { content: "##"; }
+h3::before { content: "###"; }
+h4::before { content: "####"; }
+h5::before { content: "#####"; }
+h6::before { content: "######"; }
+
+h1::before h2::before, h2::before, h3::before, h4::before, h5::before, h6::before {
+  color: var(--blood);
+}
+
+
+a {
+  transition: all 0.3s ease-out;
+  text-decoration: none;
+  color: var(--gold);
+}
+
+a:hover {
+  color: var(--blood);
+}
+
+
+code { font-family: monospace; }
 
 
 table {
@@ -38,3 +81,15 @@ table, th, td {
 th, td {
   padding: 0.3em;
 }
+
+
+.subtext {
+  font-size: 12px;
+  background-color: var(--black);
+  border: 1px solid #4a4843;
+  padding: 1em;
+}
+
+.added { color: var(--demonic); }
+.changed { color: var(--ore); }
+
