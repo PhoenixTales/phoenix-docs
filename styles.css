@@ -19,7 +19,6 @@ body {
   font-size: 16px;
   line-height: 1.6; 
   margin: 0;
-  padding: 2em;
 
   display: flex;
   flex-direction: row;
@@ -28,25 +27,30 @@ body {
 
 header {
   width: 100%;
+  padding: 2em;
 }
 
 nav {
   font-size: 14px;
 
-  padding: 2em;
-  max-width: 350px;
+  padding: 3em;
+  max-width: 380px;
 
   border-right: 2px solid silver;
 }
 
 main {
-  padding: 2em;
+  padding: 3em;
   max-width: 600px;
 }
 
 
 h1, h2, h3, h4, h5, h6 {
   font-size: inherit;
+}
+
+h2, h3, h4, h5, h6 {
+  margin-top: 2em;
 }
 
 h1::before { content: "#"; }
@@ -81,7 +85,7 @@ ol, ul {
 }
 
 li {
-  margin-left: 20px;
+  margin-left: 17px;
 }
 
 code { font-family: monospace; }
