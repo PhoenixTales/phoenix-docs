@@ -1,8 +1,3 @@
----
-layout: default
-title: README
----
-
 ![Phoenix' Design Docs](/_img/logo-phoenix-designdocs.png)
 
 # About the Phoenix Concept
