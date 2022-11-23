@@ -12,7 +12,8 @@
   </header>
 
   <nav>
-    {% include nav.html %}
+    {% capture nav %}{% include nav.md %}{% endcapture %}
+    {{ nav | markdownify }}
   </nav>
   
   <main>

@@ -1,6 +1,5 @@
 ---
 layout: default
-title: phoenix-docs
 ---
 
 # Phoenix Docs
