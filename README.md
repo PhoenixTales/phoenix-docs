@@ -1,4 +1,4 @@
-![Phoenix' Design Docs](/_img/designdocs.png)
+![Phoenix' Design Docs](/_img/logo-phoenix-designdocs.png)
 
 # About the Phoenix Concept
 
@@ -7,5 +7,4 @@ These are the Design Documents of **Phoenix** (also known as *Project Nyx*), a r
 The docs are work in progress, they are currently rewritten and will be unlocked over time. Due to ongoing work on the order and internal structure of docs, regular changes to the Index are to be expected. 
 
 For more information visit [phoenixthegame.com](https://phoenixthegame.com).
-
-![Phoenix Sign](/_img/nyx_sign-low.png)
+And join [our Community](https://discord.gg/CK4VAR7fpH) on Discord.
