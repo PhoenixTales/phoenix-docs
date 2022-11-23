@@ -36,7 +36,7 @@ nav {
   padding: 2em;
   max-width: 350px;
 
-  border-right: 3px solid silver;
+  border-right: 2px solid silver;
 }
 
 main {
@@ -77,6 +77,7 @@ a:hover {
 
 ul { 
   padding-left: 0;
+  margin-left: 0;
   margin-bottom: 1.5em;
 }
 
