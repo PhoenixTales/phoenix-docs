@@ -17,7 +17,7 @@ body {
   color: var(--light);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.4; 
+  line-height: 1.6; 
   margin: 0;
   padding: 2em;
 
@@ -31,8 +31,12 @@ header {
 }
 
 nav {
+  font-size: 14px;
+
   padding: 2em;
   max-width: 350px;
+
+  border-right: 3px solid silver;
 }
 
 main {
@@ -57,17 +61,28 @@ h1::before, h2::before, h2::before, h3::before, h4::before, h5::before, h6::befo
   padding-right: 0.5em;
 }
 
+main h1+h2+h3+h4+h5+h6 {
+  font-weight: normal;
+}
 
 a {
   transition: all 0.3s ease-out;
   text-decoration: none;
-  color: var(--gold);
+  color: var(--ore);
 }
 
 a:hover {
   color: var(--blood);
 }
 
+ul { 
+  padding-left: 0;
+  padding-bottom: 0.5em;
+}
+
+li {
+  padding-left: 1em;
+}
 
 code { font-family: monospace; }
 
@@ -84,7 +99,6 @@ table, th, td {
 th, td {
   padding: 0.3em;
 }
-
 
 .subtext {
   font-size: 12px;
