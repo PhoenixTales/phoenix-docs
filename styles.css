@@ -42,12 +42,13 @@ nav {
 
 main {
   padding: 3em;
-  max-width: 600px;
+  max-width: 650px;
 }
 
 main img {
   display: block;
   margin: 0 auto;
+  max-width: 100%;
 }
 
 
