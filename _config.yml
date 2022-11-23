@@ -1,6 +1,8 @@
 title: Phoenix Docs
 description: Phoenix Docs | Phoenix Tales
 author: PhoenixTales
+include:
+  - "_img"
 theme: null
 paginate: 4
 paginate_path: "/:num"
