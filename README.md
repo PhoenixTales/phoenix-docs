@@ -1,4 +1,4 @@
-![Phoenix' Design Docs](/_img/designdocs.png)
+![Phoenix' Design Docs](/phoenix-docs/main/_img/designdocs.png)
 
 # About the Phoenix Concept
 
@@ -8,4 +8,4 @@ The docs are work in progress, they are currently rewritten and will be unlocked
 
 For more information visit [phoenixthegame.com](https://phoenixthegame.com).
 
-![Phoenix Sign](/_img/nyx_sign-low.png)
+![Phoenix Sign](/phoenix-docs/main/_img/nyx_sign-low.png)
