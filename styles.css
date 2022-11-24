@@ -37,13 +37,11 @@ header {
 nav {
   font-size: 14px;
 
-  padding: 3em;
+  padding: 2.5em;
+  margin-top: 2em;
   max-width: 380px;
 
-  border-right: 2px solid var(--stone);
-
-  --spacing : 1.5rem;
-  --radius  : 10px;
+  border-right: 1px dashed var(--stone);
 }
 
 main {
@@ -94,51 +92,49 @@ a {
 }
 
 a:hover {
-  color: var(--blood);
+  text-decoration: underline;
+  transition: all 0.3s ease-out;
 }
 
 
 /* LIST STYLE */
 
-nav ol+ul { 
-  /*counter-reset: item;*/
-
-  /*margin-left: 0;*/
-  margin-left : calc(var(--radius) - var(--spacing));
+nav ol, nav ul {
+  list-style-type: none;
+  counter-reset: item;
   padding-left: 0;
+  padding-bottom: 0.5em;
 }
 
-nav li {
-  position: relative;
-  padding-left : 17px;
-  /* margin-left: 17px; */
+nav ol>li, nav ul>li {
+  padding-left: 1.5em;
 }
 
-nav ol li, nav ul li {
-  border-left : 1px solid var(--stone);
+nav ul>li::before {
+  content: "[";
+  padding-right: 0.3em; 
+  color: var(--gold);
 }
 
-nav ul li::before, nav ol li::before {
-  content      : '';
-  display      : block;
-  position     : absolute;
-  top          : calc(var(--spacing) / -2);
-  left         : -1px;
-  width        : calc(var(--spacing) + 1px);
-  height       : calc(var(--spacing) + 1px);
-  border       : solid var(--stone);
-  border-width : 0 0 1px 1px;
+nav ul>li::after {
+  content: "]";
+  padding-left: 0.3em;
+  color: var(--gold);
 }
 
-
-nav ol li::before {
-  /*content: counters(item, ".") ". ";
-  counter-increment: item;*/
+nav ol>li { 
+  counter-increment: item;
 }
 
-nav ul li:last-child, ol li:last-child {
-  border-color: transparent;
+nav li>ol>li {
+  border-left: 1px dashed var(--stone);
 }
+
+ol>li::before { 
+  content: counters(item, '.') '. '; 
+  color: #6a6a6a;
+}
+
 
 
 /* CODE */

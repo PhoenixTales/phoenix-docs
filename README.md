@@ -2,12 +2,16 @@
 
 # README
 
-The Phoenix Docs were written by  
-Flosha, Logx, Arbax & Avallach.  
+```
+PHOENIX DOCS
 
-2016-2022 PhoenixTales  
+"Phoenix Design Concept Documentation"
+2016-2022 by PhoenixTales
 
-**Last Update:** 24.11.2022  
+Authors:       Flosha, Logx, Arbax, Avallach, Dmitriy
+
+Changed last:  24.11.2022 
+```
 
 Design Documents of **Phoenix** (also known as *Project Nyx*), a radically immersive gothic rpg developed by [PhoenixTales](https://phoenixtales.de) and based on Gothic by Piranha Bytes. Here you find all our research and planning based on the original vision of Gothic (which had *Phoenix* as its working title) that we preserve and present in our [Gothic Archive](https://gothicarchive.org). 
 
@@ -16,9 +20,9 @@ The docs are work in progress, they are currently rewritten and will be unlocked
 
 ## Links
 
-* [phoenixtales.de](https://phoenixtales.de)
-* [phoenixthegame.com](https://phoenixthegame.com)
-* [gothicarchive.org](https://gothicarchive.org)
-* [phoenix-discord](https://discord.gg/CK4VAR7fpH)
+* Dev: [phoenixtales.de](https://phoenixtales.de)
+* Phoenix: [phoenixthegame.com](https://phoenixthegame.com)
+* Gothic: [gothicarchive.org](https://gothicarchive.org)
+* Community: [phoenix-discord](https://discord.gg/CK4VAR7fpH)
 
 

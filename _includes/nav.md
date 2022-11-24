@@ -1,6 +1,6 @@
 ## Index
 
-* Readme
+* [Readme](/README.md)
 
 1. Vision
 	1. Introduction
@@ -8,7 +8,7 @@
 	3. Design Philosophy
 2. Mechanics
 	1. Classes
-	2. Attributes
+	2. [Attributes](/Mechanics/attributes.md)
 	3. Skills
 	4. Modes of Interaction 
 		1. Exploration Mode
@@ -65,19 +65,19 @@
 				1. Background (Act I to Act II)
 				2. Plot Abstract
 				3. Plot Description
-					* Chapter 7: [Return to Prison}
-					* Chapter 8: [Ore of Blood}
-					* Chapter 9: [Ruins of the City]
-					* Chapter 10: [Demonic Liberation]
+					* Chapter 7: Return to Prison
+					* Chapter 8: Ore of Blood
+					* Chapter 9: Ruins of the City
+					* Chapter 10: Demonic Liberation
 				4. Plot Logic
 		4. Guild Plots
-			* [The Way of Power]
-			* [Fate of the Gladiator]
-			* [Life for the Temple]
-			* [A Shadow in the Crowd]
-			* [Red Blood on blue Scarves]
-			* [Path to Awakening]
-			* [Way of the Arcane]
+			* The Way of Power
+			* Fate of the Gladiator
+			* Life for the Temple
+			* A Shadow in the Crowd
+			* Red Blood on blue Scarves
+			* Path to Awakening
+			* Way of the Arcane
 	4. Relations
 		1. Story Events
 		2. Guild Attitudes
@@ -90,6 +90,6 @@
 			4. PsiCamp
 		2. Act II Missions
 4. Inspirations
-5. Appendix
+5. [Appendix](/appendix.md)
 
 
