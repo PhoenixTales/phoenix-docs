@@ -104,12 +104,11 @@ ol, ul {
 }
 
 li {
-  /*margin-left: 17px;*/
-  display: block;
+  margin-left: 17px;
   border-left : 1px solid var(--silver);
 }
 
-li::before {
+ol li::before {
   content: counters(item, ".") ". ";
   counter-increment: item;
 }
