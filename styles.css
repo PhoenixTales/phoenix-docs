@@ -1,6 +1,8 @@
 /* by flosha */
 
 :root {
+  color-scheme: dark;
+
   --black: #000;
   --dark: #121212;
   --light: #dddddd;
@@ -10,7 +12,7 @@
   --gold: #976b42;
   --ore: #4f6766;
   --silver: #aaa;
-  --link: #a1524b;
+  --link: #96574f;
 }
 
 body {
@@ -37,7 +39,7 @@ nav {
   padding: 3em;
   max-width: 380px;
 
-  border-right: 2px solid silver;
+  border-right: 2px solid var(--silver);
 }
 
 main {
@@ -87,13 +89,20 @@ a:hover {
 }
 
 ol, ul { 
+  counter-reset: item;
+
   padding-left: 0;
   margin-left: 0;
 }
 
 li {
-  margin-left: 17px;
+  /*margin-left: 17px;*/
   display: block;
+}
+
+li::before {
+  content: counters(item, ".") ". ";
+  counter-increment: item;
 }
 
 code { font-family: monospace; }
