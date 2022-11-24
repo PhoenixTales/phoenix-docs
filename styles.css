@@ -109,7 +109,6 @@ nav ol+ul {
 }
 
 nav li {
-  display: table;
   position: relative;
   padding-left : calc(2 * var(--spacing) - var(--radius) - 2px);
   /* margin-left: 17px; */
