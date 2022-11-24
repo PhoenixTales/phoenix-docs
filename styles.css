@@ -37,7 +37,7 @@ header {
 nav {
   font-size: 14px;
 
-  padding: 3em;
+  /*padding: 3em;*/
   max-width: 380px;
 
   border-right: 2px solid var(--stone);
