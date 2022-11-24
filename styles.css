@@ -110,7 +110,7 @@ nav ol+ul {
 
 nav li {
   position: relative;
-  padding-left : calc(2 * var(--spacing) - var(--radius) - 2px);
+  padding-left : 17px;
   /* margin-left: 17px; */
 }
 
