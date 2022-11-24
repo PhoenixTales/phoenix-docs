@@ -119,13 +119,13 @@ nav ol li, nav ul li {
   border-left : 1px solid var(--stone);
 }
 
-nav li::before {
+nav ul li::before, nav ol li::before {
   content      : '';
   display      : block;
   position     : absolute;
   top          : calc(var(--spacing) / -2);
-  left         : -2px;
-  width        : calc(var(--spacing) + 1px);
+  left         : -1px;
+  width        : calc(var(--spacing) + 2px);
   height       : calc(var(--spacing) + 1px);
   border       : solid var(--stone);
   border-width : 0 0 1px 1px;
