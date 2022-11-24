@@ -124,7 +124,7 @@ nav ul li::before, nav ol li::before {
   position     : absolute;
   top          : calc(var(--spacing) / -2);
   left         : -1px;
-  width        : calc(var(--spacing) + 2px);
+  width        : calc(var(--spacing) + 1px);
   height       : calc(var(--spacing) + 1px);
   border       : solid var(--stone);
   border-width : 0 0 1px 1px;
