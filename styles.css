@@ -12,6 +12,7 @@
   --gold: #976b42;
   --ore: #4f6766;
   --silver: #aaa;
+  --stone: #5b5b5b;
   --link: #96574f;
 }
 
@@ -39,7 +40,10 @@ nav {
   padding: 3em;
   max-width: 380px;
 
-  border-right: 2px solid var(--silver);
+  border-right: 2px solid var(--stone);
+
+  --spacing : 1.5rem;
+  --radius  : 10px;
 }
 
 main {
@@ -99,21 +103,41 @@ a:hover {
 ol, ul { 
   counter-reset: item;
 
+  /*margin-left: 0;*/
+  margin-left : calc(var(--radius) - var(--spacing));
   padding-left: 0;
-  margin-left: 0;
 }
 
 li {
-  margin-left: 17px;
-  border-left : 1px solid var(--silver);
+  display: block;
+  position: relative;
+  padding-left : calc(2 * var(--spacing) - var(--radius) - 2px);
+  /* margin-left: 17px; */
 }
+
+ol li, ul li {
+  border-left : 1px solid var(--stone);
+}
+
+li::before {
+  content      : '';
+  display      : block;
+  position     : absolute;
+  top          : calc(var(--spacing) / -2);
+  left         : -2px;
+  width        : calc(var(--spacing) + 2px);
+  height       : calc(var(--spacing) + 1px);
+  border       : solid #ddd;
+  border-width : 0 0 2px 2px;
+}
+
 
 ol li::before {
   content: counters(item, ".") ". ";
   counter-increment: item;
 }
 
-li:last-child {
+ul li:last-child, ol li:last-child {
   border-color: transparent;
 }
 
@@ -151,3 +175,11 @@ th, td {
 .added { color: var(--demonic); }
 .changed { color: var(--ore); }
 
+
+/* MOBILE */
+
+@media screen and (max-width: 1000px) {
+  nav {
+    border: none;
+  }
+}
