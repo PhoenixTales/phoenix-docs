@@ -9,12 +9,13 @@
   --demonic: #855f67;
   --gold: #976b42;
   --ore: #4f6766;
-  --silver: ;
+  --silver: #aaa;
+  --link: #a1524b;
 }
 
 body {
-  background: var(--dark);
-  color: var(--light);
+  background: var(--black);
+  color: var(--silver);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6; 
@@ -26,7 +27,6 @@ body {
 }
 
 header {
-  width: 100%;
   padding: 2em 2em 0;
   position: absolute;
 }
@@ -79,7 +79,7 @@ main h1+h2+h3+h4+h5+h6 {
 a {
   transition: all 0.3s ease-out;
   text-decoration: none;
-  color: var(--ore);
+  color: var(--link);
 }
 
 a:hover {
@@ -93,6 +93,7 @@ ol, ul {
 
 li {
   margin-left: 17px;
+  display: block;
 }
 
 code { font-family: monospace; }

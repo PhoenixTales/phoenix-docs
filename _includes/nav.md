@@ -1,5 +1,7 @@
 ## Index
 
+* Readme
+
 1. Vision
 	1. Introduction
 	2. What is Gothic?
@@ -90,12 +92,4 @@
 4. Inspirations
 5. Appendix
 
-
-
-### Links
-
-* [phoenixtales.de](https://phoenixtales.de)
-* [phoenixthegame.com](https://phoenixthegame.com)
-* [gothicarchive.org](https://gothicarchive.org)
-* [phoenix-discord](https://discord.gg/CK4VAR7fpH)
 
