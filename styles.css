@@ -120,14 +120,14 @@ ol li, ul li {
 }
 
 li::before {
-  content      : '';
+  /*content      : '';*/
   display      : block;
   position     : absolute;
   top          : calc(var(--spacing) / -2);
-  left         : -2px;
+  left         : -1px;
   width        : calc(var(--spacing) + 1px);
   height       : calc(var(--spacing) + 1px);
-  border       : solid #ddd;
+  border       : solid var(--stone);
   border-width : 0 0 1px 1px;
 }
 
