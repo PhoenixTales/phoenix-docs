@@ -124,7 +124,7 @@ nav li::before {
   display      : block;
   position     : absolute;
   top          : calc(var(--spacing) / -2);
-  left         : -1px;
+  left         : -2px;
   width        : calc(var(--spacing) + 1px);
   height       : calc(var(--spacing) + 1px);
   border       : solid var(--stone);
