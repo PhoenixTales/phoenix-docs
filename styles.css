@@ -100,7 +100,7 @@ a:hover {
 
 /* LIST STYLE */
 
-ol, ul { 
+nav ol+ul { 
   /*counter-reset: item;*/
 
   /*margin-left: 0;*/
@@ -108,19 +108,19 @@ ol, ul {
   padding-left: 0;
 }
 
-li {
+nav li {
   display: block;
   position: relative;
   padding-left : calc(2 * var(--spacing) - var(--radius) - 2px);
   /* margin-left: 17px; */
 }
 
-ol li, ul li {
+nav ol li, nav ul li {
   border-left : 1px solid var(--stone);
 }
 
-li::before {
-  /*content      : '';*/
+nav li::before {
+  content      : '';
   display      : block;
   position     : absolute;
   top          : calc(var(--spacing) / -2);
@@ -132,12 +132,12 @@ li::before {
 }
 
 
-ol li::before {
+nav ol li::before {
   /*content: counters(item, ".") ". ";
   counter-increment: item;*/
 }
 
-ul li:last-child, ol li:last-child {
+nav ul li:last-child, ol li:last-child {
   border-color: transparent;
 }
 
