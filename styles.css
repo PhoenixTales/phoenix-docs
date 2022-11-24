@@ -101,7 +101,7 @@ a:hover {
 /* LIST STYLE */
 
 ol, ul { 
-  counter-reset: item;
+  /*counter-reset: item;*/
 
   /*margin-left: 0;*/
   margin-left : calc(var(--radius) - var(--spacing));
@@ -123,18 +123,18 @@ li::before {
   content      : '';
   display      : block;
   position     : absolute;
-  top          : calc(var(--spacing) / -2);
+  top          : calc(var(--spacing) / -1);
   left         : -2px;
-  width        : calc(var(--spacing) + 2px);
+  width        : calc(var(--spacing) + 1px);
   height       : calc(var(--spacing) + 1px);
   border       : solid #ddd;
-  border-width : 0 0 2px 2px;
+  border-width : 0 0 1px 1px;
 }
 
 
 ol li::before {
-  content: counters(item, ".") ". ";
-  counter-increment: item;
+  /*content: counters(item, ".") ". ";
+  counter-increment: item;*/
 }
 
 ul li:last-child, ol li:last-child {
