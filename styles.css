@@ -139,7 +139,13 @@ ol>li::before {
 
 /* CODE */
 
-code { font-family: monospace; }
+code { 
+  font-family: monospace; 
+  background: var(--dark);
+  margin: 2em 0 2.5em;
+  padding: 1em;
+  overflow-x: scroll;
+}
 
 
 /* TABLES */

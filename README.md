@@ -5,7 +5,7 @@
 ```
 PHOENIX DOCS
 
-"Phoenix Design Concept Documentation"
+"Phoenix Design Concept"
 2016-2022 by PhoenixTales
 
 Authors:       Flosha, Logx, Arbax, Avallach, Dmitriy
