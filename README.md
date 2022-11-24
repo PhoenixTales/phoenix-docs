@@ -8,7 +8,12 @@ PHOENIX DOCS
 "Phoenix Design Concept"
 2016-2022 by PhoenixTales
 
-Authors:       Flosha, Logx, Arbax, Avallach, Dmitriy
+Authors:       Flosha
+               Logx
+               Arbax
+               Avallach
+               Auronen
+               Dmitriy
 
 Changed last:  24.11.2022 
 ```

@@ -139,12 +139,15 @@ ol>li::before {
 
 /* CODE */
 
+pre {
+  background: var(--dark);
+  padding: 1em;
+  margin: 2em 0 2.5em;
+  overflow: scroll;
+}
+
 code { 
   font-family: monospace; 
-  background: var(--dark);
-  margin: 2em 0 2.5em;
-  padding: 1em;
-  overflow-x: scroll;
 }
 
 
