@@ -1,6 +1,6 @@
----
+---  
 title: README
----
+---  
 
 ![Phoenix' Design Docs](/_img/phoenix-mask-v01.png)
 
@@ -28,7 +28,7 @@ The docs are work in progress, they are currently rewritten and will be unlocked
 * Dev: [phoenixtales.de](https://phoenixtales.de)
 * Phoenix: [phoenixthegame.com](https://phoenixthegame.com)
 * Gothic: [gothicarchive.org](https://gothicarchive.org)
-* Git: [phoenixtales-github] (https://github.com/PhoenixTales)
+* Git: [phoenixtales-github](https://github.com/PhoenixTales)
 * Community: [phoenix-discord](https://discord.gg/CK4VAR7fpH)
 
 
