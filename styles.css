@@ -143,7 +143,7 @@ pre {
   background: var(--dark);
   padding: 1em;
   margin: 2em 0 2.5em;
-  overflow: scroll;
+  overflow-x: auto;
 }
 
 code { 

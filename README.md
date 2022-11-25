@@ -8,12 +8,8 @@ PHOENIX DOCS
 "Phoenix Design Concept"
 2016-2022 by PhoenixTales
 
-Authors:       Flosha
-               Logx
-               Arbax
-               Avallach
-               Auronen
-               Dmitriy
+Authors:       Flosha, Logx, Arbax, Avallach
+               Auronen, Dmitriy
 
 Changed last:  24.11.2022
 ```  
@@ -28,6 +24,7 @@ The docs are work in progress, they are currently rewritten and will be unlocked
 * Dev: [phoenixtales.de](https://phoenixtales.de)
 * Phoenix: [phoenixthegame.com](https://phoenixthegame.com)
 * Gothic: [gothicarchive.org](https://gothicarchive.org)
+* Git: [phoenixtales-github] (https://github.com/PhoenixTales)
 * Community: [phoenix-discord](https://discord.gg/CK4VAR7fpH)
 
 
