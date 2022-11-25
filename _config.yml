@@ -1,23 +1,6 @@
 title: Phoenix Docs
-description: Phoenix Docs | Phoenix Tales
+description: Phoenix Design Concept by PhoenixTales
 author: PhoenixTales
 include:
   - "_img"
 theme: null
-paginate: 4
-paginate_path: "/:num"
-permalink: /:year/:month/:day/:title
-defaults:
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-collections:
-  category:
-    output: true
-plugins:
-  - github-pages
-  - jekyll-sitemap
-  - jekyll-feed
