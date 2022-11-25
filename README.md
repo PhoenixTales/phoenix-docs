@@ -27,4 +27,3 @@ The docs are work in progress, they are currently rewritten and will be unlocked
 * Git: [phoenixtales-github](https://github.com/PhoenixTales)
 * Community: [phoenix-discord](https://discord.gg/CK4VAR7fpH)
 
-
