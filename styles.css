@@ -65,10 +65,12 @@ main img {
   object-fit: contain;
   display: flex;
   flex-wrap: wrap;
+  gap: 1em;
 }
 
 #coverpics img {
   height: 250px;
+  padding-bottom: 1em;
 }
 
 
