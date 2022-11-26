@@ -288,6 +288,7 @@ and (max-width : 820px) {
 
   body {
     flex-wrap: wrap;
+    max-width: 500px;
   }
 
   main {
