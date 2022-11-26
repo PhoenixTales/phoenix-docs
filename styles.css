@@ -45,10 +45,9 @@ nav {
 }
 
 main {
-  padding: 3em;
-  max-width: 650px;
-
   display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
 }
 
 main img {
@@ -57,13 +56,19 @@ main img {
   max-width: 100%;
 }
 
+#content {
+  padding: 3em;
+  max-width: 650px;
+}
+
 #coverpics {
-  object-fit: fill;
+  object-fit: contain;
   display: flex;
+  flex-wrap: wrap;
 }
 
 #coverpics img {
-  height: 200px;
+  height: 250px;
 }
 
 
