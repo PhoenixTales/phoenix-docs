@@ -225,8 +225,7 @@ and (max-width : 820px) {
 
     border: none;
     z-index: 2;
-    max-width: 100%;
-    min-width: 100%;
+    width: 100%;
   }
 
   /*
@@ -275,11 +274,13 @@ and (max-width : 820px) {
   body {
     flex-wrap: wrap;
     font-size: 18px;
+    max-width: 100%;
+    overflow-x: hidden;
   }
 
   main {
     position: absolute;
-    max-width: 100%;
+    width: 100%;
   }
 
   main img {
@@ -287,14 +288,17 @@ and (max-width : 820px) {
   }
 
   #content {
-     max-width: 500px;
+     max-width: 100%;
   }
 
   code {
     max-width: 100%;
     display: none;
   }
-  
+
+  pre {
+    display: none;
+  }
 
 @supports (backdrop-filter: blur(10px)) {
     nav,
