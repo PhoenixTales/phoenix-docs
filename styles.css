@@ -240,15 +240,16 @@ and (max-width : 820px) {
     padding-left: 1em;
     color: #c1784a;
     font-size: 18px;
-    font-weight: 700;
+    font-weight: 600;
     border: 1px solid;
-    /*width: 94px;*/
+    width: 54px;
     user-select: none;
-    /*margin-left: calc(50vw - 60px);*/
+    margin-left: calc(50vw - 60px);
     cursor: pointer;
     padding-bottom: 2px;
     position: relative;
-    top: 25px;
+    top: 15px;
+    right: 15px; 
     z-index: 21;
     background: #000000e0;
   }
@@ -283,9 +284,14 @@ and (max-width : 820px) {
 
   nav {
     border: none;
+    z-index: 2;
   }
 
   body {
     flex-wrap: wrap;
+  }
+
+  main {
+    position: absolute;
   }
 }
