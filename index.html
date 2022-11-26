@@ -1,0 +1,11 @@
+---
+layout: default
+title: README
+---
+
+<main>
+  {% capture readme %}{% include README.md %}{% endcapture %}
+  {{ readme | markdownify }}
+
+  {% include coverpics.html %}
+</main>
