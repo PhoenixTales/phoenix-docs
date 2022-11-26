@@ -60,17 +60,20 @@ main img {
   max-width: 650px;
 }
 
+#content h1 {
+  font-size: 30px;
+}
+
 #coverpics {
   max-width: 400px;
-  object-fit: contain;
   display: flex;
   flex-wrap: wrap;
   gap: 1em;
 }
 
 #coverpics img {
-  height: 250px;
-  padding-bottom: 1em;
+  max-height: 250px;
+  padding: 1em 0;
 }
 
 
