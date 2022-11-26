@@ -56,12 +56,12 @@ main img {
 }
 
 #content {
-  padding: 3em;
+  padding: 2em 3em 3em;
   max-width: 650px;
 }
 
 #content h1 {
-  font-size: 30px;
+  font-size: 60px;
 }
 
 #coverpics {
