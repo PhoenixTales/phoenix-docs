@@ -284,11 +284,17 @@ and (max-width : 820px) {
 
   main img {
     min-width: 90%;
-}
+  }
 
   #content {
      max-width: 500px;
-}
+  }
+
+  code {
+    max-width: 100%;
+    overflow: hidden;
+  }
+  
 
 @supports (backdrop-filter: blur(10px)) {
     nav,
