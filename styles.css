@@ -59,6 +59,7 @@ main img {
 
 #coverpics {
   object-fit: fill;
+  display: flex;
 }
 
 #coverpics img {

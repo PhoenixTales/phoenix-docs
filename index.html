@@ -4,8 +4,10 @@ title: README
 ---
 
 <main>
+  <section id="content">
   {% capture about %}{% include about.md %}{% endcapture %}
   {{ about | markdownify }}
+  </section>
 
   {% include coverpics.html %}
 </main>
