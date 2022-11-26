@@ -223,7 +223,9 @@ and (max-width : 820px) {
     height: 200px;
     padding-bottom: 0; */
 
-    font-size: 16px;
+    overflow: hidden;
+
+    font-size: 15px;
 
     border: none;
     z-index: 2;
@@ -248,7 +250,6 @@ and (max-width : 820px) {
     font-size: 25px;
     font-weight: 600;
     user-select: none;
-    margin-left: calc(50vw - 60px);
     cursor: pointer;
     padding-bottom: 2px;
     position: relative;
@@ -277,7 +278,7 @@ and (max-width : 820px) {
 
   body {
     flex-wrap: wrap;
-    max-width: 500px;
+    max-width: 450px;
     font-size: 18px;
   }
 
