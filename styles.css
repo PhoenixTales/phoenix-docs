@@ -291,6 +291,7 @@ and (max-width : 820px) {
 
   main img {
     width: 140%;
+    overflow: hidden;
   }
 
   #content {
