@@ -223,6 +223,7 @@ and (max-width : 820px) {
 
     font-size: 15px;
 
+    padding: 1.5em;
     border: none;
     z-index: 2;
     width: 100%;
