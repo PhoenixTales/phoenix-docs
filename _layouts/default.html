@@ -12,6 +12,10 @@
   </header>
 
   <nav>
+    <input type="checkbox" id="menu-toggle">
+		<label for="menu-toggle">
+			<span class="menu-icon">&#8801;</span>
+		</label>
     {% capture nav %}{% include nav.md %}{% endcapture %}
     {{ nav | markdownify }}
   </nav>

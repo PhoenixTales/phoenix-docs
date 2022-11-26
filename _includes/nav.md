@@ -48,7 +48,7 @@
 		1. Alpha Plot(s)
 		2. Sequel Plot
 		3. Phoenix Plot 
-			1. Act I
+			1. Act I: Orpheus
 				1. Background Story
 					1. The Revolt
 					2. Founding of the Camps
@@ -61,7 +61,7 @@
 					* Chapter 5: Ancient Temple
 					* Chapter 6: Bloodnight
 				4. Plot Logic
-			2. Act II
+			2. Act II: Nemesis
 				1. Background (Act I to Act II)
 				2. Plot Abstract
 				3. Plot Description
@@ -88,7 +88,13 @@
 			2. NewCamp
 			3. FreeCamp
 			4. PsiCamp
+			5. OrcCity
 		2. Act II Missions
+			1. RefugeeCamp
+			2. KingsCamp
+			3. InquisitionCastle
+			4. DemonCamp
+			5. KhorinisCity
 4. Inspirations
 5. [Appendix](/appendix.md)
 
