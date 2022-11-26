@@ -1,6 +1,6 @@
 # Phoenix Docs
 
-![Phoenix' Design Docs](/_img/phoenix-mask-v01.png)
+![Phoenix' Design Docs](/_img/phoenix-mask-v02.png)
 
 ## README
 

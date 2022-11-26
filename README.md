@@ -1,5 +1,3 @@
-![Phoenix' Design Docs](/_img/phoenix-mask-v01.png)
-
 # README
 
 ```  
