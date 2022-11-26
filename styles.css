@@ -284,6 +284,8 @@ and (max-width : 820px) {
   nav {
     border: none;
     z-index: 2;
+    max-width: initial;
+    width: 100%;
   }
 
   body {
