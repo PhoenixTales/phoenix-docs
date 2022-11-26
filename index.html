@@ -5,7 +5,7 @@ title: README
 
 <main>
   {% capture about %}{% include about.md %}{% endcapture %}
-  {{ readme | markdownify }}
+  {{ about | markdownify }}
 
   {% include coverpics.html %}
 </main>
