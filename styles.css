@@ -290,12 +290,12 @@ and (max-width : 820px) {
   }
 
   main img {
-    min-width: 90%;
+    width: 100%;
   }
 
   #content {
      max-width: 100%;
-     padding: 2em 1.5em 3em;
+     padding: 0 1.5em 3em;
   }
 
   code {
