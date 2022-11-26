@@ -1,6 +1,3 @@
----
----
-
 ## Index
 
 * [Readme](/README.md)
