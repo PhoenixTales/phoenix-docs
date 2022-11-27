@@ -1,4 +1,4 @@
-![Phoenix Logo](/_img/phnx-logo-retro.png)
+# Phoenix
 
 ![Phoenix Mask](/_img/phnx-mask-v02-retro.png)
 
