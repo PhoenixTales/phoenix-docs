@@ -46,7 +46,7 @@ nav {
 main {
   display: flex;
   gap: 2em;
-  flex-grow: 1;
+  flex: 1;
   min-width: 0;
 }
 
