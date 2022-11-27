@@ -44,10 +44,9 @@ nav {
 }
 
 main {
+  max-width: 100%;
   display: flex;
   gap: 2em;
-  flex: 1;
-  min-width: 0;
 }
 
 main img {
@@ -59,6 +58,8 @@ main img {
 #content {
   padding: 2em 3em 3em;
   max-width: 650px;
+  flex: 1;
+  min-width: 0;
 }
 
 #content h1 {
