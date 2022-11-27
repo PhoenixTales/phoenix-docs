@@ -7,7 +7,7 @@
 ```  
 PHOENIX DOCS
 
-"Phoenix' Design Concept"
+"Phoenix Design Concept"
 2016-2022 by PhoenixTales
 
 Authors:  Flosha, Logx, Arbax, Avallach,
@@ -16,7 +16,7 @@ Authors:  Flosha, Logx, Arbax, Avallach,
 Changed last:  27.11.2022
 ```  
 
-These are the Design Documents of **PHOENIX** (also known as *Project Nyx*), a radically immersive gothic rpg developed by [PhoenixTales](https://phoenixtales.de), based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes (which had *Phoenix* as its working title).  
+These are the Design Documents of PHOENIX (also known as *Project Nyx*), a radically immersive gothic rpg developed by [PhoenixTales](https://phoenixtales.de), based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes (which had *Phoenix* as its working title).  
 
 Here you find all our research and planning based on the original vision of Gothic (and its original Sequel) that we preserve and present in our [Archive](https://gothicarchive.org). Since we target an international audience and are an international team, the docs are written in english. We plan for a physical print when we're done.  
 
