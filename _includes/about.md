@@ -10,10 +10,10 @@ PHOENIX DOCS
 "Phoenix Design Concept"
 2016-2022 by PhoenixTales
 
-Authors:       Flosha, Logx, Arbax, Avallach
-               Auronen, Dmitriy
+Authors:  Flosha, Logx, Arbax, Avallach,
+          Auronen, Dmitriy
 
-Changed last:  24.11.2022
+Changed last:  27.11.2022
 ```  
 
 These are the Design Documents of **Phoenix** (also known as *Project Nyx*), a radically immersive gothic rpg developed by [PhoenixTales](https://phoenixtales.de) and based on Gothic by Piranha Bytes. Here you find all our research and planning based on the original vision of Gothic (which had *Phoenix* as its working title) that we preserve and present in our [Gothic Archive](https://gothicarchive.org).  
