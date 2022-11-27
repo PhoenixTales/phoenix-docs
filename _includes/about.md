@@ -1,6 +1,6 @@
-# Phoenix Docs
+![Phoenix Logo](/_img/phnx-logo-retro.png)
 
-![Phoenix' Design Docs](/_img/phnx-mask-v02-retro.png)
+![Phoenix Mask](/_img/phnx-mask-v02-retro.png)
 
 ## README
 
