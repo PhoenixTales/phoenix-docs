@@ -57,6 +57,7 @@ main img {
 #content {
   padding: 2em 3em 3em;
   max-width: 650px;
+  min-width: 0;
 }
 
 #content h1 {
@@ -168,8 +169,7 @@ ol>li::before {
 /* CODE */
 
 pre {
-  max-width: auto;
-  min-width: 0;
+  max-width: 100%;
   background: var(--dark);
   padding: 1em;
   margin: 2em 0 2.5em;
@@ -297,15 +297,8 @@ and (max-width : 820px) {
   }
 
   #content {
+     min-width: 0;
      padding: 0 1.5em 3em;
-  }
-
-  code {
-    max-width: 100%;
-  }
-
-  pre {
-    max-width: 100%;
   }
 
 @supports (backdrop-filter: blur(10px)) {
