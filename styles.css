@@ -44,7 +44,6 @@ nav {
 }
 
 main {
-  max-width: 100%;
   display: flex;
   gap: 2em;
 }
@@ -291,7 +290,7 @@ and (max-width : 820px) {
 
   main {
     position: absolute;
-    max-width: 100%;
+    width: 100%;
   }
 
   main img {
@@ -299,6 +298,7 @@ and (max-width : 820px) {
   }
 
   #content {
+     flex: 1;
      min-width: 0;
      padding: 0 1.5em 3em;
   }
