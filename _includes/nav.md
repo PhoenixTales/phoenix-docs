@@ -1,6 +1,6 @@
 ## Index
 
-* [Readme](/_includes/about.md)
+* [Readme](/)
 
 1. Vision
 	1. Introduction
