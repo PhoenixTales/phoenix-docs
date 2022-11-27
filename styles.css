@@ -168,15 +168,16 @@ ol>li::before {
 /* CODE */
 
 pre {
+  max-width: 100%;
   background: var(--dark);
   padding: 1em;
   margin: 2em 0 2.5em;
-  overflow: auto;
   box-sizing: border-box;
   overflow: auto;
 }
 
 code {
+  max-width: 100%;
   display: inline-block;
   font-family: monospace; 
 }
@@ -284,7 +285,6 @@ and (max-width : 820px) {
     flex-wrap: wrap;
     font-size: 18px;
     max-width: 100%;
-    overflow-x: hidden;
   }
 
   main {
