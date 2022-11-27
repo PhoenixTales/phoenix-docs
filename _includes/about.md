@@ -16,11 +16,11 @@ Authors:  Flosha, Logx, Arbax, Avallach,
 Changed last:  27.11.2022
 ```  
 
-These are the Design Documents of **PHOENIX** (also known as *Project Nyx*), a radically immersive gothic rpg developed by [PhoenixTales](https://phoenixtales.de), based on and conceived as an independent and non-commercial Reboot of GOTHIC by Piranha Bytes (which had *Phoenix* as its working title).  
+These are the Design Documents of **PHOENIX** (also known as *Project Nyx*), a radically immersive gothic rpg developed by [PhoenixTales](https://phoenixtales.de), based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes (which had *Phoenix* as its working title).  
 
-Here you find all our research and planning based on the original vision of GOTHIC (and its original Sequel) that we preserve and present in our [Gothic Archive](https://gothicarchive.org). Since we target an international audience and are an international team, the documentation is written in english. We plan for a physical print of the docs when we're done.  
+Here you find all our research and planning based on the original vision of Gothic (and its original Sequel) that we preserve and present in our [Archive](https://gothicarchive.org). Since we target an international audience and are an international team, the documentation is written in english. We plan for a physical print of the docs when we're done.  
 
-<span class="subtext">Note: The docs are work in progress, they are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of docs regular changes to the Index are to be expected.</span>    
+<p class="subtext">Note: The docs are work in progress, they are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of docs regular changes to the Index are to be expected.</p>    
 
 
 ### Links
