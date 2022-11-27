@@ -168,7 +168,7 @@ ol>li::before {
 /* CODE */
 
 pre {
-  max-width: 100%;
+  width: auto;
   background: var(--dark);
   padding: 1em;
   margin: 2em 0 2.5em;
@@ -177,7 +177,6 @@ pre {
 }
 
 code {
-  max-width: 100%;
   display: inline-block;
   font-family: monospace; 
 }
