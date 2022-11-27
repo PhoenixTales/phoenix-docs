@@ -301,11 +301,10 @@ and (max-width : 820px) {
 
   code {
     max-width: 100%;
-    display: none;
   }
 
   pre {
-    display: none;
+    max-width: 100%;
   }
 
 @supports (backdrop-filter: blur(10px)) {
