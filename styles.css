@@ -168,7 +168,8 @@ ol>li::before {
 /* CODE */
 
 pre {
-  width: auto;
+  max-width: auto;
+  min-width: 0;
   background: var(--dark);
   padding: 1em;
   margin: 2em 0 2.5em;
