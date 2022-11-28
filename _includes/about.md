@@ -1,8 +1,3 @@
-![Phoenix Logo](/_img/phoenix-ingame-rust2.png)
-
-![Phoenix Mask](/_img/phnx-mask-v02-retro.png)
-
-
 <p class="suptext">A story-driven action-rpg with a 
 radically immersive design that sucks less.</p>
 

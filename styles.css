@@ -218,8 +218,9 @@ th, td {
 /* MISC */
 
 .suptext {
-  font-size: 22px;
+  font-size: 30px;
   margin: 1em 0 2em;
+  padding: 2em 2em 3em;
 }
 
 .subtext {
