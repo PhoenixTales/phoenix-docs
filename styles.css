@@ -275,7 +275,7 @@ and (max-width : 820px) {
     display: block;
     padding: 1em;
     color: var(--blood);
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 500;
     user-select: none;
     cursor: pointer;
@@ -301,7 +301,7 @@ and (max-width : 820px) {
   }
 
   #menu-toggle:checked ~ label[for="menu-toggle"]{
-    margin-bottom: 81px;
+    margin-bottom: 40px;
   }
 
   body {
