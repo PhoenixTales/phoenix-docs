@@ -82,6 +82,7 @@ main img {
   max-width: 650px;
   flex: 1;
   min-width: 0;
+  margin-top: 2em;
 }
 
 #coverpics {
@@ -226,7 +227,7 @@ th, td {
   background-color: var(--black);
   border: 1px solid #4a4843;
   padding: 1em;
-  margin: 1em 0;
+  margin: 2em 0;
 }
 
 .added { color: var(--demonic); }
@@ -275,7 +276,7 @@ and (max-width : 820px) {
     padding: 1em;
     color: var(--blood);
     font-size: 25px;
-    font-weight: 600;
+    font-weight: 500;
     user-select: none;
     cursor: pointer;
     padding-bottom: 2px;
@@ -291,8 +292,7 @@ and (max-width : 820px) {
 
   label[for="menu-toggle"] > .menu-icon {
     font-size: 200%;
-    /*font-family: monospace;*/
-    position: relative;
+    /*position: relative;*/
     top: 3px;
   }
 
@@ -334,6 +334,7 @@ and (max-width : 820px) {
     label[for="menu-toggle"] {
       backdrop-filter: blur(10px);
       /*background: #000000dd;*/
+      background: rgba(0, 0, 0, 0.8)
     }
   }
 }
