@@ -1,5 +1,3 @@
-# [Phoenix](/)
-
 ![Phoenix Mask](/_img/phnx-mask-v02-retro.png)
 
 ## README
@@ -10,10 +8,10 @@ PHOENIX DOCS
 "Phoenix Design Concept"
 2016-2022 by PhoenixTales
 
-Authors:  Flosha, Logx, Arbax, Avallach,
-          Auronen, Dmitriy
+Authors:  Flosha, Logx, Arbax, 
+          Avallach, Auronen
 
-Changed last:  27.11.2022
+Changed last:  28.11.2022
 ```  
 
 These are the Design Documents of PHOENIX (also known as *Project Nyx*), a radically immersive gothic rpg developed by [PhoenixTales](https://phoenixtales.de), based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes (which had *Phoenix* as its working title).  

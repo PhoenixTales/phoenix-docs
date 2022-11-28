@@ -1,9 +1,8 @@
 
+# PhoenixDocs
 
+## Index
 
-## Concept
-
-* [Cover](/)
 * [Readme](/)
 
 1. Vision
