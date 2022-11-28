@@ -48,6 +48,7 @@ nav {
 
 main {
   display: flex;
+  align-content: center;
   gap: 2em;
 }
 
