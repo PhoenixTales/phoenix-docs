@@ -1,5 +1,9 @@
-## Index
 
+
+
+## Concept
+
+* [Cover](/)
 * [Readme](/)
 
 1. Vision
@@ -95,7 +99,17 @@
 			3. InquisitionCastle
 			4. DemonCamp
 			5. KhorinisCity
-4. Inspirations
-5. [Appendix](/appendix.md)
+4. Promotion
+5. Behind the Scenes
+	1. Devlog
+		1. Making of PhoenixTales
+		2. The Team behind Phoenix
+		3. Creating the ASCII Art
+	2. Essays
+		1. Phoenix & the Rescue of Design
+		2. Behind the Eyes of Elliot
+		3. Art and the Demonic Threat 
+6. Inspirations
+7. [Appendix](/appendix.md)
 
 
