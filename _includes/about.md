@@ -1,5 +1,3 @@
-![Phoenix Mask](/_img/phnx-mask-v02-retro.png)
-
 ## README
 
 ```  
