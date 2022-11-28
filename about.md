@@ -1,6 +1,33 @@
-# [Phoenix](/)
+![Phoenix Logo](/_img/phnx-logo-retro.png)
 
 ![Phoenix Mask](/_img/phnx-mask-v02-retro.png)
+
+
+<p class="suptext">PHOENIX is a story-driven action-rpg with a 
+radically immersive design that sucks less.</p>
+
+
+## About the Project
+
+Developed by [PhoenixTales](https://phoenixtales.de), it is based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes. GOTHIC had a radical concept and a meaningful story, but only fragments have been realised; which is why we see the game as it was primarily as a proof of concept of what it could have been. 
+
+GOTHIC had *Phoenix* as its working title and thus we have chosen PHOENIX as the name for the project under which we aspire to realise this initial vision with all its radical potential. In course of the development of PHOENIX we have created [Gothic Archive](https://gothicarchive.org) to preserve and to present this vision that we curate ever since. We have been provided and rescued design documents, concept arts and development builds that - whenever permitted - we provide to the public in return. 
+
+All these ressources, the underlying design philosophy and the artstyle is analysed in a collective effort of "alpha research" and is developed further by us, consequently and without compromises, documented in our [Phoenix Concept]().
+
+
+## The Story
+
+
+
+
+
+A dark fantasy drama, narrated like a greek tragedy in two acts.
+
+
+ With a unique aesthetics. 
+
+
 
 ## README
 
