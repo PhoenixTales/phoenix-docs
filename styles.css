@@ -48,7 +48,7 @@ nav {
 
 main {
   display: flex;
-  align-content: center;
+  align-self: center;
   gap: 2em;
 }
 
