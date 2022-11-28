@@ -7,29 +7,31 @@
 radically immersive design that sucks less.</p>
 
 
-## About the Project
-
-Developed by [PhoenixTales](https://phoenixtales.de), it is based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes. GOTHIC had a radical concept and a meaningful story, but only fragments have been realised; which is why we see the game as it was primarily as a proof of concept of what it could have been. 
-
-GOTHIC had *Phoenix* as its working title and thus we have chosen PHOENIX as the name for the project under which we aspire to realise this initial vision with all its radical potential. In course of the development of PHOENIX we have created [Gothic Archive](https://gothicarchive.org) to preserve and to present this vision that we curate ever since. We have been provided and rescued design documents, concept arts and development builds that - whenever permitted - we provide to the public in return. 
-
-All these ressources, the underlying design philosophy and the artstyle is analysed in a collective effort of "alpha research" and is developed further by us, consequently and without compromises, documented in our [Phoenix Concept]().
+# About
 
 
-## The Story
+## Phoenix - A Gothic Tale
+
+A dark fantasy drama, narrated like a greek tragedy in two acts.  
+Developed by [PhoenixTales](https://phoenixtales.de), 
+
+ With a unique aesthetics.  
 
 
-
-
-
-A dark fantasy drama, narrated like a greek tragedy in two acts.
-
-
- With a unique aesthetics. 
+and at the same time the reconstruction of the intial vision of GOTHIC (2001).  
 
 
 
-## README
+## Phoenix - A Gothic (Alpha) Reboot
+
+PHOENIX is based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes. It is inspired by the original vision of GOTHIC of which only fragments have been realised. We see the game as it was primarily as a proof of concept of what it could have been - which is what we want PHOENIX to be. GOTHIC had *Phoenix* as its working title and thus we have chosen it as the name for this project under which we aspire to realise this initial vision with its radical potential.  
+
+In course of the development of PHOENIX we have created the [Gothic Archive](https://gothicarchive.org) to preserve and to present this inherited vision that we are curating since. We have been provided diverse pre-release material such as design documents, concept arts and alpha builds that we provide to the public in return, insofar we're allowed to.  
+
+All these ressources and the underlying design philosophy and artstyle is analysed in a collective effort of "alpha research" and developed further by us, consequently and without compromises, documented in our [Phoenix Concept]().  
+
+
+## Phoenix - Concept
 
 ```  
 PHOENIX DOCS
@@ -43,11 +45,12 @@ Authors:  Flosha, Logx, Arbax, Avallach,
 Changed last:  27.11.2022
 ```  
 
-These are the Design Documents of PHOENIX (also known as *Project Nyx*), a radically immersive gothic rpg developed by [PhoenixTales](https://phoenixtales.de), based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes (which had *Phoenix* as its working title).  
+The Phoenix Design Concept (short the "Phoenix-Docs") is a comprehensive documentation of every aspect of the project and is presented here in digital form, where the index serves as the navigation. Since we target an international audience and are an international team the docs are written in english. We plan for a physical release of the docs when we're done.  
 
-Here you find all our research and planning based on the original vision of Gothic (and its original Sequel) that we preserve and present in our [Archive](https://gothicarchive.org). Since we target an international audience and are an international team, the docs are written in english. We plan for a physical print when we're done.  
+<p class="subtext">Note: *Everything* is work in progress. The docs are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of the documents regular changes to the Index are to be expected.</p>
 
-<p class="subtext">Note: The docs are work in progress, they are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of docs regular changes to the Index are to be expected.</p>    
+
+### Read next: [Introduction](/vision/introduction.md)
 
 
 ### Links
