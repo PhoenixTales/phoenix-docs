@@ -14,7 +14,7 @@ PHOENIX is a gothic drama narrated like a greek tragedy with the game world serv
 
 <p class="subtext">Please note, PHOENIX is not an official game of the GOTHIC franchise, it's an independent and non-commercial project by a small indie team (PhoenixTales).</p>
 
-... a realisation of the unfulfilled and fragmented dream, PHOENIX is the *mosaic*, a reconstruction of "the Alpha" of GOTHIC that had *Phoenix* as its working title, which is why we have chosen it as the name for this project under which we aspire to realise the dream; the ressources in our Archive and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research" on the basis of which we continue the development of this dream of a game and develop it further without compromises and beyond corporate constraints.   
+... a realisation of the unfulfilled and fragmented dream, PHOENIX is the mosaic, a reconstruction of "the Alpha" of GOTHIC that had *Phoenix* as its working title, which is why we have chosen it as the name for this project under which we aspire to realise the dream; the ressources in our Archive and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research" on the basis of which we continue the development of this dream of a game and develop it further without compromises and beyond corporate constraints.   
 
 <p class="subtext">PHOENIX is extensively documented in our design concept (short "Phoenix Docs") which is presented here in digital form, where the index serves as the navigation.   
 Since we target an international audience and are an international team the docs are written in english. When we are done we plan for a printed release.  
