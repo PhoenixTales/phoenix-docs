@@ -325,10 +325,16 @@ and (max-width : 820px) {
   }
 
   #content {
-     flex: 1;
-     min-width: 0;
-     padding: 0 1.5em 3em;
+    flex: 1;
+    min-width: 0;
+    padding: 0 1.5em 3em;
   }
+
+  .suptext {
+    margin: 0;
+    padding: 1em 2em 3em;
+  }
+
 
 @supports (backdrop-filter: blur(10px)) {
     nav,
