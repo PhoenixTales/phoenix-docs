@@ -81,14 +81,14 @@ main img {
   background: var(--dark);
   max-width: 100%;
   margin: 0.5em 0 4em;
-  padding: 2em -3em;
+  padding: 2em 0;
   display: flex;
-  overflow: auto;
-  gap: 1em;
+  overflow: hidden;
+  gap: 3em;
 }
   .promo-graphics img {
     height: 500px;
-    padding: 2em 0;
+    padding: 3em 0;
   }
 
 
@@ -361,7 +361,7 @@ and (max-width : 820px) {
   }
   
   .promo-graphics {
-  padding: 2em -1.5em;
+  overflow: auto;
   }
 
 
