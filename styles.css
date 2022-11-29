@@ -84,7 +84,7 @@ main img {
   padding: 0;
   display: flex;
   flex-wrap: no-wrap;
-  overflow-x; scroll;
+  overflow: scroll;
 }
   .promo-graphics img {
     height: 500px;
