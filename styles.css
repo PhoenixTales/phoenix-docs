@@ -77,6 +77,19 @@ main img {
     width: 380px;
   }
 
+.promo-graphics {
+  background: var(--dark);
+
+  display: flex;
+  flex-wrap: no-wrap;
+  overflow-x; scroll;
+}
+  .promo-graphics img {
+    height: 500px;
+    margin: 1em 0.5em;
+  }
+
+
 #content {
   padding: 2em 3em 3em;
   max-width: 650px;
