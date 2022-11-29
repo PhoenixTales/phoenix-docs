@@ -25,6 +25,7 @@ body {
   margin: 0;
 
   display: flex;
+  flex: 1;
   /*justify-content: center;*/
   flex-direction: row;
 }
@@ -62,7 +63,7 @@ nav {
 }
 
 main {
-  max-width: 100%;
+  width: 100%;
   display: flex;
   justify-content: space-evenly;
   gap: 2em;
@@ -94,7 +95,7 @@ main img {
 
 
 #content {
-  max-width: 100%;
+  width: 100%;
   min-width: 0;
   margin: 2em 0;
   padding: 0;
