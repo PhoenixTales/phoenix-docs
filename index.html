@@ -21,9 +21,9 @@ title: Introduction
       <img src="/_img/cover/image(20).png">
     </section>
   
-    <section class="text">
-    {% capture about %}{% include about.md %}{% endcapture %}
-    {{ about | markdownify }}
+    <section id="text">
+      {% capture about %}{% include about.md %}{% endcapture %}
+      {{ about | markdownify }}
     </section>
 
   </section>
