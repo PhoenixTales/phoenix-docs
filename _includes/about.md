@@ -1,6 +1,12 @@
 <p class="suptext">A story-driven action-rpg with a 
 radically immersive design that sucks less.</p>
 
+<section class="promo-graphics">
+  <img src="/_img/cover/image(26).png">
+  <img src="/_img/cover/image(15).png">
+  <img src="/_img/cover/image(20).png">
+  <img src="/_img/cover/image(55).jpg">
+</section>
 
 # Introduction
 
