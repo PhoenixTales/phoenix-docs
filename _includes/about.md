@@ -12,7 +12,7 @@ PHOENIX is a gothic drama narrated like a greek tragedy with the game world serv
 
 ... a Gothic (Alpha) Reboot; based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes, PHOENIX is inspired by the original vision of what Gothic should have been; in order to preserve and to present this vision inherited by PHOENIX we have created the [Gothic Archive](https://gothicarchive.org), where we provide diverse pre-release material that we have been provided by former Gothic developers to [rescue the design](https://phoenixthegame.com/specials/20thAnniversary/AJourneyToMike.html).
 
-<p class="subtext">PHOENIX is *not* an official title of the GOTHIC franchise, it's an independent and non-commercial project by a small indie team (PhoenixTales).</p>
+<p class="subtext">PHOENIX is **not** an official title of the GOTHIC franchise, it's an independent and non-commercial project by a small indie team (PhoenixTales).</p>
 
 ... a realisation of the unfulfilled and fragmented dream, PHOENIX is the mosaic, a reconstruction of "the Alpha" of GOTHIC that had *Phoenix* as its working title, which is why we have chosen it as the name for this project under which we aspire to realise the dream; the ressources in our Archive and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research" on the basis of which we continue the development of this dream of a game and develop it further without compromises and beyond corporate constraints.   
 
