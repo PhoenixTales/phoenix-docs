@@ -82,7 +82,7 @@ main img {
   background: var(--dark);
   max-width: 100%;
   margin: 0.5em 0 4em;
-  padding: 2em 3em;
+  padding: 0 4em;
   display: flex;
   overflow: hidden;
   gap: 3em;
