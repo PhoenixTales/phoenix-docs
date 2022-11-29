@@ -82,7 +82,7 @@ main img {
   background: var(--dark);
   max-width: 100%;
   margin: 0.5em 0 4em;
-  padding: 0 4em;
+  padding: 4em;
   display: flex;
   overflow: hidden;
   gap: 3em;
@@ -96,7 +96,6 @@ main img {
 #content {
   width: 100%;
   min-width: 0;
-  margin: 2em 0;
   padding: 0;
 }
 
