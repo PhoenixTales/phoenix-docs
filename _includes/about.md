@@ -20,7 +20,7 @@ PHOENIX is a gothic drama narrated like a greek tragedy with the game world serv
 
 <p class="subtext">Note that the docs are work in progress, they are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of documents, regular changes to the Index are to be expected.</p>
 
-... developed by [PhoenixTales](https://phoenixtales.de).  
+... developed by [PhoenixTales](https://phoenixtales.de), a small indie-team of freely associated members from different corners of the world.
 
 ... released when it's done. 
 
