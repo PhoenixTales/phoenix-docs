@@ -84,7 +84,7 @@ main img {
   padding: 2em -3em;
   display: flex;
   flex-wrap: no-wrap;
-  overflow: scroll;
+  overflow: auto;
   gap: 1em;
 }
   .promo-graphics img {
@@ -118,6 +118,10 @@ footer ul {
   display: flex;
   justify-content: center;
   gap: 2em;
+}
+
+footer ul li {
+  list-style: none;
 }
 
 

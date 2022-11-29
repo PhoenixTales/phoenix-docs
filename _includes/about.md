@@ -5,7 +5,6 @@ radically immersive design that sucks less.</p>
   <img src="/_img/cover/image(26).png">
   <img src="/_img/cover/image(15).png">
   <img src="/_img/cover/image(20).png">
-  <img src="/_img/cover/image(55).jpg">
 </section>
 
 # Introduction
