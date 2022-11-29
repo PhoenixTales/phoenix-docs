@@ -54,7 +54,7 @@ nav {
 
   padding: 2.5em;
   /*margin-top: 2em;*/
-  /*max-width: 380px;*/
+  width: 400px;
 
   border-right: 1px dashed var(--stone);
 
@@ -94,7 +94,7 @@ main img {
 
 
 #content {
-  width: 100%;
+  max-width: 100%;
   min-width: 0;
   margin: 2em 0;
   padding: 0;
