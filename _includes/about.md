@@ -27,7 +27,7 @@ PHOENIX is a gothic drama narrated like a greek tragedy with the game world serv
 
 ### Read next 
 
-* [What is Gothic?](/vision/ongothic.md)
+* [Gothic defined](/vision/ongothic.md)
 
 
 ### Links
