@@ -25,12 +25,12 @@ PHOENIX is a gothic drama narrated like a greek tragedy with the game world serv
 ... released when it's done. 
 
 
-### Read next 
+## Read next 
 
 * [Gothic defined](/vision/ongothic.md)
 
 
-### Links
+## Links
 
 * Dev: [phoenixtales.de](https://phoenixtales.de)
 * Phoenix: [phoenixthegame.com](https://phoenixthegame.com)
