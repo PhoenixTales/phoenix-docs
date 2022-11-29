@@ -4,12 +4,11 @@ radically immersive design that sucks less.</p>
 
 # README
 
-PHOENIX is a gothic tale.
-A dark fantasy drama, narrated like a greek tragedy with the game world serving as its stage.  
+PHOENIX is a gothic tale, a dark fantasy drama, narrated like a greek tragedy with the game world serving as its stage.  
 
-Designed as a melancholic virtual tale and a philosophical reflection with different plots depending on the decisions and the playstyle of the player.  
-An immersive sim set in a mystic valley full of conflict, decay and atmospheric density. 
-Everything is designed by hand and comes with unique aesthetics and lovely retro graphics, while the gameplay is focused on immersion by visualisation: No numbers, no statistics, just roleplay.
+Designed as an rpg in form of a virtual tale and a philosophical reflection with different plots depending on the decisions and playstyle of the player.  
+ 
+An immersive sim set in a mystic valley full of conflict, decay and atmospheric density. Everything is designed by hand and comes with unique aesthetics and lovely retro graphics, while the gameplay is focused on immersion by visualisation: No numbers, no statistics, just roleplay.
 
 It is developed by [PhoenixTales](https://phoenixtales.de) and done when it's done. 
 
@@ -21,7 +20,7 @@ Gothic is very different to what it was once supposed to be and we consider what
 
 In order to preserve and to present this vision inherited by PHOENIX we also have created the [Gothic Archive](https://gothicarchive.org), where we provide diverse pre-release material that we have been provided by former Gothic developers to [rescue the design](https://phoenixthegame.com/specials/20thAnniversary/AJourneyToMike.html).    
 
-All these ressources and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research". On this basis we consequently continue to develop it and develop it further without compromises and beyond corporate constraints.   
+All these ressources and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research". On this basis we continue the development of this unfulfilled dream and develop it further without compromises and beyond corporate constraints.   
 
 
 ```  
@@ -36,7 +35,8 @@ Authors:  Flosha, Logx, Arbax,
 Changed last:  27.11.2022
 ```  
 
-In our Design Concept (short "Phoenix Docs") we are documenting every aspect of the project and these docs are presented here in digital form, where the index serves as the navigation.  
+We are documenting every aspect of the project in our Design Concept (short "Phoenix Docs"), presented here in digital form, where the index serves as the navigation.   
+
 Since we target an international audience and are an international team the docs are written in english. When we are done we plan for a printed release.  
 
 <p class="subtext">Note: Everything is work in progress. The docs are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of the documents, regular changes to the Index are to be expected.</p>
