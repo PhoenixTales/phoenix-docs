@@ -79,7 +79,9 @@ main img {
 
 .promo-graphics {
   background: var(--dark);
-
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
   display: flex;
   flex-wrap: no-wrap;
   overflow-x; scroll;
