@@ -62,8 +62,7 @@ nav {
 }
 
 main {
-  max-width: 100%;
-  width: 100%;
+  flex: 1;
   display: flex;
   justify-content: space-evenly;
   gap: 2em;
