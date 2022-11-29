@@ -6,10 +6,10 @@
 
 1. Vision
 	1. Introduction
-        2. Gothic defined
-        3. Design Philosophy
-        4. Project Goal
-        5. Criteria of Modification
+	2. Gothic defined
+	3. Design Philosophy
+	4. Project Goal
+	5. Criteria of Modification
 2. Mechanics
 	1. Classes
 	2. [Attributes](/Mechanics/attributes.md)
