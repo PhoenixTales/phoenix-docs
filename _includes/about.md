@@ -4,47 +4,33 @@ radically immersive design that sucks less.</p>
 
 # README
 
-PHOENIX is a gothic tale, a dark fantasy drama, narrated like a greek tragedy with the game world serving as its stage.  
+PHOENIX is 
 
-Designed as an rpg in form of a virtual tale and a philosophical reflection with different plots depending on the decisions and playstyle of the player.  
+... a gothic drama narrated like a greek tragedy with the game world serving as its stage.  
+
+... a roleplaying game like a virtual tale, a philosophical reflection and a timeless allegory with different plots depending on the decisions and the playstyle of the player.  
  
-An immersive sim set in a mystic valley full of conflict, decay and atmospheric density. Everything is designed by hand and comes with unique aesthetics and lovely retro graphics, while the gameplay is focused on immersion by visualisation: No numbers, no statistics, just roleplay.
+... an immersive sim set in a mystic valley full of conflict, decay and atmospheric density; everything is designed by hand and comes with unique aesthetics and lovely retro graphics, while the gameplay is focused on immersion by visualisation: No numbers, no statistics, just roleplay.
 
-It is developed by [PhoenixTales](https://phoenixtales.de) and done when it's done. 
-
-PHOENIX is a Gothic (Alpha) Reboot.
-Based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes, PHOENIX is inspired by the original vision of Gothic of which only fragments could be realised.  
-Gothic is very different to what it was once supposed to be and we consider what it has become as a proof of concept of what it could have been and what we want PHOENIX to be. GOTHIC had *Phoenix* as its working title and thus we have chosen it as the name for this project under which we aspire to realise this initial vision.  
+... a Gothic (Alpha) Reboot; based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes, PHOENIX is what Gothic should have been, inspired by the original vision. And in order to preserve and to present this vision inherited by PHOENIX we have created the [Gothic Archive](https://gothicarchive.org), where we provide diverse pre-release material that we have been provided by former Gothic developers to [rescue the design](https://phoenixthegame.com/specials/20thAnniversary/AJourneyToMike.html).
 
 <p class="subtext">Please note, PHOENIX is not an official game of the GOTHIC franchise, it's an independent and non-commercial project by a small indie team (PhoenixTales).</p>
 
-In order to preserve and to present this vision inherited by PHOENIX we also have created the [Gothic Archive](https://gothicarchive.org), where we provide diverse pre-release material that we have been provided by former Gothic developers to [rescue the design](https://phoenixthegame.com/specials/20thAnniversary/AJourneyToMike.html).    
-
-All these ressources and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research". On this basis we continue the development of this unfulfilled dream and develop it further without compromises and beyond corporate constraints.   
+... a realisation of the unfullfilled and fragmented dream, PHOENIX is the mosaic, a reconstruction of "the Alpha" of GOTHIC that had *Phoenix* as its working title, which is why we have chosen it as the name for this project under which we aspire to fulfill the dream and develop. All the ressources in our Archive and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research". On this basis we continue the development of this unfulfilled dream and develop it further without compromises and beyond corporate constraints.   
 
 
-```  
-PHOENIX
-
-"Phoenix Design Concept"
-2016-2022 by PhoenixTales
-
-Authors:  Flosha, Logx, Arbax, 
-          Avallach, Auronen
-
-Changed last:  27.11.2022
-```  
-
-We are documenting every aspect of the project in our Design Concept (short "Phoenix Docs"), presented here in digital form, where the index serves as the navigation.   
-
+<p class="subtext">PHOENIX is extensively documented in our design concept (short "Phoenix Docs") which is presented here in digital form, where the index serves as the navigation.   
 Since we target an international audience and are an international team the docs are written in english. When we are done we plan for a printed release.  
-
-<p class="subtext">Note: Everything is work in progress. The docs are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of the documents, regular changes to the Index are to be expected.</p>
+Everything is work in progress. The docs are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of the documents, regular changes to the Index are to be expected.</p>
 
 
 ### Read next 
 
 * [Introduction](/vision/introduction.md)
+
+
+Developed by [PhoenixTales](https://phoenixtales.de).  
+Release: When it's done. 
 
 
 ### Links
