@@ -62,6 +62,7 @@ nav {
 }
 
 main {
+  position: absolute;
   width: 100%;
   display: flex;
   justify-content: space-evenly;
@@ -372,11 +373,6 @@ and (max-width : 820px) {
   
   .promo-graphics {
   overflow: auto;
-  }
-
-  footer {
-    position: relative;
-    z-index: 2;
   }
 
 
