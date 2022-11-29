@@ -35,6 +35,3 @@ PHOENIX is a gothic drama narrated like a greek tragedy with the game world serv
 * Dev: [phoenixtales.de](https://phoenixtales.de)
 * Phoenix: [phoenixthegame.com](https://phoenixthegame.com)
 * Gothic: [gothicarchive.org](https://gothicarchive.org)
-* Git: [phoenixtales-github](https://github.com/PhoenixTales)
-* Community: [phoenix-discord](https://discord.gg/CK4VAR7fpH)
-
