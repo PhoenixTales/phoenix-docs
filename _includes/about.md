@@ -4,24 +4,24 @@ radically immersive design that sucks less.</p>
 
 # README
 
-PHOENIX is 
+PHOENIX is a gothic drama narrated like a greek tragedy with the game world serving as its stage.  
 
-... a gothic drama narrated like a greek tragedy with the game world serving as its stage.  
-
-... a roleplaying game like a virtual tale, a philosophical reflection and a timeless allegory with different plots depending on the decisions and the playstyle of the player.  
+... a meaningful story like a virtual tale, a philosophical reflection and a timeless allegory with different plots depending on the player's decisions and playstyle.  
  
-... an immersive sim set in a mystic valley full of conflict, decay and atmospheric density; everything is designed by hand and comes with unique aesthetics and lovely retro graphics, while the gameplay is focused on immersion by visualisation: No numbers, no statistics, just roleplay.
+... an immersive sim set in a mystic valley full of conflict, decay and atmospheric density; completely designed by hand, bearing a unique aesthetics in a retro graphics style and with a gameplay focused on immersion by visualisation: No numbers, no statistics, just roleplay.
 
-... a Gothic (Alpha) Reboot; based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes, PHOENIX is what Gothic should have been, inspired by the original vision. And in order to preserve and to present this vision inherited by PHOENIX we have created the [Gothic Archive](https://gothicarchive.org), where we provide diverse pre-release material that we have been provided by former Gothic developers to [rescue the design](https://phoenixthegame.com/specials/20thAnniversary/AJourneyToMike.html).
+... a Gothic (Alpha) Reboot; based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes, PHOENIX is inspired by the original vision of what Gothic should have been; in order to preserve and to present this vision inherited by PHOENIX we have created the [Gothic Archive](https://gothicarchive.org), where we provide diverse pre-release material that we have been provided by former Gothic developers to [rescue the design](https://phoenixthegame.com/specials/20thAnniversary/AJourneyToMike.html).
 
 <p class="subtext">Please note, PHOENIX is not an official game of the GOTHIC franchise, it's an independent and non-commercial project by a small indie team (PhoenixTales).</p>
 
-... a realisation of the unfullfilled and fragmented dream, PHOENIX is the mosaic, a reconstruction of "the Alpha" of GOTHIC that had *Phoenix* as its working title, which is why we have chosen it as the name for this project under which we aspire to fulfill the dream and develop. All the ressources in our Archive and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research". On this basis we continue the development of this unfulfilled dream and develop it further without compromises and beyond corporate constraints.   
-
+... a realisation of the unfulfilled and fragmented dream, PHOENIX is the *mosaic*, a reconstruction of "the Alpha" of GOTHIC that had *Phoenix* as its working title, which is why we have chosen it as the name for this project under which we aspire to realise the dream; the ressources in our Archive and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research" on the basis of which we continue the development of this dream of a game and develop it further without compromises and beyond corporate constraints.   
 
 <p class="subtext">PHOENIX is extensively documented in our design concept (short "Phoenix Docs") which is presented here in digital form, where the index serves as the navigation.   
 Since we target an international audience and are an international team the docs are written in english. When we are done we plan for a printed release.  
-Everything is work in progress. The docs are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of the documents, regular changes to the Index are to be expected.</p>
+Note that everything is work in progress. The docs are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of the documents, regular changes to the Index are to be expected.</p>
+
+... developed by [PhoenixTales](https://phoenixtales.de).  
+Release: When it's done. 
 
 
 ### Read next 
@@ -29,8 +29,7 @@ Everything is work in progress. The docs are currently rewritten and will be unl
 * [Introduction](/vision/introduction.md)
 
 
-Developed by [PhoenixTales](https://phoenixtales.de).  
-Release: When it's done. 
+
 
 
 ### Links
