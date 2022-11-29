@@ -93,7 +93,7 @@ main img {
 
 
 #content {
-  width: 100%;
+  max-width: 100%;
   flex: 1;
   min-width: 0;
   padding: 0;
