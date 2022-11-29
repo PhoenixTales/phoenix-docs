@@ -97,6 +97,14 @@ main img {
   padding: 1em 0;
 }
 
+footer ul {
+  font-size: 14px;
+
+  display: flex;
+  justify-content: center;
+  gap: 2em;
+}
+
 
 /* HEADINGS */
 
