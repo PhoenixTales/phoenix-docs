@@ -1,12 +1,3 @@
-<p class="suptext">A story-driven action-rpg with a 
-radically immersive design that sucks less.</p>
-
-<section class="promo-graphics">
-  <img src="/_img/cover/image(26).png">
-  <img src="/_img/cover/image(15).png">
-  <img src="/_img/cover/image(20).png">
-</section>
-
 # Introduction
 
 PHOENIX is a gothic drama narrated like a greek tragedy with the game world serving as its stage.  
