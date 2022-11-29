@@ -58,7 +58,7 @@ nav {
 
   border-right: 1px dashed var(--stone);
 
-  z-index: 3;
+  z-index: 2;
 }
 
 main {
@@ -67,7 +67,7 @@ main {
   justify-content: space-evenly;
   gap: 2em;
   
-  z-index: 2;
+  z-index: 1;
 }
 
 main img {
@@ -120,7 +120,7 @@ main img {
 }
 
 footer {
-  z-index: 1;
+  width: 100%;
 }
 
 footer ul {
@@ -373,6 +373,11 @@ and (max-width : 820px) {
   
   .promo-graphics {
   overflow: auto;
+  }
+
+  footer {
+    position: absolute;
+    bottom: 1px solid;
   }
 
 
