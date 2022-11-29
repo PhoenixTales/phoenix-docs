@@ -8,7 +8,7 @@ PHOENIX is a gothic drama narrated like a greek tragedy with the game world serv
 
 ... a meaningful story like a virtual tale, a philosophical reflection and a timeless allegory with different plots depending on the player's decisions and playstyle.  
  
-... an immersive sim set in a mystic valley full of conflict, decay and atmospheric density; completely designed by hand, bearing a unique aesthetics in a retro graphics style and with a gameplay focused on immersion by visualisation: No numbers, no statistics, just roleplay.
+... an immersive sim set in a mystic valley full of conflict, decay and atmospheric density; completely designed by hand it bears a unique aesthetics in a retro graphics style, with a gameplay focused on immersion by visualisation: No numbers, no statistics, just roleplay.
 
 ... a Gothic (Alpha) Reboot; based on and conceived as an independent and non-commercial Reboot of GOTHIC&trade; by Piranha Bytes, PHOENIX is inspired by the original vision of what Gothic should have been; in order to preserve and to present this vision inherited by PHOENIX we have created the [Gothic Archive](https://gothicarchive.org), where we provide diverse pre-release material that we have been provided by former Gothic developers to [rescue the design](https://phoenixthegame.com/specials/20thAnniversary/AJourneyToMike.html).
 
