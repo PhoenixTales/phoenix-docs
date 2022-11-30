@@ -58,8 +58,8 @@ nav {
 }
   nav img {
     display: block;
-    max-width: 250px;
-    margin: 0 auto;
+    max-width: 300px;
+    margin: 0 auto 2em;
   }
   nav h2 {
     margin-top: 1.5em;
