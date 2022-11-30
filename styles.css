@@ -127,6 +127,10 @@ ol>li::before {
   color: #6a6a6a;
 }
 
+.article ol, .article ul {
+  padding-left: 0;
+}
+
 .article ol>li, .article ul>li {
   padding-left: 0;
 }
@@ -172,8 +176,9 @@ th, td {
 
 blockquote {
   font-size: 16px;
-  border-left: 5px solid var(--blood);
+  border-left: 10px solid var(--blood);
   padding-left: 1em;
+  margin-left: 0;
 }
 
 
@@ -224,6 +229,9 @@ blockquote {
     margin: 2em 0 1em;
     max-width: 95%;
   }
+  .article h1 {
+    margin-top: 2em;
+  }
 
 .suptext {
   display: block;
@@ -254,10 +262,6 @@ label[for="menu-toggle"]  {
 
 @media only screen
 and (max-width : 820px) {
-
-  /*header { 
-    position: initial;
-  }*/
 
   nav {
     font-size: 15px;
