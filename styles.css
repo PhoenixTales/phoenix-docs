@@ -275,7 +275,7 @@ and (max-width : 820px) {
     font-size: 15px;
 
     margin: 0;
-    padding: 0 1.5em 3em;
+    padding: 0 1.5em 1em;
     border-right: none;
     border-bottom: 7px solid var(--blood);
     z-index: 2;
