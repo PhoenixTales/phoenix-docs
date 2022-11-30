@@ -58,7 +58,7 @@ nav {
 }
   nav img {
     display: block;
-    max-width: 300px;
+    width: 290px;
     margin: 0 auto 3em;
   }
   nav h2 {
