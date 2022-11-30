@@ -195,6 +195,7 @@ th, td {
 
 #coverpage {
   display: flex;
+  flex-wrap: wrap;
 }
 
 #cover {
@@ -206,6 +207,7 @@ th, td {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  padding: 2em;
 }
   #visual-news img {
     max-height: 200px;
@@ -377,6 +379,11 @@ and (max-width : 820px) {
   margin: 0;
   }
 
+  #cover {
+    width: 100%;
+    flex-shrink: 1;
+  }
+  
   #visual-news {
     display: none;
   }
