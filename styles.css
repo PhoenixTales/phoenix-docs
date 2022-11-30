@@ -209,7 +209,7 @@ th, td {
 #visual-news {
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: space-evenly;
   padding: 2em;
 }
   #visual-news img {
