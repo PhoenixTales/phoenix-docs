@@ -5,10 +5,11 @@ title: Gothic defined
 
 # Gothic defined  
 
-```
-Author: Flosha    Written: 18.10.2022 
-                  Changed: 30.11.2022  
-```
+Author: Flosha  
+Written: 18.10.2022  
+Changed: 30.11.2022  
+
+![Gothic defined](/_img/headings/gothic-defined.png)
 
 In order to create a gothic drama we have to define what "Gothic" is. Gothic is not just a specific game and its underlying concept, it was also an attempt to initiate a genre of gothic-like games. GOTHIC is supposed to be "another kind of fantasy", as written in a Gothic promotion booklet.  
 
