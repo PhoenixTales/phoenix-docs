@@ -28,7 +28,7 @@ Author: Flosha    Written: 29.11.2022
 
 ## Read next 
 
-* [Gothic defined](/vision/ongothic.md)
+* [Gothic defined](/vision/gothic-defined)
 
 
 ## Links
