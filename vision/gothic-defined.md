@@ -3,18 +3,18 @@ layout: default
 title: Gothic defined
 ---
 
-# Gothic defined
+# Gothic defined  
 
 ```
 Author: Flosha    Written: 18.10.2022 
                   Changed: 30.11.2022  
 ```
 
-In order to create a gothic drama we have to define what "Gothic" is. Gothic is not just a specific game and its underlying concept, it was also an attempt to initiate a genre of gothic-like games. GOTHIC is supposed to be "another kind of fantasy".
+In order to create a gothic drama we have to define what "Gothic" is. Gothic is not just a specific game and its underlying concept, it was also an attempt to initiate a genre of gothic-like games. GOTHIC is supposed to be "another kind of fantasy", as written in a Gothic promotion booklet.  
 
 > Common Fantasy is very simple (...) divided into black & white, good & evil. Fantasy is neat, clean and colourful. GOTHIC is different. GOTHIC is gloomy. GOTHIC is dark. GOTHIC is mystical. GOTHIC is strange. GOTHIC is dangerous. GOTHIC is not a 3D-realtime-Fantasy-RPG. It's a 3D-realtime-GOTHIC-RPG.
 
-Based on these descriptions we can deduce several characteristics of GOTHIC as "the other kind of fantasy" that defines GOTHIC as a genre.
+Based on these descriptions we can deduce several characteristics of GOTHIC as "the other kind of fantasy" that define GOTHIC as a genre.
 
 GOTHIC is...
 
