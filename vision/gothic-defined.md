@@ -28,9 +28,9 @@ GOTHIC is...
 * **strange**, it is unusual with an unique setting that raises questions
 * **dangerous**, it has a threatening atmosphere
 
-... blabla ...
+Additionally we have to consider what the four founders of Piranha Bytes (Mike Hoge, Alex Brüggemann, Stefan Nyul and Tom Putzki) themselves said about the game. They are main responsible for the vision. How did they promote it in their pitch? How did they promote it in Interviews? What did they consider most important about GOTHIC?
 
-Regarding the early ideas of the four founders of Piranha Bytes (Mike Hoge, Alex Brüggemann, Stefan Nyul and Tom Putzki) we consider the oldest interviews to be by far the most interesting ones. Because here they described their ideas most clearly and radically, when it still was mostly in their heads, it was not yet a game and they wanted to do everything different.
+Regarding the early ideas of the founders we consider the oldest interviews to be by far the most interesting ones. Because here they described their ideas most clearly and radically, when it was mostly still in their heads; they wanted to do everything different and the game did not yet exist.
 
 ... to be continued
 
