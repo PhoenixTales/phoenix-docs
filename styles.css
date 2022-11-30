@@ -197,9 +197,14 @@ th, td {
   display: flex;
 }
 
+#cover {
+  width: 630px;
+}
+
 #visual-news {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
   #visual-news img {
     max-height: 200px;
@@ -369,6 +374,10 @@ and (max-width : 820px) {
   .promo-graphics {
   overflow: auto;
   margin: 0;
+  }
+
+  #visual-news {
+    display: none;
   }
 
 
