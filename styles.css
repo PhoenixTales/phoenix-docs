@@ -198,8 +198,8 @@ th, td {
 }
 
 #cover {
-  /*min-width: 630px;*/
-  flex: 1;
+  width: 630px;
+  flex-shrink: 0;
 }
 
 #visual-news {
