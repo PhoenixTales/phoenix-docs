@@ -52,12 +52,14 @@ header h1::before {
 
 nav {
   font-size: 14px;
-  padding: 2.5em;
+  padding: 1.5em 2.5em 5em;
   border-right: 5px solid var(--dark);
   z-index: 2;
 }
   nav img {
+    display: block;
     max-width: 250px;
+    margin: 0 auto;
   }
   nav h2 {
     margin-top: 1.5em;
