@@ -55,7 +55,7 @@
 			1. Act I: Orpheus
 				1. Background Story
 					1. The Revolt
-					2. Founding of the Camps
+					2. The Camps
 				2. Plot Abstract
 				3. Plot Description
 					* Chapter 1: World of Convicts
@@ -66,7 +66,7 @@
 					* Chapter 6: Bloodnight
 				4. Plot Logic
 			2. Act II: Nemesis
-				1. Background (Act I to Act II)
+				1. Background (Act I to II)
 				2. Plot Abstract
 				3. Plot Description
 					* Chapter 7: Return to Prison

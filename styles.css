@@ -123,8 +123,12 @@ nav ol, nav ul {
   padding-bottom: 0.5em;
 }
 
-nav ol>li, nav ul>li {
+nav ol>li {
   padding-left: 1.5em;
+}
+
+nav ul>li {
+  padding-left: 0.5em;
 }
 
 nav ul>li::before {
