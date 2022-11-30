@@ -1,4 +1,4 @@
-![Phoenix](_img/phnx-logo-low.png)
+![Phoenix](_img/phnx-logo-low2.png)
 
 # Concept
 
