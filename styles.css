@@ -70,11 +70,6 @@ main {
   z-index: 1;
 }
 
-main img {
-  display: block;
-  margin: 0 auto;
-}
-
 footer {
   width: 100%;
 }
@@ -210,6 +205,8 @@ th, td {
 /* MISC */
 
 .phnx-mask {
+  display: block;
+  margin: 0 auto;
   width: 380px;
 }
 
@@ -239,6 +236,9 @@ th, td {
   max-width: 600px;
   min-width: 0;
 }
+  .article img {
+    margin: 2em 0;
+  }
 
 .suptext {
   display: block;
