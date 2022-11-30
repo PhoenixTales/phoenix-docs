@@ -64,11 +64,15 @@ nav {
 main {
   width: 100%;
   flex: 1;
+  min-width: 0;
+  padding: 3em 0;
+
+ /* flex: 1;
   display: flex;
   justify-content: space-evenly;
   gap: 2em;
   min-width: 0;
-  padding: 3em 0;
+ */ 
   
   z-index: 1;
 }
@@ -95,6 +99,13 @@ main img {
     padding: 1em 0;
   }
 
+
+#content {
+  width: 100%;
+  flex: 1;
+  min-width: 0;
+  padding: 3em 0;
+}
 
 #text {
   padding: 2em 3em 3em;
