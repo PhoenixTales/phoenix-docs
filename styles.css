@@ -224,7 +224,7 @@ th, td {
   background: var(--dark);
   max-width: 100%;
   margin: 0.5em 0 3em;
-  padding: 4em;
+  padding: 2em;
   display: flex;
   overflow: hidden;
   gap: 3em;
