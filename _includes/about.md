@@ -8,11 +8,11 @@
 
 <p class="subtext">PHOENIX is not an official title of the GOTHIC franchise, it's an independent and non-commercial project by PhoenixTales.</p>
 
-... a realisation of the unfulfilled and fragmented dream, PHOENIX is the mosaic, a reconstruction of "the Alpha" of GOTHIC that had *Phoenix* as its working title, which is why we have chosen it as the name for this project under which we aspire to realise the dream; the ressources in our Archive and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research" on the basis of which we continue the development of this dream of a game and develop it further without compromises and beyond corporate constraints.   
+... a realisation of the unfulfilled and fragmented dream, PHOENIX is the mosaic, a reconstruction of "the Alpha" of GOTHIC that had *Phoenix* as its working title, which is why we have chosen it as the name under which we aspire to realise the dream; the ressources in our Archive and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research" on the basis of which we continue the development of this dream of a game and develop it further without compromises and beyond corporate constraints.   
 
-... extensively documented in our design concept (short "Phoenix Docs") which is presented here in digital form, in which the index serves as the navigation.  
+... extensively documented in our design concept (short "Phoenix Docs") presented here in digital form, in which the index serves as the navigation.  
 
-<p class="subtext">Note that the docs are work in progress, they are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of documents, regular changes to the Index are to be expected.</p>
+<p class="subtext">The docs are <span class="">work in progress</span>, they're currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of documents, regular changes to the Index are to be expected.</p>
 
 ... developed by [PhoenixTales](https://phoenixtales.de), a small indie-team of freely associated members from different corners of the world.
 

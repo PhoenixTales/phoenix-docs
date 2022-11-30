@@ -1,0 +1,2 @@
+1. Schwellwert
+2. Helligkeit -50
