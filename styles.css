@@ -215,6 +215,7 @@ th, td {
 }
   #visual-news img {
     max-width: 500px;
+    flex-shrink: 1;
   }
 
 .phnx-mask {
