@@ -1,6 +1,6 @@
 ![Phoenix](_img/phnx-logo-low.png)
 
-# PhoenixDocs
+# Concept
 
 ## Index
 
@@ -112,9 +112,9 @@
 6. Inspirations
 7. [Appendix](/appendix.md)
 
----
 
+## Links
+
+* [Dev](https://phoenixtales.de)
 * [GitHub](https://github.com/PhoenixTales)
 * [Discord](https://discord.gg/CK4VAR7fpH)
-
-2016-2022 by [PhoenixTales](https://phoenixtales.de)
