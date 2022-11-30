@@ -209,12 +209,12 @@ th, td {
 #visual-news {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: center;
+  align-items: center;
   padding: 2em;
 }
   #visual-news img {
     max-width: 300px;
-    align-self: top;
   }
 
 .phnx-mask {
