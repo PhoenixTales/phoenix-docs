@@ -229,8 +229,8 @@ th, td {
   }
   .promo-graphics img:hover {
     filter: brightness(75%);
-    filter: blur(5px);
-    transition: all .3s ease-out; 
+    transition: all .3s ease-in-out; 
+    border: 7px solid var(--ore);
   }
 
 .article {
