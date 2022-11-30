@@ -211,11 +211,10 @@ th, td {
   flex-wrap: wrap;
   justify-content: center;
   padding: 2em;
-  flex-shrink: 1;
-  flex-grow: 0;
 }
   #visual-news img {
     max-width: 300px;
+    align-self: top;
   }
 
 .phnx-mask {
