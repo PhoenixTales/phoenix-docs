@@ -225,7 +225,7 @@ th, td {
   .promo-graphics img {
     height: 400px;
     padding: 0;
-    border: 10px solid var(--blood);
+    border: 7px solid var(--blood);
   }
 
 .suptext {
