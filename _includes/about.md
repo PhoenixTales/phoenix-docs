@@ -1,3 +1,9 @@
+# On Phoenix
+
+**Author:** Flosha  
+**Written:** 29.11.2022  
+**Changed:** 30.11.2022  
+
 ![Phoenix is... ](/_img/headings/phoenix-is.png)
 
 ... a gothic drama narrated like a greek tragedy with the game world serving as the stage, to present a meaningful story, acted out like a virtual tale, a philosophical reflection and a timeless allegory with different plots depending on the player's decisions and playstyle.  
