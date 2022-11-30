@@ -70,7 +70,7 @@ main {
   width: 100%;
   flex: 1;
   min-width: 0;
-  padding: 4em 0;
+  padding: 0 0 3em;
 
   z-index: 1;
 }
@@ -201,7 +201,9 @@ th, td {
   background: url(_img/bg/bg-friends.jpg);
   background-position: bottom right;
   background-size: 70%;
+  background-repeat: no-repeat;
   width: 100%;
+  padding: 4em 0 0;
 }
 
 #visual-news {
@@ -209,7 +211,7 @@ th, td {
   flex-wrap: wrap;
   justify-content: center;
   padding: 2em;
-  flex-shrink: 2;
+  flex-shrink: 1;
 }
   #visual-news img {
     max-width: 300px;
