@@ -25,6 +25,7 @@ body {
   margin: 0;
 
   display: flex;
+  flex-wrap: wrap;
   flex: 1;
   /*justify-content: center;*/
   flex-direction: row;
