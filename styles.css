@@ -70,7 +70,7 @@ main {
   width: 100%;
   flex: 1;
   min-width: 0;
-  padding: 0 0 3em;
+  padding: 0;
 
   z-index: 1;
 }
@@ -223,7 +223,7 @@ th, td {
 
 .article {
   margin: 0 auto;
-  padding: 2em 3em 3em;
+  padding: 2em 1em 3em;
   max-width: 590px;
   min-width: 0;
 }
@@ -335,7 +335,6 @@ and (max-width : 820px) {
   }
 
   #article {
-    flex: 1;
     max-width: 100%;
     min-width: 0;
     padding: 2em 0;
@@ -355,6 +354,7 @@ and (max-width : 820px) {
   }
 
   #cover {
+    padding: 3em 0 3em;
     background: none;
   }
 
