@@ -199,8 +199,8 @@ th, td {
 
 #cover {
   background: url(_img/bg/bg-friends.jpg);
-  background-position: ;
-  background-size: 50%;
+  background-position: bottom right;
+  background-size: 220%;
   background-repeat: no-repeat;
   width: 100%;
   padding: 4em 0 0;
