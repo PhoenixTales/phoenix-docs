@@ -217,7 +217,7 @@ th, td {
   background: var(--dark);
   max-width: 100%;
   margin: 0.5em 0 3em;
-  padding: 2em;
+  padding: 2.5em 2em;
   display: flex;
   overflow: hidden;
   gap: 3em;
@@ -275,7 +275,8 @@ and (max-width : 820px) {
 
     margin: 0;
     padding: 0 1.5em 3em;
-    border: none;
+    border-right: none;
+    border-bottom: 7px solid var(--blood);
     z-index: 2;
     max-width: 100%;
     width: 100%;
@@ -346,7 +347,7 @@ and (max-width : 820px) {
   #text {
     flex: 1;
     min-width: 0;
-    padding: 0 1.5em 3em;
+    padding: 0 1em 3em;
   }
 
   .suptext {
@@ -355,6 +356,7 @@ and (max-width : 820px) {
   
   .promo-graphics {
   overflow: auto;
+  margin: 0 0 2em;
   }
 
 
