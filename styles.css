@@ -4,7 +4,7 @@
   color-scheme: dark;
 
   --black: #000;
-  --dark: #121212;
+  --dark: #1f1f1f;
   --light: #dddddd;
   --blood: #844d44;
   --copper: #8c5f4e;
@@ -62,11 +62,13 @@ nav {
 }
 
 main {
+  width: 100%;
   flex: 1;
   display: flex;
   justify-content: space-evenly;
   gap: 2em;
   min-width: 0;
+  padding: 3em 0;
   
   z-index: 1;
 }
@@ -93,13 +95,6 @@ main img {
     padding: 1em 0;
   }
 
-
-#content {
-  width: 100%;
-  flex: 1;
-  min-width: 0;
-  padding: 3em 0;
-}
 
 #text {
   padding: 2em 3em 3em;
