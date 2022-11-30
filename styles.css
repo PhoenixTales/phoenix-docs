@@ -57,7 +57,7 @@ nav {
   z-index: 2;
 }
   nav img {
-    max-width: 100%;
+    max-width: 250px;
   }
   nav h2 {
     margin-top: 1.5em;
