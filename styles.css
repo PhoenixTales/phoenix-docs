@@ -132,7 +132,7 @@ ol>li::before {
 }
 
 .article ol>li, .article ul>li {
-  padding-left: 0;
+  padding-left: 0.5em;
 }
 
 
@@ -230,7 +230,7 @@ blockquote {
     max-width: 95%;
   }
   .article h1 {
-    margin-top: 2em;
+    margin-top: 5em;
   }
 
 .suptext {
