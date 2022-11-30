@@ -227,6 +227,11 @@ th, td {
     padding: 0;
     border: 7px solid var(--blood);
   }
+  .promo-graphics img:hover {
+    filter: brightness(75%);
+    filter: blur(5px);
+    transition: all .3s ease-out; 
+  }
 
 .suptext {
   display: block;
