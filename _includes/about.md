@@ -1,3 +1,6 @@
+![Phoenix]
+
+
 # Introduction
 
 PHOENIX is a gothic drama narrated like a greek tragedy with the game world serving as its stage.  
