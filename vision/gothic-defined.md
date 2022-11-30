@@ -32,3 +32,8 @@ GOTHIC is...
 Regarding the early ideas of the four founders of Piranha Bytes (Mike Hoge, Alex Brüggemann, Stefan Nyul and Tom Putzki) we consider the oldest interviews to be by far the most interesting ones. Because here they described their ideas most clearly and radically, when it still was mostly in their heads, it was not yet a game and they wanted to do everything different.
 
 ... to be continued
+
+
+## Read next
+
+* Design Philosophy
