@@ -72,7 +72,7 @@
 					* Chapter 7: Return to Prison
 					* Chapter 8: Ore of Blood
 					* Chapter 9: Ruins of the City
-					* Chapter 10: Demonic Liberation
+					* Chapter 10: Freedom
 				4. Plot Logic
 		4. Guild Plots
 			* The Way of Power
