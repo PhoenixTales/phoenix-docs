@@ -5,7 +5,7 @@
 * [Readme](/)
 
 1. Vision
-	1. Phoenyx Rising
+	1. On Phoenix
 	2. Gothic defined
 	3. Design Philosophy
 	4. Project Goal
