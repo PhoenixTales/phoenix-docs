@@ -222,10 +222,10 @@ th, td {
   background: var(--dark);
   max-width: 100%;
   margin: 0.5em 0 1em;
-  padding: 2.5em 2em;
+  padding: 2.5em 1.5em;
   display: flex;
   overflow: hidden;
-  gap: 3em;
+  gap: 2em;
 }
   .promo-graphics img {
     height: 400px;
@@ -242,7 +242,7 @@ th, td {
   margin: 0 auto;
   padding: 2em 3em 3em;
   max-width: 590px;
-  min-width: 300px;
+  min-width: 0;
 }
   .article img {
     margin: 2em 0 1em;
@@ -371,7 +371,7 @@ and (max-width : 820px) {
   }
 
   .suptext {
-    max-width: 100%;
+    width: 100%;
     margin: 1em auto 2em;
     padding: 0 3em;
     border: none;
