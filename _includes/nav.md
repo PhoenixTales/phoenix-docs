@@ -7,11 +7,9 @@
 
 ## Index
 
-* [Readme](/)
-
 1. Vision
-	1. On Phoenix
-	2. Gothic defined
+	1. [On Phoenix](/)
+	2. [Gothic defined](/vision/gothic-defined.md)
 	3. Design Philosophy
 	4. Project Goal
 	5. Criteria of Modification
