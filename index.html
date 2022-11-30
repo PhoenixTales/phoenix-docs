@@ -12,8 +12,6 @@ title: A Gothic Drama
     <p class="suptext">A story-driven action-rpg with a 
       radically immersive design that sucks less.</p>
   </section>
-    
-  </section>
 
   <section class="promo-graphics">
     <a href="/_img/promo/night2.jpg" target="_blank"><img src="/_img/promo/night.jpg"></a>
@@ -24,19 +22,8 @@ title: A Gothic Drama
     <a href="https://gothicarchive.org"><img src="/_img/promo/archive.jpg"></a>
   </section>
   
-  <section id="intropage">
-    <section class="article">
-      {% capture about %}{% include about.md %}{% endcapture %}
-      {{ about | markdownify }}
-    </section>
-    <section id="visual-news">
-      <img src="_img/screens/preacher-of-nemesis-sm.jpg" alt="Preacher of the Nemesis" loading="lazy">      
-      <img src="_img/screens/InsideThePrison-sm.jpg" alt="Inside the Prison" loading="lazy">
-      <img src="_img/screens/death-to-the-barons-sm.jpg" alt="Death to the Barons" loading="lazy">
-      <img src="_img/screens/shadow-of-the-night-sm.jpg" alt="Shadow of the Night" loading="lazy">
-      <img src="_img/screens/MasterYouAskedForMe-sm.jpg" alt="Master, you asked for me" loading="lazy">
-      <!--<img src="_img/screens/healer-and-recruits-sm.jpg" alt="Healer and Recruits" loading="lazy">-->
-    </section>
+  <section class="article">
+    {% capture about %}{% include about.md %}{% endcapture %}
+    {{ about | markdownify }}
   </section>
-
 </main>
