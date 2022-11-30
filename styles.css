@@ -259,7 +259,9 @@ th, td {
   max-width: 400px;
   font-size: 28px;
   margin: 1em auto;
-  padding: 1em 3em 3em;
+  padding: 1em 3em 2em;
+  border: 1px solid var(--stone);
+  background-color:rgba(0, 0, 0, 0.7);
 }
 
 .subtext {
@@ -376,6 +378,7 @@ and (max-width : 820px) {
 
   .suptext {
     margin: 0;
+    border: none;
   }
   
   .promo-graphics {
