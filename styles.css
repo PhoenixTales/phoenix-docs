@@ -105,14 +105,12 @@ main h1+h2+h3+h4+h5+h6 {
 /* LINKS */
 
 a {
-  transition: all 0.3s ease-out;
   text-decoration: none;
   color: var(--link);
 }
 
 a:hover {
   text-decoration: underline;
-  transition: all 0.3s ease-out;
 }
 
 
@@ -214,8 +212,8 @@ th, td {
     border: 7px solid var(--blood);
   }
   .promo-graphics img:hover {
-    filter: brightness(75%);
-    transition: all .3s ease-in-out; 
+    filter: grayscale(75%);
+    transition: all .4s ease; 
     border: 7px solid var(--ore);
   }
 
