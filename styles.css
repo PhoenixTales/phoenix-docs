@@ -237,7 +237,8 @@ th, td {
   min-width: 0;
 }
   .article img {
-    margin: 2em 0;
+    margin: 2em 0 1em;
+    max-width: 95%;
   }
 
 .suptext {
