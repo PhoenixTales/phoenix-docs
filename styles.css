@@ -277,7 +277,7 @@ and (max-width : 820px) {
   }
 
     nav img {
-      max-width: 90%;
+      width: 90%;
       margin: 0 auto 3m;
     }
 
