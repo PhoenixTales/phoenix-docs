@@ -228,7 +228,7 @@ blockquote {
     border: 7px solid var(--ore);
   }
 
-.article {
+.intro, .article {
   margin: 0 auto;
   padding: 2em 3em 3em;
   max-width: 590px;
@@ -341,7 +341,7 @@ and (max-width : 820px) {
     font-size: 14px;
   }
 
-  .article {
+  .intro, .article {
     max-width: 100%;
     padding: 2em 1.5em;
     margin: 0;
