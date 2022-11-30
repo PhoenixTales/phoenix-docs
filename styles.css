@@ -195,7 +195,6 @@ th, td {
 
 #intropage {
   display: flex;
-  flex-wrap: wrap;
 }
 
 #cover {
@@ -213,7 +212,7 @@ th, td {
   flex-shrink: 2;
 }
   #visual-news img {
-    max-height: 200px;
+    max-width: 300px;
   }
 
 .phnx-mask {
