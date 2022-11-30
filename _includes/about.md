@@ -1,8 +1,9 @@
 # On Phoenix
 
-**Author:** Flosha  
-**Written:** 29.11.2022  
-**Changed:** 30.11.2022  
+```
+Author: Flosha    Written: 29.11.2022  
+                  Changed: 30.11.2022  
+```
 
 ![Phoenix is... ](/_img/headings/phoenix-is.png)
 
