@@ -65,7 +65,6 @@ nav {
     margin-top: 1.5em;
   }
   
-
 main {
   width: 100%;
   flex: 1;
@@ -181,6 +180,14 @@ table, th, td {
 
 th, td {
   padding: 0.3em;
+}
+
+
+/* QUOTES */
+
+blockquote {
+  font-size: 16px;
+  border-left: 5px solid var(--blood);
 }
 
 
