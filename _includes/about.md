@@ -1,6 +1,6 @@
 ![Phoenix is... ](/_img/headings/phoenix-is.png)
 
-... a gothic drama narrated like a greek tragedy with the game world serving as the stage to present a meaningful story, acted out like a virtual tale, a philosophical reflection and a timeless allegory with different plots depending on the player's decisions and playstyle.  
+... a gothic drama narrated like a greek tragedy with the game world serving as the stage, to present a meaningful story, acted out like a virtual tale, a philosophical reflection and a timeless allegory with different plots depending on the player's decisions and playstyle.  
  
 ... an immersive sim set in a mystic valley full of conflict, decay and atmospheric density; completely designed by hand it bears a unique aesthetics clad in retro graphics, with a gameplay focused on immersion by visualisation: No numbers, no statistics, just roleplay.
 
