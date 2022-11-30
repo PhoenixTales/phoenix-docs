@@ -12,7 +12,7 @@
 	5. Criteria of Modification
 2. Mechanics
 	1. Classes
-	2. [Attributes](/Mechanics/attributes.md)
+	2. Attributes
 	3. Skills
 	4. Modes of Interaction 
 		1. Exploration Mode
@@ -110,7 +110,7 @@
 		2. Behind the Eyes of Elliot
 		3. Art and the Demonic Threat 
 6. Inspirations
-7. [Appendix](/appendix.md)
+7. Appendix
 
 
 ## Links
