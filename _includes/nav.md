@@ -1,5 +1,10 @@
 # PhoenixDocs
 
+2016-2022 by [PhoenixTales](https://phoenixtales.de)
+
+* [GitHub](https://github.com/PhoenixTales)
+* [Discord](https://discord.gg/CK4VAR7fpH)
+
 ## Index
 
 * [Readme](/)

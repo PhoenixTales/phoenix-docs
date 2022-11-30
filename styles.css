@@ -70,21 +70,6 @@ main {
   z-index: 1;
 }
 
-footer {
-  width: 100%;
-}
-
-footer ul {
-  display: flex;
-  justify-content: center;
-  gap: 2em;
-}
-
-footer ul li {
-  list-style: none;
-}
-
-
 /* HEADINGS */
 
 h1, h2, h3, h4, h5, h6 {
