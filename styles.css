@@ -227,13 +227,13 @@ blockquote {
 }
   .logo {
     display: block;
-    margin: 100px auto;
+    margin: 5% auto;
     max-height: 400px;
     max-width: 100%;
   }
   .introtext {
-    background-color: rgba(0, 0, 0, 0.8);
-    margin: 20em auto 2em;
+    /*background-color: rgba(0, 0, 0, 0.8);*/
+    margin: 10em auto 2em;
     padding: 3em;
     max-width: 590px;
     min-width: 0;
@@ -346,9 +346,8 @@ and (max-width : 820px) {
     position: absolute;
   }
 
-  #intro {
-    background: url("/_img/bg/bg-reloaded.jpg") 37% 50% / cover no-repeat;
-  }
+  #intro { background: none; }
+
 
   .phnx-mask {
     width: 90%;
