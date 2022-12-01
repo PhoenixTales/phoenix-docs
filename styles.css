@@ -387,7 +387,7 @@ and (max-width : 820px) {
     max-width: 100%;
     margin: 0;
   }
-    .introtext { padding: 10em 1.5em; }
+    .introtext { padding: 10em 1.5em 3em; }
     .article   { padding: 2em 1.5em; }
 
   .slogan {
