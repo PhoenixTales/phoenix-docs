@@ -245,7 +245,7 @@ blockquote {
   max-width: 590px;
   min-width: 0;
 }
-  .introtext, .article img {
+  .introtext img, .article img {
     margin: 1.5em 0 1em;
     max-width: 95%;
   }
