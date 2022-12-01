@@ -251,7 +251,7 @@ blockquote {
   }
   .introtext {
     /*background-color: rgba(0, 0, 0, 0.8);*/
-    margin: 10em auto 2em;
+    margin: 10em auto 0;
     padding: 3em;
     max-width: 590px;
     min-width: 0;
