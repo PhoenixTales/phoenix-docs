@@ -307,7 +307,7 @@ and (max-width : 820px) {
     font-size: 15px;
     margin: 0;
     padding: 0 1.5em;
-    border: 1px solid red;
+    border: none;
     max-width: 100%;
 
     overflow: hidden;
