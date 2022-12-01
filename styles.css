@@ -42,6 +42,10 @@ nav {
     width: 290px;
     margin: 0 auto 3em;
   }
+    nav img:hover {
+      filter: brightness(75%);
+      transition: all .4s linear;
+    }
   nav h2 {
     margin-top: 1.5em;
   }
@@ -232,7 +236,7 @@ blockquote {
   }
   .promo-graphics img:hover {
     filter: grayscale(75%);
-    transition: all .4s ease; 
+    transition: all .4s linear;
     border: 7px solid var(--ore);
   }
 
