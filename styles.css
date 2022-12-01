@@ -308,7 +308,6 @@ and (max-width : 820px) {
     padding: 0 1.5em;
     border: none;
     max-width: 100%;
-    width: 100%;
 
     overflow: hidden;
     z-index: 2;
@@ -383,7 +382,6 @@ and (max-width : 820px) {
   }
     .introtext { padding: 10em 1.5em; }
     .article   { padding: 2em 1.5em; }
-
 
   .suptext {
     max-width: 100%;
