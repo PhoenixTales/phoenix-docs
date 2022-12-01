@@ -41,7 +41,6 @@ nav {
     display: block;
     width: 290px;
     margin: 0 auto 3em;
-    image-rendering: pixelated;
   }
   nav h2 {
     margin-top: 1.5em;
@@ -197,7 +196,7 @@ blockquote {
   display: block;
   margin: 0 auto;
   width: 380px;
-  image-rendering: pixelated;
+  /*image-rendering: pixelated;*/
 }
 
 .promo-graphics {
@@ -229,7 +228,6 @@ blockquote {
   .article img {
     margin: 2em 0 1em;
     max-width: 95%;
-    image-rendering: pixelated;
   }
   .article h1 {
     margin-top: 3em;
