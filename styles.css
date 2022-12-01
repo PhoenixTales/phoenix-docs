@@ -237,11 +237,11 @@ blockquote {
   }
     @-webkit-keyframes movepromoart {
       0%   { right: 0; }
-      100% { right: 100%; }
+      100% { right: 50%; }
     }
     @keyframes movepromoart {
       0%   { right: 0; }
-      100% { right: 100%; }
+      100% { right: 50%; }
     }
 
   .promo-graphics img {
@@ -422,10 +422,11 @@ and (max-width : 820px) {
   .promo-graphics {
   overflow: auto;
   margin: 0;
-
-  -webkit-animation: none; 
-  animation: none;
   }
+    .promo-graphics:hover {
+      -webkit-animation: none; 
+      animation: none;
+    }
 
   #cover {
     padding: 3em 0 3em;
