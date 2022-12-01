@@ -38,18 +38,23 @@ Based on these descriptions we can deduce several characteristics of GOTHIC as "
 
 GOTHIC is...
 
-* **amoral**, it is beyond good & evil, without a clear good/evil dichotomy
+[to be seen in opposition to common fantasy, as...]
+* **amoral**, it is beyond good & evil and without a clear good/evil dichotomy
 * **anarchic**, it is not neat, it is disordered and deals with chaos
-* **not colourful**, it comes with desaturated, washed out, faded colours
+* **dreary**, *not* colourful, it uses desaturated, washed out, faded colours
 * **different**, it differs from what is commonly found in fantasy games
-* **gloomy**, it has a melancholic, depressing mood
-* **dark**, it is dark in its style, its setting, in its story
-* **mystical**, it has mystic/occult elements; magic is special, not common
-* **strange**, it is unusual with a unique setting that raises questions
-* **dangerous**, it has a threatening atmosphere
 
+[dark and low fantasy combined, in that is is...]
+* **gloomy** with a melancholic, depressing mood
+* **dark** in its style, its setting, its story; aesthetically and thematically
+* **mystical**, with mystic/occult aspects in a world where magic is special, not common
+* **strange** in its setting, with unusual creatures and events to raise questions
+* **dangerous** in its atmosphere and its design with both being coherent
 
-
+[applying to gothic fiction/horror, in that it is...]
+* **romantic** ...
+* **melancholic** ... past/present
+* **horrific** 
 
 
 ... to be continued
