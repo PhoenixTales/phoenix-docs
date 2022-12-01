@@ -7,7 +7,7 @@ title: Gothic defined
 
 Author: Flosha  
 Written: 18.10.2022  
-Changed: 30.11.2022  
+Changed: 01.12.2022  
 
 ![Gothic defined](/_img/headings/gothic-defined.png)
 
@@ -21,7 +21,17 @@ Gothic *is* dark fantasy, which hints at its horror elements and its characteris
 
 In the same way, Gothic is also low fantasy, .... 
 
-Therefore we can conclude that "gothic" as a genre can not be seen as equivalent neither to dark fantasy nor low fantasy; it shares many of their characteristics, but it also includes the traditional elements of gothic fiction and the other aspects quoted above. And finally in the context of a crpg, it comes with some specific principles of gamedesign, that will be crucial to define gothic not just as a genre of fiction, but as a genre of gothic-like videogames. 
+Thus "gothic" as a genre can not be seen as equivalent neither to dark fantasy nor low fantasy; while it shares many of their characteristics, it also includes the traditional elements of gothic fiction.  
+
+But as we're dealing with a CRPG we have to consider how the characteristics of Gothic fiction translate to gamedesign, which will be crucial to define Gothic as a genre of gothic-like videogames.
+
+In order to do that we have to consider what the four visionaries of GOTHIC (Mike Hoge, Alex Brüggemann, Stefan Nyul and Tom Putzki) themselves said about their game, especially during the concept phase and in early development.  
+What did they consider most important about GOTHIC? How did they promote it in their pitch? How did they speak about it in Interviews?  
+
+Regarding the original vision of the founders we consider the oldest interviews to be by far the most interesting ones, because here they described their ideas most clearly and radically, when it was mostly still in their heads; when they wanted to do everything different and the game did not yet exist.
+
+... include interviews ... pitch ... etc ...
+
 
 Based on these descriptions we can deduce several characteristics of GOTHIC as "the other kind of fantasy" that define GOTHIC as a genre.
 
@@ -38,10 +48,6 @@ GOTHIC is...
 * **dangerous**, it has a threatening atmosphere
 
 
-
-Additionally we have to consider what the four founders of Piranha Bytes (Mike Hoge, Alex Brüggemann, Stefan Nyul and Tom Putzki) themselves said about GOTHIC as their game. The four founders developed the vision. How did they promote it in their pitch? How did they promote it in Interviews? What did they consider most important about GOTHIC?
-
-Regarding the early ideas of the founders we consider the oldest interviews to be by far the most interesting ones. Because here they described their ideas most clearly and radically, when it was mostly still in their heads; they wanted to do everything different and the game did not yet exist.
 
 
 
