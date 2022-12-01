@@ -347,7 +347,6 @@ and (max-width : 820px) {
   }
 
   #intro {
-    background: url("/_img/bg/bg-reloaded.jpg");
     background-size: 37% 100vh;
     background-position: top;
   }
