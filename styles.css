@@ -277,7 +277,7 @@ blockquote {
 
 .slogan {
   display: block;
-  max-width: 300px;
+  max-width: 330px;
   margin: 1em auto;
   padding: 1em;
 }
@@ -394,7 +394,7 @@ and (max-width : 820px) {
     .article   { padding: 2em 1.5em; }
 
   .slogan {
-    width: 70%;
+    max-width: 70%;
     margin: 1em auto 2em;
     padding: 0;
   }
