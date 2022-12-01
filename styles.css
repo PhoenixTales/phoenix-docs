@@ -228,21 +228,20 @@ blockquote {
   display: flex;
   overflow: hidden;
   gap: 2em;
-
   position: relative;
-  -webkit-animation: movepromoart 5s infinite; 
-  animation: movepromoart 5s infinite;
 }
-  @-webkit-keyframes movepromoart {
-    0%   { left: 0; }
-    50%  { left: 100%; }
-    100% { left: 0; }
+  .promo-graphics:hover {
+    -webkit-animation: movepromoart 7s 1; 
+    animation: movepromoart 7s 1;
   }
-  @keyframes movepromoart {
-    0%   { left: 0; }
-    50%  { left: 100%; }
-    100% { left: 0; }
-  }
+    @-webkit-keyframes movepromoart {
+      0%   { right: 0; }
+      100% { right: 100%; }
+    }
+    @keyframes movepromoart {
+      0%   { right: 0; }
+      100% { right: 100%; }
+    }
 
   .promo-graphics img {
     height: 400px;
