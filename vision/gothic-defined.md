@@ -4,9 +4,6 @@ title: Gothic defined
 ---
 
 
-TODO: Add early Gothic specific background picture?
-Add early gothic logo as title?
-
 # Gothic defined  
 
 ![Gothic defined](/_img/headings/gothic-defined.png)
@@ -18,7 +15,7 @@ Author: Flosha   Written: 18.10.2022
 
 In order to create a gothic drama we have to define what "Gothic" is. Contrary to popular belief Gothic is not a mere game and its underlying concept, it is (or to be more precise "it was once supposed to be" and is to us) more than that: It was an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs. 
 
-<p class="suptext">"Other games suck, we make our own".</p>
+<p class="suptext">„Other games suck, we make our own.“</p>
 
 In the beginning we will analyse gothic vs. common fantasy. In this context we will also deal with gothic horror vs. cosmic horror. With this background in mind we'll analyse diverse documents to define principles of gothic-like gamedesign. Based on this research we will define what "Gothic" is and we'll make examples of games that fit the definition and how even the official successors of Gothic as a franchise did *not*.
 
@@ -111,6 +108,9 @@ GOTHIC is...
 
 
 ... to be continued
+
+TODO: Add early Gothic specific background picture?
+Add early gothic logo as title?
 
 
 ## Read next
