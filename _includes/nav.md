@@ -110,11 +110,9 @@
 		2. Behind the Eyes of Elliot
 		3. Art and the Demonic Threat 
 6. Inspirations
-7. Appendix
+7. Credits
 
 
-## Links
+### Appendix
 
-* [Dev](https://phoenixtales.de)
-* [GitHub](https://github.com/PhoenixTales)
-* [Discord](https://discord.gg/CK4VAR7fpH)
+...
