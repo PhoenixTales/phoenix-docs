@@ -299,6 +299,11 @@ blockquote {
 .added { color: var(--demonic); }
 .changed { color: var(--ore); }
 
+::selection {
+  background: var(--dark);
+}
+
+
 
 /* MOBILE */
 
