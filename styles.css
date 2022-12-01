@@ -347,7 +347,7 @@ and (max-width : 820px) {
   }
 
   #intro {
-    background-size: 37% 100vh;
+    background-size: auto 100vh;
     background-position: top;
   }
 
