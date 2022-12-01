@@ -225,9 +225,16 @@ blockquote {
   background-repeat: no-repeat;
   background-size: contain;
 }
+  .logo {
+    display: block;
+    margin: 100px auto;
+    max-height: 400px;
+    max-width: 100%;
+  }
   .introtext {
-    margin: 0 auto;
-    padding: 20em 3em 5em;
+    background-color: rgba(0, 0, 0, 0.8);
+    margin: 20em auto 2em;
+    padding: 3em;
     max-width: 590px;
     min-width: 0;
   }
