@@ -221,9 +221,7 @@ blockquote {
 
 #intro {
   width: 100%;
-  background: url("/_img/bg/bg-reloaded.jpg");
-  background-repeat: no-repeat;
-  background-size: auto 80%;
+  background: url("/_img/bg/bg-reloaded.jpg") 37% 600px / cover no-repeat;
 }
   .logo {
     display: block;
@@ -347,8 +345,7 @@ and (max-width : 820px) {
   }
 
   #intro {
-    background-size: auto 100vh;
-    background-position: top -10%;
+    background-size: 37% 50% / cover;
   }
 
   .phnx-mask {
