@@ -17,8 +17,9 @@ Changed: 01.12.2022
 
 In order to create a gothic drama we have to define what "Gothic" is. Contrary to popular belief Gothic is not a mere game and its underlying concept, it is (or to be more precise "it was once supposed to be" and is to us) more than that: It was an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs. 
 
-
 <p class="suptext">"Other games suck, we make our own".</p>
+
+In the beginning we will analyse gothic vs. common fantasy. In this context we will also deal with gothic horror vs. cosmic horror. With this background in mind we'll analyse diverse documents to define principles of gothic-like gamedesign. Based on this research we will define what "Gothic" is and we'll make examples of games that fit the definition and how even the official successors of Gothic as a franchise did *not*.
 
 
 ## Gothic vs. Common Fantasy
@@ -44,16 +45,17 @@ And as we're dealing with a CRPG we have to understand how the characteristics o
 
 
 
-## Gothic-like Gameplay
+## Principles of Gothic-like Gamedesign
 
 In order to do that we have to consider what the four visionaries of GOTHIC (Mike Hoge, Alex Brüggemann, Stefan Nyul and Tom Putzki) themselves said about their game, especially during the concept phase and in early development. How did they promote it, how did they speak about it, what did they consider most important about GOTHIC? 
 
+At the time before GOTHIC was named GOTHIC it was promoted under its second working title Phoenix. The Phoenix Pitch may be the earliest document from that time that summarises the project as a whole. The cover shows the title and describes Phoenix as "the 3D Realtime RPG".
 
-### Analysing the Phoenix Pitch
+Page 1 summarises the story; which we could understand and how it is supposed to be a story-driven game, with the story placed first. 
 
-At the time before GOTHIC was named GOTHIC it was promoted under its second working title Phoenix. The Phoenix Pitch may be the earliest document from that time that summarises the project as a whole. The cover shows the title and describes Phoenix as "the 3D Realtime RPG". Page 1 summarises the story, which shows it to be a story-driven game, the story is placed first. Page 2 gives a project overview, mostly dealing with numbers; amount of characters, levels, monsters, release date and so on. It describes its genre as a "Mix of fantasy role playing and action game" and to be primarily targeted at "mainstream players that like 3D world exploration / action / RPG". But the next pages actually deal with defining the gameplay and highlighting its most important characteristics.
+Page 2 gives a project overview, mostly dealing with numbers; amount of characters, levels, monsters, release date and so on. It describes its genre as a "Mix of fantasy role playing and action game" and to be primarily targeted at "mainstream players that like 3D world exploration / action / RPG" - in that sequence. But the next pages actually deal with the gameplay and highlight what is special about it:
 
-> Phoenix is for those users who are fed up with mere 3d-killing and are longing for some deeper form of Entertainment. Phoenix is no typical role playing game. We've eliminated the disturbing, old-fashioned elements of RPG's, such as long player statistics and difficult handling and only kept the fun factors (...). Almost everything will be visualised in your viewport. (...) Due to the game's clear structure, there is no need for a complicated interface. (...) The challenge should not be to master the controls but to compete with the logic puzzles and monster tactics. The puzzles are based on consistent game physics. Every object can be manipulated (...)
+> Phoenix is for those users who are fed up with mere 3d-killing and are longing for some deeper form of Entertainment. Phoenix is no typical role playing game. We've eliminated the disturbing, old-fashioned elements of RPG's, such as long player statistics and difficult handling and only kept the fun factors (...). Almost everything will be visualised (...) Due to the game's clear structure, there is no need for a complicated interface. (...) The challenge should not be to master the controls but to compete with the logic puzzles and monster tactics. The puzzles are based on consistent game physics. Every object can be manipulated (...)
 
 Page 3 is completely focused on Phoenix' simplification of the complexity of common roleplaying games and how they want to achieve that by basically two principles: Radical Visualisation of (almost) everything and direct interaction with (almost) everything. 
 
