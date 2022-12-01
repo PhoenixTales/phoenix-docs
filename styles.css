@@ -34,6 +34,7 @@ nav {
   font-size: 14px;
   padding: 1.5em 2.5em 5em;
   border-right: 5px solid var(--dark);
+  background-color: var(--black);
   overflow: hidden;
   z-index: 2;
 }
@@ -56,6 +57,7 @@ main {
   min-width: 0;
   padding: 0;
 
+  overflow: hidden;
   z-index: 1;
 }
 
