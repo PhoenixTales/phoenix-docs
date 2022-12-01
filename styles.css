@@ -233,8 +233,8 @@ blockquote {
   position: relative;
 }
   .promo-graphics:hover {
-    -webkit-animation: movepromoart 7s 1; 
-    animation: movepromoart 7s 1;
+    -webkit-animation: movepromoart 10s infinite; 
+    animation: movepromoart 10s infinite;
   }
     @-webkit-keyframes movepromoart {
       0%   { right: 0; }
