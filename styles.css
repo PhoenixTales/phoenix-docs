@@ -312,7 +312,7 @@ blockquote {
 .changed { color: var(--ore); }
 
 ::selection {
-  background: var(--copper);
+  background: var(--ore);
 }
 
 
