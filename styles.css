@@ -271,11 +271,17 @@ blockquote {
     margin-top: 3em;
   }
 
-.suptext {
+.slogan {
   display: block;
   max-width: 360px;
   font-size: 28px;
   margin: 1em auto;
+  padding: 1em;
+}
+
+.suptext {
+  font-size 26px;
+  max-width: 70%;
   padding: 1em;
 }
 
@@ -384,7 +390,7 @@ and (max-width : 820px) {
     .introtext { padding: 10em 1.5em; }
     .article   { padding: 2em 1.5em; }
 
-  .suptext {
+  .slogan {
     max-width: 100%;
     margin: 1em auto 2em;
     padding: 0 3em;
