@@ -9,11 +9,12 @@ Add early gothic logo as title?
 
 # Gothic defined  
 
-Author: Flosha  
-Written: 18.10.2022  
-Changed: 01.12.2022  
-
 ![Gothic defined](/_img/headings/gothic-defined.png)
+
+```
+Author: Flosha   Written: 18.10.2022  
+                 Changed: 01.12.2022  
+```
 
 In order to create a gothic drama we have to define what "Gothic" is. Contrary to popular belief Gothic is not a mere game and its underlying concept, it is (or to be more precise "it was once supposed to be" and is to us) more than that: It was an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs. 
 
