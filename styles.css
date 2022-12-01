@@ -394,7 +394,7 @@ and (max-width : 820px) {
     .article   { padding: 2em 1.5em; }
 
   .slogan {
-    max-width: 80%;
+    width: 70%;
     margin: 1em auto 2em;
     padding: 0;
   }
