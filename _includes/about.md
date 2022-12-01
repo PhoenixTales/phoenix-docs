@@ -21,10 +21,10 @@
 ... released when it's done. 
 
 
-**Author:** Flosha  
-**Written:** 29.11.2022  
-**Changed:** 30.11.2022  
-
+```
+Author: Flosha   Written: 29.11.2022  
+                 Changed: 30.11.2022  
+```
 
 ## Read next 
 
