@@ -228,7 +228,22 @@ blockquote {
   display: flex;
   overflow: hidden;
   gap: 2em;
+
+  position: relative;
+  -webkit-animation: movepromoart 5s infinite; 
+  animation: movepromoart 5s infinite;
 }
+  @-webkit-keyframes movepromoart {
+    0%   { left: 0; }
+    50%  { left: 100%; }
+    100% { left: 0; }
+  }
+  @keyframes movepromoart {
+    0%   { left: 0; }
+    50%  { left: 100%; }
+    100% { left: 0; }
+  }
+
   .promo-graphics img {
     height: 400px;
     padding: 0;
@@ -407,6 +422,9 @@ and (max-width : 820px) {
   .promo-graphics {
   overflow: auto;
   margin: 0;
+
+  -webkit-animation: none; 
+  animation: none;
   }
 
   #cover {
