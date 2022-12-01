@@ -221,7 +221,7 @@ blockquote {
 
 #intro {
   width: 100%;
-  background: url("/_img/bg/bg-reloaded.jpg") 37% 600px / cover no-repeat;
+  background: url("/_img/bg/bg-reloaded.jpg") 37% 600px / no-repeat;
 }
   .logo {
     display: block;
