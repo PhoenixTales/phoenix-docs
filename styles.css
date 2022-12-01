@@ -278,8 +278,9 @@ and (max-width : 820px) {
   }
     nav img {
       position: absolute;
-      top: 0;
-      width: 60%;
+      left: 0;
+      right: 0;
+      max-width: 300px;
       margin: 1em auto;
       z-index: 11;
     }
