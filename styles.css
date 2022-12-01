@@ -280,7 +280,7 @@ blockquote {
 }
 
 .suptext {
-  font-size 26px;
+  font-size: 26px;
   max-width: 70%;
   padding: 1em;
 }
