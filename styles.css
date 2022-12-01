@@ -359,9 +359,11 @@ and (max-width : 820px) {
 
   .introtext, .article {
     max-width: 100%;
-    padding: 2em 1.5em;
     margin: 0;
   }
+    .introtext { padding: 0em 1.5em; }
+    .article   { padding: 2em 1.5em; }
+
 
   .suptext {
     max-width: 100%;
