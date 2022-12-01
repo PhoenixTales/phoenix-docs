@@ -264,7 +264,7 @@ blockquote {
 .subtext {
   font-size: 14px;
   background-color: var(--black);
-  border: 1px solid #4a4843;
+  border-right: 5px solid var(--stone);
   padding: 1em;
   margin: 2em 0;
 }
