@@ -138,6 +138,7 @@ ol>li::before {
 /* FOOTER */
 
 footer {
+  font-size: 14px;
   border-top: 5px solid var(--dark);
   width: 100%;
   padding: 0.5em;
