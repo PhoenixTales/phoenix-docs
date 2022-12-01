@@ -21,8 +21,10 @@ title: A Gothic Drama
     <a href="https://gothicarchive.org" target="_blank"><img src="/_img/promo/archive.jpg"></a>
   </section>
   
-  <section class="intro">
-    {% capture about %}{% include about.md %}{% endcapture %}
-    {{ about | markdownify }}
+  <section id="intro">
+    <section class="introtext">
+      {% capture about %}{% include about.md %}{% endcapture %}
+      {{ about | markdownify }}
+    </section>
   </section>
 </main>
