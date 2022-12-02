@@ -5,6 +5,7 @@
 
   --black: #000;
   --dark: #1f1f1f;
+  --darker: #121212;
   --light: #dddddd;
   --blood: #844d44;
   --copper: #8c5f4e;
@@ -157,12 +158,10 @@ footer {
 /* CODE */
 
 pre {
-  background: var(--dark);
-  border: 1px solid #4a4843;
-
+  /*border: 1px solid #4a4843;*/
   padding: 1em;
-  margin: 2em 0 2.5em;
-
+  background: var(--darker);
+  margin: 1.5em 0 2em;
   max-width: 100%;
   box-sizing: border-box;
   overflow: auto;
@@ -177,6 +176,7 @@ code {
 /* TABLES */
 
 table {
+  font-size: 12px;
   margin: 2em 0;
 }
 

@@ -64,34 +64,42 @@ This search for a name and differentiation between Psi/Will, Willpower, Madness 
 
 The abbreviations `KaGe` and `DiGe` have to stand for *Kampfgeschick* ("combat skill") and *Diebesgeschick* ("thief skill") respectively. Otherwise they were named `WK` (*Waffenkunst* = Weaponry, which in the builds was called `Swordsmanship`) and `DK` (*Diebeskunst* = Thievery). While on the second table they were not put into correlation with another attribute, in the first one they were. Thievery was most likely associated with Dexterity (`GE` = *Geschicklichkeit*) and Weaponry with `AT`, which, as far as we know, simply stands for Attack.  
 
-<span class="funfact">Mike also considered endurance/stamina (German: Ausdauer) as a potential factor on the same page, but discarded it immediately:
+<p class="subtext">Mike also considered endurance/stamina (German: Ausdauer) as a potential factor on the same page, but discarded it immediately:
 
 > ~~AUSDAUER?~~
 > NO
-</span>
+</p>
 
 From the first list that we think of as the original pool of attribute ideas a few were already discarded, such as We (that we assume to be Wisdom), SK (assumed to be Marksmanship) and CH (assumed to be Charisma), while Wa (assumed to be Madness) was put into "second order". The rest remained.  
 
 This structure remained almost unchanged for a long time in development. The same six attributes as seen on the two tables above appear in a later (typed) document by Mike (`Phoenix_B4_Learning.doc`, p. 4), changed last at 06.07.99, now with the full meaning given:
 
+```
++--------------+--------------+
 | Attribute    | Attributes   |    
-|--------------|--------------|  
+|--------------+--------------|  
 | Stärke       | Strength     |  
 | Konstitution | Constitution |
 | Diebeskunst  | Thievery     |
 | Waffenkunst  | Weaponry     |
 | Arkane Gabe  | Arcane Gift  |
 | Wille        | Will         |
++--------------+--------------+
+```
 
 While in a document written by Alex Brüggemann (`Phoenix_B1_AttributesTalentsActions.doc`), changed last at 21.07.99, only five attributes were listed. Constitution, Thievery, Weaponry and Arcane Gift are not mentioned at all.   
 
+```
++-------------+----------------+
 | Attribute   | Attributes     |
-|-            |-               |
+|-------------+----------------|
 | Stärke      | Strength       |
 | Geschick    | Dexterity      |
 | Mana        | Mana           |
 | PSI-Energie | Will(power)    |
 | Leben       | Health         |
++-------------+----------------+
+```
 
 To add additional confusion, both the five and the six attributes can also be found in v0.56c-0.64b simultaneously. While the `constants.d` in both versions lists the six attributes mentioned by Mike, the `text.d` followed the list of five.  
 
@@ -136,31 +144,39 @@ Some of the first order attributes are still mentioned in the release version of
 
 If the first order attributes were ever supposed to appear in the character profile they would have appeared in the described text form per level; while the second order attributes wouldn't have been mentioned ingame at all and would only be displayed in the interface by the associated symbols or bars.  
 
-<span class="funfact">But not all the bars on the HUD were direct representations of the status attributes. For instance in later versions there is a bar representing the oxygen when being underwater. This is not linked to an attribute but controlled by a guild value in the species script, as Auronen pointed out. There is a `SWIM_TIME` and a `DIVE_TIME` defining the swim/dive endurance before receiving damage.  
+<p class="subtext">But not all the bars on the HUD were direct representations of the status attributes. For instance in later versions there is a bar representing the oxygen when being underwater. This is not linked to an attribute but controlled by a guild value in the species script, as Auronen pointed out. There is a `SWIM_TIME` and a `DIVE_TIME` defining the swim/dive endurance before receiving damage.  
 
 While Mike discarded the idea of endurance as an attribute on its own, there was obviously a need to restrict the dive time. In the same way we can imagine that you were not supposed to be able to sprint infinitally. But instead of restricting the feature (by something like Endurance or a value like `SPRINT_TIME` they removed the sprinting on key press and linked it to speed potions.
-</span>
+</p>
 
 
 ### Attribute Progression
 
 Mike refered to the primary attributes just as "the six attributes" or as "character values". In `Phoenix_B4_Learning.doc` he explains that these six attributes can be learned/increased from teachers just as talents and spells. Upon increase of one of the six primary attributes, the associated secondary attributes (that Mike refers to as "status attributes") are increased alongside.  
 
-In `Phoenix_B1_AttributesTalentsActions`, Alex describes the maximum values of the status attributes in the symbol HUD that was used (or planned) at this point:  
+In `Phoenix_B1_AttributesTalentsActions`, Alex describes the maximum values of the status attributes in the symbol HUD that was used (or planned) at this point: 
 
+```
++-------------+-------------+------------+
 | Attribute   | Start-Value | Max-Value  |
-| ----------- | ------------| ---------- |
+|-------------+-------------+------------|
 | Strength    | 3 Symbols   | 10 Symbols |
 | Dexterity   | 3 Symbols   | 10 Symbols |
 | Mana        | -           | 10 Symbols |
 | PSI-Energy  | -           | 10 Symbols |
 | Health      | 5 Symbols   | 20 Symbols |
++-------------+-------------+------------+
+```
 
 But in `Phoenix_C2_Monsters` and almost in the same way in the remnants of a later version of the Phoenix Concept, which were also written by Alex, they are structured like this (RS stands for Resistance):  
 
+```
++------+------+------------+------+-----------+------------+
 | LE   | RS   | STR        | DEX  | MAN       | WIL        |
-| ---- | ---- | ---------- | ---- | --------- | ---------- |
+|------+------+------------+------+-----------+------------|
 | 5-20 | 0-10 | 1-10 (15?) | 1-10 | 1-10 (15) | 1-10 (15?) |
++------+------+------------+------+-----------+------------+
+```
 
 Accordingly in v0.56c-0.64b the NPCs have at most 20 HP, 10 Str (with one exception of 30, which we assume to be a mistake), 10 Dex, but the maximum Mana and Madness value have been increased to 20. Even in v0.94k the character value progression was still basically following this old structure but now with a maximum Health, Will and Mana of human NPCs of 30, while the maximum Strength and Dexterity was 15.  
 
@@ -225,11 +241,11 @@ Such is the case for `ATR_PROTECTION`, which was later replaced by a dedicated `
 
 In the `text.d` of v0.56c, there is another case like that in form of "*Tarnung*" (disguise), which had no equivalent (anymore or not yet?) among the constants, but just as protection it was not really supposed to be an attribute.  
 
-```
+<p class="subtext">
 In 0.56c-0.64b the maximum attribute index was 18.
 In 0.94k the maximum attribute index was 10.
 In 1.00b till release the maximum index was 8.
-```
+</p>
 
 When we blend out these attributes that were only handled as such for technical reasons (and usually just tempory), we end up with the following comparison of attribute constants throughout the available builds, as they were continueously reduced:  
 
@@ -282,7 +298,7 @@ On p.6, for the first time the correlation between Will and Madness appears:
 > -> can not cast spells anymore; has to take drugs
 > The better the Will the less Madness increase per spell
 
-In the same context there is the following mentioning (in the `pChanges.txt` of v0.56c):
+There is also the following mentioning (in the `pChanges.txt` of v0.56c):
 
 ```
 Phoenix V.077
@@ -354,7 +370,7 @@ And just as we aren't demanding for the government to just be taken down, but fo
 
 This said, we do not strive to get rid of the HUD altogether, but we want it to be optional and for the game to be fully functional (= playeable) without it. And as said before, the need for the HUD arises primarily in order to display and inform about the changes of Attributes, primarily Life (HP), Mana (MP) and Willpower (WP). In order to overcome this need we have to find ways to visualise these changes. And at least the seeds of this idea were already present in the Alpha.  
 
-[Wounded Overlay in v0.64b](/_img/wounded-overlay.gif)
+[Wounded Overlay in v0.64b](/_img/mechanics/visualisation/overlay_wounded.gif)
 
 In v0.64b, if you are injured, the player character stands and walks with an extra animation overlay, slowly hobbling, pressing his hands on his wounds as if to stop the bleeding; combined with visual bleeding effects and sound design to intensify the pressure as the HP of the player decrease, this solution would have made the health bar redundant. 
 It was not implemented in the end, be it by lack of time or by deliberate decision, but based on what we know and described so far, it would have been the next logical step, following the vision of radical visualisation they initially proposed and promoted.  
@@ -375,32 +391,33 @@ But in order to structure these mixed attributes, we may ask the question, what 
 
 Based on this definition the arts are impossible to consider as attributes, since they are no characteristics common to all characters nor are they natural or inborn. The only ones that would fit that description are:  
 
+```
 `ATR_CONSTITUTION` = Körperliche Verfassung
-`ATR_STRENGTH`        = Körperliche Kraft 
-`ATR_DEXTERITY`      = Körperkontrolle
+`ATR_STRENGTH`     = Körperliche Kraft 
+`ATR_DEXTERITY`    = Körperkontrolle
 
-`ATR_MADNESS`          = Geistige Gesundheit
-`ATR_WILL`               = Geistige Kraft 
-[`ATR_PSI`                 = Geistige Kontrolle]
+`ATR_MADNESS`      = Geistige Gesundheit
+`ATR_WILL`         = Geistige Kraft 
+[`ATR_PSI`         = Geistige Kontrolle]
+```
 
 Psi would fit into this scheme as mental control; but since almost no one has control over his mind it is not to be seen as a general attribute yet; everyone has some degree of dexterity, but regarding the mind, most characters in the game are not in any kind of control of their mind independent from the sheer force of wanting or mentally resisting, they can't stop the stream of thought.  
 
 Thus, the rest is either a mere representation of these for the player in form of the HUD or it has to belong to the specific experience in the Arts or "Gifts":  
 
 ```
-Class specific:              Class crossing:
+Class specific:       Class crossing:
 
-`EXP_WEAPONRY`               `EXP_ALCHEMY`
-`EXP_THIEVERY`               `EXP_METALLURGY`
-`EXP_ARCANERY`               `EXP_ARCHERY`
-`EXP_PSIONICS`               `EXP_HUNTSMANSHIP` 
+`EXP_WEAPONRY`        `EXP_ALCHEMY`
+`EXP_THIEVERY`        `EXP_METALLURGY`
+`EXP_ARCANERY`        `EXP_ARCHERY`
+`EXP_PSIONICS`        `EXP_HUNTSMANSHIP` 
 ```
 
-
-Weaponry signifies your skill as a Warrior.  
-Thievery signifies your skill as a Thief.  
-Arcane   signifies your skill as a Mage.  
-Psionics signifies your skill as a Psionic.  
+Weaponry signifies the skill as a Warrior.  
+Thievery signifies the skill as a Thief.  
+Arcane   signifies the skill as a Mage.  
+Psionics signifies the skill as a Psionic.  
 
 The arts were defined by me as pre-requisites for class-specific skills ("talents") to learn and I came up with the idea of the Arts as a specific form of experience that would reward the player for using the skills of his chosen class, all in order to fortify the story-driven gameplay and at the same time to replace the general experience points, which, as various early statements suggest (see [[EXPERIENCE]]) we deemed to not have been part of the initial vision of the game. It was a neat little system to overcome any form of grinding and I am still happy with the idea.  
 
@@ -465,9 +482,9 @@ YBerion will have 10 Will but 30 Psi.
 Will is a primary attribute of which 10 levels exist for everyone. Psi is a correlated and class specific attribute that has to be acquired in course of the story by joining the sect and is then scaled by will from 0 to 30.  
 
 ```
-+------+-------+
++--------------+
 | Will | ≤ Psi |
-| ---- | ----- |
+|------+-------|
 | Lv1  |     3 |
 | Lv2  |     6 |
 | Lv3  |     9 |
@@ -478,10 +495,10 @@ Will is a primary attribute of which 10 levels exist for everyone. Psi is a corr
 | Lv8  |    24 |
 | Lv9  |    27 |
 | Lv10 |    30 |
-+------+-------+
++--------------+
 ```
 
-<span class="funfact">For monsters, psi is scaled by factor 2. Thus, the Sleeper at Lv10 has 60 Psi.</span>
+<p class="subtext">For monsters, psi is scaled by factor 2. Thus, the Sleeper at Lv10 has 60 Psi.</p>
 
 And at the same time it is WILL that controls the resistance against Psi.  
 
@@ -533,19 +550,23 @@ The warrior strives to master combat and weaponry. The thief strives to become a
 
 Thus we need the following "arts":
 
-|    | Künste      | Arts        |
-| -- | ----------- | ----------- |
+```
+     +---------------------------+
+     | Künste      | Arts        |
++----|-------------|-------------|
 | DK | Diebeskunst | Thievery    |
 | WK | Waffenkunst | Weaponry    |
 | AG | Arkane Gabe | Arcane Gift |
 | PG | Psi Gabe    | Psi Gift    |
++--------------------------------+
+```
 
 
 ### Completing the clear texts
 
 Based on the incomplete and work in progress texts from v0.56c, we come up with the following complete structure for the ten levels of the primary attributes:  
 
-```
+
 // Kraft
 
 1.  "gelähmt",
@@ -558,9 +579,8 @@ Based on the incomplete and work in progress texts from v0.56c, we come up with 
 8.  "unbezwingbar",
 9.  "<span class="added">Secret</span>",
 10. "<span class="added">Secret</span>" 
-```
 
-```
+
 // Konstitution
 
  1. "<span class="changed">halbtot</span>",
@@ -573,9 +593,8 @@ Based on the incomplete and work in progress texts from v0.56c, we come up with 
  8. "zäh wie Leder",
  9. "<span class="added">Secret</span>",
 10. "<span class="added">Secret</span>"
-```
 
-```
+
 // Wille
 
  1. "<span class="changed">besessen</span>",
@@ -588,9 +607,8 @@ Based on the incomplete and work in progress texts from v0.56c, we come up with 
  8. "unbeugsam",
  9. "<span class="added">eisern</span>",
 10. "<span class="added">frei</span>"
-```
 
-```
+
 // Waffenkunst
 
  1. "keine",
@@ -603,9 +621,8 @@ Based on the incomplete and work in progress texts from v0.56c, we come up with 
  8. "<span class="added"></span>",
  9. "<span class="added"></span>",
 10. "<span class="added">Schwertsänger</span>"
-```
 
-```
+
 // Diebeskunst
 
  1. "keine",
@@ -618,9 +635,8 @@ Based on the incomplete and work in progress texts from v0.56c, we come up with 
  8. "Fingerkünstler",
  9. "Finger wie der Wind",
 10. "<span class="added"></span>"
-```
 
-```
+
 // Arkanei
 
  1. "<span class="added">keine</span>",
@@ -633,9 +649,8 @@ Based on the incomplete and work in progress texts from v0.56c, we come up with 
  8. "<span class="added">Secret</span>",
  9. "<span class="added">Secret</span>",
 10. "<span class="added">Secret</span>"
-```
 
-```
+
 // <span class="added">Psionik</span>
 
  1. "narkotisch",
@@ -648,7 +663,6 @@ Based on the incomplete and work in progress texts from v0.56c, we come up with 
  8. "versunken",
  9. "erleuchtet",
 10. "erwacht"
-```
 
 
 ### Phoenix HUDs
@@ -664,21 +678,21 @@ We hide the HP Bar/Symbols during exploration mode when not wounded.
 Sasha (aka Jr) was inspired by the Symbol HUD of the alpha versions and started to develop an enhanced version of it. There was no symbol to represent oxygen when diving, so he added a little bubble symbol. Since he imagined that one symbol such as HP does not necessarily correlate to one health point internally, but may be the sum of a specific number of healthpoints, he included an optical transition. As we know now one symbol should exactly correlate to one health point, such that this idea has become redundant.  
 In cooperation with me he later improved the HUD even further and designed it to our liking; he included the possibility to switch between the Symbol- and Bar-HUD from the menu, provided options to customise the HUD to ones liking and included Phoenix presets.  
 
-[Corristos HUD example HP & MP Level 2+3](_img/mechanics/HUD/HUDCor.png)
+[Corristos HUD example HP & MP Level 2+3](/_img/mechanics/HUD/HUDCor.png)
 
 Psi Symbols:  
 
-[Psi HUD example Level 1+2](_img/mechanics/HUD/HUDPsi2.png)
+[Psi HUD example Level 1+2](/_img/mechanics/HUD/HUDPsi2.png)
 
 Specific Monster Symbols:
 
-[Gobbo HUD example Green Fists](_img/mechanics/HUD/HUDGobbo.png)
+[Gobbo HUD example Green Fists](/_img/mechanics/HUD/HUDGobbo.png)
 
-[Orc HUD example Fists](_img/mechanics/HUD/HUDOrcSlave.png)
+[Orc HUD example Fists](/_img/mechanics/HUD/HUDOrcSlave.png)
 
 New dedicated Madness Symbols:
 
-[New Madness Symbols](_img/mechanics/HUD/HUDMad2.png)
+[New Madness Symbols](/_img/mechanics/HUD/HUDMad2.png)
 
 
 
@@ -697,7 +711,7 @@ The HP reduction will be visualised by enhancing the idea experimented with in v
 Just as there is an overlay when the character is injured - has less than X HP -, there will be an overlay when the character has less than X Psi- or Mana points. When the psionic reaches the end of his Psi treshold, the demonic force begins to pressure him and he gets headaches; at this point he will walk around with his hand on his head, turning and shaking his head while standing, not being able to run, signifying to the player that his character is on the edge and madness is nigh.  
 This will be accompanied by a droning sound effect and a mild visual effect.  
 
-<span class="funfact">Related fun fact: Mike described in his documents that psionics would only be able to cast psi spells as long as they didn't wear a helmet.</span>
+<p class="subtext">Related fun fact: Mike described in his documents that psionics would only be able to cast psi spells as long as they didn't wear a helmet.</p>
 
 While the animation overlay of the psionic visualises how his magic is mainly associated with his mental power by laying the focus on his head, the magic of the Arcane Mages is different, alchemical and through the Mana associated with his blood (more on that in [[#Alchemical Magic]]). Hence when he is close to the edge of Madness, his overlay has to show how the lack of Mana (that serves as a physical protection from the demonic forces just as the Psi serves as a psychical protection) is affecting his whole body similar to an addict on withdrawal. 
 
