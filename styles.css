@@ -215,7 +215,7 @@ blockquote {
   display: block;
   margin: 0 auto;
   width: 450px;
-  /*image-rendering: pixelated;*/
+  image-rendering: pixelated;
 }
 
 .promo-graphics {
