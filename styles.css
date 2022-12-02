@@ -6,10 +6,7 @@
   --black: #000;
   --dark: #1f1f1f;
   --light: #dddddd;
-  /*--blood: #844d44;*/
-
-  --blood: #649e8a;
-
+  --blood: #844d44;
   --copper: #8c5f4e;
   --demonic: #855f67;
   --gold: #976b42;
@@ -90,7 +87,7 @@ h1::before, h2::before, h2::before, h3::before, h4::before, h5::before, h6::befo
 
 a {
   text-decoration: none;
-  color: var(--blood);
+  color: var(--link);
 }
 
 a:hover {
@@ -206,7 +203,7 @@ blockquote {
 /* MISC */
 
 #cover {
-  background: url("_img/bg/bg-friends-blue.jpg");
+  background: url("_img/bg/bg-friends.jpg");
   background-position: bottom right;
   background-size: 1508px;
   background-repeat: no-repeat;
@@ -259,7 +256,7 @@ blockquote {
 
 #intro {
   width: 100%;
-  background: url("/_img/bg/bg-revolutions.jpg");
+  background: url("/_img/bg/bg-reloaded.jpg");
   background-repeat: no-repeat;
   background-size: 110% auto;
   background-position: top;
