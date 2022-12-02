@@ -235,12 +235,12 @@ blockquote {
   padding: 5px;
   position: relative;
 }
-  .promo-graphics ul { display: flex; list-style: none; }
-  .promo-graphics li { max-height: 400px; flex-grow: 1; padding: 0.5em; }
+  .promo-graphics ul { display: flex; list-style: none; max-width: 100%; }
+  .promo-graphics li { height: 400px; padding: 0.5em; }
   
   .promo-graphics img {
-    max-height: 100%;
-    object-fit: cover;
+    height: 100%;
+    width: auto;
     padding: 0;
       /* border: 5px solid var(--blood); */
     }
