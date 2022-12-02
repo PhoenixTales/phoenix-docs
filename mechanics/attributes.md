@@ -1,4 +1,6 @@
-# Attributes [WORK IN PROGRESS!]
+# Attributes 
+
+<span class="changed">[WORK IN PROGRESS!]</span>
 
 ![Attributes](/_img/headings/attributes.png)
 

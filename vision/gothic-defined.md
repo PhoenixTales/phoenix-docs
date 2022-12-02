@@ -1,10 +1,11 @@
 ---
-layout: default
-title: Gothic defined
+layout: gothic
 ---
 
 
 # Gothic defined  
+
+<span class="changed">[WORK IN PROGRESS!]</span>
 
 ![Gothic defined](/_img/headings/gothic-defined.png)
 

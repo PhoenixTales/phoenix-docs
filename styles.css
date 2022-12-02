@@ -208,7 +208,7 @@ blockquote {
 }
 
 
-/* MISC */
+/* COVER/INTRO PAGE */
 
 #cover {
   background: url("_img/bg/bg-friends.jpg");
@@ -277,6 +277,20 @@ blockquote {
     padding: 3em;
     max-width: 590px;
     min-width: 0;
+  }
+
+
+/* GOTHIC BG */
+
+.gothic {
+  width: 100%;
+  background: url("/_img/bg/gothic-avallach.jpg");
+  background-repeat: no-repeat;
+  background-size: 110% auto;
+  background-position: top;
+}
+  .gothic .article {
+    margin: 10em auto 0;
   }
 
 .article {
