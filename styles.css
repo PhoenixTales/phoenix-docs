@@ -193,7 +193,7 @@ th, td {
 }
 
 td {
-  white-space: nowrap;
+  /*white-space: nowrap;*/
   overflow: hidden;
 }
 
