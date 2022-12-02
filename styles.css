@@ -286,7 +286,7 @@ blockquote {
 .slogan {
   display: block;
   font-size: 28px;
-  color: #b49b88;
+  color: #d1b6a3;
   max-width: 330px;
   margin: 0em auto 1em;
   padding: 1em;
@@ -420,10 +420,11 @@ and (max-width : 820px) {
     max-width: 100%;
     margin: 0;
     padding: 2.5em 1.5em;
+    overflow: auto;
     position: relative;
     border: none;
   }
-    .promo-graphics ul { flex-wrap: nowrap; gap: 2em; overflow: auto; }
+    .promo-graphics ul { flex-wrap: nowrap; gap: 2em; }
     .promo-graphics li { height: 400px; flex-grow: 0; }
 
     .promo-graphics img {
