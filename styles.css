@@ -90,7 +90,7 @@ h1::before, h2::before, h2::before, h3::before, h4::before, h5::before, h6::befo
 
 a {
   text-decoration: none;
-  color: var(--link);
+  color: var(--blood);
 }
 
 a:hover {
