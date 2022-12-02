@@ -6,7 +6,10 @@
   --black: #000;
   --dark: #1f1f1f;
   --light: #dddddd;
-  --blood: #844d44;
+  /*--blood: #844d44;*/
+
+  --blood: #649e8a;
+
   --copper: #8c5f4e;
   --demonic: #855f67;
   --gold: #976b42;
