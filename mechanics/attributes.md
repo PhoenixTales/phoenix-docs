@@ -241,11 +241,7 @@ Such is the case for `ATR_PROTECTION`, which was later replaced by a dedicated `
 
 In the `text.d` of v0.56c, there is another case like that in form of "*Tarnung*" (disguise), which had no equivalent (anymore or not yet?) among the constants, but just as protection it was not really supposed to be an attribute.  
 
-<p class="subtext">
-In 0.56c-0.64b the maximum attribute index was 18.
-In 0.94k the maximum attribute index was 10.
-In 1.00b till release the maximum index was 8.
-</p>
+<p class="subtext">In 0.56c-0.64b the maximum attribute index was 18. In 0.94k it was 10. In 1.00b till it was 8.</p>
 
 When we blend out these attributes that were only handled as such for technical reasons (and usually just tempory), we end up with the following comparison of attribute constants throughout the available builds, as they were continueously reduced:  
 
@@ -323,10 +319,10 @@ While Mana was supposed to regenerate automatically it was made clear in intervi
 Inititally, not only skills, but also attributes should have been visualised.  
 
 >  The character development is based on visualization. Every enhancement of your characters skills **and attributes** will be shown in graphical effects like changing character animations, there are no more character stats.
->  `- (Mike Hoge, 11.06.1998, interview with ign)`
+>  `- Mike Hoge, 11.06.1998, interview with ign`
 
 > […] It will not be sufficient to collect a mighty two-handed-sword. If you […] aren't even strong enough to wield the weapon, your blows will not only be slower and not so powerful, but you will see how your Character has got problems even raising the mighty weapon! So you've got attributes like strength and dexterity as well as many skills and spells, and every single one of them will have different animations or additional effects when you learn or improve them.  
-> `- Mike Hoge, 15.06.1998, desslock.gamespot.com)`
+> `- Mike Hoge, 15.06.1998, desslock.gamespot.com`
 
 
 #### Visualisation vs. Representation
