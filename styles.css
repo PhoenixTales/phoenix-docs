@@ -227,24 +227,23 @@ blockquote {
 }
 
 .promo-graphics {
-  background: var(--dark);
+  border-top: 5px solid var(--dark);
+  border-bottom: 5px solid var(--dark);
   max-width: 100%;
   margin: 0.5em 0 1em;
-  padding: 2.5em 1.5em;
+  padding: 5px;
   display: flex;
-  flex-wrap: wrap;
   gap: 2em;
   position: relative;
 }
   .promo-graphics img {
     height: 400px;
     padding: 0;
-    border: 7px solid var(--blood);
+    /* border: 5px solid var(--blood); */
   }
   .promo-graphics img:hover {
     filter: grayscale(75%);
     transition: all .4s linear;
-    border: 7px solid var(--ore);
   }
 
 #intro {
@@ -285,7 +284,7 @@ blockquote {
 .slogan {
   display: block;
   font-size: 28px;
-  color: var(--copper);
+  color: #a48b79;
   max-width: 330px;
   margin: 0em auto 1em;
   padding: 1em;
@@ -424,6 +423,7 @@ and (max-width : 820px) {
     overflow: auto;
     gap: 2em;
     position: relative;
+    border: none;
   }
     .promo-graphics img {
       height: 400px;
