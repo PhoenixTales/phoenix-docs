@@ -8,7 +8,7 @@
   --darker: #121212;
   --light: #dddddd;
   --blood: #844d44;
-  --copper: #925c44;
+  --copper: #9e6f4b;
   --demonic: #855f67;
   --gold: #976b42;
   --ore: #649e8a;
@@ -232,25 +232,10 @@ blockquote {
   margin: 0.5em 0 1em;
   padding: 2.5em 1.5em;
   display: flex;
-  overflow: hidden;
+  flex-wrap: wrap;
   gap: 2em;
   position: relative;
 }
-/*
-  .promo-graphics:hover {
-    -webkit-animation: movepromoart 10s forwards; 
-    animation: movepromoart 10s forwards;
-  }
-    @-webkit-keyframes movepromoart {
-      0%   { right: 0; }
-      100% { right: 50%; }
-    }
-    @keyframes movepromoart {
-      0%   { right: 0; }
-      100% { right: 50%; }
-    }
-*/
-
   .promo-graphics img {
     height: 400px;
     padding: 0;
@@ -428,15 +413,29 @@ and (max-width : 820px) {
     margin: 1em auto 1.5em;
     padding: 0;
   }
-  
+
   .promo-graphics {
-  overflow: auto;
-  margin: 0;
+    background: var(--dark);
+    max-width: 100%;
+    margin: 0;
+    padding: 2.5em 1.5em;
+    display: flex;
+    flex-wrap: nowrap;
+    overflow: auto;
+    gap: 2em;
+    position: relative;
   }
-    .promo-graphics:hover {
-      -webkit-animation: none; 
-      animation: none;
+    .promo-graphics img {
+      height: 400px;
+      padding: 0;
+      border: 7px solid var(--blood);
     }
+ /*   .promo-graphics img:hover {
+      filter: grayscale(75%);
+      transition: all .4s linear;
+      border: 7px solid var(--ore);
+    }
+  */
 
   #cover {
     padding: 3em 0 3em;
