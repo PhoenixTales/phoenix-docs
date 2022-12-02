@@ -397,7 +397,7 @@ and (max-width : 820px) {
   }
 
   .phnx-mask {
-    width: 90%;
+    width: 100%;
   }
 
   code {
