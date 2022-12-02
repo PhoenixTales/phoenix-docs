@@ -160,7 +160,7 @@ footer {
 pre {
   /*border: 1px solid #4a4843;*/
   padding: 1em;
-  background: var(--darker);
+  background: var(--dark);
   margin: 1.5em 0 2em;
   max-width: 100%;
   box-sizing: border-box;
