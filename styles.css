@@ -176,6 +176,7 @@ code {
 /* TABLES */
 
 table {
+  max-width: 100%;
   font-size: 12px;
   margin: 2em 0;
   overflow: auto;
