@@ -5,7 +5,7 @@
 ## Index
 
 1. Vision
-	1. [On Phoenix](/)
+	1. [A Phoenix rising](/)
 	2. [Gothic (re)defined](/vision/gothic-defined.html)
 	3. Design Philosophy
 	4. Project Goal
