@@ -228,6 +228,7 @@ blockquote {
   gap: 2em;
   position: relative;
 }
+/*
   .promo-graphics:hover {
     -webkit-animation: movepromoart 10s forwards; 
     animation: movepromoart 10s forwards;
@@ -240,6 +241,7 @@ blockquote {
       0%   { right: 0; }
       100% { right: 50%; }
     }
+*/
 
   .promo-graphics img {
     height: 400px;
@@ -296,7 +298,6 @@ blockquote {
 
 .suptext {
   font-size: 26px;
-  max-width: 70%;
   padding: 1em;
 }
 
