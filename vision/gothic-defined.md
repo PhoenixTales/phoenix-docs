@@ -3,9 +3,7 @@ layout: gothic
 ---
 
 
-# Gothic defined  
-
-<span class="changed">[WORK IN PROGRESS!]</span>
+# Gothic defined <span class="changed">[WORK IN PROGRESS!]</span>
 
 ![Gothic defined](/_img/headings/gothic-defined.png)
 
@@ -112,9 +110,6 @@ GOTHIC is...
 
 
 ... to be continued
-
-TODO: Add early Gothic specific background picture?
-Add early gothic logo as title?
 
 
 ## Read next
