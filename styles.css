@@ -234,7 +234,7 @@ blockquote {
   padding: 5px;
   position: relative;
 }
-  .promo-graphics ul { display: flex; flex-wrap: wrap; list-style: none; }
+  .promo-graphics ul { display: flex; list-style: none; }
   .promo-graphics li { height: 400px; flex-grow: 1; padding: 0.5em; }
   
   .promo-graphics img {
