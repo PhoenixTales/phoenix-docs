@@ -179,6 +179,7 @@ table {
   max-width: 100%;
   font-size: 12px;
   margin: 2em 0;
+  word-break: break-word;
   overflow: auto;
 }
 
@@ -189,6 +190,11 @@ table, th, td {
 
 th, td {
   padding: 0.3em;
+}
+
+td {
+  white-space: nowrap;
+  overflow: hidden;
 }
 
 
