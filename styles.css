@@ -314,7 +314,8 @@ blockquote {
 .changed { color: var(--ore); }
 
 ::selection {
-  background: var(--ore);
+  background: var(--blood);
+  color: var(--black);
 }
 
 
