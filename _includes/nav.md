@@ -12,7 +12,7 @@
 	5. Criteria of Modification
 2. Mechanics
 	1. Classes
-	2. Attributes
+	2. [Attributes](/mechanics/attributes.html)
 	3. Skills
 	4. Modes of Interaction 
 		1. Exploration Mode
