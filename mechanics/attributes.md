@@ -4,7 +4,7 @@
 
 ```
 Author: Flosha   Created: 03.11.22
-                 Changed: 19.11.22
+                 Changed: 02.12.22
 ```
 
 At first we analyse the attributes as imagined in the concept phase by analysing all the available design documents. Then we look at the attributes as they were implemented in the actual builds of the game and how they changed in course of development. In the end, building on this research, we present our own solution for **Phoenix**. 
