@@ -232,17 +232,16 @@ blockquote {
   border-bottom: 5px solid var(--dark);*/
   max-width: 100%;
   margin: 0.5em 0 1em;
-  padding: 5px;
   position: relative;
 }
   .promo-graphics ul { 
-    padding: 0 1em; 
+    padding: 1em; 
     display: flex; 
     list-style: none; 
     max-width: 100%; 
   }
   .promo-graphics li { 
-    height: 400px;
+    max-height: 300px;
     flex-shrink: 1;
     padding: 0.5em; 
   }
