@@ -479,7 +479,7 @@ and (max-width : 820px) {
     background-size: 140% auto;
   }
     .gothic .article {
-      margin: 4em 1.5em 2em;
+      margin: 4em 0 2em;
     }
 
 @supports (backdrop-filter: blur(10px)) {
