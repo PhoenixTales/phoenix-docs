@@ -227,15 +227,16 @@ blockquote {
 }
 
 .promo-graphics {
-  border-top: 5px solid var(--dark);
-  border-bottom: 5px solid var(--dark);
+  background-color: var(--dark);
+  /*border-top: 5px solid var(--dark);
+  border-bottom: 5px solid var(--dark);*/
   max-width: 100%;
   margin: 0.5em 0 1em;
   padding: 5px;
   position: relative;
 }
   .promo-graphics ul { display: flex; list-style: none; }
-  .promo-graphics li { height: 400px; flex-grow: 1; padding: 0.5em; }
+  .promo-graphics li { max-height: 400px; flex-grow: 1; padding: 0.5em; }
   
   .promo-graphics img {
     max-height: 100%;
