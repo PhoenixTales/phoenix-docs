@@ -1,6 +1,6 @@
 <a href="/"><img src="/_img/phnx-logo-low2.png" alt="Phoenix Logo"></a>
 
-# Concept
+# [Phoenix](/) Concept
 
 ## Index
 
