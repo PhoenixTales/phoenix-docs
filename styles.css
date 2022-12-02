@@ -178,6 +178,7 @@ code {
 table {
   font-size: 12px;
   margin: 2em 0;
+  overflow: auto;
 }
 
 table, th, td {
