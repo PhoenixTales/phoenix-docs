@@ -466,16 +466,16 @@ And the same for such things as control. When the psionic attempts to control an
 
 And this is also not as it was actually planned in the earliest docs by Mike. In various notes on spells he wrote how the success of a spell depends on the enemies willpower. TODO: is that so?  
 
-The values as they were distributed in 0.94k seem not to be consistent with this idea. No, so every npc has to have some amount of will, npcs of higher levels should automatically have a higher will. But how can that be the same as the "willpower" in the sense of the psi energy, of which YBerion has to have most among the humans and the Sleeper himself must have an abundance of?  
+The values as they were distributed in 0.94k seem not to be consistent with this idea. Instead, every npc has to have some amount of will and npcs of higher levels should automatically have higher will. But how can that be the same as the "willpower" in the sense of the psi energy, of which YBerion has to have most among the humans and the Sleeper himself must have an abundance of?  
 
-Here we come to the meaning and importance of the will and psi-energy correlation. Only psionics should have psi-energy, that is what they themselves refer to as "willpower", but that is in reality a kind of demonic force. This willpower is what is left in 0.94k (since that only contains the "secondary" attributes) and in this sense it makes sense how non-psionic has no amount of willpower (= Psi). Every npc should have some amount of *Will*, but it should not be confused with the willpower of the psionics, which, to avoid the confusion, we will call *psi-energy* from now on.  
+Here we come to the meaning and importance of the will and psi-energy correlation. Only psionics should have psi-energy, that is what they themselves refer to as "willpower", but that is in reality a kind of demonic force. This willpower is what is left in 0.94k (since that only contains the "secondary" attributes) and in this sense it makes sense how non-psionic has no amount of willpower (= Psi). Every npc should have some amount of *Will*, but it should not be confused with the willpower of the psionics. The two terms continue to cause confusion, therefore we will refer to willpower as *psi-energy* from now on.  
 
-The correlation of will and psi-energy is that while someone with a strong will may not have any psi-energy, someone with psi-energy will have automatically more of it when he has a strong will.  
+The correlation of will and psi-energy is that while someone with a strong will may not have any psi-energy, someone with psi-energy (or psi-power-potential) will automatically have more of it when he has a strong will.  
 
 Example: Gomez will have 10 Will (highest) but 0 Psi.  
 YBerion will have 10 Will but 30 Psi.  
 
-Will is a primary attribute of which 10 levels exist for everyone. Psi is a correlated and class specific attribute that has to be acquired in course of the story by joining the sect and is then scaled by will from 0 to 30.  
+Will is a primary attribute of which 10 levels exist for everyone. Psi is a correlated and class specific attribute that has to be acquired in course of the story by joining the sect.
 
 ```
 +--------------+
@@ -494,27 +494,31 @@ Will is a primary attribute of which 10 levels exist for everyone. Psi is a corr
 +--------------+
 ```
 
+In this way, the level of Will determines the *potential* of psi-energy usage before drifting into madness.
+
 <p class="subtext">For monsters, psi is scaled by factor 2. Thus, the Sleeper at Lv10 has 60 Psi.</p>
 
-And at the same time it is WILL that controls the resistance against Psi.  
+At the same time it is WILL that controls the resistance against Psi.  
 
-But we also have to consider madness. Here we are confronted with the two contrasting approaches that are mostly about representing the madness or sanity in the HUD. WILL is an absolute value that cannot be diminished. Psi-energy has an actual and a maximal value that can be exhausted and recharged. And there are two kinds of PSI:  
+But we also have to consider madness. Here we are confronted with the two contrasting approaches that are mostly about representing madness or sanity in the HUD. WILL is an absolute value that cannot be diminished. Psi-energy has an actual and a maximal value that can be exhausted and recharged. And there are two kinds of PSI:  
 One is the psi energy handled by a psionic and represents the maximum amount of demonic force a psionic can handle. The other is the environmental psi energy in form of psi emissions, in form of localised psi-rays at so called "psi-knots" and in form of the general psi radioactivity in the atmosphere that increase in course of the story and from emission to emission. 
 
-The psi-energy of the psionics can be fend of by enough Will. The localised psi-rays can be avoided by keeping distance from psi knots or external protection. And the psi emissions and general radioactivity can only be endured by drugs or strong external protection; that most NPCs won't have any access to such drugs anymore nor any kind of psi protection will be the primary reason for the *Nemesis*; more on that in [[#Alpha Story]].  
+<p class="subtext">While the psi-energy of psi-npcs is automatically scaled with by their will from 0 to 30, player characters have to find Psi-knots in the game world to increase their psi-energy.</p> 
 
-Based on these ideas, it is simply not sufficient to have Will as described before and the psi points as exclusive energy of psionics like mana points as exclusive energy of mages. Madness cannot be the lack of the primary Will attribute, since that is an absolute value, nor can it be just the lack of psi energy; if 0% psi would equal 100% madness everyone but the psionics would be mad and a psionic player could never fully exhaust his available psi-energy. Thus, the psi-energy or willpower that is psionic exclusive can not equal the sanity or madness meter relevant for all npcs.  
+The psi-energy of the psionics can be fend of by enough Will. The localised psi-rays can be avoided by keeping distance from psi knots or external protection. The psi emissions and general radioactivity can only be endured by drugs or strong external protection. That most NPCs won't have any access to such drugs anymore nor any kind of psi protection will be the primary reason for the *Nemesis*; more on that in [[#Alpha Story]]. But without a dedicated madness value independent from the psionic-exclusive willpower, nothing about that could be displayed in the game, as originally imagined.
+
+Based on these ideas, it is simply not sufficient to have Will as described before and the psi points as exclusive energy of psionics like mana points as exclusive energy of mages. Madness cannot be the lack of the primary Will attribute, since that is an absolute value, nor can it be just the lack of psi energy; if 0% psi would equal 100% madness everyone but the psionics would be mad and a psionic player could never fully exhaust his available psi-energy. Thus, the psi-energy or willpower that is psionic-exclusive can not equal the sanity or madness meter that should be relevant to all npcs.  
 
 We assume that this complex relation and interconnection, while it may vaguely have been at the back of ones head, was never properly documented, it was confusing and thus was confused in the actual implementation in the engine and the alpha builds. We dissolve this confusion.
 
-In consequence there arises the need to add Madness *additionally* and *independently from Psi*. And here comes another of my old concepts into play that I developed in the end of 2018:
+In consequence there arises the need to add Madness *additionally* and *independently from Psi*. Here comes another of my old concepts into play that I developed in the end of 2018:
 
 Madness is negative Willpower.  
 
-That said: The Will of an NPC protects from Psi attacks and thus from madness -> since attacking someone the psionic way basically means to drive him mad. But at the same time, dealing with psi energy in such a way is dangerous. As Tom Putzki told us, quoting one of his favourite lyrics, *"Der Wahnsinn ist nur eine schmale Brücke"* (Madness is just a small bridge), but more correctly I would say: *Sanity is a small bridge and Madness lies beneath* and the psionic is always on the edge.  
+That said: The Will of an NPC protects from Psi attacks and thus from madness -> since attacking someone in the psionic way basically means to drive him mad. But at the same time, dealing with psi energy in such a way is dangerous. As Tom Putzki told us, quoting one of his favourite lyrics, *"Der Wahnsinn ist nur eine schmale Brücke"* (Madness is just a small bridge), but more correctly I would say: *Sanity is a small bridge and Madness lies beneath* and the psionic is always on the edge.  
 
 We will not let psionic casting "automatically end" as the early note by Mike suggests, instead it will become a gameplay factor for the player to know the mental capacity of his characters and be on or close to this edge and decide how much he can lean beyond. 
-When he deals with the energy beyond his treshold (when all Psi-Energy points are used up or when the psi bar is fully discharged), the madness begins to increase.  
+When he deals with the energy beyond his treshold (when all Psi-Energy points are used up or when the psi bar is fully discharged), the madness begins to fill.  
 
 While it is safe to say that this was never actually planned as such and that this is our original solution that we came up with just based on the terms Will and Madness before knowing about the concepts behind it, it may actually be the only way in which we can include both the psi energy discharge as implemented in the game and the "black soul bar" idea of increasing madness from Mikes concept; our solution combines and harmonises both.
 
