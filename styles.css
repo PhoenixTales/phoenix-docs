@@ -8,7 +8,7 @@
   --darker: #121212;
   --light: #dddddd;
   --blood: #844d44;
-  --copper: #8c5f4e;
+  --copper: #925c44;
   --demonic: #855f67;
   --gold: #976b42;
   --ore: #649e8a;
@@ -300,6 +300,7 @@ blockquote {
 .slogan {
   display: block;
   font-size: 28px;
+  color: var(--copper);
   max-width: 330px;
   margin: 0em auto 1em;
   padding: 1em;
