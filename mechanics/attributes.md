@@ -370,7 +370,7 @@ And just as we aren't demanding for the government to just be taken down, but fo
 
 This said, we do not strive to get rid of the HUD altogether, but we want it to be optional and for the game to be fully functional (= playeable) without it. And as said before, the need for the HUD arises primarily in order to display and inform about the changes of Attributes, primarily Life (HP), Mana (MP) and Willpower (WP). In order to overcome this need we have to find ways to visualise these changes. And at least the seeds of this idea were already present in the Alpha.  
 
-[Wounded Overlay in v0.64b](/_img/mechanics/visualisation/overlay_wounded.gif)
+![Wounded Overlay in v0.64b](/_img/mechanics/visualisation/overlay_wounded.gif)
 
 In v0.64b, if you are injured, the player character stands and walks with an extra animation overlay, slowly hobbling, pressing his hands on his wounds as if to stop the bleeding; combined with visual bleeding effects and sound design to intensify the pressure as the HP of the player decrease, this solution would have made the health bar redundant. 
 It was not implemented in the end, be it by lack of time or by deliberate decision, but based on what we know and described so far, it would have been the next logical step, following the vision of radical visualisation they initially proposed and promoted.  
@@ -678,21 +678,21 @@ We hide the HP Bar/Symbols during exploration mode when not wounded.
 Sasha (aka Jr) was inspired by the Symbol HUD of the alpha versions and started to develop an enhanced version of it. There was no symbol to represent oxygen when diving, so he added a little bubble symbol. Since he imagined that one symbol such as HP does not necessarily correlate to one health point internally, but may be the sum of a specific number of healthpoints, he included an optical transition. As we know now one symbol should exactly correlate to one health point, such that this idea has become redundant.  
 In cooperation with me he later improved the HUD even further and designed it to our liking; he included the possibility to switch between the Symbol- and Bar-HUD from the menu, provided options to customise the HUD to ones liking and included Phoenix presets.  
 
-[Corristos HUD example HP & MP Level 2+3](/_img/mechanics/HUD/HUDCor.png)
+![Corristos HUD example HP & MP Level 2+3](/_img/mechanics/HUD/HUDCor.png)
 
 Psi Symbols:  
 
-[Psi HUD example Level 1+2](/_img/mechanics/HUD/HUDPsi2.png)
+![Psi HUD example Level 1+2](/_img/mechanics/HUD/HUDPsi2.png)
 
 Specific Monster Symbols:
 
-[Gobbo HUD example Green Fists](/_img/mechanics/HUD/HUDGobbo.png)
+![Gobbo HUD example Green Fists](/_img/mechanics/HUD/HUDGobbo.png)
 
-[Orc HUD example Fists](/_img/mechanics/HUD/HUDOrcSlave.png)
+![Orc HUD example Fists](/_img/mechanics/HUD/HUDOrcSlave.png)
 
 New dedicated Madness Symbols:
 
-[New Madness Symbols](/_img/mechanics/HUD/HUDMad2.png)
+![New Madness Symbols](/_img/mechanics/HUD/HUDMad2.png)
 
 
 
