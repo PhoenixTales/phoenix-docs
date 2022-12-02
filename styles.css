@@ -434,11 +434,10 @@ and (max-width : 820px) {
     position: relative;
     border: none;
   }
-    .promo-graphics ul { flex-wrap: nowrap; gap: 2em; }
-    .promo-graphics li { height: 400px; flex-shrink: 0; }
+    .promo-graphics ul { flex-wrap: nowrap; gap: 2em; padding: 0 2em; }
+    .promo-graphics li { max-height: none; height: 400px; flex-shrink: 0; }
 
     .promo-graphics img {
-      max-height: 100%;
       min-width: 0;
       object-fit: cover;
       padding: 0;
