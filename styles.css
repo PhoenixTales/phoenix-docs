@@ -234,12 +234,11 @@ blockquote {
   padding: 5px;
   position: relative;
 }
-  .promo-graphics ul { display: flex; flex-wrap: wrap; }
-  .promo-graphics li { height: 400px; flex-grow: 1; }
+  .promo-graphics ul { display: flex; flex-wrap: wrap; list-style: none; }
+  .promo-graphics li { height: 400px; flex-grow: 1; padding: 0.5em; }
   
   .promo-graphics img {
     max-height: 100%;
-    min-width: 100%;
     object-fit: cover;
     padding: 0;
       /* border: 5px solid var(--blood); */
@@ -424,7 +423,7 @@ and (max-width : 820px) {
     position: relative;
     border: none;
   }
-    .promo-graphics ul { flex-wrap: nowrap; gap: 2em; }
+    .promo-graphics ul { flex-wrap: nowrap; gap: 2em; overflow: auto; }
     .promo-graphics li { height: 400px; flex-grow: 0; }
 
     .promo-graphics img {
