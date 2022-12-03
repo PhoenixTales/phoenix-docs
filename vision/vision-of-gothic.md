@@ -1,5 +1,8 @@
 # THE VISION OF GOTHIC 
 
+<span class="changed">[WORK IN PROGRESS!]</span>
+
+
 In the beginning there was an idea. 
 Orpheus blabla.
 

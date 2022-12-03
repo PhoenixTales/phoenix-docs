@@ -1,6 +1,9 @@
 
 # Grundsätze der Rekonstruktion 
 
+<span class="changed">[WORK IN PROGRESS!]</span>
+
+
 **Autor:** Flosha
 **Erstellt:** 21.09.2019
 **Geändert:** 03.12.2022
