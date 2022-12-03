@@ -9,9 +9,9 @@
 1. Vision
 	1. [Vision of Gothic](/vision/vision-of-gothic.html)
     2. [Gothic (re)defined](/vision/gothic-defined.html)
-	3. [Clash of Dreams](/vision/)
+	3. [Clash of Dreams](/vision/clash-of-dreams.html)
 	4. [Phoenix Rising](/vision/projectgoal+designphilosophy.html)
-	5. [Reconstruction](/vision/reconstruction.md)
+	5. [Reconstruction](/vision/reconstruction.html)
 2. Mechanics
 	1. Classes
 	2. [Attributes](/mechanics/attributes.html)
