@@ -4,13 +4,16 @@
 
 ## Index
 
+* [Introduction](/)
+
 1. Vision
-	1. [A Phoenix rising](/)
-	2. [Vision of Gothic](/vision/gothic-vision.html)
-        3. [Gothic (re)defined](/vision/gothic-defined.html)
-	4. Design Philosophy
-	5. Project Goal
-	6. Criteria of Modification
+	1. [Vision of Gothic](/vision/vision-of-gothic.html)
+    2. [Gothic (re)defined](/vision/gothic-defined.html)
+	3. [Clash of Dreams](/vision/)
+	4. [Phoenix Rising](/vision/projectgoal+designphilosophy.html)
+	5. Concept & Approach  
+		* Criteria of Modification
+		* Retro Graphics
 2. Mechanics
 	1. Classes
 	2. [Attributes](/mechanics/attributes.html)

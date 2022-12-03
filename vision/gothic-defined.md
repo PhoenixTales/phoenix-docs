@@ -3,7 +3,9 @@ layout: gothic
 ---
 
 
-# Gothic defined <span class="changed">[WORK IN PROGRESS!]</span>
+# Gothic defined 
+
+<span class="changed">[WORK IN PROGRESS!]</span>
 
 ![Gothic defined](/_img/headings/gothic-defined.png)
 
@@ -12,14 +14,34 @@ Author: Flosha   Written: 18.10.2022
                  Changed: 01.12.2022  
 ```
 
-In order to create a gothic drama we have to define what "Gothic" is. Contrary to popular belief Gothic is not a mere game and its underlying concept, it is (or to be more precise "it was once supposed to be" and is to us) more than that: It was an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs. 
+In order to create a "gothic" drama we have to define what "Gothic" is. Contrary to popular belief Gothic is not a mere game and its underlying concept, it is (or to be more precise "it was once supposed to be" and is to us) an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs.
 
-<p class="suptext">
-    „Other games suck,<br> 
-    we make our own.“
-</p>
+A "gothic" game has by definition to abide to the stilistic characteristis of the gothic art and fiction it is inspired by, which we summarise as "gothic aesthetics". These stilistic characteristics are nothing that GOTHIC as a game invented, but the game is rooted in this aesthetics and the devs went so far to declare the fantasy world they created from this influence as another kind of fantasy: Gothic fantasy. 
 
-In the beginning we will analyse gothic vs. common fantasy. In this context we will also deal with gothic horror vs. cosmic horror. With this background in mind we'll analyse diverse documents to define principles of gothic-like gamedesign. Based on this research we will define what "Gothic" is and we'll make examples of games that fit the definition and how even the official successors of Gothic as a franchise did *not*.
+We may think of Gothics gameplay principles as another aspect that is independent from its stilistic elements. But we may just as well attempt to perceive the gameplay principles as being deduced from the underlying aesthetics and style and vice versa, the gothic aesthetics as a narrative (or in this context: gameplay) element, a narrative means. In a gameplay that sets exploration first the atmosphere, mood, style of the world becomes an absolutely essential part of the design. The aesthetics influences the gameplay and the gameplay is build in accordance with the aesthetics; the gameplay can't be in the way of the aesthetics and the aesthetics can't be in the way of the gameplay. Combined harmoniously they result in gothic-like gamedesign. Take one away and you may have a game with a gameplay similar to Gothic or a game with a gothic aesthetics but only combined it is gothic-like.
+
+
+
+In the beginning we will analyse gothic aesthetics, we deal with gothic vs. common fantasy and with gothic horror vs. cosmic horror. Based on the research of diverse documents and the interviews quoted in the "Vision of Gothic" we'll define principles of gothic-like gamedesign. By seeing both together, gothic style and gothic-like gameplay, we will then define what "Gothic" is and we'll make examples of games that fit the definition and how even the official successors of Gothic as a franchise did *not*.
+
+
+
+## Gothic Aesthetics
+
+In 04/2000, zoks.de released a preview titled: "GOTHIC - The Aesthetics of Evil" of which we want to quote some lines: 
+
+> What actually is and means "gothic"? In architecture it's those pointed arcs [...], but that hardly helps us to explain the game. Rather the (english) gothic novel of the 18th century: Mary Shellys "Frankenstein" is the most popular "gothic novel" - it develops further till Edgar Allen Poe, Howard Phillips Lovecraft, Dostojewski, as well as George Orwell.
+
+> Fragments of "Gothic" are night scenes, wild landscapes, dungeons, ruins, monasteries, castles, vaults. Unexplainable crimes, invocations or ritual sacrifices happen there, hidden powers, mad scientists and dark tyrants are at work, visions, dreams, fears and supernaturals play jokes on human sanity. Short: The irrational, supernatural and incomprehensible along with its emissaries line up to deride the enlightened mind, the rational intellect of man. If we want to grasp it very modern, Batmans Gotham along with its villains (Joker, Two-Face), who sit in the Arkham Asylum most of the time give an excellent picture of "Gothic".
+
+> It is also very likely that the Piranhas are Ex-Goths. And Goths are quasi the withdrawal of a romantic subculture that was weary of the political struggles of the punk/autonomous scenes.
+
+
+* Interview for gamespot.com 15.06.1998:
+**Delekhan:** "GOTHIC" is an interesting choice for the name of your game. Is it just a working-title or the actual title? 
+**Tom Putzki:** [...] GOTHIC is the actual title of our game. I like that kind of music and people, the black scene. It's dark, gloomy, mysterious, creepy and magic - that's GOTHIC.
+
+
 
 
 ## Gothic vs. Common Fantasy
@@ -30,7 +52,9 @@ Gothic is supposed to be "another kind of fantasy".
 
 Isn't what was critisized here as "common fantasy" usually refered to as "high fantasy" today? And if so, isn't the description of Gothic as another kind of fantasy fitting to what is now commonly refered to as "dark" and/or "low" fantasy?  
 
-Gothic *is* dark fantasy, which hints at its horror elements and its characteristics of being "dark", "gloomy" and "dangerous", but not every dark fantasy work is "gothic". Some authors may use the terms "dark fantasy" and "gothic fantasy" or "gothic fiction" interchangeably, but it being "dark" doesn't suffice to make it "gothic". Gothic fiction has some essential characteristics that are not to be found in most mere "dark fantasy" fiction. Gothic fiction is by definition romantic (in the traditional sense) and one of its core features is "the intrusion of the past upon the present", "the present being hunted by the past". Gothic is not gothic without this threatening past as a crucial element both for atmosphere (how the game world is presented where time has taken its toll on everything) as well as for the story (e.g. how the past of characters is hunting them, how the consequences of the war hunt the present kingdomn, how ancient rituals and prophecies play a role in the tragedy of today).    
+Gothic *is* dark fantasy, which hints at its horror elements and its characteristics of being "dark", "gloomy" and "dangerous", but not every dark fantasy work is "gothic". Some authors may use the terms "dark fantasy" and "gothic fantasy" or "gothic fiction" interchangeably, but it being "dark" doesn't suffice to make it "gothic". Gothic fiction has some essential characteristics that are not to be found in most mere "dark fantasy" fiction, as pointed out in the quotes above.
+
+Gothic fiction is by definition romantic (in the traditional sense). One of its core features is "the intrusion of the past upon the present", "the present being hunted by the past". Gothic is not gothic without this threatening past as a crucial element both for atmosphere (how the game world is presented where time has taken its toll on everything) as well as for the story (e.g. how the past of characters is hunting them, how the consequences of the war hunt the present kingdomn, how ancient rituals and prophecies play a role in the tragedy of today).    
 
 In the same way Gothic is also low fantasy, ....  
 
@@ -46,6 +70,11 @@ And as we're dealing with a CRPG we have to understand how the characteristics o
 
 
 ## Principles of Gothic-like Gamedesign
+
+<p class="suptext">
+    „Other games suck,<br> 
+    we make our own.“
+</p>
 
 In order to do that we have to consider what the four visionaries of GOTHIC (Mike Hoge, Alex Brüggemann, Stefan Nyul and Tom Putzki) themselves said about their game, especially during the concept phase and in early development. How did they promote it, how did they speak about it, what did they consider most important about GOTHIC? 
 
