@@ -448,7 +448,7 @@ and (max-width : 820px) {
     position: relative;
     border: none;
   }
-    .promo-graphics ul { flex-wrap: nowrap; gap: 2em; padding: 0 2em; }
+    .promo-graphics ul { flex-wrap: nowrap; gap: 2em; }
     .promo-graphics li { max-height: none; height: 400px; flex-shrink: 0; }
 
     .promo-graphics img {
@@ -457,22 +457,12 @@ and (max-width : 820px) {
       padding: 0;
       border: 7px solid var(--blood);
     }
- /*   .promo-graphics img:hover {
-      filter: grayscale(75%);
-      transition: all .4s linear;
-      border: 7px solid var(--ore);
-    }
-  */
 
+  
   #cover {
     padding: 3em 0 3em;
     background: none;
   }
-
-  #visual-news {
-    display: none;
-  }
-
 
   .gothic {
     margin-top: 80px;
