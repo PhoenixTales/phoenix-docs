@@ -11,9 +11,7 @@
     2. [Gothic (re)defined](/vision/gothic-defined.html)
 	3. [Clash of Dreams](/vision/)
 	4. [Phoenix Rising](/vision/projectgoal+designphilosophy.html)
-	5. Concept & Approach  
-		* Criteria of Modification
-		* Retro Graphics
+	5. [Reconstruction](/vision/reconstruction.md)
 2. Mechanics
 	1. Classes
 	2. [Attributes](/mechanics/attributes.html)
