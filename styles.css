@@ -189,6 +189,7 @@ pre {
 
 code {
   background: var(--dark);
+  border-radius: 3px;
   font-family: monospace; 
   display: inline-block;  
 }
@@ -498,6 +499,10 @@ and (max-width : 820px) {
     }
 
   
+  .article h1 {
+    margin-top: 5em;
+  }
+
   #cover {
     padding: 3em 0 3em;
     background: none;
