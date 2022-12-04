@@ -9,7 +9,7 @@ layout: gothic
 
 ```
 Author: Flosha   Written: 18.10.2022  
-                 Changed: 01.12.2022  
+                 Changed: 04.12.2022  
 ```
 
 In order to create a gothic drama we have to define what "Gothic" is. We would like to start with a claim: Contrary to popular belief Gothic is not a mere game and its underlying concept, it is (or to be more precise "it was once supposed to be" and is to us) an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs.
@@ -134,24 +134,25 @@ Based on these descriptions we can deduce several characteristics of GOTHIC as "
 
 GOTHIC is...
 
+<pre>
 [to be seen in opposition to common fantasy, as...]
-* **amoral**, it is beyond good & evil and without a clear good/evil dichotomy
-* **anarchic**, it is not neat, it is disordered and deals with chaos
-* **dreary**, *not* colourful, it uses desaturated, washed out, faded colours
-* **different**, it differs from what is commonly found in fantasy games
+* <strong>amoral</strong>, it is beyond good & evil and without a clear good/evil dichotomy
+* <strong>anarchic</strong>, it is not neat, it is disordered and deals with chaos
+* <strong>dreary</strong>, *not* colourful, it uses desaturated, washed out, faded colours
+* <strong>different</strong>, it differs from what is commonly found in fantasy games
 
 [dark and low fantasy combined, in that is is...]
-* **gloomy** with a melancholic, depressing mood
-* **dark** in its style, its setting, its story; aesthetically and thematically
-* **mystical**, with mystic/occult aspects in a world where magic is special, not common
-* **strange** in its setting, with unusual creatures and events to raise questions
-* **dangerous** in its atmosphere and its design with both being coherent
+* <strong>gloomy</strong> with a melancholic, depressing mood
+* <strong>dark</strong> in its style, its setting, its story; aesthetically and thematically
+* <strong>mystical</strong>, with mystic/occult aspects in a world where magic is special, not common
+* <strong>strange</strong> in its setting, with unusual creatures and events to raise questions
+* <strong>dangerous</strong> in its atmosphere and its design with both being coherent
 
 [applying to gothic fiction/horror, in that it is...]
-* **romantic** ...
-* **melancholic** ... past/present
-* **horrific** 
-
+* <strong>romantic</strong> ...
+* <strong>melancholic</strong> ... past/present
+* <strong>horrific</strong> 
+</pre>
 
 ... to be continued
 
@@ -186,4 +187,4 @@ TODO: Add sections from the essay or wherever.
 
 ## Read next
 
-* [Clash of Dreams](/vision/clash-of-dreams.html)
+* [A Clash of Dreams](/vision/clash-of-dreams.html)

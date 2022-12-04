@@ -5,8 +5,10 @@
 ![Attributes](/_img/headings/attributes.png)
 
 ```
-Author: Flosha   Created: 03.11.22
-                 Changed: 02.12.22
+Author: Flosha   
+
+Written:    30.12.18 - 27.12.20
+Rewritten:  03.11.22 - 04.12.22
 ```
 
 At first we analyse the attributes as imagined in the concept phase by analysing all the available design documents. Then we look at the attributes as they were implemented in the actual builds of the game and how they changed in course of development. In the end, building on this research, we present our own solution for **Phoenix**. 

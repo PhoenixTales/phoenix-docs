@@ -173,6 +173,9 @@ pre {
     border: none;
     padding: 0;
   }
+  pre>strong {
+    color: var(--demonic);
+  }
 
 code {
   background: var(--ore);
