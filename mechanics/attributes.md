@@ -249,20 +249,20 @@ When we blend out these attributes that were only handled as such for technical 
 ```
 +----+-------------------+--------------------+--------------------+
 |    | 0.56c/0.64b       | 0.94k              | 1.00b - 1.12f      |
-| -  | ----------------- | ------------------ | ------------------ |
-|  0 | ATR_HITPOINTS	 | ATR_HITPOINTS	  | ATR_HITPOINTS      |   
+|  - | ----------------- | ------------------ | ------------------ |
+|  0 | ATR_HITPOINTS	 | ATR_HITPOINTS      | ATR_HITPOINTS      |   
 |  1 | ATR_HITPOINTS_MAX | ATR_HITPOINTS_MAX  | ATR_HITPOINTS_MAX  |
-|  2 | ATR_MANA		     | ATR_MANA			  | ATR_MANA		   |
-|  3 | ATR_MANA_MAX		 | ATR_MANA_MAX	      | ATR_MANA_MAX	   |
-|  4 | ATR_MADNESS		 | ATR_WILL           | ATR_STRENGTH       |
+|  2 | ATR_MANA          | ATR_MANA           | ATR_MANA           |
+|  3 | ATR_MANA_MAX      | ATR_MANA_MAX       | ATR_MANA_MAX       |
+|  4 | ATR_MADNESS       | ATR_WILL           | ATR_STRENGTH       |
 |  5 | ATR_MADNESS_MAX	 | ATR_WILL_MAX       | ATR_DEXTERITY      |
-|  6 | ATR_STRENGTH		 | ATR_STRENGTH       |--------------------+
-|  7 | ATR_CONSTITUTION	 | ATR_DEXTERITY	  |
+|  6 | ATR_STRENGTH      | ATR_STRENGTH       |--------------------+
+|  7 | ATR_CONSTITUTION	 | ATR_DEXTERITY      |
 |  7 | ATR_DEXTERITY	 |--------------------+
-|  8 | ATR_THIEVERY		 |
-|  9 | ATR_SWORDSMANSHIP |                 
-| 10 | ATR_ARCANE		 |
-| 11 | ATR_WILL			 |
+|  8 | ATR_THIEVERY      |
+|  9 | ATR_SWORDSMANSHIP |
+| 10 | ATR_ARCANE        |
+| 11 | ATR_WILL          |
 +----+-------------------+
 ```
 
@@ -556,16 +556,16 @@ Based on the incomplete and work in progress texts from v0.56c, we have to come 
 <pre>
 |    | Kraft          | Konstitution     | Wille          | Waffenkunst   | Diebeskunst    | Arkane Gabe | <span class="added">Psionik</span>      |
 |----|----------------|------------------|----------------|---------------|----------------|-------------|--------------|
-|  1 | gelähmt        | <span class="changed">halbtot</span>"          | <span class="changed">besessen</span>       | keine         | keine          | <span class="added">keine</span>       | narkotisch   |
+|  1 | gelähmt        | <span class="changed">halbtot</span>          | <span class="changed">besessen</span>       | keine         | keine          | <span class="added">keine</span>       | narkotisch   |
 |  2 | schwindsüchtig | komatisch        | willenlos      | wehrlos       | unbeholfen     | <span class="added">Kreis 1</span>     | schlafend    |
 |  3 | schwächlich    | kränklich        | willensschwach | unsicher      | tollpatschig   | <span class="added">Kreis 2</span>     | träumend     |
 |  4 | schwach        | <span class="changed">anfällig</span>         | unsicher       | wehrhaft      | ungeschickt    | <span class="added">Kreis 3</span>     | fantasierend |
 |  5 | kräftig        | robust           | <span class="added">zaghaft</span>        | treffsicher   | geschickt      | <span class="added">Kreis 4</span>     | eingekehrt   |
 |  6 | stark          | widerstandsfähig | <span class="added">gefestigt</span>      | <span class="changed">sehr behände</span>  | fingerfertig   | <span class="added">Kreis 5</span>     | durchbrochen |
 |  7 | bärenstark     | athletisch       | entschlossen   | Meister       | meisterhaft    | <span class="added">Kreis 6</span>     | geblendet    |
-|  8 | unbezwingbar   | zäh wie Leder    | unbeugsam      | ...           | Fingerkünstler | <span class="added">Secret</span>         | versunken    |
-|  9 | <span class="added">Secret</span>         | <span class="added">Secret</span>           | <span class="added">eisern</span>         | ...           | ...            | <span class="added">Secret</span>         | erleuchtet   |
-| 10 | <span class="added">Secret</span>         | <span class="added">Secret</span>           | <span class="added">frei</span>           | <span class="added">Schwertsänger</span> | ...            | <span class="added">Secret</span>         | erwacht      |
+|  8 | unbezwingbar   | zäh wie Leder    | unbeugsam      | ...           | Fingerkünstler | <span class="added">Secret</span>      | versunken    |
+|  9 | <span class="added">Secret</span>         | <span class="added">Secret</span>           | <span class="added">eisern</span>         | ...           | ...            | <span class="added">Secret</span>      | erleuchtet   |
+| 10 | <span class="added">Secret</span>         | <span class="added">Secret</span>           | <span class="added">frei</span>           | <span class="added">Schwertsänger</span> | ...            | <span class="added">Secret</span>      | erwacht      |
 </pre>
 
 
