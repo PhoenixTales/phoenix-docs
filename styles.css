@@ -259,7 +259,7 @@ blockquote {
     padding: 1em; 
     display: flex; 
     list-style: none; 
-    max-width: 100%; 
+    width: 100%; 
     gap: 1em;
   }
   .promo-graphics li { 
@@ -269,7 +269,6 @@ blockquote {
   }
   
   .promo-graphics img {
-    height: 100%;
     object-fit: contain;
     /**/    
     padding: 0;
