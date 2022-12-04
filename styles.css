@@ -190,6 +190,7 @@ pre {
 code {
   background: var(--dark);
   border-radius: 3px;
+  padding: auto 0.5em;
   font-family: monospace; 
   display: inline-block;  
 }
