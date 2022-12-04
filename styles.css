@@ -259,12 +259,12 @@ blockquote {
     padding: 1em; 
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 1, 5vw;
     list-style: none; 
     max-width: 100%; 
   }
   .promo-graphics li { 
     padding: 0.5em; 
+    height: 3vh;
   }
   
   .promo-graphics img {
