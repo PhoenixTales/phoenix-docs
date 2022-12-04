@@ -225,8 +225,7 @@ blockquote {
   font-style: italic;
   border-left: 5px solid var(--ore);
   padding-left: 1em;
-  margin-left: 0;
-  margin-bottom: 3em;
+  margin: 2em 0 3em;
 }
 
 
