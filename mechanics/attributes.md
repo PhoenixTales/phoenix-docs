@@ -334,38 +334,35 @@ While the visualisation of attributes such as strength and dexterity is explaine
 In 1997, when they began to work on the interface, including the HUD, the minimalism they strived for was radical for an rpg; back then just a few shooters and adventures came with a similarly minimal interface. And while they could not go without a HUD completely and had to represent specific stats, they at least tried to keep it simple.  
 
 ![First Version of the Symbol HUD](/_img/mechanics/HUD/symbolHUDv1.jpg)
-This is the first version of the symbol HUD. Please note that Mana and Psi points are displayed here for testing purposes; they were not supposed to be displayed simultaneously in the game.
+
+<p class="subtext">Above is the first version of the symbol HUD. Please note that Mana and Psi points are displayed here for testing purposes; they were not supposed to be displayed simultaneously in the game.</p>
 
 At first the six attributes (later five) were represented as symbols (hearts, stars, fists etc.). At some stage experience points were included; where a specific number of Exps would be represented by little Exp coin symbols, that were to be invested to learn from teachers. Here this was made clear by Alex, translated by us:  
 
 > Attributes are controlled by integers between 1 and 20. The attribute values are displayed via an equivalent number of symbols. This has the purpose, that all processes in the entire game can be summed up with simple symbol quantities. This does not only apply to attributes, but also for weapon damage, armor protection, spell costs, spell damage, experience and so on. (`Phoenix_B1_AttributesTalentsActions.doc`)
 
-![Alpha Version of the Bar HUD](/_img/mechanics/HUD/bar-hud.png)
-
 Later (in ~v0.8) a brutalist bar design was implemented to represent the attributes instead. The red health bar for instance could now be seen as representing the amount of (healthy) blood in the player character that he looses in battle when bleeding. Strength and Dexterity were no longer represented; the psionic system and the Will(power) attribute was no longer in use (we don't know if deliberately discarded or cut due to time restrictions).  
 
-But this first bar design should not be confused with the one used in the release version of the game. The difference was that it followed the same idea as the initial symbol design, just as NPCs with less HP/MP/WP would have less corresponding symbols, here they would have a smaller bar.  
-In the release version the bar would be stretched to cover the background texture.  
+![Alpha Version of the Bar HUD](/_img/mechanics/HUD/bar-hud.png)
 
-This way the bars - potentially - could have been providing more information, because the player could recognise how much HP an enemy had. We say "potentially" because actually both in the symbol hud as in the bar hud the HP of NPCs in focus was displayed differently than the stats of the player himself. By a narrow, stretched out bar with no such information provided.  
+<p class="subtext">Note that this first bar design should not be confused with the one used in the release version. It followed the same idea as the initial symbol design, where NPCs with less HP/MP/WP would have less corresponding symbols. Here they would have a smaller bar. The darker, inside part in the Mana bar is the actual maximum degree of Mana this specific character can recharge; the outside bar represents the maximum degree to which the character could level his Mana in course of the game. In the release version the bar would be stretched to always cover the background texture.
+
+This way the bars - potentially - could have been providing more information, because the player could recognise how much HP an enemy had. We say "potentially" because actually both in the symbol hud as in the bar hud the HP of NPCs in focus was displayed differently than the stats of the player himself. By a narrow, stretched out bar with no such information provided. They used a smaller version of the HP bar above with the Bar-HUD, while they used the one below to display enemy health with the Symbol-HUD:
 
 ![HP of NPCs in Focus](/_img/mechanics/HUD/hp-of-npc-in-focus.jpg)
+</p>
 
 The HUD was additionally simplified by hiding all the bars that were not currently in use; in the symbol HUD, strength and dexterity would only appear when in the melee or ranged fighting mode. Mana and Psi Power would only appear when in the respective magic casting mode. 
 Just the Health was decided to be displayed at all times for reasons unknown. Thus, other than the Health Symbols/Bar, the HUD was hidden completely and only shown when needed.  
 
 The inventory was also hidden by default and could be toggled on or off; which, while being a standard today, was not the default in classical rpgs. By displaying items in the inventory as 3D models just as they are actually found in the game - instead of using abstract pictograms as most games do - another step was done to reduce unnecessary abstractions.  
 
-While both HUD designs did a great job *representing* those stats of the player and to simplify this representation to the bare minimum, they remained abstract and reveal a lack of visualisation.  
+While both HUD designs managed to *represent* those stats of the player and to simplify this representation to the bare minimum, they remained abstract and reveal a lack of visualisation.  
 
 
 ##### Overcoming the HUD
 
-Allow me the pathetic metaphor: Just as "that government is best which governs the least" (Thoreau), because it creates conditions of self-regulating autonomy under which its intervention isn't needed anymore as the people are able to govern themselves; that HUD (heads-up display) is best which has to be displayed the least, because the developers created conditions of self-explanatory gameplay mechanics by which its representation isn't needed anymore as the players are able to play it themselves. A metaphor for Gothics minimalist interface design.  
-
-And just as we aren't demanding for the government to just be taken down, but for it to remain fully functional if necessary while realising it as its primary function to make itself unnecessary (at which all governments fail, thereby undermining their own legitimacy); and to the same degree as the government is needed, to this very degree it exposes the lack of autonomy established in society which it needs to govern less (and for us to be more free) - In the same way we aren't demanding to eliminate the HUD, but we want that it is not *needed*, because to the same degree as the HUD is needed, to this very degree it exposes a lack of visualisation established in the gameplay which we need for less abstraction (and for us to play more directly).  
-
-This said, we do not strive to get rid of the HUD altogether, but we want it to be optional and for the game to be fully functional (= playeable) without it. And as said before, the need for the HUD arises primarily in order to display and inform about the changes of Attributes, primarily Life (HP), Mana (MP) and Willpower (WP). In order to overcome this need we have to find ways to visualise these changes. And at least the seeds of this idea were already present in the Alpha.  
+As said before, the need for the HUD arises primarily in order to display and inform about the changes of Attributes, primarily Life (HP), Mana (MP) and Willpower (WP). In order to overcome this need one would have to find ways to visualise these changes. And at least the seeds of this idea were already present in the Alpha.  
 
 ![Wounded Overlay in v0.64b](/_img/mechanics/visualisation/overlay_wounded.gif)
 
@@ -706,6 +703,12 @@ Just as the Symbol HUD the bars will be smaller for characters with smaller valu
 
 
 ### Attribute Visualisation or Beyond the HUD
+
+Allow me the pathetic metaphor: Just as "that government is best which governs the least" (Thoreau), because it creates conditions of self-regulating autonomy under which its intervention isn't needed anymore as the people are able to govern themselves; that HUD (heads-up display) is best which has to be displayed the least, because the developers created conditions of self-explanatory gameplay mechanics by which its representation isn't needed anymore as the players are able to play it themselves. A metaphor for Gothics minimalist interface design.  
+
+And just as we aren't demanding for the government to just be taken down, but for it to remain fully functional if necessary while realising it as its primary function to make itself unnecessary (at which all governments fail, thereby undermining their own legitimacy); and to the same degree as the government is needed, to this very degree it exposes the lack of autonomy established in society which it needs to govern less (and for us to be more free) - In the same way we aren't demanding to eliminate the HUD, but we want that it is not *needed*, because to the same degree as the HUD is needed, to this very degree it exposes a lack of visualisation established in the gameplay which we need for less abstraction (and for us to play more directly).  
+
+This said, we do not strive to get rid of the HUD altogether, but we want it to be optional and for the game to be fully functional (= playeable) without it. 
 
 The HP reduction will be visualised by enhancing the idea experimented with in v0.64b as described in [[#Overcoming the HUD]]. Before seeking refuge in pfx effects we have to consider equivalent solutions of animations for the discharge and exhaustion of Mana and Psi. Their visualisation has to be strongly correlated with how these attributes function.  
 
