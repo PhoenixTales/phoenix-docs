@@ -264,11 +264,10 @@ blockquote {
   }
   .promo-graphics li { 
     padding: 0.5em; 
-    height: 3vh;
+    max-height: 350px;
   }
   
   .promo-graphics img {
-    
     height: 100%;  
     padding: 0;
     border: 5px solid var(--blood);
