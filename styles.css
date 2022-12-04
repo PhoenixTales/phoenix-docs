@@ -252,18 +252,19 @@ blockquote {
 
 .promo-graphics {
   background: var(--dark);
+  max-width: 100%; 
+  box-sizing: border-box;
   display: flex;
   margin: 0;
   padding: 15px 10px 20px;
   /*position: static;*/
   border: none;
-  gap: 10px;
 }
   .promo-graphics img {
     max-width: 100%;
     height: auto;
     border: 7px solid var(--blood);
-    padding: 0;
+    padding: 10px;
   }
     .promo-graphics img:hover {
       filter: grayscale(75%);
@@ -472,6 +473,7 @@ and (max-width : 820px) {
   }
     .promo-graphics img {
       height: 400px;  
+      max-width: none;
       padding: 0;
       border: 5px solid var(--blood);
     }
