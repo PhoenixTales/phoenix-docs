@@ -257,26 +257,26 @@ blockquote {
 }
   .promo-graphics ul { 
     padding: 1em; 
-    display: flex; 
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     list-style: none; 
     width: 100%; 
-    gap: 1em;
   }
   .promo-graphics li { 
-    flex-shrink: 1;
     padding: 0.5em; 
+    height: 380px;
   }
   
   .promo-graphics img {
     object-fit: contain;
-    max-width: 100%;  
+    height: 100%;  
     padding: 0;
     border: 5px solid var(--blood);
-    }
-  .promo-graphics img:hover {
-    filter: grayscale(75%);
-    transition: all .4s linear;
   }
+    .promo-graphics img:hover {
+      filter: grayscale(75%);
+      transition: all .4s linear;
+    }
 
 #intro {
   width: 100%;
