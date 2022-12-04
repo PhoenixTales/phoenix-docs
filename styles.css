@@ -138,11 +138,12 @@ ol>li::before {
 }
 
 .gianttext { 
-  padding: 1em 0 0.5em;
+  padding: 2em 0 1em;
   font-size: 62px; 
+  text-transform: uppercase;
   font-weight: bold;
   font-family: arial;
-  line-height: 1em;
+  line-height: 1.5em;
 }
 
 
