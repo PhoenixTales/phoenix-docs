@@ -16,7 +16,7 @@
   --copper: #9e6f4b;
   --demonic: #855f67;
   --gold: #976b42;
-  --ore: #649e8a;
+  --ore: #517271;
   --silver: #aaa;
   --stone: #5b5b5b;
   --link: #96574f;
@@ -481,7 +481,7 @@ and (max-width : 820px) {
   .promo-graphics {
     max-width: 100%;
     margin: 0.5em 0 1em;
-    overflow: auto;
+    overflow-x: auto;
     /* position: static; */
   }
     .promo-graphics img {
