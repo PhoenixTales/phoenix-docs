@@ -265,7 +265,7 @@ blockquote {
   .promo-graphics li { 
     height: auto;
     width: calc(95% / 3);
-    /*flex-shrink: 1;*/
+    flex-shrink: 1;
     padding: 0.5em; 
   }
   
