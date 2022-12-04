@@ -1,5 +1,10 @@
 /* by flosha */
 
+* {
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
 :root {
   color-scheme: dark;
 
@@ -18,7 +23,6 @@
 }
 
 body {
-  box-sizing: border-box;
   background: var(--black);
   color: var(--silver);
   font-family: Helvetica, Arial, sans-serif;
@@ -203,7 +207,6 @@ table {
   max-width: 100%;
   font-size: 12px;
   margin: 2em 0;
-  word-break: break-word;
   overflow: auto;
 }
 
@@ -253,7 +256,6 @@ blockquote {
 .promo-graphics {
   background: var(--dark);
   width: 100%; 
-  box-sizing: border-box;
   display: flex;
   margin: 0;
   padding: 15px 10px 20px;
