@@ -451,7 +451,7 @@ and (max-width : 820px) {
     margin: 0 auto;
   }
 
-  code {
+  pre, code {
     font-size: 14px;
   }
 
