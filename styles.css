@@ -259,20 +259,18 @@ blockquote {
     padding: 1em; 
     display: flex; 
     list-style: none; 
-    justify-content: flex-start;
-    width: 100%; 
+    max-width: 100%; 
+    gap: 1em;
   }
   .promo-graphics li { 
     max-height: 400px;
-    width: calc(100% / 3);
     /*flex-shrink: 1;*/
     padding: 0.5em; 
   }
   
   .promo-graphics img {
     height: 100%;
-    max-width: 100%;
-    
+    width: calc(95% / 3);    
     padding: 0;
       /* border: 5px solid var(--blood); */
     }
