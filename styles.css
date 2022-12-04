@@ -29,11 +29,10 @@ body {
   font-size: 16px;
   line-height: 1.6; 
   margin: 0;
-
   display: flex;
   flex-wrap: wrap;
-  flex: 1;
   flex-direction: row;
+  flex: 1;
 }
 
 nav {
@@ -44,11 +43,6 @@ nav {
   overflow: hidden;
   z-index: 2;
 }
-
-  nav h2 { 
-    margin-top: 1.5em; 
-  }
-
   nav img {
     display: block;
     width: 290px;
@@ -83,21 +77,17 @@ footer {
   justify-content: space-between;
 }
   footer ul {
-  list-style: none;
-  display: flex;
-  gap: 1em;
+    list-style: none;
+    display: flex;
+    gap: 1em;
   }
  
 
 /* HEADINGS */
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: inherit;
-}
-
-h2, h3, h4, h5, h6 {
-  margin-top: 4em;
-}
+h1, h2, h3, h4, h5, h6 { font-size: inherit; }
+h2, h3, h4, h5, h6 { margin-top: 4em; }
+nav h2 { margin-top: 1.5em; }
 
 h1::before { content: "#"; }
 h2::before { content: "##"; }
@@ -110,6 +100,7 @@ h1::before, h2::before, h2::before, h3::before, h4::before, h5::before, h6::befo
   color: var(--blood);
   padding-right: 0.5em;
 }
+
 
 
 /* LINKS */
@@ -169,7 +160,7 @@ ol>li::before {
 /* CODE */
 
 pre {
-  /*border: 1px solid #4a4843;*/
+  border: 1px solid var(--stone);
   padding: 1em;
   background: var(--dark);
   margin: 1.5em 0 2em;
