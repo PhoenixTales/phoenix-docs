@@ -368,6 +368,7 @@ label[for="menu-toggle"]  {
 and (max-width : 820px) {
 
   nav {
+    border-sizing: content-box;
     font-size: 15px;
     margin: 0;
     padding: 0 1.5em;
