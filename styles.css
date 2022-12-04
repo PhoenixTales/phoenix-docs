@@ -137,7 +137,10 @@ ol>li::before {
   padding-left: 1.5em;
 }
 
-.gianttext { font-size: 60px; }
+.gianttext { 
+  font-size: 60px; 
+  line-height: 0.5em;
+}
 
 
 /* FOOTER */

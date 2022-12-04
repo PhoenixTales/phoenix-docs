@@ -4,9 +4,9 @@
 <p>
     <span class="gianttext">
         The Vision<br> 
-        of Gothic
+        of Gothic<br>
     </span>
-    ... in the words of the Developers (in 1998).
+    in the words of the Developers (1998)
 </p>
 
 <span class="changed">[WORK IN PROGRESS!]</span>
@@ -14,9 +14,10 @@
 
 <p class="suptext">Other games suck, we do our own.</p>
 
-> Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. 
-> The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine. And the game is already being touted by insiders for its breakthrough concepts.
-(MCV USA 01/1998)
+> Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. (MCV USA 01/1998)
+
+> The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine. And the game is already being touted by insiders for its breakthrough concepts. (MCV USA 01/1998)
+
 
 **Mike:** It's true the games are getting better - in ways of graphical presentation but NOT, in my humble opinion, in ways of gameplay or a good story. Almost every fantasy game released recently is merely hack and slay but has practically no story. It's like the heart of the game has been ripped out! We will combine both a (hopefully) genuine story and an easy-to-use gameplay with an engine which is at a clearly higher technical level than RPGs normally used to have.
 
