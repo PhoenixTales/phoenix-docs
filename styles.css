@@ -489,7 +489,9 @@ and (max-width : 820px) {
   .promo-graphics {
     max-width: none;
     margin: 0.5em 0 1em;
+    padding: 30px;
     overflow: auto;
+    gap: 30px;
     /* position: static; */
   }
     .promo-graphics img {
