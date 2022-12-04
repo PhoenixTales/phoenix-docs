@@ -266,7 +266,7 @@ blockquote {
 }
   .promo-graphics img {
     object-fit: cover;
-    object-position: left top;
+    object-position: 10% top;
     max-width: 100%;
     min-height: 350px;
     border: 5px solid var(--blood);
