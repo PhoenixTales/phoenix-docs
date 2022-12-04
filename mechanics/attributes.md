@@ -716,7 +716,7 @@ The HP reduction will be visualised by enhancing the idea experimented with in v
 Just as there is an overlay when the character is injured - has less than X HP -, there will be an overlay when the character has less than X Psi- or Mana points. When the psionic reaches the end of his Psi treshold, the demonic force begins to pressure him and he gets headaches; at this point he will walk around with his hand on his head, turning and shaking his head while standing, not being able to run, signifying to the player that his character is on the edge and madness is nigh.  
 This will be accompanied by a droning sound effect and a mild visual effect.  
 
-<p class="subtext">Related fun fact: Mike described in his documents that psionics would only be able to cast psi spells as long as they didn't wear a helmet.</p>
+<p class="subtext">Related fun fact: Mike wrote in his notes that psionics should only be able to cast psi spells as long as they don't wear a helmet.</p>
 
 While the animation overlay of the psionic visualises how his magic is mainly associated with his mental power by laying the focus on his head, the magic of the Arcane Mages is different, alchemical and through the Mana associated with his blood (more on that in [[#Alchemical Magic]]). Hence when he is close to the edge of Madness, his overlay has to show how the lack of Mana (that serves as a physical protection from the demonic forces just as the Psi serves as a psychical protection) is affecting his whole body similar to an addict on withdrawal. 
 
