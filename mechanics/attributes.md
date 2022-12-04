@@ -61,16 +61,15 @@ What this initial structure suggests is a correlation of the attributes as they 
 
 The first table points at a correlation between Strength (`STR`) and Constitution (`CON`), the second at a correlation between Strength and Hitpoints (`TP`, *Trefferpunkte*, which in this context should be the damage points you deal), while Constitution is here related to Healthpoints (`LP`, *Lebenspunkte*, refering to the hitpoints of your character; the damage you can endure).  
 
-Arcane Gift ( `AGa`, *Arkane Gabe*) is correlated to Mana. Will (`WIL`, *Wille*, the psi-energy) is at first correlated to an identical attribute name, then to "WS" (which may either stand for *Willensstärke* (Willpower) or *Wahnsinn* (Madness); both terms were used inside the game at different points.  
+Arcane Gift (`AGa`, *Arkane Gabe*) is correlated to Mana. Will (`WIL`, *Wille*, the psi-energy) is at first correlated to an identical attribute name, then to "WS" (which may either stand for *Willensstärke* (Willpower) or *Wahnsinn* (Madness); both terms were used inside the game at different points.  
 This search for a name and differentiation between Psi/Will, Willpower, Madness and Sanity continues during development and will also be seen inside the builds we will analyse further below.  
 
 The abbreviations `KaGe` and `DiGe` have to stand for *Kampfgeschick* ("combat skill") and *Diebesgeschick* ("thief skill") respectively. Otherwise they were named `WK` (*Waffenkunst* = Weaponry, which in the builds was called `Swordsmanship`) and `DK` (*Diebeskunst* = Thievery). While on the second table they were not put into correlation with another attribute, in the first one they were. Thievery was most likely associated with Dexterity (`GE` = *Geschicklichkeit*) and Weaponry with `AT`, which, as far as we know, simply stands for Attack.  
 
-<p class="subtext">Mike also considered endurance/stamina (German: Ausdauer) as a potential factor on the same page, but discarded it immediately:
+Mike also considered endurance/stamina (German: Ausdauer) as a potential factor on the same page, but discarded it immediately:
 
 > ~~AUSDAUER?~~
 > NO
-</p>
 
 From the first list that we think of as the original pool of attribute ideas a few were already discarded, such as We (that we assume to be Wisdom), SK (assumed to be Marksmanship) and CH (assumed to be Charisma), while Wa (assumed to be Madness) was put into "second order". The rest remained.  
 
