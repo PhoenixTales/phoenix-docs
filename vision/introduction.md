@@ -1,4 +1,4 @@
-# A Phoenix rising
+# Introduction
 
 ![Phoenix is... ](/_img/headings/phoenix-is.png)
 

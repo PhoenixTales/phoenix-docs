@@ -5,7 +5,7 @@
 ## Index
 
 1. Vision
-	1. [Introduction](/)
+	1. [Introduction](/vision/introduction.html)
 	2. [Vision of Gothic](/vision/vision-of-gothic.html)
     2. [Gothic (re)defined](/vision/gothic-defined.html)
 	3. [Clash of Dreams](/vision/clash-of-dreams.html)
