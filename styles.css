@@ -189,8 +189,8 @@ pre {
 
 code {
   background: var(--dark);
-  border-radius: 3px;
-  padding: 0 0.8em;
+  border-radius: 5px;
+  padding: 0 0.3em;
   font-family: monospace; 
   display: inline-block;  
 }
