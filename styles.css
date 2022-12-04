@@ -259,15 +259,16 @@ blockquote {
     padding: 1em; 
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1, 5vw;
     list-style: none; 
-    width: 100%; 
+    max-width: 100%; 
   }
   .promo-graphics li { 
     padding: 0.5em; 
   }
   
   .promo-graphics img {
-    object-fit: contain;
+    
     height: 100%;  
     padding: 0;
     border: 5px solid var(--blood);
