@@ -252,33 +252,25 @@ blockquote {
 
 .promo-graphics {
   background: var(--dark);
-  /*border-top: 5px solid var(--dark);
-  border-bottom: 5px solid var(--dark);*/
   max-width: 100%;
-  margin: 0.5em 0 1em;
-  position: relative;
+  display: flex;
+  margin: 0;
+  padding: 15px 10px 20px;
+  /*position: static;*/
+  border: none;
+  gap: 10px;
 }
-  .promo-graphics ul { 
-    padding: 1em; 
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    list-style: none; 
-    max-width: 100%; 
-  }
-  .promo-graphics li { 
-    padding: 0.5em; 
-    max-height: 350px;
-  }
-  
   .promo-graphics img {
-    height: 100%;  
+    max-height: 400px;
+    border: 7px solid var(--blood);
     padding: 0;
-    border: 5px solid var(--blood);
   }
     .promo-graphics img:hover {
       filter: grayscale(75%);
       transition: all .4s linear;
     }
+
+
 
 #intro {
   width: 100%;
@@ -474,20 +466,15 @@ and (max-width : 820px) {
 
   .promo-graphics {
     max-width: 100%;
-    display: flex;
-    margin: 0;
-    padding: 15px 10px 20px;
+    margin: 0.5em 0 1em;
     overflow: auto;
-    position: static;
-    border: none;
-    gap: 10px;
+    /* position: static; */
   }
     .promo-graphics img {
-      max-height: 400px;
-      border: 7px solid var(--blood);
+      height: 400px;  
       padding: 0;
+      border: 5px solid var(--blood);
     }
-
   
   .article h1 {
     margin-top: 5em;
