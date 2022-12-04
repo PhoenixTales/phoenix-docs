@@ -267,7 +267,7 @@ blockquote {
     object-fit: cover;
     object-position: 10% top;
     max-width: 100%;
-    height: 400px;
+    height: 380px;
     border: 5px solid var(--blood);
     padding: 0;
     transition: all 0.3s ease-out;
