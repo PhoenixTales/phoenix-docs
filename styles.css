@@ -424,7 +424,7 @@ and (max-width : 820px) {
   }
 
   body {
-    border-sizing: content-box;
+    box-sizing: content-box;
     flex-wrap: wrap;
     max-width: 100%;
   }
