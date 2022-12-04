@@ -108,7 +108,7 @@ Somewhere between v0.64b (07.1999) and v0.94k (10.2000), the `constants.d` was a
 
 Gladly in the before-mentioned doc (`Phoenix_B4_Learning.doc`, p. 5) by Mike there is a little note with an explanation that is able to dissolve the confusion:  
 
-> **Progression of maximal status attributes**
+> **Progression of maximal status attributes**  
 > When the player increases Constitution, his LP<sub>max</sub> are increased too, the same with Arcane Gift -> MP<sub>max</sub> and Will -> WP<sub>max</sub>. When this occurs, a slow increase in length of the bar maximum can be seen inside the status screen, which displays the increasing status attribute as a (more or less filled) bar.  
 
 Based on these findings we can conclude that the original idea by Mike - persisting for at least two years in development - was to have the six primary attributes listed above which names were supposed to be refered to inside of the game and that were responsible to scale the secondary "status attributes", which most likely were not supposed to be refered to inside of the game and instead should have appeared *only* in form of symbols or bars in the user interface.  
@@ -550,105 +550,23 @@ The Arcane Art does not really matter to anyone but the mages, but one may still
 
 ### Completing the clear texts
 
-Based on the incomplete and work in progress texts from v0.56c, we come up with the following complete structure for the ten levels of the primary attributes:  
+Based on the incomplete and work in progress texts from v0.56c, we have to come up with a complete structure for the ten levels of attributes analysed before (and those added by us). The list is <span class="added">work in progress</span>.  
 
 
-// Kraft
-
-1.  "gelähmt",
-2.  "schwindsüchtig",
-3.  "schwächlich",
-4.  "schwach",
-5.  "kräftig",
-6.  "stark",
-7.  "bärenstark",
-8.  "unbezwingbar",
-9.  "<span class="added">Secret</span>",
-10. "<span class="added">Secret</span>" 
-
-
-// Konstitution
-
- 1. "<span class="changed">halbtot</span>",
- 2. "komatisch",
- 3. "kränklich",
- 4. "<span class="changed">anfällig</span>",
- 5. "robust",
- 6. "widerstandsfähig",
- 7. "athletisch",
- 8. "zäh wie Leder",
- 9. "<span class="added">Secret</span>",
-10. "<span class="added">Secret</span>"
-
-
-// Wille
-
- 1. "<span class="changed">besessen</span>",
- 2. "willenlos",
- 3. "willensschwach",
- 4. "unsicher",
- 5. "<span class="added">zaghaft</span>",
- 6. "<span class="added">gefestigt</span>",
- 7. "entschlossen",
- 8. "unbeugsam",
- 9. "<span class="added">eisern</span>",
-10. "<span class="added">frei</span>"
-
-
-// Waffenkunst
-
- 1. "keine",
- 2. "wehrlos",
- 3. "unsicher",
- 4. "wehrhaft",
- 5. "treffsicher",
- 6. "<span class="changed">sehr behände</span>",
- 7. "Meister",
- 8. "<span class="added"></span>",
- 9. "<span class="added"></span>",
-10. "<span class="added">Schwertsänger</span>"
-
-
-// Diebeskunst
-
- 1. "keine",
- 2. "fingeramputiert",
- 3. "tollpatschig",
- 4. "ungeschickt",
- 5. "geschickt",
- 6. "fingerfertig",
- 7. "meisterhaft",
- 8. "Fingerkünstler",
- 9. "Finger wie der Wind",
-10. "<span class="added"></span>"
-
-
-// Arkanei
-
- 1. "<span class="added">keine</span>",
- 2. "<span class="added">Kreis 1</span>",
- 3. "<span class="added">Kreis 2</span>",
- 4. "<span class="added">Kreis 3</span>",
- 5. "<span class="added">Kreis 4</span>",
- 6. "<span class="added">Kreis 5</span>",
- 7. "<span class="added">Kreis 6</span>",
- 8. "<span class="added">Secret</span>",
- 9. "<span class="added">Secret</span>",
-10. "<span class="added">Secret</span>"
-
-
-// <span class="added">Psionik</span>
-
- 1. "narkotisch",
- 2. "schlafend",
- 3. "träumend",
- 4. "fantasierend",
- 5. "eingekehrt",
- 6. "geblendet",
- 7. "durchbrochen",
- 8. "versunken",
- 9. "erleuchtet",
-10. "erwacht"
+<pre>
+|    | Kraft          | Konstitution     | Wille          | Waffenkunst   | Diebeskunst    | Arkane Gabe | <span class="added">Psionik</span>      |
+|----|----------------|------------------|----------------|---------------|----------------|-------------|--------------|
+|  1 | gelähmt        | <span class="changed">halbtot</span>"          | <span class="changed">besessen</span>       | keine         | keine          | <span class="added">keine</span>       | narkotisch   |
+|  2 | schwindsüchtig | komatisch        | willenlos      | wehrlos       | unbeholfen     | <span class="added">Kreis 1</span>     | schlafend    |
+|  3 | schwächlich    | kränklich        | willensschwach | unsicher      | tollpatschig   | <span class="added">Kreis 2</span>     | träumend     |
+|  4 | schwach        | <span class="changed">anfällig</span>         | unsicher       | wehrhaft      | ungeschickt    | <span class="added">Kreis 3</span>     | fantasierend |
+|  5 | kräftig        | robust           | <span class="added">zaghaft</span>        | treffsicher   | geschickt      | <span class="added">Kreis 4</span>     | eingekehrt   |
+|  6 | stark          | widerstandsfähig | <span class="added">gefestigt</span>      | <span class="changed">sehr behände</span>  | fingerfertig   | <span class="added">Kreis 5</span>     | durchbrochen |
+|  7 | bärenstark     | athletisch       | entschlossen   | Meister       | meisterhaft    | <span class="added">Kreis 6</span>     | geblendet    |
+|  8 | unbezwingbar   | zäh wie Leder    | unbeugsam      | ...           | Fingerkünstler | <span class="added">Secret</span>         | versunken    |
+|  9 | <span class="added">Secret</span>         | <span class="added">Secret</span>           | <span class="added">eisern</span>         | ...           | ...            | <span class="added">Secret</span>         | erleuchtet   |
+| 10 | <span class="added">Secret</span>         | <span class="added">Secret</span>           | <span class="added">frei</span>           | <span class="added">Schwertsänger</span> | ...            | <span class="added">Secret</span>         | erwacht      |
+</pre>
 
 
 ### Phoenix HUDs
@@ -681,13 +599,10 @@ New dedicated Madness Symbols:
 ![New Madness Symbols](/_img/mechanics/HUD/HUDMad2.png)
 
 
-
 #### Enhanced Bar HUD
 
 The bar HUD will follow the brutalist style and function from ~v0.8-0.9.  
 Just as the Symbol HUD the bars will be smaller for characters with smaller values and larger for characters with larger values, not being stretched to a fixed width. Instead of adjusting the bars to the background texture, we will adjust the background texture to the bars. This will not only provide additional information to the player, the HUD will also cover less of the screen.  
-
-
 
 
 ### Attribute Visualisation or Beyond the HUD
@@ -715,10 +630,7 @@ Friends will immediately speak to him and try to help him with drugs if they hav
 He is then in a fight between the influences of the demonic force and of what he wants to do himself. The force drives him towards violence and blood; he has to struggle against himself and regain sanity before it is too late.  
 
 
-
-
 ### Summary
-
 
 In order to structure these mixed attributes, we asked the question what attributes usually stand for in a roleplaying game.  
 
@@ -819,8 +731,6 @@ RES_POISON
 RES_MADNESS  
 RES_MAGIC  
 RES_FIRE  
-
-
 
 
 ### Attribute Scaling
