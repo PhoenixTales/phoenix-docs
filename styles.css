@@ -252,7 +252,6 @@ blockquote {
 
 .promo-graphics {
   background: var(--dark);
-  max-width: 100%;
   display: flex;
   margin: 0;
   padding: 15px 10px 20px;
@@ -261,7 +260,6 @@ blockquote {
   gap: 10px;
 }
   .promo-graphics img {
-    max-height: 400px;
     border: 7px solid var(--blood);
     padding: 0;
   }
