@@ -248,6 +248,7 @@ blockquote {
 }
 
 .promo-graphics {
+  background: var(--dark);
   /*border-top: 5px solid var(--dark);
   border-bottom: 5px solid var(--dark);*/
   max-width: 100%;
@@ -471,7 +472,6 @@ and (max-width : 820px) {
   }
 
   .promo-graphics {
-    background: var(--dark);
     max-width: 100%;
     margin: 0;
     padding: 2em 1.5em 3em;
@@ -479,8 +479,10 @@ and (max-width : 820px) {
     position: static;
     border: none;
   }
-    .promo-graphics ul { flex-wrap: nowrap; gap: 1em; margin: 0; padding-right: 2em; }
-    .promo-graphics li { display: inline-block; max-height: none; height: 400px; flex-shrink: 0; }
+    .promo-graphics ul { flex-wrap: nowrap; gap: 1em; 
+      margin: 0 2em 0 0; 
+      padding-right: 2em; }
+    .promo-graphics li { max-height: none; height: 400px; flex-shrink: 0; }
 
     .promo-graphics img {
       min-width: 0;
