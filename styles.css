@@ -273,7 +273,7 @@ blockquote {
     object-fit: cover;
     /*width: calc(95% / 3);*/    
     padding: 0;
-      /* border: 5px solid var(--blood); */
+    border: 5px solid var(--blood);
     }
   .promo-graphics img:hover {
     filter: grayscale(75%);
