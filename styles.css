@@ -51,7 +51,10 @@ nav {
   }
     nav img:hover {
       transform: scale(1.1);
-      transition: all 1s ease;
+      transition: all 0.3s ease-out;
+      -webkit-transition: all 0.3s ease-out;
+      -moz-transition: all 0.3s ease-out;
+      -o-transition: all 0.3s ease-out;
     }
   nav h2 {
     margin-top: 1.5em;
@@ -168,7 +171,6 @@ pre {
   background: var(--dark);
   margin: 1.5em 0 2em;
   max-width: 100%;
-  box-sizing: border-box;
   overflow: auto;
 }
 
@@ -218,7 +220,6 @@ blockquote {
 /* ARTICLES */
 
 .article {
-  box-sizing: content-box;
   margin: 0 auto;
   padding: 2em 3em 3em;
   max-width: 590px;
@@ -268,7 +269,10 @@ blockquote {
   }
     .promo-graphics img:hover {
       filter: grayscale(75%);
-      transition: all .4s linear;
+      transition: all 0.3s ease-out;
+      -webkit-transition: all 0.3s ease-out;
+      -moz-transition: all 0.3s ease-out;
+      -o-transition: all 0.3s ease-out;
     }
 
 #intro {
