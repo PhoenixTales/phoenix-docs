@@ -474,29 +474,18 @@ and (max-width : 820px) {
 
   .promo-graphics {
     max-width: 100%;
+    display: flex;
     margin: 0;
-    padding: 2em 1.5em 3em;
+    padding: 15px 10px 20px;
     overflow: auto;
     position: static;
     border: none;
+    gap: 10px;
   }
-    .promo-graphics ul { 
-      flex-wrap: nowrap;
-       gap: 1em; 
-      margin: 0 2em 0 0; 
-      padding-right: 2em; 
-    }
-    .promo-graphics ul li { 
-      max-height: none; 
-      height: 400px; 
-      flex-shrink: 0; 
-    }
-
-    .promo-graphics ul li img {
-      min-width: 0;
-      object-fit: cover;
-      padding: 0;
+    .promo-graphics img {
+      max-height: 400px;
       border: 7px solid var(--blood);
+      padding: 0;
     }
 
   

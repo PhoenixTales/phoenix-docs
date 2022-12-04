@@ -374,74 +374,30 @@ It was not implemented in the end, be it by lack of time or by deliberate decisi
 
 ## Phoenix Attributes
 
-In the past when we only had access to the list of alpha attributes (from the `worldfile.txt`) without any context and without any of the related documents or builds that we analysed above, we could only guess their meaning and come up with solutions of our own.  
+In the past when we only had access to the list of alpha attributes (from the `worldfile.txt`) without any context and without any of the related documents or builds that we analysed above, we could only guess their meaning.  
 
-We didn't know about Mikes early idea of a "black soul" bar, we didn't know for sure about a relation between Madness and Will, we didn't know about Mikes handwritten attribute lists and of the correlation of different attributes. All these insights were only made possible by our [rescue of the design concepts](https://phoenixthegame.com/specials/20thAnniversary/) that we digitised and published in the Archive. And yet we had come to very similar conclusions on our own.  
+We didn't know about Mikes early idea of a "black soul" bar, we didn't know for sure about a relation between Madness and Will, about Mikes handwritten attribute lists and of the correlation of different attributes. All these insights were only made possible by our [rescue of the design concepts](https://phoenixthegame.com/specials/20thAnniversary/) that we digitised and published in the Archive. And yet we had come to very similar conclusions on our own.  
 
-At first and influenced by the release system we imagined that there was some sort of a difference between attributes such as Strength, Dexterity, Hitpoints, Mana, Willpower (as the Mana equivalent for Psionics; that much we knew from the interviews), to things like Arcane, Swordsmanship and Thievery. Following the original german terms (*Waffenkunst*, *Diebeskunst*) I conceived them as "Künste" (Arts) mostly relevant for the specific skills of the four classes in opposition to the main attributes relevant for all. With the little problem that there was no fourth "art" that we would have been able to assign to the psionic. Will, while being of special importance to the psionic, we imagined to be of general importance to all.  
-
-But in order to structure these mixed attributes, we may ask the question, what attributes usually stand for in a roleplaying game.  
-
-> An **attribute** is a piece of data (a statistic) that describes to what extent a fictional character in a role-playing game possesses a specific natural, in-born characteristic common to all characters in the game.  
-
-Based on this definition the arts are impossible to consider as attributes, since they are no characteristics common to all characters nor are they natural or inborn. The only ones that would fit that description are:  
-
-```
-`ATR_CONSTITUTION` = Körperliche Verfassung
-`ATR_STRENGTH`     = Körperliche Kraft 
-`ATR_DEXTERITY`    = Körperkontrolle
-
-`ATR_MADNESS`      = Geistige Gesundheit
-`ATR_WILL`         = Geistige Kraft 
-[`ATR_PSI`         = Geistige Kontrolle]
-```
-
-Psi would fit into this scheme as mental control; but since almost no one has control over his mind it is not to be seen as a general attribute yet; everyone has some degree of dexterity, but regarding the mind, most characters in the game are not in any kind of control of their mind independent from the sheer force of wanting or mentally resisting, they can't stop the stream of thought.  
-
-Thus, the rest is either a mere representation of these for the player in form of the HUD or it has to belong to the specific experience in the Arts or "Gifts":  
-
-```
-Class specific:       Class crossing:
-
-`EXP_WEAPONRY`        `EXP_ALCHEMY`
-`EXP_THIEVERY`        `EXP_METALLURGY`
-`EXP_ARCANERY`        `EXP_ARCHERY`
-`EXP_PSIONICS`        `EXP_HUNTSMANSHIP` 
-```
-
-Weaponry signifies the skill as a Warrior.  
-Thievery signifies the skill as a Thief.  
-Arcane   signifies the skill as a Mage.  
-Psionics signifies the skill as a Psionic.  
+At first and influenced by the release system we imagined that there was some difference between attributes such as Strength, Dexterity, Hitpoints, Mana, Willpower (as the Mana equivalent for Psionics; that much we knew from the interviews), to things like Arcane, Swordsmanship and Thievery. Following the original german terms (*Waffenkunst*, *Diebeskunst*) I conceived them as "Künste" (Arts) mostly relevant for the specific skills of the four classes in opposition to the main attributes relevant for all. With the little problem that there was no fourth "art" that we would have been able to assign to the psionic. Will, while being of special importance to the psionic, we imagined to be of general importance to all and we didn't know about the correlation between Will and "Willpower".
 
 The arts were defined by me as pre-requisites for class-specific skills ("talents") to learn and I came up with the idea of the Arts as a specific form of experience that would reward the player for using the skills of his chosen class, all in order to fortify the story-driven gameplay and at the same time to replace the general experience points, which, as various early statements suggest (see [[EXPERIENCE]]) we deemed to not have been part of the initial vision of the game. It was a neat little system to overcome any form of grinding and I am still happy with the idea.  
 
 Another idea of mine that is not grounded in any research was to combine Strength and Hitpoints in one; the details of which we will explain below. But in short: I liked the simplicity of it, I was inclined to it for how it deviates from the usual system in rpgs and due to the interesting balancing.  
 
-But since all the attributes were just mixed up in the scripts the main aspect that we only became aware of through the acquisition and research of the design documents was this difference of first and second order attributes and their correlation that we now had to consider and to explain.  
+But since all the attributes were just mixed up in the scripts the main aspect that we only became aware of through the acquisition and research of the design documents was the difference of first and second order attributes and their correlation that we now had to consider and to explain.  
 
 
 **Reconstructing the first order Attributes**
 
 In striving to finish the game it might have been reasonable to remove the "first order" attributes, but based on how they were the initial idea, since they were part of the concept for so long and due to their strong correlation with the classes - which to fully realise is one of our primary goals - and how their remnants inspired our imagination for years, we will have to reconstruct the "first order" attributes. We will find good reasons for them to persist and we will equip them with meaning in context of the setting as well as for gameplay.
 
-
-
-We begin by the decision to follow the structure from the lists that introduced the correlation of primary and secondary attributes. We have to analyse the difference between those attributes which are relevant for all classes and those which are optional or even mutually exclusive.  
-
-Constitution is relevant to everyone and with no primary focus on any class.  
-
-Strength is primarily relevant and skilled by Warriors. Mages and Psionics may not skill it at all, but it is nonetheless a factor that matters to every character; it sets limits of how you can or can not interact with the world and everyone will have some degree of Strength.
-
-Thievery is obviously relevant for thieves and while thieves may be able to reach some degree of Weaponry (his dagger-tricks are thief-skills and thus not associated with Weaponry), Weaponry is primarily relevant for warriors.  
-
-The Arcane Art does not really matter to anyone but the mages, but one may still acquire a bit of arcane knowledge by chance, the psionics may steal knowledge from the mages and so on. The important thing is that they won't get any Mana -> this is mage exclusive.  
-
-But the most confusing thing is the relation of Will and Willpower (or Psi-Energy).  
-
+We have to analyse the difference between those attributes which are relevant for all classes and those which are optional or even mutually exclusive.  
 
 
 ### Strength, Constitution, Hitpoints and Damage 
+
+Constitution is relevant to everyone and with no primary focus on any class. 
+Strength is primarily relevant and skilled by Warriors. Mages and Psionics may not skill it at all, but it is nonetheless a factor that matters to every character; it sets limits of how you can or can not interact with the world. Everyone will have some degree of Strength.
 
 Strength and constitution have to be closely interlinked. Strength has to scale the DP (damage points), constitution has to scale the HP (hit points). In this sense they represent the damage that the character can inflict and the damage he can endure.   
 
@@ -450,24 +406,30 @@ Now, Mana and Willpower according to Alex' description define both magic/psi dam
 * `ATR_Strength` -> `HP`+`DP` 
 * `Constitution` -> `REG_*`
 
-In our system, someone who has more strength can also endure much more hits. But at the same time the regeneration takes longer and requires more energy, while for someone with low strength but high constitution, the regeneration is faster and requires less energy. In the same way someone with less strength (and therewith less body mass) can sprint longer and higher constitution results in faster regeneration of the sprinting meter (like the oxygen bar).  
+In our system, someone who has more strength can also endure much more hits. But at the same time the regeneration takes longer and requires more energy, while for someone with low strength but high constitution, the regeneration is faster and requires less energy. In the same way someone with less strength (and therewith less body mass) can sprint longer and higher constitution results in faster regeneration of the sprinting meter (displayed like the oxygen bar).  
 
 [Add stuff from google docs!]  
 
 
+
+## Dexterity 
+
+TODO!!
+
+
 ### Will, Psi & Madness 
 
-How about Will? In the way that will was planned and used in the Alpha, it was solely associated with psi magic and protection against the same. _Only_ psionics had any amount of will, everyone else had none at all and when protection against psionic magic they would only have via psi-protective armor pieces, amulets and so forth.  
+How about Will? In the way that will was planned and used in the Alpha, it was solely associated with psi magic and protection against the same. *Only* psionics had any amount of will, everyone else had none at all and they would only be protected against psionic magic via psi-protective armor pieces, amulets and so forth.  
 
-We think that this is not convincing and more importantly, that it greatly misses all the other ways in which to utilise will in the game world. Before we knew anything on how the attribute was supposed to function in the Alpha, Arbax imagined that the willpower of npcs and the player character would be important in dialogues, since the psionic would not just use spells but he could use dialogues to intimidate others, he could force his will on others by words and depending on their own will they would be able to resist or give in to such attempts.  
+We think that this is not convincing and more importantly, that it greatly misses all the other ways in which we can utilise will in the game world. Before we knew anything on how the attribute was supposed to function in the Alpha, Arbax imagined that the willpower of npcs and the player character would be important in dialogues, since the psionic would not just use spells but he could use dialogues to intimidate others, he could force his will on others by words and depending on their own will they would be able to resist or give in to such attempts.  
 
-And the same for such things as control. When the psionic attempts to control an npc, success should depend on his will being stronger than the will of his opponent. With this notion, how would it make any sense that a digger can be intimidated or controlled as much as a baron?  
+And the same for such things as control. When the psionic attempts to control an npc success should depend on his will being stronger than the will of his opponent. With this notion how would it make any sense that a digger can be intimidated or controlled as much as a baron?  
 
 And this is also not as it was actually planned in the earliest docs by Mike. In various notes on spells he wrote how the success of a spell depends on the enemies willpower. TODO: is that so?  
 
 The values as they were distributed in 0.94k seem not to be consistent with this idea. Instead, every npc has to have some amount of will and npcs of higher levels should automatically have higher will. But how can that be the same as the "willpower" in the sense of the psi energy, of which YBerion has to have most among the humans and the Sleeper himself must have an abundance of?  
 
-Here we come to the meaning and importance of the will and psi-energy correlation. Only psionics should have psi-energy, that is what they themselves refer to as "willpower", but that is in reality a kind of demonic force. This willpower is what is left in 0.94k (since that only contains the "secondary" attributes) and in this sense it makes sense how non-psionic has no amount of willpower (= Psi). Every npc should have some amount of *Will*, but it should not be confused with the willpower of the psionics. The two terms continue to cause confusion, therefore we will refer to willpower as *psi-energy* from now on.  
+Here we come to the meaning and importance of the will and psi-energy correlation. Only psionics should have psi-energy; that is what they themselves refer to as "willpower", but that is in reality a kind of demonic force. This willpower is what is left in 0.94k (since that only contains the "secondary" attributes) and in this sense it makes sense how non-psionics have no amount of willpower (= Psi). Every npc should have some amount of *Will*, but it should not be confused with the willpower of the psionics. The two terms continue to cause confusion, therefore we will refer to willpower as *psi-energy* from now on.  
 
 The correlation of will and psi-energy is that while someone with a strong will may not have any psi-energy, someone with psi-energy (or psi-power-potential) will automatically have more of it when he has a strong will.  
 
@@ -502,22 +464,24 @@ At the same time it is WILL that controls the resistance against Psi.
 But we also have to consider madness. Here we are confronted with the two contrasting approaches that are mostly about representing madness or sanity in the HUD. WILL is an absolute value that cannot be diminished. Psi-energy has an actual and a maximal value that can be exhausted and recharged. And there are two kinds of PSI:  
 One is the psi energy handled by a psionic and represents the maximum amount of demonic force a psionic can handle. The other is the environmental psi energy in form of psi emissions, in form of localised psi-rays at so called "psi-knots" and in form of the general psi radioactivity in the atmosphere that increase in course of the story and from emission to emission. 
 
-<p class="subtext">While the psi-energy of psi-npcs is automatically scaled with by their will from 0 to 30, player characters have to find Psi-knots in the game world to increase their psi-energy.</p> 
+<p class="subtext">While the psi-energy of psi-npcs is automatically scaled by their will from 0 to 30, player characters have to find Psi-knots in the game world to increase their psi-energy.</p> 
 
-The psi-energy of the psionics can be fend of by enough Will. The localised psi-rays can be avoided by keeping distance from psi knots or external protection. The psi emissions and general radioactivity can only be endured by drugs or strong external protection. That most NPCs won't have any access to such drugs anymore nor any kind of psi protection will be the primary reason for the *Nemesis*; more on that in [[#Alpha Story]]. But without a dedicated madness value independent from the psionic-exclusive willpower, nothing about that could be displayed in the game, as originally imagined.
+The psi-energy of the psionics can be fend of by enough Will. The localised psi-rays can be avoided by keeping distance from psi knots or external protection. The psi emissions and general radioactivity past a certain point can only be endured by drugs or strong external protection.
+
+The condition that most NPCs won't have any access to such drugs anymore nor any kind of psi protection - while the psi forces in the environment keep being increased - will be the primary reason for the *Nemesis*; more on that in [[#Alpha Story]]. But without a dedicated madness value independent from the psionic-exclusive willpower, nothing about that could be displayed in the game as originally intended.
 
 Based on these ideas, it is simply not sufficient to have Will as described before and the psi points as exclusive energy of psionics like mana points as exclusive energy of mages. Madness cannot be the lack of the primary Will attribute, since that is an absolute value, nor can it be just the lack of psi energy; if 0% psi would equal 100% madness everyone but the psionics would be mad and a psionic player could never fully exhaust his available psi-energy. Thus, the psi-energy or willpower that is psionic-exclusive can not equal the sanity or madness meter that should be relevant to all npcs.  
 
-We assume that this complex relation and interconnection, while it may vaguely have been at the back of ones head, was never properly documented, it was confusing and thus was confused in the actual implementation in the engine and the alpha builds. We dissolve this confusion.
+We assume that this complex relation and interconnection, while it may vaguely have been at the back of ones head, was never properly documented, it was confusing and thus was confused in the actual implementation in the engine and the alpha builds and we attempt to dissolve this confusion.
 
-In consequence there arises the need to add Madness *additionally* and *independently from Psi*. Here comes another of my old concepts into play that I developed in the end of 2018:
+In consequence there arises the need to add Madness *additionally* and *independently from Psi*, where another of my old concepts comes into play that I developed in the end of 2018:
 
 Madness is negative Willpower.  
 
 That said: The Will of an NPC protects from Psi attacks and thus from madness -> since attacking someone in the psionic way basically means to drive him mad. But at the same time, dealing with psi energy in such a way is dangerous. As Tom Putzki told us, quoting one of his favourite lyrics, *"Der Wahnsinn ist nur eine schmale Brücke"* (Madness is just a small bridge), but more correctly I would say: *Sanity is a small bridge and Madness lies beneath* and the psionic is always on the edge.  
 
 We will not let psionic casting "automatically end" as the early note by Mike suggests, instead it will become a gameplay factor for the player to know the mental capacity of his characters and be on or close to this edge and decide how much he can lean beyond. 
-When he deals with the energy beyond his treshold (when all Psi-Energy points are used up or when the psi bar is fully discharged), the madness begins to fill.  
+When he deals with the energy beyond his treshold (when all Psi-Energy points are used up or when the psi bar is fully discharged), the madness (in form of the black soul bar or new dedicated madness symbols) begins to fill.   
 
 While it is safe to say that this was never actually planned as such and that this is our original solution that we came up with just based on the terms Will and Madness before knowing about the concepts behind it, it may actually be the only way in which we can include both the psi energy discharge as implemented in the game and the "black soul bar" idea of increasing madness from Mikes concept; our solution combines and harmonises both.
 
@@ -532,18 +496,22 @@ Thus, in this context we need the following attributes:
 
 ### The Arts 
 
-While before in the alpha research we correlated Arcane, Weaponry, Thievery and Will to the four classes, it does not really fit to the system proposed here and wouldn't be consequent due to how important Will is for every character and independent of the class compared to Thievery and Weaponry that are clearly class focused.  
+After clarifying the general attributes, the "Arts" remain. But which purpose do these arts serve in the gameplay? What is their function?
 
-One approach would be to argument that while the psionic magic and the alchemical magic are completely independent, Arcane may work as an overarching attribute of magical knowledge for both magical classes. But that doesn't fit because one of the essential characteristics of the psionic in classical roleplaying games is exactly his despise of the "Arcane" that stands for the traditions and rituals of the clerics, here the cults of the realm with the mages as priests.  
+TODO!!!
 
-Thus, either we would have to go without a psionic equivalent to the three Arts for the other classes or we have to come up with something more suitable to the heretic nature of the psionics.  
-What could that be?  
 
-In the same way as the arcane art opens the mind and prepares the body of the mage for the mana, a psionic specific "art" has to open the mind and prepare the body of the psionic to the psi energy. Opening the mind and preparing the body to the psi energy means to enable him to see/sense this energy in the first place (such as in form of the psi-knots) and to learn handling it. So what this psionic art has to be about is not the arcane, but a psychic or mystic sense.  
+While before in the alpha research we correlated Arcane, Weaponry, Thievery and Will to the four classes, Will does not really fit into this scheme and the system proposed here. It wouldn't be consequent due to how important Will is for every character and independent of the class compared to Thievery and Weaponry that are clearly class focused.  
 
-Just as the mage can lead the way to the magical ore (that he needs for his potions which again he needs to boost mana) due to his ability to alchemically sense physical substances that are magically charged, having a whole set of additional perceptions unknown to those without the Arcane gift, in the same way there are additional perceptions to the highly skilled psionic, opening up a world beyond the physical and allowing him a glimpse into the mystical, psychical (or demonic?) reality like an overlay over the world perceived by others, by which, for instance, he can see the psi-knots that he needs to boost his maximal psi-energy and other phenomenons.  
+One approach would be to argument that while the psionic magic and the alchemical magic are completely independent, *Arcane* may work as an overarching attribute of magical knowledge for both magical classes. But that doesn't fit because one of the essential characteristics of psionics in classical roleplaying games is exactly their despise of the "Arcane" that stands for the traditions and rituals of the clerics (here of the cults of the realm with the mages as priests).  
 
-The psionic brotherhood (which was highly inspired by buddhism in fact), uses the sign of the opened eye and the open eye signifies awakening. That is exactly what the psionic art has to be about, what they all are working on: to awaken.  
+Thus, either we would have to go without a psionic equivalent to the three Arts for the other classes (which would be inconsequent) or we have to come up with something more suitable to the heretic nature of the psionics, which is obviously what we do. Adding "psionics" as an art.  
+
+In the same way as the arcane art opens the mind and prepares the body of the mage for the mana, a psionic art has to open the mind and prepare the body of the psionic to the psi energy. Opening the mind and preparing the body for the psi energy means to enable him to see/sense this energy in the first place (such as in form of the psi-knots) and to learn handling it. So what this psionic art has to be about is not the arcane, but a psychic or mystic sense.  
+
+Just as the mage can lead the way to the magical ore (that he needs for his potions which again he needs to boost mana) due to his ability to alchemically sense physical substances that are magically charged, having a whole set of additional perceptions unknown to those without the *Arcane Gift*, in the same way there are additional perceptions to the highly skilled psionic, opening up a world beyond the physical and allowing him a glimpse into the mystical, psychical (or demonic) reality like an overlay over the world perceived by others, by which, for instance, he can see the psi-knots that he needs to boost his maximal psi-energy and other phenomena.  
+
+The psionic brotherhood (which was highly inspired by buddhism in fact), uses the sign of the opened eye. And the open eye signifies awakening. That is exactly what the psionic art has to be about, what they all are working on: to awaken.  
 
 The warrior strives to master combat and weaponry. The thief strives to become a master thief, to master thievery. The mage strives to dive into the arcane knowledge and to reach the highest initiations. And the psionic strives to awaken himself and thereby the sleeper and to awaken the sleeper and thereby himself; one through the other.  
 
@@ -559,6 +527,25 @@ Thus we need the following "arts":
 | PG | Psi Gabe    | Psi Gift    |
 +--------------------------------+
 ```
+
+
+
+
+#### Thievery
+
+Thievery is obviously relevant for thieves and while thieves may be able to reach some degree of Weaponry (his dagger-tricks are thief-skills and thus not associated with Weaponry).
+
+
+#### Weaponry 
+
+Weaponry is primarily relevant for warriors.  
+TODO: Explain how it scales dex and skills in npcs?
+
+
+The Arcane Art does not really matter to anyone but the mages, but one may still acquire a bit of arcane knowledge by chance, the psionics may steal knowledge from the mages and so on. The important thing is that they won't get any Mana -> this is mage exclusive.  
+
+
+
 
 
 ### Completing the clear texts
@@ -718,31 +705,58 @@ This will be accompanied by a droning sound effect and a mild visual effect.
 
 <p class="subtext">Related fun fact: Mike wrote in his notes that psionics should only be able to cast psi spells as long as they don't wear a helmet.</p>
 
-While the animation overlay of the psionic visualises how his magic is mainly associated with his mental power by laying the focus on his head, the magic of the Arcane Mages is different, alchemical and through the Mana associated with his blood (more on that in [[#Alchemical Magic]]). Hence when he is close to the edge of Madness, his overlay has to show how the lack of Mana (that serves as a physical protection from the demonic forces just as the Psi serves as a psychical protection) is affecting his whole body similar to an addict on withdrawal. 
-
+While the animation overlay of the psionic visualises how his magic is mainly associated with his mental power by laying the focus on his head, the magic of the Arcane Mages is different, alchemical and associated with the Mana in his bloodstream (more on that in [[#Alchemical Magic]]). Hence when he is close to the edge of Madness his overlay has to show how the lack of Mana (that serves as a physical protection from the demonic forces just as the Psi serves as a psychical protection) is affecting his whole body similar to an addict on withdrawal. He will be shown bent over, scratching his arm or looking at his hand. 
 
 
 #### Possession
 
-When X points of madness are reached, a character is possessed. When he reaches this state, his eyes turn red (texture change), as described in Alex Story and as shown in form of the fanatics in the release version of the game. Lower level characters will flee when perceiving someone in the possessed state, unless they are possessed themselves. Characters on the same or a higher level (when neutral or angry) will draw their weapon/magic and shout at him to go away.  
+When X points of madness are reached, a character is possessed. When he reaches this state his eyes turn red (texture change) as described in Alex Story (and as shown in form of the fanatics in the release version of the game). Lower level characters will flee when perceiving someone in the possessed state, unless they are possessed themselves. Characters on the same or a higher level (when neutral or angry) will draw their weapon/magic and shout at him to go away.  
 Friends will immediately speak to him and try to help him with drugs if they have any. But more than that: When the player character is possessed, the player will not be completely in control anymore. His character will do things against the will of the player for the player to experience being unwillingly controlled.  
 He is then in a fight between the influences of the demonic force and of what he wants to do himself. The force drives him towards violence and blood; he has to struggle against himself and regain sanity before it is too late.  
 
 
 
-Dima:
-Is it possible to create some sort of "magic/mental aura" for NPCs in active magic/psi mode? Weakening of this "aura" - dynamic PFX effect could signal when NPC is running out of magic or mental energy. But I can't describe to you an ideal, from the design point of view, version of such visual approach.  
-Remember the healing spell in the alpha design? Could use something similar, but in a less radical and unforced form. It shouldn't too eye-opener, but should still seem noticeable.
-Can be used as a kind of magic ring under a mage - in the style of a demon's pfx effect when it dies.  
-Playing with the colour shade of this aura also can be an intuitive way of communicating to the player that the SC has a particular level of energy charge.  
-But without any pfx.. Humans_Mad Overlay at Psionic may be a good solution for displaying the loss of mental power.  
-Some transitional states are also possible. For example the animation that is used when playing the pyrokinesis spell. 
-
-
 
 ### Summary
 
-Thus, based on the reasoning above, this is our solution.  
+
+In order to structure these mixed attributes, we asked the question what attributes usually stand for in a roleplaying game.  
+
+> An **attribute** is a piece of data (a statistic) that describes to what extent a fictional character in a role-playing game possesses a specific natural, in-born characteristic common to all characters in the game.  
+
+Based on this definition the arts are impossible to consider as attributes, since they are no characteristics common to all characters nor are they natural or inborn. The ones that would fit that description are the following ones which we could structure in a scheme like this:  
+
+```
+`ATR_CONSTITUTION` = Körperliche Verfassung
+`ATR_STRENGTH`     = Körperliche Kraft 
+`ATR_DEXTERITY`    = Körperkontrolle
+
+`ATR_MADNESS`      = Geistige Gesundheit
+`ATR_WILL`         = Geistige Kraft 
+`ATR_PSI`          = Geistige Kontrolle
+```
+
+Psi would fit into this scheme as mental control; but as almost no one has control over his mind it is not to be seen as a general attribute yet; everyone has some degree of dexterity, but regarding the mind, most characters in the game are not in any kind of control of their mind independent from the sheer force of wanting or mentally resisting, they can't stop the stream of thought.  
+
+Thus, the rest is either a mere representation of these for the player in form of the HUD or it has to belong to the specific experience in the Arts or "Gifts":  
+
+```
+Class specific:       Class crossing:
+
+`EXP_WEAPONRY`        `EXP_ALCHEMY`
+`EXP_THIEVERY`        `EXP_METALLURGY`
+`EXP_ARCANERY`        `EXP_ARCHERY`
+`EXP_PSIONICS`        `EXP_HUNTSMANSHIP` 
+```
+
+Weaponry signifies the skill as a Warrior.  
+Thievery signifies the skill as a Thief.  
+Arcane   signifies the skill as a Mage.  
+Psionics signifies the skill as a Psionic.  
+
+
+
+Based on all the reasoning above, this is our solution.  
 Making for a coherent system, that is both simple and complex.  
 
 There are 2 pairs of general Attributes   
