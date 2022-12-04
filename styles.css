@@ -261,15 +261,14 @@ blockquote {
   width: 100%; 
   display: flex;
   margin: 0;
-  padding: 15px 10px 20px;
-  gap: 1em;
+  padding: 20px;
+  gap: 20px;
 }
   .promo-graphics img {
     max-width: 100%;
     height: auto;
     border: 5px solid var(--blood);
     padding: 0;
-    margin: 0 2em;
     transition: all 0.3s ease-out;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
