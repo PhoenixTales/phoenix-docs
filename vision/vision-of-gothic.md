@@ -2,28 +2,27 @@
 
 <span class="changed">[WORK IN PROGRESS!]</span>
 
-
-In the beginning there was an idea. 
-Orpheus blabla.
-
-Night (Nyx) is the beginning of all things.
-This is the teaching of the Orphics.
-
-
-Piranha Bytes was founded. And Orpheus was rescued.
-It re-appeared like a Phoenix from the ashes.
-Thus they have given it a new working title: "Phoenix".
-
-Now they would make their own game in their own company.
-
+... in the words of the Developers (in 1998).
 
 
 <p class="suptext">Other games suck, we do our own.</p>
 
-> Though the German Developer PIRANHA BYTES has not even signed a distribution or 
-publishing contract, it's already attracting tremendous attention from publishers and gamers.
+> Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. 
 > The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine. And the game is already being touted by insiders for its breakthrough concepts.
 (MCV USA 01/1998)
+
+**Mike:** It's true the games are getting better - in ways of graphical presentation but NOT, in my humble opinion, in ways of gameplay or a good story. Almost every fantasy game released recently is merely hack and slay but has practically no story. It's like the heart of the game has been ripped out! We will combine both a (hopefully) genuine story and an easy-to-use gameplay with an engine which is at a clearly higher technical level than RPGs normally used to have.
+
+**Tom:** We founded Piranha Bytes because we wanted to produce games we want to play ourselves - that's what we want to achieve with Gothic.
+
+Torsten: Die Idee zu Gothic ist eher eine langersehnte Umsetzung all der Dinge die immer in Spielen gefehlt haben. Praktisch also eher eine Notwenigkeit.
+
+
+* Interview for IGN.com, 11.06.1998
+
+
+
+
 
 "One of those concepts is "optical feedback", meaning that increases in the character's ability are readily visible as the player's skill level develops."
 (MCV USA 01/1998)
@@ -33,9 +32,7 @@ publishing contract, it's already attracting tremendous attention from publisher
 
 **Stefan:** Gothic is a roleplaying game for everyone. It's so easy to play the game, even my mother could do it, really. Gothic has the most intuitive and easiest user interface ever encountered around roleplaying games having this much content. And everything that has impact on the game, fighting, spellcasting, character-improvement can be seen in the gameworld rather than in dozens of menus or on character sheets with hundreds of numbers and tiny little bars. But under all this simplicity, there stands a full roleplaying game and no simple 3D shooter with swords.
 
-Mike: It's true the games are getting better - in ways of graphical presentation but NOT, in my humble opinion, in ways of gameplay or a good story. Almost every fantasy game released recently is merely hack and slay but has practically no story. It's like the heart of the game has been ripped out! We will combine both a (hopefully) genuine story and an easy-to-use gameplay with an engine which is at a clearly higher technical level than RPGs normally used to have.
 
-Tom: We founded Piranha Bytes because we wanted to produce games we want to play ourselves - that's what we want to achieve with Gothic.
 
 
 
@@ -87,7 +84,5 @@ Sources:
 **Michael Hoge:** Yes, some guys seem to work on swordfighting games and the like. Honestly, I believe that we can be in the top three titles from all of those. Why? We think we can differ a good idea from a bad one.
 
 
-zoks.de 04/2000:
-Sehr wahrscheinlich ist auch, daß die Piranhas Ex-Grufties sind. Und Grufties sind quasi der Rückzug einer romantischen Subkultur, die der politischen Kämpfe der Punker/Autonomen-Szenen überdrüssig war. Der dicke Robert von The Cure, Joy Division und Siouxsee and the Banshees waren klassische Gruftie-Bands, das aber nur am Rande.
 
-"It is very likely that the Piranhas are Ex-Goths. And Goths are quasi the withdrawal of a romantic subculture that was weary of the political struggles of the punk/autonomous scenes." 
+Conclusions: As you are playing a role in a story, Story is by definition "the heart" of rpgs, thus an rpg has to be story-driven. 

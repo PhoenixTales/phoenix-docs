@@ -4,10 +4,9 @@
 
 ## Index
 
-* [Introduction](/)
-
 1. Vision
-	1. [Vision of Gothic](/vision/vision-of-gothic.html)
+	1. [Introduction](/)
+	2. [Vision of Gothic](/vision/vision-of-gothic.html)
     2. [Gothic (re)defined](/vision/gothic-defined.html)
 	3. [Clash of Dreams](/vision/clash-of-dreams.html)
 	4. [Phoenix Rising](/vision/projectgoal+designphilosophy.html)

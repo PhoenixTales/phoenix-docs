@@ -7,6 +7,20 @@ Quote also from the GameStar interview
 
 
 
+In the beginning there was an idea. 
+Orpheus blabla.
+
+Night (Nyx) is the beginning of all things.
+This is the teaching of the Orphics.
+
+
+Piranha Bytes was founded. And Orpheus was rescued.
+It re-appeared like a Phoenix from the ashes.
+Thus they have given it a new working title: "Phoenix".
+
+Now they would make their own game in their own company.
+
+
 
 ## Vision vs. Realisation
 
