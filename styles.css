@@ -480,6 +480,10 @@ and (max-width : 820px) {
       padding: 0;
       border: 5px solid var(--blood);
     }
+
+  .article {
+    border-sizing: content-box;
+  }
   
   .article h1 {
     margin-top: 5em;
