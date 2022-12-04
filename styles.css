@@ -169,8 +169,9 @@ pre {
 }
 
 code {
-  background: var(--dark);
-  border-radius: 5px;
+  background: var(--ore);
+  color: var(--black);
+  border-radius: 7px;
   padding: 0 0.5em;
   font-family: monospace; 
   display: inline-block;  
