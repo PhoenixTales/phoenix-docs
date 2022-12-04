@@ -45,8 +45,8 @@ nav {
     margin: 0 auto 3em;
   }
     nav img:hover {
-      filter: brightness(75%);
-      transition: all .4s linear;
+      transform: scale(1.2);
+      transition: all 1s ease;
     }
   nav h2 {
     margin-top: 1.5em;
