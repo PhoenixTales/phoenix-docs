@@ -45,7 +45,7 @@ nav {
     margin: 0 auto 3em;
   }
     nav img:hover {
-      transform: scale(1.2);
+      transform: scale(1.1);
       transition: all 1s ease;
     }
   nav h2 {
