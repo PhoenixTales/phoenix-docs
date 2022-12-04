@@ -363,7 +363,7 @@ While both HUD designs managed to *represent* those stats of the player and to s
 
 ##### Overcoming the HUD
 
-As said before, the need for the HUD arises primarily in order to display and inform about the changes of Attributes, primarily Life (HP), Mana (MP) and Willpower (WP). In order to overcome this need one would have to find ways to visualise these changes. And at least the seeds of this idea were already present in the Alpha.  
+As said before, the need for the HUD arises primarily in order to display and inform about the changes of Attributes like Life (HP), Mana (MP) and Willpower (WP). In order to overcome this need one would have to find ways to visualise these changes. At least seeds of this idea were already present in the Alpha.  
 
 ![Wounded Overlay in v0.64b](/_img/mechanics/visualisation/overlay_wounded.gif)
 
