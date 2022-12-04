@@ -259,10 +259,11 @@ blockquote {
     padding: 1em; 
     display: flex; 
     list-style: none; 
+    justify-content: flex-start;
     max-width: 100%; 
   }
   .promo-graphics li { 
-    max-height: 300px;
+    max-height: 400px;
     flex-shrink: 1;
     padding: 0.5em; 
   }
