@@ -271,7 +271,7 @@ blockquote {
   
   .promo-graphics img {
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
     /**/    
     padding: 0;
     border: 5px solid var(--blood);
