@@ -258,14 +258,12 @@ blockquote {
   display: flex;
   margin: 0;
   padding: 15px 10px 20px;
-  /*position: static;*/
-  border: none;
 }
   .promo-graphics img {
     max-width: 100%;
     height: auto;
-    border: 7px solid var(--blood);
-    padding: 10px;
+    border: 5px solid var(--blood);
+    margin: 0 1em;
   }
     .promo-graphics img:hover {
       filter: grayscale(75%);
