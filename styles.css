@@ -141,8 +141,10 @@ ol>li::before {
 /* TITLE STYLING */
 
 .blood-bg {
+  display: inline-block;
   background-color: var(--blood);
   color: var(--black);
+  font-size: 16px; 
   margin: 2em 0;
   padding: 1em;
   font-weight: bold;
