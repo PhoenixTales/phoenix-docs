@@ -2,7 +2,7 @@
 
 * {
   box-sizing: border-box;
-  overflow-x: hidden;
+  /*overflow-x: hidden;*/
 }
 
 :root {
@@ -58,6 +58,7 @@ nav {
   }
   
 main {
+  box-sizing: content-box;
   width: 100%;
   flex: 1;
   min-width: 0;
