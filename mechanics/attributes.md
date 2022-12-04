@@ -181,7 +181,7 @@ But in `Phoenix_C2_Monsters` and almost in the same way in the remnants of a lat
 
 Accordingly in v0.56c-0.64b the NPCs have at most 20 HP, 10 Str (with one exception of 30, which we assume to be a mistake), 10 Dex, but the maximum Mana and Madness value have been increased to 20. Even in v0.94k the character value progression was still basically following this old structure but now with a maximum Health, Will and Mana of human NPCs of 30, while the maximum Strength and Dexterity was 15.  
 
-In course of this research we discovered some defaults.  
+In course of this research we discovered and summarised some defaults.  
 
 
 ### Default Attribute Values for NPCs
@@ -201,20 +201,20 @@ H: 26 Hp, 13 Str,  9 Dex, 0 Mana, 0 Will  (TPL 10 Will)
 E: 30 Hp, 15 Str, 10 Dex, 0 Mana, 0 Will
 
 Thieves (STT, ORG):
-L: 18 Hp, 7 Str, 9 Dex, 0 Mana, 0 Will
+L: 18 Hp, 7 Str,  9 Dex, 0 Mana, 0 Will
 M: 22 Hp, 8 Str, 11 Dex, 0 Mana, 0 Will
 H: 26 Hp, 9 Str, 13 Dex, 0 Mana, 0 Will
 
 Mages (KDF, KDW):   
-30 Hp, 5 Str, 10 Dex, 30 Mana, 0 Will
+*: 30 Hp, 5 Str, 10 Dex, 30 Mana, 0 Will
 
 Gurus (GUR):
-30 Hp, 5 Str, 10 Dex, 0 Mana, 30 Will
+*: 30 Hp, 5 Str, 10 Dex, 0 Mana, 30 Will
 ```
 
-In some cases (as with the Barons, Mages and Gurus) NPCs shared the same values and it is likely that they should have been differentiated more. These values are what we would describe as the intended default values for "Archmages" (such as Corristo, Saturas), Warrior-Leaders (such as Gomez, Lee and Angar), the Enlightened (Y'Berion) and Master-Thieves (such as Lares); but more on that in [[#Phoenix Attributes]].  
+In some cases (as with the Barons, Mages and Gurus) NPCs shared the same values and it is likely that they should have been differentiated more. These values are what we would describe as the intended default values for "Archmages" (such as Corristo, Saturas), Warrior-Leaders (such as Gomez, Lee and Angar), the Enlightened (Y'Berion) and Master-Thieves (such as Lares); but more on that in the section on attributes in Phoenix.  
 
-Default attributes for Monsters were a bit different. Monsters had up to 50 HP, Strength and Dex. In 0.94k, most monsters didn't have any Will or Mana Attribute associated with them (anymore), with the exception of the Wolf with 2 Mana and 2 Will. In the Gothic Gameplay Trailer from 2000 you see this system in action where the Troll has 30 heart symbols (HP), as Dmitriy pointed out, and the Demon seems to have 30 Strength (at least 30 strength symbols are displayed).  
+Default attributes for Monsters were a bit different. Monsters had up to 50 HP, Strength and Dex. In 0.94k, most monsters didn't have any Will or Mana Attribute associated with them (anymore), with the exception of the Wolf with 2 Mana and 2 Will. In the Gothic Gameplay Trailer from 2000 you see this system in action where the Troll has 30 HP, as Dmitriy pointed out; the Demon seems to have 30 Str.  
 
 
 ### Attributes & Classes
@@ -222,7 +222,7 @@ Default attributes for Monsters were a bit different. Monsters had up to 50 HP, 
 We should also indicate that the initial attributes seem to have been envisioned with the four classes in mind. We can assume that they would have been heavily correlated with the class specific character progression; in which way remains speculative.  
 
 * **General:** Strength / Constitution
-	* Strength-> Damage
+	* Strength -> Damage
 	* Constitution -> Health
 * **Warrior:** Weaponry -> Attack 
 * **Thief:** Thievery -> Dexterity
@@ -236,17 +236,18 @@ We should also indicate that the initial attributes seem to have been envisioned
 ATR_ARCANE ATR_CONSTITUTION ATR_DEXTERITY ATR_HITPOINTS ATR_HITPOINTS_MAX ATR_MADNESS ATR_MADNESS_MAX ATR_MANA ATR_MANA_MAX ATR_PROTECTION ATR_REGENERATEHP ATR_REGENERATEMANA ATR_RESIST_FIRE ATR_RESIST_MAGIC ATR_RESIST_POISON ATR_RESIST_WEAPON ATR_STRENGTH ATR_SWORDSMANSHIP ATR_THIEVERY ATR_INDEX_MAX
 ```
 
-Above is a list of all the technical `ATR` constants in the engine from the `Worldfile.txt` to be found in the Gothic-MDK. As you see, what we analysed before as first and second order attributes and what the developers clearly differentiated in their design concept was all mixed up in the constants. Not only was there no differentiation between first and second order attributes but there were also so called "zusätzlich als Attribut geführte Werte" (= "values which are additionally handled as attributes"). That means they used to have some values among those constants which were not *really* supposed to be attributes but were handled as such for technical reasons.  
+Above is a list of all the technical `ATR` constants in the engine from the `Worldfile.txt` to be found in the Gothic-MDK. As you see, what we analysed before as first and second order attributes and what the developers clearly differentiated in their design concept was all mixed up in the constants. Not only was there no differentiation between first and second order attributes but there were also so called "zusätzlich als Attribut geführte Werte" (= "values which are additionally handled as attributes"), constants which were not *really* supposed to be attributes but were handled as such for technical reasons.  
 
-Such is the case for `ATR_PROTECTION`, which was later replaced by a dedicated `PROT_*` prefix for the different forms of protection, such is also the case for ``ATR_RESIST_*`` and finally for the later introduced `ATR_REGENERATEHP` and `ATR_REGENERATEMANA`; both of which were not planned to be listed among the actual attributes, both of which remained unused in the release and both of which would have worked just as well with a dedicated prefix as done for protection.  
+Such is the case for `ATR_PROTECTION`, which was later replaced by a dedicated `PROT_*` constant for the different forms of protection, such is also the case for ``ATR_RESIST_*`` and finally for the later introduced `ATR_REGENERATEHP` and `ATR_REGENERATEMANA`; both of which were not planned to be listed among the actual attributes, both of which remained unused in the release and both of which would have worked just as well with a dedicated constant.  
 
-In the `text.d` of v0.56c, there is another case like that in form of "*Tarnung*" (disguise), which had no equivalent (anymore or not yet?) among the constants, but just as protection it was not really supposed to be an attribute.  
+In the `text.d` of v0.56c there is another case like that in form of "*Tarnung*" (disguise), which had no equivalent (anymore or not yet?) among the constants, but just as protection it was not really supposed to be an attribute.  
 
-<p class="subtext">In 0.56c-0.64b the maximum attribute index was 18. In 0.94k it was 10. In 1.00b till it was 8.</p>
+<p class="subtext">In 0.56c-0.64b the maximum attribute index was 18. In 0.94k it was 10. In 1.00b onwards it was 8.</p>
 
-When we blend out these attributes that were only handled as such for technical reasons (and usually just tempory), we end up with the following comparison of attribute constants throughout the available builds, as they were continueously reduced:  
+When we blend out these attributes that were only handled as such for technical reasons (usually just tempory), we end up with the following comparison of attribute constants throughout the available builds, as they were continueously reduced:  
 
-
+```
++----+-------------------+--------------------+--------------------+
 |    | 0.56c/0.64b       | 0.94k              | 1.00b - 1.12f      |
 | -  | ----------------- | ------------------ | ------------------ |
 |  0 | ATR_HITPOINTS	 | ATR_HITPOINTS	  | ATR_HITPOINTS      |   
@@ -255,92 +256,91 @@ When we blend out these attributes that were only handled as such for technical 
 |  3 | ATR_MANA_MAX		 | ATR_MANA_MAX	      | ATR_MANA_MAX	   |
 |  4 | ATR_MADNESS		 | ATR_WILL           | ATR_STRENGTH       |
 |  5 | ATR_MADNESS_MAX	 | ATR_WILL_MAX       | ATR_DEXTERITY      |
-|  6 | ATR_STRENGTH		 | ATR_STRENGTH       
-|  7 | ATR_CONSTITUTION	 | ATR_DEXTERITY	   
-|  7 | ATR_DEXTERITY	 
-|  8 | ATR_THIEVERY		 
-|  9 | ATR_SWORDSMANSHIP                   
-| 10 | ATR_ARCANE		 
-| 11 | ATR_WILL			 
-
+|  6 | ATR_STRENGTH		 | ATR_STRENGTH       |--------------------+
+|  7 | ATR_CONSTITUTION	 | ATR_DEXTERITY	  |
+|  7 | ATR_DEXTERITY	 |--------------------+
+|  8 | ATR_THIEVERY		 |
+|  9 | ATR_SWORDSMANSHIP |                 
+| 10 | ATR_ARCANE		 |
+| 11 | ATR_WILL			 |
++----+-------------------+
+```
 
 They were reduced from 10 (6 primary, 4 secondary), to 5 in 0.94k to 4 in the release version.
 
-Somewhere between 0.64b and 0.94k all the old "first order" attributes except of Strength were removed; only the "second order" attributes remained. And somewhere between 0.94k and 1.00b `ATR_WILL` was cut and with it the initial and already highly promoted idea of psionics as an independent magic system and of Madness and Sanity as factors in the gameplay; they had been crucial before, both regarding gameplay mechanics as well as regarding the Story when we think of the "Madness Waves" (also known as "Psi Emissions"); now they were gone.  
+Somewhere between 0.64b and 0.94k all the old "first order" attributes except of Strength were removed; only the "second order" attributes remained. And somewhere between 0.94k and 1.00b `ATR_WILL` was cut and with it the initial and already highly promoted idea of psionics as an independent magic system and of Madness and Sanity as factors in the gameplay; they had been crucial before, both regarding gameplay mechanics as well as regarding the Story (think of the *Madness Waves* ("Psi Emissions")). 
 
 
 ### Function of Attributes
 
-Sadly we have no description at all about the function of the six primary attributes other than that they should scale the secondary ones. The reason that they were removed from the game we may find exactly here: In lack of a function. Since they didn't really serve a purpose in the gameplay and only seemed to add an unnecessary layer of complexity while the status attributes worked just as well on their own, they may have seen no reason anymore to keep them.  
+Sadly we have no description at all about the function of the six primary attributes other than that they should scale the secondary ones. The reason that they were removed from the game we may find exactly here: In lack of a function. When they didn't really serve a purpose and only seemed to add an unnecessary layer of complexity while the status attributes worked just as well on their own, they may have seen no reason anymore to keep them.  
 Another reason may have been the additional workload: When characters should comment on the players level in the primary attributes, it requires lots of additional voice recording and scripting.  
 
-Hence we cannot say anything about the possible function of attributes such as the arts, namely thievery, weaponry, arcane and will (the art, not the associated "status attribute" of willpower).  
+Hence we cannot say anything about the possible function of attributes such as the arts, namely thievery, weaponry, arcane and will (not the associated "willpower").  
 
-But concerning the secondary attributes, we have a short description of their "application" by Alex (`Phoenix_B1_AttributesTalentsActions.doc`), according to which Strength is responsible for damage dealt in melee combat, for handling 2H weapons and for carrying, moving or using heavy objects. Dexterity is responsible for damage dealt in ranged combat and thief skills, Mana is the energy for magic (or "alchemical") spells and is also responsible for the resistance against magic; Will(power) is the energy for Psi-Spells and is responsible for the resistance against psi powers and health, self-explanatory, represents the characters "life" in form of hitpoints.  
+But concerning the secondary attributes, we have a short description of their "application" by Alex according to which... 
+Strength is responsible for damage dealt in melee combat, for handling 2H weapons and for carrying, moving or using heavy objects. Dexterity is responsible for damage dealt in ranged combat and thief skills. Mana is the energy for magic (or "alchemical") spells and is also responsible for the resistance against magic. Will(power) is the energy for Psi-Spells and is responsible for the resistance against psi powers. Health, self-explanatory, represents the characters "life" in form of hitpoints.  
 
 
 #### Mana, Will & Madness
 
-We know that *Psi* and *Alchemy* were supposed to be two completely independent and "mutually exclusive" forms of magic. Mike refered to *Alchemy* as the magic form of the two circles of fire and water. This explains why they were also called "Feueralchemisten" and "Wasseralchemisten" in [Sleeper's Ban](https://gothicarchive.org/documents/SleepersBan.html) by Alex Wittmann (but more on that in the lore related [[#Alchemical magic]] doc). This mutual exclusiveness was planned right from the start, as can be seen on a note by Mike on p.1 of the spells document collection (and since then this idea was repeated over and over again in various interviews and on all kinds of promotional texts).  
+We know that *Psi* and *Alchemy* were supposed to be two completely independent and "mutually exclusive" forms of magic. Mike refered to *Alchemy* as the magic form of the two circles of fire and water. This explains why they were also called "Feueralchemisten" and "Wasseralchemisten" in [Sleeper's Ban](https://gothicarchive.org/documents/SleepersBan.html) by Alex Wittmann (but more on that in the lore related Alchemical magic doc). This mutual exclusiveness was planned right from the start, as can be seen on a note by Mike on p.1 of the spells document collection. Since then this idea was repeated over and over in various interviews and on all kinds of promotional texts.  
 
 On the same page we find another relevant idea of a potential magical overload:  
 
-> Magic = OVERLOAD
-> PSI = automatic deactivation
+```
+Magic = OVERLOAD
+PSI = automatic deactivation
+```
 
 What he may have imagined by this overload remains speculation.  
-On p.6, for the first time the correlation between Will and Madness appears:  
+On p.6, the correlation between Will and Madness appears for the first time:  
 
-> Black Soul Bar -> 100%
-> -> can not cast spells anymore; has to take drugs
-> The better the Will the less Madness increase per spell
+```
+Black Soul Bar -> 100%
+-> can not cast spells anymore; has to take drugs
+The better the Will the less Madness increase per spell
+```
 
 There is also the following mentioning (in the `pChanges.txt` of v0.56c):
 
 ```
-Phoenix V.077
-**************
-+ zEngine 0.55
-+ Kampfsystem : (Fake) Auto-Aiming, Distanzen, Treffen
-+ Treffer / Schadenspunkte System laut Konzept 1.34
-+ legendäres Pöppelsystem eingeführt :)
-+ Kampfsystem-Konsole mit ALT+K aufrufbar -> Danach Werte ändern mit Taste "K"
 + Regeneration LP,MANA,SANITY
 ```
 
-What was named Willpower before (with `ATR_MADNESS` as its constant) was here described as *Sanity*, as the absence of madness, to put it into positive terms; the idea was always that Willpower protects from Madness. The changelog was written in the context of an engine update that also introduced the first version of the Symbol-HUD refered to as the "Pöppelsystem".  
+What was named Willpower before (with `ATR_MADNESS` as its constant) was here described as *Sanity*, as the absence of madness, to put it into positive terms. The idea was always that Willpower protects from Madness. The changelog was written in the context of an engine update (v0.77) that also introduced the first version of the Symbol-HUD.  
 
 Accordingly there where two contrasting approaches: Casting psi spells would increase Madness (= decrease Sanity); but while the original idea was to have this displayed by filling the "Black Soul Bar" representing that madness, the later idea and actual implementation was to display the slow loss of Sanity by a reduction of the stone symbols representing the characters sanity (or, more precisely: representing the "Willpower" as the protection against Madness).  
 
-While Mana was supposed to regenerate automatically it was made clear in interviews that the "Willpower" does not regenerate and has to be recharged by prayer (to the sleeper idols) or by meditation; while the early note on the "black soul bar" by Mike speaks of a need to take drugs in order to reduce the Madness. It is not clear how (and if) those two ideas relate to each other.  
+While Mana was supposed to regenerate automatically it was made clear in interviews that the "Willpower" does not regenerate and has to be recharged by prayer (to the sleeper idols) or by meditation.  
+The early note on the "black soul bar" by Mike on the other hand speaks of a need to take drugs in order to reduce the Madness. It is not clear how (and if) those two ideas relate to each other.  
 
 
 ### Visualisation of Attributes
 
 Inititally, not only skills, but also attributes should have been visualised.  
 
->  The character development is based on visualization. Every enhancement of your characters skills **and attributes** will be shown in graphical effects like changing character animations, there are no more character stats.
->  `- Mike Hoge, 11.06.1998, interview with ign`
+>  The character development is based on visualization. Every enhancement of your characters skills **and attributes** will be shown in graphical effects like changing character animations, there are no more character stats. (Mike Hoge, 11.06.1998, interview with IGN)
 
-> […] It will not be sufficient to collect a mighty two-handed-sword. If you […] aren't even strong enough to wield the weapon, your blows will not only be slower and not so powerful, but you will see how your Character has got problems even raising the mighty weapon! So you've got attributes like strength and dexterity as well as many skills and spells, and every single one of them will have different animations or additional effects when you learn or improve them.  
-> `- Mike Hoge, 15.06.1998, desslock.gamespot.com`
+> […] It will not be sufficient to collect a mighty two-handed-sword. If you […] aren't even strong enough to wield the weapon, your blows will not only be slower and not so powerful, but you will see how your Character has got problems even raising the mighty weapon! So you've got attributes like strength and dexterity as well as many skills and spells, and every single one of them will have different animations or additional effects when you learn or improve them. (Mike Hoge, 15.06.1998, desslock.gamespot.com)
 
 
 #### Visualisation vs. Representation
 
-While the visualisation of attributes such as strength and dexterity is explained above, there arises a need to display stats such as *Health* (HP), *Mana* (MP) and *Willpower* (WP) on the screen, due to their fluctuation during gameplay; by having both a maximum and an actual value. HP, MP and WP can be reduced, regenerated, recharged and discharged. The HUD is supposed to display and inform about these changes, to *represent* those changes, but cannot *visualise* them. 
+While the visualisation of attributes such as strength and dexterity is explained above (in theory; it was never implemented, but animations existed), there arises a need to display stats such as *Health* (HP), *Mana* (MP) and *Willpower* (WP) on the screen, due to their fluctuation during gameplay. By having both a maximum and an actual value. HP, MP and WP can be reduced, regenerated, recharged and discharged. The HUD is supposed to display and inform about these changes, to *represent* those changes, but cannot *visualise* them. 
 
 ##### Simplifying the HUD
 
 In 1997, when they began to work on the interface, including the HUD, the minimalism they strived for was radical for an rpg; back then just a few shooters and adventures came with a similarly minimal interface. And while they could not go without a HUD completely and had to represent specific stats, they at least tried to keep it simple.  
 
-[insert screen of the two symbol hud versions]
+![First Version of the Symbol HUD](/_img/mechanics/HUD/symbolHUDv1.jpg)
+This is the first version of the symbol HUD. Please note that Mana and Psi points are displayed here for testing purposes; they were not supposed to be displayed simultaneously in the game.
 
-At first the six attributes (later five) were represented as symbols (hearts, stars, fists etc.). At some stage experience points were included; where a specific number of Exps would be represented by little Exp coin symbols, that were to be invested to learn from teachers. Here this was made totally clear by Alex (`Phoenix_B1_AttributesTalentsActions.doc`), translated by us:  
+At first the six attributes (later five) were represented as symbols (hearts, stars, fists etc.). At some stage experience points were included; where a specific number of Exps would be represented by little Exp coin symbols, that were to be invested to learn from teachers. Here this was made clear by Alex, translated by us:  
 
-> Attributes are controlled by integers between 1 and 20. The attribute values are displayed via an equivalent number of symbols. This has the purpose, that all processes in the entire game can be summed up with simple symbol quantities. This does not only apply to attributes, but also for weapon damage, armor protection, spell costs, spell damage, experience and so on.  
+> Attributes are controlled by integers between 1 and 20. The attribute values are displayed via an equivalent number of symbols. This has the purpose, that all processes in the entire game can be summed up with simple symbol quantities. This does not only apply to attributes, but also for weapon damage, armor protection, spell costs, spell damage, experience and so on. (`Phoenix_B1_AttributesTalentsActions.doc`)
 
-[insert screen of the bar hud, mana + reduced health]
+![Alpha Version of the Bar HUD](/_img/mechanics/HUD/bar-hud.png)
 
 Later (in ~v0.8) a brutalist bar design was implemented to represent the attributes instead. The red health bar for instance could now be seen as representing the amount of (healthy) blood in the player character that he looses in battle when bleeding. Strength and Dexterity were no longer represented; the psionic system and the Will(power) attribute was no longer in use (we don't know if deliberately discarded or cut due to time restrictions).  
 
@@ -349,7 +349,7 @@ In the release version the bar would be stretched to cover the background textur
 
 This way the bars - potentially - could have been providing more information, because the player could recognise how much HP an enemy had. We say "potentially" because actually both in the symbol hud as in the bar hud the HP of NPCs in focus was displayed differently than the stats of the player himself. By a narrow, stretched out bar with no such information provided.  
 
-[Insert image of the hp in focus bars]  
+![HP of NPCs in Focus](/_img/mechanics/HUD/hp-of-npc-in-focus.jpg)
 
 The HUD was additionally simplified by hiding all the bars that were not currently in use; in the symbol HUD, strength and dexterity would only appear when in the melee or ranged fighting mode. Mana and Psi Power would only appear when in the respective magic casting mode. 
 Just the Health was decided to be displayed at all times for reasons unknown. Thus, other than the Health Symbols/Bar, the HUD was hidden completely and only shown when needed.  
