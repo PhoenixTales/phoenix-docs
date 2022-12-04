@@ -267,6 +267,7 @@ blockquote {
     max-width: 100%;
     height: auto;
     border: 5px solid var(--blood);
+    padding: 0;
     margin: 0 1em;
     transition: all 0.3s ease-out;
     -webkit-transition: all 0.3s ease-out;
