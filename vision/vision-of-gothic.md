@@ -1,5 +1,6 @@
 # Vision of Gothic
 
+<span class="changed">[WORK IN PROGRESS!]</span>
 
 <p>
     <span class="gianttext">
@@ -8,9 +9,6 @@
     </span>
     in the words of the Developers (1998)
 </p>
-
-<span class="changed">[WORK IN PROGRESS!]</span>
-
 
 <p class="suptext">Other games suck, we do our own.</p>
 
