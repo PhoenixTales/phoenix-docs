@@ -252,7 +252,7 @@ blockquote {
 
 .promo-graphics {
   background: var(--dark);
-  max-width: 100%; 
+  width: 100%; 
   box-sizing: border-box;
   display: flex;
   margin: 0;
