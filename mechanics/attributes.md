@@ -345,12 +345,12 @@ Later (in ~v0.8) a brutalist bar design was implemented to represent the attribu
 
 ![Alpha Version of the Bar HUD](/_img/mechanics/HUD/bar-hud.png)
 
-<p class="subtext">Note that this first bar design should not be confused with the one used in the release version. It followed the same idea as the initial symbol design, where NPCs with less HP/MP/WP would have less corresponding symbols. Here they would have a smaller bar. The darker, inside part in the Mana bar is the actual maximum degree of Mana this specific character can recharge; the outside bar represents the maximum degree to which the character could level his Mana in course of the game. In the release version the bar would be stretched to always cover the background texture.
+<section class="subtext">Note that this first bar design should not be confused with the one used in the release version. It followed the same idea as the initial symbol design, where NPCs with less HP/MP/WP would have less corresponding symbols. Here they would have a smaller bar. The darker, inside part in the Mana bar is the actual maximum degree of Mana this specific character can recharge; the outside bar represents the maximum degree to which the character could level his Mana in course of the game. In the release version the bar would be stretched to always cover the background texture.
 
 This way the bars - potentially - could have been providing more information, because the player could recognise how much HP an enemy had. We say "potentially" because actually both in the symbol hud as in the bar hud the HP of NPCs in focus was displayed differently than the stats of the player himself. By a narrow, stretched out bar with no such information provided. They used a smaller version of the HP bar above with the Bar-HUD, while they used the one below to display enemy health with the Symbol-HUD:
 
-![HP of NPCs in Focus](/_img/mechanics/HUD/hp-of-npc-in-focus.jpg)
-</p>
+<img src="/_img/mechanics/HUD/hp-of-npc-in-focus.jpg" alt="HP of NPCs in Focus">
+</section>
 
 The HUD was additionally simplified by hiding all the bars that were not currently in use; in the symbol HUD, strength and dexterity would only appear when in the melee or ranged fighting mode. Mana and Psi Power would only appear when in the respective magic casting mode. 
 Just the Health was decided to be displayed at all times for reasons unknown. Thus, other than the Health Symbols/Bar, the HUD was hidden completely and only shown when needed.  
