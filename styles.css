@@ -426,7 +426,6 @@ and (max-width : 820px) {
 
   body {
     flex-wrap: wrap;
-    font-size: 18px;
     max-width: 100%;
   }
 
