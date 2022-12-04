@@ -48,6 +48,10 @@ nav {
     display: block;
     width: 290px;
     margin: 0 auto 3em;
+    transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
   }
     nav img:hover {
       transform: scale(1.1);
@@ -264,6 +268,10 @@ blockquote {
     height: auto;
     border: 5px solid var(--blood);
     margin: 0 1em;
+    transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
   }
     .promo-graphics img:hover {
       filter: grayscale(75%);
