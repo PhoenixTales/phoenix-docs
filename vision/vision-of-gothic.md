@@ -10,7 +10,10 @@
     in the words of the Developers (1998)
 </p>
 
-<p class="suptext">Other games suck, we do our own.</p>
+<p class="suptext">
+  Other games suck,<br> 
+  we do our own.
+</p>
 
 > Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. (MCV USA 01/1998)
 
@@ -23,20 +26,16 @@
 <!--**Torsten:** Die Idee zu Gothic ist eher eine langersehnte Umsetzung all der Dinge die immer in Spielen gefehlt haben. Praktisch also eher eine Notwenigkeit.-->
 
 
+## Why is Gothic different?
 
-
-
-
-**IGN: What's special about Gothic? Why is it different?**
+**IGN:** What's special about Gothic? Why is it different?
 
 **Stefan:** Gothic is a roleplaying game for everyone. It's so easy to play the game, even my mother could do it, really. Gothic has the most intuitive and easiest user interface ever encountered around roleplaying games having this much content. And everything that has impact on the game, fighting, spellcasting, character-improvement can be seen in the gameworld rather than in dozens of menus or on character sheets with hundreds of numbers and tiny little bars. But under all this simplicity, there stands a full roleplaying game and no simple 3D shooter with swords. (IGN, 11.06.1998)
 
 **Mike:** The character development is based on visualization. Every enhancement of your characters skills and attributes will be shown in graphical effects like changing character animations, there are no more character stats. (src??)
 
 
-
-
-## Origins of Piranha Bytes
+## Origins of Piranha Bytes?
 
 Sources: 
 * Interview for gamespot.com 15.06.1998
@@ -85,4 +84,9 @@ Sources:
 
 
 
-Conclusions: As you are playing a role in a story, Story is by definition "the heart" of rpgs, thus an rpg has to be story-driven. It should be simple to play with the most intuitive user interface imagineable while still being a complex roleplaying game underneath. 
+## Summary: 
+
+* As you are playing a role in a story, Story is by definition "the heart" of rpgs. An rpg has to be story-driven. 
+* An rpg is necessarily complex, the art is to translate this complexity into gameplay by the most simple and intuitive interface.
+* The means by which to achieve this simplicity is by the mechanics of radical visualisation and direct interaction instead of abstract statistics. 
+* Interaction with the gameworld and the simulated life therein (npcs and monsters) is at the core of this kind of rpg gameplay.
