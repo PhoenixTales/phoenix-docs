@@ -1,4 +1,4 @@
-# THE VISION OF GOTHIC 
+# Vision of Gothic
 
 
 <p>
