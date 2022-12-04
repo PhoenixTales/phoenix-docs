@@ -28,7 +28,7 @@ title: A Gothic Drama
   <section id="intro">
     <img class="logo" src="/_img/phnx-logo-2-darker.png">
     <section class="introtext">
-      {% capture about %}{% include introduction.md %}{% endcapture %}
+      {% capture about %}{% include_relative vision/introduction.md %}{% endcapture %}
       {{ about | markdownify }}
     </section>
   </section>
