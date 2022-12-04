@@ -263,7 +263,8 @@ blockquote {
     gap: 1em;
   }
   .promo-graphics li { 
-    height: 400px;
+    height: auto;
+    width: calc(95% / 3);
     /*flex-shrink: 1;*/
     padding: 0.5em; 
   }
@@ -271,7 +272,7 @@ blockquote {
   .promo-graphics img {
     height: 100%;
     object-fit: cover;
-    /*width: calc(95% / 3);*/    
+    /**/    
     padding: 0;
     border: 5px solid var(--blood);
     }
