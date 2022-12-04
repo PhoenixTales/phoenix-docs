@@ -145,8 +145,8 @@ ol>li::before {
   background-color: var(--blood);
   color: var(--black);
   font-size: 16px; 
-  margin: 2em 0;
-  padding: 1em;
+  margin: 2em 0 1em;
+  padding: 1em 1.3em 1em 1em;
   font-weight: bold;
 }
 
