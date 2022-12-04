@@ -263,14 +263,15 @@ blockquote {
     gap: 1em;
   }
   .promo-graphics li { 
-    max-height: 400px;
+    height: 400px;
     /*flex-shrink: 1;*/
     padding: 0.5em; 
   }
   
   .promo-graphics img {
     height: 100%;
-    width: calc(95% / 3);    
+    object-fit: cover;
+    /*width: calc(95% / 3);*/    
     padding: 0;
       /* border: 5px solid var(--blood); */
     }
