@@ -58,7 +58,6 @@ nav {
   }
   
 main {
-  box-sizing: content-box;
   width: 100%;
   flex: 1;
   min-width: 0;
@@ -144,26 +143,6 @@ ol>li::before {
 }
 
 
-/* TITLE STYLING */
-
-.blood-bg {
-  display: inline-block;
-  background-color: var(--blood);
-  color: var(--black);
-  font-size: 16px; 
-  margin: 2em 0 1em;
-  padding: 1em 1.3em 1em 1em;
-  font-weight: bold;
-}
-
-.gianttext { 
-  font-size: 50px; 
-  text-transform: uppercase;
-  font-family: arial;
-  line-height: 1.2em;
-}
-
-
 /* FOOTER */
 
 footer {
@@ -236,6 +215,24 @@ blockquote {
 }
 
 
+/* ARTICLES */
+
+.article {
+  box-sizing: content-box;
+  margin: 0 auto;
+  padding: 2em 3em 3em;
+  max-width: 590px;
+  min-width: 0;
+}
+  .introtext img, .article img {
+    margin: 1.5em 0 1em;
+    max-width: 95%;
+  }
+  .article h1 {
+    margin-top: 3em;
+  }
+
+
 /* COVER/INTRO PAGE */
 
 #cover {
@@ -274,8 +271,6 @@ blockquote {
       transition: all .4s linear;
     }
 
-
-
 #intro {
   width: 100%;
   background: url("/_img/bg/bg-reloaded.jpg");
@@ -298,33 +293,25 @@ blockquote {
   }
 
 
-/* GOTHIC BG */
+  
+/* HEADING STYLING */
 
-.gothic {
-  width: 100%;
-  background: url("/_img/bg/gothic-avallach-sm.jpg");
-  background-repeat: no-repeat;
-  background-size: 110% auto;
-  background-position: top;
+.blood-bg {
+  display: inline-block;
+  background-color: var(--blood);
+  color: var(--black);
+  font-size: 16px; 
+  margin: 2em 0 1em;
+  padding: 1em 1.3em 1em 1em;
+  font-weight: bold;
 }
-  .gothic .article {
-    margin: 20% auto 0;
-  }
 
-.article {
-  box-sizing: content-box;
-  margin: 0 auto;
-  padding: 2em 3em 3em;
-  max-width: 590px;
-  min-width: 0;
+.gianttext { 
+  font-size: 50px; 
+  text-transform: uppercase;
+  font-family: arial;
+  line-height: 1.2em;
 }
-  .introtext img, .article img {
-    margin: 1.5em 0 1em;
-    max-width: 95%;
-  }
-  .article h1 {
-    margin-top: 3em;
-  }
 
 .slogan {
   display: block;
@@ -334,6 +321,9 @@ blockquote {
   margin: 0em auto 1em;
   padding: 1em;
 }
+
+
+/* SUP/SUB-TEXTS */
 
 .suptext {
   font-size: 26px;
@@ -350,6 +340,21 @@ blockquote {
 
 .added { color: var(--demonic); }
 .changed { color: var(--ore); }
+
+
+
+/* CUSTOM BACKGROUNDS */
+
+.gothic {
+  width: 100%;
+  background: url("/_img/bg/gothic-avallach-sm.jpg");
+  background-repeat: no-repeat;
+  background-size: 110% auto;
+  background-position: top;
+}
+  .gothic .article {
+    margin: 20% auto 0;
+  }
 
 ::selection {
   background: var(--blood);
@@ -425,7 +430,7 @@ and (max-width : 820px) {
 
   body {
     box-sizing: content-box;
-    flex-wrap: wrap;
+    flex-direction: column;
     max-width: 100%;
   }
 
