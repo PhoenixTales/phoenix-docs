@@ -2,7 +2,7 @@
 
 <span class="changed">[WORK IN PROGRESS!]</span>
 
-<p>
+<p class="blood-bg">
     <span class="gianttext">
         The Vision<br> 
         of Gothic<br>
@@ -14,30 +14,24 @@
 
 > Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. (MCV USA 01/1998)
 
+**Mike:** It's true the games are getting better - in ways of graphical presentation but NOT, in my humble opinion, in ways of gameplay or a good story. Almost every fantasy game released recently is merely hack and slay but has practically no story. It's like the heart of the game has been ripped out! We will combine both a (hopefully) genuine story and an easy-to-use gameplay with an engine which is at a clearly higher technical level than RPGs normally used to have. (IGN, 11.06.1998)
+
 > The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine. And the game is already being touted by insiders for its breakthrough concepts. (MCV USA 01/1998)
 
+**Torsten:** The idea of Gothic is rather a long sought for realisation of all the things that were always missing in games. Practically it is rather a necessity. (SOURCE?)
 
-**Mike:** It's true the games are getting better - in ways of graphical presentation but NOT, in my humble opinion, in ways of gameplay or a good story. Almost every fantasy game released recently is merely hack and slay but has practically no story. It's like the heart of the game has been ripped out! We will combine both a (hopefully) genuine story and an easy-to-use gameplay with an engine which is at a clearly higher technical level than RPGs normally used to have.
-
-**Tom:** We founded Piranha Bytes because we wanted to produce games we want to play ourselves - that's what we want to achieve with Gothic.
-
-Torsten: Die Idee zu Gothic ist eher eine langersehnte Umsetzung all der Dinge die immer in Spielen gefehlt haben. Praktisch also eher eine Notwenigkeit.
-
-
-* Interview for IGN.com, 11.06.1998
+<!--**Torsten:** Die Idee zu Gothic ist eher eine langersehnte Umsetzung all der Dinge die immer in Spielen gefehlt haben. Praktisch also eher eine Notwenigkeit.-->
 
 
 
 
 
-"One of those concepts is "optical feedback", meaning that increases in the character's ability are readily visible as the player's skill level develops."
-(MCV USA 01/1998)
 
+**IGN: What's special about Gothic? Why is it different?**
 
-**What's special about Gothic? Why is it different?** (IGN)
+**Stefan:** Gothic is a roleplaying game for everyone. It's so easy to play the game, even my mother could do it, really. Gothic has the most intuitive and easiest user interface ever encountered around roleplaying games having this much content. And everything that has impact on the game, fighting, spellcasting, character-improvement can be seen in the gameworld rather than in dozens of menus or on character sheets with hundreds of numbers and tiny little bars. But under all this simplicity, there stands a full roleplaying game and no simple 3D shooter with swords. (IGN, 11.06.1998)
 
-**Stefan:** Gothic is a roleplaying game for everyone. It's so easy to play the game, even my mother could do it, really. Gothic has the most intuitive and easiest user interface ever encountered around roleplaying games having this much content. And everything that has impact on the game, fighting, spellcasting, character-improvement can be seen in the gameworld rather than in dozens of menus or on character sheets with hundreds of numbers and tiny little bars. But under all this simplicity, there stands a full roleplaying game and no simple 3D shooter with swords.
-
+**Mike:** The character development is based on visualization. Every enhancement of your characters skills and attributes will be shown in graphical effects like changing character animations, there are no more character stats. (src??)
 
 
 
@@ -91,4 +85,4 @@ Sources:
 
 
 
-Conclusions: As you are playing a role in a story, Story is by definition "the heart" of rpgs, thus an rpg has to be story-driven. 
+Conclusions: As you are playing a role in a story, Story is by definition "the heart" of rpgs, thus an rpg has to be story-driven. It should be simple to play with the most intuitive user interface imagineable while still being a complex roleplaying game underneath. 

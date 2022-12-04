@@ -137,11 +137,20 @@ ol>li::before {
   padding-left: 1.5em;
 }
 
+
+/* TITLE STYLING */
+
+.blood-bg {
+  background-color: var(--blood);
+  color: var(--black);
+  margin: 2em 0;
+  padding: 1em;
+  font-weight: bold;
+}
+
 .gianttext { 
-  padding: 2em 0 2em;
   font-size: 50px; 
   text-transform: uppercase;
-  font-weight: bold;
   font-family: arial;
   line-height: 1.2em;
 }
