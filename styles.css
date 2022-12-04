@@ -462,10 +462,10 @@ and (max-width : 820px) {
     margin: 0;
     padding: 0;
     overflow: auto;
-    position: relative;
+    position: static;
     border: none;
   }
-    .promo-graphics ul { flex-wrap: nowrap; gap: 1em; padding: 2em; }
+    .promo-graphics ul { flex-wrap: nowrap; gap: 1em; margin: 0; padding: 2em; }
     .promo-graphics li { max-height: none; height: 400px; flex-shrink: 0; }
 
     .promo-graphics img {
