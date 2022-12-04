@@ -1,8 +1,15 @@
 # THE VISION OF GOTHIC 
 
-<span class="changed">[WORK IN PROGRESS!]</span>
 
-... in the words of the Developers (in 1998).
+<p>
+    <span class="gianttext">
+        The Vision<br> 
+        of Gothic
+    </span>
+    ... in the words of the Developers (in 1998).
+</p>
+
+<span class="changed">[WORK IN PROGRESS!]</span>
 
 
 <p class="suptext">Other games suck, we do our own.</p>
