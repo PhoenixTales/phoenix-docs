@@ -350,7 +350,8 @@ blockquote {
 }
 
 .blueinfo {
-  background-color: var(--black);
+  background-color: var(--ore);
+  color: var(--black);
   border: none;
 }
 
