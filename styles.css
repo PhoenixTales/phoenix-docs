@@ -349,6 +349,11 @@ blockquote {
   margin: 2em 0;
 }
 
+.blueinfo {
+  background-color: var(--black);
+  border: none;
+}
+
 .added { color: var(--demonic); }
 .changed { color: var(--ore); }
 
