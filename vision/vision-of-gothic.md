@@ -17,7 +17,8 @@
 
 > Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. (MCV USA 01/1998)
 
-**Mike:** It's true the games are getting better - in ways of graphical presentation but NOT, in my humble opinion, in ways of gameplay or a good story. Almost every fantasy game released recently is merely hack and slay but has practically no story. It's like the heart of the game has been ripped out! We will combine both a (hopefully) genuine story and an easy-to-use gameplay with an engine which is at a clearly higher technical level than RPGs normally used to have. (IGN, 11.06.1998)
+**Mike:** It's true the games are getting better - in ways of graphical presentation but NOT, in my humble opinion, in ways of gameplay or a good story. Almost every fantasy game released recently is merely hack and slay but has practically no story. It's like the heart of the game has been ripped out!  
+We will combine both a (hopefully) genuine story and an easy-to-use gameplay with an engine which is at a clearly higher technical level than RPGs normally used to have. (IGN, 11.06.1998)
 
 > The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine. And the game is already being touted by insiders for its breakthrough concepts. (MCV USA 01/1998)
 
@@ -35,21 +36,6 @@
 **Mike:** The character development is based on visualization. Every enhancement of your characters skills and attributes will be shown in graphical effects like changing character animations, there are no more character stats. (src??)
 
 
-## Origins of Piranha Bytes?
-
-Sources: 
-* Interview for gamespot.com 15.06.1998
-* Interview for IGN.com, 11.06.1998
-
-**Delekhan:** Can you tell us the origin of Piranha Bytes? Who are the key individuals involved in the creation of GOTHIC? Have we encountered your work elsewhere?
-
-**Stefan Nyul:** [...] At Piranha Bytes there is just one key individual and that's the team. Everybody's work for GOTHIC is vital and so it would be unfair to elevate someone above the others.
-
-**Mike Hoge:** Forget about all the stuff we did before. [...] I had to carry out other people's instructions and ideas if I were confident with them or not. Mostly, I wasn't. That's why I got started with Piranha Bytes.
-
-**Tom Putzki:**  We founded Piranha Bytes because we wanted to produce games we want to play ourselves - that's what we want to achieve with Gothic.
-
-
 ## Making of a fantasy RPG
 
 **Delekhan:** Why did you decide to make a role-playing game?
@@ -65,22 +51,21 @@ Sources:
 **Michael Hoge:** When we started with GOTHIC, everyone used 3D engines to develop a 1st person shooter in a reality or sci-fi scenario and I was fed up with that. We liked the atmosphere of 3D games but wanted to bring a new aspect to it. Seems some other guys had the same idea. Fortunately, no one came too close to our vision of a 3D-RPG by now...
 
 
-## Why "Gothic"?
-
-**Delekhan:** "GOTHIC" is an interesting choice for the name of your game. Is it just a working-title or the actual title? 
-
-**Tom Putzki:** [...] GOTHIC is the actual title of our game. I like that kind of music and people, the black scene. It's dark, gloomy, mysterious, creepy and magic - that's GOTHIC.
+## Gameplay
 
 **Delekhan:** [...] Is gameplay real-time or turn-based?
 
 **Tom Putzki:** GOTHIC is a 3D-realtime-action-fantasy-RPG - nice title, isn't it?
-
 
 **Delekhan:** [...] what do you think will make your project, GOTHIC, stand out in the hearts and minds of RPG fans?
 
 **Stefan Nyul:** They will love it, because they don't have to learn the game. They just have to play it. No roleplaying game has ever had such easy to use controls while still having very deep gameplay. You start the game with very easy quests that every player can accomplish though having a hard job to finish the game. 
 
 **Michael Hoge:** Yes, some guys seem to work on swordfighting games and the like. Honestly, I believe that we can be in the top three titles from all of those. Why? We think we can differ a good idea from a bad one.
+
+
+TODO add core gameplay stuff, monster puzzles etc.
+
 
 
 
@@ -90,3 +75,11 @@ Sources:
 * An rpg is necessarily complex, the art is to translate this complexity into gameplay by the most simple and intuitive interface.
 * The means by which to achieve this simplicity is by the mechanics of radical visualisation and direct interaction instead of abstract statistics. 
 * Interaction with the gameworld and the simulated life therein (npcs and monsters) is at the core of this kind of rpg gameplay.
+
+
+```
+Author: Flosha
+
+Collected:  XY
+Summarised: 
+```

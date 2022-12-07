@@ -22,6 +22,24 @@ Now they would make their own game in their own company.
 
 
 
+
+## Origins of Piranha Bytes?
+
+Sources: 
+* Interview for gamespot.com 15.06.1998
+* Interview for IGN.com, 11.06.1998
+
+**Delekhan:** Can you tell us the origin of Piranha Bytes? Who are the key individuals involved in the creation of GOTHIC? Have we encountered your work elsewhere?
+
+**Stefan Nyul:** [...] At Piranha Bytes there is just one key individual and that's the team. Everybody's work for GOTHIC is vital and so it would be unfair to elevate someone above the others.
+
+**Mike Hoge:** Forget about all the stuff we did before. [...] I had to carry out other people's instructions and ideas if I were confident with them or not. Mostly, I wasn't. That's why I got started with Piranha Bytes.
+
+**Tom Putzki:**  We founded Piranha Bytes because we wanted to produce games we want to play ourselves - that's what we want to achieve with Gothic.
+
+
+
+
 ## Vision vs. Realisation
 
 * The Game was supposed to XY (based on the research in Gothic Vision/Aesthetics/Gameplay -> then concluding what of it was achieved and what not (+ speculation why etc.)
