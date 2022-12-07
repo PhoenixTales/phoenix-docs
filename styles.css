@@ -20,6 +20,7 @@
   --silver: #aaa;
   --stone: #5b5b5b;
   --link: #96574f;
+  --water: #006699;
 }
 
 body {
@@ -350,8 +351,7 @@ blockquote {
 }
 
 .blueinfo {
-  background-color: var(--ore);
-  color: var(--black);
+  background-color: var(--water);
   border: none;
 }
 
