@@ -14,7 +14,7 @@
 
 ... extensively documented in our design concept (short "Phoenix Docs") presented here in digital form, in which the index serves as the navigation.  
 
-<p class="subtext blueinfo">The docs are <span class="changed">work in progress</span>, they're currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of documents, regular changes to the Index are to be expected.</p>
+<p class="subtext blueinfo">The docs are <span class="orelight">work in progress</span>, they're currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release. Due to the current ongoing work on the order and internal structure of documents, regular changes to the Index are to be expected.</p>
 
 ... developed by [PhoenixTales](https://phoenixtales.de), a small indie-team of freely associated members from different corners of the world.
 

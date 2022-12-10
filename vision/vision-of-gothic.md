@@ -18,7 +18,7 @@
 > Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. (MCV USA 01/1998)
 
 **Mike:** It's true the games are getting better - in ways of graphical presentation but NOT, in my humble opinion, in ways of gameplay or a good story. Almost every fantasy game released recently is merely hack and slay but has practically no story. It's like the heart of the game has been ripped out!  
-We will combine both a (hopefully) genuine story and an easy-to-use gameplay with an engine which is at a clearly higher technical level than RPGs normally used to have. (IGN, 11.06.1998)
+We will combine both a (hopefully) <span class="orelight">genuine story</span> and an <span class="orelight">easy-to-use</span> gameplay with an engine which is at a clearly higher technical level than RPGs normally used to have. (IGN, 11.06.1998)
 
 > The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine. And the game is already being touted by insiders for its breakthrough concepts. (MCV USA 01/1998)
 
@@ -31,9 +31,9 @@ We will combine both a (hopefully) genuine story and an easy-to-use gameplay wit
 
 **IGN:** What's special about Gothic? Why is it different?
 
-**Stefan:** Gothic is a roleplaying game for everyone. It's so easy to play the game, even my mother could do it, really. Gothic has the most intuitive and easiest user interface ever encountered around roleplaying games having this much content. And everything that has impact on the game, fighting, spellcasting, character-improvement can be seen in the gameworld rather than in dozens of menus or on character sheets with hundreds of numbers and tiny little bars. But under all this simplicity, there stands a full roleplaying game and no simple 3D shooter with swords. (IGN, 11.06.1998)
+**Stefan:** Gothic is a roleplaying game for everyone. It's so <span class="orelight">easy</span> to play the game, even my mother could do it, really. Gothic has the most intuitive and <span class="orelight">easiest</span> user interface ever encountered around roleplaying games having this much content. And everything that has impact on the game, fighting, spellcasting, character-improvement can be <span class="orelight">seen</span> in the gameworld rather than in dozens of menus or on character sheets with hundreds of numbers and tiny little bars. But under all this <span class="orelight">simplicity</span>, there stands a full roleplaying game and no simple 3D shooter with swords. (IGN, 11.06.1998)
 
-**Mike:** The character development is based on visualization. Every enhancement of your characters skills and attributes will be shown in graphical effects like changing character animations, there are no more character stats. (src??)
+**Mike:** The character development is based on <span class="orelight">visualization</span>. Every enhancement of your characters skills and attributes will be shown in graphical effects like changing character animations, there are no more character stats. (src??)
 
 
 ## Making of a fantasy RPG
@@ -46,7 +46,7 @@ We will combine both a (hopefully) genuine story and an easy-to-use gameplay wit
 
 **Delekhan:** Why did you choose the medieval swords and sorcery genre?
 
-**Stefan Nyul:** Few genres allow to build up such a dense atmosphere. [...] In addition to that, the fantasy genre allows a wide variation for the player character. The mighty close combat-swordfighter, the clever and elusive archer, the vile cutthroat, the sinister fireball caster or the mystic controller of minds. Very different ways of mastering all the dangers.
+**Stefan Nyul:** Few genres allow to build up such a <span class="orelight">dense atmosphere</span>. [...] In addition to that, the fantasy genre allows a wide variation for the player character. The mighty close combat-swordfighter, the clever and elusive archer, the vile cutthroat, the sinister fireball caster or the mystic controller of minds. Very different ways of mastering all the dangers.
 
 **Michael Hoge:** When we started with GOTHIC, everyone used 3D engines to develop a 1st person shooter in a reality or sci-fi scenario and I was fed up with that. We liked the atmosphere of 3D games but wanted to bring a new aspect to it. Seems some other guys had the same idea. Fortunately, no one came too close to our vision of a 3D-RPG by now...
 
@@ -59,7 +59,7 @@ We will combine both a (hopefully) genuine story and an easy-to-use gameplay wit
 
 **Delekhan:** [...] what do you think will make your project, GOTHIC, stand out in the hearts and minds of RPG fans?
 
-**Stefan Nyul:** They will love it, because they don't have to learn the game. They just have to play it. No roleplaying game has ever had such easy to use controls while still having very deep gameplay. You start the game with very easy quests that every player can accomplish though having a hard job to finish the game. 
+**Stefan Nyul:** They will love it, because they don't have to learn the game. They just have to play it. No roleplaying game has ever had such <span class="orelight">easy to use</span> controls while still having very deep gameplay. You start the game with very easy quests that every player can accomplish though having a hard job to finish the game. 
 
 **Michael Hoge:** Yes, some guys seem to work on swordfighting games and the like. Honestly, I believe that we can be in the top three titles from all of those. Why? We think we can differ a good idea from a bad one.
 

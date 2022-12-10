@@ -359,6 +359,8 @@ blockquote {
 .added { color: var(--demonic); }
 .changed { color: var(--ore); }
 
+.orelight { color: var(--ore); }
+
 
 /* CUSTOM BACKGROUNDS */
 
