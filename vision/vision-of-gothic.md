@@ -71,9 +71,7 @@ TODO add core gameplay stuff, monster puzzles etc.
 
 ## Summary: 
 
-* Story is defined as "the heart" of rpgs; as you are playing a role in a story (or "drama"), the rpg <em>has</em> to be story-driven and as it is a game it has to be driven and told <em>by</em> gameplay.
-* An rpg (including its story) is necessarily complex, the art of rpg design is to translate this complexity into gameplay by the most simple and intuitive interface and the means by which to achieve this simplicity is by the mechanics of radical visualisation and direct interaction instead of abstract statistics. 
-* Exploration <em>of</em> and interaction <em>with</em> the gameworld (as the stage of the drama) and the simulated life therein (npcs and monsters) is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told. 
+Flosha: (1) Story is defined as "the heart" of rpgs; as you are playing a role in a story (or "drama"), the rpg <em>has</em> to be story-driven and as it is a game it has to be driven and told <em>by</em> gameplay. (2) An rpg (including its story) is necessarily complex, the art of rpg design is to translate this complexity into gameplay by the most simple and intuitive interface and the means by which to achieve this simplicity is by the mechanics of radical visualisation and direct interaction instead of abstract statistics. (3) Exploration <em>of</em> and interaction <em>with</em> the gameworld (as the stage of the drama) and the simulated life therein (AI) is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told. 
 
 
 ```
