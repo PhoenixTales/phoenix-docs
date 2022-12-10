@@ -360,6 +360,7 @@ blockquote {
 .changed { color: var(--ore); }
 
 .orelight { color: var(--ore); }
+.demonic { color: var(--demonic); }
 
 
 /* CUSTOM BACKGROUNDS */
