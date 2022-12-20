@@ -18,6 +18,10 @@ In the beginning we will analyse the meaning of Gothic as a term (where will hig
 
 ## Gothic Aesthetics
 
+Among the self-proclaimed fans of the franchise there is a large amount of people who love GOTHIC only for the immersive gameplay and lore that is characteristic to it (or at least what remained of it in the release version), while they do *not* consider actual gothic aesthetics as anything essential. In other words: They love Gothic not for how "gothic" it is.  
+They have a one-sided view that excludes essential characteristics of what Gothic should have been and what "gothic" is by definiton. A *complete* definition of Gothic cannot be given without gothic aesthetics or the particular "style" strived for and hinted at with the very name "Gothic".  
+
+
 In 04/2000, zoks.de released a preview titled: "GOTHIC - The Aesthetics of Evil" of which we want to quote some meaningful lines: 
 
 > What actually is and means "gothic"? In architecture it's those pointed arcs [...], but that hardly helps us to explain the game. Rather the (english) gothic novel of the 18th century: Mary Shellys "Frankenstein" is the most popular "gothic novel" - it develops further till Edgar Allen Poe, Howard Phillips Lovecraft, Dostojewski, as well as George Orwell.
@@ -164,7 +168,9 @@ We may think of Gothics gameplay principles as another aspect that is independen
 
 ## Gothic-like games
 
-Based on our definition, we have to conclude that the official successors of GOTHIC are not abiding the principles of gothic-like gamedesign. This is *not* a judgement on their value as games. What we state here is that they are no worthy successors; not only were they even more limited in their immersive sim aspects than GOTHIC from 2001 that was itself restricted in comparison to what was originally planned, they also did not improve any of the essential principles such as the visualisation and certainly not the story. But most importantly they have completely abandoned the gothic aesthetics. They have a gameplay like Gothic, but they aren't gothic-like. 
+A game that comes with a gameplay similar to Gothic but has no gothic aesthetics cannot be a gothic-like game, nor can a game that comes with Gothic aesthetics but lacks the gameplay characteristics be considered to be a gothic-like game.  
+
+Therefore we have to conclude that the official successors of GOTHIC are not abiding the principles of gothic-like gamedesign. This is *not* a judgement on their value as games. What we state here is that they are no worthy successors; not only were they even more limited in their immersive sim aspects than GOTHIC from 2001 that was itself restricted in comparison to what was originally planned, they also did not improve any of the essential principles such as the visualisation and certainly not the story. But most importantly they have completely abandoned the gothic aesthetics. They have a gameplay like Gothic, but they aren't gothic-like. 
 
 The Witcher series, especially Witcher 1, has more gothic aesthetics than any official Gothic game after GOTHIC from 2001 and they have done a great job in the story department; but while the developers even stated themselves how Gothic has inspired them, all of their games are less of an immersive simulation than any GOTHIC game. The world of Witcher 3 is filled with big, empty buildings of mere scenery and there is no social life neither of monsters and not even of NPCs, in complete opposition to the idea of a small game world without mere sceneric buildings and a simulated A-life. 
 
