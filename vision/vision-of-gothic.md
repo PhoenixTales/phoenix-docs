@@ -71,7 +71,8 @@ TODO add core gameplay stuff, monster puzzles etc.
 
 ## Summary
 
-**Flosha:** Above I tried to collect the most relevant ideas of the Gothic devs on their conception of the game; the concepts that they considered essential for what Gothic is, which was "already (...) touted by insiders for its breakthrough concepts" in 1998. Below I attempted to summarise essential concepts behind Gothic based on our research and our own understanding as it has shaped over the years of working on Phoenix:  
+**Flosha:** Above I tried to collect the most relevant ideas of the Gothic devs on their conception of the game; the concepts that they considered essential for what Gothic is, which was "already (...) touted by insiders for its breakthrough concepts" in 1998.  
+Below I attempted to summarise the essential concepts behind Gothic based on our research and our own understanding as it has shaped over the years of working on Phoenix:  
 
 (1) Story is defined as "the heart" of rpgs; as you are playing a role in a story (or "drama"), the rpg <em>has</em> to be story-driven and as it is a game it has to be driven and told <em>by</em> gameplay.  
 
