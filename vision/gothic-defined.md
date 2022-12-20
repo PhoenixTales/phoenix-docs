@@ -6,7 +6,7 @@ layout: gothic
 # Gothic (re)defined 
 
 **Author:** Flosha   
-**Status:** <span class="changed">Work in progress</span>
+**Status:** <span class="changed">Work in progress</span>  
 **Written:** 18.10.2022  
 **Changed:** 04.12.2022      
 
