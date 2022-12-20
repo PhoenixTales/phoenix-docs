@@ -19,8 +19,8 @@ In the beginning we will analyse the meaning of Gothic as a term (where we will 
 ## Gothic Aesthetics
 
 Among the self-proclaimed fans of the franchise there is a large amount of people who love GOTHIC only for the immersive gameplay and lore that is characteristic to it (or at least what remained of it in the release version), while they do *not* consider actual gothic aesthetics as anything essential. In other words: They love Gothic not for how "gothic" it is.  
-They have a one-sided view that excludes essential characteristics of what Gothic should have been and what "gothic" is by definiton. A *complete* definition of Gothic cannot be given without gothic aesthetics or the particular "style" strived for and hinted at with the very name "Gothic".  
 
+To us theirs is a one-sided view that excludes essential characteristics of what Gothic should have been and what "gothic" is by definiton. A *complete* definition of Gothic cannot be given without gothic aesthetics, the particular "style" strived for and hinted at with the very name "Gothic".  
 
 In 04/2000, zoks.de released a preview titled: "GOTHIC - The Aesthetics of Evil" of which we want to quote some meaningful lines: 
 
@@ -36,6 +36,10 @@ Interview for gamespot.com 15.06.1998:
 
 <p class="subtext">The Gothic story Sleeper's Ban by Alex Wittmann (described by Tom as "Punk, Physician, Surgeon, Roleplayer, Fantasy-Freak, Friend"), that is full of "shocking" descriptions (in german gothic novels are described as "Schauerromane"), can also be seen in this very tradition as a mixture of gothic novel and fantasy book, short: as gothic fantasy.</p>
 
+Gothic as a term in relation to the *style* of GOTHIC as a game is not primarily refering to high gothic architecture nor hinting at being part of the modern gothic subculture. The primary influence is that of gothic fiction, which is based on a romanticised view of the past, of decay and the signs of time. Destruction, ruins, rust and patina are what gothic stories are clad in. In this regard, gothic as a style is very close to the japanese wabi-sabi aesthetics, with the one difference that gothic stories, by definition, contain elements of gothic horror and that the very style that is idealised in wabi-sabi and romanticised by gothic authors is here at the same time used as a robe for the terror of the story (and in a game of the simulated world and life).  
+It is also true that the visionaries of Gothic were in the dark scene themselves or were inclined to it. And while the gothic scene is not the primary stilistic influence, it is still connected with it, as the subculture evolved from the very literary influence of gothic novels and their romanticising view on decay and, in the end, of death itself.  
+
+<p class="subtext">In the lore documentation the actual goths from early medieval times will play a role and will be pointed out as an inspiration, but here we want to focus on gothic as a style.</p>
 
 
 
