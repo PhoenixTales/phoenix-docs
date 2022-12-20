@@ -78,10 +78,9 @@ TODO add core gameplay stuff, monster puzzles etc.
 (3) Exploration <em>of</em> and interaction <em>with</em> the gameworld (as the stage of the drama) and the simulated life therein (AI) is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told.  
 
 
-```
-Author: Flosha
+**Author:** Flosha
+**Status:** <span class="changed">Work in progress</span>
 
-Collected:  XY
-Summarised: 10.12.22
-Status: <span class="changed">Work in progress</span>
+**Collected:**  XY
+**Summarised:** 10.12.22
 ```
