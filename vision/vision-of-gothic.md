@@ -1,7 +1,5 @@
 # Vision of Gothic
 
-<span class="changed">[WORK IN PROGRESS!]</span>
-
 <p class="blood-bg">
     <span class="gianttext">
         The Vision<br> 
