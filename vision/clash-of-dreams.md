@@ -1,5 +1,12 @@
 # Clash of Dreams
 
+```
+Author: Flosha
+Created: ...
+Changed: ...
+Status: <span class="changed">Work in progress</span>
+```
+
 <span class="changed">[WORK IN PROGRESS!]</span>
 
 TODO: Write on the Gothic Development History and the Sequel etc.

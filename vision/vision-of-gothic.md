@@ -1,7 +1,5 @@
 # Vision of Gothic
 
-<span class="changed">[WORK IN PROGRESS!]</span>
-
 <p class="blood-bg">
     <span class="gianttext">
         The Vision<br> 
@@ -81,9 +79,9 @@ Below I attempted to summarise the essential concepts behind Gothic based on our
 (3) Exploration <em>of</em> and interaction <em>with</em> the gameworld (as the stage of the drama) and the simulated life therein (AI) is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told.  
 
 
-```
-Author: Flosha
+**Author:** Flosha
+**Status:** <span class="changed">Work in progress</span>
 
-Collected:  XY
-Summarised: 10.12.22
+**Collected:**  XY
+**Summarised:** 10.12.22
 ```
