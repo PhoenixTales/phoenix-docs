@@ -242,11 +242,12 @@ blockquote {
 /* COVER/INTRO PAGE */
 
 #cover {
-  background: url("_img/bg/bg-friends.jpg");
-  background-position: bottom right;
-  background-size: 1508px;
+  background: url("_img/bg/PhoenixMask_AI_by_Arbax_and_adjusted_by_Flosha.png");
+  background-position: top center;
+  background-size: contain;
   background-repeat: no-repeat;
   width: 100%;
+  height: 100vh;
   padding: 4em 0 3em;
 }
 
@@ -364,6 +365,15 @@ blockquote {
 
 
 /* CUSTOM BACKGROUNDS */
+
+.vision {
+  background: url("_img/bg/bg-friends.jpg");
+  background-position: bottom right;
+  background-size: 1508px;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding: 4em 0 3em;
+}
 
 .gothic {
   width: 100%;

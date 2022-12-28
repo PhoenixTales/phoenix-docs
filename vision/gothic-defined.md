@@ -13,7 +13,9 @@ layout: gothic
 
 In order to create a gothic drama we have to define what "Gothic" is. Contrary to popular belief Gothic is not a mere game and its underlying concept, it is (or to be more precise "it was once supposed to be" and is to us) an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs.  
 
-In the beginning we will analyse the meaning of Gothic as a term (where we will highlight it as being made in the tradition of Gothic fiction) and the particular gothic aesthetics. We will then analyse Gothic as "another kind of fantasy" and compare gothic fantasy with common fantasy and gothic horror vs. cosmic horror. Based on the research of diverse documents and the interviews quoted in the "Vision of Gothic" we'll define principles of gothic-like gamedesign. We will then define "what Gothic is", both as a genre (gothic-aesthetics + gothic-gameplay) and as the actual game as it was envisioned. In the end we will make concrete examples of gothic-style and gothic-like gameplay in other games and games of the same franchise and in how far they fit the definition.
+In the beginning we will analyse the meaning of Gothic as a term (where we will highlight it as being made in the tradition of Gothic fiction) and the particular gothic aesthetics. We will then analyse Gothic as "another kind of fantasy" and compare gothic fantasy with common fantasy and gothic horror vs. cosmic horror. Based on the research of diverse documents and the interviews quoted in the "Vision of Gothic" we'll define principles of gothic-like gamedesign.  
+
+We will then define "what Gothic is", both as a genre (gothic-aesthetics + gothic-gameplay) and as the actual game as it was envisioned. In the end we will make concrete examples of gothic-style and gothic-like gameplay in other games and games of the same franchise and in how far they fit the definition.
 
 
 ## Gothic Aesthetics
@@ -55,7 +57,22 @@ Gothic *is* dark fantasy, which hints at its horror elements and its characteris
 
 Gothic fiction is by definition romantic (in the traditional sense). One of its core features is "the intrusion of the past upon the present", "the present being hunted by the past". Gothic is not gothic without this threatening past as a crucial element both for atmosphere (how the game world is presented where time has taken its toll on everything) as well as for the story (e.g. how the past of characters is hunting them, how the consequences of the war hunt the present kingdom, how ancient rituals and prophecies play a role in the tragedy of today).    
 
-In the same way Gothic is also low fantasy, ....  
+In the same way Gothic is also low fantasy. Low fantasy is   
+
+Mike specifically strived to create a fantasy world of creatures as you would not find them in any other common fantasy universe. Being fantasy of course they were inspired by Lord of the Rings and other popular fantasy fiction, but for him it was essential to make them unique. Originally even the Orcs were not supposed to have that common name. Partly inspired by H.G. Wells Time Machine, internally the name "Morlocks" was used for the Half-Orcs (half men, half orcs) that were originally supposed to be in the game and some of them were supposed to live among the other humans. And the later orcs too, according to the Gothic lore, were once living with the humans in peace on the surface of the earth. Just as the *Homo neanderthalensis* coexisted with the *Homo sapiens* in our world, it is very similar with humans and Orcs in Gothic, just that they continued to coexist and that the Orcs developed differently, from an evolutionary standpoint, because they started to live underground since thousands of years because of the racism of the humans and the wars on the surface, as the early lore informs us. 
+
+Independent from that, the orcish Culture in Gothic is different from the one in other fantasy universes. The shamans play a crucial role and are mainly inspired by real-world voodoo cults.  
+
+Yes, there are Skeletons, Zombies, Harpyies (added very shortly before release), Goblins and Trolls, something like the "staples" of fantasy monsters (but as well part of any folklore and horror story way before modern "fantasy" stories were written). But the Goblins for instance (originally called "Gobbos" in Gothic) got a very different design than usual. They are no mammals, they are reptiles with scales and hatch out of eggs. The Trolls are nothing but huge apes, similar to Gorillas (and originally they were smaller), as they also could have existed in the past, living in synergy with the Gobbos.
+
+And then there are all the *actually* unique monsters of the colony: Scavengers and Molerats, Snappers and Lurkers, Bloodflies and Swampsharks, Crawlers and Meatbugs, Shadowbeasts, Orc Dogs and Wolfs. Why Wolfs you may ask? As I said before: In the Colony, every monster was supposed to be unique, the wolf being no exception. Only in later versions he was replaced by a conventional wolf design. Some of the monsters are inspired by saurians (such as Scavengers and Snappers), the Shadowbeast is just the gothic version of a bear and so on. 
+
+At the beginning of the game the player is introduced to Scavengers by a hunter with the words "that is how we call these large birds". The simple reason why the player character has to be introduced to them alongside with the player himself is that the Scavengers are *not* to be found outside of the Colony, just as many other monsters of this world were not supposed to be. They are unique to the colony just as the magical ore was supposed to be unique to the colony and not to be found in other regular mines of the kingdom; it's a special kind of ore only to be found in the mines near the city of Khorinis (which was not supposed to be an island) for reasons. 
+
+In the colony there is this "magical" ore, in the colony there are those strange creatures, mutated apes and wolfs; in the outside world they are not to be found or not in this form. They are unique to the colony due to the colonies specific magical properties and psi emissions, the source of which the player was supposed to discover; just as the radioactivity and the psi emissions in the zone of STALKER. Outside of the colony there lies a more "normal world", just as a "normal world" surrounds the Chornobyl Exclusion Zone. 
+
+Morrowind - which I think is amazing; so that is not to be seen as a critique - is an example of High Fantasy and in this way it is completely different than the Low Fantasy that Gothic was supposed to be. There is a bunch of races, including elves, the lizard-like argonians and cat-like khajits; magic is everywhere and normal. In Gothic, magic is rare, 
+
 
 To summarise: Gothic is both dark and low fantasy, but as a genre it is not equivalent to either; while it shares many of their characteristics it also includes the traditional elements of gothic fiction. 
 

@@ -107,9 +107,9 @@
 		2. The Team behind Phoenix
 		3. Creating the ASCII Art
 	2. Essays
-		1. Phoenix & the Rescue of Design
-		2. Behind the Eyes of Elliot
-		3. Art and the Demonic Threat 
+		1. [Phoenix & the Rescue of Design](https://phoenixthegame.com/specials/20thAnniversary/AJourneyToMike.html)
+		2. [Behind the Eyes of Elliot](https://phoenixthegame.com/specials/20thAnniversary/BehindTheEyesOfElliot.html)
+		3. [Art and the Demonic Threat](https://phoenixthegame.com/specials/20thAnniversary/ArtAndTheDemonicThreat.html) 
 6. Inspirations
 7. Credits
 
