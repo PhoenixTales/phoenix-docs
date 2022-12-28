@@ -242,12 +242,12 @@ blockquote {
 /* COVER/INTRO PAGE */
 
 #cover {
-  background: url("_img/bg/PhoenixMask_AI_by_Arbax_and_adjusted_by_Flosha.png");
+  background: url("_img/bg/PhoenixMask_AI_by_Arbax_and_adjusted_by_Flosha-V2.png");
   background-position: top center;
-  background-size: contain;
+  background-size: 100%;
   background-repeat: no-repeat;
   width: 100%;
-  height: 100vh;
+  height: 80vh;
   padding: 4em 0 3em;
 }
 
@@ -512,7 +512,7 @@ and (max-width : 820px) {
 
   #cover {
     padding: 3em 0 3em;
-    background: none;
+    /* background: none; */
   }
 
   .gothic {
