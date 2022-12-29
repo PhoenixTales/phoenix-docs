@@ -37,6 +37,8 @@ body {
 }
 
 nav {
+  position: absolute;
+
   font-size: 14px;
   padding: 1.5em 2.5em 5em;
   border-right: 5px solid var(--dark);
@@ -394,7 +396,7 @@ blockquote {
 
 #menu-toggle,
 label[for="menu-toggle"]  {
-  display: none;
+  /*display: none;*/
 }
 
 @media only screen
