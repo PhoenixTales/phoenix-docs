@@ -247,7 +247,7 @@ blockquote {
   background-size: contain;
   background-repeat: no-repeat;
   width: 100%;
-  padding: 4em 0 3em;
+  padding: 0 0 3em;
 }
 
 .phnx-mask {
@@ -295,7 +295,8 @@ blockquote {
   .logo {
     display: block;
     margin: 0 auto;
-    max-width: 100%;
+    width: 100%;
+    max-width: 1300px;
   }
   .introtext {
     margin: 10em auto 0;
