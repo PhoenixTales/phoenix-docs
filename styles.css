@@ -331,7 +331,7 @@ blockquote {
   color: #b5aca6;
   max-width: 330px;
   margin: 0em auto 1em;
-  padding: 1em;
+  padding: -2em 1em 1em;
 }
 
 
@@ -511,6 +511,7 @@ and (max-width : 820px) {
 
   #cover {
     padding: 3em 0 3em;
+    width: 110%;
     /* background: none; */
   }
 
