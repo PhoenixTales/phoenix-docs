@@ -460,7 +460,7 @@ and (max-width : 820px) {
   }
 
   main {
-    padding: 2em 0;
+    padding: 0;
     position: relative;
   }
 
