@@ -296,7 +296,7 @@ blockquote {
     display: block;
     margin: 0 auto;
     width: 100%;
-    max-width: 1300px;
+    max-width: 1000px;
   }
   .introtext {
     padding: 3em;
