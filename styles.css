@@ -49,7 +49,7 @@ nav {
 
 nav img {
     display: block;
-    width: 290px;
+    width: 100%;
     margin: 0 auto 3em;
     transition: all 0.3s ease-out;
     -webkit-transition: all 0.3s ease-out;
@@ -593,6 +593,10 @@ and (max-width : 820px) {
 
   nav {
     width: 100%;
+  }
+
+  nav img {
+    display: none;
   }
 
   #intro {
