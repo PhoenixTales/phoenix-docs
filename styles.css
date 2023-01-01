@@ -540,70 +540,74 @@ nav .left ol, nav .left ul {
 }
 
 
-label[for="menu-toggle"] {
-  display: block;
-  width: 100px;
-  padding: 2px 20px 0.5em;
-  color: var(--light);
-  
-  border-top: 5px solid var(--blood);
-
-  font-weight: 500;
-  user-select: none;
-  cursor: pointer;
-  padding-bottom: 2px;
-  position: relative;
-  z-index: 10;
-}
-  label[for="menu-toggle"]:hover {
-    background-color: var(--blood);
-    color: var(--black);
-  } 
-
-.menu-title {
-  margin-top: -35px;
-  margin-left: 27px;
-  font-size: 14px;
-  font-family: monospace;
-  text-transform: uppercase;
-}
-
-label[for="menu-toggle"]::selection {
-  /*background: #000000e0;*/
-  color: inherit;
-}
-
-label[for="menu-toggle"] > .menu-icon {
-  font-size: 205%;
-  font-family: Helvetica, Arial, sans-serif;
-  color: var(--blood);
-}
-
-
-
-label[for="menu-toggle"]:hover > .menu-icon {
-  color: var(--black);
-}
-
-#menu-toggle:not(:checked) ~ *:not(label[for="menu-toggle"]) {
-  display: none;
-}
-
-#menu-toggle:checked ~ label[for="menu-toggle"]{
-  margin-bottom: 40px;
-}
-
-@supports (backdrop-filter: blur(10px)) {
-  nav,
-  label[for="menu-toggle"]::selection {
-    backdrop-filter: blur(10px);
-    background: rgba(0, 0, 0, 0.8);
-  }
-}
 
 
 @media only screen
 and (max-width : 820px) {
+
+  label[for="menu-toggle"] {
+    display: block;
+    width: 100px;
+    padding: 2px 20px 0.5em;
+    color: var(--light);
+    
+    border-top: 5px solid var(--blood);
+  
+    font-weight: 500;
+    user-select: none;
+    cursor: pointer;
+    padding-bottom: 2px;
+    position: relative;
+    z-index: 10;
+  }
+    label[for="menu-toggle"]:hover {
+      background-color: var(--blood);
+      color: var(--black);
+    } 
+  
+  .menu-title {
+    margin-top: -35px;
+    margin-left: 27px;
+    font-size: 14px;
+    font-family: monospace;
+    text-transform: uppercase;
+  }
+  
+  label[for="menu-toggle"]::selection {
+    /*background: #000000e0;*/
+    color: inherit;
+  }
+  
+  label[for="menu-toggle"] > .menu-icon {
+    font-size: 205%;
+    font-family: Helvetica, Arial, sans-serif;
+    color: var(--blood);
+  }
+  
+  
+  
+  label[for="menu-toggle"]:hover > .menu-icon {
+    color: var(--black);
+  }
+  
+  #menu-toggle:not(:checked) ~ *:not(label[for="menu-toggle"]) {
+    display: none;
+  }
+  
+  #menu-toggle:checked ~ label[for="menu-toggle"]{
+    margin-bottom: 40px;
+  }
+  
+  @supports (backdrop-filter: blur(10px)) {
+    nav,
+    label[for="menu-toggle"]::selection {
+      backdrop-filter: blur(10px);
+      background: rgba(0, 0, 0, 0.8);
+    }
+  }
+  
+
+
 
   body {
     flex-direction: column;
