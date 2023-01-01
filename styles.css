@@ -43,8 +43,6 @@ nav {
   z-index: 2;
 }
 
-.cover-nav { background-color: initial; }
-
 nav img {
     display: block;
     width: 90%;
@@ -487,7 +485,7 @@ nav {
 }
 
 .cover-nav {
-  width: auto;
+  position: absolute;
   box-shadow: 0 0 20px 20px rgba(0,0,0,.8);
 }
 
