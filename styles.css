@@ -304,6 +304,7 @@ blockquote {
 
   .cover-nav img {
     display: none;
+    border-right: none;
   }
 
 
@@ -475,6 +476,7 @@ nav {
   overflow: hidden;
   z-index: 2;
 
+  border-right: 5px solid var(--dark);
   box-shadow: 0 0 20px 20px rgba(0,0,0,.8);
 }
 
