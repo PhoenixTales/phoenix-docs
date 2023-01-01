@@ -267,6 +267,7 @@ blockquote {
   padding: 0;
   flex: 1;
 
+  left: -200px;
   position: relative;
 }
 
