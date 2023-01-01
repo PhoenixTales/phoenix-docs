@@ -64,9 +64,10 @@ nav img {
 main {
  padding: 0 5%;
  min-width: 0;
+ flex: 1;
+
  /* order: 1;
   width: 100%;
-  flex: 1;
   min-width: 0;
   padding: 0;
   z-index: 1;
