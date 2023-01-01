@@ -310,7 +310,7 @@ blockquote {
 
   .cover-nav { border: none; }
     .cover-nav img { display: none; }
-    .cover-nav .top { left: 200px; }
+    /*.cover-nav .top { left: 200px; }*/
 
 /*
 .phnx-mask {
@@ -509,7 +509,7 @@ nav .left ol, nav .left ul {
   nav .top {
     position: absolute;
     /*background-color: var(--dark);*/
-    left: 110px;
+    right: 20px;
     z-index: 20;
   }
 
@@ -624,6 +624,7 @@ and (max-width : 820px) {
     position: absolute;
     width: 100%;
     font-size: 15px;
+    border-right: none;
   }
 
   nav img {
