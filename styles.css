@@ -302,6 +302,10 @@ blockquote {
     color: #7a6d63;
   }
 
+  .cover-nav img {
+    display: none;
+  }
+
 
 /*
 .phnx-mask {
