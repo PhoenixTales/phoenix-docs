@@ -1,5 +1,7 @@
 # Gothic (re)defined 
 
+![Gothic defined](/_img/headings/gothic-defined.png)
+
 **Author:** Flosha  
 **Status:** <span class="changed">Work in progress</span>  
 **Written:** 18.10.2022  
@@ -103,11 +105,18 @@ Vergleiche Spiele mit ähnlicher Stilrichtung dieser Zeit: Evil Twin: Cyprien’
 
 
 ## Principles of Gothic-like Gamedesign
+## An Immersive Sim
 
-<p class="suptext">
-    „Other games suck,<br> 
-    we make our own.“
-</p>
+* Write on how Gothic was influenced by Immersive Sims (History of those)
+* Summarise principles of the Immersive Sim: Rather a QUALITY of games
+    instead of a "genre" of games. There can be ImSim Shooters, ImSim RPGs etc.
+* Write on the inspirations of the Mad Scientists
+
+* Write on how Gothic wanted to further develop immersive sim principles
+    -> The official successors to Gothic didn't do anything
+       to develop Gothic further as an immersive sim.
+
+
 
 In order to do that we have to consider what the four visionaries of GOTHIC (Mike Hoge, Alex Brüggemann, Stefan Nyul and Tom Putzki) themselves said about their game, especially during the concept phase and in early development. How did they promote it, how did they speak about it, what did they consider most important about GOTHIC? 
 
