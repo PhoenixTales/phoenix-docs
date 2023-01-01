@@ -301,10 +301,8 @@ blockquote {
     color: #7a6d63;
   }
 
-  .cover-nav img {
-    display: none;
-    border-right: none;
-  }
+  .cover-nav { border-right: none; }
+    .cover-nav img { display: none; }
 
 
 /*
