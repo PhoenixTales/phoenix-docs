@@ -2,6 +2,10 @@
 
 # Phoenix Concept
 
+Design Documents of [Phoenix](/), a gothic drama
+as an immersive sim rpg in third person.  
+Authors: Flosha, logx, Arbax, Avallach
+
 ## Index
 
 1. Vision
