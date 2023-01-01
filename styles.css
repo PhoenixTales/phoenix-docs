@@ -46,7 +46,7 @@ nav {
 nav img {
     display: block;
     width: 90%;
-    margin: 0 0 3em;
+    margin: 50px 0 0;
     transition: all 0.3s ease-out;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
@@ -309,7 +309,7 @@ blockquote {
 
   .cover-nav { border: none; }
     .cover-nav img { display: none; }
-    .cover-nav .top { left: 150px; }
+    .cover-nav .top { left: 200px; }
 
 /*
 .phnx-mask {
