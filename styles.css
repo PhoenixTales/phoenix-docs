@@ -354,7 +354,7 @@ blockquote {
     margin: 0 auto;
     width: 100%;
     max-width: 500px;
-    margin: 345px auto 2em;
+    padding: 345px auto 2em;
 
   }
   .introtext {
