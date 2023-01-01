@@ -55,7 +55,7 @@ nav img {
     -o-transition: all 0.3s ease-out;
   }
     nav img:hover {
-      transform: scale(1.1);
+      transform: brightness(0.7);
       transition: all 0.3s ease-out;
       -webkit-transition: all 0.3s ease-out;
       -moz-transition: all 0.3s ease-out;
