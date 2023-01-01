@@ -266,9 +266,6 @@ blockquote {
   margin-top: 37px;
   padding: 0;
   flex: 1;
-
-  left: -200px;
-  position: relative;
 }
 
   #cover .nyxsign {
@@ -501,12 +498,7 @@ nav {
   }
 */
 
-audio {
-  filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%);
-  width: 300px;
-  height: 35px;
-  margin: 0 auto 20px;
-}
+
 
 nav .left ol, nav .left ul {
   font-size: 15px;
@@ -546,6 +538,66 @@ nav .left ol, nav .left ul {
   margin: 2em 0 4em;
 }
 
+
+.cover-nav label[for="menu-toggle"] {
+  display: block;
+  width: 100px;
+  padding: 2px 20px 0.5em;
+  color: var(--light);
+  
+  border-top: 5px solid var(--blood);
+
+  font-weight: 500;
+  user-select: none;
+  cursor: pointer;
+  padding-bottom: 2px;
+  position: relative;
+  z-index: 10;
+}
+  .cover-nav label[for="menu-toggle"]:hover {
+    background-color: var(--blood);
+    color: var(--black);
+  } 
+
+.cover-nav label[for="menu-toggle"]::selection {
+  /*background: #000000e0;*/
+  color: inherit;
+}
+
+.cover-nav label[for="menu-toggle"] > .menu-icon {
+  font-size: 205%;
+  font-family: Helvetica, Arial, sans-serif;
+  color: var(--blood);
+}
+
+.menu-title {
+  margin-top: -35px;
+  margin-left: 27px;
+  font-size: 14px;
+  font-family: monospace;
+  text-transform: uppercase;
+}
+
+
+.cover-nav label[for="menu-toggle"]:hover > .menu-icon {
+  color: var(--black);
+}
+
+.cover-nav #menu-toggle:not(:checked) ~ *:not(label[for="menu-toggle"]) {
+  display: none;
+}
+
+.cover-nav #menu-toggle:checked ~ label[for="menu-toggle"]{
+  margin-bottom: 40px;
+}
+
+@supports (backdrop-filter: blur(10px)) {
+  nav,
+  label[for="menu-toggle"]::selection {
+    backdrop-filter: blur(10px);
+    background: rgba(0, 0, 0, 0.8);
+  }
+}
 
 
 
