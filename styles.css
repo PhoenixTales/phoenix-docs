@@ -557,7 +557,8 @@ label[for="menu-toggle"]::selection {
 }
 
 label[for="menu-toggle"] > .menu-icon {
-  font-size: 200%;
+  font-size: 250%;
+  /*font-family: Helvetica, Arial, sans-serif;*/
   color: var(--blood);
   /*position: relative;*/
   top: 3px;
