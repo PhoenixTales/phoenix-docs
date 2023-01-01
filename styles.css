@@ -63,6 +63,7 @@ nav img {
 
 main {
  padding: 0 5%;
+ min-width: 0;
  /* order: 1;
   width: 100%;
   flex: 1;
@@ -705,6 +706,7 @@ and (max-width : 820px) {
 
   .introtext, .article {
     max-width: 100%;
+    min-width: 0;
     margin: 0;
   }
     .introtext { padding: 2em 1.5em 2em; }
