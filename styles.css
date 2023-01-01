@@ -482,6 +482,9 @@ nav {
   z-index: 2;
 
   border-right: 5px solid var(--dark);
+}
+
+.cover-nav {
   box-shadow: 0 0 20px 20px rgba(0,0,0,.8);
 }
 
