@@ -197,10 +197,9 @@ pre {
   }
 
 code {
-  background: var(--dark);
-  color: var(--black);
+  background: var(--darker);
   border-radius: 7px;
-  padding: 0 0.2em;
+  padding: 0;
   font-family: monospace; 
   display: inline-block;  
 }
