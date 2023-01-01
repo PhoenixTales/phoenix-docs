@@ -69,19 +69,19 @@ TODO add core gameplay stuff, monster puzzles etc.
 
 ## Summary
 
-**Flosha:** Above I tried to collect the most relevant ideas of the Gothic devs on their conception of the game; the concepts that they considered essential for what Gothic is, which was "already (...) touted by insiders for its breakthrough concepts" in 1998.  
-Below I attempted to summarise the essential concepts behind Gothic based on our research and our own understanding as it has shaped over the years of working on Phoenix:  
+**Flosha:** Above I tried to collect the most relevant ideas of the Gothic devs on their conception of the game; the concepts that they considered essential for what Gothic is, which was already "touted by insiders for its breakthrough concepts" in 1998.  
+Below I attempted to summarise the essential concepts behind Gothic based on our research and our own understanding as it has shaped over the years:  
 
-(1) Story is defined as "the heart" of rpgs; as you are playing a role in a story (or "drama"), the rpg <em>has</em> to be story-driven and as it is a game it has to be driven and told <em>by</em> gameplay.  
+(1) Story is defined as "the heart" of rpgs; as you are playing a role in a story (or "drama"), the rpg <em>has</em> to be story-driven and as it is a game it has to be driven <em>by</em> gameplay.  
 
-(2) An rpg (including its story) is necessarily complex; the art of rpg design is to translate this complexity into gameplay by the most simple and intuitive interface and the means by which to achieve this simplicity is by the mechanics of radical visualisation and direct interaction instead of abstract statistics.  
+(2) An rpg (and its story) is necessarily complex; the art of rpg design is to translate this complexity into gameplay by the most simple and intuitive interface; the means by which to achieve this simplicity is by radical visualisation and direct interaction instead of abstract statistics.  
 
-(3) Exploration <em>of</em> and interaction <em>with</em> the gameworld (as the stage of the drama) and the simulated life therein (AI) is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told.  
+(3) Exploration <em>of</em> and interaction <em>with</em> the gameworld and the simulated life therein is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told.  
 
 
-**Author:** Flosha
-**Status:** <span class="changed">Work in progress</span>
+**Author:** Flosha  
+**Status:** <span class="changed">Work in progress</span>  
 
-**Collected:**  XY
-**Summarised:** 10.12.22
-```
+**Collected:**  XY  
+**Summarised:** 10.12.22  
+
