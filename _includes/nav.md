@@ -8,9 +8,9 @@
 	1. [Introduction](/)
 	2. [Vision of Gothic](/vision/vision-of-gothic.html)
     2. [Gothic (re)defined](/vision/gothic-defined.html)
-	3. [A Clash of Dreams](/vision/clash-of-dreams.html)
-	4. [Phoenix Rising](/vision/projectgoal+designphilosophy.html)
-	5. [Reconstruction](/vision/reconstruction.html)
+	3. A Clash of Dreams
+	4. Phoenix Rising
+	5. Reconstruction
 2. Mechanics
 	1. Classes
 	2. [Attributes](/mechanics/attributes.html)
