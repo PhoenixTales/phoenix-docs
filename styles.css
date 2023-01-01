@@ -139,6 +139,7 @@ a:hover {
 
 nav .left ol, nav .left ul {
   list-style-type: none;
+  font-size: 14px;
   counter-reset: item;
   padding-left: 0;
   padding-bottom: 0.5em;
@@ -268,7 +269,7 @@ blockquote {
   background-repeat: no-repeat;
   /*height: 870px;*/
   width: 100%;
-  margin-top: 47px;
+  margin-top: 37px;
   padding: 0;
 }
 
@@ -474,7 +475,7 @@ label[for="menu-toggle"]  {
 
 nav {
   width: 400px;
-  font-size: 14px;
+  font-size: 15px;
   font-family: 'Ubuntu Mono', monospace;
   margin: 0;
   padding: 0 1em;
@@ -498,6 +499,11 @@ nav {
     z-index: 11;
   }
 */
+
+
+nav .left ol, nav .left ul {
+  font-size: 15px;
+}
 
   nav .top {
     position: absolute;
@@ -552,7 +558,7 @@ label[for="menu-toggle"] {
   label[for="menu-toggle"]:hover {
     background-color: var(--blood);
     color: var(--black);
-  }
+  } 
 
 .menu-title {
   margin-top: -35px;
