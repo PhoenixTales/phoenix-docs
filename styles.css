@@ -657,6 +657,11 @@ and (max-width : 820px) {
     padding: 0;
   }*/
 
+  .cover-nav .top { 
+    left: initial;
+    right: 20px; 
+  }
+
   #cover .nyxsign {
     margin: 0 auto;
   }
