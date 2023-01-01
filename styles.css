@@ -265,6 +265,7 @@ blockquote {
   width: 100%;
   margin-top: 37px;
   padding: 0;
+  flex: 1;
 }
 
   #cover .nyxsign {
