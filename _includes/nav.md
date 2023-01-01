@@ -1,6 +1,6 @@
 <a href="/"><img src="/_img/phnx-logo-2023b.png" alt="Phoenix Logo"></a>
 
-# [Phoenix](/) Concept
+# Phoenix Concept
 
 ## Index
 
