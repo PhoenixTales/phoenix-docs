@@ -117,3 +117,9 @@
 ### Appendix
 
 * Soon
+
+
+<p class="doc-pdf">
+<!-- Download the Docs -->
+<!-- Physical Print -->
+</p>
