@@ -262,7 +262,7 @@ blockquote {
   background-size: 800px;
   background-repeat: no-repeat;
   /*height: 870px;*/
-  max-width: 800px;
+  width: 100%;
   margin-top: 37px;
   padding: 0;
   flex: 1;
@@ -507,7 +507,7 @@ nav .left ol, nav .left ul {
 }
 
   nav .top {
-    position: absolute;
+    position: relative;
     /*background-color: var(--dark);*/
     right: 20px;
     z-index: 20;
