@@ -474,7 +474,7 @@ nav {
   margin: 0;
   padding: 0 1em;
 
-  position: absolute;
+  /*position: absolute;*/
   left: 0;
   right: 0;
   overflow: hidden;
@@ -496,11 +496,8 @@ nav {
 
 audio {
   filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
-  width: 150px;
+  width: 250px;
   height: 25px;
-  position: absolute;
-  right: 0;
-  top: 0;
 }
 
 nav .left ol, nav .left ul {
@@ -622,6 +619,7 @@ and (max-width : 820px) {
   }
 
   nav {
+    position: absolute;
     width: 100%;
     font-size: 15px;
   }
