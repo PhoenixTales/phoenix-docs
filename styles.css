@@ -53,7 +53,7 @@ nav img {
     -o-transition: all 0.3s ease-out;
   }
     nav img:hover {
-      transform: brightness(0.7);
+      filter: brightness(0.5);
       transition: all 0.3s ease-out;
       -webkit-transition: all 0.3s ease-out;
       -moz-transition: all 0.3s ease-out;
