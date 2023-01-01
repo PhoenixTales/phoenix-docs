@@ -107,10 +107,9 @@ h4::before { content: "####"; }
 h5::before { content: "#####"; }
 h6::before { content: "######"; }
 
-nav h1+h2 { 
+nav h1, nav h2 { 
   font-weight: normal; 
   text-transform: uppercase; 
-  font-size: 14px; 
 }
 
 h1::before, h2::before, h2::before, h3::before, h4::before, h5::before, h6::before {
