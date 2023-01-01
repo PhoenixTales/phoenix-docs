@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!-- Copyright (c) 2021 fsoci.al <[..]@fsoci.al> CC BY-NC 4.0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48">
+<g transform="translate(0,56) scale(0.1,-0.1)" stroke="none" fill="#fff">
+<path d="M80 480 l0 -80 -40 0 -40 0 0 -40 0 -40 40 0 40 0 0 -160 0 -160 40 0 40 0 0 160 0 160 40 0 40 0 0 40 0 40 -40 0 -40 0 0 40 0 40 40 0 40 0 0 40 0 40 -80 0 -80 0 0 -80z"/>
+<path d="M260 320 l0 -80 -40 0 -40 0 0 -40 0 -40 80 0 80 0 0 80 0 80 40 0 40 0 0 40 0 40 -80 0 -80 0 0 -80z"/>
+</g>
+</svg>

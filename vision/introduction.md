@@ -2,7 +2,7 @@
 
 ![Phoenix is... ](/_img/headings/phoenix-is.png)
 
-... a gothic drama narrated like a greek tragedy with the game world serving as the stage - to present a meaningful story, acted out like a virtual tale, a philosophical reflection and a timeless allegory with different plots depending on the player's decisions and playstyle.  
+... a gothic drama narrated like a greek tragedy with the game world serving as the stage to present a meaningful story, acted out like a virtual tale, a philosophical reflection and a timeless allegory with different plots depending on the player's decisions and playstyle.  
  
 ... an immersive sim set in a mystic valley full of conflict, decay and atmospheric density; completely designed by hand it bears a unique aesthetics clad in retro graphics, with a gameplay focused on immersion by visualisation: No numbers, no statistics, just roleplay.
 
@@ -10,7 +10,7 @@
 
 <p class="subtext">PHOENIX is not an official title of the GOTHIC franchise, it's an independent and non-commercial project by PhoenixTales.</p>
 
-... a realisation of the unfulfilled and fragmented dream, PHOENIX is the mosaic, a reconstruction of "the Alpha" of GOTHIC that had *Phoenix* as its working title, which is why we have chosen it as the name under which we aspire to realise the dream; the ressources in our Archive and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research" on the basis of which we continue the development of this dream of a game and develop it further without compromises and beyond corporate constraints.   
+... a realisation of the unfulfilled and fragmented dream, PHOENIX is the mosaic, a reconstruction of "the Alpha" of GOTHIC that had *Phoenix* as its working title, which is why we have chosen it as the name under which we aspire to realise the dream; the ressources in our Archive and the underlying design philosophy and artstyle are analysed in a collective effort of "alpha research" on the basis of which we continue the development where they left off, without compromises and beyond corporate constraints.   
 
 ... extensively documented in our design concept (short "Phoenix Docs") presented here in digital form, in which the index serves as the navigation.  
 
@@ -21,14 +21,14 @@
 ... released when it's done. 
 
 
-```
-Author: Flosha   Written: 29.11.2022  
-                 Changed: 30.11.2022  
-```
+**Author:** Flosha  
+**Written:** 29.11.2022  
+**Changed:** 30.11.2022  
+
 
 ## Read next 
 
-* [Gothic (re)defined](/vision/gothic-defined)
+* [Vision of Gothic](/vision/vision-of-gothic)
 
 
 ## Links

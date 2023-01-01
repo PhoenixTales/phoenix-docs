@@ -1,34 +1,53 @@
----
-layout: index
-title: A Gothic Drama
----
+<!doctype html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{site.title}} | {{page.title}}</title>
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" type="image/x-icon" href="/nyx.ico" />
 
-<header>
-</header>
-
-<main>
-  <section id="cover">
-    <img class="logo" src="/_img/bg/PhoenixMask-bg.jpg">
-    <!--<img class="phnx-mask" src="/_img/phnx-mask-v07-retro.png" alt="Phoenix Mask">-->
-    <img class="slogan" src="/_img/headings/slogan3d.png">
-    <!--
-    <p class="slogan">
-      A story-driven action-rpg with a 
-      radically immersive design that sucks less.
-    </p>
-    -->
-  </section>
-
-  <section class="promo-graphics">
-    <div><a href="https://phoenixtales.de" target="_blank"><img src="/_img/promo/phnx-dev3.jpg"></a></div>
-    <div><a href="https://phoenixthegame.com/specials/20thAnniversary/AJourneyToMike.html" target="_blank"><img src="/_img/promo/20thanniversary.jpg"></a></div>
-    <div><a href="https://gothicarchive.org" target="_blank"><img src="/_img/promo/archive.jpg"></a></div>
-  </section>
-  
-  <section id="intro">
-    <section class="introtext">
-      {% capture about %}{% include_relative vision/introduction.md %}{% endcapture %}
-      {{ about | markdownify }}
+<body>
+  <nav>
+    <section class="top">
+      <ul>
+        <li><a href="">Git</a></li>
+        <li><a href="">Contrib</a></li>
+        <li><a href="">Press</a></li>
+      </ul>
     </section>
+
+    <section class="left">
+      <input type="checkbox" id="menu-toggle">
+      <label for="menu-toggle">
+        <span class="menu-icon">&#8801;</span>
+        <p class="menu-title">Docs</p>
+      </label>
+  
+      <ul>
+        <li>Test</li>
+      </ul>
+    </section>
+  </nav>
+
+  <section id="cover">
+    <img class="logo" src="_img/phnx-logo-2023b.png">
+    <img class="slogan" src="_img/headings/slogan3e.png">
+    <img class="nyxsign" src="_img/logo/nyxsign-2023.jpg">
+
+    <section class="gallery">
+      <a href="https://docs.phoenixthegame.com"><img src="_img/promo/faq2.jpg"></a>
+      <a href="https://docs.phoenixthegame.com"><img src="_img/promo/designdocs.jpg"></a>
+      <a href="https://docs.phoenixthegame.com"><img src="_img/promo/screens.jpg"></a>
+      <a href="https://docs.phoenixthegame.com"><img src="_img/promo/20thanniversary-sm.jpg"></a>
+      <a href="https://docs.phoenixthegame.com"><img src="_img/promo/dev.jpg"></a>
+      <a href="https://gothicarchive.org"><img src="_img/promo/archive.jpg"></a>
+    </section>
+
+    <ul class="social">
+      <li><a href="https://github.com/PhoenixTales"><img src="_img/social/GitHub-Mark-Light-32px.png" alt="GitHub"></a></li>
+      <li><a href="https://discord.gg/CK4VAR7fpH"><img src="_img/social/discord.png" alt="Discord"></a></li>
+      <li><a href="https://fsoci.al/"><img src="_img/social/fsocial-mark-light.svg" alt="fsocial"></a></li>
+    </ul>
+
+    <p class="copyright">© 2015-2023 <a href="https://phoenixtales.de/">PhoenixTales</a></p>
   </section>
-</main>
+</body>
