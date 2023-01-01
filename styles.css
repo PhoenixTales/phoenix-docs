@@ -64,8 +64,7 @@ nav img {
 main {
  padding: 0 5%;
  min-width: 0;
- flex: 1;
-
+ position: relative;
  /* order: 1;
   width: 100%;
   min-width: 0;
