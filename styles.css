@@ -494,6 +494,14 @@ nav {
   }
 */
 
+audio {
+  filter: sepia(20%) saturate(70%) grayscale(1) contrast(99%) invert(12%);
+  width: 150px;
+  height: 25px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
 
 nav .left ol, nav .left ul {
   font-size: 15px;
