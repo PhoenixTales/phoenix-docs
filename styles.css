@@ -34,8 +34,7 @@ body {
   margin: 0;
   display: flex;
   flex-wrap: nowrap;
-  flex-direction: column;
-  flex: 1;
+  flex-direction: row;
   min-width: 0;
 }
 
