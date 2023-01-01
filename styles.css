@@ -33,6 +33,7 @@ body {
   line-height: 1.6; 
   margin: 0;
   display: flex;
+  flex-wrap: nowrap;
   flex-direction: row;
   flex: 1;
   min-width: 0;
