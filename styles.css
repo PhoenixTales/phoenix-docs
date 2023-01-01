@@ -660,7 +660,7 @@ and (max-width : 820px) {
     padding: 0;
   }*/
 
-  nav .top { 
+  nav .top, .cover-nav .top { 
     left: initial;
     right: 20px; 
   }
