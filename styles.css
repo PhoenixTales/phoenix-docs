@@ -38,16 +38,10 @@ body {
   flex: 1;
 }
 
-/*
 nav {
-  font-size: 14px;
-  padding: 1.5em 2.5em 5em;
-  border-right: 5px solid var(--dark);
   background-color: var(--black);
-  overflow: hidden;
   z-index: 2;
 }
-*/
 
 nav img {
     display: block;
@@ -315,7 +309,7 @@ blockquote {
 
   .cover-nav { border: none; }
     .cover-nav img { display: none; }
-
+    .cover-nav .top { left: 150px; }
 
 /*
 .phnx-mask {
@@ -524,7 +518,7 @@ nav .left ol, nav .left ul {
 
   nav .top li {
     height: 100%;
-    padding: 20px 15px;
+    padding: 21px 15px;
   }
 
 
