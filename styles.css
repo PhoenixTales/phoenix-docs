@@ -262,7 +262,7 @@ blockquote {
   background-size: 800px;
   background-repeat: no-repeat;
   /*height: 870px;*/
-  width: 100%;
+  max-width: 800px;
   margin-top: 37px;
   padding: 0;
   flex: 1;
