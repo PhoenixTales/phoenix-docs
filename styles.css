@@ -45,7 +45,9 @@ nav {
   overflow: hidden;
   z-index: 2;
 }
-  nav img {
+*/
+
+nav img {
     display: block;
     width: 290px;
     margin: 0 auto 3em;
@@ -61,7 +63,7 @@ nav {
       -moz-transition: all 0.3s ease-out;
       -o-transition: all 0.3s ease-out;
     }
-*/
+
 
 main {
   order: 1;
@@ -70,8 +72,8 @@ main {
   min-width: 0;
   padding: 0;
   z-index: 1;
-  position: relative;
-  margin-top: 55px;
+  /*position: relative;*/
+  /*margin-top: 55px;*/
 }
 
 footer {
@@ -461,7 +463,7 @@ nav {
   width: 400px;
   font-size: 15px;
   margin: 0;
-  padding: 0;
+  padding: 0 1em;
 
   position: absolute;
   left: 0;
