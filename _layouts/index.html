@@ -26,5 +26,9 @@
     {% capture nav %}{% include nav.md %}{% endcapture %}
     {{ nav | markdownify }}
   </nav>
+
+  <main>
+    {{ content }}
+  </main>
   
 </body>
