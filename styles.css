@@ -224,7 +224,7 @@ td {
 
 blockquote {
   font-size: 14px;
-  border-left: 5px solid var(--ore);
+  border-left: 5px solid var(--blood);
   padding-left: 1em;
   margin: 2em 0 3em;
 }
