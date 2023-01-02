@@ -241,7 +241,7 @@ blockquote {
 /* ARTICLES */
 
 .article {
-  margin: 0 auto;
+  margin: 0;
   padding: 2em 3em 5em;
   max-width: 620px;
   min-width: 0;
@@ -426,8 +426,8 @@ blockquote {
 
 .gothic {
   background: url("/_img/bg/bg-friends.jpg");
-  background-position: bottom right;
-  background-size: 1508px;
+  background-position: top right;
+  background-size: 110%;
   background-repeat: no-repeat;
   width: 100%;
   padding: 4em 0 3em;
