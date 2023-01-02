@@ -20,13 +20,15 @@
 
 ## What's Gothic?
 
-**IGN:** What's special about Gothic? Why is it different?
+*What's special about Gothic? Why is it different?*
 
-GOTHIC is [...] unlike any other traditional role playing game. [...] We've eliminated irritating, old-fashioned elements like long player statistics and difficult handling and only kept the fun-factors. (gothicarchive.org, Promo Booklet)
+GOTHIC is [...] unlike any other traditional role playing game. [...] We've eliminated irritating, old-fashioned elements like long player statistics and difficult handling and only kept the fun-factors.   
+(gothicarchive.org, Promo Booklet)
 
-**Stefan:** [...] Having fun is the "prime directive". (voodooextreme.com, 14.11.1998)
+**Stefan:** [...] Having fun is the "prime directive".   
+(voodooextreme.com, 14.11.1998)
 
-You'll need only 10 keys to play the game. The game is self-explanatory [...] (gothicarchive.org, Promo Booklet)
+The game is self-explanatory [...] (gothicarchive.org, Promo Booklet)
 
 GOTHIC is action-orientated. But unlike 3D action games your foes are personalised. Over 200 human characters and 20 different types of monsters are living their own lives. You can cooperate or attack as you like. GOTHIC is for those action players who are fed up with mere monster killing and are longing for a somewhat deeper form of entertainment. (gothicarchive.org, Promo Booklet)
 
@@ -38,12 +40,14 @@ GOTHIC is action-orientated. But unlike 3D action games your foes are personalis
 
 **Stefan:** Gothic is a roleplaying game for everyone. It's so <span class="demonic">easy</span> to play the game, even my mother could do it, really. Gothic has the most intuitive and <span class="demonic">easiest</span> user interface ever encountered around roleplaying games having this much content. And everything that has impact on the game, fighting, spellcasting, character-improvement can be <span class="demonic">seen</span> in the gameworld rather than in dozens of menus or on character sheets with hundreds of numbers and tiny little bars. But under all this <span class="demonic">simplicity</span>, there stands a full roleplaying game and no simple 3D shooter with swords. (IGN, 11.06.1998)
 
-*You describe the game as a "3D-Realtime-Fantasy-Roleplaying-Game", mind telling us why?*
+*You describe the game as a "3D-Realtime-Fantasy-Roleplaying-Game", mind telling us why?*  
+
 **Tom:** [...] We thought about the genre of our game GOTHIC and we came to the conclusion: there's none! So we decided to create a new genre: 3D-Realtime-Fantasy-RPG!!! We have a unique fantasy scenario with magic and monsters and so on, we have a main character with attributes and skills and the chance to develop all personal features, everything, even combat happens in realtime and the whole world is 3-dimensional...put all these elements together and you've got....? (gagames.com 20.06.1998)
 
 Common Fantasy is very simple - from a choice of worlds - is divided into black & white, good & evil. Common Fantasy is neat, clean and colourful. GOTHIC is different. GOTHIC is gloomy. GOTHIC is dark. GOTHIC is mystical. GOTHIC is strange. GOTHIC is dangerous. GOTHIC is not a 3D-realtime-Fantasy-RPG. **It's a 3D-realtime-Gothic-RPG**. (gothicarchive.org, Promo Booklet)
 
-*What do you think will make your project, GOTHIC, stand out in the hearts and minds of RPG fans?*
+*What do you think will make your project, GOTHIC, stand out in the hearts and minds of RPG fans?*  
+
 **Stefan Nyul:** They will love it, because they don't have to learn the game. They just have to play it. No roleplaying game has ever had such <span class="demonic">easy to use</span> controls while still having very deep gameplay. You start the game with very easy quests that every player can accomplish though having a hard job to finish the game. (desslock.gamespot.com 15.06.1998)  
 
 **Michael Hoge:** Yes, some guys seem to work on swordfighting games and the like. Honestly, I believe that we can be in the top three titles from all of those. Why? We think we can differ a good idea from a bad one. (desslock.gamespot.com 15.06.1998)  
@@ -58,12 +62,12 @@ Common Fantasy is very simple - from a choice of worlds - is divided into black 
 ### Story and Setting 
 
 **Mike:** The place is a magic sphere, 1 kilometer in diameter, its lower half stuck in the earth. Inside is a prison mine colony, its convicts entrapped forever, because something has gone wrong during the casting of the magic barrier. You are thrown into the prison, and your major goal is to find your way out, because certain circumstances (which you'll have to find out by yourself) make it seem to be a good idea to leave this place...
-The sphere contains a vast outside world with 3 prisoner's camps and 3 mines. Below the mines are several natural caves. Below the caves is... No!  
-I don't think you want to know that. (gagames.com 20.06.1998)  
+The sphere contains a vast outside world with 3 prisoner's camps and 3 mines. Below the mines are several natural caves. Below the caves is... No! I don't think you want to know that. (gagames.com 20.06.1998)  
 
 **Michael:** First, we wanted to create a Fantasy-scenario that was dark and hostile (and no colorful fairy-tale-adventure). A Prison full of cutthroats seemed rather appropriate. (voodooextreme.com, 14.11.1998)
 
-*Can you give us an idea of the storyline for GOTHIC?*
+*Can you give us an idea of the storyline for GOTHIC?*  
+
 **Michael Hoge:** Well... You are thrown into the royal prison mine colony, which is surrounded by a magic barrier to prevent every sane being from escape. There are no guards needed - the prisoners run the mines by themselves. The precious ore that they get out of the mines is traded to the outside world in exchange for food, medicine, drugs and even some small luxuries. The mightiest fighters and mages among the prisoners have the privilege to distribute those goods among their comrades. Many of the prisoners earn their measly share by working in the mines, but there are also some of them who give a shit for the kingdom and its wares, they try to survive on their own. You'll have to find your way out of the prison, but your first goal will be to survive! The prison is full of jerks who will gladly cut your throat when they realize that your weapon is better than theirs. But if you know how to handle them, you won't have to kill them but could even join company with them to achieve your goal.  
 
 You will soon realize that something is wrong with the magic barrier. The mages in the prison will tell you, that, when the king's master mages built the barrier, something must have intervened with the fragile web of magic, for the properties of the barrier are unusually strong and any attempt to destroy it from the inside showed no success. Moreover, some people start to develop psionic abilities. They form the "Followers of the Sleeper" and believe in an entity which soon will awaken and save them all... (desslock.gamespot.com 15.06.1998)  
@@ -74,25 +78,30 @@ You will soon realize that something is wrong with the magic barrier. The mages 
 
 ### Direct Interaction - Essence of Roleplaying
 
-*You claim that you have made the game "easy" to use reducing the amount of statistics, menus etc, but keeping the role-playing elements intact. How will hard-core role-playing fans react to this?*
+> Beim Probespielen ging des öfteren ein Raunen durch die Redaktion. Der Grund: Sämtliche Handlungsmöglichkeiten stehen Dir schon in der ersten Alphaversion von Gothic offen, die Umgebung scheint auf alle Handlungen vorbereitet zu sein und reagiert logisch. (PC Action, 10.08.1998)
+
+*You claim that you have made the game "easy" to use reducing the amount of statistics, menus etc, but keeping the role-playing elements intact. How will hard-core role-playing fans react to this?*  
+
 **Tom:** I call myself a hard-core role-playing fan, especially for Pen&Paper-RPGs.; But the reason why I like this kind of gaming so much is not because I can't live without statistics and menus and stuff like that. I just love to play, to slip into another character, to forget the world around me, to have the brain full of new impressions and images, to interact with my friends and comrades in fantastic surroundings and pass through dangerous situations. That's what I call role-playing! All these points mentioned are possible by stepping into the world of GOTHIC. If you define hard-core role-playing fan like I did above - no problems at all can be expected. If not - I hope these guys will like it, too. (gagames.com 20.06.1998)   
 
 *Will you be using non-interactive "movies" anywhere in the game?*  
+
 **Tom Putzki:** Absolutely no renderings. If you want to watch a movie, go to the cinema!  
 **Michael Hoge:** Yes, that's damn right. Every cutscene (made with the game-engine) in GOTHIC will be integrated in the game so that you can interact with the characters at any time. (IGN, 11.06.1998)
 
-*Will there be a lot of interaction with the world and objects around you, ie. breaking down doors, shattering windows, chopping down a tree, etc.?*
+*Will there be a lot of interaction with the world and objects around you, ie. breaking down doors, shattering windows, chopping down a tree, etc.?*  
+
 **Michael Hoge:** Yes, you can. For example, hide in barrels, carry or push heavy objects, break doors - we don't have glass in our world, so you can't shatter windows, but anyway the main fun in GOTHIC is to interact with people rather than with stuff... (13.07.1999, ga-rpg.com)
 
 
 ### Key Elements
 
-Please describe to us the exact elements of RPG in Gothic. (gagames.com 20.06.1998)
+*Please describe to us the exact elements of RPG in Gothic.* 
 
 **Mike:**: 
 [First key element:] Unlike traditional RPGs, character improvement in GOTHIC is no longer displayed by numbers. Everything you learn during the course of the game is visualized via animations and graphical effects. Nevertheless, you'll have a multitude of possibilities to enhance your skills. [...] The main difference is that we <span class="demonic">visualize EVERYTHING</span>. If you find a new weapon or armor, it will be displayed on your character. If you gain a level, there is no boring number increased by one, but you will gain more respect from other characters and you will gain secret knowledge of the gang you're in. [...] There will be up to 30 skills and 30 spells to learn. We have got two completely different kinds of magic: The conventional magic and the psionic powers. Both have completely different spells.  
 
-The second key element is the <span class="demonic">Non-Player-Character behaviour</soan>. Every character has an attitude towards you and every other character in the game. In addition, every being in GOTHIC will have special likings and certain fears that can be used against them.  
+The second key element is the <span class="demonic">Non-Player-Character behaviour</span>. Every character has an attitude towards you and every other character in the game. In addition, every being in GOTHIC will have special likings and certain fears that can be used against them.  
 Imagine: You are searching through the abandoned mines to find some forgotten weapon of use. Suddenly, a rogue appears out of the shadows and attacks you. From what you can tell from his huge sword and strong armor, he is a much better fighter than you are. You throw your torch to the ground, while drawing your blade and engage him. A friendly mage hears the combat noise and moves up. He recognizes you (two days ago, you did him a favor). He recognizes the rogue (He belongs to the guys who keep stealing his potions) and decides to help you. The rogue is engulfed by flames and they all lived happily ever after... If someone else showed up, you might not have been so lucky...  
 
 The third key element is the <span class="demonic">choice of the class</span>, you might become mage, thief, rogue, fighter, mercenary, templar, novice and may later even advance to the highest gangs in the prison. Some of them are hard to find or even secret, so I won't tell anymore. (gagames.com 20.06.1998)  
@@ -112,32 +121,37 @@ The third key element is the <span class="demonic">choice of the class</span>, y
 
 **Mike:**: Unlike traditional RPGs, character improvement in GOTHIC is no longer displayed by numbers. Everything you learn during the course of the game is <span class="demonic">visualized</span> via animations and graphical effects. Nevertheless, you'll have a multitude of possibilities to enhance your skills. (gagames.com 20.06.1998)
 
-*It has been rumored that there will be no character statistic screens in Gothic. First, is this true? And second what made you decide to approach an RPG title in this way?*
+*It has been rumored that there will be no character statistic screens in Gothic. First, is this true? And second what made you decide to approach an RPG title in this way?*  
+
 **Michael:** In GOTHIC we have strength, dexterity, mana, psi-power and of course hitpoints. These can of course be reviewed in some kind of "character screen", but it won't hardly be necessary, because everytime one of these attributes becomes relevant it will be displayed on the screen. In addition, we have many skills to learn, each of them visualized with a new animation. So the basic concepts of RPG remain unchanged while they were converted in something we consider more popular and more pleasing. Still, no one should be worried about losing game depth. There will be a multitude of quests and riddles and those 200 guys talking to you... (voodooextreme.com, 14.11.1998)
 
-*Unlike traditional role-playing games, Gothic claims to be able to show the player skill and level gains visually, can you explain this?*
+*Unlike traditional role-playing games, Gothic claims to be able to show the player skill and level gains visually, can you explain this?*  
+
 **Stefan:** Sure, the simple philosophy is: Replace almost all statistics by in-game graphics. Replace the text "sneak talent" by sneaking animations of the character, replace the growing number for improving sword skill by cooler and faster attack animations, replace the entry for level-3 Fireball by a bigger and more pulsating glowing sphere between the mage's hands, and so on... (gagames.com 20.06.1998)
 
 
 ## 2. Key Element: A Living world (NPC Behaviour) and Immersion
 
-### Human AI
+**Human AI:**  
 
 People will live their own lives. Throughout the day and night cycle each NPC works, sleeps and interacts with other NPCs. Communication with over 200 NPCs is possible. Displayed texts will be optional. Everything will be presented in digital speech output. Unique Feature: Non player characters memory. NPC's will log your actions - When you attack them or pick their pockets, they will remember, tell their friends and even blame you for it next time they see you!  
 Social structure: There are 3 main groups of power in the gameworld. Depending on which group you join, some people will become your friends though others may hate you. Be careful - If you harm a key member of any group, the whole group's attitude towards you will become worse. The world changes: 5 times during the course of the game, major events will change the world and group relationships to keep you on your toes. (gothicarchive.org, Promo Booklet)  
 
-**Michael:** In fact, social structure is the most important innovation compared to former RPGs. If you, for example, attack someone, and there is another person witnessing the fight, it depends on this person's attitude towards you, towards your opponent and how he judges his odds in battle. If you steal something not only the owner will notice that but also his friends will. There is a lot to say about NPC reactions, but I'm afraid for details you'll have to wait for the first demo. (voodooextreme.com, 14.11.1998)
+**Michael:** In fact, social structure is the most important innovation compared to former RPGs. If you, for example, attack someone, and there is another person witnessing the fight, it depends on this person's attitude towards you, towards your opponent and how he judges his odds in battle. If you steal something not only the owner will notice that but also his friends will. There is a lot to say about NPC reactions, but I'm afraid for details you'll have to wait for the first demo.  
+(voodooextreme.com, 14.11.1998)
 
 
-### Monster AI
+**Monster AI:**  
 
 Monsters will live their own life. Monsters are able to behave the same way as human NPCs do.  
 Depending on your situation, different Monster races will cooperate. [...] If they find a weapon better than their own one, they re-arm and use it against you! Monsters express feelings. When monsters hit you badly or find better weapons you can watch them express their joy or alternatively show fear (e.g. of fire). (gothicarchive.org, Promo Booklet)  
 
-*How is the artificial intelligence in Gothic? Do the monster do more then just attack and flee?*
+*How is the artificial intelligence in Gothic? Do the monster do more then just attack and flee?*  
+
 **Tom:** Yeah, they really do. They have also relations between each other, some even interact with other races like the good old Troll throwing little Gobbos over a canyon towards the Player; they hunt each other, they even play with each other... they live their own lives with their own problems and the Player is just another creature disturbing their circles... (voodooextreme.com, 14.11.1998)
 
-*I hear that in Gothic the monsters will actually be doing things other then to just stand there waiting for you to kill them. How does Gothic deal with Monster AI?*
+*I hear that in Gothic the monsters will actually be doing things other then to just stand there waiting for you to kill them. How does Gothic deal with Monster AI?*  
+
 **Ulf:** The monsters will use very different tactics during combat. Some sneak from behind and try to assassinate the player insidious, others encircle the player and seal his pitiable fate by being superior in numbers. Some species will call comrades if they notice being inferior, afterwards they'll be malicious pleased about the player hitting the ground very roughly...  
 Totally different species of monsters will gang up to set underhanded booby traps: Big Troll guys will grab tiny little Gobbos to establish a kind of 'close contact' to the player by throwing the little ones across alleged obstacles... (gagames.com 20.06.1998)  
 
@@ -158,8 +172,6 @@ Totally different species of monsters will gang up to set underhanded booby trap
 
 ## 3. Key Element: Classes and Playstyles
 
-> Beim Probespielen ging des öfteren ein Raunen durch die Redaktion. Der Grund: Sämtliche Handlungsmöglichkeiten stehen Dir schon in der ersten Alphaversion von Gothic offen, die Umgebung scheint auf alle Handlungen vorbereitet zu sein und reagiert logisch. (PC Action, 10.08.1998)
-
 There are 4 major profession classes.  
 **Warrior:** the straight and brutal way - who needs a key when you've got an axe?  
 **Assassin:** the mean and cunning way - hide in the shadows and get them from behind!  
@@ -178,6 +190,7 @@ Depending on which class you join, you will experience a different game: New abi
 **Mike:** We have considered this, but up to now we have only planned to change your appearance during the game depending on which group you join. They will, for example, give you a branding or cut off your hair to show you belong to them... (gagames.com 20.06.1998) -->
 
 *Within the areas of Gothic, There are multiple ways of "role-playing" your way through situations. Can you explain this in detail?*  
+
 **Mike:** If you start the game, you belong to no one, depending on which missions you accept you will make friends and enemies. After a while, the friendly gangs will ask you to join, but you only may join one group. This is the way in which you define your class. Depending on your class, you will now be able to learn different skills, will have to solve different puzzles and will obtain different missions. A Psionic Novice, for example, will rather try to control a monster and use its abilities to fight others, while a thief will try to lure them into traps or get them from behind.  
 There are, of course, also "straight" classes like fighter or combat mage. If you become one of them, you will be able to hack your way through and will have to solve less puzzles. (gagames.com 20.06.1998)
 
@@ -192,12 +205,14 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 
 ## Making of a fantasy RPG
 
-*Why did you decide to make a role-playing game?*
+*Why did you decide to make a role-playing game?*  
+
 **Tom Putzki:** All of us are enthusiastic role-playing gamers... [...]. So, what was the best choice for our first game as PIRANHA BYTES? (desslock.gamespot.com 15.06.1998)
 
 **Michael Hoge:** I always wanted to play "Ultima Underworld" via network. Nobody did me the favor to produce it, so we´ve got to do it on our own. Actually, our game won't be too similar to "Underworld", but after all, it will be a 3D-RPG with action elements, so it would at best be compared to it than to any other game. (desslock.gamespot.com 15.06.1998)
 
-*Why did you choose the medieval swords and sorcery genre?*
+*Why did you choose the medieval swords and sorcery genre?*  
+
 **Stefan Nyul:** Few genres allow to build up such a <span class="demonic">dense atmosphere</span>. [...] In addition to that, the fantasy genre allows a wide variation for the player character. The mighty close combat-swordfighter, the clever and elusive archer, the vile cutthroat, the sinister fireball caster or the mystic controller of minds. Very different ways of mastering all the dangers. (desslock.gamespot.com 15.06.1998)
 
 **Michael Hoge:** When we started with GOTHIC, everyone used 3D engines to develop a 1st person shooter in a reality or sci-fi scenario and I was fed up with that. We liked the atmosphere of 3D games but wanted to bring a new aspect to it. Seems some other guys had the same idea. Fortunately, no one came too close to our vision of a 3D-RPG by now... (desslock.gamespot.com 15.06.1998)
@@ -205,8 +220,7 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 
 ## Summary
 
-**Flosha:** Above I tried to collect the most relevant ideas of the Gothic devs on their conception of the game; the concepts that they considered essential for what Gothic is, which was already "touted by insiders for its breakthrough concepts" in 1998.  
-Below I attempted to summarise the essential concepts behind Gothic based on our research and our own understanding as it has shaped over the years:  
+**Flosha:** Above I tried to collect the most relevant ideas of the Gothic devs on their conception of the game; the concepts that they considered essential for what Gothic is, which was already "touted by insiders for its breakthrough concepts" in 1998. Many of the above statements may seem repetitive. But I decided to present them as such in order to emphasize that these were the primary aspects that they focused on and that their vision consisted of. Below I attempted to summarise the essential concepts behind Gothic based on our research and our own understanding as it has shaped over the years:  
 
 (1) Story is defined as "the heart" of rpgs; as you are playing a role in a story (or "drama"), the rpg <em>has</em> to be story-driven and as it is a game it has to be driven <em>by</em> gameplay. 
 
