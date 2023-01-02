@@ -1,3 +1,7 @@
+---
+layout: gothic
+---
+
 # Vision of Gothic
 
 <p class="blood-bg">

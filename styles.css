@@ -424,7 +424,7 @@ blockquote {
 
 /* CUSTOM BACKGROUNDS */
 
-.vision {
+.gothic {
   background: url("/_img/bg/bg-friends.jpg");
   background-position: bottom right;
   background-size: 1508px;
@@ -433,6 +433,7 @@ blockquote {
   padding: 4em 0 3em;
 }
 
+/*
 .gothic {
   width: 100%;
   background: url("/_img/bg/gothic-avallach-sm.jpg");
@@ -443,6 +444,7 @@ blockquote {
   .gothic .article {
     margin: 20% auto 0;
   }
+*/
 
 ::selection {
   background: var(--blood);
@@ -524,7 +526,7 @@ nav .left ol, nav .left ul {
     color: var(--black);
   }
 
-  
+
 .doc-pdf {
   margin: 2em 0 4em;
 }
