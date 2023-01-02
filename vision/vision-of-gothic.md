@@ -13,9 +13,7 @@
   we do our own.
 </p>
 
-> Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. (MCV USA 01/1998)
-
-> The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine. And the game is already being touted by insiders for its breakthrough concepts. (MCV USA 01/1998)
+> Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. <!--The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine.--> And the game is already being touted by insiders for its breakthrough concepts. (MCV USA 01/1998)
 
 
 ## What's Gothic?
