@@ -44,7 +44,13 @@ Sources:
 
 **Tom Putzki:**  We founded Piranha Bytes because we wanted to produce games we want to play ourselves - that's what we want to achieve with Gothic.
 
+**Mike:** It was always my dream to make computer games. I was always annoyed about the masses of bad games and thought: That must be done better! Now I know how much work it is if you try to realise high expectations - but it looks like we're going to make it! Everything will be fine! (PC Action, 10.08.1998)
 
+
+**Stefan:** [...] Back then, we have worked on various games for the German market. But we urged for more and so we founded PIRANHA BYTES. With this splendid team we are sailing into international waters and we really have a "heavy load" with us :-) (gagames.com 20.06.1998)
+
+
+-> reality
 
 
 ## Vision vs. Realisation

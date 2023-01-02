@@ -23,6 +23,24 @@ Arx Fatalis 2 was started to be developed based on the Source Engine of HL2, but
 
 The Mad Scientists... 
 
+**Bert Speckels:** Die Demo ist natürlich von (damals) aktuellen Titeln stark beeinflusst: Ultima
+Underworld, System Shock, DSA und "The Elder Scrolls: Arena" waren
+Vorbilder. (Finster Manual, gothicarchive.org, 17.09.2022)
+
+
+**Mike Hoge:** [...] I really enjoyed old Games like Dungeon Master, Ultima Underworld or SystemShock and I've been waiting for an up to date Sequel for a long time, but that doesn't happen. So: Do it yourself! (29.05.1998, Gamesmania)
+
+
+*Will there be a lot of interaction with the world and objects around you, ie. breaking down doors, shattering windows, chopping down a tree, etc.?*
+**Michael Hoge:** Yes, you can. For example, hide in barrels, carry or push heavy objects, break doors - we don't have glass in our world, so you can't shatter windows, but anyway the main fun in GOTHIC is to interact with people rather than with stuff... (13.07.1999, ga-rpg.com)
+
+
+*If something wrong happens in the storyline, will there be other outcomes you can find a solution to, or will you have to start over?*
+**Michael Hoge:** No! Whatever you do, the game always continues. Worst case, everyone hates you and you'll have to bribe people to make them talk to you again! The player can be assured we won't let him down!
+(13.07.1999, ga-rpg.com)
+
+
+**Mike:** GOTHIC is like no other game. Imagine a mixture of Ultima Underworld (exploration), Abe's Odyssee (simple structure but lots of possible combinations), Fallout (atmosphere, no fairy-tale fantasy), Dungeon Master (consistent and logic world) and Tomb Raider (3rd person, only with a better camera). Different about GOTHIC is the (I hardly dare to say that) charcter's AI! Ok, ok, I know, everybody is telling that - so you'll just have to wait for the demo. GOTHIC characters have real memory. They will remember e.g. whether you've robbed them, knocked them down, helped them, etc. Moreover, they hear and tell news and will comment on your actions. They will be able to follow you if you climb walls, jump over canyons, swim, dive or whatever. They will do things you've never seen before in a computer game (in a positive sense ;)) Another unique feature is the multiplayer game (see below) (glideunderground.com 16.10.1999)
 
 
 
