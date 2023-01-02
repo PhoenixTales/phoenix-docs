@@ -422,9 +422,17 @@ blockquote {
 .demonic { color: var(--demonic); }
 
 
-/* CUSTOM BACKGROUNDS */
+/* CUSTOM BACKGROUNDS -> add CSS directly into the layout htmls? */
 
 .gothic {
+  background: url("/_img/bg/bg-friends2.jpg");
+  background-position: top right;
+  background-size: 90%;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+.redefined {
   background: url("/_img/bg/bg-friends2.jpg");
   background-position: top right;
   background-size: 90%;

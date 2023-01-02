@@ -1,0 +1,40 @@
+<!doctype html>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{site.title}} | {{page.title}}</title>
+<link rel="stylesheet" href="/styles.css">
+<link rel="icon" type="image/x-icon" href="/nyx.ico" />
+
+<body>
+
+  <nav>
+    <section class="top">
+      <ul>
+        <li><a href="https://github.com/PhoenixTales" target="_blank">Git</a></li>
+        <li><a href="">Contrib</a></li>
+        <li><a href="">Press</a></li>
+      </ul>
+    </section>
+
+    <section class="left">
+      <input type="checkbox" id="menu-toggle">
+      <label for="menu-toggle">
+        <span class="menu-icon">&#8801;</span>
+        <p class="menu-title">Docs</p>
+      </label>
+
+    {% capture nav %}{% include nav.md %}{% endcapture %}
+    {{ nav | markdownify }}
+  </nav>
+  
+  <main>
+    <section class="redefined">
+      <section class="article">
+        {{ content }}
+      </section>
+    </section>
+  </main>
+
+  {% include footer.html %}
+  
+</body>
