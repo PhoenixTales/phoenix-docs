@@ -524,10 +524,7 @@ nav .left ol, nav .left ul {
     color: var(--black);
   }
 
-  nav p {
-    max-width: 360px;
-  }
-
+  
 .doc-pdf {
   margin: 2em 0 4em;
 }
