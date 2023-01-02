@@ -187,7 +187,7 @@ In course of this research we discovered and summarised some defaults.
 
 ### Default Attribute Values for NPCs
 
-0.94k is the most valuable source to analyse the values of the different guilds and ranks of NPCs. Although values vary for individual NPCs with their unique traits, we could identify a consistent set of light, medium and heavy default values:  
+0.94k is the most valuable source (among those available to us) to analyse the (status) values of the different guilds and ranks of NPCs. Although values vary for individual NPCs with their unique traits, we could identify a consistent set of light, medium and heavy default values:  
 
 ```
 Workers (VLK, SFB, BAU, NOV):
@@ -519,17 +519,15 @@ The warrior strives to master combat and weaponry. The thief strives to become a
 Thus we need the following "arts":
 
 ```
-     +---------------------------+
-     | Künste      | Arts        |
-+----|-------------|-------------|
-| DK | Diebeskunst | Thievery    |
-| WK | Waffenkunst | Weaponry    |
-| AG | Arkane Gabe | Arcane Gift |
-| PG | Psi Gabe    | Psi Gift    |
-+--------------------------------+
+     +------------------------+
+     | Künste      | Arts     |
++----|-------------|----------|
+| DK | Diebeskunst | Thievery |
+| WK | Waffenkunst | Weaponry |
+| AK | Arkanei     | Arcanery |
+| PK | Psionik     | Psionics |
++-----------------------------+
 ```
-
-
 
 
 #### Thievery
@@ -546,6 +544,14 @@ TODO: Explain how it scales dex and skills in npcs?
 The Arcane Art does not really matter to anyone but the mages, but one may still acquire a bit of arcane knowledge by chance, the psionics may steal knowledge from the mages and so on. The important thing is that they won't get any Mana -> this is mage exclusive.  
 
 
+### Arts <> Attributes Correlation
+
+Thievery <> Dexterity
+Weaponry <> Strength
+Arcanery <> Mana
+Psionics <> Psi
+
+TODO: How exactly do they correlate?
 
 
 
@@ -568,6 +574,72 @@ Based on the incomplete and work in progress texts from v0.56c, we have to come 
 |  9 | <span class="added">Secret</span>         | <span class="added">Secret</span>           | <span class="added">eisern</span>         | ...           | ...            | <span class="added">Secret</span>      | erleuchtet   |
 | 10 | <span class="added">Secret</span>         | <span class="added">Secret</span>           | <span class="added">frei</span>           | <span class="added">Schwertsänger</span> | ...            | <span class="added">Secret</span>      | erwacht      |
 </pre>
+
+
+### Phoenix' Default Values
+
+The Status Attributes in Phoenix with our before mentioned necessary additions will consist of the following values. 
+
+```
+  Range of Values per Species						
++-----------------------------------------+
+| Attribute       |  HUM  |  ORC  |  MON  |
+|-----------------+-------+-------+-------|
+| Hp  | Hitpoints |  5-30 | 15-45 |  ≤100 |
+| Str | Strength  |  1-15 | 10-30 |  1-50 |
+| Dex | Dexterity |  1-15 |  1-10 |  1-10 |
+| Wil | Willpower |  0-15 | 10-25 |   ≤50 |
+| Mad | Madness   |  0-15 |  0-25 |   ≤50 |
+| Man | Mana      |  0-30 |     0 |     0 |
+| Psi | Psi       |  0-30 |  0-40 |  ≤100 |
++-----------------------------------------+
+```
+
+The values are divided into light, medium and heavy default presets for NPCs, where heavy serves as the upper maximum of values for a given class of npcs and light as the minimum; values can be fine-tuned individually for balancing within this set framework. The attributes that are not listed in a class are zero (0 Mana for Warriors and so on). Madness is zero at game start for all but will progress in course of the story; for this we implement a specific madness function triggered by global events. These are the default preset values in Phoenix: 
+
+```
+  Workers
++-----------------------+
+| ATR |  L  |  M  |  H  |	
+|-----+-----------------|	
+| Hp  | ≤10 | ≤14 | ≤18 |
+| Str |  ≤5 |  ≤7 |  ≤9 |
+| Dex |  ≤3 |  ≤5 |  ≤7 |
+| Wil |  ≤0 |  ≤2 |  ≤4 |
++-----------------------+
+Exception Novices: 
+  Str |  ≤2 |  ≤4 |  ≤6
+  Wil |  ≤5 |  ≤7 |  ≤9
+  Psi |  ≤2 |  ≤4 |  ≤6
+
+
+  Warriors (E = Orebaron) 			  Thieves (G = Masterthief) 
++-----------------------------+		+-----------------------------+
+| ATR |  L  |  M  |  H  |  E  |		| ATR |  L  |  M  |  H  |  G  |
+|-----+-----------------------|		|-----+-----------------------|
+| Htp | ≤18 | ≤22 | ≤26 | ≤30 |		| Htp | ≤18 | ≤22 | ≤26 | ≤30 |
+| Str |  ≤9 | ≤11 | ≤13 | ≤15 |		| Str |  ≤4 |  ≤6 |  ≤8 | ≤10 |
+| Dex |  ≤4 |  ≤6 |  ≤8 | ≤10 |		| Dex |  ≤9 | ≤11 | ≤13 | ≤15 |
+| Wil |  ≤4 |  ≤6 |  ≤8 | ≤10 |		| Wil |  ≤4 |  ≤6 |  ≤8 | ≤10 |
++-----------------------------+		+-----------------------------+
+Exception Templars: 
+  Str |  ≤6 |  ≤8 | ≤10 | ≤12
+  Wil |  ≤9 | ≤12 | ≤15 | ≤18
+  Psi |  ≤6 |  ≤9 | ≤12 | ≤15
+
+
+  Mages (A = Archmages) 			  Gurus (Y = The Enlightened) 
++-----------------------------+		+-----------------------------+
+| ATR |  L  |  M  |  H  |  G  |		| ATR |  L  |  M  |  H  |  G  |
+|-----+-----------------------|		|-----+-----------------------|
+| Htp | ≤18 | ≤22 | ≤26 | ≤30 |		| Htp | ≤18 | ≤22 | ≤26 | ≤30 |
+| Str |  ~5 |  ~5 |  ~5 |  ~5 |		| Str |  ~5 |  ~5 |  ~5 |  ~5 |
+| Dex |  ~5 |  ~5 |  ~5 |  ~5 |		| Dex |  ~5 |  ~5 |  ~5 |  ~5 |
+| Wil |  ≤6 |  ≤9 | ≤12 | ≤15 |		| Wil |  ≤6 |  ≤9 | ≤12 | ≤15 |
+| Man | ≤15 | ≤20 | ≤25 | ≤30 |		| Psi | ≤15 | ≤20 | ≤25 | ≤30 |
++-----------------------------+		+-----------------------------+
+
+```
 
 
 ### Phoenix HUDs
