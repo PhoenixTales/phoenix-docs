@@ -1,4 +1,4 @@
-<a href="/"><img src="/_img/phnx-logo-2023b.png" alt="Phoenix Logo"></a>
+<a href="/"><img src="/_img/phnx-logo-2023-sm.png" alt="Phoenix Logo"></a>
 
 # Phoenix Concept
 
