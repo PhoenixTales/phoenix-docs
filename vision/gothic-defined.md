@@ -1,3 +1,7 @@
+---
+layout: redefined
+---
+
 # Gothic (re)defined 
 
 ![Gothic defined](/_img/headings/gothic-defined.png)
