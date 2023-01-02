@@ -14,16 +14,16 @@ layout: redefined
 
 In order to create a gothic drama we have to define what "Gothic" is. Contrary to popular belief Gothic is not a mere game and its underlying concept, it is (or to be more precise "it was once supposed to be" and is to us) an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs.  
 
-In the beginning we will analyse the meaning of Gothic as a term (where we will highlight it as being made in the tradition of Gothic fiction) and the particular gothic aesthetics. We will then analyse Gothic as "another kind of fantasy" and compare gothic fantasy with common fantasy and gothic horror vs. cosmic horror. Based on the research of diverse documents and the interviews quoted in the "Vision of Gothic" we'll define principles of gothic-like gamedesign.  
+In the beginning we will analyse the meaning of Gothic as a term and the gothic aesthetics. We will analyse Gothic as "another kind of fantasy" and compare gothic fantasy with common fantasy and gothic horror vs. cosmic horror. Based on the research of diverse documents and the interviews quoted in the "Vision of Gothic" we'll describe principles of gothic-like gamedesign in the context of immersive sims.  
 
-We will then define "what Gothic is", both as a genre (gothic-aesthetics + gothic-gameplay) and as the actual game as it was envisioned. In the end we will make concrete examples of gothic-style and gothic-like gameplay in other games and games of the same franchise and in how far they fit the definition.
+We will then define "what Gothic is", both as a genre and as the actual game as it was envisioned. In the end we will make concrete examples of gothic-style and gothic-like gameplay in other games and games of the same franchise and in how far they fit the definition.
 
 
 ## Gothic Aesthetics
 
-Among the self-proclaimed fans of the franchise there is a large amount of people who love GOTHIC only for the immersive gameplay and lore that is characteristic to it (or at least what remained of it in the release version), while they do *not* consider actual gothic aesthetics as anything essential. In other words: They love Gothic not for how "gothic" it is.  
+Among the self-proclaimed fans of the franchise there is a large amount of people who love GOTHIC only for the immersive gameplay and lore that is characteristic to it (or at least what remained of it in the release version), while they do *not* consider actual gothic *aesthetics* as anything essential. In other words: They love Gothic not for how "gothic" it is.  
 
-To us theirs is a one-sided view that excludes essential characteristics of what Gothic should have been and what "gothic" is by definiton. A *complete* definition of Gothic cannot be given without gothic aesthetics, the particular "style" strived for and hinted at with the very name "Gothic".  
+To us theirs is a one-sided view that excludes essential characteristics of what Gothic as a game was supposed to be and what "gothic" is by definiton. A *complete* definition of Gothic cannot be given without gothic aesthetics, the particular "style" strived for and hinted at with the very name "Gothic".  
 
 In 04/2000, zoks.de released a preview titled: "GOTHIC - The Aesthetics of Evil" of which we want to quote some meaningful lines: 
 
