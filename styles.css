@@ -425,9 +425,9 @@ blockquote {
 /* CUSTOM BACKGROUNDS */
 
 .gothic {
-  background: url("/_img/bg/bg-friends.jpg");
+  background: url("/_img/bg/bg-friends2.jpg");
   background-position: top right;
-  background-size: 110%;
+  background-size: 90%;
   background-repeat: no-repeat;
   width: 100%;
   padding: 4em 0 3em;
