@@ -252,6 +252,7 @@ blockquote {
   max-width: 100%;
   justify-content: center;
   gap: 3em;
+  flex: 1;
 }
 
 .article.acts {
