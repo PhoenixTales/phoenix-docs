@@ -250,12 +250,12 @@ blockquote {
 /* COVER/INTRO PAGE */
 
 #cover {
-  background: url("_img/bg/bg-reloaded2-moon.jpg");
-  image-rendering: pixelated;
-  background-position: top center;
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: url("_img/bg/bg-reloaded2-moon.jpg") 37% 50% / cover no-repeat;
+  /*background-position: top center;
+  background-size: cover auto;
+  background-repeat: no-repeat;*/
   width: 100%;
+  min-height: 100vh;
   /*margin-top: 37px;*/
   padding: 0;
   flex: 1;
