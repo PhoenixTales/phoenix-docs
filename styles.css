@@ -247,11 +247,14 @@ blockquote {
     margin: 3em 0 0;
   }
 
+#cover .article {
+  max-width: 100%;
+}
+
 .article .about {
   display: flex;
-  max-width: 100%;
   justify-content: center;
-  gap: 3em;
+  gap: 5em;
   flex: 1;
 }
 
