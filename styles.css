@@ -258,7 +258,7 @@ blockquote {
   min-height: 100vh;
   /*margin-top: 37px;*/
   padding: 0;
-  flex: 1;
+  /*flex: 1;*/
 }
 
   #cover .nyxsign {
