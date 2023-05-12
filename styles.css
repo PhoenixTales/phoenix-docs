@@ -247,13 +247,13 @@ blockquote {
     margin: 3em 0 0;
   }
 
-.article .about {
+.article.about {
   display: flex;
   justify-content: center;
   gap: 3em;
 }
 
-.article .acts {
+.article.acts {
   display: flex;
   justify-content: center;
   gap: 3em;
