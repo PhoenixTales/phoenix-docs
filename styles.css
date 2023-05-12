@@ -269,7 +269,8 @@ blockquote {
 /* COVER/INTRO PAGE */
 
 #cover {
-  background: url("_img/bg/bg-reloaded2-moon.jpg") 37% 50% / cover no-repeat;
+  background: url("_img/bg/bg-reloaded-retro.jpg") 37% 50% / cover no-repeat;
+  image-rendering: pixelated;
   /*background-position: top center;
   background-size: cover auto;
   background-repeat: no-repeat;*/
