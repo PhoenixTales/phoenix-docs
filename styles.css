@@ -655,7 +655,8 @@ and (max-width : 820px) {
     }
   }
   
-
+  .article.about { flex-wrap: wrap; }
+  .article.acts { flex-wrap: wrap; }
 
 
   body {
