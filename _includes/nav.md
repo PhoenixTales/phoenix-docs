@@ -3,7 +3,7 @@
 # Phoenix Concept
 
 Design Docs of [Phoenix](/) - a gothic drama  
-and an immersive sim rpg in third person.  
+as an immersive sim rpg in third person.  
 
 
 ## Index

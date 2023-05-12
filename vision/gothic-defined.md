@@ -1,7 +1,3 @@
----
-layout: redefined
----
-
 # Gothic (re)defined 
 
 ![Gothic defined](/_img/headings/gothic-defined.png)
@@ -12,7 +8,7 @@ layout: redefined
 **Changed:** 04.12.2022  
 
 
-In order to create a gothic drama we have to define what "Gothic" is. Contrary to popular belief Gothic is not a mere game and its underlying concept, it is (or to be more precise "it was once supposed to be" and is to us) an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs.  
+In order to create a gothic drama we have to define what "Gothic" is. To us it is not a mere game and its underlying concept, it is (or to be more precise "it was once supposed to be") an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs.  
 
 In the beginning we will analyse the meaning of Gothic as a term and the gothic aesthetics. We will analyse Gothic as "another kind of fantasy" and compare gothic fantasy with common fantasy and gothic horror vs. cosmic horror. Based on the research of diverse documents and the interviews quoted in the "Vision of Gothic" we'll describe principles of gothic-like gamedesign in the context of immersive sims.  
 
@@ -21,13 +17,15 @@ We will then define "what Gothic is", both as a genre and as the actual game as 
 
 ## Gothic Aesthetics
 
-Among the self-proclaimed fans of the franchise there is a large amount of people who love GOTHIC only for the immersive gameplay and lore that is characteristic to it (or at least what remained of it in the release version), while they do *not* consider actual gothic *aesthetics* as anything essential. In other words: They love Gothic not for how "gothic" it is.  
+Among the "fans" of the franchise there is a large amount of people who love GOTHIC only for the immersive gameplay and lore that is characteristic to it (or at least what remained of it in the release version), while they do *not* consider the actual gothic *aesthetics* as anything essential. In other words: They love Gothic not for how "gothic" it is.  
 
-To us theirs is a one-sided view that excludes essential characteristics of what Gothic as a game was supposed to be and what "gothic" is by definiton. A *complete* definition of Gothic cannot be given without gothic aesthetics, the particular "style" strived for and hinted at with the very name "Gothic".  
+To us theirs is a one-sided view that excludes essential characteristics of what Gothic as a game was supposed to be and what "gothic" is by definiton. A *complete* definition of Gothic cannot be given without gothic aesthetics, the particular "style" strived for and hinted at by its very name.  
+
+Gothic as a term in relation to the *style* of GOTHIC as a game is not primarily refering to high gothic architecture nor hinting at being part of the modern gothic subculture. The primary influence is that of gothic fiction, which is based on a romanticised view of the past, of decay and the signs of time. Destruction, ruins, rust and patina are what gothic stories are clad in. In this regard, gothic as a *visual* style is related to the japanese wabi-sabi aesthetics, with the difference that gothic also contains horrific or terrific elements and that the very style that is idealised in wabi-sabi and romanticised by gothic authors is here at the same time used as a robe for the terror of the story (and in a game of the simulated world and life).  
 
 In 04/2000, zoks.de released a preview titled: "GOTHIC - The Aesthetics of Evil" of which we want to quote some meaningful lines: 
 
-> What actually is and means "gothic"? In architecture it's those pointed arcs [...], but that hardly helps us to explain the game. Rather the (english) gothic novel of the 18th century: Mary Shellys "Frankenstein" is the most popular "gothic novel" - it develops further till Edgar Allen Poe, Howard Phillips Lovecraft, Dostojewski, as well as George Orwell.
+<!--> What actually is and means "gothic"? In architecture it's those pointed arcs [...], but that hardly helps us to explain the game. Rather the (english) gothic novel of the 18th century: Mary Shellys "Frankenstein" is the most popular "gothic novel" - it develops further till Edgar Allen Poe, Howard Phillips Lovecraft, Dostojewski, as well as George Orwell.-->
 
 > Fragments of "Gothic" are night scenes, wild landscapes, dungeons, ruins, monasteries, castles, vaults. Unexplainable crimes, invocations or ritual sacrifices happen there, hidden powers, mad scientists and dark tyrants are at work, visions, dreams, fears and supernaturals play jokes on human sanity. Short: The irrational, supernatural and incomprehensible along with its emissaries line up to deride the enlightened mind, the rational intellect of man. If we want to grasp it very modern, Batmans Gotham along with its villains (Joker, Two-Face), who sit in the Arkham Asylum most of the time give an excellent picture of "Gothic".
 
@@ -37,12 +35,39 @@ Interview for gamespot.com 15.06.1998:
 **Delekhan:** "GOTHIC" is an interesting choice for the name of your game. Is it just a working-title or the actual title?  
 **Tom Putzki:** [...] GOTHIC is the actual title of our game. I like that kind of music and people, the black scene. It's dark, gloomy, mysterious, creepy and magic - that's GOTHIC.  
 
+It is true that the visionaries of Gothic were in the dark scene themselves or were inclined to it. And while the gothic scene is not the primary stilistic influence, it is still connected with it, as the subculture evolved from the very literary influence of gothic novels and their romanticising view on decay and, in the end, of death itself.  
+
 <p class="subtext">The Gothic story Sleeper's Ban by Alex Wittmann (described by Tom as "Punk, Physician, Surgeon, Roleplayer, Fantasy-Freak, Friend"), that is full of "shocking" descriptions (in german gothic novels are described as "Schauerromane"), can also be seen in this very tradition as a mixture of gothic novel and fantasy book, short: as gothic fantasy.</p>
 
-Gothic as a term in relation to the *style* of GOTHIC as a game is not primarily refering to high gothic architecture nor hinting at being part of the modern gothic subculture. The primary influence is that of gothic fiction, which is based on a romanticised view of the past, of decay and the signs of time. Destruction, ruins, rust and patina are what gothic stories are clad in. In this regard, gothic as a style is very close to the japanese wabi-sabi aesthetics, with the one difference that gothic stories, by definition, contain elements of gothic horror and that the very style that is idealised in wabi-sabi and romanticised by gothic authors is here at the same time used as a robe for the terror of the story (and in a game of the simulated world and life).  
-It is also true that the visionaries of Gothic were in the dark scene themselves or were inclined to it. And while the gothic scene is not the primary stilistic influence, it is still connected with it, as the subculture evolved from the very literary influence of gothic novels and their romanticising view on decay and, in the end, of death itself.  
+While *classic* gothic novels are 
+
+
+There are projects that share general aesthetical principles and themes with Gothic that play, e.g. in a futuristic universe and may do *more* so than some medieval universes that are not gothic in style.
+
+There is typical christian medieval gothic, there is victorian gothic, sword-and-sorcery-gothic or gothic-with-guns, there is futuristic cyber-gothic, contemporary-gothic, dystopian gothic, oriental or asian gothic. Gothic aesthetics, moods, themes can be mixed with everything. 
+
+
+While analysing gothic as a style in games I realised how it was probably the essential factor that so many games and movies I like have in common.
+
+For instance, I always loved Matrix. One reason is that it is gothic in style. The whole crew of the Nebuchadnezzar wears typical gothic/punk fashion, dark-scene clothing. The Real World is an extremely dark dystopia in which only the ruins of the former human civilisation remain and the Machine City is like a futuristic vision of fields full of cyber-gothic cathedrals. 
+
+I loved Wuthering Heights and didn't know that it's a typical gothic novel. I loved titles such as True Detective or Max Payne, which is a hard-boiled detective story, both are visually "southern gothic". Max Payne 2 is subtitled as a "film noir love story". 
+
+And of course I love STALKER, which is industrial gothic at its finest, where the old medieval ruins of gothic castles are replaced by old factory complexes shut down after the nuclear disaster. Style and themes are the same. I do not hesitate to say that both stylistically as well as thematically STALKER shares more with GOTHIC than so-called GOTHIC 2 or 3. 
+
+
+
+
+
+
+It is no wonder that gothic as a style seemed to dominate especially in the video game "industry" at that time when gamers were still considered kind of as outsiders. A `Prince of Persia: Warrior Within` would have been appreciated more when released in 1999.
+
+
+
+
 
 <p class="subtext">In the lore documentation the actual goths from early medieval times will play a role and will be pointed out as an inspiration, but here we want to focus on gothic as a style.</p>
+
 
 
 
@@ -105,6 +130,9 @@ Vergleiche Spiele mit ähnlicher Stilrichtung dieser Zeit: Evil Twin: Cyprien’
 
 
 
+## Gothic in a historical Context
+
+To define Gothic we also have to take a look at the historical context in which the vision was developed. We have to consider which games that came before were the primary inspirations and how they influenced or shaped the design philosophy.
 
 
 
