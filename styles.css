@@ -14,6 +14,7 @@
   --dark: #1f1f1f;
   --darker: #121212;
   --light: #dddddd;
+  --dirt: #a89775;
   --blood: #844d44;
   --copper: #9e6f4b;
   --demonic: #855f67;
@@ -27,7 +28,7 @@
 
 body {
   background: var(--black);
-  color: var(--silver);
+  color: var(--dirt); /* before: silver */
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6; 
