@@ -415,7 +415,7 @@ blockquote {
 #intro {
   background: url("_img/bg/PhoenixMask-bg-dark.jpg");
   image-rendering: pixelated;
-  background-position: top center;
+  /*background-position: top center;*/
   background-size: 800px;
   background-repeat: no-repeat;
   width: 100%;
