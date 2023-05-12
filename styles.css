@@ -245,8 +245,21 @@ blockquote {
   }
   .article h1 {
     margin: 3em 0 0;
-
   }
+
+.article .about {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3em;
+}
+
+.article .acts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 3em;
+}
 
 
 /* COVER/INTRO PAGE */
