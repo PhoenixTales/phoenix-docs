@@ -290,7 +290,7 @@ blockquote {
     gap: 2%;
   }
     #cover .gallery img {
-      max-height: 400px;
+      max-height: 500px;
       max-width: 100%;
       margin: 0 0 40px;
     }
