@@ -249,13 +249,14 @@ blockquote {
 
 .article.about {
   display: flex;
-  max-width: 1000px;
+  max-width: 100%;
   justify-content: center;
   gap: 3em;
 }
 
 .article.acts {
   display: flex;
+  max-width: 1000px;
   justify-content: center;
   gap: 3em;
 }
