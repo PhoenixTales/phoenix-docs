@@ -249,14 +249,12 @@ blockquote {
 
 .article .about {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   gap: 3em;
 }
 
 .article .acts {
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
   gap: 3em;
 }
