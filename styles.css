@@ -253,6 +253,7 @@ blockquote {
 
 .article .about {
   display: flex;
+  max-width: 900px;
   justify-content: center;
   gap: 5em;
   flex: 1;
@@ -475,8 +476,16 @@ label[for="menu-toggle"]  {
 
 nav {
   width: 400px;
-  font-size: 15px;
-  font-family: 'Ubuntu Mono', monospace;
+  /*font-size: 15px;
+  font-family: 'Ubuntu Mono', monospace;*/
+  
+  font-family: "IBM VGA 8x16";
+  src: url("https://assets.gardar.app/fonts/ibm-vga/ibm-vga-8x16.woff") format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+  font-size: 16px;
+  
   margin: 0;
   padding: 0 1em;
 
@@ -498,13 +507,13 @@ nav .left ol, nav .left ul {
   font-size: 15px;
 }
 
-  nav .top {
+  nav .right {
     position: absolute;
-    left: 120px;
+    right: 10px;
     z-index: 20;
   }
 
-  nav .top ul {
+  nav .right ul {
     display: flex;
     text-transform: uppercase;
     list-style: none;
@@ -514,18 +523,29 @@ nav .left ol, nav .left ul {
     padding: 0;
   }
 
-  nav .top li {
+  nav .right li {
     height: 100%;
     padding: 21px 15px;
   }
 
 
-  nav .top ul li:hover {
+  nav .right ul li:hover {
     background-color: var(--blood);
   }
-  nav .top li:hover a {
+  nav .right li:hover a {
     color: var(--black);
   }
+
+
+  .nav-link {
+    display: block;
+    padding: .25rem 0.5rem;
+    color: var(--ore);
+    font-size: .825rem;
+  
+    text-transform: uppercase;
+  }
+
 
 
 .doc-pdf {

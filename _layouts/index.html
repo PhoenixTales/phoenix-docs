@@ -8,19 +8,11 @@
 <body>
 
   <nav class="cover-nav">
-    <section class="top">
+    <section class="right">
       <ul>
         <li><a href="https://github.com/PhoenixTales" target="_blank">Git</a></li>
-        <li><a href="">Contrib</a></li>
-        <li><a href="">Press</a></li>
-      </ul>
-    </section>
-
-    <div class="navbar">
-      <ul class="textbar">
-        <li><a class="nav-link" href="https://github.com/PhoenixTales" target="_blank">Git</a></li>
-        <li><a class="nav-link" href="faq.html" target="_blank">FAQ</a></li>
-        <li><a class="nav-link" href="press/" target="_blank">Press</a></li>
+        <li><a href="faq/" target="_blank">FAQ</a></li>
+        <li><a href="press/">Press</a></li>
         <li><details class="nav-link"><summary>EN</summary> 
               <ul class="languages">
                   <li><a href="/de/">DE</a></li>
@@ -30,13 +22,13 @@
             </details>
         </li>
       </ul>
-    </div>
-  
+    </section>
+
     <section class="left">
       <input type="checkbox" id="menu-toggle">
       <label for="menu-toggle">
         <span class="menu-icon">&#8801;</span>
-        <p class="menu-title">Docs</p>
+        <p class="menu-title">Concept</p>
       </label>
 
       {% capture nav %}{% include nav.md %}{% endcapture %}
