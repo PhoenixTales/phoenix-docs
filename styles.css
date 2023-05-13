@@ -263,7 +263,7 @@ blockquote {
 
 .article .about {
   display: flex;
-  max-width: 1200px;
+  max-width: 1400px;
   justify-content: center;
   gap: 5em;
   flex: 1;
