@@ -678,8 +678,8 @@ and (max-width : 820px) {
     }
   }
   
-  .article .about { flex-wrap: wrap; }
-  .article .acts { flex-wrap: wrap; }
+  .article .about { flex-wrap: wrap; gap: 1em; }
+  .article .acts { flex-wrap: wrap; gap: 1em; }
 
 
   body {
