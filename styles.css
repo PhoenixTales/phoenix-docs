@@ -480,7 +480,7 @@ nav {
   font-family: 'Ubuntu Mono', monospace;*/
   
   font-family: "IBM VGA 8x16";
-  src: url("https://assets.gardar.app/fonts/ibm-vga/ibm-vga-8x16.woff") format('woff');
+  src: url("_fonts/ibm-vga/ibm-vga-8x16.woff") format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -500,11 +500,11 @@ nav {
 
 nav .left {
   width: 400px;
+  box-shadow: 0 0 20px 20px rgba(0,0,0,.8);
 }
 
 .cover-nav {
   position: absolute;
-  box-shadow: 0 0 20px 20px rgba(0,0,0,.8);
 }
 
 nav .left ol, nav .left ul {
