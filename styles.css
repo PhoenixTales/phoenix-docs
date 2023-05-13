@@ -475,7 +475,6 @@ label[for="menu-toggle"]  {
 }
 
 nav {
-  width: 400px;
   /*font-size: 15px;
   font-family: 'Ubuntu Mono', monospace;*/
   
@@ -498,6 +497,10 @@ nav {
   border-right: 5px solid var(--dark);
 }
 
+nav .left {
+  width: 400px;
+}
+
 .cover-nav {
   position: absolute;
   box-shadow: 0 0 20px 20px rgba(0,0,0,.8);
@@ -509,6 +512,7 @@ nav .left ol, nav .left ul {
 
   nav .right {
     position: absolute;
+    justify-content: right;
     right: 10px;
     z-index: 20;
   }
