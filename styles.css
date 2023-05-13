@@ -252,29 +252,21 @@ blockquote {
   .article img {
     margin: 1.5em 0 1em;
     max-width: 95%;
-    align-self: flex-start;
   }
   .article h1 {
     margin: 3em 0 0;
   }
 
-.article .about {
-  display: flex;
+#cover .article {
   max-width: 1400px;
-  justify-content: center;
-  gap: 5em;
-  flex: 1;
-}
-
-.article .acts {
   display: flex;
-  max-width: 1000px;
   justify-content: center;
-  gap: 3em;
+  gap: 4em;
   flex: 1;
 }
-
-
+  #cover .article img {
+    align-self: flex-start;
+  }
 
 
 /* COVER/INTRO PAGE */
@@ -678,9 +670,10 @@ and (max-width : 820px) {
     }
   }
   
-  .article { gap: 0; }
-  .article .about { flex-wrap: wrap; }
-  .article .acts { flex-wrap: wrap; }
+  #cover .article { 
+    flex-wrap: wrap; 
+    gap: 0; 
+  }
 
 
   body {
