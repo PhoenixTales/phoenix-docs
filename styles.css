@@ -358,7 +358,7 @@ blockquote {
 
 
   .logo {
-    image-rendering: normal;
+    image-rendering: pixelated;
     display: block;
     /*width: 100%;*/
     max-height: 400px;
@@ -394,7 +394,8 @@ blockquote {
 
 .slogan {
   display: block;
-  max-width: 500px;
+  max-width: 90%;
+  max-height: 170px;
   margin: 2% auto 3%;
 }
 
