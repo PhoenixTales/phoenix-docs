@@ -388,7 +388,7 @@ a:hover {
 
 #intro {
   position: absolute;
-  background: url("_img/bg/masked2.jpg");
+  background: url("_img/bg/masked.jpg");
   image-rendering: pixelated;
   background-position: top center;
   background-size: 600px;
@@ -450,7 +450,7 @@ nav .left {
 
 
 .menu-title {
-  margin-top: -38px;
+  margin-top: -37px;
   margin-left: 27px;
   padding-bottom: 1em;
   font-size: 15px;
