@@ -440,6 +440,7 @@ nav .left {
 
 .menu-title {
   margin-top: -35px;
+  padding-bottom: 10px;
   margin-left: 27px;
   font-size: 16px;
   font-family: 'Ubuntu Mono', monospace;
@@ -484,14 +485,6 @@ and (max-width : 820px) {
       background-color: var(--blood);
       color: var(--black);
     } 
-  
-  .menu-title {
-    margin-top: -35px;
-    margin-left: 27px;
-    font-size: 14px;
-    font-family: monospace;
-    text-transform: uppercase;
-  }
   
   label[for="menu-toggle"]::selection {
     /*background: #000000e0;*/
@@ -588,7 +581,7 @@ and (max-width : 820px) {
 
 
   .article h1 {
-    margin-top: 5em;
+    margin-top: 6em;
   }
 
 }
