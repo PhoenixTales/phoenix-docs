@@ -70,7 +70,7 @@ h4::before, h5::before, h6::before {
 }
 
 nav h1 { 
-  margin-bottom: 0; 
+  margin: 1em 0 0; 
 }
 
 nav h2, nav h3 { 
@@ -115,6 +115,7 @@ nav .top {
 
 nav .top ul {
   display: flex;
+  margin: 1em 0;
 
   font-size: 16px;
   list-style-type: none;
