@@ -103,14 +103,14 @@ nav {
 nav img {
   display: block;
   width: 90%;
-  margin: 30px auto 0;
+  margin: 20px auto 0;
   transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
 }
   nav img:hover {
-    filter: saturation(0.2);
+    filter: brightness(0.2);
     transition: all 0.3s ease-out;
     -webkit-transition: all 0.3s ease-out;
     -moz-transition: all 0.3s ease-out;
