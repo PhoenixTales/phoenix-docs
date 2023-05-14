@@ -207,6 +207,8 @@ nav .left ol>li::before {
 
 footer {
   order: 3;
+  position: absolute;
+  bottom: 0;
   background-color: var(--black);
   z-index: 2;
   font-family: "IBM VGA 8x16", monospace;
