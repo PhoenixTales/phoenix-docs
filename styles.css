@@ -203,6 +203,7 @@ nav .left ol>li::before {
 
 footer {
   order: 3;
+  font-family: "IBM VGA 8x16", monospace;
   font-size: 14px;
   border-top: 5px solid var(--dark);
   width: 100%;
@@ -316,7 +317,7 @@ a:hover {
     /*width: 100%;*/
     max-height: 400px;
     max-width: 500px;
-    margin: 320px auto 0;
+    margin: 320px auto 50px;
   }
 
   #intro .logo {
