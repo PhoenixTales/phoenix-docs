@@ -4,8 +4,6 @@ layout: intro
 
 # Introduction
 
-![Phoenix is... ](/_img/headings/phoenix-is.png)
-
 Welcome to the Design Concept Documentation of PHOENIX (working title "Project Nyx"). When you are new to the project, you should visit our main page first and take a look at the [FAQ](/vision/faq).  
 
 In the early stages of development we created the [Gothic Archive](https://gothicarchive.org) by collecting as much pre-release material as possible as a basis for our research of the original vision and ideas for GOTHIC. In course of this work we decided to prepare and present it in form of a website for the community.  
