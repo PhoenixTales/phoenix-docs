@@ -439,8 +439,8 @@ nav .left {
 .menu-title {
   margin-top: -35px;
   margin-left: 27px;
-  font-size: 14px;
-  font-family: monospace;
+  font-size: 16px;
+  font-family: 'Ubuntu Mono', monospace;
   text-transform: uppercase;
 }
 
@@ -530,11 +530,12 @@ and (max-width : 820px) {
     max-width: 100%;
   }
 
+  /*
   main {
     flex: 1;
     min-width: 0;
     padding: 0;
-  }
+  }*/
 
   nav {
     position: absolute;
