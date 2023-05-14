@@ -316,7 +316,7 @@ a:hover {
     max-height: 400px;
     max-width: 100%;
     /*max-width: 500px;*/
-    margin: 325px auto 150px;
+    margin: 300px auto 150px;
   }
 
   #intro .logo {
@@ -381,7 +381,7 @@ a:hover {
   background-position: top center;
   background-size: 800px;
   background-repeat: no-repeat;
-  width: 100%;
+  max-width: 100%;
   margin-top: 37px;
   padding: 0;
   flex: 1;
@@ -605,7 +605,7 @@ and (max-width : 820px) {
 
   #intro {
     max-width: 100%;
-    background-size: 130% auto;
+    background-size: 150% auto;
   }
 
   .phnx-mask {
