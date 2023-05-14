@@ -1,10 +1,6 @@
-<a href="/"><img src="/_img/phnx-logo-2023-sm.png" alt="Phoenix Logo"></a>
-
 # Phoenix Concept
 
-Design Docs of [Phoenix](/) - a gothic drama  
-as an immersive sim rpg in third person.  
-
+<a href="/"><img src="/_img/phnx-logo-low.png" alt="Phoenix Logo"></a>
 
 ## Index
 
