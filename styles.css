@@ -600,7 +600,7 @@ and (max-width : 820px) {
 
   /* HIDE HEADING due to inclusion in menu button */
   nav h1 { display: none; }
-  nav h1::before { content: none; }
+  nav h1::before { display: none; }
 
 
   #intro {
