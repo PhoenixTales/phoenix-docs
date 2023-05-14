@@ -314,8 +314,7 @@ a:hover {
     display: block;
     /*width: 100%;*/
     max-height: 400px;
-    max-width: 100%;
-    /*max-width: 500px;*/
+    max-width: 500px;
     margin: 300px auto 0;
   }
 
