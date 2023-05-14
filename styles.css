@@ -144,7 +144,7 @@ nav .left ol, nav .left ul {
   align-self: flex-start;
   font-size: 14px;
   counter-reset: item;
-  padding: 0 1em 0.5em;
+  padding-bottom: 0.5em;
 }
 
 nav .left ol>li { padding-left: 1em; }
@@ -427,6 +427,7 @@ nav {
 
 nav .left {
   width: 400px;
+  padding: 0 1em;
   /*box-shadow: 0 0 20px 20px rgba(0,0,0,.8);*/
 }
 
