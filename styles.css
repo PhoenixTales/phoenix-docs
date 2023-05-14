@@ -607,8 +607,12 @@ and (max-width : 820px) {
     display: none;
   }
 
+  /* HIDE HEADING due to inclusion in menu button */
+  nav h1 { display: none; }
+
+
   #intro {
-    background-size: 200% auto;
+    background-size: 110% auto;
   }
 
   .phnx-mask {
