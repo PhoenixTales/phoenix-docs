@@ -102,11 +102,11 @@ nav img {
     -o-transition: all 0.3s ease-out;
   }
 
-nav .top {
+nav.top {
   font-family: "IBM VGA 8x16", monospace;
 }
 
-nav .top ul {
+nav.top ul {
   display: flex;
 
   font-size: 16px;
