@@ -208,7 +208,7 @@ nav .left ol>li::before {
 footer {
   order: 3;
   bottom: 0;
-  position: sticky;
+  position: absolute;
   background-color: var(--black);
   z-index: 2;
   font-family: "IBM VGA 8x16", monospace;
@@ -327,7 +327,7 @@ a:hover {
     max-height: 400px;
     width: 500px;
     max-width: 100%;
-    margin: 330px auto 50px;
+    margin: 330px auto 70px;
   }
 
   #intro .logo {
@@ -388,7 +388,7 @@ a:hover {
 
 #intro {
   position: absolute;
-  background: url("_img/bg/masked.jpg");
+  background: url("_img/bg/masked2.jpg");
   image-rendering: pixelated;
   background-position: top center;
   background-size: 600px;
