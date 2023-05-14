@@ -208,7 +208,7 @@ nav .left ol>li::before {
 footer {
   order: 3;
   bottom: 0;
-  position: fixed;
+  position: absolute;
   background-color: var(--black);
   z-index: 2;
   font-family: "IBM VGA 8x16", monospace;
@@ -450,8 +450,9 @@ nav .left {
 
 
 .menu-title {
-  margin-top: -40px;
+  margin-top: -36px;
   margin-left: 27px;
+  padding-bottom: 1em;
   font-size: 15px;
   font-family: 'Ubuntu Mono', monospace;
   text-transform: uppercase;
