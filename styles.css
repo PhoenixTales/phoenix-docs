@@ -478,6 +478,7 @@ and (max-width : 820px) {
     width: 200px;
     padding: 0 20px;
     color: var(--silver);
+    white-space: nowrap;
     
     border-top: 5px solid var(--blood);
   
