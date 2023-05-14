@@ -5,7 +5,7 @@
 ## Index
 
 1. Vision
-	1. [Introduction](/vision/introduction)
+	1. [Introduction](/)
 	2. [Vision of Gothic](/vision/vision-of-gothic)
     2. [Gothic (re)defined](/vision/gothic-defined)
 	3. A Clash of Dreams
