@@ -286,9 +286,6 @@ a:hover {
 }
 
   .logo {
-    position: absolute;
-    left: 0;
-    right: 0;
     image-rendering: pixelated;
     display: block;
     /*width: 100%;*/
