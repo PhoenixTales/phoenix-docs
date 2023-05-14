@@ -555,7 +555,8 @@ and (max-width : 820px) {
 
   #intro {
     max-width: 100%;
-    background-size: 150% auto;
+    /*background-size: 150% auto;*/
+    background-size: 800px;
   }
 
   .phnx-mask {
