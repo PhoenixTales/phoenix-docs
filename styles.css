@@ -443,11 +443,10 @@ nav .left {
 
 
 .menu-title {
-  margin-top: -35px;
+  margin-top: -40px;
   padding-bottom: 10px;
   margin-left: 27px;
   font-size: 15px;
-  color: var(--silver);
   font-family: 'Ubuntu Mono', monospace;
   text-transform: uppercase;
 }
@@ -475,7 +474,7 @@ and (max-width : 820px) {
     display: block;
     width: 200px;
     padding: 2px 20px 0.5em;
-    color: var(--light);
+    color: var(--silver);
     
     border-top: 5px solid var(--blood);
   
