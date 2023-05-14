@@ -110,13 +110,12 @@
 		1. Phoenix & the Rescue of Design
 		2. Behind the Eyes of Elliot
 		3. Art and the Demonic Threat 
-6. Inspirations
-7. Credits
 
 
 ### Appendix
 
-* Soon
+* Inspirations
+* Credits
 
 
 <p class="doc-pdf">

@@ -573,19 +573,16 @@ and (max-width : 820px) {
     padding: 2em 1.5em 3em;
   }
 
-  nav .top { 
-    left: initial;
-    right: 20px; 
-  }
-
   .nyxsign {
     max-width: 400px;
     margin: 0 auto;
   }
 
-
   .article h1 {
     margin-top: 6em;
   }
 
+  footer {
+    font-size: 13px;
+  }
 }
