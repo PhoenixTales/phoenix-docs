@@ -316,7 +316,7 @@ a:hover {
     max-height: 400px;
     max-width: 100%;
     /*max-width: 500px;*/
-    margin: 300px auto 150px;
+    margin: 300px auto 0;
   }
 
   #intro .logo {
@@ -427,6 +427,7 @@ nav {
 
 nav .left {
   width: 400px;
+  padding: 1em;
   /*box-shadow: 0 0 20px 20px rgba(0,0,0,.8);*/
 }
 
