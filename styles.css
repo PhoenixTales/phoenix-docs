@@ -102,11 +102,11 @@ nav img {
     -o-transition: all 0.3s ease-out;
   }
 
-nav.top {
+nav .top {
   font-family: "IBM VGA 8x16", monospace;
 }
 
-nav.top ul {
+nav .top ul {
   display: flex;
 
   font-size: 16px;
@@ -294,12 +294,12 @@ a:hover {
     /*width: 100%;*/
     max-height: 400px;
     max-width: 100%;
-    margin: 5em auto 250px;
+    /*max-width: 500px;*/
+    margin: 345px auto 250px;
   }
 
   #intro .logo {
-    max-width: 500px;
-    margin: 345px auto 2em;
+
   }
 
 
