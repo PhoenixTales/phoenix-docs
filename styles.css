@@ -45,7 +45,6 @@ body {
   line-height: 1.6; 
   margin: 0;
   display: flex;
-  flex-wrap: wrap;
   flex-direction: row;
   min-width: 0;
 }
