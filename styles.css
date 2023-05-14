@@ -212,7 +212,7 @@ footer {
   font-family: "IBM VGA 8x16", monospace;
   font-size: 15px;
   text-transform: uppercase;
-  border-top: 2px solid var(--dark);
+  /*border-top: 2px solid var(--dark);*/
   width: 100%;
   padding: 1em 1em;
   display: flex;
@@ -431,7 +431,7 @@ nav {
   overflow: hidden;
   z-index: 2;
 
-  border-right: 2px solid var(--dark);
+  /*border-right: 2px solid var(--dark);*/
 }
 
 
