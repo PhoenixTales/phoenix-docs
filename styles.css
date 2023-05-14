@@ -184,6 +184,10 @@ nav .left ol>li::before {
   padding-left: 1.5em;
 }
 
+.article p {
+  margin: 0.5em 0;
+}
+
 
 /* FOOTER */
 
@@ -303,7 +307,7 @@ a:hover {
     max-height: 400px;
     max-width: 100%;
     /*max-width: 500px;*/
-    margin: 345px auto 250px;
+    margin: 325px auto 150px;
   }
 
   #intro .logo {
@@ -365,7 +369,7 @@ a:hover {
   position: absolute;
   background: url("_img/bg/PhoenixMask-bg-dark.jpg");
   image-rendering: pixelated;
-  /*background-position: top center;*/
+  background-position: top center;
   background-size: 800px;
   background-repeat: no-repeat;
   width: 100%;
