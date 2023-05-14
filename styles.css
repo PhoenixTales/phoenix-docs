@@ -30,7 +30,7 @@
 
 body {
   background: var(--black);
-  color: var(--light-dirt); /* before: silver */
+  color: var(--silver);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.6; 
@@ -139,8 +139,6 @@ nav .left ol>li::before {
   content: counters(item, '.') '. '; 
   color: #6a6a6a;
 }
-
-
 
 
 /* ARTICLES */
