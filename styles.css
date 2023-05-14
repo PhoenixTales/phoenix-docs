@@ -70,7 +70,7 @@ h4::before, h5::before, h6::before {
 }
 
 nav h1 { margin-top: 20px; }
-nav h2 { margin-top: 2.5em; }
+nav h2 { margin: 2.5em 0; }
 
 nav h1, nav h2 { 
   font-weight: normal; 
