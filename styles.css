@@ -198,6 +198,10 @@ nav .left ol>li::before {
   margin: 1em 0;
 }
 
+.article img {
+  max-width: 100%;
+}
+
 
 /* FOOTER */
 
