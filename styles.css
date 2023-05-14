@@ -595,6 +595,7 @@ and (max-width : 820px) {
 
 
   #intro {
+    max-width: 100%;
     background-size: 130% auto;
   }
 
