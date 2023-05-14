@@ -78,7 +78,7 @@ nav h1, nav h2 {
 }
 
 
-/* INDEX NAVIGATION */
+/* TOP NAVIGATION */
 
 nav {
   background-color: var(--black);
@@ -102,9 +102,24 @@ nav img {
     -o-transition: all 0.3s ease-out;
   }
 
+nav .top {
+  font-family: "IBM VGA 8x16", monospace;
+}
+
+nav .top ul {
+  display: flex;
+
+  font-size: 16px;
+  list-style-type: none;
+  text-transform: uppercase;
+}
+
+
+/* INDEX NAVIGATION */
+
 nav .left ol, nav .left ul {
   list-style-type: none;
-  font-family: "IBM VGA 8x16", monospace;
+  font-family: monospace;
   align-self: flex-start;
   font-size: 14px;
   counter-reset: item;
