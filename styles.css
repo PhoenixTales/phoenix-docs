@@ -208,11 +208,11 @@ nav .left ol>li::before {
 footer {
   order: 3;
   font-family: "IBM VGA 8x16", monospace;
-  font-size: 14px;
+  font-size: 15px;
   text-transform: uppercase;
   border-top: 5px solid var(--dark);
   width: 100%;
-  padding: 0.5em 1em;
+  padding: 1em 1em;
   display: flex;
   justify-content: space-between;
 }
