@@ -209,6 +209,7 @@ footer {
   order: 3;
   font-family: "IBM VGA 8x16", monospace;
   font-size: 14px;
+  text-transform: uppercase;
   border-top: 5px solid var(--dark);
   width: 100%;
   padding: 0.5em 1em;
