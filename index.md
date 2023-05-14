@@ -2,7 +2,7 @@
 layout: intro
 ---
 
-# Introduction
+# Phoenix Concept
 
 Welcome to the Design Concept Documentation of PHOENIX (working title "Project Nyx"). When you are new to the project, you should visit our main page first and take a look at the [FAQ](/vision/faq).  
 
