@@ -423,6 +423,8 @@ nav {
   font-size: 15px;
   font-family: 'Ubuntu Mono', monospace;
 
+  background-color: var(--darker);
+
   margin: 0;
   padding: 0;
 
