@@ -45,18 +45,17 @@ body {
   line-height: 1.6; 
   margin: 0;
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   min-width: 0;
 }
 
-/*
 main {
   padding: 0 5%;
   min-width: 0;
   overflow: hidden;
   flex: 1;
 }
-*/
 
 
 /* HEADINGS */
