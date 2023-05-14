@@ -5,19 +5,11 @@
 * {
   box-sizing: border-box;
   /* overflow-x: hidden; */
-}
-
-@font-face {
-  font-family: "IBM VGA 8x16";
-  src: url("_fonts/ibm-vga/ibm-vga-8x16.woff") format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
-  font-size: 16px;
+  margin: 0;
 }
 
 :root {
-  color-scheme: dark;
+  color-scheme: dark;   
 
   --black: #000;
   --dark: #1f1f1f;
@@ -25,10 +17,12 @@
   --light: #dddddd;
   --light-dirt: #ccb9a5;
   --dirt: #a89775;
+  --dark-dirt: #77584b;
   --blood: #844d44;
   --copper: #9e6f4b;
   --demonic: #855f67;
   --gold: #976b42;
+  --fire: #dba37b;
   --ore: #67ab97;
   --silver: #aaa;
   --stone: #5b5b5b;
@@ -52,6 +46,59 @@ body {
 nav {
   background-color: var(--black);
   z-index: 2;
+}
+
+#cover nav .left {
+  display: block;
+}
+
+#cover nav {
+  position: absolute;
+  right: 0;
+  color: #aaa;
+  margin-top: 0;
+  padding-top: 0.7em;
+  background-color: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+#cover nav ul {
+  display: flex; 
+  justify-content: flex-end;
+  padding: 0;
+  margin: 0;
+}
+
+#cover nav ul li {
+  padding-left: 1.5em;
+  padding-right: 0;
+}
+
+.progress {
+  padding: 0;
+  left: 0;
+  top: 0;
+  white-space: pre;
+  width: 100%;
+}
+
+/* make language link list vertical */
+.languages {
+  flex-wrap: wrap;
+  flex-direction: column;
+  background-color:black;
+  padding-bottom: 1em;
+}
+  /* gaps between language links */
+  .languages li {
+    padding: 0 1em;
+  }
+
+#cover details ul li {
+  padding-left: 1em;
+  padding-right: 0;
+  padding-top: 0.5em;
 }
 
 nav img {
@@ -139,7 +186,7 @@ a:hover {
 
 nav .left ol, nav .left ul {
   list-style-type: none;
-  font-family: "IBM VGA 8x16", monospace;align-self: flex-start;nyx
+  font-family: "IBM VGA 8x16", monospace;align-self: flex-start;
   font-size: 14px;
   counter-reset: item;
   padding-left: 0;
@@ -250,50 +297,89 @@ blockquote {
   min-width: 0;
 }
   .article img {
-    margin: 1.5em 0 1em;
-    max-width: 95%;
+    
   }
   .article h1 {
     margin: 3em 0 0;
   }
 
 #cover .article {
-  max-width: 1400px;
   display: flex;
-  justify-content: center;
-  gap: 4em;
+  align-self: center;
+  justify-items: center;
+  justify-self: center;
+  font-family: "IBM VGA 8x16";
+  font-size: 18px;
+  max-width: 90%;
+  gap: 5em;
+}
+
+#cover .article div {
   flex: 1;
 }
+
+#cover .article h2 {
+  margin: 1em 0;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+#cover .article h3 {
+  margin: 1em 0;
+  color: var(--fire);
+  font-weight: normal;
+  text-transform: uppercase;
+}
+  #cover .article h3 .subheader {
+    color: var(--dark-dirt);
+  }
+
+#cover .article p {
+  margin: 1em 0;
+}
+
+#cover .article div { 
+
+}
+
   #cover .article img {
     align-self: flex-start;
   }
 
 
+  .nyxsign {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .acts {
+    
+  }
+
 /* COVER/INTRO PAGE */
 
 #cover {
+  width: 100%;
+}
+
+.wallpaper {
   background: url("_img/bg/bg-reloaded-retro.jpg") 37% 50% / cover no-repeat;
   image-rendering: pixelated;
   /*background-position: top center;
   background-size: cover auto;
   background-repeat: no-repeat;*/
-  max-width: 100%;
-  height: 100vh;
+  width: 100%;
+  min-height: 105vh;
   /*margin-top: 37px;*/
   padding: 0;
-  /*flex: 1;*/
+  margin: 0;
 }
 
-  #cover .nyxsign {
-    display: block;
-    width: 500px;
-    max-width: 100%;
-    margin: 0 auto 50px;
-    align-self: flex-start;
-  }
+ 
 
   #cover .gallery {
     display: flex;
+    margin: 1em 0;
     /*flex-wrap: wrap;*/
     justify-content: center;
     gap: 2%;
@@ -301,7 +387,7 @@ blockquote {
     #cover .gallery img {
       max-height: 500px;
       max-width: 100%;
-      margin: 0 0 40px;
+      margin: 0;
     }
 
   #cover .social {
@@ -324,9 +410,6 @@ blockquote {
     font-size: 12px;
     color: #7a6d63;
   }
-
-  .cover-nav { border: none; }
-    .cover-nav img { display: none; }
 
 /*
 .phnx-mask {
@@ -361,12 +444,15 @@ blockquote {
 
 
   .logo {
+    position: absolute;
+    left: 0;
+    right: 0;
     image-rendering: pixelated;
     display: block;
     /*width: 100%;*/
     max-height: 400px;
     max-width: 100%;
-    margin: 2em auto 450px;
+    margin: 5em auto 250px;
   }
 
   #intro .logo {
@@ -396,10 +482,14 @@ blockquote {
 
 
 .slogan {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
   display: block;
   max-width: 80%;
   max-height: 150px;
-  margin: 2% auto 3%;
+  margin: 0 auto 70px;
 }
 
 /*
@@ -426,6 +516,14 @@ blockquote {
   background-color: var(--black);
   border: 5px solid var(--dark);
   padding: 1em;
+  margin: 2em 0;
+}
+
+#cover .subtext {
+  font-size: 15px;
+  background-color: var(--black);
+  border: 2px solid var(--dark);
+  padding: 1.5em;
   margin: 2em 0;
 }
 
@@ -479,29 +577,37 @@ label[for="menu-toggle"]  {
 }
 
 nav {
-  /*font-size: 15px;
-  font-family: 'Ubuntu Mono', monospace;*/
-  font-family: "IBM VGA 8x16", monospace;
-  
-  margin: 0;
-  padding: 0 1em;
+  font-size: 15px;
+  font-family: 'Ubuntu Mono', monospace;
 
-  /*position: absolute;*/
+  margin: 0;
+  padding: 1rem;
+
   left: 0;
   right: 0;
   overflow: hidden;
   z-index: 2;
 
-  border-right: 5px solid var(--dark);
+  border-right: 10px solid var(--dark);
+}
+
+#cover nav {
+  position: absolute;
+  top: 0;
+  text-transform: uppercase;
+  font-family: "IBM VGA 8x16", monospace;
+  font-size: 16px;
+  border: none;
+}
+
+#cover nav ul {
+  list-style: none;
+  min-width: 250px;
 }
 
 nav .left {
   width: 400px;
-  box-shadow: 0 0 20px 20px rgba(0,0,0,.8);
-}
-
-.cover-nav {
-  position: absolute;
+  /*box-shadow: 0 0 20px 20px rgba(0,0,0,.8);*/
 }
 
 nav .left ol, nav .left ul {
@@ -509,7 +615,6 @@ nav .left ol, nav .left ul {
 }
 
   nav .right {
-    position: absolute;
     justify-content: right;
     right: 10px;
     z-index: 20;
@@ -519,7 +624,6 @@ nav .left ol, nav .left ul {
     display: flex;
     text-transform: uppercase;
     list-style: none;
-    margin: 0 10px;
    /* font-size: 14px;
     font-family: monospace;*/
     padding: 0;
@@ -527,24 +631,24 @@ nav .left ol, nav .left ul {
 
   nav .right li {
     height: 100%;
-    padding: 21px 15px;
+    padding: 0 15px;
   }
 
-
+/*
   nav .right ul li:hover {
     background-color: var(--blood);
   }
   nav .right li:hover a {
     color: var(--black);
   }
-
+*/
 
 
 .doc-pdf {
   margin: 2em 0 4em;
 }
 
-
+/*
 .cover-nav label[for="menu-toggle"] {
   display: block;
   width: 100px;
@@ -564,9 +668,9 @@ nav .left ol, nav .left ul {
     background-color: var(--blood);
     color: var(--black);
   } 
-
+*/
+/*
 .cover-nav label[for="menu-toggle"]::selection {
-  /*background: #000000e0;*/
   color: inherit;
 }
 
@@ -576,6 +680,9 @@ nav .left ol, nav .left ul {
   color: var(--blood);
 }
 
+*/
+
+
 .menu-title {
   margin-top: -35px;
   margin-left: 27px;
@@ -584,7 +691,7 @@ nav .left ol, nav .left ul {
   text-transform: uppercase;
 }
 
-
+/*
 .cover-nav label[for="menu-toggle"]:hover > .menu-icon {
   color: var(--black);
 }
@@ -596,12 +703,19 @@ nav .left ol, nav .left ul {
 .cover-nav #menu-toggle:checked ~ label[for="menu-toggle"]{
   margin-bottom: 40px;
 }
+*/
 
 @supports (backdrop-filter: blur(10px)) {
-  nav,
-  label[for="menu-toggle"]::selection {
+  nav, 
+    label[for="menu-toggle"]::selection {
     backdrop-filter: blur(10px);
     background: rgba(0, 0, 0, 0.8);
+  }
+
+  #cover nav,
+  label[for="menu-toggle"]::selection {
+    backdrop-filter: none;
+    background: none;
   }
 }
 
@@ -675,7 +789,6 @@ and (max-width : 820px) {
     gap: 0; 
   }
 
-
   body {
     flex-wrap: nowrap;
     flex-direction: column;
@@ -724,7 +837,8 @@ and (max-width : 820px) {
     right: 20px; 
   }
 
-  #cover .nyxsign {
+  .nyxsign {
+    max-width: 400px;
     margin: 0 auto;
   }
 

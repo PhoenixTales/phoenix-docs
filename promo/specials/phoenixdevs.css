@@ -1,0 +1,283 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body {
+  margin: 5em auto;
+  padding: 0 2em;
+
+  background: url('PhoenixTales/bg.jpg') top center / 50% no-repeat #000;
+  max-width: 700px;
+
+  color: #a69685;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 14px;
+  line-height: 1.5em;
+}
+
+nav {
+  margin: 0 0 100px;
+}
+
+/* IMAGES */
+
+header img {
+  display: block;
+  margin: 0 auto;
+  max-width: 90%;
+  height: auto;
+}
+
+main {
+  padding-bottom: 5em;
+}
+
+main img {
+  max-width: 100%;
+  height: auto;
+}
+
+.right {
+  float: right; 
+  padding: 0 0 30px 20px;
+  max-width: 220px;
+}
+
+.left {
+  float: left; 
+  padding-right: 20px;
+  max-width: 220px;
+}
+
+.screen {
+  margin-top: 1em;
+}
+
+.screen-description {
+  margin: 0em 1em 2em;
+  color:#55504a;
+  font-size: 13px;
+}
+
+table {
+  width: 100%;
+  margin: 3em 0;
+}
+  tr {
+    padding: 10em;
+  }
+  th {
+    border: 1px solid #7a5443;
+    border-radius: 1em;
+    padding: 2em;
+  }
+  td {
+    padding: 1em;
+  }
+
+
+.gifts {
+  display: inline-block;
+  background: #111010;
+  max-width: 100%;
+  margin: 3em 0 2em;
+  padding: 2em;
+  border: 1px solid #212121;
+}
+
+.spoiler {
+  color:crimson;
+}
+
+.bird {
+  float: right;
+  max-width: 300px;
+  margin-left: 2.3em;
+  margin-bottom: 2em;
+}
+
+.self-description {
+  margin: 1.6em 0 2.6em;
+  font-size: 23px;
+  line-height: 2.5rem;
+}
+
+.blood { color: #934a46; }
+.green { color: #488c63; }
+.copper { color: #8c5f4e; }
+.demonic { color: #855f67; }
+.gold { color: #976b42; }
+.ore { color: #4f6766; }
+
+.full-img {
+  margin: 5em 0;
+}
+
+.devs p {
+  margin-top: 1em;
+}
+
+/* member pictures */
+.dev {
+  display: block;
+  margin: -2em auto 0em;
+}
+
+/* TEXT */
+
+h1 {
+  margin: 3em 0 1em;
+  line-height: 1.5em;
+  font: inherit;
+  font-weight: normal;
+  text-transform: uppercase;
+}
+
+h2 { 
+  text-align: center;
+  margin: 6em 0 2em; 
+  line-height: 1.5em;
+  font: inherit;
+  font-weight: normal;
+  text-transform: uppercase;
+  padding: 0;
+}
+
+.circles {
+  text-transform: lowercase;
+}
+
+h3 { 
+  margin-top: 5em;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+h4 { margin-bottom: 0; }
+
+h5 {
+  padding-top: 2em;
+  font-size: inherit;
+}
+
+p {
+  margin: 30px 0;
+/*
+  text-align: justify;
+
+  -moz-hyphens: auto;
+  -o-hyphens: auto;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto; 
+  */
+}
+
+.quote {
+  padding: 0 20px;
+  color: #a2988d;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0 3em;
+}
+
+li:before {
+  content: '* ';
+}
+
+.languages li {
+  float: left;
+  padding: 0 1em;
+}
+
+.links {
+  padding: 2em 0 3em;
+}
+
+.links li {
+  float: left;
+  padding-right: 4em;
+  padding-left: 0;
+}
+
+.author {
+  margin: 0;
+  border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+
+  max-width: 170px;
+}
+
+.signed {
+  float: right;
+  max-height: 160px;
+  padding: 0 50px;
+}
+
+.donate {
+  display: block;
+  margin: 0 auto;
+}
+
+
+
+/* LINKS */
+
+a {
+    color: #f2ad7a;
+    opacity: 1;
+  }
+  
+  a:hover img {
+    opacity: 0.7;
+    transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+  }
+  
+  a:link { color: #488c63; }
+  a:visited { color:#488c63; }
+  a:hover { color:#b45947; }
+  a:active { color:#55504a; }
+  
+  a, a:link, a:active, a:visited {
+    text-decoration:none;
+    transition: all 0.3s ease-out;
+    -webkit-transition: all 0.3s ease-out;
+    -moz-transition: all 0.3s ease-out;
+    -o-transition: all 0.3s ease-out;
+  }
+  
+  nav a:link { color: #dda692; }
+  nav a:visited { color: #dda692; }
+  nav a:hover { color: #b45947; }
+  nav a:active { color: #55504a; }
+  
+  ::selection {
+    background: #3c1e26;
+  }
+  
+  /* Scrollbar */
+  *::-webkit-scrollbar {
+    width: 12px;
+    height: 12px;
+    background: #101010;
+  }
+  
+  *::-webkit-scrollbar-track-piece {
+    background-color: rgba(0 0 0 / 70%);
+  }
+  
+  *::-webkit-scrollbar-track {
+    background: #101010;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    background-color: #424242;
+    border: 2px solid black;
+  }
