@@ -112,6 +112,7 @@ nav .top ul {
   display: flex;
 
   font-size: 16px;
+  padding: 0 1em;
   list-style-type: none;
   text-transform: uppercase;
 }
