@@ -103,6 +103,8 @@ nav img {
   }
 
 nav .top {
+  position: absolute;
+  right: 0;
   font-family: "IBM VGA 8x16", monospace;
 }
 
