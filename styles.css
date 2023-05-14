@@ -401,7 +401,7 @@ nav {
   font-family: 'Ubuntu Mono', monospace;
 
   margin: 0;
-  padding: 1rem;
+  padding: 0;
 
   left: 0;
   right: 0;
@@ -420,35 +420,6 @@ nav .left {
 nav .left ol, nav .left ul {
   /*font-size: 15px;*/
 }
-
-  nav .right {
-    justify-content: right;
-    right: 10px;
-    z-index: 20;
-  }
-
-  nav .right ul {
-    display: flex;
-    text-transform: uppercase;
-    list-style: none;
-   /* font-size: 14px;
-    font-family: monospace;*/
-    padding: 0;
-  }
-
-  nav .right li {
-    height: 100%;
-    padding: 0 15px;
-  }
-
-/*
-  nav .right ul li:hover {
-    background-color: var(--blood);
-  }
-  nav .right li:hover a {
-    color: var(--black);
-  }
-*/
 
 
 .doc-pdf {
