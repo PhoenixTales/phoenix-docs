@@ -319,7 +319,8 @@ a:hover {
     display: block;
     /*width: 100%;*/
     max-height: 400px;
-    max-width: 500px;
+    width: 500px;
+    max-width: 100%;
     margin: 330px auto 50px;
   }
 
@@ -384,7 +385,7 @@ a:hover {
   background-position: top center;
   background-size: 800px;
   background-repeat: no-repeat;
-  max-width: 100%;
+  /*max-width: 100%;*/
   margin-top: 37px;
   padding: 0;
   flex: 1;
@@ -549,7 +550,7 @@ and (max-width : 820px) {
   nav h1::before { content: ""; }
 
   #intro {
-    max-width: 100%;
+    /*max-width: 100%;*/
     /*background-size: 150% auto;*/
     background-size: 800px;
   }
