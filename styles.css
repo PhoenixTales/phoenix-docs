@@ -381,7 +381,6 @@ a:hover {
 /* CUSTOM BACKGROUNDS -> add CSS directly into the layout htmls? */
 
 #intro {
-  position: absolute;
   background: url("_img/bg/PhoenixMask-bg-dark.jpg");
   image-rendering: pixelated;
   background-position: top center;
