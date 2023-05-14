@@ -69,8 +69,14 @@ h4::before, h5::before, h6::before {
   padding-right: 0.5em;
 }
 
-nav h1 {  }
-nav h2 {  }
+nav h1 { 
+  margin-bottom: 0; 
+}
+
+nav h2, nav h3 { 
+  margin-top: 0;
+  margin-bottom: initial; 
+}
 
 nav h1, nav h2, nav h3 { 
   font-weight: normal; 
@@ -116,7 +122,7 @@ nav .top ul {
   text-transform: uppercase;
 }
   nav .top ul li {
-    padding: 0 1em;
+    padding: 0 0.5em;
   }
 
 
