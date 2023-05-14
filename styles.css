@@ -391,7 +391,7 @@ a:hover {
   background: url("_img/bg/masked2.jpg");
   image-rendering: pixelated;
   background-position: top center;
-  background-size: 600px;
+  background-size: 700px;
   background-repeat: no-repeat;
   /*max-width: 100%;*/
   margin-top: 37px;
@@ -557,12 +557,6 @@ and (max-width : 820px) {
   /* HIDE HEADING due to inclusion in menu button */
   nav h1 { display: none; }
   nav h1::before { content: ""; }
-
-  #intro {
-    /*max-width: 100%;*/
-    /*background-size: 150% auto;*/
-    background-size: 800px;
-  }
 
   .phnx-mask {
     width: 100%;
