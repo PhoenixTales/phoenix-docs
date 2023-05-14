@@ -54,7 +54,7 @@ main {
 /* HEADINGS */
 
 h1, h2, h3, h4, h5, h6 { font-size: inherit; }
-h2, h3, h4, h5, h6 { margin-top: 4em; }
+h2, h3, h4, h5, h6 { margin-top: 4em; margin-bottom: initial; }
 
 h1::before { content: "#"; }
 h2::before { content: "##"; }
@@ -112,10 +112,12 @@ nav .top ul {
   display: flex;
 
   font-size: 16px;
-  padding: 0 1em;
   list-style-type: none;
   text-transform: uppercase;
 }
+  nav .top ul li {
+    padding: 0 1em;
+  }
 
 
 /* INDEX NAVIGATION */
@@ -356,7 +358,7 @@ a:hover {
 #intro {
   background: url("_img/bg/PhoenixMask-bg-dark.jpg");
   image-rendering: pixelated;
-  /*background-position: top center;*/
+  background-position: top center;
   background-size: 800px;
   background-repeat: no-repeat;
   width: 100%;
