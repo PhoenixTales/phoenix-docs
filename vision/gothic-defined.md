@@ -16,7 +16,7 @@
 * Gothic-like Gameplay
   * Gothic in historical Context
   * Gothic as an Immersive Sim
-* Summary: Gothic (re)
+* Summary: Gothic (re)defined
 
 In order to create a gothic drama we have to define what "Gothic" is.  
 
