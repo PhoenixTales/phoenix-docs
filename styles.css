@@ -410,7 +410,7 @@ a:hover {
   background-position: top center;
   background-size: 600px;
   background-repeat: no-repeat;
-  /*max-width: 100%;*/
+  max-width: 620px;
   margin-top: 37px;
   padding: 340px 0 0;
   flex: 1;
