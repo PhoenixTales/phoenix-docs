@@ -1,5 +1,5 @@
 ---
-layout: gothic
+layout: vision
 ---
 
 # Vision of Gothic

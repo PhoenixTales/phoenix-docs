@@ -1,3 +1,7 @@
+---
+layout: gothic
+---
+
 # Gothic (re)defined 
 
 ![Gothic defined](/_img/headings/gothic-defined.png)
@@ -50,6 +54,8 @@ In 04/2000, zoks.de released a preview titled: "GOTHIC - The Aesthetics of Evil"
 <!--> What actually is and means "gothic"? In architecture it's those pointed arcs [...], but that hardly helps us to explain the game. Rather the (english) gothic novel of the 18th century: Mary Shellys "Frankenstein" is the most popular "gothic novel" - it develops further till Edgar Allen Poe, Howard Phillips Lovecraft, Dostojewski, as well as George Orwell.-->
 
 > Fragments of "Gothic" are night scenes, wild landscapes, dungeons, ruins, monasteries, castles, vaults. Unexplainable crimes, invocations or ritual sacrifices happen there, hidden powers, mad scientists and dark tyrants are at work, visions, dreams, fears and supernaturals play jokes on human sanity. Short: The irrational, supernatural and incomprehensible along with its emissaries line up to deride the enlightened mind, the rational intellect of man. If we want to grasp it very modern, Batmans Gotham along with its villains (Joker, Two-Face), who sit in the Arkham Asylum most of the time give an excellent picture of "Gothic".
+
+![Gotham City](/Appendix/Inspirations/gothic-novels/batman/Gotham-City-dc-comics-14582733-710-469.jpg)
 
 > It is also very likely that the Piranhas are Ex-Goths. And Goths are quasi the withdrawal by a romantic subculture that was weary of the political struggles of the punk/autonomous scenes.
 

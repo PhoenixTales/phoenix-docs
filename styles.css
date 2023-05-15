@@ -393,12 +393,21 @@ a:hover {
   flex: 1;
 }
 
-.gothic {
+.vision {
   background: url("/_img/bg/bg-friends2.jpg");
   background-position: top right;
-  background-size: 90%;
+  background-size: 100%;
   background-repeat: no-repeat;
   width: 100%;
+}
+
+.gothic {
+  background: url("/_img/bg/bg-roerich-doomed-city.jpg");
+  background-position: top center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 100%;
+  padding: 400px 0 0;
 }
 
 
