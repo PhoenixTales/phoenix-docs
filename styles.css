@@ -383,7 +383,7 @@ a:hover {
 /* CUSTOM BACKGROUNDS -> add CSS directly into the layout htmls? */
 
 #intro {
-  position: absolute;
+  /* position: absolute // test to fix footer and overflow */
   background: url("_img/bg/masked2b.jpg");
   image-rendering: pixelated;
   background-position: top center;
