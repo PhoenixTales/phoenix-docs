@@ -11,7 +11,8 @@
 	3. A Clash of Dreams
 	4. Phoenix Rising
 	5. Reconstruction
-2. Mechanics
+2. Artdesign
+3. Mechanics
 	1. Classes
 	2. [Attributes](/mechanics/attributes.html)
 	3. Skills
@@ -31,7 +32,7 @@
 	7. Interface
 	8. Events
 	9. AI Functions
-3. Story
+4. Story
 	1. Setting
 		1. Mythology
 		2. Geography
@@ -100,20 +101,23 @@
 			3. InquisitionCastle
 			4. DemonCamp
 			5. KhorinisCity
-4. Promotion
-5. Behind the Scenes
-	1. Devlog
-		1. Making of PhoenixTales
-		2. The Team behind Phoenix
-		3. Creating the ASCII Art
-	2. Essays
-		1. Phoenix & the Rescue of Design
-		2. Behind the Eyes of Elliot
-		3. Art and the Demonic Threat 
 
 
 ### Appendix
 
+1. Promotion
+	* Screenshots
+	* Teasers & Trailers
+	* Press
+2. Devblog
+	* Making of PhoenixTales
+	* The Team behind Phoenix
+	* Creating the ASCII Art
+3. Essays
+	1. Phoenix & the Rescue of Design
+	2. Behind the Eyes of Elliot
+	3. Art and the Demonic Threat 
+	4. The Return of the Design
 * Inspirations
 * Credits
 

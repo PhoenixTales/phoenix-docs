@@ -26,7 +26,6 @@ Currently the documentation is structured in the following categories:
 
 ```
 DESIGN CONCEPT 
-
 1. Vision 
 2. Artdesign
 3. Mechanics
@@ -37,9 +36,7 @@ DESIGN CONCEPT
    4.4 Relations
    4.5 Missions
 
-
-BEHIND THE SCENES
-
+APPENDIX
 * Promotion
 * Devblog
 * Inspirations
