@@ -385,14 +385,8 @@ a:hover {
 
 #intro {
   /* position: absolute // test to fix footer and overflow */
-  background: url("_img/bg/phnxbg.jpg");
-  image-rendering: pixelated;
-  background-position: top center;
-  background-size: 600px;
-  background-repeat: no-repeat;
   width: 100%;
   margin-top: 37px;
-  padding: 340px 0 0;
   flex: 1;
 }
 
@@ -407,6 +401,7 @@ a:hover {
   } 
 
 .prophetess {
+    image-rendering: pixelated;
     margin-top: 37px;
     width: 100%;
   }
