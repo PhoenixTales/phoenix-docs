@@ -5,13 +5,13 @@ layout: intro
 # Enter the Concept
 
 Welcome to the desert of the ideal.  
-These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working title "Project Nyx"), a radically immersive action rpg developed by PhoenixTales, based on GOTHIC by Piranha Bytes (which had "Phoenix" as its working title).   
+These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working title "Project Nyx"), a radically immersive action rpg developed by Phoenix Tales, based on GOTHIC by Piranha Bytes (which had "Phoenix" as its working title).   
 
-In the early stages of development we created what later would become the [Gothic Archive](https://gothicarchive.org) by collecting as much pre-release material as possible to research the original vision of what we summarise as the "Gothic Alpha". In course of this work we decided to prepare and present it in form of a website for the community.    
+In the early stages of development we created what later would become the [Gothic Archive](https://gothicarchive.org) by collecting as much pre-release material as possible to research the original vision of what we summarise as the "Gothic Alpha". In course of this work we decided to prepare and present it in form of a website for the community.  
 
-All this research of said material and our own game design derived from it is extensively documented in the design concept at hand. In the same way as we made the Archive public source we also have decided to release our design docs in form of this website.  
+All the research of said material and our own game design derived from it are extensively documented in the design concept at hand and in the same way as we made the Archive public source we also have decided to release our design docs in form of this website, our own minimal online documentation solution, where the index serves as the navigation.  
 
-It is made from scratch, being our own minimal online documentation solution, where the index serves as the navigation. Most documents are written in markdown and automatically formated into HTML, often complemented by appended spreadsheets. Thus it is easy to contribute [via git](https://github.com/PhoenixTales/phoenix-docs) and everyone can collaborate with us in our research.  
+Documents are written in markdown and automatically formated to HTML, often complemented by appended spreadsheets. It is easy to contribute [via git](https://github.com/PhoenixTales/phoenix-docs), thus everyone can collaborate with us in our research.  
 
 Since we target an international audience and are an international team from Germany, Poland, Romania, Czechia and with associations to Ukraine, Russia and Slovakia, we write the documentation in english.  
 
