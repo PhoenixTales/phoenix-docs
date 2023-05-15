@@ -215,17 +215,34 @@ footer {
 }
 
 .article img {
-  max-width: 100%;
+  width: 100%;
 }
 
-.article ol, article ul {
-  border-top: 2px solid var(--dark);
-  border-bottom: 2px solid var(--dark);
+
+.article ol, .article ul {
+  border-top: 2px solid var(--stone);
+  border-bottom: 2px solid var(--stone);
   list-style-type: none;
-  font-family: monospace;
+  align-self: flex-start;
   counter-reset: item;
-  padding: 1em 0 2em;
+  padding-top: 1em;
+  padding-bottom: 2em;
   margin: 0 0 3em;
+}
+
+.article ol>li { padding-left: 1em; }
+.article ul>li { padding-left: 0; }
+
+.article ul>li::before {
+  content: "[";
+  padding-right: 0.3em; 
+  color: var(--gold);
+}
+
+.article ul>li::after {
+  content: "]";
+  padding-left: 0.3em;
+  color: var(--gold);
 }
 
 .article ol>li { 
@@ -240,7 +257,6 @@ footer {
   content: counters(item, '.') '. '; 
   color: #6a6a6a;
 }
-
 
 
 /* CODE BLOCKS */
@@ -423,11 +439,11 @@ a:hover {
 
 .gothic {
   background: url("/_img/bg/bg-roerich-doomed-city.jpg");
-  background-position: top center;
-  background-size: 100%;
+  background-position: top left;
+  background-size: 900px;
   background-repeat: no-repeat;
   width: 100%;
-  padding: 400px 0 0;
+  padding: 300px 0 0;
 }
 
 

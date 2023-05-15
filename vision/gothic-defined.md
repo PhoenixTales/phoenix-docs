@@ -12,6 +12,7 @@ layout: gothic
 **Changed:** 04.12.2022  
 
 **Content:**  
+
 1. Gothic Aesthetics
   1. Gothic-style in other media
 2. Gothic Fantasy
@@ -22,10 +23,7 @@ layout: gothic
   2. Gothic as an Immersive Sim
 4. Summary: Gothic (re)defined
 
-In order to create a gothic drama we have to define what "Gothic" is.  
-
-Contrary to popular belief we understand Gothic not as a mere game and its underlying concept. For us it is (or to be more precise “was once supposed to be”) an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs.
-
+In order to create a gothic drama we have to define what "Gothic" is. Contrary to popular belief we understand Gothic not as a mere game and its underlying concept. For us it is (or to be more precise “was once supposed to be”) an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs.
 
 In the beginning we will analyse the meaning of Gothic as a term and the gothic aesthetics and will make concrete examples of gothic-style in other media to highlight common characteristics. 
 
@@ -76,7 +74,6 @@ It has to be understood that there are projects that share general aesthetical p
 
 Gothic comes in various forms.  
 There is typical christian medieval gothic, there is victorian gothic (such as American McGee's Alice), sword-and-sorcery-gothic (GOTHIC) or gothic-with-guns (Gloomwood); there is futuristic or contemporary gothic, cyber-gothic (MATRIX), industrial-gothic (STALKER), southern gothic (True Detective, Max Payne), oriental gothic (Prince of Persia: Warrior Within). Gothic aesthetics, moods and themes can be mixed with everything. 
-
 
 ![Morpheus and Neo dressed in black](/Appendix/Inspirations/gothic-styled-films/matrix/the_matrix_4k_67-1.jpg)
 
