@@ -225,7 +225,7 @@ footer {
   font-family: monospace;
   counter-reset: item;
   padding: 1em 0 2em;
-  margin: 2em 0 3em;
+  margin: 0 0 3em;
 }
 
 .article ol>li { 
