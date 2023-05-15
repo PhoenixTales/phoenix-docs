@@ -323,7 +323,7 @@ a:hover {
     max-height: 400px;
     width: 500px;
     max-width: 100%;
-    margin: 340px auto 100px;
+    margin: 0 auto 100px;
   }
 
   #intro .logo {
@@ -391,7 +391,7 @@ a:hover {
   background-repeat: no-repeat;
   /*max-width: 100%;*/
   margin-top: 37px;
-  padding: 0;
+  padding: 340px 0 0;
   flex: 1;
 }
 
