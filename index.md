@@ -9,7 +9,7 @@ These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working
 
 In the early stages of development we created what later would become the [Gothic Archive](https://gothicarchive.org) by collecting as much pre-release material as possible to research the original vision of what we summarise as the "Gothic Alpha". In course of this work we decided to prepare and present it in form of a website for the community.  
 
-All the research of said material and our own game design derived from it are extensively documented in the design concept at hand and in the same way as we made the Archive public source we also have decided to release our design docs in form of this website, our own minimal online documentation solution, where the index serves as the navigation.  
+All the research of said material and our own game design derived from it are extensively documented in the design concept at hand and in the same way as we made our Archive public source portal we have decided to release our design docs as well in form of a website. It is our own minimal online documentation solution, where the index serves as the navigation.  
 
 Documents are written in markdown and automatically formated to HTML, often complemented by appended spreadsheets. It is easy to contribute [via git](https://github.com/PhoenixTales/phoenix-docs), thus everyone can collaborate with us in our research.  
 
@@ -35,8 +35,12 @@ Currently the documentation is structured in the following categories:
     3.6 Missions
 4. Promotion
 5. Behind the Scenes
-
-Appendix
+5. Behind the Scenes
+APPENDIX 
+* Promotion
+* Behind the Scenes
+* Inspirations
+* Credits
 ```
 
 Whenever a topic has a source in design documents, old builds of the game or both our documentation is structured in an "Alpha" and a "Phoenix" section:  
