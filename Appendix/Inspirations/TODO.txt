@@ -1,0 +1,4 @@
+
+Ideas:
+* Display every image with a thick grey frame (like some oldschool blogs)?
+  Or with a thin grey frame (Lewie)

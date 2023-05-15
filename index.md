@@ -52,7 +52,7 @@ Whenever a topic has a source in design documents, old builds of the game or bot
 
 **Author:** Flosha  
 **Written:** 14.05.2023   
-**Changed:** 14.05.2023  
+**Changed:** 15.05.2023  
 
 
 ## Read next 

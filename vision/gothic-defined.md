@@ -8,15 +8,15 @@
 **Changed:** 04.12.2022  
 
 **Content:**  
-* Gothic Aesthetics
+1. Gothic Aesthetics
   * Gothic-style in other media
-* Gothic Fantasy
+2. Gothic Fantasy
   * Gothic as Low Fantasy
   * Gothic Horror vs. Cosmis Horror
-* Gothic-like Gameplay
+3. Gothic-like Gameplay
   * Gothic in historical Context
   * Gothic as an Immersive Sim
-* Summary: Gothic (re)defined
+4. Summary: Gothic (re)defined
 
 In order to create a gothic drama we have to define what "Gothic" is.  
 
@@ -66,31 +66,27 @@ It is true that the visionaries of Gothic were in the dark scene themselves or w
 
 It has to be understood that there are projects that share general aesthetical principles and themes with Gothic that play, e.g. in a futuristic universe and may thus have *more* in commmon with the aesthetics of Gothic than diverse medieval universes that are not gothic in style.
 
+![Old STALKER Screenshot](/Appendix/Inspirations/gothic-styled-games/stalker/1585388642-549438843.jpg)
+
 Gothic comes in various forms.  
 There is typical christian medieval gothic, there is victorian gothic (such as American McGee's Alice), sword-and-sorcery-gothic (GOTHIC) or gothic-with-guns (Gloomwood); there is futuristic or contemporary gothic, cyber-gothic (MATRIX), industrial-gothic (STALKER), southern gothic (True Detective, Max Payne), oriental gothic (Prince of Persia: Warrior Within). Gothic aesthetics, moods and themes can be mixed with everything. 
 
 
-
+![Morpheus and Neo dressed in black](/Appendix/Inspirations/gothic-styled-films/matrix/the_matrix_4k_67-1.jpg)
 
 In Matrix the whole crew of the Nebuchadnezzar wears typical gothic/punk fashion, they are rebels, techno-anarchists dressed in dark-scene clothing. There is the Merovingian residing in his castle with vaults of vampire programs underneath, running gothic clubs full of fetishism.  
 The Real World is a terrific dystopia where there is always darkness due to the veiling of the sky to block light as the machines energy source. Only the ruins of the former human civilisation remain. And the Machine City is like a futuristic vision of fields full of cyber-gothic cathedrals.
-    
 
+![Concept Art of the Machine City in Matrix](/Appendix/Inspirations/gothic-styled-films/matrix/9f6baf4ae424100c8fe8229ab82649b3.png)
 
 STALKER is contemporary industrial gothic at its finest, where the old medieval ruins of gothic castles are replaced by old factory complexes shut down after the nuclear disaster. Style and themes are the same. Stylistically as well as thematically STALKER shares more with GOTHIC than the official GOTHIC successors without doubt. 
 
-
-
-
-
-
 It is no wonder that gothic as a style seemed to dominate especially in the video game "industry" at that time when gamers were still considered kind of as outsiders. A `Warrior Within` (2003) would have been appreciated more when released in 1999.
 
+![Prince of Persia: Warrior Within Promo Screenshot](/Appendix/Inspirations/gothic-styled-games/warrior-within/PrinceofPersia2WarriorWithinGameScreenshot2.jpg)
 
-<p class="subtext">Analysing gothic as a style I realised how "gothic" is perhaps the essential factor that so many games and movies I like have in common. I love MATRIX, ALICE and STALKER. And apart from all these games and movies I loved Wuthering Heights, while not being aware that it's a typical gothic novel. 
-I loved True Detective and Max Payne, which are hard-boiled detective stories and both are visually "southern gothic". Other than that, Max Payne 2 is subtitled as a "film noir love story", which, to make it simple, is just the french way of saying *gothic*. 
-
-</p>
+<p class="subtext">Analysing gothic as a style I realised how "gothic" is perhaps the essential factor that so many games and movies I like have in common. I love MATRIX, ALICE and STALKER. And apart from all these games and movies I loved novels such as Wuthering Heights, while not being aware that it's a typical gothic novel.<br>
+I loved True Detective and Max Payne, which are hard-boiled detective stories and both are visually "southern gothic". Other than that, Max Payne 2 is subtitled as a "film noir love story", which, to make it simple, is just the french way of saying *gothic*.</p>
 
 
 
@@ -114,6 +110,8 @@ In the same way Gothic is low fantasy (to be seen in opposition to high fantasy)
 
 Mike specifically strived to create a fantasy world of creatures not to be found in any other common fantasy universe. Being fantasy of course they were inspired by Lord of the Rings and other popular fantasy fiction, but for him it was essential to make them unique. Originally even the Orcs were not supposed to have that common name. Partly inspired by H.G. Wells Time Machine, the name "Morlocks" was used internally for the Half-Orcs (half men, half orcs) that were originally supposed to be in the game and some of them were supposed to live among the humans. The orcs themselves, according to the Gothic lore, were once living with the humans in peace on the surface of the earth. Just as the *Homo neanderthalensis* coexisted with the *Homo sapiens* in our world, it is very similar with humans and Orcs in Gothic, just that they continued to coexist; and the Orcs may have developed differently (in an evolutionary perspective) and their culture declined, as they started to live underground since thousands of years because of the racism of the humans and the wars on the surface, as the early lore informs us. 
 
+![frank-frazetta.jpg](/Appendix/Inspirations/3rd-party_copyrighted/frank-frazetta.jpg)
+
 Independent from that, the orcish Culture in Gothic is quite different from the one in other fantasy universes. The Gothic orcs are more akin to an intelligent primate species like in Planet of the Apes than to the typical blood-thirsty monsters from Lord of the Rings. And not to forget about the shamans which play a crucial cultural role and are mainly inspired by real-world voodoo cults.  
 
 Yes, there are Skeletons, Zombies, Goblins and Trolls, something like the "staples" of fantasy monsters (but as well part of any folklore and horror story way before modern "fantasy" stories were written). But the Goblins for instance got a very different design than usual. They are no mammals but reptiles with scales and hatch out of eggs. The Trolls are nothing but huge apes, similar to Gorillas (and originally they were smaller), as they also could have existed in the past, living in synergy with the Gobbos.
@@ -135,6 +133,8 @@ And as we're dealing with a CRPG we have to understand how the characteristics o
 
 
 ### Gothic Horror vs. Cosmic Horror
+
+![Ron-Cobb_Demon_copyrighted.png](/Appendix/Inspirations/3rd-party_copyrighted/Ron-Cobb_Demon_copyrighted.png)
 
 Another underestimated aspect of GOTHIC is the horror. While many fans of the franchise do not seem to consider it a substantial part of the game at all [the game was released with an age recommendation of 12 in Germany], this is not representative for the developers initial intentions. In this interviews that becomes especially clear:
 
@@ -259,6 +259,8 @@ A game that comes with a gameplay similar to Gothic but has no gothic aesthetics
 Therefore we have to conclude that the official successors of GOTHIC are not abiding the principles of gothic-like gamedesign. This is *not* a judgement on their value as games. What we state here is that they are no worthy successors; not only were they even more limited in their immersive sim aspects than GOTHIC from 2001 that was itself restricted in comparison to what was originally planned, they also did not improve any of the essential principles such as the visualisation and certainly not the story. But most importantly they have completely abandoned the gothic aesthetics. They have a gameplay like Gothic, but they aren't gothic-like. 
 
 The Witcher series, especially Witcher 1, has more gothic aesthetics than any official Gothic game after GOTHIC from 2001 and they have done a great job in the story department; but while the developers even stated themselves how Gothic has inspired them, all of their games are less of an immersive simulation than any GOTHIC game. The world of Witcher 3 is filled with big, empty buildings of mere scenery and there is no social life neither of monsters and not even of NPCs, in complete opposition to the idea of a small game world without mere sceneric buildings and a simulated A-life. 
+
+![Max Payne in the cultists place](/Appendix/Inspirations/gothic-styled-games/max-payne/1471207365-889344923.jpg)
 
 There are many other examples of games that have a clear gothic aesthetics, less from today than back then, since this style was in vogue at the time. There are titles such as Shadow Man (1999), American McGee's Alice (2000), that is described as a "Gothic Alice", Soul Reaver (2000), Evil Twin: Cyprien’s Chronicles (2001), Max Payne (2001) or as one of the latest gothic-styled projects of that decade: Prince of Persia: Warrior Within (2004). Dusk, Gloomwood, Cliff Barkers Undying or Call of Cthulu are some modern examples of gothic style. But while all of those games adhere to gothic aesthetics they are not gothic-like in gameplay; as being no role playing games but pure action, platforming or adventure games. 
 
