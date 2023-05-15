@@ -210,10 +210,6 @@ footer {
   margin: 3em 0 0;
 }
 
-.article ol, .article ul {
-  padding-left: 1.5em;
-}
-
 .article p {
   margin: 1em 0;
 }
@@ -228,8 +224,8 @@ footer {
   list-style-type: none;
   font-family: monospace;
   counter-reset: item;
-  padding: 1em;
-  margin: 2em 0;
+  padding: 1em 0 2em;
+  margin: 2em 0 3em;
 }
 
 .article ol>li { 

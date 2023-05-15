@@ -13,13 +13,13 @@ layout: gothic
 
 **Content:**  
 1. Gothic Aesthetics
-  * Gothic-style in other media
+  1. Gothic-style in other media
 2. Gothic Fantasy
-  * Gothic as Low Fantasy
-  * Gothic Horror vs. Cosmis Horror
+  1. Gothic as Low Fantasy
+  2. Gothic Horror vs. Cosmis Horror
 3. Gothic-like Gameplay
-  * Gothic in historical Context
-  * Gothic as an Immersive Sim
+  1. Gothic in historical Context
+  2. Gothic as an Immersive Sim
 4. Summary: Gothic (re)defined
 
 In order to create a gothic drama we have to define what "Gothic" is.  
