@@ -392,11 +392,12 @@ a:hover {
 
   .logo {
     position: absolute;
+    top: 0;
     image-rendering: pixelated;
     display: block;
     max-height: 400px;
     max-width: 100%;
-    margin: 0 auto 100px;
+    margin: 100px auto 100px;
   } 
 
 .prophetess {
