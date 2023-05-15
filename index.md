@@ -25,20 +25,23 @@ A long-term goal is a physical publication of the concept after the release of t
 Currently the documentation is structured in the following categories:  
 
 ```
+DESIGN CONCEPT 
+
 1. Vision 
-2. Mechanics
-3. Story
-    3.1 Setting
-    3.2 World
-    3.3 Plot
-    3.5 Relations
-    3.6 Missions
-4. Promotion
-5. Behind the Scenes
-5. Behind the Scenes
-APPENDIX 
+2. Artdesign
+3. Mechanics
+4. Story
+   4.1 Setting
+   4.2 World
+   4.3 Plot
+   4.4 Relations
+   4.5 Missions
+
+
+BEHIND THE SCENES
+
 * Promotion
-* Behind the Scenes
+* Devblog
 * Inspirations
 * Credits
 ```
