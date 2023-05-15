@@ -7,8 +7,7 @@
 **Written:** 18.10.2022  
 **Changed:** 04.12.2022  
 
-In order to create a gothic drama we have to define what "Gothic" is.
-
+In order to create a gothic drama we have to define what "Gothic" is.  
 
 Contrary to popular belief we understand Gothic not as a mere game and its underlying concept. For us it is (or to be more precise “was once supposed to be”) an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs
 
