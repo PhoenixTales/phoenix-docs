@@ -5,7 +5,7 @@ layout: intro
 # Enter the Concept
 
 Welcome to the desert of the ideal.  
-These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working title "Project Nyx"), a radically immersive action rpg developed by Phoenix Tales, based on GOTHIC by Piranha Bytes (which had "Phoenix" as its working title).   
+These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working title "Project Nyx"), a radically immersive action rpg developed by Phoenix Tales, based on GOTHIC by Piranha Bytes which had "Phoenix" as its working title.   
 
 In the early stages of development we created what later would become the [Gothic Archive](https://gothicarchive.org) by collecting as much pre-release material as possible to research the original vision of what we summarise as the "Gothic Alpha". In course of this work we decided to prepare and present it in form of a website for the community.  
 
@@ -17,7 +17,7 @@ Since we target an international audience and are an international team from Ger
 
 A long-term goal is a physical publication of the concept after the release of the game.
 
-<p class="subtext blueinfo">Please note that the Design Concept is an ongoing documentation of the project since 2016. It is <strong class="demonic">work in progress</strong>. Many documents are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release to avoid unnecessary spoilers. Due to the current work on the order and internal structure of documents, regular changes to the index are to be expected.</p>
+<p class="subtext blueinfo">Please note that the Design Concept is an ongoing documentation of the project since 2016. It is <strong class="demonic">work in progress</strong>. Many documents are currently rewritten and will be unlocked over time. Just plot documents will not be published before the release of the game. Due to the current work on the order and internal structure of documents, regular changes to the index are to be expected.</p>
 
 
 ## Document Structure
