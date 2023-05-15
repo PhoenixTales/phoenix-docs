@@ -51,7 +51,7 @@ body {
 }
 
 main {
-  padding: 0 5%;
+  padding: 0;
   min-width: 0;
   overflow: hidden;
   flex: 1;
@@ -201,7 +201,7 @@ footer {
 
 .article {
   margin: 0;
-  padding: 2em 3em 5em;
+  padding: 2em 5% 5em;
   max-width: 620px;
   min-width: 0;
 }
