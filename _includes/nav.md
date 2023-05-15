@@ -118,8 +118,8 @@
 	2. Behind the Eyes of Elliot
 	3. Art and the Demonic Threat 
 	4. The Return of the Design
-* Inspirations
-* Credits
+4. Inspirations
+5. Credits
 
 
 <p class="doc-pdf">

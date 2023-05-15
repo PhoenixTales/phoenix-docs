@@ -143,10 +143,8 @@ nav .left ol, nav .left ul {
   font-size: 14px;
   counter-reset: item;
   padding-bottom: 0.5em;
+  padding-left: 0;
 }
-
-nav .left ol { padding-left: 0; }
-nav .left ul { padding-left: 1em; }
 
 nav .left ol>li { padding-left: 1em; }
 nav .left ul>li { padding-left: 0; }
