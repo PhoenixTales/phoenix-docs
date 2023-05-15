@@ -13,7 +13,7 @@ In order to create a gothic drama we have to define what "Gothic" is.
 Contrary to popular belief we understand Gothic not as a mere game and its underlying concept. For us it is (or to be more precise “was once supposed to be”) an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs
 
 
-In the beginning we will analyse the meaning of Gothic as a term and the gothic aesthetics. We will analyse Gothic as "another kind of fantasy" and compare gothic fantasy with common fantasy and gothic horror vs. cosmic horror. Based on the research of diverse documents and the interviews quoted in the "Vision of Gothic" we'll describe principles of gothic-like gamedesign in the context of immersive sims.  
+In the beginning we will analyse the meaning of Gothic as a term and the gothic aesthetics. We will analyse Gothic as "another kind of fantasy" and compare gothic fantasy with common fantasy and gothic horror vs. cosmic horror. Based on the research of diverse documents and the collected quotes in the "Vision of Gothic" we'll describe principles of gothic-like gamedesign in the context of immersive sims.  
 
 We will then define "what Gothic is", both as a genre and as the actual game as it was envisioned. In the end we will make concrete examples of gothic-style and gothic-like gameplay in other games and games of the same franchise and in how far they fit the definition.
 
