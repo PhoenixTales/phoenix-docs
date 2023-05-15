@@ -548,6 +548,10 @@ and (max-width : 820px) {
     border-right: none;
   }
 
+  .menu-title {
+    font-family: "IBM VGA 8x16", monospace;
+  }
+  
   nav img {
     display: none;
   }
