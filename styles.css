@@ -214,27 +214,13 @@ footer {
   margin: 1em 0;
 }
 
-.article img {
-  max-width: 100%;
-}
-
-
-.article ol, .article ul {
- /* border-top: 2px solid var(--dark);
-  border-bottom: 2px solid var(--dark);*/
-  align-self: flex-start;
-  counter-reset: item;
-  padding-top: 1em;
-  padding-bottom: 2em;
-  padding-left: 1em;
-}
-
 .article ol {
+  counter-reset: item;
   list-style-type: none;
+  padding-top: 1em;
+  padding-left: 1em;
+  padding-bottom: 0.5em;
 }
-
-.article ol>li { padding-left: 1em; }
-.article ul>li { padding-left: 0; }
 
 .article ol>li { 
   counter-increment: item;
@@ -247,6 +233,10 @@ footer {
 .article ol>li::before { 
   content: counters(item, '.') '. '; 
   color: #6a6a6a;
+}
+
+.article img {
+  max-width: 100%;
 }
 
 

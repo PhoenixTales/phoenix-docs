@@ -8,11 +8,9 @@ layout: gothic
 
 **Author:** Flosha  
 **Status:** <span class="changed">Work in progress</span>  
-**Written:** 18.10.2022  
-**Changed:** 04.12.2022  
+
 
 **Content:**  
-
 1. Gothic Aesthetics
     1. Gothic-style in other media
 2. Gothic Fantasy
@@ -279,7 +277,8 @@ STALKER is primarily lacking in the presentation of the story and in the interac
 TODO: Add sections from the essay or wherever.
 
 
-
+**Written:** 18.10.2022  
+**Changed:** 15.05.2023  
 
 
 ## Read next

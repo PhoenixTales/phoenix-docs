@@ -12,6 +12,13 @@ layout: vision
     in the words of the Devs (1998-1999)
 </p>
 
+**Author:** Flosha  
+**Status:** <span class="changed">Work in progress</span>  
+
+Here I tried to collect the most relevant ideas of the Gothic devs on their vision of the game; the concepts that they considered essential for what Gothic is in 1998. Many of the statements quoted below may seem repetitive. But I decided to present them as such in order to emphasize that these were the primary aspects of Gothics design that they were focused on, that they didn't get tired to mention, that they were most proud of and that informs our vision of Gothic. 
+
+---
+
 <p class="suptext">
   Other games suck,<br> 
   we do our own.
@@ -219,10 +226,11 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 
 **Michael Hoge:** When we started with GOTHIC, everyone used 3D engines to develop a 1st person shooter in a reality or sci-fi scenario and I was fed up with that. We liked the atmosphere of 3D games but wanted to bring a new aspect to it. Seems some other guys had the same idea. Fortunately, no one came too close to our vision of a 3D-RPG by now... (desslock.gamespot.com 15.06.1998)
 
+---
 
 ## Summary
 
-**Flosha:** Above I tried to collect the most relevant ideas of the Gothic devs on their conception of the game; the concepts that they considered essential for what Gothic is, which was already "touted by insiders for its breakthrough concepts" in 1998. Many of the above statements may seem repetitive. But I decided to present them as such in order to emphasize that these were the primary aspects that they focused on and that their vision consisted of. Below I attempted to summarise the essential concepts behind Gothic based on our research and our own understanding as it has shaped over the years:  
+**Flosha:** Based on the quotes above, on our research and our own understanding as it has shaped over the years I attempted to summarise the essential concepts behind Gothic in condensed form:  
 
 (1) Story is defined as "the heart" of rpgs; as you are playing a role in a story (or "drama"), the rpg <em>has</em> to be story-driven and as it is a game it has to be driven <em>by</em> gameplay. 
 
@@ -233,10 +241,6 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 [include chapters/acts as story arcs and twists and world changes] 
 
 
-
-**Author:** Flosha  
-**Collection:**  XY  
-**Summary:** 10.12.22  
-**Status:** <span class="changed">Work in progress</span>   
-
+**Collection:** XY  
+**Summary:** 10.12.22 
 
