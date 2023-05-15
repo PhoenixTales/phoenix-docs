@@ -17,12 +17,12 @@ Since we target an international audience and are an international team from Ger
 
 A long-term goal is a physical publication of the concept after the release of the game.
 
-<p class="subtext blueinfo">Please note that the Design Concept is an ongoing documentation of the project since 2016. It is <strong class="demonic">work in progress</strong>. Many documents are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release to avoid unnecessary spoilers. Due to the current work on the order and internal structure of documents, regular changes to the Index are to be expected.</p>
+<p class="subtext blueinfo">Please note that the Design Concept is an ongoing documentation of the project since 2016. It is <strong class="demonic">work in progress</strong>. Many documents are currently rewritten and will be unlocked over time. Plot documents will not be unlocked before release to avoid unnecessary spoilers. Due to the current work on the order and internal structure of documents, regular changes to the index are to be expected.</p>
 
 
 ## Document Structure
 
-The documentation follows the following structure:  
+Currently the documentation is structured in the following categories:  
 
 ```
 1. Vision 
@@ -39,17 +39,12 @@ The documentation follows the following structure:
 Appendix
 ```
 
-Whenever a topic has a source in design documents, old builds of the game or both, our documentation is structured as follows:  
+Whenever a topic has a source in design documents, old builds of the game or both our documentation is structured in an "Alpha" and a "Phoenix" section:  
 
+```
 (1) Research of how aspect X was planned  
-(2) Concept for realisation of X in Phoenix  
-
-
-
-
-
-
-
+(2) Concept for realisation of X in Phoenix
+```
 
 **Author:** Flosha  
 **Written:** 14.05.2023   
@@ -65,5 +60,4 @@ Whenever a topic has a source in design documents, old builds of the game or bot
 
 * [phoenixtales.de](https://phoenixtales.de)
 * [phoenixthegame.com](https://phoenixthegame.com)
-* [PHOENIX FAQ](/vision/faq).
 * [gothicarchive.org](https://gothicarchive.org)
