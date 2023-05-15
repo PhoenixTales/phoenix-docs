@@ -395,7 +395,6 @@ a:hover {
     image-rendering: pixelated;
     display: block;
     max-height: 400px;
-    width: 500px;
     max-width: 100%;
     margin: 0 auto 100px;
   } 
@@ -403,7 +402,7 @@ a:hover {
 .prophetess {
     image-rendering: pixelated;
     margin-top: 37px;
-    width: 100%;
+    width: 110%;
   }
 
 .vision {
