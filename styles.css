@@ -331,16 +331,6 @@ a:hover {
   gap: 20px;
 }
 
-  .logo {
-    image-rendering: pixelated;
-    display: block;
-    /*width: 100%;*/
-    max-height: 400px;
-    width: 500px;
-    max-width: 100%;
-    margin: 0 auto 100px;
-  }
-
 
 /* HEADING STYLING */
 
@@ -395,16 +385,31 @@ a:hover {
 
 #intro {
   /* position: absolute // test to fix footer and overflow */
-  background: url("_img/bg/masked2b.jpg");
+  background: url("_img/bg/phnxbg.jpg");
   image-rendering: pixelated;
   background-position: top center;
   background-size: 600px;
   background-repeat: no-repeat;
-  max-width: 620px;
+  width: 100%;
   margin-top: 37px;
   padding: 340px 0 0;
   flex: 1;
 }
+
+  .logo {
+    position: absolute;
+    image-rendering: pixelated;
+    display: block;
+    max-height: 400px;
+    width: 500px;
+    max-width: 100%;
+    margin: 335px auto 100px;
+  } 
+
+.prophetess {
+    margin-top: 37px;
+    width: 100%;
+  }
 
 .vision {
   background: url("/_img/bg/bg-friends2.jpg");
