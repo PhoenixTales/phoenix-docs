@@ -217,7 +217,7 @@ footer {
 .article ol {
   counter-reset: item;
   list-style-type: none;
-  padding-top: 1em;
+
   padding-left: 1em;
   padding-bottom: 0.5em;
 }
@@ -228,6 +228,7 @@ footer {
 
 .article li>ol>li {
   border-left: 1px dashed var(--stone);
+  padding-left: 0.5em;
 }
 
 .article ol>li::before { 
