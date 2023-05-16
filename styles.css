@@ -564,6 +564,8 @@ and (max-width : 820px) {
     width: 100%;
     font-size: 15px;
     border-right: none;
+    
+    box-shadow: 0 30px 40px rgba(0,0,0,.1);
   }
 
   .menu-title {
