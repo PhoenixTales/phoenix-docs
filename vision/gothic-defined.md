@@ -11,15 +11,19 @@ layout: gothic
 
 
 **Content:**  
-1. [Gothic Aesthetics]()
-    1. [Gothic-style in other media]()
-2. [Gothic Fantasy]()
-    1. [Gothic as Low Fantasy]()
-    2. [Gothic Horror vs. Cosmis Horror]()
-3. [Gothic-like Gameplay]()
-    1. [Gothic in historical Context]()
-    2. [Gothic as an Immersive Sim]()
-4. [Summary: Gothic (re)defined]()
+1. [What is Gothic?](#what-is-gothic?)
+2. [Gothic Aesthetics](#gothic-aesthetics)
+    1. [Gothic-style in other media](#gothic-style-in-other-media)
+3. [Gothic Fantasy](#gothic-fantasy)
+    1. [Gothic as Low Fantasy](#gothic-as-low-fantasy)
+    2. [Gothic Horror vs. Cosmic Horror](#gothic-horror-vs.-cosmic-horror)
+4. [Gothic-like Gameplay](#gothic-like-gameplay)
+    1. [Gothic in historical Context](#gothic-in-historical-context)
+    2. [Gothic as an Immersive Sim](#gothic-as-an-immersive-sim)
+5. [Gothic (re)defined](#gothic-re(de)fined)
+
+
+## What is Gothic?
 
 In order to create a gothic drama we have to define what "Gothic" is. Contrary to popular belief we understand Gothic not as a mere game and its underlying concept. For us it is (or to be more precise “was once supposed to be”) an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy rpgs.
 
