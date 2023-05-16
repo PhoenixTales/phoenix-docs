@@ -13,9 +13,8 @@ These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working
 2016-2023 by PhoenixTales
 
 Authors: 
-Flosha, logx, Phantom
+Flosha, logx, Phantom95
 Arbax, Avallach, Auronen
-       
 ```  
 
 In the early stages of development we created what later would become the [Gothic Archive](https://gothicarchive.org) by collecting as much pre-release material as possible to research the original vision of what we summarise as the "Gothic Alpha". In course of this work we decided to prepare and present it in form of a website for the community.  
