@@ -218,17 +218,17 @@ footer {
   counter-reset: item;
   list-style-type: none;
 
-  padding-left: 1em;
+  padding-left: 0;
   padding-bottom: 0.5em;
 }
 
 .article ol>li { 
   counter-increment: item;
+  padding-left: 1em;
 }
 
 .article li>ol>li {
   border-left: 1px dashed var(--stone);
-  padding-left: 0.5em;
 }
 
 .article ol>li::before { 
