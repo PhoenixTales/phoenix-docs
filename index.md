@@ -30,8 +30,7 @@ A long-term goal is a physical publication of the concept after the release of t
 
 Currently the documentation is structured in the following categories:  
 
-```
-DESIGN CONCEPT 
+**DESIGN CONCEPT** 
 1. Vision 
 2. Artdesign
 3. Mechanics
@@ -42,11 +41,11 @@ DESIGN CONCEPT
    4.4 Relations
    4.5 Missions
 
-APPENDIX
-* Promotion
-* Inspirations
-* Credits
-```
+**APPENDIX**
+1. Promotion
+2. Inspirations
+3. Credits
+
 
 Whenever a topic has a source in design documents, old builds of the game or both our documentation is structured in an "Alpha" and a "Phoenix" section:  
 
