@@ -29,9 +29,9 @@ In order to create a gothic drama we have to define what "Gothic" is. Contrary t
 
 In the beginning we will analyse the meaning of Gothic as a term and the gothic aesthetics and will make concrete examples of gothic-style in other media to highlight common characteristics. 
 
-We will then analyse Gothic as "another kind of fantasy", compare gothic fantasy with common fantasy, deal with low fantasy as a substantial subcategory of this genre and with gothic horror vs. cosmic horror. 
+We will then analyse Gothic as "another kind of fantasy", compare gothic fantasy with common fantasy, deal with the concept of low fantasy and with gothic horror vs. cosmic horror. 
 
-Based on the research of diverse documents and interviews as summarised in the collected quotes in the "Vision of Gothic" we'll describe principles of gothic-like gamedesign in the historical context of game-development and Gothics evolutionary roots in the immersive sims preceeding and inspiring it. We will compare this vision of a game with the game that was released, with games of similar character and with titles of the same franchise in context of the design principles of gothic-like immersive sims.
+Based on the research of diverse documents and interviews as summarised in the collected quotes in the ["Vision of Gothic"](/vision/vision-of-gothic) we'll describe principles of gothic-like gamedesign in the historical context of game-development and Gothics evolutionary roots in the immersive sims preceeding and inspiring it, will compare this vision of a game with the game that was released, with games of similar character and with titles of the same franchise in context of the design principles of gothic-like immersive sims.
 
 Summarising our findings we will then define "what Gothic is", both as a genre and as the actual game that was envisioned in 1996 to 1999 and as it finds expression in the PHOENIX project. 
 
@@ -39,11 +39,11 @@ Summarising our findings we will then define "what Gothic is", both as a genre a
 
 ## Gothic Aesthetics
 
-Among the "fans" of the official GOTHIC franchise there is a large amount of people who love GOTHIC only for the immersive gameplay and lore that is characteristic to it (or what remained of it in the release version), while they do *not* consider the actual gothic *aesthetics* as anything essential. In other words: They love Gothic not for how "gothic" it is.  
+Among the fans of the official GOTHIC franchise there is a large amount of people who love GOTHIC only for the immersive gameplay and lore characteristic to it (or what remained of it in the release version), while they do *not* consider actual gothic *aesthetics* as anything essential. In other words: They love Gothic not for how "gothic" it is.  
 
-Their perspective is particularly one-sided and excludes essential characteristics of what Gothic as a game was supposed to be and what “gothic” as a term is by definiton. A complete definition of Gothic cannot be given without gothic aesthetics, the particular “style” strived for and hinted at with the very name “Gothic”. 
+Their perspective is one-sided and excludes essential characteristics of what Gothic as a game was supposed to be and what “gothic” as a term is by definiton. A complete definition of Gothic cannot be given without gothic aesthetics, the particular “style” strived for and hinted at with the very name “Gothic”. 
 
-Some people keep saying that Gothic as a game would have nothing to do with gothic as a term. They think it was just a cool sounding name without any relation to the associated cultural and aesthetical implications. And this is wrong. Gothic is both inspired by historical Goths (such as the early medieval Visi Goth) as well as by gothic fiction and to some degree even by the modern gothic scene evolving from it.
+Some people keep saying that Gothic as a game has nothing to do with gothic as a term. They think it was just a cool sounding name without any relation to the associated cultural and aesthetical implications. And this is wrong. Gothic is both inspired by historical Goths (such as early medieval Visi Goth) as well as by gothic fiction.  
 
 <p class="subtext">In the lore documentation the actual goths from early medieval times will play a role and will be pointed out as an inspiration, but here we want to focus on gothic as a style.</p>
 

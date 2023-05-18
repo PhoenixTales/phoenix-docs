@@ -372,8 +372,7 @@ hr {
 
 .subtext {
   font-size: 14px;
-  background-color: var(--black);
-  border: 5px solid var(--dark);
+  border: 1px solid var(--dark);
   padding: 1em;
   margin: 2em 0;
 }
