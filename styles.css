@@ -319,7 +319,7 @@ a:hover {
 
 hr {
   margin-top: 2em;
-  border: 2px solid var(--dark);
+  border: 1px solid var(--dark);
 }
 
 
@@ -448,8 +448,6 @@ label[for="menu-toggle"]  {
 nav {
   font-size: 15px;
   font-family: 'Ubuntu Mono', monospace;
-
-  background-color: var(--dark);
 
   margin: 0;
   padding: 0;
