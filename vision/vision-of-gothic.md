@@ -249,3 +249,7 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 **Collection:** 07.19  
 **Summary:** 10.12.22  
 
+
+## Read next 
+
+* [Gothic defined](/vision/gothic-defined)
