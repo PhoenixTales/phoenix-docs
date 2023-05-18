@@ -215,6 +215,8 @@ footer {
 }
 
 .article ol {
+  font-family: monospace;
+
   counter-reset: item;
   list-style-type: none;
 
