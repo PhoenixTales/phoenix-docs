@@ -46,7 +46,6 @@ Sources:
 
 **Mike:** It was always my dream to make computer games. I was always annoyed about the masses of bad games and thought: That must be done better! Now I know how much work it is if you try to realise high expectations - but it looks like we're going to make it! Everything will be fine! (PC Action, 10.08.1998)
 
-
 **Stefan:** [...] Back then, we have worked on various games for the German market. But we urged for more and so we founded PIRANHA BYTES. With this splendid team we are sailing into international waters and we really have a "heavy load" with us :-) (gagames.com 20.06.1998)
 
 
@@ -77,7 +76,6 @@ We do not attempt to reconstruct one specific alpha version or to shape the game
 What we attempt to achieve is to unite the different ideas from all periods of development. We want to realise this diverse dream, as we imagined the game to be by the words written and images shown to us before release, to reconstruct and turn it into one harmonious and coherent whole and to go beyond in that we try to max out the radical potential of GOTHIC, as we dream beyond industrial constraints.
 
 PHOENIX is what GOTHIC should have been. 
-PHOENIX is to GOTHIC what Oblivion Lost is to STALKER.
 
 We try to realise the contradictory ideas of the founders, bring them to an end, and maybe thereby help, at least a bit, to heal the old wounds of their clash of dreams.
 

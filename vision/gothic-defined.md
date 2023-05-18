@@ -133,9 +133,9 @@ In short: they are fantastical instead of realistical. But realistic here means 
 And this is one of the crucial things to differentiate between fantastical stories. Instead of the superficial and outdated differentiations such as fantasy vs. sci-fi, we suggest to differentiate the nature of fantastical stories based on the following differentiations:
 
 <ul class="list-small">
-    <li>* <em>Historicity of the Fantastical:</em> Is it, inspite of its fantastical elements, inspired by or set in a historical period of the past, the present or in an imaginative future based on historical reality? Or is it beyond any historical inspiration in a purely fantastical world? (historically inspired vs. non-historically inspired fantasy)</li>
-    <li>* <em>Pervasiveness of the Fantastical:<em> Are the fantastical or magical elements in "high" focus of (or especially highlighted in) the story, do they fully pervade the game and the world or are they low-key? (high vs. low fantasy)</li>
-    <li>* <em>Conceivability of the Fantastical:<em> Are the fantastical elements of the story conceivable as *potentially* real or decidedly surreal and does the story try to make this conceivability believable by any (pseudo-)scientific means or doesn't it care about that? (down-to-earth-fantasy vs. (airy-)fairy-tale-fantasy)</li>
+    <li><em>Historicity of the Fantastical:</em> Is it, inspite of its fantastical elements, inspired by or set in a historical period of the past, the present or in an imaginative future based on historical reality? Or is it beyond any historical inspiration in a purely fantastical world? (historically inspired vs. non-historically inspired fantasy)</li>
+    <li><em>Pervasiveness of the Fantastical:</em> Are the fantastical or magical elements in "high" focus of (or especially highlighted in) the story, do they fully pervade the game and the world or are they low-key? (high vs. low fantasy)</li>
+    <li><em>Conceivability of the Fantastical:</em> Are the fantastical elements of the story conceivable as *potentially* real or decidedly surreal and does the story try to make this conceivability believable by any (pseudo-)scientific means or doesn't it care about that? (down-to-earth-fantasy vs. (airy-)fairy-tale-fantasy)</li>
 </ul>
 
 Obviously the borders between those categorical pairs are fluid and there may be scenarios where we would have a hard time to clearly assign one or the other. But many fantasty universes can be easily assigned one of the pairs in each category.
@@ -204,6 +204,8 @@ Deus Ex (working title "Troubleshooter") was described by Warren Spector in his 
 In the same way, Arkane Studios wanted to make a Sequel to *Ultima Underworld*; (working title was "Ultima Underworld III"), but as they couldn't acquire the license and their proposal was rejected, it would become *Arx Fatalis*.  
 
 The same Immersive Sims inspired both the Mad Scientists, who wanted to make the "best game in the world" and would later develop the Engine of GOTHIC, as well as the four founders of Piranha Bytes. They were idealists at that time, in 1997, and GOTHIC (working title "Phoenix") was meant to be a combination of all the things they loved. In fact, it would have been just as wild a mix of genres as Deus Ex. In the ["Vision of Gothic"](/vision/vision-of-gothic) I tried to summarise their take on the immersive sim in condensed form.  
+
+> [...] I really enjoyed old Games like Dungeon Master, Ultima Underworld or SystemShock and I've been waiting for an up to date Sequel for a long time, but that doesn't happen. So: Do it yourself! (Mike Hoge, 29.05.1998, Gamesmania)
 
 GOTHIC was supposed to...  
 * be a mix of fantasy role playing and action (video) game in realtime 3D experienced in a 3rd person view (and other case-specific modes) with dynamic camera movement where the player is always in control of what he sees (no cutscenes, just an immersive simulated game world).  

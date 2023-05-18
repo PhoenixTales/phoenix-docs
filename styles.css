@@ -239,8 +239,11 @@ footer {
 }
 
 .article ul.list-small {
-  
+  font-size: 14px;
 }
+  .article ul.list-small em {
+    color: #77584b;
+  } 
 
 
 .article img {
