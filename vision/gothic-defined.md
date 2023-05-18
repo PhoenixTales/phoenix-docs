@@ -64,7 +64,7 @@ Goths or not, the early Piranha Bytes had a background in the black scene. In an
 **Delekhan:** "GOTHIC" is an interesting choice for the name of your game. Is it just a working-title or the actual title?  
 **Tom Putzki:** [...] GOTHIC is the actual title of our game. I like that kind of music and people, the black scene. It's dark, gloomy, mysterious, creepy and magic - that's GOTHIC.  
 
-It is true that the visionaries of Gothic were in the scene themselves or were at least inclined to it. The old Pirana Bytes was punk and goth in character. And while the gothic scene is not the primary stilistic influence, it is still connected with it, as the subculture evolved from the very literary influence of gothic novels and their romanticising view on decay and, in the end, of death itself, that inspired the artdirection of Gothic. 
+It is true that the visionaries of Gothic, the old Pirana Bytes was punk and goth in character. And while the gothic scene may not be the primary stilistic influence, it is still connected with it, just as the subculture evolved from the very literary influence of gothic novels and their romanticising view on decay and, in the end, of death itself, that inspired the artdirection of Gothic. 
 
 <p class="subtext">The Gothic story Sleeper's Ban by Alex Wittmann (described by Tom as "Punk, Physician, Surgeon, Roleplayer, Fantasy-Freak, Friend"), that is full of "shocking" descriptions (in german gothic novels are described as "Schauerromane"), can also be seen in this very tradition as a mixture of gothic novel and fantasy book, short: as gothic fantasy.</p>
 
