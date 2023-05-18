@@ -47,9 +47,9 @@ Some people keep saying that Gothic as a game has nothing to do with gothic as a
 
 <p class="subtext">In the lore documentation the actual goths from early medieval times will play a role and will be pointed out as an inspiration, but here we want to focus on gothic as a style.</p>
 
-Gothic as a term in relation to the *style* of GOTHIC as a game is not primarily refering to later high gothic architecture nor to the modern gothic subculture. The primary influence is that of gothic fiction, which is based on a romanticised view of the past, of decay and of the signs of time. Destruction, ruins, rust and patina are what gothic stories are clad in. In this regard, I compare gothic as a *visual* style to the japanese wabi-sabi aesthetics, with the difference that gothic contains horrific or terrific elements and that the very style that is idealised in wabi-sabi and romanticised by gothic authors is here at the same time used as a robe for the terror of the story (and in a game of the simulated world and life).  
+Gothic as a term in relation to the *style* of GOTHIC as a game is not primarily refering to later high gothic architecture nor to the modern gothic subculture. The primary influence is that of gothic fiction, which is based on a romanticised view of the past, of decay, of the signs of time. Destruction, ruins, rust and patina are what gothic stories are clad in. In this regard we compare gothic as a *visual* style to the japanese wabi-sabi aesthetics, with the difference that gothic contains horrific or terrific elements and that the very style that is idealised in wabi-sabi and romanticised by gothic authors is here at the same time used as a robe for the terror of the story (and in a game of the simulated world and life).  
 
-In 04/2000, zoks.de released a preview titled: "GOTHIC - The Aesthetics of Evil" of which we want to quote some meaningful lines: 
+In 04/2000, Terrorian released a preview on zoks.de, titled: "[GOTHIC - The Aesthetics of Evil](https://gothicarchive.org/previews/2000/04_2000_zoks.de.txt)" of which we quote some meaningful lines: 
 
 <!--> What actually is and means "gothic"? In architecture it's those pointed arcs [...], but that hardly helps us to explain the game. Rather the (english) gothic novel of the 18th century: Mary Shellys "Frankenstein" is the most popular "gothic novel" - it develops further till Edgar Allen Poe, Howard Phillips Lovecraft, Dostojewski, as well as George Orwell.-->
 
@@ -59,18 +59,16 @@ In 04/2000, zoks.de released a preview titled: "GOTHIC - The Aesthetics of Evil"
 
 > It is also very likely that the Piranhas are Ex-Goths. And Goths are quasi the withdrawal by a romantic subculture that was weary of the political struggles of the punk/autonomous scenes.
 
-Interview for gamespot.com 15.06.1998:  
+Goths or not, the early Piranha Bytes had a background in the black scene. In an interview for [gamespot.com from 15.06.1998](https://gothicarchive.org/interviews/1998/15.06.1998_desslock.gamespot.txt), Tom Putzki specifically remarked this relation himself:  
+
 **Delekhan:** "GOTHIC" is an interesting choice for the name of your game. Is it just a working-title or the actual title?  
 **Tom Putzki:** [...] GOTHIC is the actual title of our game. I like that kind of music and people, the black scene. It's dark, gloomy, mysterious, creepy and magic - that's GOTHIC.  
 
-It is true that the visionaries of Gothic were in the dark scene themselves or were inclined to it. The old Pirana Bytes was punk and goth in character; GOTHIC was developed under the influence of a zeitgeist that also brought us Matrix (which is futuristic gothic); and it does not surprise that the devs posed in long black coats. While the gothic scene is not the primary stilistic influence, it is still connected with it, as the subculture evolved from the very literary influence of gothic novels and their romanticising view on decay and, in the end, of death itself, that inspired the artdirection of Gothic. 
+It is true that the visionaries of Gothic were in the scene themselves or were at least inclined to it. The old Pirana Bytes was punk and goth in character. And while the gothic scene is not the primary stilistic influence, it is still connected with it, as the subculture evolved from the very literary influence of gothic novels and their romanticising view on decay and, in the end, of death itself, that inspired the artdirection of Gothic. 
 
 <p class="subtext">The Gothic story Sleeper's Ban by Alex Wittmann (described by Tom as "Punk, Physician, Surgeon, Roleplayer, Fantasy-Freak, Friend"), that is full of "shocking" descriptions (in german gothic novels are described as "Schauerromane"), can also be seen in this very tradition as a mixture of gothic novel and fantasy book, short: as gothic fantasy.</p>
 
-
-
-
-It has to be understood that there are projects that share general aesthetical principles and themes with Gothic that play, e.g. in a futuristic universe and may thus have *more* in commmon with the aesthetics of Gothic than diverse medieval universes that are not gothic in style.
+It has to be understood that there are projects that share general aesthetical principles and themes with GOTHIC that play, e.g. in a futuristic universe, but may thus have *more* in commmon with the aesthetics of GOTHIC than diverse medieval universes that are not gothic in style.
 
 ![Old STALKER Screenshot](/Appendix/Inspirations/gothic-styled-games/stalker/1585388642-549438843.jpg)
 
@@ -79,14 +77,13 @@ There is typical christian medieval gothic, there is victorian gothic (such as A
 
 ![Morpheus and Neo dressed in black](/Appendix/Inspirations/gothic-styled-films/matrix/the_matrix_4k_67-1.jpg)
 
-In Matrix the whole crew of the Nebuchadnezzar wears typical gothic/punk fashion, they are rebels, techno-anarchists dressed in dark-scene clothing. There is the Merovingian residing in his castle with vaults of vampire programs underneath, running gothic clubs full of fetishism.  
-The Real World is a terrific dystopia where there is always darkness due to the veiling of the sky to block light as the machines energy source. Only the ruins of the former human civilisation remain. And the Machine City is like a futuristic vision of fields full of cyber-gothic cathedrals.
+GOTHIC was developed under the influence of a time that also brought us Matrix (which is purely futuristic gothic); and it does not surprise that the devs posed in long black coats for previews of the game. In Matrix the whole crew of the Nebuchadnezzar wears typical gothic/punk fashion, they are rebels, techno-anarchists dressed in dark-scene clothing. There is the Merovingian residing in his castle with vaults of vampire programs underneath, running gothic clubs full of fetishism. The Real World is a terrific dystopia where there is always darkness due to the veiling of the sky to block light as the machines energy source. Only the ruins of the former human civilisation remain. And the Machine City is like a futuristic vision of fields full of cyber-gothic cathedrals. 
 
 ![Concept Art of the Machine City in Matrix](/Appendix/Inspirations/gothic-styled-films/matrix/9f6baf4ae424100c8fe8229ab82649b3.png)
 
-STALKER is contemporary industrial gothic at its finest, where the old medieval ruins of gothic castles are replaced by old factory complexes shut down after the nuclear disaster. Style and themes are the same. Stylistically as well as thematically STALKER shares more with GOTHIC than the official GOTHIC successors without doubt. 
+STALKER is contemporary industrial gothic at its finest, where the old medieval ruins of gothic castles are replaced by old factory complexes shut down after the nuclear disaster. Style and themes are the same. In fact, stylistically as well as thematically STALKER shares more with GOTHIC than the official GOTHIC successors.  
 
-It is no wonder that gothic as a style seemed to dominate especially in the video game "industry" at that time when gamers were still considered kind of as outsiders. A `Warrior Within` (2003) would have been appreciated more when released in 1999.
+And it is no wonder that gothic as a style seemed to dominate especially in the video game "industry" at that time when gamers were still considered kind of as outsiders. A `Warrior Within` (2003) would have been appreciated more when released in 1999.
 
 ![Prince of Persia: Warrior Within Promo Screenshot](/Appendix/Inspirations/gothic-styled-games/warrior-within/PrinceofPersia2WarriorWithinGameScreenshot2.jpg)
 
@@ -94,12 +91,33 @@ It is no wonder that gothic as a style seemed to dominate especially in the vide
 I loved True Detective and Max Payne, which are hard-boiled detective stories and both are visually "southern gothic". Other than that, Max Payne 2 is subtitled as a "film noir love story", which, to make it simple, is just the french way of saying *gothic*.</p>
 
 
-
-
-
-
-
 ## Gothic vs. Common Fantasy
+
+Every fantastical story contains elements that are and were - as far as we know - not existent in our "real" world but can be *imagined* to have existed in the past or that could exist in the present or in the future. They both are *imaginative*, in opposition to "documentative" (like mere descriptions of events or observations, "real" stories) and in this sense, they are notional (or "fictitious") instead of historical (or "traditious"); they are "made up" instead of "handed down". 
+
+In short: they are fantastical instead of realistical. But realistic here means only: "as it was realised in history" or "as it was realised in evolution" etc. But both historical as well as evolutionary developments could have turned out differently; it is in this sense that *some* fantastical stories or aspects of them can be considered conceivable as "potentially real", while others may hardly be able to be conceived - based on the world we know - as having any potential of realisation in the past, present or future.
+
+And this is one of the crucial things to differentiate between fantastical stories (which contains "sci-fi" too). Instead of the very superficial and outdated differentiations such as fantasy vs. sci-fi, we differentiate fantastical stories based on the following differentiations:
+
+* Are they inspired or set in a historical period of the past, the present or in the future? (past/present/future)
+* Are the fantastical elements of the story conceivable as *potentially* real?
+  And does the story try to make this conceivability believable or doesn't it care for that? (../..)
+* Are the fantastical or magical elements in "high" focus of (= especially highlighted in) the story or are they low-key? (high/low)
+* Does the story have a dark, gloomy mood or a bright, colourful mood? (dark/bright)
+* Is the story hard, cynical, brutal or rather soft, comforting and gentle? (hardboiled, roman/film/game noir)
+* Does it comply to any specific writing/filming/gamedesign style? Such as: Gothic, 
+
+
+
+
+
+Examples:
+Gothic presents an imaginative-past scenario.
+Stalker presents an imaginative-present scenario. 
+Matrix presents an imaginative-future scenario.
+
+
+
 
 Gothic is supposed to be "another kind of fantasy". 
 
