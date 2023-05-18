@@ -13,7 +13,7 @@ layout: vision
 </p>
 
 **Author:** Flosha  
-**Status:** <span class="changed">Work in progress</span>  
+**Collected:** 07.19  
 
 I tried to collect the most relevant ideas of the Gothic devs on their vision of the game, in the words by the four visionaries and founders of the team: Alex Brüggemann, Michael Hoge, Stefan Nyul and Tom Putzki). These are the concepts that they considered essential for what Gothic was supposed to be in 1998. Many of the statements quoted below may seem repetitive. But I decided to present them as such in order to emphasize that these were the primary aspects of Gothics design that they were focused on, that they didn't get tired to mention, that they were most proud of and that informs our vision of Gothic. 
 
@@ -245,11 +245,7 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 
 (2) An rpg (and its story) is necessarily complex; the art of rpg design is to translate this complexity into gameplay by the most simple and intuitive interface; the means by which to achieve this simplicity is by radical visualisation and direct interaction instead of abstract statistics.  
 
-(3) Exploration <em>of</em> and interaction <em>with</em> the gameworld and the simulated life therein is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told.  
+(3) Exploration <em>of</em> and interaction <em>with</em> the gameworld and the simulated life therein is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told; it has to be an immersive sim rpg.  
 
-[include chapters/acts as story arcs and twists and world changes] 
-
-
-**Collection:** XY  
 **Summary:** 10.12.22 
 
