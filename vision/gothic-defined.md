@@ -15,7 +15,7 @@ layout: gothic
 2. [Gothic Aesthetics](#gothic-aesthetics)
     1. [Gothic-style in other media](#gothic-style-in-other-media)
 3. [Gothic Fantasy](#gothic-fantasy)
-    1. [Gothic as Low Fantasy](#gothic-as-low-fantasy)
+    1. [High Fantasy vs Low Fantasy](#high-fantasy-vs-low-fantasy)
     2. [Gothic Horror vs. Cosmic Horror](#gothic-horror-vs.-cosmic-horror)
 4. [Gothic-like Gameplay](#gothic-like-gameplay)
     1. [Gothic in historical Context](#gothic-in-historical-context)
@@ -68,20 +68,20 @@ It is true that the visionaries of Gothic, the old Pirana Bytes was punk and got
 
 <p class="subtext">The Gothic story Sleeper's Ban by Alex Wittmann (described by Tom as "Punk, Physician, Surgeon, Roleplayer, Fantasy-Freak, Friend"), that is full of "shocking" descriptions (in german gothic novels are described as "Schauerromane"), can also be seen in this very tradition as a mixture of gothic novel and fantasy book, short: as gothic fantasy.</p>
 
-It has to be understood that there are projects that share general aesthetical principles and themes with GOTHIC that play, e.g. in a futuristic universe, but may thus have *more* in commmon with the aesthetics of GOTHIC than diverse medieval universes that are not gothic in style.
-
-![Old STALKER Screenshot](/Appendix/Inspirations/gothic-styled-games/stalker/1585388642-549438843.jpg)
+I think that is to be acknowledged - but seems hard to grasp for some fans - that there are projects that share general aesthetical principles and themes with GOTHIC that play, e.g. in a futuristic universe and have thus *more* in commmon with the aesthetics of GOTHIC than diverse medieval universes, insofar as they are not gothic in style.
 
 Gothic comes in various forms.  
 There is typical christian medieval gothic, there is victorian gothic (such as American McGee's Alice), sword-and-sorcery-gothic (GOTHIC) or gothic-with-guns (Gloomwood); there is futuristic or contemporary gothic, cyber-gothic (MATRIX), industrial-gothic (STALKER), southern gothic (True Detective, Max Payne), oriental gothic (Prince of Persia: Warrior Within). Gothic aesthetics, moods and themes can be mixed with everything. 
 
 ![Morpheus and Neo dressed in black](/Appendix/Inspirations/gothic-styled-films/matrix/the_matrix_4k_67-1.jpg)
 
-GOTHIC was developed under the influence of a time that also brought us Matrix (which is purely futuristic gothic); and it does not surprise that the devs posed in long black coats for previews of the game. In Matrix the whole crew of the Nebuchadnezzar wears typical gothic/punk fashion, they are rebels, techno-anarchists dressed in dark-scene clothing. There is the Merovingian residing in his castle with vaults of vampire programs underneath, running gothic clubs full of fetishism. The Real World is a terrific dystopia where there is always darkness due to the veiling of the sky to block light as the machines energy source. Only the ruins of the former human civilisation remain. And the Machine City is like a futuristic vision of fields full of cyber-gothic cathedrals. 
+GOTHIC was developed under the influence of a time that also brought us MATRIX, which is purely futuristic gothic; and it does not surprise that the devs posed in long black coats for previews of the game (just as the Wachowskis were in that very scene; in fact, the club where Neo mets Trinity was a club they themselves went to...). In Matrix the whole crew of the Nebuchadnezzar wears typical gothic/punk fashion, they are rebels, techno-anarchists dressed in dark-scene clothing. There is the Merovingian residing in his castle with vaults of vampire programs underneath, running gothic clubs full of fetishism. The Real World is a terrific dystopia where there is always darkness due to the veiling of the sky to block light as the machines energy source. Only the ruins of the former human civilisation remain. And the Machine City is like a futuristic vision of fields full of cyber-gothic cathedrals. 
 
 ![Concept Art of the Machine City in Matrix](/Appendix/Inspirations/gothic-styled-films/matrix/9f6baf4ae424100c8fe8229ab82649b3.png)
 
 STALKER is contemporary industrial gothic at its finest, where the old medieval ruins of gothic castles are replaced by old factory complexes shut down after the nuclear disaster. Style and themes are the same. In fact, stylistically as well as thematically STALKER shares more with GOTHIC than the official GOTHIC successors.  
+
+![Old STALKER Screenshot](/Appendix/Inspirations/gothic-styled-games/stalker/1585388642-549438843.jpg)
 
 And it is no wonder that gothic as a style seemed to dominate especially in the video game "industry" at that time when gamers were still considered kind of as outsiders. A `Warrior Within` (2003) would have been appreciated more when released in 1999.
 
@@ -91,7 +91,20 @@ And it is no wonder that gothic as a style seemed to dominate especially in the 
 I loved True Detective and Max Payne, which are hard-boiled detective stories and both are visually "southern gothic". Other than that, Max Payne 2 is subtitled as a "film noir love story", which, to make it simple, is just the french way of saying *gothic*.</p>
 
 
-## Gothic vs. Common Fantasy
+## Gothic Fantasy
+
+GOTHIC is supposed to be "another kind of fantasy".  
+
+> Common Fantasy is very simple (...) divided into black & white, good & evil. Fantasy is neat, clean and colourful. GOTHIC is different. GOTHIC is gloomy. GOTHIC is dark. GOTHIC is mystical. GOTHIC is strange. GOTHIC is dangerous. GOTHIC is not a 3D-realtime-Fantasy-RPG. It's a 3D-realtime-GOTHIC-RPG. ([Promotion booklet](https://media.gothicarchive.org/documents/press/Gothic_PromoBooklet.pdf))  
+
+Isn't what was critisized here as "common fantasy" usually refered to as "high fantasy" today? And isn't the description of Gothic as another kind of fantasy fitting to what is now commonly refered to as "dark" fantasy?  
+
+Gothic *is* dark fantasy, which hints at its horror elements and its characteristics of being "dark", "gloomy" and "dangerous", but not every dark fantasy work is "gothic". Some authors may use the terms "dark fantasy" and "gothic fantasy" or "gothic fiction" interchangeably, but it being "dark" doesn't suffice to make it "gothic". Gothic fiction has some essential characteristics that are not to be found in most mere "dark fantasy" fiction, as already hinted at in the previous chapter.  
+
+Gothic fiction is by definition romantic (in the traditional sense). One of its core features is "the intrusion of the past upon the present", "the present being hunted by the past". Gothic is not gothic without this threatening past as a crucial element both for atmosphere (how the game world is presented where time has taken its toll on everything) as well as for the story (e.g. how the past of characters is hunting them, how the consequences of the war hunt the present kingdom, how ancient rituals and prophecies play a role in the tragedy of today).    
+
+
+### High Fantasy vs Low Fantasy
 
 Every fantastical story contains elements that are and were - as far as we know - not existent in our "real" world but can be *imagined* to have existed in the past or that could exist in the present or in the future. They both are *imaginative*, in opposition to "documentative" (like mere descriptions of events or observations, "real" stories) and in this sense, they are notional (or "fictitious") instead of historical (or "traditious"); they are "made up" instead of "handed down". 
 
@@ -99,17 +112,14 @@ In short: they are fantastical instead of realistical. But realistic here means 
 
 And this is one of the crucial things to differentiate between fantastical stories (which contains "sci-fi" too). Instead of the very superficial and outdated differentiations such as fantasy vs. sci-fi, we differentiate fantastical stories based on the following differentiations:
 
-* Are they inspired or set in a historical period of the past, the present or in the future? (past/present/future)
-* Are the fantastical elements of the story conceivable as *potentially* real?
-  And does the story try to make this conceivability believable or doesn't it care for that? (../..)
-* Are the fantastical or magical elements in "high" focus of (= especially highlighted in) the story or are they low-key? (high/low)
-* Does the story have a dark, gloomy mood or a bright, colourful mood? (dark/bright)
-* Is the story hard, cynical, brutal or rather soft, comforting and gentle? (hardboiled, roman/film/game noir)
+* **Historicity of the Fantastical:** Are they, inspite of their fantastical elements, inspired by or set in a historical period of the past, the present or in an imaginative future based on historical reality? Or are they beyond any historical inspiration in a purely fantastical world? (historically inspired vs. non-historically inspired fantasy)
+* **Conceivability of the Fantastical**: Are the fantastical elements of the story conceivable as *potentially* real or decidedly surreal and does the story try to make this conceivability believable or doesn't it care about that? (down-to-earth-fantasy vs. (airy-)fairy-fantasy)
+* **Pervasiveness of the Fantastical:** Are the fantastical or magical elements in "high" focus of (or especially highlighted in) the story, do they fully pervade the game and the world or are they low-key? (high vs. low fantasy)
+* Atmosphere: Does the story and world have a dark, gloomy mood or a bright, colourful mood? (dark/bright)
+* Is the story hard, cynical, brutal or rather soft, comforting and gentle? (hardboiled/film-noir/tragical vs. soft)
 * Does it comply to any specific writing/filming/gamedesign style? Such as: Gothic, 
 
-
-
-
+Obviously the borders between those categorical pairs are fluid and there may be scenarios where we would have a hard time to assign them to one or the other. But many games can be easily assigned one of these pairs in the different categories. 
 
 Examples:
 Gothic presents an imaginative-past scenario.
@@ -119,15 +129,8 @@ Matrix presents an imaginative-future scenario.
 
 
 
-Gothic is supposed to be "another kind of fantasy". 
 
-> Common Fantasy is very simple (...) divided into black & white, good & evil. Fantasy is neat, clean and colourful. GOTHIC is different. GOTHIC is gloomy. GOTHIC is dark. GOTHIC is mystical. GOTHIC is strange. GOTHIC is dangerous. GOTHIC is not a 3D-realtime-Fantasy-RPG. It's a 3D-realtime-GOTHIC-RPG. [Promotion booklet]
-
-Isn't what was critisized here as "common fantasy" usually refered to as "high fantasy" today? And if so, isn't the description of Gothic as another kind of fantasy fitting to what is now commonly refered to as "dark" and/or "low" fantasy?  
-
-Gothic *is* dark fantasy, which hints at its horror elements and its characteristics of being "dark", "gloomy" and "dangerous", but not every dark fantasy work is "gothic". Some authors may use the terms "dark fantasy" and "gothic fantasy" or "gothic fiction" interchangeably, but it being "dark" doesn't suffice to make it "gothic". Gothic fiction has some essential characteristics that are not to be found in most mere "dark fantasy" fiction, as already hinted at in the previous chapter.
-
-Gothic fiction is by definition romantic (in the traditional sense). One of its core features is "the intrusion of the past upon the present", "the present being hunted by the past". Gothic is not gothic without this threatening past as a crucial element both for atmosphere (how the game world is presented where time has taken its toll on everything) as well as for the story (e.g. how the past of characters is hunting them, how the consequences of the war hunt the present kingdom, how ancient rituals and prophecies play a role in the tragedy of today).    
+### High Fantasy vs Low Fantasy
 
 In the same way Gothic is low fantasy (to be seen in opposition to high fantasy). And high fantasy is not just informed by stereotypical fantasy elements such as elves and dwarves, wizards and knights, dwarves and dragons. The main difference to low fantasy is the implicitness of these elements. In a typical high fantasy universe all of these fantastical elements are no source of wonder, of mere myth or believe, they are implicitly true. 
 
@@ -148,6 +151,10 @@ In the colony there is this "magical" ore, in the colony there are those strange
 Morrowind - and that is not to be seen as a critique - is an example of High Fantasy and in this way it is completely different than the Low Fantasy that Gothic was supposed to be. There is a bunch of races, including elves, the lizard-like argonians and cat-like khajits. Magic is everywhere and normal. While in Gothic, magic is rare and eople are afraid of the mages. And while the mages claim to have the magic from the gods, the gods are not a fact; they may or may not exist. 
 
 Low Fantasy reduces the amount of fantastical phenomena, so that those which remain feel more special and more believable at the same time. Another characteristic is that a low fantasy universe does not establish out- or beyond-worldy entities (like gods) as facts. It preserves atleast the possibility of a "scientific" or pseudo-scientific explanation of the fantastical elements it presents, based on our own historical and physical understanding, to fortify the notion that "it could have been" like that in an unknown past in an unknown kingdom.  
+
+
+
+
 
 
 To summarise: Gothic is both dark and low fantasy, but as a genre it is not equivalent to either; while it shares many of their characteristics it also includes the traditional elements of gothic fiction. 
@@ -179,6 +186,36 @@ Das Spiel enthält Nacktheit, derbe Sprache, animierten Sex, Finishing-Animation
 
 Vergleiche Spiele mit ähnlicher Stilrichtung dieser Zeit: Evil Twin: Cyprien’s Chronicles (2001), Shadow Man (1999). 
 [ Todo: Beispielscreenshots einfügen. ]
+
+
+
+Based on these descriptions we can deduce several characteristics of GOTHIC as "the other kind of fantasy" that define Gothic as a genre.
+
+GOTHIC is...
+
+<pre>
+[to be seen in opposition to common fantasy, as...]
+* <strong>amoral</strong>, it is beyond good & evil and without a clear good/evil dichotomy
+* <strong>anarchic</strong>, it is not neat, it is disordered and deals with chaos
+* <strong>dreary</strong>, *not* colourful, it uses desaturated, washed out, faded colours
+* <strong>different</strong>, it differs from what is commonly found in fantasy games
+
+[dark and low fantasy combined, in that is is...]
+* <strong>gloomy</strong> with a melancholic, depressing mood
+* <strong>dark</strong> in its style, its setting, its story; aesthetically and thematically
+* <strong>mystical</strong>, with mystic/occult aspects in a world where magic is special, not common
+* <strong>strange</strong> in its setting, with unusual creatures and events to raise questions
+* <strong>dangerous</strong> in its atmosphere and its design with both being coherent
+
+[applying to gothic fiction/horror, in that it is...]
+* <strong>romantic</strong> ...
+* <strong>melancholic</strong> ... past/present
+* <strong>terrific</strong> 
+</pre>
+
+... to be continued
+
+
 
 
 
@@ -241,31 +278,7 @@ In this context we consider the oldest interviews to be by far the most interest
 ... include interviews ... pitch ... etc ...
 
 
-Based on these descriptions we can deduce several characteristics of GOTHIC as "the other kind of fantasy" that define Gothic as a genre.
 
-GOTHIC is...
-
-<pre>
-[to be seen in opposition to common fantasy, as...]
-* <strong>amoral</strong>, it is beyond good & evil and without a clear good/evil dichotomy
-* <strong>anarchic</strong>, it is not neat, it is disordered and deals with chaos
-* <strong>dreary</strong>, *not* colourful, it uses desaturated, washed out, faded colours
-* <strong>different</strong>, it differs from what is commonly found in fantasy games
-
-[dark and low fantasy combined, in that is is...]
-* <strong>gloomy</strong> with a melancholic, depressing mood
-* <strong>dark</strong> in its style, its setting, its story; aesthetically and thematically
-* <strong>mystical</strong>, with mystic/occult aspects in a world where magic is special, not common
-* <strong>strange</strong> in its setting, with unusual creatures and events to raise questions
-* <strong>dangerous</strong> in its atmosphere and its design with both being coherent
-
-[applying to gothic fiction/horror, in that it is...]
-* <strong>romantic</strong> ...
-* <strong>melancholic</strong> ... past/present
-* <strong>horrific</strong> 
-</pre>
-
-... to be continued
 
 
 
