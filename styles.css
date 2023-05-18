@@ -240,9 +240,11 @@ footer {
 
 .article ul.list-small {
   font-size: 14px;
+  padding-left: 0;
 }
   .article ul.list-small em {
     color: #77584b;
+    font-weight: bold;
   } 
 
 
