@@ -48,7 +48,6 @@ DESIGN CONCEPT
 
 APPENDIX
 * Promotion
-* Devblog
 * Inspirations
 * Credits
 ```

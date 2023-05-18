@@ -106,20 +106,23 @@
 ### Appendix
 
 1. Promotion
-	* Screenshots
-	* Teasers & Trailers
-	* Press
-2. Devblog
-	* Making of PhoenixTales
-	* The Team behind Phoenix
-	* Creating the ASCII Art
-3. Essays
-	1. Phoenix & the Rescue of Design
-	2. Behind the Eyes of Elliot
-	3. Art and the Demonic Threat 
-	4. The Return of the Design
-4. Inspirations
-5. Credits
+	1. Media
+		* Screenshots
+		* Teasers & Trailers
+		* Artworks & Wallpapers
+		* Fanart
+	2. Press
+	3. Devblog
+		* Making of PhoenixTales
+		* The Team behind Phoenix
+		* Creating the ASCII Art
+	4. Essays
+		1. Phoenix & the Rescue of Design
+		2. Behind the Eyes of Elliot
+		3. Art and the Demonic Threat 
+		4. The Return of the Design
+2. Inspirations
+3. Credits
 
 
 <p class="doc-pdf">
