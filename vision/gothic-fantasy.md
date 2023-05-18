@@ -20,7 +20,16 @@ And this is one of the crucial things to differentiate between fantastical stori
 * Does it comply to any specific writing/filming/gamedesign style? Such as: Gothic, 
 
 
+* **Atmosphere and mood**: 
+    * *World:* Is the world presented as dark and gloomy or as bright as colourful? (dark/bright)
+    * *Story:* Is the story hard, cynical, brutal or rather soft, comforting and gentle? (hardboiled/film-noir/tragical vs. soft)
+* **Visual and Narrative Style**:
+* Does it comply to any specific writing/filming/gamedesign style? Such as: Gothic, 
 
+
+* Nature of the Fantastical
+* Atmosphere and Mood
+* Visual and Narrative Style
 
 
 Examples:

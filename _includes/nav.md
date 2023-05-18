@@ -12,6 +12,12 @@
 	4. Phoenix Rising
 	5. Reconstruction
 2. Artdesign
+	1. Visual Design
+		1. Retro Graphics
+		2. 3D Principles 
+		3. 2D Principles 
+	2. 
+	2. Gothic & Cosmic Horror
 3. Mechanics
 	1. Classes
 	2. [Attributes](/mechanics/attributes.html)

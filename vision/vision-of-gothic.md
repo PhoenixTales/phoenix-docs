@@ -16,6 +16,8 @@ layout: vision
 
 I tried to collect the most relevant ideas of the Gothic devs on their vision of the game, in the words by the four visionaries and founders of the team: Alex Brüggemann, Michael Hoge, Stefan Nyul and Tom Putzki. These are the concepts that they considered essential for what Gothic was supposed to be in 1998. Many of the statements quoted below may seem repetitive. But I decided to present them as such in order to emphasize that these were the primary aspects of Gothics design that they were focused on, that they didn't get tired to mention, that they were most proud of and that informs our vision of Gothic. 
 
+I consciously limited the collection to the oldest, earliest interviews from 1998, as they are by far the most interesting ones; here they have described their ideas most clearly and radically; when the game did not yet exist and they wanted to do everything different, describing their dream of a game in conception.  
+
 ---
 
 <p class="suptext">
