@@ -314,6 +314,15 @@ a:hover {
   text-decoration: underline;
 }
 
+
+/* HORIZONTAL LINE */
+
+hr {
+  margin-top: 2em;
+  border: 2px solid var(--dark);
+}
+
+
 /*
 .phnx-mask {
   display: block;
@@ -440,7 +449,7 @@ nav {
   font-size: 15px;
   font-family: 'Ubuntu Mono', monospace;
 
-  background-color: var(--darker);
+  background-color: var(--dark);
 
   margin: 0;
   padding: 0;
