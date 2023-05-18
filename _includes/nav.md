@@ -97,10 +97,10 @@
 			5. OrcCity
 		2. Act II Missions
 			1. RefugeeCamp
-			2. KingsCamp
-			3. InquisitionCastle
-			4. DemonCamp
-			5. KhorinisCity
+			2. TymorianFortress
+			3. KhorinisCity
+			4. CampOfTents
+			5. DemonCamp
 
 
 ### Appendix
