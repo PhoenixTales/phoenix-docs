@@ -20,7 +20,7 @@
 	2. Gothic & Cosmic Horror
 3. Mechanics
 	1. Classes
-	2. [Attributes](/mechanics/attributes.html)
+	2. [Attributes](/mechanics/attributes)
 	3. Skills
 	4. Modes of Interaction 
 		1. Exploration Mode
@@ -112,12 +112,8 @@
 ### Appendix
 
 1. Promotion
-	1. Media
-		* Screenshots
-		* Teasers & Trailers
-		* Artworks & Wallpapers
-		* Fanart
-	2. Press
+	1. [Media](/promo/media)
+	2. [Press](/promo/press)
 	3. Devblog
 		* Making of PhoenixTales
 		* The Team behind Phoenix
