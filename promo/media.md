@@ -3,15 +3,14 @@
 ```
 Author: Flosha
 Created: 19.05.2023
-Changed: ...
+Changed: 19.05.2023
 ```
 
 
 ## Screenshots
 
 ![Castle Gate from within](/promo/screens/orpheus/balcony-outside-work.png)  
-![Morning in the Colony](/promo/screens/orpheus/morning.png)  
-
+![Morning in the Colony](/promo/screens/orpheus/morning.png) 
 ![Inside the Prison](/promo/screens/orpheus/InsideThePrison2.jpg)  
 ![The Opposite Mine](/promo/screens/orpheus/the-opposite-mine-sm.jpg)  
 ![Against the Swampshark](/promo/screens/orpheus/against-the-swampshark.png)  
@@ -30,8 +29,8 @@ Changed: ...
 
 ## Artworks
 
-![The Fall of Xardas](/promo/artworks/Phoenix_TheFallofXardas_ArtworkV2.png)  
 ![Dramatis Personae](/promo/artworks/dramatispersonae.png)  
+![The Fall of Xardas](/promo/artworks/Phoenix_TheFallofXardas_ArtworkV2.png)  
 
 
 <!-- ## Wallpaper -->

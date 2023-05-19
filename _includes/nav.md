@@ -12,12 +12,12 @@
 	4. Phoenix Rising
 	5. Reconstruction
 2. Artdesign
-	1. Visual Design
+	1. Visuals
 		1. Retro Graphics
 		2. 3D Principles 
-		3. 2D Principles 
-	2. 
-	2. Gothic & Cosmic Horror
+		3. 2D Principles
+	2. UI Design
+	3. Sound & Music
 3. Mechanics
 	1. Classes
 	2. [Attributes](/mechanics/attributes)
@@ -48,7 +48,7 @@
 	2. World
 		1. Level Structure (Abstract)
 		2. World Development (Research)
-		3. World Descriptions
+		3. World Descriptions <!-- Gothic & Cosmic Horror -->
 			1. Levels
 			2. Camps
 			3. Guilds
