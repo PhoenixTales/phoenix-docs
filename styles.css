@@ -404,7 +404,7 @@ hr {
 
 /* CUSTOM BACKGROUNDS -> add CSS directly into the layout htmls? */
 
-#intro {
+.intro {
   /* position: absolute // test to fix footer and overflow */
   background: url("/_img/bg/workbg.jpg");
   background-position: top right;
