@@ -421,7 +421,8 @@ hr {
     display: block;
     max-height: 400px;
     max-width: 100%;
-    margin: 10em auto 2em;
+    padding-top: 600px;
+    margin: 0 auto 2em;
   } 
 
 .prophetess {
