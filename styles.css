@@ -406,12 +406,15 @@ hr {
 
 .intro {
   /* position: absolute // test to fix footer and overflow */
-  background: url("/_img/bg/workbg.jpg");
-  background-position: top right;
+  background: url("/_img/bg/introbg.jpg");
+  background-position: top left;
   background-size: 100%;
   background-repeat: no-repeat;
   width: 100%;
 }
+  .intro article {
+    padding-top: 500px;
+  }
 
   .logo {
     image-rendering: pixelated;
