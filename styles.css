@@ -406,9 +406,11 @@ hr {
 
 #intro {
   /* position: absolute // test to fix footer and overflow */
+  background: url("/_img/bg/workbg.jpg");
+  background-position: top right;
+  background-size: 100%;
+  background-repeat: no-repeat;
   width: 100%;
-  margin-top: 37px;
-  flex: 1;
 }
 
   .logo {
