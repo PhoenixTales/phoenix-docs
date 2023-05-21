@@ -1,6 +1,8 @@
 ## PHOENIX FAQ
 
+
 ### Who were the Mad Scientists?
+
 The Mad Scientists were the three programmers Dieter Hildebrandt,  Ulf Wohlers and Bert Speckels. Inspired by games like Ultima Underworld (1992) and System Shock (1994) they wanted to make their own game (3D Realtime RPG, first person) with influences both from fantasy and science-fiction and without unnecessary interface elements and statistics. They wrote their own DOS Engine ('Space and Time') and prepared a demo named [https://gothicarchive.org/demos/finster/](Finster) in 1996 (released by us in 2022) that they send to various publishers to find a team to develop the game they dreamed of. 
 
 Finally they signed contract with [https://gothicarchive.org/misc/logos.html](Greenwood Entertainment). Mike Hoge and the other founders of Piranha Bytes (which did not yet exist at this point) were working at Greenwood. Simultaneously to the Mad Scientists Mike had been working since 1995 on the design of a vision of his own with the working title 'Orpheus'. In 1997, when Piranha Bytes was founded, Orpheus was resurrected under the working title 'Phoenix' (later "GOTHIC") and the Mad Scientists started to develop a new engine, first called zEngine (in allusion to Bethesdas XnGine), later called ZenGin, the engine of GOTHIC. During the development the Mad Scientists remained independent developers. They left after the release of GOTHIC in 2001 and did not work on any other projects with Piranha Bytes.
@@ -15,14 +17,9 @@ After the release of GOTHIC in 2001 the old Piranha Bytes broke apart. The Mad S
 Since then Piranha Bytes has cut off all connections to GOTHIC. They wanted to throw away the design folders by Mike that we have digitised and published in the Gothic Archive in 2021. In the same year they sold GOTHIC to THQ Nordic. No one of the founders had a word in it.
 
 
-  <p>Nach außen hin wird Piranha Bytes gerne als ein Studio präsentiert, das sich selbst treu bleibt. Tatsächlich wurde es immer wieder von inneren Konflikten zerrüttet und hat mit dem alten Studio sowohl personell als auch im Hinblick auf ihr Design nicht mehr viel zu tun. Es wird behauptet, Piranha Bytes würde das selbe Spiel immer wieder neu auflegen und ihre Spiele nach dem selben Grundrezept entwickeln. Tatsächlich reproduzieren sie aber nur einige oberflächlichen Merkmale von GOTHIC, von dem sie essentiell sehr wenig verstehen. 2021 haben sie GOTHIC an THQ Nordic verkauft und damit auch der Marke den Rücken gekehrt. Die Gründer hatten dabei nichts mitzureden. Aufgrund der Zerwürfnisse nach dem Release von GOTHIC könnte man aber auch schon 2001 als das Ende des alten Piranha Bytes betrachten.</p>
-  </details>
+Who is Phoenix Tales?
 
-  <details>
-  <a id="phoenixtales"></a>
-  <summary>Wer ist Phoenix Tales?</summary>
-
-  <p>Phoenix Tales ist ein kleines Team aus unabhängigen Entwicklern. Aktuell arbeiten wir an <a href="/">PHOENIX</a> und sind verantwortlich für das <a href="https://gothicarchive.org" target="_blank">Gothic Archiv</a>. Auf unserer Website (<a href="https://phoenixtales.de" target="_blank">phoenixtales.de</a>) beschreiben wir uns als "unabhängige Entwickler immersiver Geschichten (tales) [...]", die, wie ein Phoenix, "aus der Asche der Industrie auferstehen". Damit meinen wir die Spieleindustrie, die alles dem Profit unterwirft, während wir einen anti-kommerziellen Ansatz verfolgen und der industriellen Spieleproduktion eine liebevolle Handarbeit entgegensetzen, die sich um Profit nicht kümmert.</p>
+Phoenix Tales is a small team of independent developers. Aktuell arbeiten wir an <a href="/">PHOENIX</a> und sind verantwortlich für das <a href="https://gothicarchive.org" target="_blank">Gothic Archiv</a>. Auf unserer Website (<a href="https://phoenixtales.de" target="_blank">phoenixtales.de</a>) beschreiben wir uns als "unabhängige Entwickler immersiver Geschichten (tales) [...]", die, wie ein Phoenix, "aus der Asche der Industrie auferstehen". Damit meinen wir die Spieleindustrie, die alles dem Profit unterwirft, während wir einen anti-kommerziellen Ansatz verfolgen und der industriellen Spieleproduktion eine liebevolle Handarbeit entgegensetzen, die sich um Profit nicht kümmert.</p>
 
   <p>Zudem ist <em><a href="https://phoenixtales.de" target="_blank">Phoenix Tales</a></em> als Name unseres Teams mit doppeldeutigem Begriff eine kleine Anspielung auf <em><a href="https://www.piranha-bytes.com/" target="_blank">Piranha Bytes</a></em> (Tales -> Tails, Bytes -> Bites), während wir mit unserem Logo, das einen kleinen, mystischen und verschrobenen Phoenix darstellen soll, an die Mad Scientists erinnern wollen.</p>
 

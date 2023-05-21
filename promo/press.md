@@ -1,5 +1,7 @@
 # Press
 
+![PressHeading](/_img/headings/press.png)
+
 ```
 Author: Flosha
 Created: 28.06.2022
