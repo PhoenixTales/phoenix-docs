@@ -407,7 +407,7 @@ hr {
 .intro {
   /* position: absolute // test to fix footer and overflow */
   background: url("/_img/bg/introbg.jpg");
-  background-position: top left;
+  background-position: bottom right;
   background-size: 100%;
   background-repeat: no-repeat;
   width: 100%;
@@ -421,7 +421,7 @@ hr {
     display: block;
     max-height: 400px;
     max-width: 100%;
-    padding-top: 600px;
+    
     margin: 0 auto 2em;
   } 
 
