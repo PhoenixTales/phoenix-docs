@@ -407,7 +407,7 @@ hr {
 .intro {
   /* position: absolute // test to fix footer and overflow */
   background: url("/_img/bg/workbg.jpg");
-  background-position: bottom right;
+  background-position: top right;
   background-size: 100%;
   background-repeat: no-repeat;
   width: 100%;
