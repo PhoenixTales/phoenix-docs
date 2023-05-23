@@ -14,9 +14,9 @@ layout: vision
 
 **Author:** Flosha  
 
-I tried to collect the most relevant ideas of the Gothic devs on their vision of the game, in the words by the four visionaries and founders of the team: Alex Brüggemann, Michael Hoge, Stefan Nyul and Tom Putzki. These are the concepts that they considered essential for what Gothic was supposed to be in 1998. Many of the statements quoted below may seem repetitive. But I decided to present them as such in order to emphasize that these were the primary aspects of Gothics design that they were focused on, that they didn't get tired to mention, that they were most proud of and that informs our vision of Gothic. 
+I have tried to collect the most relevant ideas of the Gothic devs on their vision of the game, in the words of the four visionaries and founders of the team: Alex Brüggemann, Michael Hoge, Stefan Nyul and Tom Putzki. These are the concepts that they considered essential for what Gothic was supposed to be in 1998. Many of the statements quoted below may seem repetitive. But I decided to present them as such in order to emphasize that these were the primary aspects of Gothic’s design that they were focused on, that they didn’t get tired of repeating, which they were most proud of and which inform our own vision of Gothic.  
 
-I consciously limited the collection to the oldest, earliest interviews from 1998, as they are by far the most interesting ones; here they have described their ideas most clearly and radically; when the game did not yet exist and they wanted to do everything different, describing their dream of a game in conception.  
+I have consciously limited the collection to the oldest, earliest interviews from 1998, as they are by far the most interesting ones. There they have described their ideas most clearly and radically; in a time when the game did not yet exist and they wanted to do everything differently, describing their dream of a game that was still in conception.  
 
 ---
 
@@ -25,7 +25,7 @@ I consciously limited the collection to the oldest, earliest interviews from 199
   we do our own."</em>
 </p>
 
-> Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. <!--The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine.--> And the game is already being touted by insiders for its breakthrough concepts. ([MCV USA 01/1998](https://gothicarchive.org/previews/1998/01_1998_MCV_USA.txt))
+> Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. [...] <!--The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine.--> And the game is already being touted by insiders for its breakthrough concepts. ([MCV USA 01/1998](https://gothicarchive.org/previews/1998/01_1998_MCV_USA.txt))
 
 
 ## What's Gothic (working title 'Phoenix' in 1998)?
@@ -240,13 +240,13 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 
 ## Summary
 
-**Flosha:** Based on the quotes above, on our research and our own understanding as it has shaped over the years I attempted to summarise the essential concepts behind Gothic in condensed form:  
+**Flosha:** Based on the quotes above, our research and our own understanding as it has shaped over the years I have attempted to summarise the essential concepts behind Gothic in condensed form:  
 
-(1) Story is defined as "the heart" of rpgs; as you are playing a role in a story (or "drama"), the rpg <em>has</em> to be story-driven and as it is a game it has to be driven <em>by</em> gameplay. 
+(1) Story is defined as “the heart” of RPGs; as you are playing a role in a story (or “drama”), the RPG <em>has</em> to be story-driven and as it is a game it has to be driven <em>by</em> gameplay.  
 
-(2) An rpg (and its story) is necessarily complex; the art of rpg design is to translate this complexity into gameplay by the most simple and intuitive interface; the means by which to achieve this simplicity is by radical visualisation and direct interaction instead of abstract statistics.  
+(2) An RPG (and its story) is necessarily complex; the art of RPG design is to translate this complexity into gameplay by the most simple and intuitive interface; the means by which to achieve this simplicity is radical visualisation and direct interaction instead of abstract statistics.
 
-(3) Exploration <em>of</em> and interaction <em>with</em> the gameworld and the simulated life therein is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told; thus it has to be an immersive sim rpg.  
+(3) Exploration <em>of</em> and interaction <em>with</em> the gameworld and the simulated life therein is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told; thus it has to be an immersive sim RPG.
 
 **Collection:** 07.19  
 **Summary:** 10.12.22  
