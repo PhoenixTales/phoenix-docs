@@ -380,7 +380,7 @@ hr {
 .gianttext { 
   font-size: 50px; 
   text-transform: uppercase;
-  font-family: Arial;
+  font-family: "Gothic Alpha";
   line-height: 1.2em;
 }
 
@@ -445,7 +445,7 @@ hr {
 .vision {
   background: url("/_img/bg/bg-friends2.jpg");
   background-position: top right;
-  background-size: 100%;
+  background-size: 80%;
   background-repeat: no-repeat;
   width: 100%;
 }
