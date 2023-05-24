@@ -249,11 +249,10 @@ footer {
 .article ul.list-small {
   font-size: 14px;
   padding-left: 1em;
-  margin: 1.5em 0 2em;
+  margin: 2em 0 3em;
 }
-  .article ul.list-small em {
+  .article ul.list-small strong {
     color: #77584b;
-    font-style: normal;
   } 
 
 
@@ -398,7 +397,7 @@ hr {
   border: 1px solid var(--stone);
   background: var(--dark);
   padding: 1.5em;
-  margin: 2em 0;
+  margin: 3em 0;
 }
 
 .blueinfo {
@@ -474,6 +473,7 @@ hr {
 .authorship {
   margin-top: 3em;
   margin-bottom: 4em;
+  font-style: monospace;
 }
   .authorship img {
     float: left;  
