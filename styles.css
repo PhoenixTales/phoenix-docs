@@ -394,8 +394,9 @@ hr {
 
 .subtext {
   font-size: 14px;
-  border: 1px solid var(--dark);
-  padding: 1em;
+  border: 1px solid var(--stone);
+  background: var(--dark);
+  padding: 1.5em;
   margin: 2em 0;
 }
 

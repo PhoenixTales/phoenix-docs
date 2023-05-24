@@ -120,7 +120,7 @@ Thus it is also…
 <pre>
 * <strong>romantic</strong> 
 * <strong>melancholic</strong> 
-* <strong>terrific, in the sense of terrifying / dreadful</strong> 
+* <strong>terrific</strong>, in the sense of terrifying / dreadful 
 </pre>
 
 Gothic fantasy necessarily consists of this particular visual and narrative style and the associated atmosphere that is characteristically *gothic*; while the difference to mere gothic fiction are its fantastical elements.  
