@@ -95,11 +95,6 @@ nav h1, nav h2, nav h3 {
   padding-left: 1em;
 }
 
-.article h1 {
-  font-family: "Gothic Alpha";
-  font-size: 20px;
-}
-
 
 /* TOP NAVIGATION */
 
@@ -218,6 +213,8 @@ footer {
 
 .article h1 {
   margin: 3em 0 0;
+  font-family: "Gothic Alpha";
+  font-size: 35px;
 }
 
 .article p {
@@ -451,6 +448,9 @@ hr {
   background-repeat: no-repeat;
   width: 100%;
 }
+  .vision .article h1 {
+    font-size: 20px;
+  }
 
 .gothic {
   background: url("/_img/bg/bg-roerich-doomed-city.jpg");
@@ -462,7 +462,7 @@ hr {
 }
 
   .gothic .article h1 {
-    font-size: 30px;
+    font-size: 35px;
   }
 
 .author-picture {
