@@ -372,17 +372,18 @@ hr {
   background-color: var(--blood);
   border: 2px solid var(--black);
   color: var(--black);
+  font-family: "Gothic Alpha";
   font-size: 16px; 
   margin: 2em 0 1em;
-  padding: 1em 1.3em 1em 1em;
+  padding: 1.2em 1.3em 1em 1em;
   font-weight: bold;
+  line-height: 1em;
 }
 
 .gianttext { 
   font-size: 50px; 
-  text-transform: uppercase;
-  font-family: "Gothic Alpha";
-  line-height: 1.2em;
+  /*text-transform: uppercase;*/
+  line-height: 2em;
 }
 
 
