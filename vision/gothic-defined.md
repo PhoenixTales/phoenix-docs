@@ -217,9 +217,9 @@ The same Immersive Sims inspired both the *Mad Scientists*, who wanted to make t
 
 <p class="subtext">In the next project in development by Mike Hoge ("Unplugged") after `GOTHIC`, - and before he had to give it up and work on "Gothic 2" - they even wanted to add the base world itself to the list of interactivity by making the world destructible.</p>
 
-[`FINSTER`](https://gothicarchive.org/demos/finster/), the original demo by the *Mad Scientists* that we released in 2022 was already a mix of sword-and-sorcery and shooter, roleplaying game and action with a minimal interface. And if `GOTHIC` would have become everything they wanted it to be, it would have combined a few of the best game recipes in one; it would have been Third-Person and First-Person, it would have come with the best of Roleplay ala *Ultima* with Action ala *System Shock*, Adventure and Movement ala *Tomb Raider*, Stealth like *Hitman* and *Thief* combined and a Simulation with more complexity, more interactive AI, with a more living, simulated world and ultimately more immersion than anything seen before. And not to forget, they promised all of that in form of a Singleplayer and a Multiplayer Coop…  
+[`FINSTER`](https://gothicarchive.org/demos/finster/) - the original demo by the *Mad Scientists* that we released in 2022 - was already a mix of sword-and-sorcery and shooter, roleplaying game and action with a minimal interface. And if `GOTHIC` would have become everything they wanted it to be, it would have combined a few of the best game recipes in one; it would have been Third-Person and First-Person, it would have come with the best of Roleplay ala *Ultima* with Action ala *System Shock*, Adventure and Movement ala *Tomb Raider*, Stealth like *Hitman* and *Thief* combined and a Simulation with more complexity, more interactive AI, with a more living, simulated world and ultimately more immersion than anything seen before. And not to forget, they promised all of that in form of a Singleplayer and a Multiplayer Coop…  
 
-`GOTHIC` *was* influential and it *is* well known at least in Europe, but if it would have been developed into what they originally imagined it to be - it would be mentioned today, without any doubt, in the same breath as *Deus Ex* and *Arx Fatalis*. But as it turned out to be released, under the pressure of time and struggles in design, it is now - sadly and unfairly - not even seen in that tradition and rarely ever mentioned when the Immersive Sim is being discussed. And we want to change that.  
+`GOTHIC` *was* influential and it *is* relatively well known, but if it would have been developed into what they originally imagined it to be - it would be mentioned today, without any doubt, in the same breath as *Deus Ex* and *Arx Fatalis*. But as it turned out to be released, under the pressure of time and struggles in design, it is now - sadly and unfairly - not even seen in that tradition and rarely ever mentioned when the Immersive Sim is being discussed. And we want to change that.  
 
 --- 
 
@@ -231,7 +231,8 @@ This is *not* a judgement on their value as *games*. What we state here is that 
 
 The *Witcher* series, especially *Witcher 1*, has more gothic aesthetics than any official successor of `GOTHIC` (2001) and they have done a great job in the story department too; but while the developers even stated themselves how `GOTHIC` has inspired them, all of their games are less of an immersive simulation than any `GOTHIC` game. The world of *Witcher 3* especially is filled with big, empty buildings of mere scenery, there is no social life neither of monsters constantly spawning for the player and not even of human NPCs (in complete opposition to the idea of a game world without mere scenic buildings and a simulated A-life that is so essential to `GOTHIC` and `STALKER` alike). The human behaviour and the repertoire of reactions to the player's behaviour are extremely restricted in comparison to `GOTHIC`, nor can the player solve tasks by different means (as conceived in the vision of `GOTHIC` in the form of the classes); it has almost nothing of an Immersive Sim *at all*. It is hard to imagine that the developers were "inspired" by `GOTHIC` as they claim. If so they didn't seem to understand much of it.  
  
-There are many examples of games that have a clear gothic aesthetics; less from today than back then (we mentioned several titles above). *Dusk*, *Cliff Barker's Undying* or *Call of Cthulhu* are some modern examples of gothic style. But while all of those games adhere to gothic aesthetics they are no immersive sims; neither RPG, nor exploration focused, nor offering different creative solutions to a problem; they're pure action, platforming or adventure games and thus very limited in their modes of interaction. *Gloomwood* is an exception in that it is both gothic in style as well as an immersive sim in the tradition of *Looking Glass*, described as a "Thief with Guns". Thus it fulfils two of three checkmarks for gothic-like gamedesign. What it does not come with are the four particular RPG elements of `GOTHIC`: The (1) *immersion by visualisation*, the (2) complex NPC behaviour and possibilities of interaction, the (3) existence of classes to choose through roleplay, enabling the player to solve the game differently and the (4) "extreme simple user interface" (in relation to the complexity of the roleplay). 
+There are many examples of games that have a clear gothic aesthetics; less from today than back then (we mentioned several titles above). *Dusk*, *Cliff Barker's Undying* or *Call of Cthulhu* are some modern examples of gothic style. But while all of those games adhere to gothic aesthetics they are no immersive sims; neither RPG, nor exploration focused, nor offering different creative solutions to a problem; they're pure action, platforming or adventure games and thus very limited in their modes of interaction.  
+*Gloomwood* is an exception in that it is both gothic in style as well as an immersive sim in the tradition of Looking Glass, described as a "Thief with Guns". Thus it fulfils two of three checkmarks for gothic-like gamedesign. What it does not come with are the four particular RPG elements of `GOTHIC`: The (1) *immersion by visualisation*, the (2) complex NPC behaviour and possibilities of interaction, the (3) existence of classes to choose through roleplay, enabling the player to solve the game differently and the (4) "extreme simple user interface" (in relation to the complexity of the roleplay). 
 
 Based on the principles of gothic-like game design that we pointed out we have to emphasise over and over again, that there is no game - at least none that we are aware of - that is as gothic-like as `STALKER`. `STALKER` shares both the gothic aesthetics and most of its gameplay principles, it is a roleplaying game in the actual sense of the term and an incredible immersive simulation. The release version of `STALKER` is primarily lacking in the presentation of the story and in the interaction with NPCs and their world, that lacks unique content and more handmade environmental storytelling. *GSC Gameworld* decided to value the Immersive Sim aspects more than the Story presentation, while the release version of `GOTHIC` was lacking in the Immersive Sim aspects that it originally wanted to pull off and *Piranha Bytes* decided to value the Story presentation more. Just as with `GOTHIC` the release version of `STALKER` was very different to what they originally planned, just as with `GOTHIC` the original vision was much more interesting and more appealing than the final product and while we are working on realising the original vision of Gothic as “PHOENIX”, some `STALKER` modders are working on an Oblivion Lost Remake to this very day. `PHOENIX` is to `GOTHIC` what `OBLIVION LOST` is to `STALKER`.  
 
@@ -242,13 +243,16 @@ A "gothic" game has by definition to abide by the stylistic characteristics of t
 
 `GOTHIC` was created with the ambition to introduce a new kind of fantasy to the medium, to represent a new genre of video games and to develop the Immersive Sim further. We continue exactly here, where they left off. Only a game that attempts to combine gothic aesthetics and gothic fantasy with an Immersive Sim approach to rpg design can be considered as a gothic-like game. `PHOENIX` is a reboot of `GOTHIC` and the revival of everything it was once supposed to be. `GOTHIC` was once supposed to be `PHOENIX`. Now it becomes `PHOENIX` again. For us, `PHOENIX` is the new `GOTHIC`.
 
-<img class="author-picture" src="/_img/authors/flosha-sm.png" alt="Flosha">
-
-**Author:** Flosha  
-*Creative Director*  
-
-**Written:** 18.10.2022  
-**Changed:** 23.05.2023  
+<div class="authorship">
+    <img src="/_img/authors/flosha-sm.png" alt="Flosha">
+    <p>
+        <strong>Author:</strong> Flosha<br>  
+        <em>Creative Director</em><br>  
+        <br>
+        <strong>Written:</strong> 18.10.2022<br>  
+        <strong>Changed:</strong> 23.05.2023  
+    </p>
+</div>
 
 <!--
 ## Read next

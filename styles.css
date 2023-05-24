@@ -212,9 +212,10 @@ footer {
 }
 
 .article h1 {
-  margin: 3em 0 0;
+  margin: 3em 0 1em;
   font-family: "Gothic Alpha";
-  font-size: 35px;
+  font-size: 40px;
+  font-weight: normal;
 }
 
 .article p {
@@ -247,11 +248,12 @@ footer {
 
 .article ul.list-small {
   font-size: 14px;
-  padding-left: 0;
+  padding-left: 1em;
+  margin: 1.5em 0 2em;
 }
   .article ul.list-small em {
     color: #77584b;
-    font-weight: bold;
+    font-style: normal;
   } 
 
 
@@ -283,7 +285,8 @@ pre {
 code {
   background: var(--darker);
   border: 1px solid var(--stone);
-  /* border-radius: 7px; */
+  border-radius: 5px; 
+  font-size: 14px;
   padding: 0 0.3em;
   font-family: monospace; 
   display: inline-block;  
@@ -426,6 +429,10 @@ hr {
     padding-top: 500px;
   }
 
+  .intro .article h1 {
+    font-size: 20px;
+  }
+
   .logo {
     image-rendering: pixelated;
     display: block;
@@ -465,10 +472,17 @@ hr {
     font-size: 35px;
   }
 
-.author-picture {
+.authorship {
   margin-top: 3em;
-  float: left;  
+  margin-bottom: 4em;
 }
+  .authorship img {
+    float: left;  
+  }
+  .authorship p {
+    padding: 2em 1em;
+  }
+
 
 
 ::selection {
