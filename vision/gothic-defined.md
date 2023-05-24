@@ -244,7 +244,7 @@ A "gothic" game has by definition to abide by the stylistic characteristics of t
 
 ![Flosha](/_img/authors/flosha-sm.png)
 
-**Author:** Flosha, Creative Director at PhoenixTales
+**Author:** Flosha, Creative Director at PhoenixTales  
 **Written:** 18.10.2022 | **Changed:** 23.05.2023  
 
 <!--
