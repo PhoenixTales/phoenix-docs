@@ -74,7 +74,7 @@ There is typical Christian medieval gothic, there is Victorian gothic (*American
 
 ![Concept Art of the Machine City in Matrix](/Appendix/Inspirations/gothic-styled-films/matrix/9f6baf4ae424100c8fe8229ab82649b3.png)
 
-There is `STALKER`, which is contemporary industrial gothic, where the old medieval ruins of gothic castles are replaced by old factory complexes shut down after the nuclear disaster. Style and themes are extremely similar to the ones in `GOTHIC`; the centre of the zone as the source of psi emmissions - like the Sleeper in the colony; the monolith as a cult to protect that center and being under control of the C-Consciousness to serve its will - like the fanatics in the brotherhood of the Sleeper and so on. In fact, stylistically as well as thematically `STALKER` shares more with `GOTHIC` than any official `GOTHIC` successor.  
+There is `STALKER`, which is contemporary industrial gothic, where the medieval ruins of gothic castles are replaced by old factory complexes shut down after the nuclear disaster. Style and themes are extremely similar to the ones in `GOTHIC`; the centre of the zone as the source of psi emmissions - like the Sleeper in the colony; the monolith as a cult to protect that center and being under control of the C-Consciousness to serve its will - like the fanatics in the brotherhood of the Sleeper. In fact, stylistically as well as thematically `STALKER` shares more with `GOTHIC` than any official "Gothic" successor.  
 
 ![Old STALKER Screenshot](/Appendix/Inspirations/gothic-styled-games/stalker/1585388642-549438843.jpg)
 
