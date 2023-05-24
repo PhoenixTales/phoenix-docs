@@ -340,7 +340,7 @@ a:hover {
 /* HORIZONTAL LINE */
 
 hr {
-  margin-top: 2em;
+  margin: 3em 0;
   border: 1px solid var(--dark);
 }
 
@@ -596,8 +596,7 @@ and (max-width : 820px) {
   }
 
   .intro {
-    background-position: bottom center;
-    background-size: 120%;
+    background: none;
   }
 
   nav {
