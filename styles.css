@@ -284,8 +284,9 @@ pre {
   }
 
 code {
-  background: var(--dark);
-  border-radius: 7px;
+  background: var(--darker);
+  border: 1px solid var(--stone);
+  /* border-radius: 7px; */
   padding: 0 0.3em;
   font-family: monospace; 
   display: inline-block;  
@@ -457,6 +458,15 @@ hr {
   background-repeat: no-repeat;
   width: 100%;
   padding: 200px 0 0;
+}
+
+  .gothic .article h1 {
+    font-size: 30px;
+  }
+
+.author-picture {
+  margin-top: 3em;
+  float: left;  
 }
 
 

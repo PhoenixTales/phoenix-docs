@@ -242,10 +242,13 @@ A "gothic" game has by definition to abide by the stylistic characteristics of t
 
 `GOTHIC` was created with the ambition to introduce a new kind of fantasy to the medium, to represent a new genre of video games and to develop the Immersive Sim further. We continue exactly here, where they left off. Only a game that attempts to combine gothic aesthetics and gothic fantasy with an Immersive Sim approach to rpg design can be considered as a gothic-like game. `PHOENIX` is a reboot of `GOTHIC` and the revival of everything it was once supposed to be. `GOTHIC` was once supposed to be `PHOENIX`. Now it becomes `PHOENIX` again. For us, `PHOENIX` is the new `GOTHIC`.
 
-![Flosha](/_img/authors/flosha-sm.png)
+<img class="author-picture" src="/_img/authors/flosha-sm.png" alt="Flosha">
 
-**Author:** Flosha, Creative Director at PhoenixTales  
-**Written:** 18.10.2022 | **Changed:** 23.05.2023  
+**Author:** Flosha  
+*Creative Director*  
+
+**Written:** 18.10.2022  
+**Changed:** 23.05.2023  
 
 <!--
 ## Read next
