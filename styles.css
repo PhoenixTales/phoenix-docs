@@ -212,7 +212,7 @@ footer {
 }
 
 .article h1 {
-  margin: 3em 0 1em;
+  margin: 1em 0;
   font-family: "Gothic Alpha";
   font-size: 40px;
   font-weight: normal;
@@ -667,7 +667,7 @@ and (max-width : 820px) {
   }
 
   .article h1 {
-    margin-top: 6em;
+    margin-top: 3em;
   }
 
   footer {
