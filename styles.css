@@ -375,7 +375,7 @@ hr {
   font-family: "Gothic Alpha";
   font-size: 16px; 
   margin: 2em 0 1em;
-  padding: 1.2em 1.3em 1em 1em;
+  padding: 1em 1.3em 1em 1em;
   font-weight: bold;
   line-height: 1em;
 }
@@ -383,7 +383,6 @@ hr {
 .gianttext { 
   font-size: 50px; 
   /*text-transform: uppercase;*/
-  line-height: 2em;
 }
 
 
