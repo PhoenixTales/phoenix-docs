@@ -189,7 +189,8 @@ The profession classes differ in many ways:
 - each class has its own character animations  
 - new parts of the dungeon, to which you could not gain access in your former class  
 - many new missions to complete with new riddles to solve  
-- complete new dialogues - your former friends will now be your enemies!  
+- complete new dialogues - your former friends will now be your enemies!
+
 ([Phoenix Pitch](https://media.gothicarchive.org/documents/phoenix/PhoenixPitch.pdf))
 
 *How does character generation work? Is it the traditional "pick a class and hope it works out" or do you have something different in mind?*  
