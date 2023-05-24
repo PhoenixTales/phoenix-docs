@@ -4,6 +4,39 @@
 **Author:** Flosha  
 **Status:** <span class="changed">Work in progress</span>  
 
+**Content:**  
+1. [Alpha Attributes](#alpha-attributes)
+    1. [Primary & Secondary Attributes](#primary--secondary-attributes)
+    2. [Attribute levels in text form](#attribute-levels-in-text-form)
+    3. [Attribute Progression](#attribute-progression)
+    4. [Default Attribute Values for NPCs](#default-attribute-values-for-npcs)
+    5. [Attributes & Classes](#attributes--classes)
+    6. [Cut Attributes](#cut-attributes)
+    7. [Function of Attributes](#function-of-attributes)
+        1. [Mana, Will & Madness](#mana-will--madness)
+    8. [Visualisation of Attributes](#visualisation-of-attributes)
+        1. [Visualisation vs. Representation](#visualisation-vs-representation)
+            1. [Simplifying the HUD](#simplifying-the-hud)
+            2. [Overcoming the HUD](#overcoming-the-hud)
+2. [Phoenix Attributes](#phoenix-attributes)
+    1. [Strength, Constitution, Hitpoints and Damage](#strength-constitution-hitpoints-and-damage)
+    2. [Dexterity, Speed & Hitchance](#dexterity-speed--hitchance)
+    3. [Will, Psi & Madness](#will-psi--madness)
+    4. [The Arts](#the-arts)
+        1. [Psionics](#psionics)
+        2. [Arcanery](#arcanery)
+        3. [Weaponry](#weaponry)
+        4. [Thievery](#thievery)
+    5. [Arts <> Attributes Correlation](#arts--attributes-correlation)
+    6. [Completing the clear texts](#completing-the-clear-texts)
+    7. [Phoenix' Default Values](#phoenix-default-values)
+    8. [Phoenix HUDs](#phoenix-huds)
+        1. [Enhanced Symbol HUD](#enhanced-symbol-hud)
+        2. [Enhanced Bar HUD](#enhanced-bar-hud)
+    9. [Attribute Visualisation or Beyond the HUD](#attribute-visualisation-or-beyond-the-hud)
+        1. [Possession](#possession)
+    10. [Summary](#summary)
+
 
 At first we analyse the attributes as imagined in the concept phase by analysing all the available design documents. Then we look at the attributes as they were implemented in the actual builds of the game and how they changed in course of development. In the end, building on this research, we present our own solution for Phoenix. 
 
@@ -325,6 +358,7 @@ Inititally, not only skills, but also attributes should have been visualised.
 
 While the visualisation of attributes such as strength and dexterity is explained above (in theory; it was never implemented, but animations existed), there arises a need to display stats such as *Health* (HP), *Mana* (MP) and *Willpower* (WP) on the screen, due to their fluctuation during gameplay. By having both a maximum and an actual value. HP, MP and WP can be reduced, regenerated, recharged and discharged. The HUD is supposed to display and inform about these changes, to *represent* those changes, but cannot *visualise* them. 
 
+
 ##### Simplifying the HUD
 
 In 1997, when they began to work on the interface, including the HUD, the minimalism they strived for was radical for an rpg; back then just a few shooters and adventures came with a similarly minimal interface. And while they could not go without a HUD completely and had to represent specific stats, they at least tried to keep it simple.  
@@ -408,7 +442,7 @@ In our system, someone who has more strength can also endure much more hits. But
 
 
 
-## Dexterity 
+### Dexterity, Speed & Hitchance 
 
 TODO!!
 
@@ -810,10 +844,13 @@ Umgekehrt skaliert Willenskraft+ auch die Stärke um einen Faktor.
 So simulieren wir, wie Krieger im Laufe ihres körperlichen Trainings auch Willenskraft dazu gewinnen und wie sich umgekehrt hohe Willenskraft auf körperliche Kraft auswirken kann, während wir zugleich ein Balancing-Problem lösen.  
 
 
-<img class="author-picture" src="/_img/authors/flosha-sm.png" alt="Flosha">
-
-**Author:** Flosha  
-*Creative Director*  
-
-**Written:**    30.12.18 - 27.12.20  
-**Rewritten:**  03.11.22 - 04.12.22  
+<div class="authorship">
+    <img src="/_img/authors/flosha-sm.png" alt="Flosha">
+    <p>
+        <strong>Author:</strong> Flosha<br>  
+        <em>Creative Director</em><br>  
+        <br>
+        <strong>Written:</strong> 30.12.18 - 27.12.20<br>  
+        <strong>Rewritten:</strong> 03.11.22 - 04.12.22  
+    </p>
+</div>

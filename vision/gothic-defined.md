@@ -9,7 +9,7 @@ layout: gothic
 
 
 **Content:**  
-1. [What is Gothic?](#what-is-gothic?)
+1. [What is Gothic?](#what-is-gothic)
 2. [Gothic Aesthetics](#gothic-aesthetics)
 3. [Gothic Fantasy](#gothic-fantasy)
 4. [Gothic as an Immersive Sim](#gothic-as-an-immersive-sim)
