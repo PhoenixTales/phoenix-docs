@@ -16,7 +16,7 @@ layout: vision
 
 I have tried to collect the most relevant ideas of the Gothic devs on their vision of the game, in the words of the four visionaries and founders of the team: Alex Brüggemann, Michael Hoge, Stefan Nyul and Tom Putzki. These are the concepts that they considered essential for what `GOTHIC` was supposed to be in 1998. Many of the statements quoted below may seem repetitive. But I decided to present them as such in order to emphasize that these were the primary aspects of Gothic’s design that they were focused on, that they didn’t get tired of repeating, which they were most proud of and which inform our own vision of Gothic.  
 
-I have consciously limited the collection to the oldest, earliest interviews from 1998, as they are by far the most interesting ones. There they have described their ideas most clearly and radically; in a time when the game did not yet exist and they wanted to do everything differently, describing their dream of a game that was still in conception.  
+I have consciously limited the collection to the oldest, earliest interviews from 1998, as they are by far the most interesting ones. They have described their ideas most clearly and radically there; when the game did not yet exist and they wanted to do everything differently, just describing their dream of a game that was still in conception.  
 
 ---
 
@@ -25,7 +25,7 @@ I have consciously limited the collection to the oldest, earliest interviews fro
   we do our own."</em>
 </p>
 
-> Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. The word is that even highly anticipated games like Ultima: Ascension look dull compared with `GOTHIC`'s highly detailed and incredibly fast engine. And the game is already being touted by insiders for its breakthrough concepts. ([MCV USA 01/1998](https://gothicarchive.org/previews/1998/01_1998_MCV_USA.txt))
+> Though the German Developer PIRANHA BYTES has not even signed a distribution or publishing contract, it's already attracting tremendous attention from publishers and gamers. The word is that even highly anticipated games like Ultima: Ascension look dull compared with GOTHIC's highly detailed and incredibly fast engine. And the game is already being touted by insiders for its breakthrough concepts. ([MCV USA 01/1998](https://gothicarchive.org/previews/1998/01_1998_MCV_USA.txt))
 
 
 ## What's Gothic (working title 'Phoenix' in 1998)?
