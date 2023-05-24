@@ -249,8 +249,17 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 
 (3) Exploration <em>of</em> and interaction <em>with</em> the gameworld and the simulated life therein is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told; thus it has to be an immersive sim RPG.
 
-**Collection:** 07.2019  
-**Summary:** 10.12.22  
+
+<div class="authorship">
+    <img src="/_img/authors/flosha-sm.png" alt="Flosha">
+    <p>
+        <strong>Author:</strong> Flosha<br>  
+        <em>Creative Director</em><br>  
+        <br>
+        <strong>Collection:</strong> 07.2019<br>  
+        <strong>Summary:</strong> 10.12.22 
+    </p>
+</div>
 
 
 ## Read next 
