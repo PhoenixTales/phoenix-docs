@@ -219,7 +219,7 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 
 **Mike:** As mentioned above, we want to make a network game. In GOTHIC people can play both against and with each other. Playing together will pay, for there will be some extra puzzles that require at least 2 players. ([desslock.gamespot.com 15.06.1998](https://gothicarchive.org/interviews/1998/15.06.1998_desslock.gamespot.txt))
 
-**Mike:** In the multiplayer game you can play through the whole story with up to 5 players. Its no deathmatch, although you can kill the other players if they let you :). Making the multiplayer game work the same way the singleplayer game does is in my eyes a unique feature many people will hopefully enjoy (and that btw cost us hell lots of design time). Compared to Online RPGs we have small player numbers, but a complex story and many living characters to explore... [glideunderground.com, 16.10.1999](https://gothicarchive.org/interviews/1999/16.10.1999_glideunderground.com.txt)
+**Mike:** In the multiplayer game you can play through the whole story with up to 5 players. Its no deathmatch, although you can kill the other players if they let you :). Making the multiplayer game work the same way the singleplayer game does is in my eyes a unique feature many people will hopefully enjoy (and that btw cost us hell lots of design time). Compared to Online RPGs we have small player numbers, but a complex story and many living characters to explore... ([glideunderground.com, 16.10.1999](https://gothicarchive.org/interviews/1999/16.10.1999_glideunderground.com.txt))
 
 
 
@@ -249,7 +249,7 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 
 (3) Exploration <em>of</em> and interaction <em>with</em> the gameworld and the simulated life therein is what this kind of gameplay is made of; they are the blood the heart is dealing with, the means by which the story is driven and told; thus it has to be an immersive sim RPG.
 
-**Collection:** 07.19  
+**Collection:** 07.2019  
 **Summary:** 10.12.22  
 
 
