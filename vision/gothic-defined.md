@@ -2,9 +2,8 @@
 layout: gothic
 ---
 
-# Gothic (re)defined 
+# Gothic defined 
 
-![Gothic defined](/_img/headings/gothic-defined.png)
 
 **Author:** Flosha  
 

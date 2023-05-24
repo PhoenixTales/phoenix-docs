@@ -37,6 +37,11 @@
   font-size: 16px;
 }
 
+@font-face{
+  font-family: "Gothic Alpha";
+  src: url("assets/fonts/Gothic_alpha_font.ttf") format("truetype");
+}
+
 body {
   background: var(--black);
   color: var(--silver);
@@ -88,6 +93,11 @@ nav h1, nav h2, nav h3 {
   font-weight: normal; 
   text-transform: uppercase; 
   padding-left: 1em;
+}
+
+.article h1 {
+  font-family: "Gothic Alpha";
+  font-size: 20px;
 }
 
 
