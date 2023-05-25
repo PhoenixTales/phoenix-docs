@@ -827,14 +827,14 @@ There are four class specific attributes (two of them just class focused with so
 * Mana 
 * Psi  
 
-There are four Status Attributes supposed to be displayed in the interface or by other audio-visual means.  
+There are diverse Status Attributes supposed to be displayed in the interface or by other audio-visual means.  
 
 * Hitpoints (referred to as *Life* or *Health*
 * Mana (referred to as "Magic Power")
 * Psi (referred to as "Willpower")
+* Madness
+* Exhaustion
 
-
-Closely related are the Arts:  
 
 
 All of these values are refered to inside the game.  
