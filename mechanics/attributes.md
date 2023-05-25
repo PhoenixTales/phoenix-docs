@@ -439,21 +439,23 @@ Now, Mana and Willpower according to Alex' description define both magic / psi d
 So in our system, while both strength and constitution exist internally and will also be referred to by NPCs, one who can deal more damage can automatically endure more damage and vice versa. It is your overall physical "Kraft" (strength) that controls both. Thus:  
 
 * `ATR_Strength` -> `HP`+`DP` 
-* `Constitution` -> `REG_*`
+* `Constitution` -> `REG_HITPOINTS` + `REG_ENDURANCE`
 
 In our system, someone who has more strength can also endure much more hits. But at the same time the regeneration takes longer and requires more energy, while for someone with low strength but high constitution, the regeneration is faster and requires less energy. In the same way someone with less strength (and therewith less body mass) can sprint longer and higher constitution results in faster regeneration of the sprinting meter (displayed like the oxygen bar).  
 
 Strength is needed to handle weapons effectively, both melee and ranged weapons. There will be no requirement for equipping any weapon, but handling a heavy sword may result in fast or immediate exhaustion, and trying to pull back the string of a strong bow or crossbow may not be possible at all, as that requires quite a bit of strength too. Both are visualised by animations.
 
-Damage as scaled by Strength will diminish by a factor of 0.5 with decreasing hitpoints, but the strength value itself will not diminish (with a few balancing and story related exceptions).
+Damage (as scaled by Strength) will diminish by a factor of 0.5 with decreasing hitpoints, but the strength value itself will not diminish (with a few balancing and story related exceptions).
 
 TODO!! Add stuff from google docs!
 
 
 
-### Dexterity, Speed & Hitchance 
+### Dexterity & Hitchance 
 
-Dexterity is relevant for bo
+Dexterity is also relevant for warriors, but especially for thieves. Dexterity influences the hitchance in combat with both melee and ranged weapons and it influences the chance of success or failure in thief skills such as pickpocketing and lockpicking. 
+
+The combat specific skills (such as One-Handed Combat Level 1-3) do not influence hitchance, but they affect agility, speed (in form of faster animations) and reaction (by influencing the input-delay).
 
 
 ### Will, Psi & Madness 
@@ -501,7 +503,7 @@ Thus, the Sleeper at Lv10 has 60 Psi.</p>
 
 At the same time it is Will that controls the *resistance* against Psi.  
 
-But we also have to consider madness. Here we are confronted with the two contrasting approaches that are mostly about representing madness or sanity in the HUD. Will is an absolute value that cannot be diminished. Psi-Energy has an actual and a maximal value that can be exhausted and recharged. And there are two kinds of Psi:  
+But we also have to consider Madness. Here we are confronted with the two contrasting approaches that are mostly about representing madness or sanity in the HUD. Will is an absolute value that cannot be diminished. Psi-Energy has an actual and a maximal value that can be exhausted and recharged. And there are two kinds of Psi:  
 One is the Psi-Energy handled by a psionic and represents the maximum amount of demonic force a psionic can handle. The other is the environmental Psi-Energy in form of psi emissions, in form of localised psi-rays at so called "psi-knots" and in form of the general psi-radioactivity in the atmosphere which increases in course of the story and from emission to emission. 
 
 <p class="subtext">While the Psi-Energy of Psi-NPCs is automatically scaled by their Will from 0 to 30, player characters have to find Psi-knots in the game world to increase their Psi-Energy.</p> 
@@ -551,6 +553,7 @@ The warrior strives to master combat and weaponry. The thief strives to become a
 | PK | Psionik     | Psionics |
 +-----------------------------+
 ```
+
 Weaponry signifies the skill of a Warrior.  
 Thievery signifies the skill of a Thief.  
 Arcanery signifies the skill of a Mage.  
@@ -593,8 +596,8 @@ Weaponry is primarily relevant for warriors. It is increased through teaching fr
 
 ### Arts <> Attributes Correlation
 
-Thievery <> Dexterity (rather Stealth-relevant Attribute)
-Weaponry <> Strength (rather Attack/Focus?)
+Thievery <> Dexterity 
+Weaponry <> Strength 
 Arcanery <> Mana
 Psionics <> Psi
 
@@ -750,7 +753,7 @@ But just as the Symbol HUD the bars will be smaller for characters with smaller 
 
 ### Beyond the HUD
 
-We will also go beyond the HUD completely (apart from the inventory) by radical attribute visualisation.    
+We will also go beyond the HUD completely (apart from the inventory) by radical attribute visualisation that makes both the Icon and the Bar HUD optional.  
 
 In this regard, allow me this pathetic metaphor: Just as "that government is best which governs the least" (Thoreau), because it creates conditions of self-regulating autonomy under which its intervention isn't needed anymore as the people are able to govern themselves; that HUD (heads-up display) is best which has to be displayed the least, because the developers created conditions of self-explanatory gameplay mechanics by which its representation isn't needed anymore as the players are able to *play it* themselves. A metaphor for Gothics minimalist interface design.  
 
@@ -781,19 +784,19 @@ In the process of structuring these mixed attributes and my attempts to organise
 
 > An **attribute** is a piece of data (a statistic) that describes to what extent a fictional character in a role-playing game possesses a specific natural, in-born characteristic common to all characters in the game.  
 
-Based on this definition the arts are impossible to consider as attributes, since they are no characteristics common to all characters nor are they natural or inborn. The ones that would fit that description are the following ones which we could structure in a scheme like this:  
+Based on this definition the arts are impossible to consider as attributes, since they are no characteristics common to all characters nor are they natural or inborn. The ones that would fit that description are the following ones, which I structure in a simple scheme:  
 
 ```
-`ATR_CONSTITUTION` = Körperliche Verfassung
-`ATR_STRENGTH`     = Körperliche Kraft 
-`ATR_DEXTERITY`    = Körperkontrolle
+`ATR_CONSTITUTION` = Physical Condition
+`ATR_STRENGTH`     = Physical Strength
+`ATR_DEXTERITY`    = Physical Control
 
-`ATR_MADNESS`      = Geistige Gesundheit
-`ATR_WILL`         = Geistige Kraft 
-`ATR_PSI`          = Geistige Kontrolle
+`ATR_MADNESS`      = Mental Condition
+`ATR_WILL`         = Mental Strength
+`ATR_PSI`          = Mental Control
 ```
 
-Psi fits into this scheme as mental control; but as almost no one has control over his mind it is not actually to be seen as a general attribute; everyone has some degree of dexterity, but regarding the mind, most characters in the game (like in reality) are not in control of their mind independent from the sheer force of wanting or mentally resisting, they can't stop the stream of thought.  
+Psi fits into the scheme as mental control; but as almost no one has control over his mind it is not actually to be seen as a general attribute (but as a potential one); everyone has some degree of dexterity, but regarding the mind, most characters in the game (like in reality) are not in control and experience their mind primarily as a sheer force of wanting or mentally resisting, they can't stop the stream of thought.  
 
 Thus, the rest is either a mere representation of these for the player in form of the HUD or it has to belong to the specific experience in the Arts or "Gifts". And while the four arts described above are class-specific, we have added additional class-crossing ones, where Logx is to credit for the idea of *Metallurgy* and *Huntsmanship* here:  
 
@@ -806,31 +809,30 @@ Class specific:       Class crossing:
 `EXP_PSIONICS`        `EXP_HUNTSMANSHIP` 
 ```
 
- 
+*Alchemy* is class-crossing in that it is dealt with by both Mages and Psionics; in the same way as *Archery* or *Marksmanship* and *Huntsmanship* (part of which is all kinds of knowledge about monsters) are relevant for both warriors and thieves. *Metallurgy* does not only matter for forging swords, but begins with common knowledge about ore and ends in refined arts such as runemaking (which is *arcane*). This way, some arts and the experience gained in them has synergistic effects on others.
 
+---
 
+Based on all the reasoning above, this is our solution, making for a coherent system, that is both simple and complex.  
 
-Based on all the reasoning above, this is our solution.  
-Making for a coherent system, that is both simple and complex.  
+There are two pairs of general Attributes referred to by clear texts:  
 
-
-There are 2 pairs of general Attributes   
-refered to by clear texts:  
-
-* Physical Condition: Constitution / Strength  
+* Physical Condition: Constitution / Hitpoints 
 * Mental Condition: Will / Madness  
 
-Increasing strength automatically increases Will by a factor of 0.5 and vice versa.
-There are four class specific attributes:  
+There are four class specific attributes (two of them just class focused with some relevance for all, two of them class exclusive):  
 
-* Force / Dexterity  
-* Mana / Psi  
+* Strength
+* Dexterity  
+* Mana 
+* Psi  
 
 There are four Status Attributes supposed to be displayed in the interface or by other audio-visual means.  
 
-* Life (refered to as 
-* Mana (refered to as "magische Kraft")
-* Psi
+* Hitpoints (referred to as *Life* or *Health*
+* Mana (referred to as "Magic Power")
+* Psi (referred to as "Willpower")
+
 
 Closely related are the Arts:  
 
