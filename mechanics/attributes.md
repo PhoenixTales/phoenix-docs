@@ -416,7 +416,7 @@ At first and influenced by the release system I imagined that there was some dif
 
 Thus, the arts were defined by me as pre-requisites for class-specific skills ("talents") to learn and I came up with the idea of the Arts as a specific form of experience that would reward the player for using the skills of his chosen class, all in order to reinforce the story-driven gameplay and at the same time to replace the general experience points, which, as various early statements suggest (see [[EXPERIENCE]]) we deemed to not have been part of the initial vision of the game. It gave sense to the "arts" and was a neat little system to overcome any form of grinding.  
 
-Another idea of mine that is not grounded in any research was to combine Strength and Hitpoints in one; the details of which we will explain below. But in short: I liked the simplicity of it, I was inclined to it for how it deviates from the usual system in RPGs and due to the interesting balancing.  
+Another idea of mine that is not grounded in any research was to combine Strength and Hitpoints; the details of which we will explain below. But in short: I liked the simplicity of it, I was inclined to it for how it deviates from the usual system in RPGs and due to the interesting balancing.  
 
 But since all the attributes were just mixed up in the scripts the main aspect that we only became aware of through the acquisition and research of the design documents was the difference of first and second order attributes and their correlation that we now had to consider and to explain.  
 
@@ -445,7 +445,7 @@ In our system, someone who has more strength can also endure much more hits. But
 
 Strength is needed to handle weapons effectively, both melee and ranged weapons. There will be no requirement for equipping any weapon, but handling a heavy sword may result in fast or immediate exhaustion, and trying to pull back the string of a strong bow or crossbow may not be possible at all, as that requires quite a bit of strength too. Both are visualised by animations.
 
-Strength will diminish by a factor of 0.5 with decreasing hitpoints, but the
+Damage as scaled by Strength will diminish by a factor of 0.5 with decreasing hitpoints, but the strength value itself will not diminish (with a few balancing and story related exceptions).
 
 TODO!! Add stuff from google docs!
 
