@@ -472,12 +472,14 @@ hr {
   }
 
 .authorship {
+  display: flex;
+  align-items: center;
   margin-top: 3em;
   margin-bottom: 4em;
   font-style: monospace;
 }
   .authorship img {
-    float: left;  
+
   }
   .authorship p {
     padding: 2em;
@@ -667,7 +669,7 @@ and (max-width : 820px) {
   }
 
   .authorship img {
-    max-width: 150px; 
+    max-width: 200px; 
   }
   
   .article h1 {
