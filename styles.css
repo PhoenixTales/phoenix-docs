@@ -666,6 +666,10 @@ and (max-width : 820px) {
     margin: 0 auto;
   }
 
+  .authorship img {
+    max-width: 100px; 
+  }
+  
   .article h1 {
     margin-top: 3em;
   }
