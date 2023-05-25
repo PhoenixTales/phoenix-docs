@@ -596,10 +596,10 @@ Weaponry is primarily relevant for warriors. It is increased through teaching fr
 
 ### Arts <> Attributes Correlation
 
-Thievery <> Dexterity 
-Weaponry <> Strength 
-Arcanery <> Mana
-Psionics <> Psi
+Thievery <> Dexterity  
+Weaponry <> Strength  
+Arcanery <> Mana  
+Psionics <> Psi. 
 
 Every art comes with ten levels. There are 10 possible levels of class-specific experience. And every art scales an associated status attribute. 
 
@@ -703,10 +703,10 @@ Exception Templars:
 
 ### Phoenix HUDs
 
-The HUD will be optional and it will be possible to play without (see ["Beyond the HUD](#attribute-visualisation-or-beyond-the-hud])). We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols during exploration mode when not wounded.  
+The HUD will be optional and it will be possible to play without (see ["Beyond the HUD](#attribute-visualisation-or-beyond-the-hud])). We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols by default in the exploration mode when not wounded.  
 
 The following attributes or other values will be displayed on the screen:
-* Hitpoints (when injured or in the inventory)
+* Hitpoints (when injured, in Combat Mode or in the inventory)
 * Exhaustion/Oxygen (when sprinting or diving)
 * Mana (when in Magic Mode or in the inventory)
 * Psi (when in Psi Mode or in the inventory)
@@ -815,27 +815,50 @@ Class specific:       Class crossing:
 
 Based on all the reasoning above, this is our solution, making for a coherent system, that is both simple and complex.  
 
-There are two pairs of general Attributes referred to by clear texts:  
+There are two pairs of general Attributes: 
 
 * Physical Condition: Constitution / Hitpoints 
 * Mental Condition: Will / Madness  
 
-There are four class specific attributes (two of them just class focused with some relevance for all, two of them class exclusive):  
+  
 
-* Strength
-* Dexterity  
-* Mana 
-* Psi  
+The following attributes and arts are referred to inside the game by clear texts or spreech and connect the game's mechanics with its lore:  
 
-There are diverse Status Attributes supposed to be displayed in the interface or by other audio-visual means.  
+7 Primary Attributes:   
+* `ATR_Constitution`
+* `ATR_Strength`
+* `ATR_Dexterity`
+* `ATR_Will`
+* `ATR_Madness`
+* `ATR_Mana`
+* `ATR_Psi`
 
-* Hitpoints (referred to as *Life* or *Health*
-* Mana (referred to as "Magic Power")
-* Psi (referred to as "Willpower")
-* Madness
-* Exhaustion
+4 Class-Specific Arts:  
+* `ART_Weaponry`
+* `ART_Thievery`
+* `ART_Arcanery`
+* `ART_Psionics`
+5 Class-Crossing Arts:  
+* `ART_Alchemy`
+* `ART_Archery`
+* `ART_Marksmanship`
+* `ART_Huntsmanship`
+* `ART_Philology`
 
+The following Attributes are scaled by other Attributes:  
+* `ATR_Hitpoints` (scaled by Constitution)
 
+* `ATR_Force` (scaled by Strength)
+* `ATR_Mana` (scaled by Arcanery)
+* `ATR_Psi` (scaled by Psionics)
+* `ATR_Will`
+
+The following attributes and related constants are not referred to in the game world and are solely displayed in the form of the HUD or serve pure internal functions: 
+
+`REG_*`  
+`DMG_*`  
+`PROT_*`  
+`RES_*`
 
 All of these values are refered to inside the game.  
 
@@ -854,16 +877,36 @@ All of these values are refered to inside the game.
 `ART_Psionics` -> `ATR_PSI` + `RESIST_PSI`, `REG_PSI`  
 
 **Regeneration Categories:**  
-General: `REG_Life`, `REG_Force`, `REG_Sanity`  
-Class specific: `REG_Special`, `REG_Focus`, `REG_Mana`, `REG_Psi`  
+General:  
+`REG_Life` (HP Reg.)  
+`REG_Force` (DMG Reg.)  
+`REG_Sanity` (MAD Red.)
+`REG_Endurance` (EP Reg.)
+Class specific:  
+`REG_Special` (Warrior)  
+`REG_Focus` (Thief)  
+`REG_Mana` (Mage)  
+`REG_Psi` (Psionic)   
 
 **Experience Categories**:  
-primary: `EXP_Suffering`, `EXP_Resistance`, `EXP_Exhaustion`, `EXP_Madness`  
-secondary: `EXP_Combat`, `EXP_Stealth`, `EXP_Magic`, `EXP_Psi`  
+primary (general):  
+`EXP_Suffering`,  
+`EXP_Resistance`,  
+`EXP_Exhaustion`,  
+`EXP_Madness`  
+secondary (class-specific):  
+`EXP_Combat`,  
+`EXP_Stealth`,  
+`EXP_Magic`,  
+`EXP_Psi`  
+tertiary (class-crossing):  
+`EXP_Alchemy`,  
+`EXP_Huntsmanship`,  
+`EXP_Marksmanship`,  
+`EXP_Metallurgy`,  
+[`EXP_Philology`]
 
-tertiary: `EXP_Alchemy`, `EXP_Huntsmanship`, `EXP_Marksmanship`, `EXP_Metallurgy`. `EXP_Philology`
-
-
+And that's it.  
 
  
 
