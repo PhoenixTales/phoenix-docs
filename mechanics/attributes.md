@@ -841,13 +841,13 @@ All of these values are refered to inside the game.
 
 
 **General/primary values + correlated Status Attributes:**  
-`ATR_Strength` -> `ATR_HITPOINTS`, `DMG_*`, `REG_SPECIAL`  
-`ATR_Constitution` -> `REG_LIFE`, `REG_STRENGTH`  
-`ATR_Will` -> `ATR_Madness`, `REG_SANITY`, `REG_FOCUS`  
+`ATR_Strength` -> `ATR_HITPOINTS`, `DMG_*`
+`ATR_Constitution` -> `REG_LIFE`, `REG_FORCE`  
+`ATR_Will` -> `ATR_Madness`, `REG_SANITY`
 
 **Arts + correlated Status Attributes:**  
-`ART_Weaponry` -> `ATR_FORCE` + `FGT_Delay` + `FGT_SpecialAt`  
-`ART_Thievery` -> `ATR_DEXTERITY` + `STL_Risk` + `STL_Focus`  
+`EXP_Weaponry` -> `ATR_STRENGTH` + `FGT_Delay` + `FGT_SpecialAt`  
+`EXP_Thievery` -> `ATR_DEXTERITY` + `STL_Risk` + `STL_Focus`  
 `ART_Arcane` -> `ATR_MANA` + `RESIST_MAGIC`, `REG_MANA`  
 `ART_Psionics` -> `ATR_PSI` + `RESIST_PSI`, `REG_PSI`  
 
