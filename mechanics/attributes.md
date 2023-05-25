@@ -431,7 +431,7 @@ In order to do so we have to analyse the difference between those attributes whi
 #### Strength, Constitution, Hitpoints and Damage 
 
 Constitution is relevant to everyone and with no primary focus on any class.  
-Strength is primarily relevant and skilled by Warriors. Mages and Psionics may not skill it at all, but it is nonetheless a factor that matters to every character; it sets limits of how you can or can not interact with the world. And therefore everyone will have some degree of Strength.  
+Strength is primarily relevant and skilled by Warriors. Mages and Psionics may not skill it at all, but it is nonetheless a factor that matters to every character; it sets limits of how you can or can not interact with the world (as in form of carrying or pushing objects). And therefore everyone will have some degree of Strength.  
 
 Strength and constitution have to be closely interlinked. Strength will scale the `DP` (damage points), constitution will scale the `HP` (hit points). In this sense they represent the damage that the character can inflict and the damage he can endure.   
 
@@ -443,13 +443,17 @@ So in our system, while both strength and constitution exist internally and will
 
 In our system, someone who has more strength can also endure much more hits. But at the same time the regeneration takes longer and requires more energy, while for someone with low strength but high constitution, the regeneration is faster and requires less energy. In the same way someone with less strength (and therewith less body mass) can sprint longer and higher constitution results in faster regeneration of the sprinting meter (displayed like the oxygen bar).  
 
+Strength is needed to handle weapons effectively, both melee and ranged weapons. There will be no requirement for equipping any weapon, but handling a heavy sword may result in fast or immediate exhaustion, and trying to pull back the string of a strong bow or crossbow may not be possible at all, as that requires quite a bit of strength too. Both are visualised by animations.
+
+Strength will diminish by a factor of 0.5 with decreasing hitpoints, but the
+
 TODO!! Add stuff from google docs!
 
 
 
 ### Dexterity, Speed & Hitchance 
 
-TODO!!
+Dexterity is relevant for bo
 
 
 ### Will, Psi & Madness 
