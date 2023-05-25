@@ -813,16 +813,9 @@ Class specific:       Class crossing:
 
 ---
 
-Based on all the reasoning above, this is our solution, making for a coherent system, that is both simple and complex.  
+Based on the reasoning above, the following is our solution, making for a coherent system, that is both simple and complex.  
 
-There are two pairs of general Attributes: 
-
-* Physical Condition: Constitution / Hitpoints 
-* Mental Condition: Will / Madness  
-
-  
-
-The following attributes and arts are referred to inside the game by clear texts or spreech and connect the game's mechanics with its lore:  
+There are 7 primary attributes and 9 arts that are referred to inside the game by clear texts or spreech and connect the game's mechanics with its lore:  
 
 7 Primary Attributes:   
 * `ATR_Constitution`
@@ -845,10 +838,18 @@ The following attributes and arts are referred to inside the game by clear texts
 * `ART_Huntsmanship`
 * `ART_Philology`
 
-The following Attributes and other values are scaled by other Attributes:  
-* `Hitpoints` (scaled by Constitution)
-* `Damagepoints` (scaled by Strength)
-* `Hitchance/Risk` (scaled by Dexterity)
+* `ATR_Hitpoints`
+* `ATR_Force`
+* `ATR_Endurance`
+* 
+
+The following Attributes and other values are scaled by one of the seven attributes; they are not referred to inside the game, they serve internal purposes in the game logic and are only represented in the HUD or not at all:  
+
+* `HP` and `DP` (Hitpoints and Damage Points are scaled by Strength)
+* `REG_HP` and `REG_EP` (Regeneration of Hitpoints and Endurance are scaled by Constitution)
+* `Hitchance` and `StealthRisk` are scaled by Dexterity
+* `RESIST_Madness` is scaled by Will
+
 
 The following Attributes and values are scaled by Arts:  
 * `ATR_Force` (scaled by Weaponry)
