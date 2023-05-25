@@ -845,13 +845,19 @@ The following attributes and arts are referred to inside the game by clear texts
 * `ART_Huntsmanship`
 * `ART_Philology`
 
-The following Attributes are scaled by other Attributes:  
-* `ATR_Hitpoints` (scaled by Constitution)
+The following Attributes and other values are scaled by other Attributes:  
+* `Hitpoints` (scaled by Constitution)
+* `Damagepoints` (scaled by Strength)
+* `Hitchance/Risk` (scaled by Dexterity)
 
-* `ATR_Force` (scaled by Strength)
+The following Attributes and values are scaled by Arts:  
+* `ATR_Force` (scaled by Weaponry)
+* 
 * `ATR_Mana` (scaled by Arcanery)
-* `ATR_Psi` (scaled by Psionics)
-* `ATR_Will`
+* `ATR_Psi` (scaled by Psionics)  
+
+* `ATR_Will` (scaled by Strength)  
+* `ATR_Strength` (scaled by Will)
 
 The following attributes and related constants are not referred to in the game world and are solely displayed in the form of the HUD or serve pure internal functions: 
 
@@ -860,11 +866,21 @@ The following attributes and related constants are not referred to in the game w
 `PROT_*`  
 `RES_*`
 
-All of these values are refered to inside the game.  
+There are the following regeneration categories: 
+
+General:  
+`REG_Life` (HP Reg.)  
+`REG_Force` (DMG Reg.)  
+`REG_Sanity` (MAD Red.)
+`REG_Endurance` (EP Reg.)
+Class specific:  
+`REG_Special` (Warrior)  
+`REG_Focus` (Thief)  
+`REG_Mana` (Mage)  
+`REG_Psi` (Psionic)   
 
 
-**General/primary values + correlated Status Attributes:**  
-`ATR_Strength` -> `ATR_HITPOINTS` + `DMG_*`
+
 `ATR_Dexterity` -> `HITCHANCE` + `RISK`
 `ATR_Constitution` -> `REG_LIFE`, `REG_FORCE`  
 `ATR_Will` -> `ATR_Madness`, `REG_SANITY`
@@ -877,16 +893,7 @@ All of these values are refered to inside the game.
 `ART_Psionics` -> `ATR_PSI` + `RESIST_PSI`, `REG_PSI`  
 
 **Regeneration Categories:**  
-General:  
-`REG_Life` (HP Reg.)  
-`REG_Force` (DMG Reg.)  
-`REG_Sanity` (MAD Red.)
-`REG_Endurance` (EP Reg.)
-Class specific:  
-`REG_Special` (Warrior)  
-`REG_Focus` (Thief)  
-`REG_Mana` (Mage)  
-`REG_Psi` (Psionic)   
+
 
 **Experience Categories**:  
 primary (general):  
@@ -910,8 +917,6 @@ And that's it.
 
  
 
-BREATH_..  
-STAMINA_...  
 
 
 
