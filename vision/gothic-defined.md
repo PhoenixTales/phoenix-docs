@@ -241,7 +241,7 @@ Based on the principles of gothic-like game design that we pointed out we have t
 
 A "gothic" game has by definition to abide by the stylistic characteristics of the gothic art and fiction it is inspired by, which we summarise as "Gothic Aesthetics". This style is nothing that Gothic as a game invented, but the game is rooted in this aesthetics and the devs went so far as declaring the fantasy world they created from this influence as another kind of fantasy: *Gothic Fantasy*.  
 
-Gothic was created with the ambition to introduce a new kind of fantasy to the medium, to represent a new genre of video games and to develop the Immersive Sim further. We continue exactly here, where they left off. Only a game that attempts to combine gothic aesthetics and gothic fantasy with an immersive sim approach to RPG design can be considered as a gothic-like game. PHOENIX is a reboot of GOTHIC and the revival of everything it was once supposed to be. Once it was supposed to be PHOENIX. And now it becomes PHOENIX again.  
+Gothic was created with the ambition to introduce a new kind of fantasy to the medium, to represent a new genre of video games and to develop the Immersive Sim further. We continue exactly here, where they left off. Only a game that attempts to combine gothic aesthetics and gothic fantasy with an immersive sim approach to RPG design can be considered as a gothic-like game. GOTHIC was once supposed to be "Phoenix"; now it becomes PHOENIX again.  
 
 As Mike said in 1998: "Fortunately, no one came too close to our vision of a 3D-RPG by now..." Fortunately or unfortunately, this statement holds still true today. Even Gothic itself came not too close to the vision they had in 1998. And it is in this sense, that PHOENIX is the new GOTHIC.
 
