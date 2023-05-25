@@ -547,6 +547,10 @@ The warrior strives to master combat and weaponry. The thief strives to become a
 | PK | Psionik     | Psionics |
 +-----------------------------+
 ```
+Weaponry signifies the skill of a Warrior.  
+Thievery signifies the skill of a Thief.  
+Arcanery signifies the skill of a Mage.  
+Psionics signifies the skill of a Psionic. 
 
 ---
 
@@ -785,7 +789,7 @@ Based on this definition the arts are impossible to consider as attributes, sinc
 `ATR_PSI`          = Geistige Kontrolle
 ```
 
-Psi would fit into this scheme as mental control; but as almost no one has control over his mind it is not to be seen as a general attribute yet; everyone has some degree of dexterity, but regarding the mind, most characters in the game (like in reality) are not in any kind of control of their mind independent from the sheer force of wanting or mentally resisting, they can't stop the stream of thought.  
+Psi fits into this scheme as mental control; but as almost no one has control over his mind it is not actually to be seen as a general attribute; everyone has some degree of dexterity, but regarding the mind, most characters in the game (like in reality) are not in control of their mind independent from the sheer force of wanting or mentally resisting, they can't stop the stream of thought.  
 
 Thus, the rest is either a mere representation of these for the player in form of the HUD or it has to belong to the specific experience in the Arts or "Gifts". And while the four arts described above are class-specific, we have added additional class-crossing ones, where Logx is to credit for the idea of *Metallurgy* and *Huntsmanship* here:  
 
@@ -798,10 +802,7 @@ Class specific:       Class crossing:
 `EXP_PSIONICS`        `EXP_HUNTSMANSHIP` 
 ```
 
-Weaponry signifies the skill as a Warrior.  
-Thievery signifies the skill as a Thief.  
-Arcane   signifies the skill as a Mage.  
-Psionics signifies the skill as a Psionic.  
+ 
 
 
 
