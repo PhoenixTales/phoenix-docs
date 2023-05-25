@@ -224,6 +224,7 @@ footer {
 
 .article ol {
   font-family: monospace;
+  font-size: 14px;
 
   counter-reset: item;
   list-style-type: none;
