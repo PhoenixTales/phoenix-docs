@@ -28,14 +28,15 @@
         3. [Weaponry](#weaponry)
         4. [Thievery](#thievery)
     5. [Arts <> Attributes Correlation](#arts--attributes-correlation)
+        1. [Attribute Scaling(#attribute-scaling)
     6. [Completing the clear texts](#completing-the-clear-texts)
-    7. [Phoenix' Default Values](#phoenix-default-values)
-    8. [Phoenix HUDs](#phoenix-huds)
+    8. [Phoenix' Default Values](#phoenix-default-values)
+    9. [Phoenix HUDs](#phoenix-huds)
         1. [Enhanced Symbol HUD](#enhanced-symbol-hud)
         2. [Enhanced Bar HUD](#enhanced-bar-hud)
-    9. [Attribute Visualisation or Beyond the HUD](#attribute-visualisation-or-beyond-the-hud)
+    10. [Beyond the HUD](#beyond-the-hud)
         1. [Possession](#possession)
-    10. [Summary](#summary)
+    11. [Summary](#summary)
 
 
 At first we'll analyse the attributes as imagined in the concept phase by analysing all the available design documents. Then we look at the attributes as they were implemented in the actual builds of the game and how they changed in course of development. 
@@ -589,8 +590,16 @@ Weaponry <> Strength (rather Attack/Focus?)
 Arcanery <> Mana
 Psionics <> Psi
 
-Every art comes with ten levels. There are 10 possible levels of class-specific experience. And every art scales an associated status attribute. Thievery scales Dexterity, Weaponry scales Strength, Arcanery scales the ability to boost Mana permanently (which otherwise would result in intoxication) and Psionics scales the ability to collect more Psi-Energy. 
+Every art comes with ten levels. There are 10 possible levels of class-specific experience. And every art scales an associated status attribute. 
 
+
+#### Attribute Scaling
+
+Thievery scales Dexterity, Weaponry scales Strength, Arcanery scales the ability to boost Mana permanently (which otherwise would result in intoxication) and Psionics scales the ability to collect more Psi-Energy. 
+
+Additionally there are a few cases of mutual influence between attributes. (Physical) Strength scales Will automatically by a factor of ~0.5. And reverse: Increases in Will scale Strength by a similar factor. 
+ 
+In this way we simulate how a warrior gains mental strength too in course of his physical training and how high Willpower can have an effect on physical strength. At the same time it solves a balancing problem, in that it enables warriors to focus on strength development while still increasing their resistance against psionic attacks, and templars to increase their Willpower without missing out on too much gains in strength. 
 
 
 ### Completing the clear texts
@@ -718,9 +727,11 @@ The bar HUD will follow the brutalist style and function from ~v0.8-0.9.
 But just as the Symbol HUD the bars will be smaller for characters with smaller values and larger for characters with larger values, not being stretched to a fixed width like in the release version. Instead of adjusting the bars to the background texture, we will adjust the background texture to the bars. This will not only provide additional information to the player, the HUD will also cover less of the screen.  
 
 
-### Attribute Visualisation or Beyond the HUD
+### Beyond the HUD
 
-Allow me the pathetic metaphor: Just as "that government is best which governs the least" (Thoreau), because it creates conditions of self-regulating autonomy under which its intervention isn't needed anymore as the people are able to govern themselves; that HUD (heads-up display) is best which has to be displayed the least, because the developers created conditions of self-explanatory gameplay mechanics by which its representation isn't needed anymore as the players are able to *play it* themselves. A metaphor for Gothics minimalist interface design.  
+We will also go beyond the HUD completely (apart from the inventory) by radical attribute visualisation.    
+
+In this regard, allow me this pathetic metaphor: Just as "that government is best which governs the least" (Thoreau), because it creates conditions of self-regulating autonomy under which its intervention isn't needed anymore as the people are able to govern themselves; that HUD (heads-up display) is best which has to be displayed the least, because the developers created conditions of self-explanatory gameplay mechanics by which its representation isn't needed anymore as the players are able to *play it* themselves. A metaphor for Gothics minimalist interface design.  
 
 And just as I am not demanding for the government to just be taken down, but for it to remain fully functional as necessary while realising it as its primary function to make itself unnecessary (at which all governments fail, thereby undermining their own legitimacy); and to the same degree as the government is needed, to this very degree it exposes the lack of autonomy established in society which it needs to govern less (and for us to be more free) - In the same way we aren't demanding to eliminate the HUD, but we want that it is not *needed*, because to the same degree as the HUD is needed, to this very degree it exposes a lack of visualisation established in the gameplay which we need for less abstraction (and for us to play more immersed).  
 
@@ -847,13 +858,7 @@ RES_MAGIC
 RES_FIRE  
 
 
-### Attribute Scaling
 
-Körperliche Stärke+ skaliert automatisch die Willenskraft um einen Faktor 0.5 oder so.
-Also wenn man + 10 Stärke kriegt, hat man auch + 5 Willenskraft.  
-
-Umgekehrt skaliert Willenskraft+ auch die Stärke um einen Faktor.  
-So simulieren wir, wie Krieger im Laufe ihres körperlichen Trainings auch Willenskraft dazu gewinnen und wie sich umgekehrt hohe Willenskraft auf körperliche Kraft auswirken kann, während wir zugleich ein Balancing-Problem lösen.  
 
 
 <div class="authorship">
