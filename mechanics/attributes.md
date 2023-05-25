@@ -573,7 +573,7 @@ In the same way as the arcane art opens the mind and prepares the body of the ma
 
 Just as the mage can lead the way to the magical ore (that he needs for his potions which again he needs to boost Mana) due to his ability to alchemically sense physical substances that are magically charged, having a whole set of additional perceptions unknown to those without the *Arcane Gift* (more about these concepts of ours in the documentation of the Magic Mode and Magic in the lore section), in the same way there are additional perceptions to the highly skilled psionic, opening up a world beyond the physical and allowing him a glimpse into the mystical, psychical (or demonic) reality like an overlay over the world perceived by others, by which, for instance, he can see the psi-knots that he needs to boost his maximal Psi-Energy and other phenomena.  
 
-The psionic brotherhood (which was highly inspired by Buddhism in fact), uses the sign of the opened eye. And obviously the open eye signifies awakening. That is exactly what the psionic art has to be about, what they all are working on: to awaken.  
+The psionic brotherhood (which was highly inspired by Buddhism in fact), uses the sign of the open / opening eye. And obviously the open eye signifies awakening. That is exactly what the psionic art has to be about, what they all are working on: to awaken.  
 
 
 #### Arcanery
