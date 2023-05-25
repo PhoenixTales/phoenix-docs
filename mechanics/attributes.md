@@ -38,7 +38,9 @@
     10. [Summary](#summary)
 
 
-At first we analyse the attributes as imagined in the concept phase by analysing all the available design documents. Then we look at the attributes as they were implemented in the actual builds of the game and how they changed in course of development. In the end, building on this research, we present our own solution for Phoenix. 
+At first we'll analyse the attributes as imagined in the concept phase by analysing all the available design documents. Then we look at the attributes as they were implemented in the actual builds of the game and how they changed in course of development. 
+
+In the second part, building on this research, we present our own solution for Phoenix. 
 
 
 ## Alpha Attributes
