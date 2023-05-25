@@ -478,6 +478,7 @@ hr {
   margin-top: 3em;
   margin-bottom: 4em;
   font-style: monospace;
+  flex: 1;
 }
   .authorship img {
 
@@ -670,7 +671,7 @@ and (max-width : 820px) {
   }
 
   .authorship img {
-    max-width: 200px; 
+    max-width: 150px; 
   }
   
   .article h1 {
