@@ -691,7 +691,9 @@ The HUD will be optional and it will be possible to play without (see ["Beyond t
 Sasha (aka Jr) was inspired by the Symbol HUD of the alpha versions and started to develop an enhanced version of it. There was no symbol to represent oxygen when diving, so he added a little bubble symbol. Since he imagined that one symbol such as HP does not necessarily correlate to one health point internally, but may be the sum of a specific number of healthpoints, he included an optical transition. As we know now one symbol should exactly correlate to one health point, such that this idea has become redundant.  
 In cooperation with me he later improved the HUD even further and designed it to our liking; he included the possibility to switch between the Symbol- and Bar-HUD from the menu, provided options to customise the HUD to ones liking and included Phoenix presets (such as hiding HP when not injured).  
 
-In order to not have 30 icons on the screen, we will design "reinforced" symbols for characters of higher levels, such as in my exemplatory concepts below. The first screen below shows life points of level 2 (dark red) and 3 (purple) as well as mana points level 2 (blue-golden) and 3 (dark-red):  
+In order to not have 30 icons on the screen, we will have 3 levels represented by "cooler", "reinforced" symbols, such as in my exemplatory concepts below.   
+
+The first screen shows life points of level 2 (dark red) and 3 (purple) as well as mana points of level 2 (blue / golden) and 3 (dark blue & red):  
 
 ![Corristos HUD example HP & MP Level 2+3](/_img/mechanics/HUD/HUDCor.png)
 
@@ -705,7 +707,7 @@ Based on an idea by Alex mentioned in the documents, we also add new strength sy
 
 ![Orc HUD example Fists](/_img/mechanics/HUD/HUDOrcSlave.png)
 
-And since we add Madness as a seperate attribute in the sense of "negative Willpower", as described above, we also will new dedicated Madness Symbols:  
+And since we add Madness as a seperate attribute in the sense of "negative Willpower", as described above, we also have new dedicated Madness Symbols:  
 
 ![New Madness Symbols](/_img/mechanics/HUD/HUDMad2.png)
 
