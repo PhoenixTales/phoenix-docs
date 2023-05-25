@@ -841,41 +841,36 @@ All of these values are refered to inside the game.
 
 
 **General/primary values + correlated Status Attributes:**  
-`ATR_Strength` -> `ATR_HITPOINTS`, `DMG_*`
+`ATR_Strength` -> `ATR_HITPOINTS` + `DMG_*`
+`ATR_Dexterity` -> `HITCHANCE` + `RISK`
 `ATR_Constitution` -> `REG_LIFE`, `REG_FORCE`  
 `ATR_Will` -> `ATR_Madness`, `REG_SANITY`
 
-**Arts + correlated Status Attributes:**  
-`EXP_Weaponry` -> `ATR_STRENGTH` + `FGT_Delay` + `FGT_SpecialAt`  
-`EXP_Thievery` -> `ATR_DEXTERITY` + `STL_Risk` + `STL_Focus`  
-`ART_Arcane` -> `ATR_MANA` + `RESIST_MAGIC`, `REG_MANA`  
+
+**Arts + correlated Attributes:**  
+`ART_Weaponry` -> `ATR_STRENGTH` + `FGT_Delay` + `FGT_SpecialAt`  
+`ART_Thievery` -> `ATR_DEXTERITY` + `STL_Risk` + `STL_Focus`  
+`ART_Arcanery` -> `ATR_MANA` + `RESIST_MAGIC`, `REG_MANA`  
 `ART_Psionics` -> `ATR_PSI` + `RESIST_PSI`, `REG_PSI`  
 
 **Regeneration Categories:**  
-General: `REG_Life`, `REG_Strength`, `REG_Sanity`  
+General: `REG_Life`, `REG_Force`, `REG_Sanity`  
 Class specific: `REG_Special`, `REG_Focus`, `REG_Mana`, `REG_Psi`  
 
 **Experience Categories**:  
 primary: `EXP_Suffering`, `EXP_Resistance`, `EXP_Exhaustion`, `EXP_Madness`  
-secondary: `EXP_Combat`, `EXP_Stealth`, `EXP_Arcane`, `EXP_Psi`  
+secondary: `EXP_Combat`, `EXP_Stealth`, `EXP_Magic`, `EXP_Psi`  
 
-tertiary: `EXP_Alchemy`, `EXP_Huntsmanship`, `EXP_Marksmanship`, `EXP_Metallurgy`.  `EXP_Philology`
+tertiary: `EXP_Alchemy`, `EXP_Huntsmanship`, `EXP_Marksmanship`, `EXP_Metallurgy`. `EXP_Philology`
 
-**Damage Categories:**  
-DMG_*
 
-**Protection Categories:**  
-PROT_*  
+
+ 
 
 BREATH_..  
 STAMINA_...  
 
-**Resistances**  
-RES_WEAPONS  
-RES_POISON  
-RES_MADNESS  
-RES_MAGIC  
-RES_FIRE  
+
 
 
 
