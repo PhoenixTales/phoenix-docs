@@ -55,8 +55,7 @@ In order to do so we have to analyse the difference between those attributes whi
 
 #### Strength, Constitution, Hitpoints 
 
-Constitution is relevant to everyone and with no primary focus on any class.  
-Strength is primarily relevant and skilled by Warriors. Mages and Psionics may not skill it at all, but it is nonetheless a factor that matters to every character; it sets limits of how you can or can not interact with the world (as in form of carrying or pushing objects). And therefore everyone will have some degree of Strength.  
+Constitution is relevant to everyone and with no primary focus on any class. Strength is primarily relevant and skilled by Warriors. Mages and Psionics may not skill it at all, but it is nonetheless a factor that matters to every character; it sets limits of how you can or can not interact with the world (as in form of carrying or pushing objects). And therefore everyone will have some degree of Strength.  
 
 But strength is *not* needed anymore as a requirement to equip weapons, but it is needed to handle weapons effectively; both melee and ranged weapons. Handling a heavy sword while being too weak to handle it effectively results in fast or immediate exhaustion, and drawing a strong bow or crossbow may not be possible at all, as that requires quite a bit of strength too. Both are visualised by animations.
 
