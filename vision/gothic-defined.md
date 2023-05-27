@@ -204,7 +204,7 @@ Morrowind is an example of high fantasy - that is not to be seen as a critique -
 Low Fantasy reduces the amount of fantastical phenomena, so that those which remain feel more special and more believable at the same time. Another characteristic is that low fantasy does not establish out- or beyond-worldly entities (like gods) as blunt facts. It preserves at least the possibility of a (pseudo)-scientific or psychological explanation of the fantastical elements it presents, based on our own historical and physical understanding, to reinforce the notion that "it could have been" like that in an unknown past in an unknown kingdom.  
 
 
-# Gothic Horror & the target audience
+### Gothic Horror & the target audience
 
 ![Ron-Cobb_Demon_copyrighted.png](/Appendix/Inspirations/3rd-party_copyrighted/Ron-Cobb_Demon_copyrighted.png)
 

@@ -514,6 +514,7 @@ And that's it. This is our solution, making for a coherent system, that is both 
         <em>Creative Director</em><br>  
         <br>
         <strong>Written:</strong> 30.12.18 - 27.12.20<br>  
-        <strong>Rewritten:</strong> 03.11.22 - 04.12.22  
+        <strong>Rewritten:</strong> 03.11.22 - 04.12.22<br>  
+        <strong>Changed:</strong> 27.05.2023
     </p>
 </div>
