@@ -1,6 +1,6 @@
 # Press
 
-![PressHeading](/_img/headings/press.png)
+<!--![PressHeading](/_img/headings/press.png)-->
 
 ```
 Author: Flosha
