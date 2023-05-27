@@ -1,13 +1,40 @@
 <!doctype html>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link href="team.css" rel="stylesheet" />
-<link rel='shortcut icon' type='image/x-icon' href='/nyx.ico' />
-<title>The Devs | PHOENIX</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{site.title}} | {{page.title}}</title>
+<link rel="stylesheet" href="/styles.css">
+<link rel="icon" type="image/x-icon" href="/nyx.ico" />
 
-  <header>
-    <h1><img src="team/logo2-ore.png" alt="The Phoenix Tales Logo"></h1>
-  </header>
+<body>
+
+  <nav>
+    <section class="top">
+      <ul>
+        <li><a href="https://github.com/PhoenixTales" target="_blank">Git</a></li>
+        <li><a href="">Contrib</a></li>
+        <li><a href="https://phoenixthegame.com">Main</a></li>
+      </ul>
+    </section>
+
+    <section class="left">
+      <input type="checkbox" id="menu-toggle">
+      <label for="menu-toggle">
+        <span class="menu-icon">&#8801;</span>
+        <p class="menu-title">Phoenix Concept</p>
+      </label>
+
+      {% capture nav %}{% include nav.md %}{% endcapture %}
+      {{ nav | markdownify }}
+    </section>
+  </nav>
+
+  <section id="intro">
+
+    <img class="logo" src="/_img/phnx-logo.png">
+
+    <section class="article">
+
+    <img src="team/logo2-ore.png" alt="The Phoenix Tales Logo">
 
   <!--<nav>
     <ul class="languages">
@@ -15,8 +42,6 @@
       <li>[EN]</li>
     </ul>
   </nav>-->
-
-  <main>
   
     <h1>
 <pre>
@@ -48,7 +73,7 @@
 
     <p>We would like to mention that at Phoenix Tales we would all describe ourselves, at least to some degree, as free software enthusiasts. We prefer to be on Linux, we hold the unix philosophy in high esteem and we love simplicity or "brutal minimalism", as Avallach likes to call it. With the design of our team website (<a href="https://phoenixtales.de" target="_blank">phoenixtales.de</a>), I have tried to convey and to embody this attitude and style:
       
-    <a href="https://phoenixtales.de"><img class="full-img" src="PhoenixTales/teampage.jpg" alt="phoenixtales.de"></a>
+    <a href="https://phoenixtales.de"><img class="full-img" src="team/teampage.jpg" alt="phoenixtales.de"></a>
       
     Our core team currently consists of four people:<br> 
     Arbax, Avallach, Auronen and me (flosha/Florian).</p>
@@ -459,4 +484,9 @@
       <li>Discord: <span class="clink"><a href="https://discord.gg/CK4VAR7fpH">discord.gg/CK4VAR7fpH</a></span></li>
     </ul>
 
-  </main>
+    </section>
+  </section>
+
+{% include footer.html %}
+
+</body>
