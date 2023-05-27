@@ -118,8 +118,8 @@
 	2. [Press](/promo/press)
 	3. Devblog
 		* [Making of PhoenixTales](/Appendix/behind-the-scenes/logo)
-		* [The Team behind Phoenix](/Appendix/behind-the-scenes/team)
-		* [Creating the ASCII Art](/Appendix/behind-the-scenes/ascii)
+		* The Team behind Phoenix
+		* Creating the ASCII Art
 	4. Essays
 		1. Phoenix & the Rescue of Design
 		2. Behind the Eyes of Elliot
