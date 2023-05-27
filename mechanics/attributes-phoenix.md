@@ -4,53 +4,40 @@
 **Author:** Flosha  
 **Status:** <span class="changed">Work in progress</span>  
 
-**Content:**  
-1. [Primary & Secondary Attributes](#primary--secondary-attributes)
-2. [Attribute levels in text form](#attribute-levels-in-text-form)
-3. [Attribute Progression](#attribute-progression)
-4. [Default Attribute Values for NPCs](#default-attribute-values-for-npcs)
-5. [Attributes & Classes](#attributes--classes)
-6. [Cut Attributes](#cut-attributes)
-7. [Function of Attributes](#function-of-attributes)
-    1. [Mana, Will & Madness](#mana-will--madness)
-8. [Visualisation of Attributes](#visualisation-of-attributes)
-    1. [Visualisation vs. Representation](#visualisation-vs-representation)
-        1. [Simplifying the HUD](#simplifying-the-hud)
-        2. [Overcoming the HUD](#overcoming-the-hud)
+Based on our research of the [Alpha Attributes](/mechanics/attributes-alpha), in this second part, we will present our own solution for Phoenix, how we reconstruct the old attributes and how we develop the relevant concepts further.  
 
 
-1. [Reconstructing the first order Attributes](#reconstructing-the-first-order-attributes)
-    1. [Strength, Constitution, Hitpoints & Damage](#strength-constitution-hitpoints--damage)
-    2. [Dexterity, Speed & Hitchance](#dexterity-speed--hitchance)
-    3. [Will, Psi & Madness](#will-psi--madness)
-    4. [The Arts](#the-arts)
+## Content  
+
+1. [Reconstructing the Attributes](#reconstructing-the-attributes)
+    1. [Primary & Secondary Attributes](#primary--secondary-attributes)
+      1. [Strength, Constitution, Hitpoints & Damage](#strength-constitution-hitpoints--damage)
+      2. [Dexterity, Speed & Hitchance](#dexterity-speed--hitchance)
+      3. [Will, Psi & Madness](#will-psi--madness)
+    2. [The Arts](#the-arts)
         1. [Psionics](#psionics)
         2. [Arcanery](#arcanery)
         3. [Weaponry](#weaponry)
         4. [Thievery](#thievery)
-    5. [Arts <> Attributes Correlation](#arts--attributes-correlation)
-        1. [Attribute Scaling(#attribute-scaling)
-2. [Completing the clear texts](#completing-the-clear-texts)
-
-3. [Phoenix' Default Values](#phoenix-default-values)
-4. [Phoenix HUDs](#phoenix-huds)
+    3. [Arts <> Attributes Correlation](#arts--attributes-correlation)
+        1. [Attribute Scaling](#attribute-scaling)
+2. [Attribute Progression](#attribute-progression)
+    1. [Phoenix' Default Values](#phoenix-default-values)
+3. [Phoenix HUDs](#phoenix-huds)
     1. [Enhanced Symbol HUD](#enhanced-symbol-hud)
     2. [Enhanced Bar HUD](#enhanced-bar-hud)
-5. [Beyond the HUD](#beyond-the-hud)
+4. [Beyond the HUD](#beyond-the-hud)
     1. [Possession](#possession)    
-6. [Summary](#summary)
+5. [Summary](#summary)
 
 
-In the second part, building on this research, we present our own solution for Phoenix. 
-
-
-## Reconstructing the first order Attributes
+## Reconstructing the Attributes
 
 In the past when we only had access to the list of alpha attributes (from the `worldfile.txt`) without any context and without any of the related documents or alpha demos and builds that we analysed above, we could only guess their meaning.  
 
 We didn't know about Mikes early idea of a "black soul" bar, we didn't know for sure about a relation between Madness and Will, about Mikes handwritten attribute lists and of the correlation of different attributes. All these insights were only made possible by our [rescue of the design concepts](https://phoenixthegame.com/specials/20thAnniversary/) that we digitised and published in the Archive. And yet we had come to very similar conclusions on our own.  
 
-At first and influenced by the release system I imagined that there was some difference between attributes such as Strength, Dexterity, Hitpoints, Mana, Willpower (as the Mana equivalent for Psionics; that much we knew from the interviews), to things like Arcane, Swordsmanship and Thievery. Following the original german terms (*Waffenkunst*, *Diebeskunst*) I conceived them as "Künste" (Arts) mostly relevant for the specific skills of the four classes, in opposition to the main attributes relevant for all. With the little problem that there was no fourth "art" that we would have been able to assign to the psionic player. Will, while surely being of special importance to the psionic, we imagined to be also of general importance to all (since we imagined it to be of importance as a resistence against psionic powers and the psi emissions with the madness waves) and we didn't know about the correlation and the confusing difference (primary and status attribute) between Will and "Willpower".
+At first and influenced by the release system I imagined that there was some difference between attributes such as Strength, Dexterity, Hitpoints, Mana, Willpower (as the Mana equivalent for Psionics; that much we knew from the interviews), to things like Arcane, Swordsmanship and Thievery. Following the original german terms (*Waffenkunst*, *Diebeskunst*) I conceived them as "Künste" (Arts) mostly relevant for the specific skills of the four classes, in opposition to the main attributes relevant for all. With the little problem that there was no fourth "art" that we would have been able to assign to the psionic player. Will, while surely being of special importance to the psionic, we imagined to be of general importance to all (since we imagined it to be of importance as a resistence against psionic powers and the psi emissions with the madness waves) and we didn't know about the correlation and the confusing difference (primary and status attribute) between Will and "Willpower".
 
 Thus, the arts were defined by me as pre-requisites for class-specific skills ("talents") to learn and I came up with the idea of the Arts as a specific form of experience that would reward the player for using the skills of his chosen class, all in order to reinforce the story-driven gameplay and at the same time to replace the general experience points, which, as various early statements suggest (see [Experience](/mechanics/experience)) we deemed to not have been part of the initial vision of the game. It gave sense to the "arts" and was a neat little system to overcome any form of grinding.  
 
@@ -58,60 +45,65 @@ Another idea of mine that is not grounded in any research was to combine Strengt
 
 But since all the attributes were just mixed up in the scripts the main aspect that we only became aware of through the acquisition and research of the design documents was the difference of first and second order attributes and their correlation that we now had to consider and to explain.  
 
----
+
+### Primary & Secondary Attributes
 
 In their striving to finish the game it might have been reasonable to remove the "first order" attributes, but based on how they were the initial idea, since they were part of the concept for so long and due to their strong correlation with the classes - which to fully realise is one of our primary goals - and how their remnants inspired our imagination for years, we will have to reconstruct the "first order" attributes. We will find good reasons for them to persist and we will equip them with meaning in context of the setting as well as for gameplay.
 
 In order to do so we have to analyse the difference between those attributes which are relevant for all classes and those which are optional or even mutually exclusive.  
 
 
-### Strength, Constitution, Hitpoints & Damage 
+#### Strength, Constitution, Hitpoints & Damage 
 
 Constitution is relevant to everyone and with no primary focus on any class.  
 Strength is primarily relevant and skilled by Warriors. Mages and Psionics may not skill it at all, but it is nonetheless a factor that matters to every character; it sets limits of how you can or can not interact with the world (as in form of carrying or pushing objects). And therefore everyone will have some degree of Strength.  
 
-Strength and constitution have to be closely interlinked. Strength will scale the `DP` (damage points), constitution will scale the `HP` (hit points). In this sense they represent the damage that the character can inflict and the damage he can endure.   
+But strength is *not* needed anymore as a requirement to equip weapons, but it is needed to handle weapons effectively; both melee and ranged weapons. Handling a heavy sword while being too weak to handle it effectively results in fast or immediate exhaustion, and drawing a strong bow or crossbow may not be possible at all, as that requires quite a bit of strength too. Both are visualised by animations.
 
-Now, Mana and Willpower according to Alex' description define both magic and psi damage as well as the resistance against magic and psi. Why shouldn't this be the case for strength too?  
-So in our system, while both strength and constitution exist internally and will also be referred to by NPCs, one who can deal more damage can automatically endure more damage and vice versa. It is your overall physical "Kraft" (strength) that controls both. Thus:  
+Strength and constitution have to be closely interlinked. Strength will scale the `DP` (damage points) to some degree (100% in fist fighting, 50% in melee combat, 0% in ranged combat - here it is the weapon alone that defines the damage), as originally planned, but constitution will not scale the `HP` (hit points). `HP` and `DP` represent the damage that the character can inflict and the damage he can endure. Mana and Willpower according to Alex' description define both magic and psi damage *as well* as the resistance against magic and psi. Why shouldn't this be the case for strength too?  
 
-* `ATR_Strength` -> `HP`+`DP` 
-* `Constitution` -> `REG_HITPOINTS` + `REG_ENDURANCE`
+Damage (as scaled by Strength in the sense of force output) will diminish by a factor of 0.5 with decreasing hitpoints, but the strength value itself will not diminish (with a few balancing and story related exceptions).
+
+So in our system, while both strength and constitution exist internally and will be referred to by NPCs, one who can deal more damage can automatically endure more damage and vice versa. Your overall physical "Kraft" (strength) defines both. Thus it is the Strength that scales both hit points and damage points, while Constitution is correlated with *regeneration* - of energy (hit points) as well as of (strength-)endurance. Endurance is the ability of the organism to withstand exhaustion and the ability to regenerate from stress. Thus the endurance value defines how long a character can sprint and how fast he reaches full exhaustion. Less `HP` result in faster exhaustion. 
 
 In our system, someone who has more strength can also endure much more hits. But at the same time the regeneration takes longer and requires more energy, while for someone with low strength but high constitution, the regeneration is faster and requires less energy. In the same way someone with less strength (and therewith less body mass) can sprint longer and higher constitution results in faster regeneration of the sprinting meter (displayed like the oxygen bar).  
 
-Strength is needed to handle weapons effectively, both melee and ranged weapons. There will be no requirement for equipping any weapon, but handling a heavy sword may result in fast or immediate exhaustion, and drawing a strong bow or crossbow may not be possible at all, as that requires quite a bit of strength too. Both are visualised by animations.
+Additionally, endurance will influence fatigue. The character fatigues if he doesn't sleep for long. The fatigue of the character will have the result that he does not regenerate energy (hit points) automatically anymore. The automatic regeneration works as long as there is fuel in form of food being eaten regularly and as long as there is not too much fatigue accumulated. This way we do not force anyone to eat, drink or sleep as some survival games do, but we *reward* him if he does. One can as well play without the automatic regeneration, can heal himself by different means. Just in order to have the full advantage of regeneration one has to eat some food and sleep. 
 
-Damage (as scaled by Strength) will diminish by a factor of 0.5 with decreasing hitpoints, but the strength value itself will not diminish (with a few balancing and story related exceptions).
+Endurance is insofar connected with it that a high endurance expenditure between two sleep cycles has an increasing effect on the accumulation of fatigue. In effect this means: You have to sleep more in order to maintain your regeneration if you sprint/fight more. 
 
-TODO!! Add stuff from google docs!
+And there is another particularity: When the endurance is exhausted the player will be able to continue sprinting. But at that point he slowly starts to loose his energy (hitpoints). In this way one can sprint until collapsing. In some cases this might be important, for instance if one has to flee from a monster. Obviously the exhaustion after sprinting *past* the normal endurance has to be displayed by an extra animation. Also important: Endurance is the only attribute that is improved in a pure *learning-by-doing* way.
+
+The `HP` regeneration will be so slow (slower than the mana regeneration and *way* slower than the endurance regeneration), that it will not be too useful in battle (if not suspended completely). Herbs and potions that greatly speed up regeneration will therefore remain meaningful. By this and other changes we take care that all the items in the game have some relevance for the player. 
+
+If both the endurance and the hitpoints are exhausted to some degree, the hitpoints will always regenerate first and the endurance second. The endurance bar is like a buffer that one has before what is done will wear one's energy out ("an seinen Kräften zehren"). Healing is never immediate. It happens always through regeneration; where the automatic regeneration is slowest and the regeneration by magic and HP potions is fastest. 
+
+* `ATR_Strength` -> `ATR_Hitpoints` + `DMG` 
+* `ATR_Constitution` -> `ATR_Endurance`, `REG_HITPOINTS` + `REG_ENDURANCE`
 
 
+#### Dexterity 
 
-### Dexterity & Hitchance 
+Dexterity, in opposition to strength, is not a primary attribute (as seen by its absence in the attribute levels in clear text form). It is a secondary attribute that is scaled by thievery and serves the purpose of being displayed as DEX symbols in the Icon HUD. Other than that it influences the "hit chance" in ranged combat and the "risk of failure" in stealth. 
 
-Dexterity is also relevant for warriors, but especially for thieves. Dexterity influences the hitchance in combat with both melee and ranged weapons and it influences the chance of success or failure in thief skills such as pickpocketing and lockpicking. 
-
-The combat specific skills (such as One-Handed Combat Level 1-3) do not influence hitchance, but they affect agility, speed (in form of faster animations) and reaction (by influencing the input-delay).
+* `ATR_Dexterity`
 
 
-### Will, Psi & Madness 
+#### Will, Psi & Madness 
 
 How about Will? In the way that Will was planned and used in the Alpha, it was solely associated with psi magic and protection against the same. *Only* psionics had any amount of Will, everyone else had none at all and they would only be protected against psionic magic via psi-protective armor pieces, amulets and so forth.  
 
-We think that this is not convincing and more importantly, that it greatly misses all the other ways in which we can utilise Will in the game world. Before we knew anything on how the attribute was supposed to function in the Alpha, Arbax imagined that the willpower of npcs and the player character would also be important in dialogues; the psionic would not just use spells, he also could use speech to intimidate others, he could force his Will on others by words and depending on their own Will they would be able to resist or give in to such attempts.  
+We think that this is not convincing and more importantly, that it greatly misses all the other ways in which we can utilise Will in the game world. Before we knew anything on how the attribute was supposed to function in the Alpha, Arbax imagined that the willpower of NPCs and the player character would also be important in dialogues; the psionic would not just use spells, he also could use speech to intimidate others, he could force his Will on others by words and depending on their own Will they would be able to resist or give in to such attempts.  
 
-And the same for such things as control. When the psionic attempts to control an NPC success should depend on his Will being stronger than the Will of his opponent. With this notion how would it make any sense that a digger can be intimidated or controlled as much as a baron?  
+And the same for such things as control. When the psionic attempts to control an NPC success should depend on his Will being stronger than the Will of his opponent. And this is as it was actually planned in the earliest docs by Mike. In various notes on spells he wrote how the success of a spell depends on the enemies Willpower.  
 
-And this is also not as it was actually planned in the earliest docs by Mike. In various notes on spells he wrote how the success of a spell depends on the enemies Willpower.  
-
-The values as they were distributed in 0.94k seem not to be consistent with this idea. Instead, every NPC has to have some amount of will and NPCs of higher levels should automatically have higher Will. But how can that be the same as the "willpower" in the sense of the psi energy, of which Y'Berion has to have most among the humans and the Sleeper himself must have an abundance of?  
+The values as they were distributed in 0.94k seem not to be consistent with this idea. In Phoenix every NPC will have some amount of will and NPCs of higher levels should automatically have higher Will. But how can that be the same as the "willpower" in the sense of the psi energy, of which Y'Berion has to have most among the humans and the Sleeper himself must have an abundance of?  
 
 Here we come to the meaning and importance of the Will and Psi-Energy correlation. Only psionics should have Psi-Energy; that is what they themselves refer to as "Willpower", but that is in reality a kind of demonic force. This Willpower is what is left in 0.94k (which, as we should remember, only contains the "secondary" attributes) and in this sense it makes sense how non-psionics have no amount of Willpower (= Psi). Every NPC should have some amount of *Will*, but it should not be confused with the *Willpower* of the psionics. And since these two terms continue to cause confusion, we will refer to Willpower as *Psi-Energy* from now on.  
 
 The correlation of Will and Psi-Energy is that while someone with a strong Will may not have any Psi-Energy, someone with Psi-Energy (or psi-power-potential) will automatically have more of it when he has a strong will; his Will determines his maximum *potential* Psi-Energy.  
 
-Example: Gomez will have 10 Will (highest) but 0 Psi.  
+Example: Gomez will have 10 Will but 0 Psi.  
 Y'Berion will have 10 Will but 30 Psi.  
 
 Will is a primary attribute of which 10 levels exist for everyone. Psi is a correlated and class specific attribute that has to be acquired in course of the story by joining the sect.
@@ -147,16 +139,15 @@ One is the Psi-Energy handled by a psionic and represents the maximum amount of 
 
 The Psi-Energy of the psionics can be fend of by enough Will. The localised psi-rays can be avoided by keeping distance from psi knots or external protection. But the psi emissions and general radioactivity past a certain point can only be endured by drugs or strong external protection.
 
-The condition that most NPCs won't have any access to such drugs anymore nor any kind of psi protection - while the psi forces in the environment keep being increased - will be the primary reason for the *Nemesis*; more on that in the Alpha Story documentation. But without a dedicated madness value independent from the psionic-exclusive Willpower, nothing about that could be displayed in the game as originally intended.  
+The condition that most NPCs won't have any access to such drugs anymore nor any kind of psi protection - while the psi forces in the environment keep being increased - will be the primary reason for the *Nemesis* - another example for how consequent we interlock the game mechanics with the story; more on that in the Alpha Story documentation. But without a dedicated madness value independent from the psionic-exclusive Willpower, nothing about that could be displayed in the game as originally intended.  
 
 Based on these ideas, it is simply not sufficient to have Will as described before and the psi points as exclusive energy of psionics like mana points as exclusive energy of mages. Madness cannot be the lack of the primary Will attribute, since that is an absolute value, nor can it be just the lack of Psi-Energy; if 0% Psi would equal 100% Madness everyone but the psionics would be mad and a psionic player could never fully exhaust his available Psi-Energy. Thus, the Psi-Energy or Willpower that is psionic-exclusive can not equal the Sanity or Madness meter that should be relevant to all NPCs.  
 
-We assume that this complex relation and interconnection, while it may vaguely have been at the back of ones head, was never properly documented, it was confusing and thus was confused in the actual implementation in the engine and the alpha builds.  
-We attempt to dissolve this confusion.  
+We assume that this complex relation and interconnection, while it may vaguely have been at the back of ones head, was never properly documented, it was confusing and thus was confused in the actual implementation in the engine and the alpha builds. We attempt to dissolve this confusion.  
 
 In consequence there arises the need to add Madness *additionally* and *independently from Psi*, where another of my old concepts comes into play that I developed in the end of 2018:
 
-Madness is negative Willpower.  
+Madness as negative Willpower.  
 
 That said: The Will of an NPC protects from Psi attacks and thus from Madness -> since attacking someone in the psionic way basically means to drive him mad. But at the same time, dealing with Psi-Energy in such a way is dangerous. As Tom Putzki told us, quoting one of his favourite lyrics from Rammstein: *"Der Wahnsinn ist nur eine schmale Brücke"* (Madness is just a small bridge). But more correctly I would say: Sanity is a small bridge, Madness lies beneath and the psionic is always on the edge...  
 
@@ -174,11 +165,22 @@ Thus, in this context we need the following attributes:
 * `ATR_PSI_MAX`
 
 
+
 ### The Arts 
 
-After clarifying the general attributes, the "Arts" remain. The purpose of the arts as defined by me is to serve as concepts that can be verbalised and described inside of the game world by NPCs (as well as books and so on) to seperate them from the abstract status attributes, which only play a role for the HUD and for the internal calculation of specific forms of damage, resistance and so forth. Additionally, their function is to serve as class-specific forms of experience to reinforce what we coined as "learning by acting". The player is being rewarded by playing in accordance of his chosen class, by consequently acting out his role in the game. More about this concept in our document about Experience. But in short: Experience is specific and thus having experience in one specific art does not serve as a requirement to learn unrelated skills, while there is still some amount of carry-over, e.g. the experience in weaponry gained by One-Handed Combat carries over to the ability to learn combat in other weapon categories.  
+It may be that the "arts" were removed because they wanted to simplify a system that had become too complicated. They may have become redundant because of how they developed the skill system. If we include them, we will not include them as attributes but as a category on their own. In the same way as `PROT` was introduced as a dedicated constant of protection values, we will introduce `ART` as a dedicated constant of the arts. But we do that *only* if thereby we make the system not more complicated, but more interesting and reasonable. Otherwise they're only useful as categories of skills, as headings in the character sheet.  
 
-The warrior strives to master combat and weaponry. The thief strives to become a master thief, to master thievery. The mage strives to dive into the arcane knowledge and to reach the highest initiations. And we will add an additional art: The psionic strives to awaken himself and thereby the sleeper and to awaken the sleeper and thereby himself; one through the other.  
+One purpose of the arts in our system is to serve as concepts that can be verbalised and described inside of the game world by NPCs (as well as books and so on) to seperate them from the abstract status attributes, which only play a role for the HUD and for the internal calculation of specific forms of damage, resistance and so forth. 
+
+Our solution is to include the arts as a requirement for the learning of skills, in the sense of the acquired knowledge or artistry or "specific experience" in an art that a teacher requires the character to have in order to teach him. So, for instance, Corristo will not ask for your level, your "LPs" or "EXPs" (both of which do not exist anymore), but he will ask for your knowledge of the arcane, for your specific, art-related experience. 
+
+The arts serve as over-arching categories of skills and represent no general but a specific experience of the art in question, as the requirement for learning higher levels of skills.  
+
+Additionally, their function is to serve as class-specific forms of experience to reinforce what we coined as "learning by acting". The player is being rewarded by playing in accordance of his chosen class, by consequently acting out his role in the game. More about this concept in our document about Experience. But in short: Experience is specific and thus having experience in one specific art does not serve as a requirement to learn unrelated skills, while there is still some amount of carry-over, e.g. the experience in weaponry gained by One-Handed Combat carries over to the ability to learn combat in other weapon categories.  
+
+The warrior strives to master combat and weaponry. The thief strives to become a master thief, to master thievery. The mage strives to dive into the arcane knowledge and to reach the highest initiations. And we will add an additional art: "psionics", as will be explained below.  
+
+"Hitchance" in combat and "risk" in stealth (of being caught, of breaking a lockpick etc.) are influenced by Weaponry and Thievery respectively. Combat specific skills (such as One-Handed Combat Level 1-3) do not influence the purely internal hitchance, but they affect agility, speed (in form of faster animations) and reaction (by influencing the input-delay).
 
 ```
      +------------------------+
@@ -191,10 +193,10 @@ The warrior strives to master combat and weaponry. The thief strives to become a
 +-----------------------------+
 ```
 
-Weaponry signifies the skill of a Warrior.  
-Thievery signifies the skill of a Thief.  
-Arcanery signifies the skill of a Mage.  
-Psionics signifies the skill of a Psionic. 
+Weaponry signifies the experience in Combat.  
+Thievery signifies the experience in Stealth.  
+Arcanery signifies the experience with Magic.  
+Psionics signifies the experience with Psi Magic. 
 
 ---
 
@@ -210,7 +212,7 @@ In the same way as the arcane art opens the mind and prepares the body of the ma
 
 Just as the mage can lead the way to the magical ore (that he needs for his potions which again he needs to boost Mana) due to his ability to alchemically sense physical substances that are magically charged, having a whole set of additional perceptions unknown to those without the *Arcane Gift* (more about these concepts of ours in the documentation of the Magic Mode and Magic in the lore section), in the same way there are additional perceptions to the highly skilled psionic, opening up a world beyond the physical and allowing him a glimpse into the mystical, psychical (or demonic) reality like an overlay over the world perceived by others, by which, for instance, he can see the psi-knots that he needs to boost his maximal Psi-Energy and other phenomena.  
 
-The psionic brotherhood (which was highly inspired by Buddhism in fact), uses the sign of the open / opening eye. And obviously the open eye signifies awakening. That is exactly what the psionic art has to be about, what they all are working on: to awaken.  
+The psionic brotherhood (which was highly inspired by Buddhism in fact), uses the sign of the open / opening eye. And obviously the open eye signifies awakening. That is exactly what the psionic art has to be about, what they all are working on: to awaken. The psionic strives to awaken himself and thereby the sleeper and to awaken the sleeper and thereby himself; one through the other. 
 
 
 #### Arcanery
@@ -238,7 +240,7 @@ Weaponry <> Strength
 Arcanery <> Mana  
 Psionics <> Psi. 
 
-Every art comes with ten levels. There are 10 possible levels of class-specific experience. And every art scales an associated status attribute. 
+Every art scales an associated status attribute. 
 
 
 #### Attribute Scaling
@@ -250,10 +252,9 @@ Additionally there are a few cases of mutual influence between attributes. (Phys
 In this way we simulate how a warrior gains mental strength too in course of his physical training and how high Willpower can have an effect on physical strength. At the same time it solves a balancing problem, in that it enables warriors to focus on strength development while still increasing their resistance against psionic attacks, and templars to increase their Willpower without missing out on too much gains in strength. 
 
 
-### Completing the clear texts
+### Attribute Progression
 
-Based on the incomplete and work in progress texts from v0.56c, we have to come up with a complete structure for the ten levels of attributes analysed before (and those added by us). The list is <span class="added">work in progress</span>.  
-
+Every art comes with ten levels. There are 10 possible levels of primary attributes and class-specific experience. Based on the incomplete and work in progress texts from v0.56c, we come up with a complete structure for the ten levels of attributes analysed before (and those added by us). The list is <span class="added">work in progress</span>. All the names written in white are original, those marked in green were changed, the ones in red did not exist and were added.  
 
 <pre>
 |    | Kraft          | Konstitution     | Wille          | Waffenkunst   | Diebeskunst    | Arkane Gabe | <span class="added">Psionik</span>      |
@@ -270,8 +271,10 @@ Based on the incomplete and work in progress texts from v0.56c, we have to come 
 | 10 | <span class="added">Secret</span>         | <span class="added">Secret</span>           | <span class="added">frei</span>           | <span class="added">Schwertsänger</span> | ...            | <span class="added">Secret</span>      | erwacht      |
 </pre>
 
+That said, based on the principle of "immersion by visualisation" a character with 1 or 2 strength should be so weak and exhausted that this weakness can clearly be *seen* in his animations. And based on the principle of "immersion by verbalisation" we will ideally have no need for a "print", when the experience of the player is not sufficient (while of course it remains possible to do that, optionally, if the purely descriptive system is not seen as expressive enough). When, for instance, the player wants to learn a thief skill from Fingers, but has not gained enough experience in Thievery yet, Fingers will refer to the player's experience directly in the dialogue (by the descriptions the player knows from the character sheet). When he is internally on level 5, which in the character sheet is described as *dextrous* ("geschickt"), he lacks one level before being *nimble-fingered* ("fingerfertig"). In this case Fingers would tell him something like: "You are *dextrous* indeed, but not yet *nimble-fingered* enough..." In this way there will be no need for printing any numbers on the screen. This is reasonable in regard to immersion, because the character you play does not know anything about some numbers representing his "values"; what he knows is how he feels. The terms above are a reflection of this condition.  
 
-### Phoenix' Default Values
+
+#### Phoenix' Default Values
 
 The Status Attributes in Phoenix with our before mentioned necessary additions will consist of the following values. 
 
@@ -340,7 +343,7 @@ Exception Templars:
 
 ### Phoenix HUDs
 
-The HUD will be optional and it will be possible to play without (see ["Beyond the HUD](#attribute-visualisation-or-beyond-the-hud])). We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols by default in the exploration mode when not wounded.  
+The HUD will be optional and it will be possible to play without (see ["Beyond the HUD](#attribute-visualisation-or-beyond-the-hud)). We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols by default in the exploration mode when not wounded.  
 
 The following attributes or other values will be displayed on the screen:
 * Hitpoints (when injured, in Combat Mode or in the inventory)
@@ -404,7 +407,7 @@ Just as there is an overlay when the character is injured - has less than X HP -
 
 <p class="subtext">Related fun fact: Mike wrote in his notes that psionics should only be able to cast psi spells as long as they don't wear a helmet.</p>
 
-While the animation overlay of the psionic visualises how his magic is mainly associated with his mental power by laying the focus on his head, the magic of the Arcane Mages is different, alchemical and associated with the Mana in his bloodstream (more on that in the "Alchemical Magic" document. Hence when he is close to the edge of Madness his overlay has to show how the lack of Mana (that serves as a physical protection from the demonic forces just as the Psi serves as a psychical protection) is affecting his whole body similar to an addict on withdrawal. He will be shown bent over, scratching his arm or looking at his hand. 
+While the animation overlay of the psionic visualises how his magic is mainly associated with his mental power by laying the focus on his head, the magic of the Arcane Mages is different, alchemical and associated with the Mana in his bloodstream (more on that in the "Alchemical Magic" document). Hence when he is close to the edge of Madness his overlay has to show how the lack of Mana (that serves as a physical protection from the demonic forces just as the Psi serves as a psychical protection) is affecting his whole body similar to an addict on withdrawal. He will be shown bent over, scratching his arm or looking at his hand. 
 
 
 #### Possession
@@ -421,8 +424,13 @@ In the process of structuring these mixed attributes and my attempts to organise
 
 > An **attribute** is a piece of data (a statistic) that describes to what extent a fictional character in a role-playing game possesses a specific natural, in-born characteristic common to all characters in the game.  
 
-Based on this definition the arts are impossible to consider as attributes, since they are no characteristics common to all characters nor are they natural or inborn. The ones that would fit that description are the following ones, which I structure in a simple scheme:  
+According to this definition the arts cannot be considered as attributes, since they are no characteristics common to all characters nor are they natural or inborn. The ones that would fit that description are only the following ones, which I structure in a simple scheme:  
 
+* `ATR_Strength` (+ `ATR_Hitpoints`) = Physical Power
+* `ATR_Constitution` (+ `ATR_Endurance` = Physical Condition)
+* `ATR_Will` (+ `ATR_Madness` = Mental Power & Condition)
+
+<!--
 ```
 `ATR_CONSTITUTION` = Physical Condition
 `ATR_STRENGTH`     = Physical Strength
@@ -432,8 +440,9 @@ Based on this definition the arts are impossible to consider as attributes, sinc
 `ATR_WILL`         = Mental Strength
 `ATR_PSI`          = Mental Control
 ```
+-->
 
-Psi fits into the scheme as mental control; but as almost no one has control over his mind it is not actually to be seen as a general attribute (but as a potential one); everyone has some degree of dexterity, but regarding the mind, most characters in the game (like in reality) are not in control and experience their mind primarily as a sheer force of wanting or mentally resisting, they can't stop the stream of thought.  
+<!--Psi fits into the scheme as mental control; but as almost no one has control over his mind it is not actually to be seen as a general attribute (but as a potential one); everyone has some degree of control over his body, but regarding the mind, most characters in the game (like in reality) are not in control and experience their mind primarily as a sheer force of wanting or mentally resisting, they can't stop the stream of thought (and this will play a role again in the second act of Phoenix, when the sect is destroyed, but the "psionic" art lives on).-->    
 
 Thus, the rest is either a mere representation of these for the player in form of the HUD or it has to belong to the specific experience in the Arts or "Gifts". And while the four arts described above are class-specific, we have added additional class-crossing ones, where Logx is to credit for the idea of *Metallurgy* and *Huntsmanship* here:  
 
@@ -442,123 +451,59 @@ Class specific:       Class crossing:
 
 `EXP_WEAPONRY`        `EXP_ALCHEMY`
 `EXP_THIEVERY`        `EXP_METALLURGY`
-`EXP_ARCANERY`        `EXP_ARCHERY`
-`EXP_PSIONICS`        `EXP_HUNTSMANSHIP` 
+`EXP_ARCANERY`        `EXP_MARKSMANSHIP`
+`EXP_PSIONICS`        `EXP_HUNTSMANSHIP`
+                      `EXP_PHILOLOGY`
+                      `EXP_ARMORY`
 ```
 
 *Alchemy* is class-crossing in that it is dealt with by both Mages and Psionics; in the same way as *Archery* or *Marksmanship* and *Huntsmanship* (part of which is all kinds of knowledge about monsters) are relevant for both warriors and thieves. *Metallurgy* does not only matter for forging swords, but begins with common knowledge about ore and ends in refined arts such as runemaking (which is *arcane*). This way, some arts and the experience gained in them has synergistic effects on others.
 
 ---
 
-Based on the reasoning above, the following is our solution, making for a coherent system, that is both simple and complex.  
+Therefore, there are 7 values (3 primary attributes - where Will and Madness are counted as one, since Madness does only appear in absence or loss of Will - and 4 main Arts or forms of experience) that are displayed in the character sheet by descriptive text; they are referred to inside the game by clear texts or speech and connect the game's mechanics with its lore. Among the arts only those are displayed in the character sheet that the character in question has actual experience in:  
 
-There are 7 primary attributes and 9 arts that are referred to inside the game by clear texts or spreech and connect the game's mechanics with its lore:  
+* `ATR_Constitution` (scaled by Level)
+* `ATR_Strength` (scaled by Weaponry)
+* `ATR_Will` / `ATR_Madness`   
 
-7 Primary Attributes:   
-* `ATR_Constitution`
-* `ATR_Strength`
-* `ATR_Dexterity`
-* `ATR_Will`
-* `ATR_Madness`
-* `ATR_Mana`
-* `ATR_Psi`
+* `EXP_*`  
 
-4 Class-Specific Arts:  
-* `ART_Weaponry`
-* `ART_Thievery`
-* `ART_Arcanery`
-* `ART_Psionics`
-5 Class-Crossing Arts:  
-* `ART_Alchemy`
-* `ART_Archery`
-* `ART_Marksmanship`
-* `ART_Huntsmanship`
-* `ART_Philology`
+The following attributes are secondary or "status attributes". The first three are not mentioned or referred to in the game, they serve primatily internal purposes in the game logic, they are only represented in the HUD and are scaled by primary attributes or arts. Mana and Psi are referred to inside of the game as "magic energy" or "psi energy" respectively:  
 
-* `ATR_Hitpoints`
-* `ATR_Force`
-* `ATR_Endurance`
-* 
-
-The following Attributes and other values are scaled by one of the seven attributes; they are not referred to inside the game, they serve internal purposes in the game logic and are only represented in the HUD or not at all:  
-
-* `HP` and `DP` (Hitpoints and Damage Points are scaled by Strength)
-* `REG_HP` and `REG_EP` (Regeneration of Hitpoints and Endurance are scaled by Constitution)
-* `Hitchance` and `StealthRisk` are scaled by Dexterity
-* `RESIST_Madness` is scaled by Will
-
-
-The following Attributes and values are scaled by Arts:  
-* `ATR_Force` (scaled by Weaponry)
-* 
+* `ATR_Hitpoints` (scaled by Strength)
+* `ATR_Endurance` (scaled by Constitution)
+* `ATR_Dexterity` (scaled by Thievery)
 * `ATR_Mana` (scaled by Arcanery)
-* `ATR_Psi` (scaled by Psionics)  
+* `ATR_Psi` (scaled by Psionics)
 
-* `ATR_Will` (scaled by Strength)  
-* `ATR_Strength` (scaled by Will)
+There are indicators/counters of the character's health regarding nutrition, fatigue, intoxication and magical radiation exposure, that are displayed in the character screen and affect the HUD (they change the coloration of the health bar inside the Bar HUD and add additional symbols in the Symbol HUD): 
 
-The following attributes and related constants are not referred to in the game world and are solely displayed in the form of the HUD or serve pure internal functions: 
+* `ATR_Nutrition`  
+* `ATR_Fatigue`  
+* `ATR_Intoxication`  
+* `ATR_Radiation`  
 
-`REG_*`  
-`DMG_*`  
-`PROT_*`  
-`RES_*`
+The following attributes and related constants are not referred to in the game world and are solely displayed in the form of the HUD or serve pure internal functions. Apart from `EXP` there is another new constant added for regeneration (`REG`):
 
-There are the following regeneration categories: 
+* `REG_*` (Regeneration)
+* `DMG_*` (Damage) 
+* `PROT_*` (Protection)
+* `RES_*` (Resistance)
 
-General:  
-`REG_Life` (HP Reg.)  
-`REG_Force` (DMG Reg.)  
-`REG_Sanity` (MAD Red.)
-`REG_Endurance` (EP Reg.)
-Class specific:  
-`REG_Special` (Warrior)  
-`REG_Focus` (Thief)  
-`REG_Mana` (Mage)  
-`REG_Psi` (Psionic)   
+There are the following categories of regeneration:
 
+* `REG_Life` (Hitpoints Recharge)
+* `REG_Energy` (Endurance Recharge)
+* `REG_Sanity` (Madness Reduction)
 
-
-`ATR_Dexterity` -> `HITCHANCE` + `RISK`
-`ATR_Constitution` -> `REG_LIFE`, `REG_FORCE`  
-`ATR_Will` -> `ATR_Madness`, `REG_SANITY`
+* `REG_Mana` (Mana Regeneration for Mages)
+* `REG_Psi` (Psi Regeneration for Psionics)
+* `REG_Special` (Special Attacks for Warriors)
+* `REG_Focus` (Special Focus for Thieves)
 
 
-**Arts + correlated Attributes:**  
-`ART_Weaponry` -> `ATR_STRENGTH` + `FGT_Delay` + `FGT_SpecialAt`  
-`ART_Thievery` -> `ATR_DEXTERITY` + `STL_Risk` + `STL_Focus`  
-`ART_Arcanery` -> `ATR_MANA` + `RESIST_MAGIC`, `REG_MANA`  
-`ART_Psionics` -> `ATR_PSI` + `RESIST_PSI`, `REG_PSI`  
-
-**Regeneration Categories:**  
-
-
-**Experience Categories**:  
-primary (general):  
-`EXP_Suffering`,  
-`EXP_Resistance`,  
-`EXP_Exhaustion`,  
-`EXP_Madness`  
-secondary (class-specific):  
-`EXP_Combat`,  
-`EXP_Stealth`,  
-`EXP_Magic`,  
-`EXP_Psi`  
-tertiary (class-crossing):  
-`EXP_Alchemy`,  
-`EXP_Huntsmanship`,  
-`EXP_Marksmanship`,  
-`EXP_Metallurgy`,  
-[`EXP_Philology`]
-
-And that's it.  
-
- 
-
-
-
-
-
+And that's it. This is our solution, making for a coherent system, that is both simple and complex.  
 
 
 

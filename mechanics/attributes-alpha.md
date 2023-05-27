@@ -6,18 +6,17 @@
 
 At first we'll analyse the attributes as imagined in the concept phase by analysing all the available design documents. Then we look at the attributes as they were implemented in the actual builds of the game and how they changed in course of development. 
 
-In the second part, building on this research, we present our own solution for Phoenix. 
 
-**Content:**  
+## Content
+
 1. [Primary & Secondary Attributes](#primary--secondary-attributes)
-2. [Attribute levels in text form](#attribute-levels-in-text-form)
-3. [Attribute Progression](#attribute-progression)
-4. [Default Attribute Values for NPCs](#default-attribute-values-for-npcs)
-5. [Attributes & Classes](#attributes--classes)
-6. [Cut Attributes](#cut-attributes)
-7. [Function of Attributes](#function-of-attributes)
+2. [Attribute Progression](#attribute-progression)
+    1. [Default Attribute Values for NPCs](#default-attribute-values-for-npcs)
+3. [Attributes & Classes](#attributes--classes)
+4. [Cut Attributes](#cut-attributes)
+5. [Function of Attributes](#function-of-attributes)
     1. [Mana, Will & Madness](#mana-will--madness)
-8. [Visualisation of Attributes](#visualisation-of-attributes)
+6. [Visualisation of Attributes](#visualisation-of-attributes)
     1. [Visualisation vs. Representation](#visualisation-vs-representation)
         1. [Simplifying the HUD](#simplifying-the-hud)
         2. [Overcoming the HUD](#overcoming-the-hud)
@@ -122,7 +121,7 @@ Gladly in the before-mentioned doc by Mike - `Phoenix_B4_Learning.doc`, p. 5 - t
 Based on these findings we can conclude that the original idea by Mike - persisting for at least two years in development - was to have the six primary attributes listed above which names were supposed to be referred to inside of the game and that were responsible to scale the secondary "status attributes", which, for reasons of immersion, were not supposed to be referred to inside of the game and instead should have appeared *only* in form of symbols or bars in the user interface.  
 
 
-## Attribute levels in text form
+## Attribute Progression
 
 This analysis is additionally confirmed by the so called "clear texts for attributes" in the `text.d` of v0.56c which may be a remnant of even earlier versions. Only the six attributes are described here in clear text for every attribute level, while there is none for the five "second order" attributes. We won't quote all those clear texts here, as they were highly work in progress and many were lacking, but they should have been structured in the following way, with ten possible levels for each of the attributes:  
 
@@ -156,8 +155,7 @@ If the first order attributes were ever supposed to appear in the character prof
 <p class="subtext">Not all the bars on the HUD were direct representations of the status attributes. For instance in later versions there is a bar representing the oxygen when being underwater. This is not linked to an attribute but controlled by a guild value in the species script, as Auronen pointed out. There is a <code>SWIM_TIME</code> and a <code>DIVE_TIME</code> defining the swim / dive endurance before receiving damage.<br>  
 While Mike discarded the idea of endurance as an attribute on its own, there was obviously a need to restrict the dive time. In the same way we can imagine that you were not supposed to be able to sprint infinitally. But instead of restricting the feature (by something like Endurance or a value like <code>SPRINT_TIME</code>) they removed the sprinting on key press and linked it to speed potions.</p>
 
-
-## Attribute Progression
+---
 
 Mike referred to the primary attributes just as "the six attributes" or as "character values". In `Phoenix_B4_Learning.doc` he explains that these six attributes can be learned / increased from teachers just as talents and spells. Upon increase of one of the six primary attributes, the associated secondary attributes (that he referred to as "status attributes") are increased alongside.  
 
@@ -190,7 +188,7 @@ Accordingly in v0.56c-0.64b the NPCs had at most 20 HP, 10 Str (with one excepti
 In course of this research we discovered and summarised some defaults.  
 
 
-## Default Attribute Values for NPCs
+### Default Attribute Values for NPCs
 
 0.94k is the most valuable source (among those available to us) to analyse the (status) values of the different guilds and ranks of NPCs. Although values vary for individual NPCs with their unique traits, we could identify a consistent set of light, medium and heavy default values:  
 
