@@ -449,12 +449,12 @@ Thus, the rest is either a mere representation of these for the player in form o
 ```
 Class specific:       Class crossing:
 
-`EXP_WEAPONRY`        `EXP_ALCHEMY`
-`EXP_THIEVERY`        `EXP_METALLURGY`
-`EXP_ARCANERY`        `EXP_MARKSMANSHIP`
-`EXP_PSIONICS`        `EXP_HUNTSMANSHIP`
-                      `EXP_PHILOLOGY`
-                      `EXP_ARMORY`
+* EXP_WEAPONRY        * EXP_ALCHEMY
+* EXP_THIEVERY        * EXP_METALLURGY
+* EXP_ARCANERY        * EXP_MARKSMANSHIP
+* EXP_PSIONICS        * EXP_HUNTSMANSHIP
+                      * EXP_PHILOLOGY
+                      * EXP_ARMORY
 ```
 
 *Alchemy* is class-crossing in that it is dealt with by both Mages and Psionics; in the same way as *Archery* or *Marksmanship* and *Huntsmanship* (part of which is all kinds of knowledge about monsters) are relevant for both warriors and thieves. *Metallurgy* does not only matter for forging swords, but begins with common knowledge about ore and ends in refined arts such as runemaking (which is *arcane*). This way, some arts and the experience gained in them has synergistic effects on others.
