@@ -12,7 +12,7 @@ Based on our research of the [Alpha Attributes](/mechanics/attributes-alpha), in
 1. [Reconstructing the Attributes](#reconstructing-the-attributes)
     1. [Primary & Secondary Attributes](#primary--secondary-attributes)
         1. [Strength, Constitution, Hitpoints](#strength-constitution-hitpoints)
-        2. [Dexterity, Speed & Hitchance](#dexterity-speed--hitchance)
+        2. [Dexterity, Hitchance & Risk](#dexterity-hitchance--risk)
         3. [Will, Psi & Madness](#will-psi--madness)
     2. [The Arts](#the-arts)
         1. [Psionics](#psionics)
@@ -82,7 +82,7 @@ If both the endurance and the hitpoints are exhausted to some degree, the hitpoi
 * `ATR_Constitution` -> `ATR_Endurance`, `REG_HITPOINTS` + `REG_ENDURANCE`
 
 
-#### Dexterity 
+#### Dexterity, Hitchance & Risk
 
 Dexterity, in opposition to strength, is not a primary attribute (as seen by its absence in the attribute levels in clear text form). It is a secondary attribute that is scaled by thievery and serves the purpose of being displayed as DEX symbols in the Icon HUD. Other than that it influences the "hit chance" in ranged combat and the "risk of failure" in stealth. 
 
