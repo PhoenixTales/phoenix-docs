@@ -150,7 +150,7 @@ Thus it is also…
 * <strong>terrific</strong>, in the sense of terrifying / dreadful 
 </pre>
 
-Gothic fantasy necessarily consists of this particular visual and narrative style and the associated atmosphere that is characteristically *gothic*; while the difference to mere gothic fiction are its fantastical elements.  
+Gothic fantasy necessarily consists of this particular visual and narrative style and the associated atmosphere that is characteristically *gothic*; while the difference to mere gothic fiction are the fantastical elements it presents (here in form of the sword-and-sorcery genre).  
 
 
 ### High Fantasy vs Low Fantasy
@@ -181,11 +181,11 @@ Mike specifically strived to create a fantasy world of creatures not to be found
 
 "I've been speculating that this is why humans have these legends. About orc-like creatures." (Avallach) As a matter of fact, there was interbreeding between Neanderthals and early modern humans (compare that to the Half-Orc idea of the early vision of Gothic) and violent conflicts with our species is very likely to have been one of the reasons for their extinction. 
 
-Compare the painting below by Frank Frazetta (which works were a major inspiration for the artdirection of Gothic) with [this image](/_img/vision/orc-comparison.jpeg) and the design of the orcs in Gothic.   
+Compare the painting below by Frank Frazetta (whose works were a major inspiration for the artdirection of Gothic) with [this image](/_img/vision/orc-comparison.jpeg) and the design of the orcs in Gothic.   
 
 ![frank-frazetta.jpg](/Appendix/Inspirations/3rd-party_copyrighted/frank-frazetta.jpg)
 
-In Gothic they just continued to coexist. The Orcs may have developed differently (in an evolutionary perspective) and their culture declined, as they started to live deep under the earth for thousands of years because of the racism of the humans and the wars on the surface that has driven them underground, as the early lore informs us.  
+In Gothic they just continued to coexist. The Orcs developed differently (in an evolutionary perspective) and their culture declined as they started to live deep under the earth for thousands of years because of the racism of the humans and the wars on the surface that has driven them underground, as the early lore informs us.  
 
 <p class="subtext">I have to credit both Avallach and Dmitriy aka <em>Phantom95</em> for the section above - they both speculated - independent from each other about how the orcs in Gothic may be compared to a co-existing human subspecies.</p>
 
@@ -201,7 +201,8 @@ In the colony there is this "magical" ore, in the colony there are those strange
 
 Morrowind is an example of high fantasy - that is not to be seen as a critique - and in this way it is completely different than the low fantasy that Gothic was supposed to be. There is a bunch of races, including elves, the lizard-like argonians and cat-like khajits. Magic is everywhere and normal. While in Gothic magic is rare, people are afraid of the mages and they do not understand their powers - if they have seen them at all - and no one knows whether or not they were really granted by the gods, as they claim. As in Gothic the gods are not a fact, they may or may not exist; the developers left this question open (in the first instalment).  
 
-Low Fantasy reduces the amount of fantastical phenomena, so that those which remain feel more special and more believable at the same time. Another characteristic is that low fantasy does not establish out- or beyond-worldly entities (like gods) as blunt facts. It preserves at least the possibility of a (pseudo)-scientific or psychological explanation of the fantastical elements it presents, based on our own historical and physical understanding, to reinforce the notion that "it could have been" like that in an unknown past in an unknown kingdom.  
+Low Fantasy reduces the amount of fantastical phenomena, so that those which remain feel more special and more believable at the same time. Another characteristic is that low fantasy does not establish out- or beyond-worldly entities (like gods) as blunt facts.  
+It preserves at least the possibility of a (pseudo)-scientific or psychological explanation of the fantastical elements it presents, based on our own historical and physical understanding, to reinforce the notion that "it could have been" like that in an unknown past in an unknown kingdom.  
 
 
 ### Gothic Horror & the target audience

@@ -11,9 +11,9 @@ Based on our research of the [Alpha Attributes](/mechanics/attributes-alpha), in
 
 1. [Reconstructing the Attributes](#reconstructing-the-attributes)
     1. [Primary & Secondary Attributes](#primary--secondary-attributes)
-      1. [Strength, Constitution, Hitpoints & Damage](#strength-constitution-hitpoints--damage)
-      2. [Dexterity, Speed & Hitchance](#dexterity-speed--hitchance)
-      3. [Will, Psi & Madness](#will-psi--madness)
+        1. [Strength, Constitution, Hitpoints](#strength-constitution-hitpoints)
+        2. [Dexterity, Speed & Hitchance](#dexterity-speed--hitchance)
+        3. [Will, Psi & Madness](#will-psi--madness)
     2. [The Arts](#the-arts)
         1. [Psionics](#psionics)
         2. [Arcanery](#arcanery)
@@ -53,7 +53,7 @@ In their striving to finish the game it might have been reasonable to remove the
 In order to do so we have to analyse the difference between those attributes which are relevant for all classes and those which are optional or even mutually exclusive.  
 
 
-#### Strength, Constitution, Hitpoints & Damage 
+#### Strength, Constitution, Hitpoints 
 
 Constitution is relevant to everyone and with no primary focus on any class.  
 Strength is primarily relevant and skilled by Warriors. Mages and Psionics may not skill it at all, but it is nonetheless a factor that matters to every character; it sets limits of how you can or can not interact with the world (as in form of carrying or pushing objects). And therefore everyone will have some degree of Strength.  
