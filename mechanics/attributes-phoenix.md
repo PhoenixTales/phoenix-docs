@@ -222,14 +222,14 @@ Arcanery is the experience and knowledge of the Arcane. It is increased through 
 The Arcane Art does not really matter to anyone but the mages, but one may still acquire a bit of arcane knowledge by chance - as the psionics may steal knowledge from the mages and so on. The important thing is that they won't get any Mana (due to intoxication) -> Mana is mage exclusive, as Psi-Energy is psionic exclusive.  
 
 
-#### Thievery
-
-Thievery is obviously relevant for thieves and while thieves may be able to reach some degree of Weaponry (his dagger-tricks are thief-skills and thus not associated with Weaponry), it is the thievery that he is primarily supposed to use to solve the game. It is increased through teaching from experienced thieves and through applying said teachings in stealth. On the other hand, it also serves as a class-specific experience requirement for additional teachings. Thus, every thief skill to be learned in the game comes with a different requirement in Thievery. Thereby, the character can only be developed as a thief by solving game situations in accordance with the thief's abilities as his class-specific repertoire of interaction.  
-
-
 #### Weaponry 
 
 Weaponry is primarily relevant for warriors. It is increased through teaching from experienced fighters in the combat forms with different (melee) weapons and through applying said teachings in combat. At the same time every teaching in a specific weapon's combat form requires X experience in Weaponry. 
+
+
+#### Thievery
+
+Thievery is obviously relevant for thieves and while thieves may be able to reach some degree of Weaponry (his dagger-tricks are thief-skills and thus not associated with Weaponry), it is the thievery that he is primarily supposed to use to solve the game. It is increased through teaching from experienced thieves and through applying said teachings in stealth. On the other hand, it also serves as a class-specific experience requirement for additional teachings. Thus, every thief skill to be learned in the game comes with a different requirement in Thievery. Thereby, the character can only be developed as a thief by solving game situations in accordance with the thief's abilities as his class-specific repertoire of interaction.  
 
 
 
