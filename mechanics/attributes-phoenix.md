@@ -343,7 +343,7 @@ Exception Templars:
 
 ### Phoenix HUDs
 
-The HUD will be optional and it will be possible to play without (see ["Beyond the HUD](#beyond-the-hudbeyond-the-hud) below. We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols by default in the exploration mode when not wounded.  
+The HUD will be optional and it will be possible to play without (see ["Beyond the HUD](#beyond-the-hudbeyond-the-hud) below). We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols by default in the exploration mode when not wounded.  
 
 The following attributes or other values will be displayed on the screen:
 * Hitpoints (when injured, in Combat Mode or in the inventory)
@@ -389,6 +389,8 @@ And since we add Madness as a seperate attribute in the sense of "negative Willp
 
 The bar HUD will follow the brutalist style and function from ~v0.8-0.9.  
 But just as the Symbol HUD the bars will be smaller for characters with smaller values and larger for characters with larger values, not being stretched to a fixed width like in the release version. Instead of adjusting the bars to the background texture, we will adjust the background texture to the bars. This will not only provide additional information to the player, the HUD will also cover less of the screen.  
+
+![Shorter Bars](/_img/mechanics/HUD/bar-hud-new.png)
 
 
 ### Beyond the HUD
