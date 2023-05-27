@@ -20,7 +20,9 @@
 	3. Sound & Music
 3. Mechanics
 	1. Classes
-	2. [Attributes](/mechanics/attributes)
+	2. Attributes
+		1. [Alpha Attributes](/mechanics/attributes-alpha)
+		2. [Phoenix Attributes](/mechanics/attributes-phoenix)
 	3. Skills
 	4. Modes of Interaction 
 		1. Exploration Mode
