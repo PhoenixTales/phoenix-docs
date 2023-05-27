@@ -343,7 +343,7 @@ Exception Templars:
 
 ### Phoenix HUDs
 
-The HUD will be optional and it will be possible to play without (see ["Beyond the HUD](#attribute-visualisation-or-beyond-the-hud)). We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols by default in the exploration mode when not wounded.  
+The HUD will be optional and it will be possible to play without (see ["Beyond the HUD](#beyond-the-hudbeyond-the-hud) below. We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols by default in the exploration mode when not wounded.  
 
 The following attributes or other values will be displayed on the screen:
 * Hitpoints (when injured, in Combat Mode or in the inventory)
