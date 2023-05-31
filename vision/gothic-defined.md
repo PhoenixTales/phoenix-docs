@@ -64,7 +64,7 @@ In 04/2000, Terrorian released a preview on zoks.de, titled: "[GOTHIC - The Aest
 
 ![Gotham City](/Appendix/Inspirations/gothic-novels/batman/Gotham-City-dc-comics-14582733-710-469.jpg)
 
-<p class="subtext">The Gothic story <a href="https://gothicarchive.org/documents/SleepersBan.html">Sleeper's Ban</a> by Alex Wittmann (described by Tom as "Punk, Physician, Surgeon, Roleplayer, Fantasy-Freak, Friend"), that was once supposed to become an official novel to the game, is full of "shocking" descriptions (in German, gothic novels are described as "Schauerromane"), can also be seen in this very tradition as a mixture of gothic novel and fantasy book or short: as gothic fantasy.</p>
+<p class="subtext">The Gothic story <a href="https://gothicarchive.org/documents/SleepersBan.html">Sleeper's Ban</a> by Alex Wittmann (described by Tom as "Punk, Physician, Surgeon, Roleplayer, Fantasy-Freak, Friend"), that was once supposed to become an official novel to the game, which is full of "shocking" descriptions (in German, gothic novels are described as "Schauerromane"), can also be seen in this very tradition as a mixture of gothic novel and fantasy book or short: as gothic fantasy.</p>
 
 
 
@@ -191,7 +191,7 @@ In Gothic they just continued to coexist. The Orcs developed differently (in an 
 
 <p class="subtext">I have to credit both Avallach and Dmitriy aka <em>Phantom95</em> for the section above - they both speculated - independent from each other about how the orcs in Gothic may be compared to a co-existing human subspecies.</p>
 
-Other than that, the orcish culture in Gothic is quite different from the one in other fantasy universes. The orcs are more akin to an intelligent primate species like in *Planet of the Apes* than to the typical blood-thirsty monsters from *Lord of the Rings*. And not to forget about the shamans which play a crucial cultural role and are mainly inspired by real-world voodoo cults.  
+Other than that, the orcish culture in Gothic is quite different from the one in other fantasy universes. The orcs are more akin to an intelligent primate species like in *Planet of the Apes* than to the typical blood-thirsty monsters as which they are depicted most of the time. And not to forget about the shamans which play a crucial cultural role and are mainly inspired by real-world voodoo cults.  
 
 Yes, there are Skeletons, Zombies, Goblins and Trolls, something like the "staples" of fantasy monsters (but as well part of any folklore and horror story way before modern "fantasy" stories that we usually think of were written). But the Goblins for instance got a very different design. They are no mammals but reptiles with scales and hatch out of eggs. The Trolls are nothing but huge apes, similar to Gorillas (originally they were smaller), as they could have existed in the past, living in synergy with the Gobbos.  
 
@@ -205,6 +205,10 @@ Morrowind is an example of high fantasy - that is not to be seen as a critique -
 
 Low Fantasy reduces the amount of fantastical phenomena, so that those which remain feel more special and more believable at the same time. Another characteristic is that low fantasy does not establish out- or beyond-worldly entities (like gods) as blunt facts.  
 It preserves at least the possibility of a (pseudo)-scientific or psychological explanation of the fantastical elements it presents, based on our own historical and physical understanding, to reinforce the notion that "it could have been" like that in an unknown past in an unknown kingdom.  
+
+---
+
+And as Arbax pointed out - there is another dimension to it. Based on the importance of amorality of the tale, of a story beyond good and evil, as well as based on some of the statements of the devs about their [vision of Gothic"](/vision/vision-of-gothic), such as "the story of GOTHIC will deal with the question if fate is avertable or not..." or "Phoenix is for those [...] who [...] are longing for some deeper form of Entertainment" (as much as that may just be marketing speech), we could as well argue that "philosophical fantasy" (probably a less known genre) can be considered part of the early design direction.  
 
 
 ### Gothic Horror & the target audience
