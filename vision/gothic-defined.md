@@ -67,6 +67,24 @@ In 04/2000, Terrorian released a preview on zoks.de, titled: "[GOTHIC - The Aest
 <p class="subtext">The Gothic story <a href="https://gothicarchive.org/documents/SleepersBan.html">Sleeper's Ban</a> by Alex Wittmann (described by Tom as "Punk, Physician, Surgeon, Roleplayer, Fantasy-Freak, Friend"), that was once supposed to become an official novel to the game, which is full of "shocking" descriptions (in German, gothic novels are described as "Schauerromane"), can also be seen in this very tradition as a mixture of gothic novel and fantasy book or short: as gothic fantasy.</p>
 
 
+#### Gothic Architecture
+
+One of the typical traits of gothic fiction that inspired the same, is gothic architecture. 
+In Gothic the game there is not much - but some - actual gothic architecture to be found. The typical medieval ruins, old castles and so on - they are everywhere, but they are more early medieval in character. But there are a few examples of actual gothic architecture in the game. We can see the form of the doors in the mages chapel as simplified gothic arches. Avallach speculates that they would have been rounded a bit more but had to be simplified to remain low poly. And this speculation is confirmed by the Gothic Comic, where there are two typical tall, narrow gothic windows in Corristo's chamber.  
+Then there are the iconic spikes on the towers of the prison castle and smaller ones on the chapel again, which Avallach sees as simplified "pinnacles" - they are another typical element of gothic architecture. And finally, there are so called "Scissor Arches" in the ancient temple, in the citadell close to the halls of the Sleeper, almost exactly as they are found in the Wells Cathedral:  
+
+![Scissor Arches in the Wells Cathedral](/Appendix/Inspirations/architecture/imperial-architecture/1383731098_f4dd6b37bf_b.jpg)
+
+> The term "Gothic architecture" originated as a pejorative description. Giorgio Vasari used the term "barbarous German style" in his Lives of the Artists to describe what is now considered the Gothic style, and in the introduction to the Lives he attributes various architectural features to the Goths, whom he held responsible for destroying the ancient buildings after they conquered Rome, and erecting new ones in this style.
+
+It was called german style, while it actually originated in France. And it had nothing to do with the Goths either. But nonetheless it was *perceived* as such for a long time.  
+
+> "Gothic architecture" originally meant "barbarian" because it was replacing the "classic" architecture of the Roman empire after it's fall. It became associated with the barbarian tribes of the Goths, as Goths were used as a symbol of barbarism. They were a major reason for the fall off the empire. To simplify it: A new architecture appeared and while not actually used by barbarians it reminded people of barbarians because it replaced the classical imperial Roman design. The barbarians most famous for robbing the empire, were Goths, so to show contempt and hate for this architecture the "fans" of the classical Roman architecture called it "gothic". At that point "gothic" meant primitive, evil and cruel. Nothing nice at all. But in reality it was more architecturally advanced, as buildings could be made much, much taller without collapsing. (Avallach)
+
+This "gothic" architecture again, was then - later by the romantic movement and by gothic fiction - used in those idealising ways, when the medieval times were seen positive again (Romanticism revived so-called ["Medievalism"](https://en.wikipedia.org/wiki/Medievalism), after the middle ages were seen so negative in the renaissance - and medievalism plays a big role in modern fantasy). Actually, a new form of ["Dark Romanticism"](https://en.wikipedia.org/wiki/Dark_romanticism) evolved from the romantic movement (which we could also describe as a pessimistic form of Romanticism; one of their most popular representatives was Edgar Allan Poe). And dark romanticism is closely linked to Gothic fiction. In this context it seems a bit absurd that the very term "romantic" refers to the romans or "the roman manner", in opposition to the paganism that they actually emphasised; the rationalists before them where much more in favour of the romans. But now these ruins of old gothic buildings were seen as monuments of an old, dark, cruel and yet monumentally impressive past that inspired their fantasy and gave rise to all their dark and melancholic stories.  
+
+> To me personally a very important idea of "gothic" is this trope of a fallen empire and its lost greatness. And of barbarism that threatens the final destruction of an ancient civilisation. (Avallach)
+
 
 ### Gothic in Other Media
 
@@ -75,26 +93,26 @@ There is typical Christian medieval gothic, there is Victorian gothic (*American
 
 On this ground it has to be acknowledged - though it seems hard to grasp for many - that there are projects that play, e.g. in a futuristic or contemporary scenario but have *more* in common with the aesthetics of Gothic - because they share general aesthetic principles and themes with Gothic - than diverse medieval scenarios, when they are not gothic in style.  
 
-![Morpheus and Neo dressed in black](/Appendix/Inspirations/gothic-styled-films/matrix/the_matrix_4k_67-1.jpg)
+![Matrix fashion](/Appendix/Inspirations/gothic-styled-films/matrix/matrix-fashion.jpg)
 
 Gothic was developed under the influence of a time that also brought us *Matrix* (1999), a mix of contemporary (simulation) and futuristic (reality) gothic. It does not come as a surprise that the devs posed in long black coats ([such as Mike Hoge here](/promo/specials/20thAnniversary/AJourneyToMike/mike.png)) for previews of the game - just as the Wachowskis were in that very scene (in fact, the club where Neo mets Trinity was a club they themselves went to, listening to industrial metal such as *Ministry*…). In MATRIX the whole crew of the Nebuchadnezzar wears typical gothic / punk fashion; they are rebels, techno-anarchists dressed in dark-scene clothing. There is the Merovingian residing in his castle with vaults of vampire programmes underneath, running gothic clubs full of fetishism.  
 The Real World is a terrific dystopia where there is always darkness due to the veiling of the sky to block light as the machine's energy source. Only the ruins of the former human civilisation remain. And the Machine City is like a futuristic vision of fields full of cyber-gothic cathedrals.  
 
-![Concept Art of the Machine City in Matrix](/Appendix/Inspirations/gothic-styled-films/matrix/9f6baf4ae424100c8fe8229ab82649b3.png)
+![Concept Art of the Machine City in Matrix](/Appendix/Inspirations/gothic-styled-films/matrix/machine-city.jpg)
 
 There is John Carpenter's *Escape from New York* (and *Escape from LA*), which, as should be well known, was a major inspiration for the setting in Gothic. Avallach remarked: "It's not just about the idea of an isolated rebelled prison colony. It's about a specific kind of anti-government 90s dystopia." The setting is described as an "island on the border of civilization, a no-man's land of chaos, anarchy and darkness" and as an "island of the damned". And there are even visual similarities, like the characteristic approach to sky colouring that will feel very familiar (if one knows the alpha screenshots of Gothic):   
 
-![Sky from Escape from New York](/_img/vision/efny-sky.jpeg)
+![Sky from Escape from New York](/Appendix/Inspirations/gothic-styled-films/escape-from-new-york/efny-sky.jpeg)
 
 There is STALKER, which is contemporary industrial gothic, where the medieval ruins of gothic castles are replaced by old factory complexes shut down after the nuclear disaster. Style and themes are extremely similar to the ones in Gothic; the centre of the zone as the source of psi emmissions - like the Sleeper in the colony; the monolith as a cult to protect that center and being under control of the C-Consciousness to serve its will - like the fanatics in the brotherhood of the Sleeper. In fact, stylistically as well as thematically STALKER shares more with GOTHIC than any official "Gothic" successor.  
 
-![Old STALKER Screenshot](/Appendix/Inspirations/gothic-styled-games/stalker/1585388642-549438843.jpg)
+![Old STALKER Screenshot](/Appendix/Inspirations/gothic-styled-games/stalker/stalker.jpg)
 
 There is American McGee’s ALICE which was described as a “Gothic Alice”, it is Victorian gothic in style. There is THIEF whose setting is a mixture of medieval and industrial gothic. Not to mention titles such as Shadow Man (gothic horror), Max Payne or Max Payne 2, subtitled as a “film noir love story”, which, to make it simple, is just the French way of saying *gothic*.  
 
 It is no wonder that gothic as a style seemed to dominate especially in the video game "industry" at that time when gamers were still considered kind of as outsiders. It was in vogue at the time. I am sure that the amazing oriental-gothic styled *Warrior Within* (2003) would have been appreciated more when released in 1999.  
 
-![Prince of Persia: Warrior Within Promo Screenshot](/Appendix/Inspirations/gothic-styled-games/warrior-within/PrinceofPersia2WarriorWithinGameScreenshot2.jpg)
+![Prince of Persia: Warrior Within Promo Screenshot](/Appendix/Inspirations/gothic-styled-games/warrior-within/pop-ww.jpg)
 
 <p class="subtext">When analysing gothic as a style, I realised how <em>gothic</em> is perhaps the essential factor that so many titles I like have in common. I love MATRIX, ALICE and STALKER. And I loved novels such as <em>Wuthering Heights</em>, while not being aware that it is a typical gothic novel. I also was very fond of <em>True Detective</em>, which, as I later found out, is southern-gothic in style.</p>
 
@@ -112,7 +130,7 @@ It is true that the old Piranha Bytes (the original visionaries of Gothic) were 
 
 For instance, there were the ["Gothic Girls"](https://gothicarchive.org/promotion/gothicgirls.html), girls selected in a competition to represent GOTHIC at promotional events. They posed in gothic clothing - in typical black leather - and the slave girls inside of the game were designed accordingly, clearly "gothic" in style.  
 
-But also the character design in general, especially in [earlier versions](https://media.gothicarchive.org/screenshots/orderedbytime/1999-07-1999-08/screenshot.gothic.640x480.2004_10_01.300.jpg) of the game, was clearly inspired by the modern gothic subculture, which can still be seen in the official Gothic Comic, where almost every warrior runs around with studded leather belts around their naked upper bodies, [such as Gorn](https://media.gothicarchive.org/conceptart/tomthiel/1.jpg); the very same style that you would find in 90s gothic clubs, [like here](/_img/vision/m1club-sldl-alpha.png) in the club from *The Matrix*.
+But also the character design in general, especially in [earlier versions](https://media.gothicarchive.org/screenshots/orderedbytime/1999-07-1999-08/screenshot.gothic.640x480.2004_10_01.300.jpg) of the game, was clearly inspired by the modern gothic subculture, which can still be seen in the official Gothic Comic, where almost every warrior runs around with studded leather belts around their naked upper bodies, [such as Gorn](https://media.gothicarchive.org/conceptart/tomthiel/1.jpg); the very same style that you would find in 90s gothic clubs, [like here](/Appendix/Inspirations/gothic-styled-films/matrix//m1club-sldl-alpha.png) in the club from *The Matrix*.
 
 
 
@@ -183,7 +201,7 @@ Mike specifically strived to create a fantasy world of creatures not to be found
 
 "I've been speculating that this is why humans have these legends. About orc-like creatures." (Avallach) As a matter of fact, there was interbreeding between Neanderthals and early modern humans (compare that to the Half-Orc idea of the early vision of Gothic) and violent conflicts with our species is very likely to have been one of the reasons for their extinction. 
 
-Compare the painting below by Frank Frazetta (whose works were a major inspiration for the artdirection of Gothic) with [this image](/_img/vision/orc-comparison.jpeg) and the design of the orcs in Gothic.   
+Compare the painting below by Frank Frazetta (whose works were a major inspiration for the artdirection of Gothic) with [this image](/Appendix/Inspirations/characters/orcs/orc-comparison.jpeg) and the design of the orcs in Gothic.   
 
 ![frank-frazetta.jpg](/Appendix/Inspirations/3rd-party_copyrighted/frank-frazetta.jpg)
 
