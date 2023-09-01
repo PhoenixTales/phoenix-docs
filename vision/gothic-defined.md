@@ -45,7 +45,7 @@ We think that this perspective is quite limited in that it excludes essential ch
 
 The demo of the *Mad Scientists*, - that would later lead them to cooperate with Piranha Bytes and to develop Gothic's Engine - had the working title ["Finster"](https://gothicarchive.org/demos/finster/) (German for gloomy / dark), which was already a clear hint for the dark style aimed for from the very start. And in fact it was one of them, Bert Speckels, who suggested "Gothic" as the name for their game, which is just a fitting and more international sounding title with a similar connotation as the original german one.  
 
-But many insisted on the notion that Gothic as a game has nothing to do with gothic as a term. They think it was just a cool sounding name without any relation to the associated cultural and aesthetical implications - and this is wrong. Gothic is both inspired by historical Goths (such as early medieval Visi-Goth) as well as by gothic fiction and even the modern goth subculture. We have to conclude in the words of Avallach, that the early Gothic in fact...  
+But many insisted on the notion that Gothic as a game has nothing to do with gothic as a term. They think it was just a cool sounding name without any relation to the associated cultural and aesthetical implications - and this is wrong. Gothic is both inspired by historical Goths as well as by gothic fiction and even the modern goth subculture. We have to conclude in the words of Avallach, that the early Gothic in fact...  
 
 > takes inspiration from many different dimensions of "gothicness".   
 
