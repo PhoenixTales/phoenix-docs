@@ -226,7 +226,7 @@ It preserves at least the possibility of a (pseudo)-scientific or psychological 
 
 ---
 
-And as Arbax pointed out - there is another dimension to it. Based on the importance of amorality of the tale, of a story beyond good and evil, as well as based on some of the statements of the devs about their [vision of Gothic"](/vision/vision-of-gothic), such as "the story of GOTHIC will deal with the question if fate is avertable or not..." or "Phoenix is for those [...] who [...] are longing for some deeper form of Entertainment" (as much as that may just be marketing speech), we could as well argue that "philosophical fantasy" (probably a less known genre) can be considered part of the early design direction.  
+And as Arbax pointed out - there is another dimension to it. Based on the importance of amorality of the tale, of a story beyond good and evil, as well as based on some of the statements of the devs about their [vision of Gothic](/vision/vision-of-gothic), such as "the story of GOTHIC will deal with the question if fate is avertable or not..." or "Phoenix is for those [...] who [...] are longing for some deeper form of Entertainment" (as much as that may just be marketing speech), we could as well argue that "philosophical fantasy" (probably a less known genre) can be considered part of the early design direction.  
 
 
 ### Gothic Horror & the target audience
