@@ -270,7 +270,7 @@ They are mere fragments. Phoenix is the mosaic.
 
 ### Orpheus
 
-* Gothic in the alpha style: Interface, Menüs, Artworks, Fonts, Textures, Colour Range etc.
+* Gothic in the alpha style: Interface, Menus, Artworks, Fonts, Textures, Colour Range etc.
 * Decisive retro aesthetics, pixelated textures and low poly artstyle, which we describe as a mixture of gothic and wabi-sabi.
 * Alpha (Cut-)Content reconstructed/re-implemented: NPCs, Monsters, Armors, Items, Vegetation, Attributes, Skills, the entire Alpha gameworld with its dungeons (Orccity and Abandoned Mine).
 * Realisation (modeling and texturing) of the entirety of concept arts by Ralf Marczinczik, Mike Hoge and Frank Ziemlinski.
