@@ -116,6 +116,7 @@
 1. Promotion
 	1. [Media](/promo/media)
 	2. [Press](/promo/press)
+	3. [FAQ](/promo/faq/en)
 	3. Devblog
 		* [Making of PhoenixTales](/Appendix/behind-the-scenes/logo)
 		* The Team behind Phoenix
