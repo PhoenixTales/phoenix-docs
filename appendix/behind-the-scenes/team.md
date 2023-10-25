@@ -383,7 +383,7 @@ As you see, the development of PHOENIX is not only driven by this small inner ci
  
 Thank you and to everyone who contributes to the archive, creates artworks inspired by our vision, translates our texts, moderates our channels, motivates our work and researches the material our dream is made of; and thank you to everyone who works for peace in these fucked up times of war.
         
-Florian, July 2 2022  [last update: 09-10-2022]
+Florian, July 2 2022  [last update: 25-10-2023]
 
 --- 
 
