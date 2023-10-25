@@ -208,7 +208,7 @@ You may also want to read:
 * [Flosha: The Vision of Gothic](/vision/vision-of-gothic)
 * [Flosha: Gothic (re)defined](/vision/gothic-defined)
 * [Flosha: Phoenix & the Rescue of Design](...)
-* [Our Phoenix Design Concept](/vision/introduction)
+* [Our Phoenix Design Concept](/)
 
 
 ## What is GOTHIC/PHOENIX Canon?
@@ -262,7 +262,8 @@ Phoenix Tales is against any form of commodification of the pre-release material
 
 ## Why is X different than in Demo Y?
 
-Many things in Phoenix are different than in the Alpha demos, since every demo is just an image of one specific phase of development. Usually a game is first conceptionalised and then produced, but Gothic went through several conceptional changes *mid-production*. Our [Phoenix Concept](/) is an attempt to bring these ideas together and to unify them harmoniously - insofar they fit the vision and principles that we analysed as essential and that constitute the framework of our design. This does not only include the content of different alpha versions but also diverse concept arts, sketches, features and story ideas that were never implemented in any version of the game. Thus, we do not try to reconsruct one specific version of the world or to tell one specific version of the story. They are mere fragments. Phoenix is the mosaic.
+Many things in Phoenix are different than in the Alpha demos, since every demo is just an image of one specific phase of development. Usually a game is first conceptionalised and then produced, but Gothic went through several conceptional changes *mid-production*. Our [Phoenix Concept](/) is an attempt to bring these ideas together and to unify them harmoniously - insofar they fit the vision and principles that we analysed as essential and that constitute the framework of our design. This does not only include the content of different alpha versions but also diverse concept arts, sketches, features and story ideas that were never implemented in any version of the game. Thus we do not try to reconstuct one specific version of the world or to tell one specific version of the story.  
+They are mere fragments. Phoenix is the mosaic.
 
 
 ## What are the features of PHOENIX?
