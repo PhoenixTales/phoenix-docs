@@ -43,8 +43,8 @@ Phoenix Tales is a small team of independent developers led by Flosha. We are re
 Additionally, Phoenix Tales as the name of our team is a little reference to [Piranha Bytes](https://gothicarchive.org/developers/piranhabytes/presentation.html) (Tales -> Tails, Bytes -> Bites), while with our logo, which shows a small, mystic and quirky Phoenix, we want to remind of the Mad Scientists.  
 
 In these articles you can find more about us:  
-* [Phoenix Tales: The Team behind PHOENIX](/Appendix/behind-the-scenes/team)
-* [Flosha: Making of Phoenix Tales](/Appendix/behind-the-scenes/logo)
+* [Phoenix Tales: The Team behind PHOENIX](/appendix/behind-the-scenes/team)
+* [Flosha: Making of Phoenix Tales](/appendix/behind-the-scenes/logo)
 * [Flosha: Phoenix & the Rescue of Design: A journey to Mike Ho...](..)
 * [Flosha: Art & the Demonic Threat](...)
 * Flosha: Phoenix & the Return of Design

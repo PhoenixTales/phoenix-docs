@@ -118,8 +118,8 @@
 	2. [Press](/promo/press)
 	3. [FAQ](/promo/faq/en)
 	3. Devblog
-		* [Making of PhoenixTales](/Appendix/behind-the-scenes/logo)
-		* [The Team behind Phoenix](/Appendix/behind-the-scenes/team)
+		* [Making of PhoenixTales](/appendix/behind-the-scenes/logo)
+		* [The Team behind Phoenix](/appendix/behind-the-scenes/team)
 		* Creating the ASCII Art
 	4. Essays
 		1. Phoenix & the Rescue of Design
