@@ -25,7 +25,7 @@ In this one I want to give you some insight into our organisation, how it functi
 
 Since we work from home with everyone of us being in a different country, we organise our work via chats and meetings, currently on a private Discord Server. While we would prefer a free and open source alternative, we are using it for convenience purposes and because of how strongly our internal work is associated with the community and the public research on our official Phoenix Server. We can't deny that Discord provides a very useful and convenient platform for gaming communities and we use it for this purpose, but we have to strongly advise against using it for any kind of private communication.
 
-Our code and ressources are managed by GitHub, including our assets. We don't just use Git to manage our current build of Phoenix, but we have all our websites hosted there too, which enables the community to participate and help us fixing stuff (in theory; in practice it doesn't happen :P).
+Our code and ressources are managed by GitHub, including our assets. We don't just use Git to manage our current build of Phoenix, but we have all our websites hosted there too, which enables others to contribute and help us fixing stuff (in theory; it doesn't really happen :P).
     
 Most importantly: Everyone can just clone our entire [Gothic Archive](https://gothicarchive.org) to have it for himself. Not only to provide local access to the material, but also for historical preservation. The risk to loose all of these ressources is thereby reduced to a minimum; a risk that is quite real, given that a lot of the material that we published was quite rare and forgotten on some former developer's hard drives or discs or in physical folders, even on faded, handwritten notes; all at high risk of decay. Since 2019 everyone can add new material or research to it (if meeting our standards), while we like to consider ourselves as the 'curators' only.  
 
@@ -44,7 +44,7 @@ Arbax, Avallach, Auronen and me (flosha/Florian).
 ![Flosha](/appendix/behind-the-scenes/team/flosha-sm.png)
 
 ### Flosha (Florian)
-// Project Leader
+// Project Leader  
 // Creative Director
      
 #### Who are you?
