@@ -167,7 +167,7 @@ Thus, in this context we need the following attributes:
 
 ### The Arts 
 
-It may be that the "arts" were removed because they wanted to simplify a system that had become too complicated. They may have become redundant because of how they developed the skill system. If we include them, we will not include them as attributes but as a category on their own. In the same way as `PROT` was introduced as a dedicated constant of protection values, we will introduce `ART` as a dedicated constant of the arts. But we do that *only* if thereby we make the system not more complicated, but more interesting and reasonable. Otherwise they're only useful as categories of skills, as headings in the character sheet.  
+It may be that the "arts" were removed because they wanted to simplify a system that had become too complicated. They may have become redundant because of how they developed the skill system. If we include them, we will not include them as attributes but as a category on their own. In the same way as `PROT` was introduced as a dedicated constant of protection values, we will introduce something like `ART` or `EXP` (referring to the experience in the art) as a dedicated constant of the arts. But we do that *only* if thereby we make the system not more complicated, but more interesting and reasonable. Otherwise they're only useful as categories of skills, as headings in the character sheet.  
 
 One purpose of the arts in our system is to serve as concepts that can be verbalised and described inside of the game world by NPCs (as well as books and so on) to seperate them from the abstract status attributes, which only play a role for the HUD and for the internal calculation of specific forms of damage, resistance and so forth. 
 
@@ -458,7 +458,7 @@ Class specific:       Class crossing:
                       * EXP_ARMORY
 ```
 
-*Alchemy* is class-crossing in that it is dealt with by both Mages and Psionics; in the same way as *Archery* or *Marksmanship* and *Huntsmanship* (part of which is all kinds of knowledge about monsters) are relevant for both warriors and thieves. *Metallurgy* does not only matter for forging swords, but begins with common knowledge about ore and ends in refined arts such as runemaking (which is *arcane*). This way, some arts and the experience gained in them has synergistic effects on others.
+*Alchemy* is class-crossing in that it is dealt with by both Mages and Psionics; in the same way as *Archery* or *Marksmanship* and *Huntsmanship* (part of which is all kinds of knowledge about monsters) are relevant for both warriors and thieves. *Metallurgy* does not only matter for forging swords, but begins with common knowledge about ore and ends in refined arts such as runemaking (which is *arcane*). This way, some arts and the experience gained in them has synergistic effects on others, which was also an idea logx is to credit for.
 
 ---
 
