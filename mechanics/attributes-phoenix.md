@@ -237,7 +237,7 @@ Thievery is obviously relevant for thieves and while thieves may be able to reac
 Thievery <> Dexterity  
 Weaponry <> Strength  
 Arcanery <> Mana  
-Psionics <> Psi. 
+Psionics <> Psi
 
 Every art scales an associated status attribute. 
 
@@ -311,9 +311,9 @@ Exception Novices:
   Psi |  ≤2 |  ≤4 |  ≤6
 
 
-  Warriors (E = Orebaron) 			  Thieves (G = Masterthief) 
+  Warriors (E = Orebaron) 			  Thieves (T = Masterthief) 
 +-----------------------------+		+-----------------------------+
-| ATR |  L  |  M  |  H  |  E  |		| ATR |  L  |  M  |  H  |  G  |
+| ATR |  L  |  M  |  H  |  E  |		| ATR |  L  |  M  |  H  |  T  |
 |-----+-----------------------|		|-----+-----------------------|
 | Htp | ≤18 | ≤22 | ≤26 | ≤30 |		| Htp | ≤18 | ≤22 | ≤26 | ≤30 |
 | Str |  ≤9 | ≤11 | ≤13 | ≤15 |		| Str |  ≤4 |  ≤6 |  ≤8 | ≤10 |
@@ -328,7 +328,7 @@ Exception Templars:
 
   Mages (A = Archmages) 			  Gurus (Y = The Enlightened) 
 +-----------------------------+		+-----------------------------+
-| ATR |  L  |  M  |  H  |  G  |		| ATR |  L  |  M  |  H  |  G  |
+| ATR |  L  |  M  |  H  |  A  |		| ATR |  L  |  M  |  H  |  Y  |
 |-----+-----------------------|		|-----+-----------------------|
 | Htp | ≤18 | ≤22 | ≤26 | ≤30 |		| Htp | ≤18 | ≤22 | ≤26 | ≤30 |
 | Str |  ~5 |  ~5 |  ~5 |  ~5 |		| Str |  ~5 |  ~5 |  ~5 |  ~5 |

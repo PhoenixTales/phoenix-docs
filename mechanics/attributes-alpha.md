@@ -255,7 +255,7 @@ When we blend out these attributes that were only handled as such for technical 
 +----+-------------------+--------------------+--------------------+
 |    | 0.56c/0.64b       | 0.94k              | 1.00b - 1.12f      |
 |  - | ----------------- | ------------------ | ------------------ |
-|  0 | ATR_HITPOINTS	   | ATR_HITPOINTS      | ATR_HITPOINTS      |   
+|  0 | ATR_HITPOINTS	 | ATR_HITPOINTS      | ATR_HITPOINTS      |   
 |  1 | ATR_HITPOINTS_MAX | ATR_HITPOINTS_MAX  | ATR_HITPOINTS_MAX  |
 |  2 | ATR_MANA          | ATR_MANA           | ATR_MANA           |
 |  3 | ATR_MANA_MAX      | ATR_MANA_MAX       | ATR_MANA_MAX       |
@@ -263,7 +263,7 @@ When we blend out these attributes that were only handled as such for technical 
 |  5 | ATR_MADNESS_MAX	 | ATR_WILL_MAX       | ATR_DEXTERITY      |
 |  6 | ATR_STRENGTH      | ATR_STRENGTH       |--------------------+
 |  7 | ATR_CONSTITUTION	 | ATR_DEXTERITY      |
-|  7 | ATR_DEXTERITY	   |--------------------+
+|  7 | ATR_DEXTERITY	 |--------------------+
 |  8 | ATR_THIEVERY      |
 |  9 | ATR_SWORDSMANSHIP |
 | 10 | ATR_ARCANE        |
