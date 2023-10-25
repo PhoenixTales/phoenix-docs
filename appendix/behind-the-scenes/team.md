@@ -8,14 +8,14 @@
 -->
 
 
-![The Phoenix Tales Logo](/appendix/behind-the-scenes/team/logo2-ore.png)
+<!-- ![The Phoenix Tales Logo](/appendix/behind-the-scenes/team/logo2-ore.png) -->
 
 # Phoenix Tales: The Team behind PHOENIX
 
 > We're indie developers of  
 > immersive tales; we offer  
-> radical gameplay mechanics 
-> in handcrafted worlds with 
+> radical gameplay mechanics  
+> in handcrafted worlds with  
 > unique aesthetics, rising  
 > from the industrial ashes.
 
@@ -35,6 +35,7 @@ We would like to mention that at Phoenix Tales we would all describe ourselves, 
 Our core team currently consists of four people:   
 Arbax, Avallach, Auronen and me (flosha/Florian).
 
+---  
 
 ## PHOENIX NEST 
 // Inner Circle
@@ -68,7 +69,7 @@ Phoenix first and foremost. Obviously. I want to play it myself. STALKER: Oblivi
 
 My favourite games from the last couple of years... probably [Dusk](https://newblood.games/dusk) (for me the best shooter since.. I don't know, System Shock II?), [Fran Bow](https://killmondaygames.com/fran-bow/), [Hellblade](https://hellblade.com/), [Total Chaos](https://www.moddb.com/mods/total-chaos) (I don't like the gameplay that much, but I love the art), [Hrot](https://www.gog.com/game/hrot) and [Hollow Knight](https://www.gog.com/game/hollow_knight) (metroidvania at its finest and precise controls).
 
-The games I am waiting for right now are mostly Indie Games. The only exception would be [Alice 3](https://www.americanmcgee.com/) (update 2023: in the meantime it failed :`( ...) and [Hellblade II](https://ninjatheory.com/). Other than that I'm looking forward to [Gloomwood](https://www.youtube.com/watch?v=wGzx-sElP-I), [Derelikt](https://visuwyg.itch.io/derelikt) and [Compound Fracture](https://www.youtube.com/watch?v=7hdkmGLO0vQ).
+The games I am waiting for right now are mostly Indie Games. The only exception would be [Alice 3](https://www.americanmcgee.com/) (update 2023: in the meantime it failed :`() and [Hellblade II](https://ninjatheory.com/). Other than that I'm looking forward to [Gloomwood](https://www.youtube.com/watch?v=wGzx-sElP-I), [Derelikt](https://visuwyg.itch.io/derelikt) and [Compound Fracture](https://www.youtube.com/watch?v=7hdkmGLO0vQ).
     
 #### What is your favourite music?
 I would say, my favourites are: Have A Nice Life, Lost in Kiev, Being as an Ocean, Ólafur Arnalds, Электрофорез, Clint Mansell (The Fountain), Ghostly Kisses, She Wants Revenge, Tool, A Perfect Circle, Rage Against the Machine, Nine Inch Nails, Interpol, Nu-Metal stuff like Limp Bizkit and all kinds of music from the late 1990s and early 2000s.
@@ -79,6 +80,7 @@ Hard question. But what I would like to recommend to everyone are the Memoirs of
 #### What do you do other than that?
 Acrobatics and designing other things. Such as acrobatic sequences and acts, other websites, clothing and stuff, like the [fsocial](https://fosci.al/) project. But I do not find the time (or do not have the ressources) to work on all these ideas enough.
 
+---  
 
 ![Arbax](/appendix/behind-the-scenes/team/arbax-sm.png)
 
@@ -119,8 +121,9 @@ I am in no position to recommend any books but I'll leave some titles that I enj
 #### What do you do other than that?
 Other than writing things I like to paint, I like sculpting things from wood, I like to read and do sports.
 
+---  
 
-![Avallach](/appendix/behind-the-scenes/team/adam.jpg)
+<!--![Avallach](/appendix/behind-the-scenes/team/adam.jpg)-->
 
 ### Avallach (Adam)
 // Code Guru
@@ -155,6 +158,7 @@ Andrzej Sapkowski's books beyond The Witcher.
  #### What do you do other than that?
 I want to make a standalone game not based on Piranha Bytes engines.
 
+---  
 
 ![Auronen](/appendix/behind-the-scenes/team/auronen-sm.png)
 
@@ -204,7 +208,7 @@ The Beatles, Pink Floyd, Rammstein, Dire straits, Scorpions, Black Sabbath, ELO,
 #### What do you do other than that?
 Apart from working on Phoenix I work on other Gothic related things. I translate mods into the Czech language, I create features (Union and Ikarus + LeGo) and also work on other mods.
 
-
+---  
 
 ## PHOENIX TREE
 // Outer Circle
@@ -247,7 +251,6 @@ Apart from working on Phoenix I work on other Gothic related things. I translate
     
   -->
 
-
 ![David](/appendix/behind-the-scenes/team/link2.png)
 
 ### LongJohnson (David)
@@ -282,7 +285,7 @@ Other incredible IDM tracks are: [AFX - pretend analog extmix 2b,e2,ru](https://
 #### What do you do other than that?
 Regarding Gothic: I currently am working on a 2-player-splitscreen-coop-plugin for the Gothic 2 engine using Union which is already in a good playable state. Though I still have to test that out and improve it a lot before I can finally release it. In the last few years, I started composing electronic music, inspired by the musical artists I named above. I attempt to make every track as different as possible from the track I composed before but there's still a long hard road to go to improve and for me to be satisfied with it. :)
 
-
+---  
 
 ## Honorary Members
 
@@ -330,8 +333,9 @@ Frankly, I don't think I can recommend any books, given that I've read quite a f
 #### What do you do other than that?
 I do research on early versions of my favourite games and various cancelled prototypes. In addition to this, I sometimes like watching cut scenes/episodes from some interesting films... Honestly, I spend quite a bit of time on YouTube watching videos on this thematic. As for my hobbies outside of PC, I've done powerlifting and armwrestling in the past. I might go back to that again, just to keep my body in shape rather than chasing weights. If you ask me about collective sports - it is not really my thing, the only one thing I'm attracted to is football. I love to watch the Champions League and Europa League matches, especially in the early qualifying rounds where we can witness sensations sometimes. Always interesting.
 
+--- 
 
-![logx](team/logx-sm.png)
+<!--![logx](team/logx-sm.png)-->
 
 ### logx (Oliver)
 // Retired
@@ -368,6 +372,7 @@ Quite broad and always shifting. But a few I always find myself going back to ar
 #### What do you do other than that?
 Outside the virtual world, I love outdoor activities (hiking, swimming, archery) and spending time with the piano.
 
+---  
 
 ## The Phoenix Nest Allegory
 
@@ -377,12 +382,16 @@ As you see, the development of PHOENIX is not only driven by this small inner ci
  
 Thank you and to everyone who contributes to the archive, creates artworks inspired by our vision, translates our texts, moderates our channels, motivates our work and researches the material our dream is made of; and thank you to everyone who works for peace in these fucked up times of war.
         
-- Florian, July 2 2022  [last update: 09-10-2022]
+Florian, July 2 2022  [last update: 09-10-2022]
 
-* <a href="https://phoenixthegame.com">phoenixthegame.com</a></li>
-* <a href="https://gothicarchive.org">gothicarchive.org</a></li>
-* <a href="https://phoenixtales.de">phoenixtales.de</a></li>
+--- 
+
+* [phoenixthegame.com](https://phoenixthegame.com)
+* [gothicarchive.org](https://gothicarchive.org)
+* [phoenixtales.de](https://phoenixtales.de)
   
+--- 
+
 If you want to support me and Phoenix Tales, you can do so on [Ko-Fi](https://ko-fi.com/flosha).
 
 <!--   
