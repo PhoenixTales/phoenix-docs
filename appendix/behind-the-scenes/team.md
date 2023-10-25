@@ -1,3 +1,5 @@
+# Phoenix Tales: The Team behind PHOENIX
+
 <!-- 
 
     TODO:
@@ -10,7 +12,6 @@
 
 <!-- ![The Phoenix Tales Logo](/appendix/behind-the-scenes/team/logo2-ore.png) -->
 
-# Phoenix Tales: The Team behind PHOENIX
 
 > We're indie developers of  
 > immersive tales; we offer  
