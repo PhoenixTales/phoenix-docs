@@ -343,7 +343,7 @@ They are mere fragments. Phoenix is the mosaic.
 * In parts hand-written notes and hand-drawn ingame artworks.
 * New animation repertoire for new skills and crafts.
 * Diverse new books and other ingame writings.
-* Consequent development of the gothic/wabi-sabi artstyle; the colony and world beyond is more gloomy and mystic than ever before. 
+* Consequent development of the gothic/wabi-sabi artstyle; the colony and the outside world are gloomier than ever before. 
 * New vegetation that is linked with the story and gameplay.
 * Discarded skills from the Sequel: (Armor making, bow making, fletching, cooking, enhanced rune making, staff fighting) and new skills (acrobatics II & III, enhanced forging, shield fighting, scroll writing, ...).
 * New monsters (demonic variations from the Sequel, undead variations and a few completely new monsters).
@@ -375,9 +375,9 @@ They are mere fragments. Phoenix is the mosaic.
 -->
 
 
-## Which engine is PHOENIX based on?
+## Which engine is PHOENIX driven by?
 
-GOTHIC is driven by the ZenGin, which was developed by the Mad Scientists and comes with its own script language called Daedalus. PHOENIX is based on this old Gothic Engine with advanced functionality realised via [Union](https://worldofplayers.ru/threads/41415/). Thereby we influence the game logic more profoundly than it would be possible via Daedalus alone. We write diverse engine injections (in form of union plugins) to (re-)implement the special features of the Gothic Alpha and realise our own ideas for Phoenix. <!--All these plugins combined form the nyxCore.-->
+Gothic is driven by the ZenGin, which was developed by the Mad Scientists and comes with its own script language called Daedalus. Phoenix is based on this very engine with advanced functionality realised via [Union](https://worldofplayers.ru/threads/41415/), by which we can influence the game logic more profoundly than it would be possible via Daedalus alone. We write diverse engine injections (as union plugins) to (re-)implement the special features of the Gothic Alpha and realise our own ideas. <!--All these plugins combined form the nyxCore.-->
 
 
 ## Will there be voice acting?
