@@ -189,7 +189,7 @@ footer {
   font-family: "IBM VGA 8x16", monospace;
   font-size: 15px;
   text-transform: uppercase;
-  border-top: 2px solid var(--dark);
+  border-top: 5px solid var(--dark);
   width: 100%;
   padding: 1em 1em;
   display: flex;
@@ -265,7 +265,7 @@ footer {
 /* CODE BLOCKS */
 
 pre {
-  border: 1px solid var(--stone);
+  border: 5px solid var(--stone);
   padding: 1em;
   background: var(--dark);
   margin: 1.5em 0 2em;
@@ -303,7 +303,7 @@ table {
 }
 
 table, th, td {
-  border: 1px solid #4a4843;
+  border: 5px solid #4a4843;
   border-collapse: collapse;
 }
 
@@ -320,7 +320,7 @@ td {
 
 blockquote {
   font-size: 14px;
-  border-left: 5px solid var(--blood);
+  border-left: 10px solid var(--blood);
   padding-left: 1em;
   margin: 2em 0 3em;
 }
@@ -342,7 +342,7 @@ a:hover {
 
 hr {
   margin: 3em 0;
-  border: 1px solid var(--dark);
+  border: 3px solid var(--dark);
 }
 
 
@@ -396,7 +396,7 @@ hr {
 
 .subtext {
   font-size: 14px;
-  border: 1px solid var(--stone);
+  border: 5px solid var(--stone);
   background: var(--dark);
   padding: 1.5em;
   margin: 3em 0;
@@ -514,7 +514,7 @@ nav {
   overflow: hidden;
   z-index: 2;
 
-  border-right: 2px solid var(--dark);
+  border-right: 5px solid var(--dark);
 }
 
 
