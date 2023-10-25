@@ -342,11 +342,11 @@ Exception Templars:
 
 ### Phoenix HUDs
 
-The HUD will be optional and it will be possible to play without (see ["Beyond the HUD](#beyond-the-hudbeyond-the-hud) below). We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols by default in the exploration mode when not wounded.  
+The HUD will be optional and it will be possible to play without (see ["Beyond the HUD"](#beyond-the-hudbeyond-the-hud) below). We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols by default in the exploration mode when not wounded.  
 
 The following attributes or other values will be displayed on the screen:
 * Hitpoints (when injured, in Combat Mode or in the inventory)
-* Exhaustion/Oxygen (when sprinting or diving)
+* Endurance/Exhaustion/Oxygen (when sprinting or diving)
 * Mana (when in Magic Mode or in the inventory)
 * Psi (when in Psi Mode or in the inventory)
 * Madness (when having any amount of madness points)
@@ -497,12 +497,12 @@ There are the following categories of regeneration:
 * `REG_Life` (Hitpoints Recharge)
 * `REG_Energy` (Endurance Recharge)
 * `REG_Sanity` (Madness Reduction)
-
 * `REG_Mana` (Mana Regeneration for Mages)
 * `REG_Psi` (Psi Regeneration for Psionics)
 * `REG_Special` (Special Attacks for Warriors)
 * `REG_Focus` (Special Focus for Thieves)
 
+--- 
 
 And that's it. This is our solution, making for a coherent system, that is both simple and complex.  
 
