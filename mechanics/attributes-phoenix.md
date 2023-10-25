@@ -497,6 +497,7 @@ There are the following categories of regeneration:
 * `REG_Life` (Hitpoints Recharge)
 * `REG_Energy` (Endurance Recharge)
 * `REG_Sanity` (Madness Reduction)
+
 * `REG_Mana` (Mana Regeneration for Mages)
 * `REG_Psi` (Psi Regeneration for Psionics)
 * `REG_Special` (Special Attacks for Warriors)
