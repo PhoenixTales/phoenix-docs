@@ -20,7 +20,7 @@
 > unique aesthetics, rising  
 > from the industrial ashes.
 
-PhoenixTales was founded in 2017 by me and logx as an independent team of developers around the creation of PHOENIX. In "[Making of Phoenix Tales](https://docs.phoenixthegame.com/Appendix/behind-the-scenes/logo)", I have described how I designed the bird and the logo, which represent our team.  
+PhoenixTales was founded in 2017 by me and logx as an independent team of developers around the creation of PHOENIX. In "[Making of Phoenix Tales](https://docs.phoenixthegame.com/appendix/behind-the-scenes/logo)", I have described how I designed the bird and the logo, which represent our team.  
 In this one I want to give you some insight into our organisation, how it functions, what we do and who we are.
 
 Since we work from home with everyone of us being in a different country, we organise our work via chats and meetings, currently on a private Discord Server. While we would prefer a free and open source alternative, we are using it for convenience purposes and because of how strongly our internal work is associated with the community and the public research on our official Phoenix Server. We can't deny that Discord provides a very useful and convenient platform for gaming communities and we use it for this purpose, but we have to strongly advise against using it for any kind of private communication.
