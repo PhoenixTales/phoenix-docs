@@ -270,7 +270,7 @@ footer {
 /* CODE BLOCKS */
 
 pre {
-  border: 5px solid var(--stone);
+  border: 2px solid var(--stone);
   padding: 1em;
   background: var(--dark);
   margin: 1.5em 0 2em;
@@ -308,7 +308,7 @@ table {
 }
 
 table, th, td {
-  border: 5px solid #4a4843;
+  border: 2px solid #4a4843;
   border-collapse: collapse;
 }
 
@@ -401,7 +401,7 @@ hr {
 
 .subtext {
   font-size: 14px;
-  border: 5px solid var(--stone);
+  border: 2px solid var(--stone);
   background: var(--dark);
   padding: 1.5em;
   margin: 3em 0;

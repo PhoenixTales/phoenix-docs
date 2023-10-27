@@ -20,7 +20,7 @@
 > unique aesthetics, rising  
 > from the industrial ashes.
 
-PhoenixTales was founded in 2017 by me and logx as an independent team of developers around the creation of PHOENIX. In "[Making of Phoenix Tales](https://docs.phoenixthegame.com/Appendix/behind-the-scenes/logo)", I have described how I designed the bird and the logo, which represent our team.  
+PhoenixTales was founded in 2017 by me and logx as an independent team of developers around the creation of PHOENIX. In "[Making of Phoenix Tales](https://docs.phoenixthegame.com/appendix/behind-the-scenes/logo)", I have described how I designed the bird and the logo, which represent our team.  
 In this one I want to give you some insight into our organisation, how it functions, what we do and who we are.
 
 Since we work from home with everyone of us being in a different country, we organise our work via chats and meetings, currently on a private Discord Server. While we would prefer a free and open source alternative, we are using it for convenience purposes and because of how strongly our internal work is associated with the community and the public research on our official Phoenix Server. We can't deny that Discord provides a very useful and convenient platform for gaming communities and we use it for this purpose, but we have to strongly advise against using it for any kind of private communication.
@@ -60,7 +60,7 @@ I love the vision of Gothic as it was announced by far more than what it turned 
 I lead the project. I'm something like the creative director and I'm responsible for all the design decisions, for the majority of the story and the world design. I do the 3D modeling, spacering, mapping, basic 2D art, some animations and the majority of the scripting (npcs, monsters, routines, dialogues). I created all our logos and designed all our websites ([phoenixtales.de](https://phoenixtales.de), [gothicarchive.org](https://gothicarchive.org) and [phoenixthegame.com](https://phoenixthegame.com)). And I am main responsible for the design documentation and for designing all the gameplay mechanics that the programmers bring to life in code.
 
 #### Which programmes do you use for your tasks?
-I am using Blender for 3D Modeling, Mapping and Animations. The Spacer (Gothic's World Editor) to work on the world. Discord for brainstormin; Obsidian for writing our actual documentation, GIMP for 2D, VSCodium for Scripting and Webdesign. I'm usually parallel on Windows and Arch or Void Linux with dwm. If we're able to overcome some still present limitations and have written a simple guide to set it up, I would be happy to switch to Linux completely.
+I am using Blender for 3D Modeling, Mapping and Animations. The Spacer (Gothic's World Editor) to work on the world. Discord for brainstorming; Obsidian for writing our actual documentation, GIMP for 2D, VSCodium for Scripting and Webdesign. I'm usually parallel on Windows and Arch or Void Linux with dwm. If we're able to overcome some still present limitations and have written a simple guide to set it up, I would be happy to switch to Linux completely.
 
 #### What are your favourite camps and guilds in Gothic/Phoenix?
 In Orpheus (our Alpha reconstruction) I symphatise with the New Camp and prefer the water mages. But I still may join the Old Camp or Psi Camp most of the time, because I like the thief and psionic gameplay and progression and atmosphere the most. In Nemesis (our Sequel continuation), my favourite camp is the refugee camp. My favourite guild(s) are the beggars and mystics I think (they're related).
