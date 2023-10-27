@@ -156,7 +156,7 @@ Nightwish, Jim Steinman, The Pretty Reckless, Kalafina, KaiRo...
 #### Any books you would like to recommend?
 Andrzej Sapkowski's books beyond The Witcher. 
      
- #### What do you do other than that?
+#### What do you do other than that?
 I want to make a standalone game not based on Piranha Bytes engines.
 
 ---  
