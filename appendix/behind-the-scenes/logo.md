@@ -119,7 +119,7 @@ As you see, the making of the logo went a long way in the development of our sty
 
 <img src="logo/phoenixtales3.png" alt="current phoenix tales logo">
 
-Update: At the 15th anniversary of STALKER I came up with a new STALKER variant of our phoenix, which the Phoenix ASCII art</a> on our team page is based on (see [phoenixtales.de](https://phoenixtales.de)):  
+Update: At the 15th anniversary of STALKER I came up with a new STALKER variant of our phoenix, which the Phoenix ASCII art on our team page is based on (see [phoenixtales.de](https://phoenixtales.de)):  
 
 <img src="logo/phnx-stalker.png" alt="Phoenix Stalker Variant by flosha">
 
