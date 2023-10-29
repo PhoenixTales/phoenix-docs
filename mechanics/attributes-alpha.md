@@ -389,3 +389,7 @@ It was not implemented in the end, be it by lack of time or by deliberate decisi
         <strong>Rewritten:</strong> 03.11.22 - 04.12.22  
     </p>
 </div>
+
+## Read next 
+
+* [Phoenix Attributes](/mechanics/phoenix-attributes)
