@@ -285,10 +285,10 @@ The Status Attributes in Phoenix with our before mentioned necessary additions w
 | Hp  | Hitpoints |  5-30 | 15-45 |  ≤100 |
 | Str | Strength  |  1-15 | 10-30 |  1-50 |
 | Dex | Dexterity |  1-15 |  1-10 |  1-10 |
-| Wil | Willpower |  0-15 | 10-25 |   ≤50 |
-| Mad | Madness   |  0-15 |  0-25 |   ≤50 |
+| Wil | Willpower |  1-15 | 10-25 |   ≤50 |
+| Mad | Madness   |  0-30 |  0-40 |   ≤50 |
 | Man | Mana      |  0-30 |     0 |     0 |
-| Psi | Psi       |  0-30 |  0-40 |  ≤100 |
+| Psi | Psi       |  0-30 |  0-50 |  ≤100 |
 +-----------------------------------------+
 ```
 
@@ -517,6 +517,6 @@ And that's it. This is our solution, making for a coherent system, that is both 
         <br>
         <strong>Written:</strong> 30.12.18 - 27.12.20<br>  
         <strong>Rewritten:</strong> 03.11.22 - 04.12.22<br>  
-        <strong>Changed:</strong> 27.05.2023
+        <strong>Last change:</strong> 29.10.2023
     </p>
 </div>
