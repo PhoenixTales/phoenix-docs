@@ -249,7 +249,7 @@ In the `text.d` of v0.56c there is another case like that in form of "*Tarnung*"
 <p class="subtext">In 0.56c-0.64b the maximum attribute index was 18.<br> 
 In 0.94k it was 10. In 1.00b onwards it was 8.</p>
 
-When we blend out these attributes that were only handled as such for technical reasons (usually just tempory), we end up with the following comparison of attribute constants throughout the available builds, as they were continueously reduced:  
+When we blend out these attributes that were only handled as such for technical reasons (usually just temporary), we end up with the following comparison of attribute constants throughout the available builds, as they were continueously reduced:  
 
 ```
 +----+-------------------+--------------------+--------------------+
