@@ -424,9 +424,9 @@ hr {
 .demonic { color: var(--demonic); }
 
 /* for comments with "//" */
-.first-comment  { var(--copper); }
-.second-comment { var(--ore); }
-.third-comment  { var(--demonic); }
+.first-comment  { color: var(--copper); }
+.second-comment { color: var(--ore); }
+.third-comment  { color: var(--demonic); }
 
 /* for big introductory quotes */
 .intro-quote {
