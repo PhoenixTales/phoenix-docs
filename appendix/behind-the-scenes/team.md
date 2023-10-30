@@ -19,6 +19,7 @@
 > in handcrafted worlds with  
 > unique aesthetics, rising  
 > from the industrial ashes.
+{: .intro-quote}
 
 PhoenixTales was founded in 2017 by me and logx as an independent team of developers around the creation of PHOENIX. In "[Making of Phoenix Tales](https://docs.phoenixthegame.com/appendix/behind-the-scenes/logo)", I have described how I designed the bird and the logo, which represent our team.  
 In this one I want to give you some insight into our organisation, how it functions, what we do and who we are.
@@ -39,14 +40,17 @@ Arbax, Avallach, Auronen and me (flosha/Florian).
 ---  
 
 ## PHOENIX NEST 
-// Inner Circle
+
+// Inner Circle {: .first-comment }
+
 
 ![Flosha](/appendix/behind-the-scenes/team/flosha-sm.png)
 
 ### Flosha (Florian)
-// Project Leader  
-// Creative Director
-     
+
+// Project Leader {: .second-comment }
+// Creative Director {: .third-comment }
+
 #### Who are you?
 I am an acrobat from Germany with a focus on Hand to Hand.
 
@@ -86,7 +90,8 @@ Acrobatics and designing other things. Such as acrobatic sequences and acts, oth
 ![Arbax](/appendix/behind-the-scenes/team/arbax-sm.png)
 
 ### Arbax (Dortman) 
-// Story Assistant
+
+// Story Assistant {: .second-comment }
 
 #### Who are you?
 A Romanian writer with a passion  
@@ -127,7 +132,8 @@ Other than writing things I like to paint, I like sculpting things from wood, I 
 <!--![Avallach](/appendix/behind-the-scenes/team/adam.jpg)-->
 
 ### Avallach (Adam)
-// Code Guru
+
+// Code Guru {: .second-comment }
     
 #### Who are you?
 I'm a software developer living in Amsterdam, Netherlands.
@@ -164,7 +170,8 @@ I want to make a standalone game not based on Piranha Bytes engines.
 ![Auronen](/appendix/behind-the-scenes/team/auronen-sm.png)
 
 ### Auronen (Jan)
-// Lead Programmer
+
+// Lead Programmer {: .second-comment }
 
 #### Who are you?
 I am from the Czech Republic, currently (still) a student. I like cycling, walking, swimming and of course programming. I also like woodworking and metalworking. There is something special about creating things be it physical or abstract.
@@ -212,7 +219,8 @@ Apart from working on Phoenix I work on other Gothic related things. I translate
 ---  
 
 ## PHOENIX TREE
-// Outer Circle
+
+// Outer Circle {: .first-comment }
 
 <!--
     <h2>
@@ -255,7 +263,8 @@ Apart from working on Phoenix I work on other Gothic related things. I translate
 ![David](/appendix/behind-the-scenes/team/link2.png)
 
 ### LongJohnson (David)
-// Animator
+
+// Animator {: .second-comment }
 
 #### Who are you?
 I'm a future computer science student who's interested in creating video games and modifications.
@@ -293,7 +302,8 @@ Regarding Gothic: I currently am working on a 2-player-splitscreen-coop-plugin f
 ![Dmitriy](/appendix/behind-the-scenes/team/phantom.jpg)
 
 ### Phantom95 (Dmitriy)
-// Alpha Researcher
+
+// Alpha Researcher {: .second-comment }
     
 #### Who are you?
 A former athlete from Russia, now passionate about the history of the development of his favourites works. Most of all I enjoy films, stories and of course games of low/dark fantasy, fiction and horror genres. Speaking of games in particular, the ones I prefer the most are those that fit the definition of «immersive-sim». Such games are not only fun to play, but also to explore in various early versions, as they are usually just overflowing with all sorts of cool ideas at various stages of development.
@@ -339,7 +349,8 @@ I do research on early versions of my favourite games and various cancelled prot
 <!--![logx](team/logx-sm.png)-->
 
 ### logx (Oliver)
-// Retired
+
+// Retired  {: .third-comment }
 
 #### Who are you?
 AI researcher,  
