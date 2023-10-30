@@ -41,15 +41,18 @@ Arbax, Avallach, Auronen and me (flosha/Florian).
 
 ## PHOENIX NEST 
 
-// Inner Circle {: .first-comment }
+// Inner Circle 
+{: .first-comment }
 
 
 ![Flosha](/appendix/behind-the-scenes/team/flosha-sm.png)
 
 ### Flosha (Florian)
 
-// Project Leader {: .second-comment }
-// Creative Director {: .third-comment }
+// Project Leader 
+{: .second-comment }
+// Creative Director
+{: .third-comment }
 
 #### Who are you?
 I am an acrobat from Germany with a focus on Hand to Hand.
@@ -91,7 +94,8 @@ Acrobatics and designing other things. Such as acrobatic sequences and acts, oth
 
 ### Arbax (Dortman) 
 
-// Story Assistant {: .second-comment }
+// Story Assistant 
+{: .second-comment }
 
 #### Who are you?
 A Romanian writer with a passion  
@@ -133,7 +137,8 @@ Other than writing things I like to paint, I like sculpting things from wood, I 
 
 ### Avallach (Adam)
 
-// Code Guru {: .second-comment }
+// Code Guru 
+{: .second-comment }
     
 #### Who are you?
 I'm a software developer living in Amsterdam, Netherlands.
@@ -171,7 +176,8 @@ I want to make a standalone game not based on Piranha Bytes engines.
 
 ### Auronen (Jan)
 
-// Lead Programmer {: .second-comment }
+// Lead Programmer 
+{: .second-comment }
 
 #### Who are you?
 I am from the Czech Republic, currently (still) a student. I like cycling, walking, swimming and of course programming. I also like woodworking and metalworking. There is something special about creating things be it physical or abstract.
@@ -220,7 +226,8 @@ Apart from working on Phoenix I work on other Gothic related things. I translate
 
 ## PHOENIX TREE
 
-// Outer Circle {: .first-comment }
+// Outer Circle 
+{: .first-comment }
 
 <!--
     <h2>
@@ -264,7 +271,8 @@ Apart from working on Phoenix I work on other Gothic related things. I translate
 
 ### LongJohnson (David)
 
-// Animator {: .second-comment }
+// Animator 
+{: .second-comment }
 
 #### Who are you?
 I'm a future computer science student who's interested in creating video games and modifications.
@@ -303,7 +311,8 @@ Regarding Gothic: I currently am working on a 2-player-splitscreen-coop-plugin f
 
 ### Phantom95 (Dmitriy)
 
-// Alpha Researcher {: .second-comment }
+// Alpha Researcher 
+{: .second-comment }
     
 #### Who are you?
 A former athlete from Russia, now passionate about the history of the development of his favourites works. Most of all I enjoy films, stories and of course games of low/dark fantasy, fiction and horror genres. Speaking of games in particular, the ones I prefer the most are those that fit the definition of «immersive-sim». Such games are not only fun to play, but also to explore in various early versions, as they are usually just overflowing with all sorts of cool ideas at various stages of development.
@@ -350,7 +359,8 @@ I do research on early versions of my favourite games and various cancelled prot
 
 ### logx (Oliver)
 
-// Retired  {: .third-comment }
+// Retired  
+{: .third-comment }
 
 #### Who are you?
 AI researcher,  
