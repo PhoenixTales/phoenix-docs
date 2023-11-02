@@ -83,7 +83,7 @@ If both the endurance and the hitpoints are exhausted to some degree, the hitpoi
 
 #### Dexterity, Hitchance & Risk
 
-Dexterity, in opposition to strength, is not a primary attribute (as seen by its absence in the attribute levels in clear text form). It is a secondary attribute that is scaled by thievery and serves the purpose of being displayed as DEX symbols in the Icon HUD. Other than that it influences the "hit chance" in ranged combat and the "risk of failure" in stealth. 
+Dexterity, in opposition to strength, is not a primary attribute (as seen by its absence in the attribute levels in clear text form). It is a secondary attribute that is scaled by thievery and serves the purpose of being displayed as DEX symbols in the Icon HUD. Other than that it influences the "hit chance" in ranged combat, when in third-person mode (with auto aim) and perhaps the "risk of failure" in stealth. In first person mode, where there is no auto aim, it does not influence hit chance, but the steadiness of focus if you aim and try to hold still. How exactly stealth will be influenced is not yet fully clear, as it depends on how the thief skills will work (e.g. how the lockpicking mechanics will be implemented, which is still work in progress and has yet to be clarified). 
 
 * `ATR_Dexterity`
 
