@@ -431,7 +431,8 @@ According to this definition the arts cannot be considered as attributes, since 
 * `ATR_Constitution` (+ `ATR_Endurance`) = Physical Condition
 * `ATR_Will` (+ `ATR_Madness`) = Mental Power & Condition
 
-<!--
+Another, similarly simple scheme would be the following: 
+
 ```
 `ATR_CONSTITUTION` = Physical Condition
 `ATR_STRENGTH`     = Physical Strength
@@ -441,9 +442,8 @@ According to this definition the arts cannot be considered as attributes, since 
 `ATR_WILL`         = Mental Strength
 `ATR_PSI`          = Mental Control
 ```
--->
 
-<!--Psi fits into the scheme as mental control; but as almost no one has control over his mind it is not actually to be seen as a general attribute (but as a potential one); everyone has some degree of control over his body, but regarding the mind, most characters in the game (like in reality) are not in control and experience their mind primarily as a sheer force of wanting or mentally resisting, they can't stop the stream of thought (and this will play a role again in the second act of Phoenix, when the sect is destroyed, but the "psionic" art lives on).-->    
+Psi would fit into the scheme as mental control; but as almost no one has real control over his mind it is not actually to be seen as a general attribute (more as a potential one); everyone has some degree of control over his body, but regarding the mind most characters in the game (like in reality) are not in control and experience their mind primarily as a sheer force of wanting or mentally resisting; they can't stop the stream of thought. And actually this will play a role again in the second act of Phoenix, where the psionic sect has collapsed, but the psionic *art* lives on.    
 
 Thus, the rest is either a mere representation of these for the player in form of the HUD or it has to belong to the specific experience in the Arts or "Gifts". And while the four arts described above are class-specific, we have added additional class-crossing ones, where Logx is to credit for the idea of *Metallurgy* and *Huntsmanship* here:  
 
