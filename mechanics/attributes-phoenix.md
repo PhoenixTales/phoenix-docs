@@ -428,8 +428,8 @@ In the process of structuring these mixed attributes and my attempts to organise
 According to this definition the arts cannot be considered as attributes, since they are no characteristics common to all characters nor are they natural or inborn. The ones that would fit that description are only the following ones, which I structure in a simple scheme:  
 
 * `ATR_Strength` (+ `ATR_Hitpoints`) = Physical Power
-* `ATR_Constitution` (+ `ATR_Endurance` = Physical Condition)
-* `ATR_Will` (+ `ATR_Madness` = Mental Power & Condition)
+* `ATR_Constitution` (+ `ATR_Endurance`) = Physical Condition
+* `ATR_Will` (+ `ATR_Madness`) = Mental Power & Condition
 
 <!--
 ```
