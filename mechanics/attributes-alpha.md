@@ -392,4 +392,4 @@ It was not implemented in the end, be it by lack of time or by deliberate decisi
 
 ## Read next 
 
-* [Phoenix Attributes](/mechanics/phoenix-attributes)
+* [Phoenix Attributes](/mechanics/attributes-phoenix)
