@@ -342,7 +342,7 @@ Exception Templars:
 
 ### Phoenix HUDs
 
-The HUD will be optional and it will be possible to play without (see ["Beyond the HUD"](#beyond-the-hudbeyond-the-hud) below). We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols by default in the exploration mode when not wounded.  
+The HUD will be optional and it will be possible to play without (see ["Beyond the HUD"](#beyond-the-hud) below). We will provide both the symbol HUD and the v0.8 bar HUD as options in the menu. We use improved versions of both of them and you can toggle them on or off. We hide the HP Bar/Symbols by default in the exploration mode when not wounded.  
 
 The following attributes or other values will be displayed on the screen:
 * Hitpoints (when injured, in Combat Mode or in the inventory)
@@ -402,7 +402,7 @@ And just as I am not demanding for the government to just be taken down, but for
 
 This said, we do not strive to get rid of the HUD altogether, but we want it to be optional and for the game to be fully functional (= playeable) without it. 
 
-The HP reduction will be visualised by enhancing the idea experimented with in v0.64b as described in ["Overcoming the Hud"](#overcoming-the-hud). Before seeking refuge in pfx effects we have to consider equivalent solutions of animations for the discharge and exhaustion of Mana and Psi. Their visualisation has to be strongly correlated with how these attributes function.  
+The HP reduction will be visualised by enhancing the idea experimented with in v0.64b as described in ["Overcoming the Hud"](/mechanics/attributes-alpha#overcoming-the-hud). Before seeking refuge in pfx effects we have to consider equivalent solutions of animations for the discharge and exhaustion of Mana and Psi. Their visualisation has to be strongly correlated with how these attributes function.  
 
 Just as there is an overlay when the character is injured - has less than X HP -, there will be an overlay when the character has less than X Psi- or Mana points. When the psionic reaches the end of his Psi treshold, the demonic force begins to pressure him and he gets headaches; at this point he will walk around with his hand on his head, turning and shaking his head while standing, not being able to run, signifying to the player that his character is on the edge and madness is nigh. This will be accompanied by a progressively increasing droning sound effect and a mild visual effect.  
 
