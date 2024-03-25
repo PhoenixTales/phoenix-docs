@@ -7,7 +7,7 @@
 At first we'll analyse the attributes as imagined in the concept phase by analysing all the available design documents. Then we look at the attributes as they were implemented in the actual builds of the game and how they changed in course of development. 
 
 
-## Content
+**Content:**
 
 1. [Primary & Secondary Attributes](#primary--secondary-attributes)
 2. [Attribute Progression](#attribute-progression)
