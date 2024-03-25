@@ -1,11 +1,32 @@
 # Phoenix FAQ
 
+**Author:** Flosha
 
-```
-Author: Flosha
-Created: 25.10.2023
-Changed: 25.10.2023
-```
+**Content:**
+
+1. [Who were the Mad Scientists?](#who-were-the-mad-scientists)
+2. [Who was Piranha Bytes?](#who-was-piranha-bytes)
+3. [Who is Phoenix Tales?](#who-is-phoenix-tales)
+4. [What is GOTHIC?](#what-is-gothic)
+5. [What is the Gothic Sequel?](#what-is-the-gothic-sequel)
+6. [What is PHOENIX?](#what-is-phoenix)
+    1. [What is Orpheus (Act I)?](#what-is-orpheus-act-I)
+    2. [What is Nemesis (Act II)?](#what-is-nemesis-act-II)
+    3. [What about the official successors?](#what-about-the-official-successors)
+7. [What is GOTHIC/PHOENIX Canon?](#what-is-gothic-phoenix-canon)
+8. [Legal Issues](#legal-issues)
+9. [Why is X different than in Demo Y?](#why-is-x-different-than-in-demo-y)
+10. [What are the features of PHOENIX?](#what-are-the-features-of-phoenix)
+    1. [Orpheus](#orpheus)
+    2. [Nemesis](#nemesis)
+11. [Which engine is PHOENIX driven by?](#which-engine-is-phoenix-driven-by)
+12. [Will there be voice acting?](#will-there-be-voice-acting)
+13. [Is there new music?](#is-there-new-music)
+14. [Is Phoenix a modification?](#is-phoenix-a-modification)
+15. [System requirements](#system-requirements)
+16. [Release date?](#release-date)
+17. [How to support? ](#how-to-support)
+
 
 ## Who were the Mad Scientists?
 
@@ -408,6 +429,18 @@ When it's done. Currently we are still working on the first act (Orpheus). Since
 ## How to support? 
 
 When you want to contribute, reach out to us on [Discord](https://discord.gg/CK4VAR7fpH). Apart from that you can donate. Donations help us to cover the costs of websites, the Gothic Archive, backups, equipment, rent and food. Small, but regular donations help us most and enable us to spend more time with development. You can support [Flosha on Ko-Fi](https://ko-fi.com/flosha). 
+
+
+<div class="authorship">
+    <img src="/_img/authors/flosha-sm.png" alt="Flosha">
+    <p>
+        <strong>Author:</strong> Flosha<br>  
+        <em>Creative Director</em><br>  
+        <br>
+        <strong>Written:</strong> 25.10.2023<br>  
+        <strong>Changed:</strong> 25.10.2023
+    </p>
+</div>
 
 <!--
   <details>
