@@ -1,0 +1,5 @@
+
+Quote from Hermes Trismegistus:
+
+And Isis answer made: Of living things, my son, some are made friends with fire, and some with water, some with air, and some with earth, and some with two or three of these, and some with all. And, on the contrary, again some are made enemies of fire, and some of water, some of earth, and some of air, and some of two of them, and some of three, and some of all. For instance, son, the locust and all flies flee fire; the eagle and the hawk and all high-flying birds flee water; fish, air and earth; the snake avoids the open air. Whereas snakes and all creeping things love earth; all swimming things love water; winged things, air, of which they are the citizens; while those that fly still higher love the fire and have the habitat near it. Not that some of the animals as well do not love fire; for instance salamanders, for they even have their homes in it. It is because one or another of the elements doth form their bodies’ outer envelope. Each soul, accordingly, while it is in its body is weighted and constricted by these four.
+- Hermes Trismegistus in Kore Kosmou

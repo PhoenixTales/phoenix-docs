@@ -36,12 +36,12 @@ What was there from the very first concept:
 * The surface is unsafe and the orcs "use" the marketplace (exchange place) for some reason.
 * Open fights between the camps; the relationships go down resulting in chaos and overarching mutual killing sprees, secretly driven by the progressively more intense psi waves of the Sleeper that drives the whole colony insane (later "Nemesis" event).
 * In some way the player enters the temple and tries to reach the deepest levels.
-* There is a hood of a high priest (undefined whether orcish or human, bust most likely orcish) to protect from the wrath of the Sleeper, which would be given as a reward (undefined by whom, but most likely by the priest himself).
+* There is a hood of a high priest (undefined whether orcish or human, but most likely orcish) to protect from the wrath of the Sleeper, which would be given as a reward (undefined by whom, but most likely by the priest himself).
 * But an Undead Dragon blocks the way in a defile on the path to the Sleeper. 
 * Thus a weapon has to be found that enables to destroy the Undead.
 * The player acquires the weapon from the vision in the paladin's cave in the temple, kills the dragon and somehow banishes the Sleeper.
 
-This was all part of the earliest iteration of the story. What was not yet included at this point or at least not yet mentioned in the documents available to us are the Minecrawler Queen (MCQ); the specifics of the player's involvement in the plans of the Brotherhood and their internal struggle for power; the specifics of the player's involvement in the plan of the Watermages; the specifics of the involvement with the Demon Evocator and his role (it is also not clear if at this point he was supposed to be part of the battlemages as in a later iteration or if he was living in his demontower right from the start of the game, which is more likely); the specifics of how the player would get into the Orc Caves and the temple and what he would do there; and diverse connections of these different threads. While the most important story arcs were defined, it was not yet sure what would lead to what and for which reason. Chapters were not yet introduced. 
+This was all part of the earliest iteration of the story. What was not yet included at this point or at least not yet mentioned in the documents available to us are the Minecrawler Queen (MCQ); the specifics of the player's involvement in the plans of the Sect and their internal struggle for power; the specifics of the player's involvement in the plan of the Watermages; the specifics of the involvement with the Demon Evocator and his role (it is also not clear if at this point he was supposed to be part of the battlemages as in a later iteration or if he was living in his demontower right from the start of the game, which is more likely); the specifics of how the player would get into the Orc Caves and the temple and what he would do there; and diverse connections of these different threads. While the most important story arcs were defined, it was not yet sure what would lead to what and for which reason. Chapters were not yet introduced. 
 
 
 ## Phoenix (1997-1999)
@@ -80,3 +80,41 @@ The "Main Mission" document was apparently created at July 17th in 2000 and last
 13.07.1999_ga-rpg.com.txt
 
 
+
+
+TODO:
+* Add Psychic Barrier
+* Add the Four Crystals of Trazere pictures and intro text.
+
+
+
+
+**You are thrown in the prison**
+
+The kingdom of Martiana is at war with the northern hordes.
+
+In these times, criminals are thrown in the prison mine colony to provide the royal army with its most urgent need: iron ore.
+
+There are no guards in the prison. The convicts run the mines by themselves. The precious ore is delivered to the outside world in exchange for food, medicine and some small luxuries.
+
+But only the mightiest among the prisoners have the privilege to distirbute these goods among the others, while the weak ones are driven in the mines to get their little share.
+
+The guards were no longer needed - no sane being can escape the prison, because the King's master mages put a psychic barrier around the prison colony to prevent every sane being from escape.
+
+They'd better not.
+
+Something has intervened with the fragile web of magic. 
+
+Something that lies below the prison.
+
+Below the mines.
+
+Even below the natural caves.
+
+In an unknown ancient temple, unchanged for 1000 years.
+
+Something yet sleeping soon will awaken.
+
+And an evil grin, unseen by living eyes, shows the knowledge that its human pray on the surface won't escape.
+
+---

@@ -17,14 +17,14 @@ One of the earliest summaries of the levels of the game world were written on an
 [OW]
 ```
 
-We can summarise this list as follows:
-The first line lists the four camps at the *overworld*.
-The second and third line summarise the *underworld*;
-where the second are the underground mines and caves,
-while the third are the parts of the underworld, where
-reality begins to be diffused with the *otherworld*. 
-The fourth is the *overworld* surrounding the camps.
-Beyond it all, not mentioned here, the *outside world*. 
+We can summarise this list as follows:  
+The first line lists the four camps at the *overworld*.  
+The second and third line summarise the *underworld*;  
+where the second are the underground mines and caves,  
+while the third are the parts of the underworld, where  
+reality begins to be diffused with the *otherworld*.   
+The fourth is the *overworld* surrounding the camps.  
+Beyond it all, not mentioned here, the *outside world*.   
 
 The shortcuts mean and translate as follows:
 
@@ -162,7 +162,7 @@ The Old Camp was always positioned right in the centre of the game world (point 
 
 ### The Exchange Place and the Cliff of the Damned
 
-What was also clear from the start, was that the Exchange Place, originally called Marketplace, was imagined to be directly in the north. But while on the very first map sketch by Mike, titled "Orpheus Overview", the cliff was directly in the north of the marketplace, with a lake below the cliff, this has been changed in Mikes much more elaborated "Orpheus Overview Map V1". While the marketplace stayed in the very north, the "Cliff of the Damned", as it was called, was not directly north of the marketplace anymore, but east of it. And the water into which the player was supposed to fall from the cliff, which has been drawn as a lake before, was now directly connected with the ocean; it was still between the marketplace and the cliff, but now, like the cliff itself, it was east of the marketplace. The player was not supposed to swim towards the marketplace, but towards the so called northern forest, from which a way would lead him to the abandoned mine south of the marketplace. Alex Wittmanns Story "Sleeper's Ban" was written with this map layout in mind. And also the Gothic Comic suggests being made in accordance with this idea. 
+What was also clear from the start, was that the Exchange Place, originally called Marketplace, was imagined to be directly in the north. But while on the very first map sketch by Mike, titled "Orpheus Overview", the cliff was directly in the north of the marketplace, with a lake below the cliff, this has been changed in Mikes much more elaborated "Orpheus Overview Map V1". While the marketplace stayed in the very north, the "Cliff of the Damned", as it was called, was not directly north of the marketplace anymore, but east of it. And the water into which the player was supposed to fall from the cliff, which has been drawn as a lake before, was now directly connected with the ocean; it was still between the marketplace and the cliff, but now, like the cliff itself, it was east of the marketplace. The player was not supposed to swim towards the marketplace, but towards the so called northern forest, from which a way would lead him to the abandoned mine south of the marketplace. Alex Wittmanns Story "Sleeper's Ban" was written with this map layout in mind. The Gothic Comic also suggests being made in accordance with this idea. 
 
 [Include image section of the place from the map]
 
