@@ -41,7 +41,7 @@
 	8. Events
 	9. AI Functions
 4. Story
-	1. [Setting](/story/setting.md)
+	1. [Setting](/story/setting)
 		1. Mythology
 		2. Geography
 		3. Culture
