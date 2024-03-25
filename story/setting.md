@@ -36,7 +36,7 @@ In "Decline of the Setting" we will deal with how many of the described aspects 
 
 ## Evolution of the Setting
 
-The initial idea for Gothic was the combination of two elements: ideas of the film *Escape from New York* combined with dark fantasy, more precisely: ["gothic fantasy"](#gothicdefined). This is how Gothic was born and Orpheus was its first working title.
+The initial idea for Gothic was the combination of two elements: ideas of the film *Escape from New York* combined with dark fantasy, more precisely: ["gothic fantasy"](/vision/gothic-defined). This is how Gothic was born and Orpheus was its first working title.
 
 
 ### Orpheus Concept (1995-1997)
@@ -58,11 +58,11 @@ In the end of 1996 and the beginning of 1997 the Orpheus setting was roughly out
 This is the situation with which the player would be confronted. Mike wanted to show these things in the intro, that was supposed to introduce the setting, beginning with the prison colony itself over the revolt to the founding of the three camps. The escape plans did exist already, but they were not supposed to be shown as the player should find out about them ingame. The world corresponding to this earliest description of the setting can be roughly outlined as follows, all based on Mikes notes and sketches:
 
 0. Outside World
-1. Midcity Core (original Castle of the Wardens)
-   1.1 Old Warden's house (relatively pretentious)
+1. Midcity Core (original Castle of the Wardens)  
+   1. Old Warden's house (relatively pretentious)  
 2. Midcity Outskirts (Fort)
-3. Old Diggers Fort
-   3.1 Underground Diggers HQ
+3. Old Diggers Fort  
+   1. Underground Diggers HQ  
 4. Free Diggers Fort
 5. Gladiators Camp
 6. Psi Temple (Fort)
