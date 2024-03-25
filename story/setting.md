@@ -80,7 +80,6 @@ Below is the earliest map sketch, corresponding to this concept of the world:
 In the middle of the colony was supposed to be "Midstadt" (Midcity), the "liberal camp", as it was called because it was here that the convicts liberated themselves and initiated the revolt; establishing a new rule in the former prison castle and building the "outskirts" (the later outer ring of the camp). A short-lived difference was the mages being situated outside of the camp at a location of their own (the stonehenge and the mages meeting place in the forest may be what was left of it in later versions). But very soon they were put inside of the camp. The battle mages were placed inside the Midcity Core, the healing mages inside the New Camp (Gladiators Camp) and the Halforcs were transferred from the forest to the Free Camp, where they apparently were supposed to live in peace with the free diggers. 
 
 ![Midcity Core Sketch](/_img/story/evolution-of-the-setting/midcity2.jpg)
-[include B-scribbles page 12 (midcity core with mages inside)]
 
 The simple differentiation was that there was one side in cooperation with the outside world, namely Midcity consisting of the Mafia, their Mercenaries (Thugs) and Spies, the Battlemages and the "slave diggers" on one hand - the Free Camp with their free diggers on the other hand. And one "Anti-Outside-World-Faction", which was the New Camp with the Healing Mages and their Mercenaries (the Gladiators). The Free Camp at this point was thought to be in alliance with the Sect, in that the templars of the sect helped to protect the free diggers against monsters, while the free diggers would exchange their ore for drugs or drug related ingrediences from the outside world as supplies for the Sect. Only after that, due to the link of the Gladiators with the Healing mages and their escape plan, the idea was formed that the Free diggers could eventually also cooperate with them. At this point, the free camp was thought to be in cooperation with both the New Camp and the Sect. It was a complex relationship. For instance, the Old Camp would extort road tolls from the free diggers in order to use the exchange place; and the "Ore thieves" (later Organisators) from the New Camp would steal ore not only from the old digger's fort, but occasionally from the free diggers too (even if against the mages orders due to the alliance).
 
@@ -98,7 +97,8 @@ From here on the setting just evolved in minor ways. All the camps, all the guil
 
 ![Map 3 by Mike](/_img/story/evolution-of-the-setting/map3.jpg)
 
-The barrier was round. The diameter was defined as 1km. The setting was set.
+The barrier was round. The diameter was defined as 1km.   
+The setting was set.
 
 
 ### Phoenix Concept (1998-2000)
