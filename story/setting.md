@@ -7,6 +7,10 @@
 1. [Preface](#preface)
 2. [Evolution of the Setting](#evolution-of-the-setting)
     1. [Orpheus Concept (1995-1997)](#orpheus-concept-1995-1997)
+         1. [History](#history)
+         2. [Maps & Locations](#maps--locations)
+         3. [The Sleeper](#the-sleeper)
+         4. [The Four Crystals of Trazere](#the-four-crystals-of-trazere)
     2. [Phoenix Concept (1998-2000)](#phoenix-concept-1998-2000)
          1. [War against the Orcs](#war-against-the-orcs)
          2. [The Mages](#the-mages)
@@ -36,18 +40,23 @@ In "Decline of the Setting" we will deal with how many of the described aspects 
 
 ## Evolution of the Setting
 
-The initial idea for Gothic was the combination of two elements: ideas of the film *Escape from New York* combined with dark fantasy, more precisely: ["gothic fantasy"](/vision/gothic-defined). This is how Gothic was born and Orpheus was its first working title.
+According to Mike Hoge himself, as he told me, the initial idea for Gothic was the combination of two elements: ideas of the film *Escape from New York* combined with dark fantasy, more precisely: ["gothic fantasy"](/vision/gothic-defined#gothic-fantasy). Many people used to think that the film was just one of many inspirations, but in fact it was *the* most important inspiration. Its role in the development of the setting cannot be underestimated. Mike says, a great idea is when you combine two or more things, which may exist in isolation, but were never combined before. Gothic was born through the combination of the film with gothic fantasy and Orpheus was its first working title. 
 
 
 ### Orpheus Concept (1995-1997)
 
-In the end of 1996 and the beginning of 1997 the Orpheus setting was roughly outlined in the "Orpheus - History" document as well as in "Orpheus Guilds" V1 and V2 which we released in 2020. Here we can already find almost all the important aspects of the background story. But in order to understand these early ideas and their development we also have to take the world design into account and how the different camps and guilds evolved in this earliest conception phase. According to all the notes available to us, this is the first concept of the setting: 
+In the end of 1996 and the beginning of 1997 the Orpheus setting was roughly outlined in the "Orpheus - History" document as well as in "Orpheus Guilds" V1 and V2 which we released in 2020. Here we can already find almost all the important aspects of the background story. But in order to understand these early ideas and their development we also have to take the world design into account and how the different camps and guilds evolved in this earliest conception phase. 
 
-* The *prison colony* is established from the *outside world* as a **labour camp**. This was the basic differentiation they started with: Prison World and Outside World. The king, the war, the realms of the kingdom and all these details were not yet conceptualised. At this point the game world was supposed to be an island to have a limitation of the game world. The magical barrier was not yet invented.
+
+#### History
+
+According to all the notes available to us, this is the first concept of the setting: 
+
+* The *prison colony* is established from the *outside world* as a **labour camp**. This was the basic differentiation they started with: Prison World and Outside World. The king, the war, the realms of the kingdom and all these details were not yet conceptualised. At this point the game world was supposed to be an island to have a limitation of the game world. The barrier was not yet invented.
 * The convicts dig for **ore** below-ground and discover an old natural cave system. 
-* There are monsters, called by an *Entity*, dwelling in caves and attacking the miners; while the wardens are sitting in safety in their fortress and let them dig regardless.
+* There are monsters (referring to Orcs), called by an *Entity*, dwelling in caves and attacking the miners; while the wardens are sitting in safety in their fortress and let them dig regardless.
 * Motivated by the threat of the monsters, a **revolt** is initiated. The wardens are killed, but an escape fails at the so-called *cliff*, that is protected by forces from the outside world. It is here where the convicts are thrown into and it is here where the revolt is struck down. It is very likely that the idea of the barrier did not exist at this time, as it is not mentioned in the earliest summary and within the Orpheus Guild System V1 there is described an escape plan for the Mafia's thugs, which are dreaming of "taking the cliff by storm at night" someday. It is most likely in this context that a counter strike is mentioned with a question mark, as something that may have potentially being initiated. 
-* The creation of a magical barrier (initially perhaps imagined as limited to the northern border of the colony, preventing the convicts to overcome "the cliff") could have happened as a reaction to the revolt, trying to gain back the control over the prison, but without success. Thus, the revolt would have taken place before the creation of the barrier, not in course of it as it was explained in the release version. In any way, the prison is now under control of the convicts, but they cannot escape; the cliff was the only way out of the prison and soon, due to the magical barrier, there would be none. 
+* The creation of a barrier (initially perhaps imagined as limited to the northern border of the colony, preventing the convicts to overcome "the cliff", as is seen on the first map sketch below) could have happened as a reaction to the revolt, trying to gain back the control over the prison, but without success. Thus, the revolt would have taken place before the creation of the barrier, not in course of it as it was explained in the release version. In any way, the prison is now under control of the convicts, but they cannot escape; the cliff was the only way out of the prison and soon, due to a psychic barrier (it was supposed to have psi effects and make you mad), there would be none. 
 * The outside world offers the convicts to work in the mines in exchange for benefits.
 * In course of the revolt a new order is established by a group of the strongest; they form a Mafia who force the weak to continue to dig for ore; the "slave diggers", living in their own district in the city (which would later be called "Old Camp") and in the old "diggers fort" (which would later become the "Old Fort"), they dig ore for the Mafia, exchange it with the outside world and pay their protection money from their miserly share to the thugs of the Mafia who protect them in the city and from the monsters in the mine. The new order that promised freedom turned into just another kind of slavery, where the people living in the city couldn't trust anyone, since everyone could be a potential spy working for the Mafia; a system inspired by the Stasi of the former German Democratic Republic (DDR). 
 * Other diggers decided to work independently, in free cooperation with the Outside World in a mine of their own. They try to get the better of the monsters with ranged weapons and traps. They also deliver ore to the Outside World and receive goods in exchange, such as food, drugs, tools, animals and so on. They were called the "free diggers" living in a newer "diggers fort". 
@@ -55,7 +64,12 @@ In the end of 1996 and the beginning of 1997 the Orpheus setting was roughly out
 * Thus Bonzo is splitting up with his guys, which are gladiators and "Outside world haters" first and foremost; as he doesn't want to (1) have any contact with the Outside world anymore and (2) hasn't enough influence in Midcity, thus founding what was originally called the gladiators camp. Later it would be called the "New camp" and the free diggers would evolve into the Free Miners, but at this point they were an independent "Free Camp", - founded before the New Camp - with their own interests.
 * Then the sect is founded, people are beginning to preach from a liberator, recruiting followers; visions start to occur and people struggle with their sleep; a fort is built for the sect to have them out of the way and they errect a temple.
 
-This is the situation with which the player would be confronted. Mike wanted to show these things in the intro, that was supposed to introduce the setting, beginning with the prison colony itself over the revolt to the founding of the three camps. The escape plans did exist already, but they were not supposed to be shown as the player should find out about them ingame. The world corresponding to this earliest description of the setting can be roughly outlined as follows, all based on Mikes notes and sketches:
+This is the situation with which the player would be confronted and which Mike summarised as "History". Mike wanted to show these things in the intro, that was supposed to introduce the setting, beginning with the prison colony itself over the revolt to the founding of the three camps. The escape plans did exist already, but they were not supposed to be shown as the player should find out about them ingame. 
+
+
+#### Maps & Locations
+
+The world corresponding to this earliest description of the setting can be roughly outlined as follows, all based on Mikes notes and sketches:
 
 0. Outside World
 1. Midcity Core (original Castle of the Wardens)  
@@ -73,7 +87,7 @@ This is the situation with which the player would be confronted. Mike wanted to 
 11. Orccave(s) below the natural caves
 12. Ancient Temple
 
-Below is the earliest map sketch, corresponding to this concept of the world:
+Below is the earliest map sketch, corresponding to this concept of the world, with the barrier drawn as a line at the northern border of the colony:
 
 ![First Map Sketch by Mike](/_img/story/evolution-of-the-setting/map1.jpg)
 
@@ -91,14 +105,58 @@ Another part of this simplification was the renaming of the Camps based on the s
 
 ![Map 2 by Mike](/_img/story/evolution-of-the-setting/map2.jpg)
 
-Regarding the barrier, now imagined as a closed sphere around the prison, was described as being created by battle mages; battle mages created the barrier and healing mages wanted to take it down. And at this point Mike had the idea that the battlemages also had some escape plan like creating a magical portal in the barrier, but would follow their plan only sporadically, as they were having a good life in the centre of the Old Camp. 
+The barrier, now imagined as a closed sphere around the prison, was described as being created by battle mages; battle mages created the barrier and healing mages wanted to take it down. And at this point Mike had the idea that the battlemages also had some escape plan like creating a magical portal in the barrier, but would follow their plan only sporadically, as they were having a good life in the centre of the Old Camp. 
 
-From here on the setting just evolved in minor ways. All the camps, all the guilds and all the essential parts of the background story were defined here, during the Orpheus Conception phase, with the exception of the war with the "northern hordes".
+
+#### The Sleeper
+
+The Sleeper and his mad influence was also a part of the setting from the very beginning. And when the barrier came into the picture, it was clear that it had to have a psychic effect. This effect may not have been intended by the mages, but it has it due to the Sleeper who changed the barrier's properties when he was touched by it and increased it in course of the ritual. 
+
+From here on the setting just evolved in minor ways. All the camps, all the guilds and all the essential parts of the background story were defined here, during the Orpheus Conception phase, perhaps with the exception of the war with the "northern hordes".
 
 ![Map 3 by Mike](/_img/story/evolution-of-the-setting/map3.jpg)
 
-The barrier was round. The diameter was defined as 1km.   
-The setting was set.
+The Sleeper was sleeping. The barrier was round. The diameter was defined as 1km. The setting was set.
+
+
+#### The Four Crystals of Trazere
+
+Before continuing our analysis of the development of the setting, we have to point out some extreme similarities to a video game from 1992, called "Legend" or "The Four Crystals of Trazere", found by Avallach. Quoting from its handbook:
+
+> An unknown epoch during the Middle Ages, when barbarians invaded at will, cruel despots rose and fell, blood spilled across the land, and magic and mystery wove their spell. 
+It is a Time of Dread and Woe.
+
+To summarise. Here was a game which introduced its setting like this:
+
+![Trazere Intro 1](/_img/story/evolution-of-the-setting/trazere1.jpg)
+
+With a mask that reminds a lot of the mask of the Sleeper, while it is about an evil being that *sleeps* and which dreams are influencing reality - this is the background story of Gothic, just expressed in a more poetical language. To quote the handbook again:
+
+> An evil stench has arisen in The land of Trazere, and the world is in chaos. A strange, powerful and ghastly entity as old as time itself has risen from its sleep, and has cast a pall over all humanity. Some unknown malevolent power has mutated the peoples of the Ancient Realm into hideous beasts. These beasts are roaming the land, slaying and despoiling all in their path, and nothing seems capable of stopping their wanton destruction.
+
+![Trazere Intro 2](/_img/story/evolution-of-the-setting/trazere2.jpg)
+
+These are the "beasts", which remind of orcs and have green skin. 
+
+> As the chaos deity stirred in its sleep and dreamed its dreams of power, residual energies leaked into the material world and caused widespread mutations. These mutations took a wide variety of forms, from the great demonic shape of a Lord of Chaos, to creatures that seem at first glance to be entirely human. Only the pallid color of their skin or wild eyes betray them as to their hellish nature.
+
+Again, demonic mutations, red eyes? This is Gothic, right? 
+They also make war against the kingdom of men:
+
+![Trazere Intro 3](/_img/story/evolution-of-the-setting/trazere3.jpg)
+
+> The people cry out in fear and pain: "Why has our King forsaken us? Whe does he not send the legions to scour the land of this foul pestilence? Where is our deliverance from this nefarious calamity? Who among men can save us?"
+> Only the stalwart men of the four keeps can save the Kingdom from evil, but surely even their great walls cannot hold forever!
+
+A king that is loosing a war. And there are "four keeps" in the kingdom, four realms? But of course there is a hero - you!
+
+> The fate of the land of Trazere is now in your hands. It will take the outer limits of your creativity, imagination and concentration to succeed in this noble quest. As the gods would have it, you have four loyal companions to help you, along with a host of magic spells. Success will bring great reward, my friend. You will, in effect, join those select few who become a legend in their own lifetime.
+
+You have four loyal companions. A berzerk, a wizard, an assassin and a ~~psionic~~ Troubadour. And they are presented in a cool artwork like this:
+
+![Trazere Companions](/_img/story/evolution-of-the-setting/trazere4.jpg)
+
+Mike does not know this game, he told us. But others in the team have played it. In fact, often very similar ideas evolve independently from each other. And in other cases one is unconsciously inspired by things he has seen before but does not remember. Even if these aspects of the background story of Gothic would be copied from this game, it would not make Gothic less unique and original, because the main parts of the setting are what we described above in the [history](#history) section - the parts that are inspired by *Escape from New York*. Nonetheless, you have to admit, that these aspects of the background story that are as well to be found in this game from 1992, cannot (anymore) be considered as something that is particularly unique to Gothic.
 
 
 ### Phoenix Concept (1998-2000)
@@ -110,16 +168,16 @@ The setting was set.
 > But only the mightiest among the prisoners have the privilege to distirbute these goods among the others, while the weak ones are driven in the mines to get their little share.
 > The guards were no longer needed - no sane being can escape the prison, because the King's master mages put a psychic barrier around the prison colony to prevent every sane being from escape. [...] (Early promotional draft)
 
-While most of the story of Gothic was developed during the Phoenix Concept phase, almost nothing about the setting changed after the Orpheus Concept. It was more or less supposed to remain like we have outlined above, serving as the foundation of the story to be developed in Piranha Bytes' Phoenix Concept. 
+While most of the *story* of Gothic was developed during the Phoenix Concept phase, almost nothing about the *setting* changed after the Orpheus Concept. It was more or less supposed to remain like we have outlined above (even if many aspects of the setting were lost in the execution, they were still part of the setting), serving as the foundation of the story that would be developed in detail in the Phoenix Concept. 
 
 But what was most likely introduced here is the background story of the war against the Orcs, the kings and the realms.
 
 
 #### War Against the Orcs
 
-The monsters (at first Mike wanted to avoid the term "Orcs" in the same way he didn't want any other typical fantasy monster names in the game and the "Minecrawlers" specifically were not invented yet either) were part of the setting from the very beginning, but at first it was just about them living in their caves below the surface and below the mines. Now a broader background story was developed, providing reason for why the ore is needed by the Outside World so urgently. 
+The monsters (at first Mike wanted to avoid the term "Orcs" in the same way he didn't want any other typical fantasy monster names in the game and the Alien-inspired "Minecrawlers" specifically were not invented yet either) were part of the setting from the very beginning, but at first it was just about them living in their caves below the surface and below the mines. Now a broader background story was developed, providing reason for why the ore is needed by the Outside World so urgently. 
 
-In ancient times the Orcs and Humans were living alongside each other on the surface of the earth. After a long time of war, slavery and oppression, the orcs, as it was written on the official Gothic website "fled from the racism of the humans into underground caves". One of these underground caves (natural caves, into which they have built their villages and cities) is under the colony of Khorinis and it was this clan who summoned the Sleeper a thousand years ago and who is since then living in fear of his awakening, bringing him sacrifices (human sacrifices, but their own blood as well) to calm him down. This was most likely the background of what later in the Sequel would be described as the "Bloodearth Clan". 
+A very cool background story, that most players of the game do not even know about: In ancient times the Orcs and Humans were living alongside each other on the surface of the earth. After a long time of war, slavery and oppression, the orcs, as it was written on the official Gothic website "fled from the racism of the humans into underground caves". One of these underground caves (natural caves, into which they have built their villages and cities) is under the colony of Khorinis and it was this clan who summoned the Sleeper a thousand years before the game takes place and who is since then living in fear of his awakening, bringing him sacrifices (human sacrifices, but their own blood as well) to calm him down. This was most likely the background of what later in the Sequel would be described as the "Bloodearth Clan". 
 
 
 #### The Mages
@@ -189,11 +247,13 @@ Thus, if we take this imagination of Mike into account in an attempt to harmonis
 Many other things were mentioned and introduced in the game (land of Tymoris, the Archolos mountain (it is a mountain, not an island), Bergmar) but never dealt with ever again instead of connecting to such loose threads in a successor. 
 
 
-### Halforcs
+### Halforcs & Orcs
 
 In our opinion, as well as for the early story authors, the halforcs were an incredibly important idea, as they would have played a crucial role in presenting the brutality of the setting and the racism in the world of Gothic, which will become more than clear when reading the authors ideas for quests that would show this racism in action, while it also would have given even more differentiation to the factions and single characters, since e.g. the people of the Free Camp would threat the half orcs well, while others would rather use and abuse them for hard labour and protection. 
 
-In the first draft they were supposed to live in a huge forest north of the Psi Camp, then inside the Free Camp. During the Phoenix Concept phase at least single halforcs in different camps were supposed to remain. But in the end the only thing that was left were some names such as "Grunt" (or "Shabak", removed shortly before release) and these NPCs were displayed as regular humans... It should be obvious what a huge narrative potential was given up with the idea of the halforcs. 
+In the first draft they were supposed to live in a huge forest north of the Psi Camp, then inside the Free Camp. During the Phoenix Concept phase at least single halforcs in different camps were supposed to remain. But in the end the only thing that was left were some names such as "Grunt" (or "Shabak", removed shortly before release) and these NPCs were displayed as regular humans... It should be obvious what a huge narrative potential was given up with the idea of the halforcs.
+
+Not to speak of how poorly the Orcs in general were represented in the game due to the removal of the OrcCity in which the player was supposed to learn their language and be confronted with their culture and history. In the end the game did not tell us anything about the racism between humans and orcs (apart from the existence of Orc Slaves) or about them once living together at the surface and their conflicts being the very reason for why the Orcs are now living underground (which due to the removal of the OrcCity, is not even the case anymore in the final game either).
 
 
 ### Camps & Factions
@@ -214,7 +274,11 @@ Another lost aspect due to these changes were the trappers of the Free Camp that
 
 NC: Just as with the firemages, the watermages as healing mages did not really survive in the game. The initial character of the water mages may still be partially alive in their synchronisation, presenting them as milder than the arrogant firemages, but nothing of their primary focus on healing comes through, nor did we ever get to know any details about the founding of the camp and the background of their alliance with Lee. 
 
-Which brings us to another and one of the most unknown aspects of the early lore, which I realised very late, the gladiator background of Lee's men, which is so obvious, from their old background story to their armours, and I really wondered why it did not occur to us earlier. Since this aspect is so strongly related with the story of the faction as we want to present it in the game, we won't tell more at this point. But as a matter of fact: Jörg Bütow for instance was a story author who was specificially given the task to develop the New Camp; background story, characters, its involvement with other camps, internal conflicts, all of these things. He had a lot of good ideas but all of it was removed or never realised in the first place in Mikes attempt to rescue the release of the game in the last couple of months. 
+But an even more important aspect was completely missed in the poor execution of the the release version: The NC was always supposed to be the "Anti-Outside-World" faction. And with the introduction of the war and the king into the setting, the more very general "Anti-Outside-World" idea evolved into them becoming the "Kinghaters" (Königshasser), as they were described in the Gothic Sequel documents. That said, Lee and his men, as well as the water mages, were totally against cooperation with the outside world, against cooperation with the king. The mages themselves, once working for the king, in course of the conflict with the circle of fire about the barrier and the deal with the criminals and the king, parted ways and joined forces with General Lee; and now they are, so to speak, inflicted by an imperial ban and outlaws in the eye of the crown, due to their alliance with the General, but of course almost nothing of it found expression in the game. 
+
+Which brings us to another and one of the most unknown aspects of the early lore, which I realised very late, the gladiator background of Lee's men, which is so obvious, from their old background story to their armours, and I really wondered why it did not occur to us earlier. Since this aspect is so strongly related with the story of the faction as we want to present it in the game, we won't tell more at this point. 
+
+As far as the NC in general is concerned: Jörg Bütow for instance was a story author who was specificially given the task to develop the New Camp; background story, characters, its involvement with other camps, internal conflicts, all of these things. He had a lot of good ideas but all of it was removed or never realised in the first place in Mikes attempt to rescue the release of the game in the last couple of months. 
 
 
 ### Summary

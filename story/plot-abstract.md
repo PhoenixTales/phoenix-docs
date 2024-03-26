@@ -65,9 +65,10 @@ Morgenröte, Born, Bronn, Dräuen, Düsternis, Feste, Flimmer, Dämmer(ung), Hau
 
 Every chapter we divide into several subchapters or divisions which vary according to the chosen path of the player, the order at which he visits specific locations and so on. While the chapters are referring to the main stages of the story and the associated global events, which will always happen, subchapters are diverse; their order can vary and one can never experience all subchapters in a single playthrough, as some of them are guild- and decision dependent. They are all printed ingame with the same font and font size as the main chapters in pure text, there are no chapter images. 
 
-When there is no specific order of events, the chapters are listed in an unordered list. What is written in italics is not supposed to appear in the game and is a mere summarising description and internal handle. If a subchapter is divided by a single "|" it means that both could be experienced, but optionally. 
 
+When there is no specific order of events, the chapters are listed in an unordered list. What is written in italics is not supposed to appear in the game and is a mere summarising description and internal handle. If a subchapter is divided by a single "|" it means that both could be experienced, but optionally. 
 Instance: "The Old Camp | The New Camp" -> the player may or may not explore both camps; he may also just explore the Old Camp and join it immediately. &| stands for "and/or". For instance: "The Old Mine &| The Free Mine" -> In some cases, only one of them will be explored (e.g., when joining the Old Camp and sticking with it). In other cases, one may explore both, (e.g. when questing for the Old Camp to some degree, but then deciding to run away and join the ~~Circus~~ Scraper's Union). 
+{ .subtext }
 
 
 #### Act I: Orpheus
@@ -81,7 +82,7 @@ P: Welcome to the Colony
         * [Mage] The Way of the Arcane ("In the Circle of Fire" || "In the Circle of Water") ||
         * [Thief] The Way of the Nimble ("In the Shadows" || "The Organisation") ||
         * [Psionic] The Way of Madness (Novice || Templar)
-    3. [Gild quests before focus hunt]
+    3. [Guild quests before focus hunt]
         * The Convoy (Grd <> Org) ||
         * Power of the Sect (Kdf / Stt) || 
         * The Alliance (KdW / Sld) ||

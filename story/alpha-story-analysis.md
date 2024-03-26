@@ -3,7 +3,7 @@
 Author: Flosha
 Written: 02.09.2023 - 
 
-In order to analyse the original story concept of Gothic we have to differentiate between different phases of development. In course of time there were several iterations of the story that in the beginning evolved organically until the point of no return, where it had to be scrapped and was redone in the last couple of months in order to finish the game under the pressure of the publisher and time. By summarising and comparing the narrative as it evolved until it was cut down to a fraction of it's original scope, we will be able to (1) point out the most comprehensive and profound iteration of the story and (2) clearly see whatever valuable is to be found in other iterations, (3) in order to harmonise the best of all in Phoenix; which is summarised in [Phoenix Story]().
+In order to analyse the original story concept of Gothic we have to differentiate between different phases of development. In course of time there were several iterations of the story that in the beginning evolved organically until the point of no return, where it had to be scrapped and was redone in the last couple of months in order to finish the game under the pressure of the publisher and time. The story was changed and reduced to such a degree, that the former story authors were confused and wondered what happened to the story when playing the final game. By summarising and comparing the narrative as it evolved until it was cut down to a fraction of it's original scope, we will be able to (1) point out the most comprehensive and profound iteration of the story and (2) clearly see whatever valuable is to be found in other iterations, (3) in order to harmonise the best of all in Phoenix; which is summarised in [Phoenix Story]().
 
 We distinguish between the following versions or iterations of the Story.
 
@@ -21,27 +21,26 @@ What was there from the very first concept:
 * Earthquakes and visions happen that are thought to be related with the magical barrier.
 * A Psi drug related with minecrawler secretion is essential and widespread both among humans and orcs to resist the madness.
 * There are escape plans, only supposed to be revealed to the player in course of the story.
-* The player experiences visions of the Sleeper throughout the game and has a vision in a dream.
+* The player experiences horrific visions of the Sleeper throughout the game and has a vision in a dream.
 * He is lured into the camp of the psionics early on in the story to be involved in their plans (later "PrepareRitual" event). 
 * The psi mages cause a madness wave in a mass ritual to awaken the Sleeper; earthquakes accompany the madness waves, resulting in the Old Mine being flooded (later "OmFull" event).
-* A vision in the fire during the ritual; it is unsure but most likely that this vision was supposed to occur during the mass ritual to awaken the Sleeper; but it could also have been imagined to occur later in the game during another psi ritual.
-* In the vision a dead paladin is seen in the ancient temple behind a door, besieged by the Undead, he has a weapon against the Sleeper with him. 
-* In consequence of the Ritual the Old Mine cannot deliver Ore anymore; the Old Camp attacks the Free Mine. New Camp and Old Camp turn hostile (later "FmTaken" event).
+* A vision in the fire during the ritual: A dead paladin is seen in the ancient temple behind a door, besieged by the Undead, he has a weapon against the Sleeper with him. 
+* In consequence of the ritual the Old Mine cannot deliver Ore anymore; thus at some point the Old Camp raids the Free Camp. New Camp and Old Camp turn hostile (later "FmTaken" event).
 * The magic barrier is in disorder; according to the Demon evocator everyone is in danger.
-* There is a magic amulet that has to be acquired to help against Madness, to come closer than ten meters to the barrier without becoming mad (perhaps to research the barrier and what is going on).
+* There is a magic amulet that has to be acquired to help against Madness, to come closer than ten meters to the (psychic) barrier without becoming mad (not defined why; perhaps to research the barrier and what is going on).
 * At some point in the story there was supposed to be a mass event in form of a revolt against the barons, summarised in the sentence "Down with the Orebarons".
 * The Sleeper was supposed to sleep at the foot of the barrier on a platform from stone. 
-* The Sleeper awakens.
-* Upon the threat of the awakening Sleeper, the Orcs flee outside through the Free Mine; the New Camp is tarnished (later "OrcAssault" event).
+* At some point, the Sleeper awakens.
+* Upon the threat of the awakening Sleeper, the Orcs flee to the Surface through the Free Mine; the New Camp is tarnished (later "OrcAssault" event).
 * The surface is unsafe and the orcs "use" the marketplace (exchange place) for some reason.
 * Open fights between the camps; the relationships go down resulting in chaos and overarching mutual killing sprees, secretly driven by the progressively more intense psi waves of the Sleeper that drives the whole colony insane (later "Nemesis" event).
 * In some way the player enters the temple and tries to reach the deepest levels.
-* There is a hood of a high priest (undefined whether orcish or human, but most likely orcish) to protect from the wrath of the Sleeper, which would be given as a reward (undefined by whom, but most likely by the priest himself).
+* There is a hood of a high priest (undefined whether orcish or human, but most likely orcish) to protect from the wrath of the Sleeper, which would be given as a reward (undefined by whom, but apparently by the priest himself as a reward for killing a specific powerful undead creature, such as the dragon below).
 * But an Undead Dragon blocks the way in a defile on the path to the Sleeper. 
 * Thus a weapon has to be found that enables to destroy the Undead.
 * The player acquires the weapon from the vision in the paladin's cave in the temple, kills the dragon and somehow banishes the Sleeper.
 
-This was all part of the earliest iteration of the story. What was not yet included at this point or at least not yet mentioned in the documents available to us are the Minecrawler Queen (MCQ); the specifics of the player's involvement in the plans of the Sect and their internal struggle for power; the specifics of the player's involvement in the plan of the Watermages; the specifics of the involvement with the Demon Evocator and his role (it is also not clear if at this point he was supposed to be part of the battlemages as in a later iteration or if he was living in his demontower right from the start of the game, which is more likely); the specifics of how the player would get into the Orc Caves and the temple and what he would do there; and diverse connections of these different threads. While the most important story arcs were defined, it was not yet sure what would lead to what and for which reason. Chapters were not yet introduced. 
+This was all part of the earliest iteration of the story. What was not yet included at this point or at least not yet mentioned in the documents available to us are the Minecrawler Queen (MCQ); the specifics of the player's involvement in the plans of the Sect and their internal struggle for power; the specifics of the player's involvement in the plan of the Watermages; the specifics of the involvement with the Demon Evocator and his role (it is also not clear if he was supposed to be part of the battlemages at the start (as was the case in a later iteration) or if he was living in his demontower right from the beginning of the game, which is more likely); the specifics of how the player would get into the Orc Caves and the temple and what he would do there; and diverse connections of these different threads. While the most important story arcs were defined, it was not yet sure what would lead to what and for which reason. Chapters were not yet introduced. 
 
 
 ## Phoenix (1997-1999)
