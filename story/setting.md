@@ -42,6 +42,8 @@ In "Decline of the Setting" we will deal with how many of the described aspects 
 
 According to Mike Hoge himself, as he told me, the initial idea for Gothic was the combination of two elements: ideas of the film *Escape from New York* combined with dark fantasy, more precisely: ["gothic fantasy"](/vision/gothic-defined#gothic-fantasy). Many people used to think that the film was just one of many inspirations, but in fact it was *the* most important inspiration. Its role in the development of the setting cannot be underestimated. Mike says, a great idea is when you combine two or more things, which may exist in isolation, but were never combined before. Gothic was born through the combination of the film with gothic fantasy and Orpheus was its first working title. 
 
+![Escape From New York - Japanese Poster 1981](/_img/story/evolution-of-the-setting/escape_from_new_york_1981_japanese.jpg)
+
 
 ### Orpheus Concept (1995-1997)
 
@@ -152,7 +154,7 @@ A king that is loosing a war. And there are "four keeps" in the kingdom, four re
 
 > The fate of the land of Trazere is now in your hands. It will take the outer limits of your creativity, imagination and concentration to succeed in this noble quest. As the gods would have it, you have four loyal companions to help you, along with a host of magic spells. Success will bring great reward, my friend. You will, in effect, join those select few who become a legend in their own lifetime.
 
-You have four loyal companions. A berzerk, a wizard, an assassin and a ~~psionic~~ Troubadour. And they are presented in a cool artwork like this:
+You have four loyal companions. A berzerk, a wizard, an assassin and a ~~psionic~~ Troubadour, presented in a cool artwork like this:
 
 ![Trazere Companions](/_img/story/evolution-of-the-setting/trazere4.jpg)
 
@@ -272,13 +274,11 @@ Another lost aspect due to these changes were the trappers of the Free Camp that
 
 ---
 
-NC: Just as with the firemages, the watermages as healing mages did not really survive in the game. The initial character of the water mages may still be partially alive in their synchronisation, presenting them as milder than the arrogant firemages, but nothing of their primary focus on healing comes through, nor did we ever get to know any details about the founding of the camp and the background of their alliance with Lee. 
-
-But an even more important aspect was completely missed in the poor execution of the the release version: The NC was always supposed to be the "Anti-Outside-World" faction. And with the introduction of the war and the king into the setting, the more very general "Anti-Outside-World" idea evolved into them becoming the "Kinghaters" (Königshasser), as they were described in the Gothic Sequel documents. That said, Lee and his men, as well as the water mages, were totally against cooperation with the outside world, against cooperation with the king. The mages themselves, once working for the king, in course of the conflict with the circle of fire about the barrier and the deal with the criminals and the king, parted ways and joined forces with General Lee; and now they are, so to speak, inflicted by an imperial ban and outlaws in the eye of the crown, due to their alliance with the General, but of course almost nothing of it found expression in the game. 
+NC: Just as with the firemages, the watermages as healing mages did not really survive in the game. The initial character of the water mages may still be partially alive in their synchronisation, presenting them as milder than the arrogant firemages, but nothing of their primary focus on healing comes through, nor did we ever get to know any details about the founding of the camp and the background of their alliance with Lee. And in this context, an even more important aspect was missed in the poor execution of the release version: The NC was always supposed to be the "Anti-Outside-World" faction. And with the introduction of the war and the king into the setting, the general "Anti-Outside-World" idea evolved into them becoming the "Kinghaters" (Königshasser), as they were described in the Gothic Sequel documents. That said, Lee and his men, as well as the water mages, were totally against cooperation with the outside world, against cooperation with the king. The mages themselves, once working for the king, in course of the conflict with the circle of fire about the barrier and the deal with the criminals and the king, parted ways and joined forces with General Lee; and now they are, so to speak, inflicted by an imperial ban and outlaws in the eye of the crown, due to their alliance with the General, but of course almost nothing of it found expression in the game. 
 
 Which brings us to another and one of the most unknown aspects of the early lore, which I realised very late, the gladiator background of Lee's men, which is so obvious, from their old background story to their armours, and I really wondered why it did not occur to us earlier. Since this aspect is so strongly related with the story of the faction as we want to present it in the game, we won't tell more at this point. 
 
-As far as the NC in general is concerned: Jörg Bütow for instance was a story author who was specificially given the task to develop the New Camp; background story, characters, its involvement with other camps, internal conflicts, all of these things. He had a lot of good ideas but all of it was removed or never realised in the first place in Mikes attempt to rescue the release of the game in the last couple of months. 
+As far as the NC in general is concerned: Jörg Bütow was a story author who was specificially given the task to develop the New Camp; background story, characters, its involvement with other camps, internal conflicts, all of these things. He had a lot of good ideas but all of it was removed or never realised in the first place in Mikes attempt to rescue the release of the game in the last couple of months. 
 
 
 ### Summary
