@@ -13,7 +13,7 @@
     1. [What is Orpheus (Act I)?](#what-is-orpheus-act-I)
     2. [What is Nemesis (Act II)?](#what-is-nemesis-act-II)
     3. [What about the official successors?](#what-about-the-official-successors)
-7. [What is GOTHIC/PHOENIX Canon?](#what-is-gothic-phoenix-canon)
+7. [What is GOTHIC/PHOENIX Canon?](#what-is-gothicphoenix-canon)
 8. [Legal Issues](#legal-issues)
 9. [Why is X different than in Demo Y?](#why-is-x-different-than-in-demo-y)
 10. [What are the features of PHOENIX?](#what-are-the-features-of-phoenix)

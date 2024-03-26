@@ -19,7 +19,7 @@ layout: vision
 1. [Preface](#preface)
 2. [What's Gothic (working title 'Phoenix' in 1998)?](#whats-gothic-working-title-phoenix-in-1998)
     1. [Story and Setting](#story-and-setting)
-    2. [Direct Interaction - Essence of Roleplaying](#direct-interaction-essence-of-roleplaying)
+    2. [Direct Interaction - Essence of Roleplaying](#direct-interaction---essence-of-roleplaying)
     3. [Key Elements](#key-elements)
 3. [1. Key Element: Visualisation](#1-key-element-visualisation)
 4. [2. Key Element: A Living world (NPC Behaviour) and Immersion](#2-key-element-a-living-world-npc-behaviour-and-immersion)
