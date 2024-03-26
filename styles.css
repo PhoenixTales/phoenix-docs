@@ -494,8 +494,8 @@ hr {
 
 .setting {
   background: url("/_img/bg/bg-escape.jpg");
-  background-position: top right;
-  background-size: 900px;
+  background-position: top center;
+  background-size: 80%;
   background-repeat: no-repeat;
   width: 100%;
   padding: 200px 0 0;
