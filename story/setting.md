@@ -244,7 +244,7 @@ With the initial revolt, as it was conceived during the Orpheus concept, driven 
 
 This simple, clear and reasonable order of events changed into something much more vague when the revolt was explained to take place shortly after the creation of the barrier. Now the only reasoning were former unsuccessful "escape attempts", while according to the initial idea the colony was already under the control of the convicts. It was impossible to gain back control from inside with them having taken the prison castle and thus they came up with their magical strategy. 
 
-Thereby one could also explain the old pass being blocked. According to the initial idea the escape was stopped at the cliff, another pass was not yet conceived (although the early maps suggest one) or at least not yet mentioned. A simple explanation would be that the concvicts could not take the pass that was regularly used before, because as a reaction to the revolt the royal forces from the Outside World destroyed the pass (by letting it collapse), leaving the convicts with the cliff as the only way out (apart from the sea), which was easier to protect. 
+Thereby one could also explain the old pass being blocked. According to the initial idea the escape was stopped at the cliff, another pass was not yet conceived (although the early maps suggest one) or at least not yet mentioned. A simple explanation would be that the convicts could not take the pass that was regularly used before, because as a reaction to the revolt the royal forces from the Outside World destroyed the pass (by letting it collapse), leaving the convicts with the cliff as the only way out (apart from the sea), which was easier to protect. 
 
 
 ### Realms & Kings
