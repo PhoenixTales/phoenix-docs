@@ -44,9 +44,11 @@ In "Decline of the Setting" we will deal with how many of the described aspects 
 
 ## Evolution of the Setting
 
-According to Mike Hoge himself, as he told me, the initial idea for Gothic was the combination of two elements: ideas of the film *Escape from New York* combined with dark fantasy, more precisely: ["gothic fantasy"](/vision/gothic-defined#gothic-fantasy). Many people used to think that the film was just one of many inspirations, but in fact it was *the* most important inspiration. Its role in the development of the setting cannot be underestimated. Mike says, a great idea is when you combine two or more things, which may exist in isolation, but were never combined before. Gothic was born through the combination of the film with gothic fantasy and Orpheus was its first working title. 
+According to Mike Hoge himself, as he told me, the initial idea for Gothic was the combination of two elements: ideas of the film *Escape from New York* combined with dark fantasy, more precisely: ["gothic fantasy"](/vision/gothic-defined#gothic-fantasy). Many people used to think that the film was just one of many inspirations, but in fact it was *the* most important inspiration. Its role in the development of the setting cannot be underestimated. 
 
 ![Escape From New York - Japanese Poster 1981](/_img/story/evolution-of-the-setting/escape_from_new_york_1981_japanese.jpg)
+
+Mike says, a great idea is when you combine two or more things, which may exist in isolation, but were never combined before. Gothic was born through the combination of the film with gothic fantasy. Orpheus was its first working title. 
 
 
 ### Orpheus Concept (1995-1997)
