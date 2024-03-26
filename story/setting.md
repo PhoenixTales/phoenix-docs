@@ -25,7 +25,7 @@ layout: setting
 3. [Decline of the Setting](#decline-of-the-setting)
    1. [The Revolt](#the-revolt)
    2. [Realms & Kings](#realms--kings)
-   3. [Halforcs](#halforcs--orcs)
+   3. [Halforcs & Orcs](#halforcs--orcs)
    4. [Camps & Factions](#camps--factions)
    5. [Summary](#summary)
 
