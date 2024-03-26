@@ -197,7 +197,7 @@ This was most likely the background of what later in the Sequel would be describ
 
 While originally the battlemages were described as the creators of the barrier and the healing mages where opposed to it from the very beginning and wanted to take it down, now the two circles - renamed into Circle of Fire and Circle of Water - were explained to have created it together. They kept working together for a short time inside of the barrier, but after the failed ritual that imprisoned them too, they disagreed about how to handle it and the two circles parted ways. 
 
-This background story was later misunderstood by some story authors to mean that the split of the two circles (water and fire) as such occured only after the creation of the barrier in course of their conflict about how to deal with it. While an ingame book informs us, that the split of the two circles occured a long time (probably many centuries) ago.
+This background story was later misunderstood by some story authors to mean that the split of the two circles (water and fire) as such occured only after the creation of the barrier in course of their conflict about how to deal with it. While actually it occured probably  many centuries ago, as Mike confirmed and as we are also informed about by an ingame book.
 {: .subtext }
 
 
