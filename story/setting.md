@@ -164,7 +164,7 @@ You have four loyal companions. A berzerk, a wizard, an assassin and a ~~psionic
 
 ![Trazere Companions](/_img/story/evolution-of-the-setting/trazere4.jpg)
 
-Mike does not know this game, he told us. But others in the team have played it. In fact, often very similar ideas evolve independently from each other. And in other cases one is unconsciously inspired by things he has seen before but does not remember. Even if these aspects of the background story of Gothic would be copied from this game, it would not make Gothic less unique and original, because the main parts of the setting are what we described above in the [history](#history) section - the parts that are inspired by *Escape from New York*. Nonetheless, you have to admit, that these aspects of the background story that are as well to be found in this game from 1992, cannot (anymore) be considered as something that is particularly unique to Gothic.
+Mike does not know this game, he told us. but others in the team have *may* played it. In fact, often very similar ideas evolve independently from each other. And in other cases one is unconsciously inspired by things he has seen before but does not remember. Even if these aspects of the background story of Gothic would be copied from this game, it would not make Gothic less unique and original, because the main parts of the setting are what we described above in the [history](#history) section - the parts that are inspired by *Escape from New York*. Nonetheless, you have to admit, that these aspects of the background story that are as well to be found in this game from 1992, cannot (anymore) be considered as something that is particularly unique to Gothic.
 
 
 ### Phoenix Concept (1998-2000)
