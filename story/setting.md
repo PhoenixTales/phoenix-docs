@@ -115,14 +115,14 @@ Another part of this simplification was the renaming of the Camps based on the s
 
 The barrier, now imagined as a closed sphere around the prison, was described as being created by battle mages; battle mages created the barrier and healing mages wanted to take it down. And at this point Mike had the idea that the battlemages also had some escape plan like creating a magical portal in the barrier, but would follow their plan only sporadically, as they were having a good life in the centre of the Old Camp. 
 
-
-#### The Sleeper
-
-The Sleeper and his mad influence was also a part of the setting from the very beginning. And when the barrier came into the picture, it was clear that it had to have a psychic effect. This effect may not have been intended by the mages, but it has it due to the Sleeper who changed the barrier's properties when he was touched by it and increased it in course of the ritual. 
-
 From here on the setting just evolved in minor ways. All the camps, all the guilds and all the essential parts of the background story were defined here, during the Orpheus Conception phase, perhaps with the exception of the war with the "northern hordes".
 
 ![Map 3 by Mike](/_img/story/evolution-of-the-setting/map3.jpg)
+
+
+#### The Sleeper
+
+The Sleeper and his maddening influence was also a part of the setting from the very beginning. And when the barrier came into the picture, it was clear that it had to have a psychic effect. This effect may not have been intended by the mages, but it has it due to the Sleeper who changed the barrier's properties when he was touched by it and increased it in course of the ritual. 
 
 The Sleeper was sleeping. The barrier was round. The diameter was defined as 1km. The setting was set.
 
