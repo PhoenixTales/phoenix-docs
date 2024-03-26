@@ -49,7 +49,9 @@ The story described here is based on the earliest available story document, desc
 
 The document is internally described as "Zusammenfassung Story-Meeting 27", that means, it is supposed to be a summary of the 27th story meeting. The document was created in November 21th of 1995(!) and was updated last in May 24th of 1999. It is a document that was updated and evolved in the course of many years. Earlier iterations are most likely lost (unless some dev may still have an older backup), as the document was just overwritten and a version control system was not yet in use. 
 
-We cannot say for sure whether or not the addition of a sixth chapter was accompanied by the addition of any actual story content or - and we assume so - it was mostly a structural change. As seen above, we can already find all the important story arcs in the Orpheus concept (and even more - like the rebellion against the barons which was either discarded, neglected or forgotten in later iterations); thus we do not think that there were any major changes in the story between Story V2 and Story V3. Story 3.3 consists of the following chapters: 
+We cannot say for sure whether or not the addition of a sixth chapter was accompanied by the addition of any actual story content or if - and we assume so - it was mostly a structural change. As seen above, we can already find all the important story arcs in the Orpheus concept (and even more - like the rebellion against the barons which was either discarded, neglected or forgotten in later iterations); thus we do not think that there were any major changes in the story between Story V2 and Story V3. 
+
+Story 3.3 consists of the following chapters: 
 
 | CH        | Translation          | Original            |
 |-----------|----------------------|---------------------|
