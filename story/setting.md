@@ -153,7 +153,7 @@ They also make war against the kingdom of men:
 
 ![Trazere Intro 3](/_img/story/evolution-of-the-setting/trazere3.jpg)
 
-> The people cry out in fear and pain: "Why has our King forsaken us? Whe does he not send the legions to scour the land of this foul pestilence? Where is our deliverance from this nefarious calamity? Who among men can save us?"
+> The people cry out in fear and pain: "Why has our King forsaken us? Why does he not send the legions to scour the land of this foul pestilence? Where is our deliverance from this nefarious calamity? Who among men can save us?"
 > Only the stalwart men of the four keeps can save the Kingdom from evil, but surely even their great walls cannot hold forever!
 
 A king that is loosing a war. And there are "four keeps" in the kingdom, four realms? But of course there is a hero - you!
@@ -164,7 +164,9 @@ You have four loyal companions. A berzerk, a wizard, an assassin and a ~~psionic
 
 ![Trazere Companions](/_img/story/evolution-of-the-setting/trazere4.jpg)
 
-Mike does not know this game, he told us. but others in the team have *may* played it. In fact, often very similar ideas evolve independently from each other. And in other cases one is unconsciously inspired by things he has seen before but does not remember. Even if these aspects of the background story of Gothic would be copied from this game, it would not make Gothic less unique and original, because the main parts of the setting are what we described above in the [history](#history) section - the parts that are inspired by *Escape from New York*. Nonetheless, you have to admit, that these aspects of the background story that are as well to be found in this game from 1992, cannot (anymore) be considered as something that is particularly unique to Gothic.
+Mike does not know this game, he told us. but others in the team *may* have played it. In fact, often very similar ideas evolve independently from each other. And in other cases one is unconsciously inspired by things he has seen before but does not remember.  
+
+Even if these aspects of the background story of Gothic would be copied from this game, it would not make Gothic less unique and original, because the main parts of the setting are what we described above in the [history](#history) section - the parts that are inspired by *Escape from New York* mixed with fantasy. Nonetheless, you have to admit, that these aspects of the background story that are as well to be found in this game from 1992, cannot (anymore) be considered as something that is particularly unique to Gothic.
 
 
 ### Phoenix Concept (1998-2000)
