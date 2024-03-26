@@ -1,3 +1,7 @@
+---
+layout: setting
+---
+
 # Setting
 
 **Author:** Flosha
