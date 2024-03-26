@@ -495,10 +495,10 @@ hr {
 .setting {
   background: url("/_img/bg/bg-escape.jpg");
   background-position: top center;
-  background-size: 80%;
+  background-size: 90%;
   background-repeat: no-repeat;
   width: 100%;
-  padding: 200px 0 0;
+  padding: 120px 0 0;
 }
 
 .authorship {
