@@ -1,23 +1,23 @@
 # Level Structure
 
-**Author:** Flosha
-**Created:** 03.11.2023
-**Last Change:** 27.03.2024
+**Author:** Flosha  
+**Created:** 03.11.2023  
+**Last Change:** 27.03.2024  
 
-**Content:**
+**Content:**  
 
 1. [Preface](#preface)
-2. [Initial Level Structure](#level-structure)
+2. [Initial Level Structure](#initial-level-structure)
 3. [Early Phoenix Level Structure](#early-phoenix-level-structure)
 4. [Later Phoenix Level Structure](#later-phoenix-level-structure)
 5. [Release Version Level Structure](#release-version-level-structure)
-5. [Phoenix Abstract](#phoenix-abstract)
+5. [Conclusion](#conclusion)
 
 
 
 ## Preface 
 
-In this document we are dealing with the abstract level structure. We list every level or level section that was once supposed to be part of the game, describe the interconnection of the underground levels and analyse which levels were added or removed in course of the concept phase and during production. What we do not deal with here are the positions of these levels in the game world and how they were moved around (for this read "Evolution of the World") nor do we deal with how those levels were changed in particular (which we do in "World Development"). 
+In this document we are dealing with the abstract level structure. We list every level or level section that was once supposed to be part of the game, describe the interconnection of the underground levels and analyse which levels were added or removed in course of the concept phase and during production. What we do not deal with here are the positions of these levels in the game world or how these positions changed (unless it is relevant for their connection or disconnection; otherwise it is dealt with in "Evolution of the World") nor do we deal with how those levels were changed in their particular design (which we do in "World Design"). 
 
 
 ## Initial Level Structure
@@ -90,7 +90,7 @@ _||_||_||_||___|__|___|___|__|_|____/_(_)_\___|_____(|)_____|______/_(_)_\______
       .                       --------------          -----------------          ---------------           .       .
       .                             |                         |                         |                  .       .
       .                       ---------------         ------------------         ----------------          .       .
-      .                       | Old Mine II | <span class="changed">-------</span> | Aband. Mine II | <span class="changed">-------</span> | Free Mine II |          .       .
+      .                       | Old Mine II | <span class="added">-------</span> | Aband. Mine II | <span class="added">-------</span> | Free Mine II |          .       .
       .                       ---------------         ------------------         ----------------          .       .
       .                                                       |                         |                  .       .
       .                                                       |                         |                  .       .
@@ -190,11 +190,11 @@ Now to the release version. Long story short, alongside the extremely simplified
 * The Free Mine (which once was playing the biggest part in the story of all the mines) was still there, but narratively it was now almost completely unused (which also led them to change the models between Old Mine and Free Mine; the dungeon that players know from the release version as the Old Mine was actually meant to be the Free Mine and vice versa).
 * No connection could be realised anymore between any of the mines as well as there was no connection anymore between the mines and the Orc Caves/City.
 * The Orc City was completely removed alongside all the story that was supposed to take place there; while little parts of it were recycled in form of a smaller village at the surface, which was by far the biggest of all the cuts in the level structure.
-* The Temple could only be made about half as big as imagined (no four levels) with many ideas of both Mike and Ralf being lost and instead of having to open the ancient portal to the temple inside of the underground Orc City, now the acces was just a dumb gate in the recycled surface village of the orcs.
+* The Temple could only be made about half as big as imagined (no four levels) with many ideas of both Mike and Ralf being lost and instead of having to open the ancient portal to the temple inside of the underground Orc City, now the access was a dumb gate in the recycled surface village of the orcs.
 * The Demonworld could not be realised anymore at all. 
 
 
-## Summary
+## Conclusion
 
 It should be obvious that our solution for PHOENIX is the return to the initial level structure as it found its most elaborated expression in the early Phoenix Concept shown above. How we will implement this structure in the actual level design and how the game world will change in course of it will be explained in the "World Development" documentation. Nothing to change or to add here. 
 

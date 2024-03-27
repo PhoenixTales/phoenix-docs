@@ -1,12 +1,12 @@
 # Evolution of the Map 
 
+
 2. [Evolution of the Map](#evolution-of-the-map)
     1. [The Barrier and its Centre](#the-barrier-and-its-centre)
     2. [Exchange Place and Cliff of the Damned](#exchange-place-and-cliff-of-the-damned)
     3. [Rivers and Camp Positions](#rivers-and-camp-positions)
 
 
-## Evolution of the Map
 
 At first, we will look at how the layout of the world map (the barrier, position of camps, forests, the ocean and important landmarks etc.) has changed in course of the conception phase and how these changes have influenced the setting. 
 
