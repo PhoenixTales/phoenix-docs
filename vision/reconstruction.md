@@ -56,7 +56,7 @@ There can be an eternal dispute about whether some content should look like in v
 
 ### 5. Case: Some Content was planned but (consciously) discarded
 
-In cases in which content was discarded, we always ask for the (potential) reasons first. In many cases we do not know the reasons, but we speculate about possible reasons for the decision of the devs at the time and about possible use cases of the content in question. Based on the original design principles which we adhere to, in many cases we find good reasons to decide otherwise. An example in this regard would be the inventory limitation.  
+In cases in which content was discarded, we always ask for the (potential) reasons first. In many cases we do not know the reasons, but we speculate about possible reasons for the decision of the devs at the time and about possible use cases of the content in question. Based on the original design principles which we adhere to, in many cases we find good reasons to decide otherwise. An example in this regard would be the inventory limitation. In other cases we support the decision of the original devs and change nothing about it, e.g. in regard to the "thumbs up" or "thumbs down" system in dialogues that was originally conceived instead of actual dialogue options for the player. 
 
 
 ### 6. Case: Some content was planned but couldn't be realised for technical reasons or due to a lack of time
