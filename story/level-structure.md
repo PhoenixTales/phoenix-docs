@@ -137,7 +137,8 @@ At the surface we have the *Old Camp*, *Free Camp*, *New Camp* and the *Psi Camp
 The *Demontower* turned out to become a separate .zen in the final version, but is not mentioned here; this may either be due to it being conceived as being significantly smaller in the Alpha (the later "sunken tower" is just re-using an older model of the Demontower) and thus unproblematic to include directly into the surface; it might as well be due to the idea of the story authors that the Demontower shouldn't be there at all in the beginning and would only have been erected in Chapter 2; or it might be due to the fact that the role of the demon evocator was very unclear and vague in the first story drafts. 
 {: .subtext }
 
-Underground & beyond we have the three mines: *Abandoned Mine*, *Old Mine* & *Free Mine* (the latter of which was also sometimes referred to as the "New Mine"). While it was not yet shown on the original abstract above, it is still a very early idea, that the mines should be connected (thus I have added this connection in red). At least the Abandoned Mine and the Free Mine were always supposed to be linked by a tunnel, which even plays an important role in Alex Wittmann's (once supposed to become official) gothic novel "[Sleeper's Ban](https://gothicarchive.org/documents/SleepersBan.html)". But in some later documents a connection between the Old Mine and the Orc Caves (perhaps through a connection with the Abandoned Mine) is also hinted at. 
+Underground & beyond we have the three mines: *Abandoned Mine*, *Old Mine* & *Free Mine* (the latter of which was also sometimes referred to as the "New Mine"). While it was not yet shown on the original abstract above, it is still a very early idea, that the mines should be connected (thus I have added this connection in red). At least the Abandoned Mine and the Free Mine were always supposed to be linked by a tunnel, which even plays an important role in Alex Wittmann's (once supposed to become official) gothic novel "[Sleeper's Ban](https://gothicarchive.org/documents/SleepersBan.html)".  
+In some later documents a connection between the Old Mine and the Orc Caves (perhaps through a connection with the Abandoned Mine) is also hinted at. 
 
 While imagining such a tunnel the reader has to keep in mind that the Free Mine and the Abandoned Mine were originally supposed to be much closer together (much closer even than the Old Mine and the Abandoned Mine in the release version), as one can see on [Mikes Orpheus map](https://media.gothicarchive.org/conceptart/mikehoge/maps/map3.jpg). 
 {: .subtext }
@@ -164,7 +165,6 @@ Tunnels between AM/FM/OM & Hö/OH
 Magical Tunnels between Surface and Temple
 
 [DW] | Demonworld
-
 ```
 
 
