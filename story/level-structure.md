@@ -17,7 +17,9 @@
 
 ## Preface 
 
-In this document we are dealing with the abstract level structure. We list every level or level section that was once supposed to be part of the game, describe the interconnection of the underground levels and analyse which levels were added or removed in course of the concept phase and during production. What we do not deal with here are the positions of these levels in the game world or how these positions changed (unless it is relevant for their connection or disconnection; otherwise it is dealt with in "Evolution of the World") nor do we deal with how those levels were changed in their particular design (which we do in "World Design"). 
+In this document we are dealing with the abstract level structure. We list every level or level section that was once supposed to be part of the game, describe the interconnection of the underground levels and analyse which levels were added or removed in course of the concept phase and during production.  
+
+What we do not deal with here are the positions of these levels in the game world or how these positions changed (unless it is relevant for their connection or disconnection; otherwise it is dealt with in "Evolution of the World") nor do we deal with how those levels were changed in their particular design (which we do in "World Design"). 
 
 
 ## Initial Level Structure
