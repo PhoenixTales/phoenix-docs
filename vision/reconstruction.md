@@ -61,7 +61,7 @@ In cases in which content was discarded, we always ask for the (potential) reaso
 
 ### 6. Case: Some content was planned but couldn't be realised for technical reasons or due to a lack of time
 
-For instance diverse Story Events or Missions. In difference to the old Piranha Bytes we do not have time pressure (other than our wish to complete the project in our lifetime). And we also do have much less technical limitations than they had at the time. Therefore, in such cases we realise on principle what they couldn't realise anymore (unless we cannot either, as may or may not be the case with the Multiplayer Coop). A similar, but rare case it is, when under the pressure of time, some already existing content was placed instead of the actually planned content, so that the actually planned content didn't have to be created anymore. In such cases we create the lacking content that was actually planned. 
+For instance diverse Story Events or Missions. In difference to the old Piranha Bytes we do not have time pressure (other than our wish to complete the project in our lifetime). And we also do have much less technical limitations than they had at the time. Therefore, in such cases we try to realise on principle what they couldn't (unless we can't either, as may or may not be the case with the Multiplayer Coop). A similar, but rare case it is, when under the pressure of time, some already existing content was placed instead of the actually planned content, so that the actually planned content didn't have to be created anymore. In such cases we create the lacking content that was actually planned. 
 
 
 ### 7. Case: Content is broken
