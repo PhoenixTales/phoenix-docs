@@ -10,7 +10,7 @@
     2. [Gothic (re)defined](/vision/gothic-defined)
 	3. A Clash of Dreams
 	4. Phoenix Rising
-	5. Reconstruction
+	5. [Reconstruction](/vision/reconstruction)
 2. Artdesign
 	1. Visuals
 		1. Retro Graphics

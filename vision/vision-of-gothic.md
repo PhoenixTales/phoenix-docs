@@ -17,12 +17,12 @@ layout: vision
 **Content:**
 
 1. [Preface](#preface)
-2. [What's Gothic (working title 'Phoenix' in 1998)?](#whats-gothic-working-title-phoenix-in-1998)
+2. [What is Gothic?](#what-is-gothic-working-title-phoenix)
     1. [Story and Setting](#story-and-setting)
-    2. [Direct Interaction - Essence of Roleplaying](#direct-interaction---essence-of-roleplaying)
+    2. [Direct Interaction](#direct-interaction---essence-of-roleplaying)
     3. [Key Elements](#key-elements)
 3. [1. Key Element: Visualisation](#1-key-element-visualisation)
-4. [2. Key Element: A Living world (NPC Behaviour) and Immersion](#2-key-element-a-living-world-npc-behaviour-and-immersion)
+4. [2. Key Element: A Living world](#2-key-element-a-living-world-npc-behaviour-and-immersion)
     1. [World Design](#world-design)
     2. [Sound Design](#sound-design)
 5. [3. Key Element: Classes and Playstyles](#3-key-element-classes-and-playstyles)
@@ -38,7 +38,7 @@ I have tried to collect the most relevant ideas of the Gothic devs on their visi
 I have consciously limited the collection to the oldest, earliest interviews from 1998, as they are by far the most interesting ones. They have described their ideas most clearly and radically there; when the game did not yet exist and they wanted to do everything differently, just describing their dream of a game that was still in conception.  
 
 
-## What's Gothic (working title 'Phoenix' in 1998)?
+## What is Gothic (working title 'Phoenix)?
 
 <p class="suptext">
   <em>"Other games suck,<br> 

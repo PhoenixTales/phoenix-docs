@@ -190,7 +190,7 @@ The monsters (at first Mike wanted to avoid the term "Orcs" in the same way he d
 A very cool background story, that most players of the game do not even know about: In ancient times the Orcs and Humans were living alongside each other on the surface of the earth. After a long time of war, slavery and oppression, the orcs, as it was written on the official Gothic website "fled from the racism of the humans into underground caves". One of these underground caves (natural caves, into which they have built their villages and cities) is under the colony of Khorinis and it was this clan who summoned the Sleeper a thousand years before the game takes place and who is since then living in fear of his awakening, bringing him sacrifices (human sacrifices, but their own blood as well) to calm him down. 
 
 This was most likely the background of what later in the Sequel would be described as the "Bloodearth Clan". 
-{ .subtext }
+{: .subtext }
 
 
 #### The Mages
