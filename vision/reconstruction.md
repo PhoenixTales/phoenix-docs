@@ -71,7 +71,7 @@ There are bugs due to mistakes in scripts, grammatical mistakes, wrong uv-mappin
 
 ### 8. Case: Content is unbelievable or illogical
 
-In some cases there are rough logical discrepancies in dialogues (e.g. "13. Mage"). A different example: A former stable, that is now used as a blacksmith's shop in the castle, has a chimney, but the smith stands directly in the opposing corner of the room at a forge. And on concept art the forge is shown in a believable way directly integrated into the chimney. Then of course we model this forge accordingly and change the position of the smith.  
+In some cases there are rough logical discrepancies in dialogues (e.g. "13. Mage"). A different example: A former stable, that is now used as a blacksmith's shop in the castle, has a chimney, but the smith stands directly in the opposite corner of the room at a forge. And on concept art the forge is shown in a believable way directly integrated into the chimney. Then of course we model this forge accordingly and change the position of the smith.  
 
 
 ### 9. Case: Content is "lacking" and added by ourselves
