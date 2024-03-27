@@ -18,7 +18,7 @@ But by taking all of this into account, we have to decide what to do with it. We
 We differentiate nine different cases of content to clarify.
 
 Content, which...
-* is not there anymore in newer versions
+* is no longer there in newer versions
 * is not there yet in older versions
 * was different in an older version
 * was different in diverse versions
