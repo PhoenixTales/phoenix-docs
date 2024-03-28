@@ -7,7 +7,7 @@
 1. [Preface](#preface)
 2. [Initial Level Structure](#initial-level-structure-1996-1997)
 3. [Early Phoenix Level Structure](#early-phoenix-level-structure-1998-1999)
-4. [Later Phoenix Level Structure](#later-phoenix-level-structure-2000)
+4. [Later Phoenix Level Structure](#later-phoenix-level-structure-late-2000)
 5. [Release Version Level Structure](#release-version-level-structure-2001)
 5. [Conclusion](#conclusion)
 
