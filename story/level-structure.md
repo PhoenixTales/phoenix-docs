@@ -72,7 +72,7 @@ All the other locations known from the game, such as the Old Fort or the Stone C
 
 The next relevant document is the [Phoenix Levelstructure concept](https://media.gothicarchive.org/documents/phoenix/PhoenixLevelstruktur.png). It goes into more detail of how the levels are interconnected and lists different sections within dungeons. While most of these dungeons were not yet created at this point, the *concept* presented below was roughly in place from the beginning until v0.6 and perhaps v0.7 (which was when a lot of the world changes at the surface occured; but we cannot say for sure in how far the concept of the dungeon structure was changed at this point). 
 
-<pre>  
+<pre class="small">  
 
                     ___                       /\           /\                                                  /_\
                   _/___/_ ___                 ||   _/|_ __ ||                                            _____ \_/ ___   

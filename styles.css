@@ -283,6 +283,10 @@ pre {
     color: var(--demonic);
   }
 
+  pre.small {
+    font-size: 14px;
+  }
+
 code {
   background: var(--darker);
   border: 1px solid var(--stone);
