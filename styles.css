@@ -502,7 +502,6 @@ hr {
   background-size: 90%;
   background-repeat: no-repeat;
   width: 100%;
-  padding: 120px 0 0;
 }
 
 .authorship {
@@ -685,6 +684,11 @@ and (max-width : 820px) {
   .phnx-mask {
     width: 100%;
     margin: 3em auto 0;
+  }
+
+
+  .setting {
+    margin-top: 2em;
   }
 
   pre, code {
