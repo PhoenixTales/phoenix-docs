@@ -407,7 +407,7 @@ hr {
 /* subtext addition */
 .subtext {
   font-size: 14px;
-  border: 2px solid var(--stone);
+  border: 1px solid var(--stone);
   background: var(--dark);
   padding: 1.5em;
   margin: 3em 0;
