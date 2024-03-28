@@ -268,7 +268,7 @@ footer {
 pre {
   border: 2px solid var(--stone);
   padding: 1em;
-  background: var(--dark);
+  /*background: var(--dark);*/
   margin: 1.5em 0 2em;
   max-width: 100%;
   overflow: auto;
@@ -288,7 +288,7 @@ pre {
   }
 
 code {
-  background: var(--darker);
+  /*background: var(--darker);*/
   border: 1px solid var(--stone);
   border-radius: 5px; 
   font-size: 14px;
