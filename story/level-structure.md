@@ -70,7 +70,7 @@ All the other locations known from the game, such as the Old Fort or the Stone C
 
 ## Early Phoenix Level Structure (1998-1999)
 
-The next relevant document is the Phoenix Levelstructure concept. It goes into more detail of how the levels are interconnected and lists different sections within dungeons.
+The next relevant document is the [Phoenix Levelstructure concept](https://media.gothicarchive.org/documents/phoenix/PhoenixLevelstruktur.png). It goes into more detail of how the levels are interconnected and lists different sections within dungeons. While most of these dungeons were not yet created at this point, the *concept* presented below was roughly in place from the beginning until v0.6 and perhaps v0.7 (which was when a lot of the world changes at the surface occured; but we cannot say for sure in how far the concept of the dungeon structure was changed at this point). 
 
 <pre>  
 
@@ -134,16 +134,16 @@ As you can see, the basic structure remained the same. No part of the level as i
 
 At the surface we have the *Old Camp*, *Free Camp*, *New Camp* and the *Psi Camp* (called *Sect Temple* back then) as technically separate levels, while the *Stone Circle* is also specifically mentioned, inspite of technically not being separated from the surface, due to its importance in the story, where it was supposed to serve as the hub of the portals to the different temple areas (that had to be unlocked inside of the temple). 
 
-The *Demontower* turned out to become a separate .zen in the final version, but is not mentioned here; this may either be due to it being conceived as being significantly smaller in the Alpha (the later "sunken tower" is just re-using an older model of the Demontower) and thus unproblematic to include directly into the surface; it might as well be due to the idea of the story authors that the Demontower shouldn't be there at all in the beginning and would only have been erected in Chapter 2; or it might be due to the fact that the role of the demon evocator was very unclear and vague in the first story drafts. 
+The *Demontower* turned out to become a separate .zen in the final version, but is not mentioned here; this may either be due to it being conceived as significantly smaller in the Alpha (the later "sunken tower" is just re-using an older model of the Demontower) and thus unproblematic to include directly into the surface; it might as well be due to the idea of the story authors that the Demontower shouldn't be there at all in the beginning and would only have been erected in Chapter 2; or it might be due to the fact that the role of the demon evocator was very unclear and vague in the first story drafts. 
 {: .subtext }
 
-Underground & beyond we have the three mines: *Abandoned Mine*, *Old Mine* & *Free Mine* (the latter of which was also sometimes referred to as the "New Mine"). While it was not yet shown on the original abstract above, it is still a very early idea, that the mines should be connected (thus I have added this connection in red). At least the Abandoned Mine and the Free Mine were always supposed to be linked by a tunnel, which even plays an important role in Alex Wittmann's (once supposed to become official) gothic novel "[Sleeper's Ban](https://gothicarchive.org/documents/SleepersBan.html)".  
-In some later documents a connection between the Old Mine and the Orc Caves (perhaps through a connection with the Abandoned Mine) is also hinted at. 
+Underground & beyond we have the three mines: *Abandoned Mine*, *Old Mine* & *Free Mine* (the latter of which was also sometimes referred to as the "New Mine"). While it was not yet shown on the original abstract above, it is still a very early idea, that the mines should be connected (thus I have added this connection in red). The Abandoned Mine and the Free Mine were always supposed to be linked by a tunnel, which even plays an important role in Alex Wittmann's (once supposed to become official) gothic novel "[Sleeper's Ban](https://gothicarchive.org/documents/SleepersBan.html)".  
+But in later documents a connection between the Old Mine and the Orc Caves (perhaps through a connection with the Abandoned Mine) is also hinted at, making them all interconnected.
 
 While imagining such a tunnel the reader has to keep in mind that the Free Mine and the Abandoned Mine were originally supposed to be much closer together (much closer even than the Old Mine and the Abandoned Mine in the release version), as one can see on [Mikes Orpheus map](https://media.gothicarchive.org/conceptart/mikehoge/maps/map3.jpg). 
 {: .subtext }
 
-It is not sure what the rock clefts towards the Sect Temple were practically supposed to mean, but the swamp was located near to what the documents describe as the "Cliffs in the Southeast", in the middle of which the Demontower was located. It could be that it is about clefts between these cliffs and maybe inside the swamp forest too, through which the player could fall (or potentially climb) all the way down to the "Orc Caves". Please note that the *Orc Graveyard* (at the surface) was not a part neither of the initial nor of the early Phoenix level structure. And in the same way there was not supposed to be a simple direct entrance to the underground Orc City at the surface except for these clefts; the regular path into the Orc Caves (or City, as it was later called internally) was through the Mines and Natural Caves.
+It is not sure what the rock clefts towards the Sect Temple were practically supposed to mean, but the swamp was located near to what the documents describe as the "Cliffs in the Southeast", in the middle of which the Demontower was located. The clefts might have been imagined to be between these cliffs and maybe inside the swamp forest too, through which the player could fall (or potentially climb) all the way down to the "Orc Caves". Please note that the *Orc Graveyard* (at the surface) was not a part neither of the initial nor of the early Phoenix level structure. And in the same way there was not supposed to be a simple direct entrance to the underground Orc City at the surface except for these clefts; the regular path into the Orc Caves (or City, as it was later called internally) was through the Mines and Natural Caves.
 
 Thus, at this stage we have the following level structure:
 
@@ -168,28 +168,28 @@ Magical Tunnels between Surface and Temple
 ```
 
 
-## Later Phoenix Level Structure (2000)
+## Later Phoenix Level Structure (late 2000)
 
-At this stage the original level structure from the concepts was started to be changed. 
+But then (corresponding versions v0.7-0.8) the original level structure from the concepts was started to be changed. 
 
-It is reasonable to assume that the Orc City level, that is still to be found in the Gothic MDK, was the realisation of one of the two before mentioned "Orc Cave" levels. And in this case, the Orc Graveyard may be the other of the two (or what remained of it, after the concept was changed as we will describe below). And thus we have to assume that the Orc Graveyard was originally meant to be a part of the underground Orc City or a separate level close to or connected to it.
+The Orc City level, that is still to be found in the Gothic MDK, was the realisation of at least one of the two before mentioned "Orc Cave" levels (if not both of them; since the Orc City model is thematically divided into natural caves in the beginning and the actual city of the orcs at the end of the level). Thus it is reasonable to assume that the Orc Graveyard was the other of the two (or what remained of it, after the concept was changed as we will describe below). In any way: We can be very sure that the Orc Graveyard was originally meant to be a part of the underground Orc City or a separate level close to or connected to it (and there is a very fitting section in the OrcCity level that seems to lead to nowhere, where the levelchange trigger to the Graveyard could have been).
 
-But now, in opposition to the concepts, when the levels were actually getting implemented into the game world, both the Orc Graveyard and the Orc City became levels to be accessed separately and directly from the surface, instead of through the Mines. This was a dynamic change by which the level designers deviated from the concept during production and it happened as early as v0.8 or even v0.7 (while in v0.6 the levels or any connection to them from other levels did not yet exist as far as we know). I do not want to say that this change was made against the plannings of the story department; since in that process the story itself was changed too.  
+But now, in opposition to the concepts, when the levels were actually getting implemented into the game world, both the Orc Graveyard and the Orc City became levels to be accessed separately and directly from the surface, instead of through the Mines. This was a dynamic change by which the level designers deviated from the concept during production and it happened as early as v0.8 or even v0.7 (while in v0.6 the levels or any connection to them from other levels did not yet exist or were still in the process of being made, as far as we know). I do not want to say that this change was made against the plannings of the story department; since in this process the story itself was changed too.  
 
-It may not be obvious for some readers how much of a deviation from the initial idea it was. According to the initial plan, the player was meant to experience this underworld as a big interconnected cave system with several levels leading him continuously deeper. He was supposed to enter the three mines from the surface, then the deeper areas of the mines, where they transition into unexplored territory, tunnels of monsters, minecrawler lairs; and deeper again he would travel through the natural caves until being confronted by a whole underground city of Orcs; and from here deeper and deeper again he would descend into the unknown when discovering the Ancient Temple, build in different descending levels, with the deepest level being the invocation hall, the sanctum of the Sleeper at the very bottom of the game world; and thus at the bottom of his exploration. 
+It may not be obvious for some readers how much of a deviation from the initial idea it was. According to the old plan, the player was meant to experience this underworld as a big interconnected cave system with several levels leading him continuously deeper. He was supposed to enter the three mines from the surface, then the deeper areas of the mines, where they transition into unexplored territory, tunnels of monsters, minecrawler lairs; and deeper again he would travel through the natural caves until being confronted by the underground city of Orcs; and from here even deeper he would descend into the unknown, exploring the Ancient Temple, build in different descending levels, with the deepest level being the invocation hall, the sanctum of the Sleeper at the very bottom of the game world; and thus at the bottom of his exploration. 
 
-This was the idea, an idea which of course was hard to realise. And for this or for different reasons, which we don't know, it was discarded. Instead of one connected underground where the exploration of one level gave access to the next deeper level below in a vertical way, now all the levels where presented much more "horizontally", each accessible on its own, except for the Ancient Temple which was still supposed to be acceesible only through the underground Orc City.  
+This was the idea which was discarded for whatever reason. Instead of one connected underground where the exploration of one level gave access to the next deeper level below in a vertical way, now all the levels where presented much more "horizontally", each accessible on its own, except for the Ancient Temple which was still supposed to be acceesible only through the underground Orc City.  
 
-While the structure of the levels and their connection changed a lot at this stage, at least all the levels themselves that we listed above (except for the "tunnels" between the mines, which may or may not have been meant to be separate levels) were still supposed to appear in the game. But not for long.
+While the structure of the levels and their connection changed a lot at this stage, at least the levels themselves that we listed above (except for the connections between the mines) were all still supposed to appear in the game. But not for long.
 
 
 ## Release Version Level Structure (2001)
 
-Now to the release version. Long story short, alongside the extremely simplified story line of the release version, the final level structure was reduced a lot too: 
+Now to the release version. Long story short, alongside the extremely simplified story line of the release version, the final level structure was also tremendously reduced: 
 
-* The Abandoned Mine which was so important before, as the connection to the Free Mine and the Orc Caves, was completely removed.
-* The Free Mine (which once was playing the biggest part in the story of all the mines) was still there, but narratively it was now almost completely unused (which also led them to change the models between Old Mine and Free Mine; the dungeon that players know from the release version as the Old Mine was actually meant to be the Free Mine and vice versa).
-* No connection could be realised anymore between any of the mines as well as there was no connection anymore between the mines and the Orc Caves/City.
+* The Abandoned Mine which was so important before, as the connection to the Free Mine and the Orc Caves, was removed completely.
+* The Free Mine (which once was playing the biggest part in the story of all the mines) was still there, but narratively it only played a fracture of the role it was supposed to have (which also led them to change the models between Old Mine and Free Mine; the dungeon that players know from the release version as the Old Mine was actually meant to be the Free Mine and vice versa).
+* No connection could be realised anymore between any of the mines as well as there was no longer any connection between the mines and the Orc Caves/City.
 * The Orc City was completely removed alongside all the story that was supposed to take place there; while little parts of it were recycled in form of a smaller village at the surface, which was by far the biggest of all the cuts in the level structure.
 * The Temple could only be made about half as big as imagined (no four levels) with many ideas of both Mike and Ralf being lost and instead of having to open the ancient portal to the temple inside of the underground Orc City, now the access was a dumb gate in the recycled surface village of the orcs.
 * The Demonworld could not be realised anymore at all. 
@@ -207,7 +207,7 @@ It should be obvious that our solution for PHOENIX is the return to the initial 
         <em>Creative Director</em><br>  
         <br>
         <strong>Created:</strong> 03.11.2023<br>  
-        <strong>Last Change:</strong> 27.03.2024  
+        <strong>Last Change:</strong> 28.03.2024  
     </p>
 </div>
 

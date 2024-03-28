@@ -48,9 +48,9 @@
 		4. MetaPhysics
 		5. History
 	2. World
-		1. Level Structure (Abstract)
-		2. World Development (Research)
-		3. World Descriptions <!-- Gothic & Cosmic Horror -->
+		1. [Level Structure](/story/level-structure)
+		2. Evolution of the Map
+		3. World Design <!-- Gothic & Cosmic Horror -->
 			1. Levels
 			2. Camps
 			3. Guilds

@@ -7,11 +7,15 @@ In order to analyse the original story concept of Gothic we have to differentiat
 
 We distinguish between the following versions or iterations of the Story.
 
-1. Orpheus (1996)
-2. Early Phoenix (1997-1999)
-3. Late Phoenix (1999-2000)
-4. First Cuts (2000)
-5. Release (2001)
+```
+
+1. Initial Orpheus Plot (1996)              | Plot V1
+2. Early Phoenix Plot (1997-1999)           | Plot V2-3
+3. Late Phoenix Plot (first half of 2000)   | Plot V3-4
+4. First Cuts (second half of 2000)         | Plot V5
+5. Release (2001)                           | Plot V6
+
+```
 
 
 ## Orpheus (1996)
