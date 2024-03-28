@@ -20,7 +20,7 @@ In this document we are dealing with the abstract level structure. We list every
 What we do not deal with here are the positions of these levels in the game world or how these positions changed (unless it is relevant for their connection or disconnection; otherwise it is dealt with in "Evolution of the World") nor do we deal with how those levels were changed in their particular design (which we do in "World Design"). 
 
 
-## Initial Level Structure
+## Initial Level Structure (1996-1997)
 
 One of the earliest summaries of the levels of the game world were written on an early Psi Camp sketch by Mike as a suggestion for internal shortcuts, during the Orpheus phase:
 
@@ -68,7 +68,7 @@ Please take into account, that the Free Mine, even if called "Mine" here, is lis
 All the other locations known from the game, such as the Old Fort or the Stone Circle and other landmarks like these are not conceptualised as levels on their own, as they are part of the general "surface" (therefore we will not deal with them here, where it is about the abstract level structure only). This is consistent with the structure in the game data, where all the camps, mines, dungeons and the surface are seperate .zen files; although the surface is then merged with the four camps to a "world.zen".
 
 
-## Early Phoenix Level Structure
+## Early Phoenix Level Structure (1998-1999)
 
 The next relevant document is the Phoenix Levelstructure concept. It goes into more detail of how the levels are interconnected and lists different sections within dungeons.
 
@@ -168,7 +168,7 @@ Magical Tunnels between Surface and Temple
 ```
 
 
-## Later Phoenix Level Structure
+## Later Phoenix Level Structure (2000)
 
 At this stage the original level structure from the concepts was started to be changed. 
 
@@ -183,7 +183,7 @@ This was the idea, an idea which of course was hard to realise. And for this or 
 While the structure of the levels and their connection changed a lot at this stage, at least all the levels themselves that we listed above (except for the "tunnels" between the mines, which may or may not have been meant to be separate levels) were still supposed to appear in the game. But not for long.
 
 
-## Release Version Level Structure
+## Release Version Level Structure (2001)
 
 Now to the release version. Long story short, alongside the extremely simplified story line of the release version, the final level structure was reduced a lot too: 
 
