@@ -17,7 +17,7 @@
 
 In this document we are dealing with the abstract level structure. We list every level or level section that was once supposed to be part of the game, describe the interconnection of the underground levels and analyse which levels were added or removed in course of the concept phase and during production.  
 
-What we do not deal with here are the positions of these levels in the game world or how these positions changed (unless it is relevant for their connection or disconnection; otherwise it is dealt with in "Evolution of the World") nor do we deal with how those levels were changed in their particular design (which we do in "World Design"). 
+What we do not deal with here are the positions of these levels in the game world or how these positions changed (for this read "Evolution of the Map") unless it is about a change in the structure of dungeons which were thereby connected or disconnected, nor do we deal with how those levels were changed in their particular design (which we do in "World Design"). 
 
 
 ## Initial Level Structure (1996-1997)
@@ -33,13 +33,7 @@ One of the earliest summaries of the levels of the game world were written on an
 ```
 
 We can summarise this list as follows:  
-The first line lists the four camps at the *overworld*.  
-The second and third line summarise the *underworld*;  
-where the second are the underground mines and caves,  
-while the third are the parts of the underworld, where  
-reality begins to be diffused with the *demonworld*.   
-The fourth is the *overworld* surrounding the camps.  
-Beyond it all, not mentioned here, the *outside world*.   
+The first line lists the four camps at the *overworld*. The second and third line summarise the *underworld*; where the second are the underground mines and (orc) caves, while the third are the ancient temple and the *demonworld*. The fourth is the *overworld* surrounding the camps. Beyond it all, not mentioned here, the *outside world*.   
 
 The shortcuts mean and translate as follows:
 
@@ -61,11 +55,13 @@ OW | Oberwelt         -- | Surface
 AW | Außenwelt        OW | Outside World
 ```
 
-These shortcuts sometimes led to some confusion also among the original team, as in the beginning only the german shortcuts were used and the english shortcuts were introduced much later. Some earlier levels did never receive an english shortcut. For instance, "AM" is the Old Mine in German, but the Abandoned Mine in English. "OW" is the "Surface" in German, but may be interpreted as the "Outside World" (beyond the barrier) in English. 
+These shortcuts sometimes led to some confusion even among the original team, as in the beginning only the german shortcuts were used and the english shortcuts were introduced much later. Some earlier levels did never receive an english shortcut. For instance, "AM" is the Old Mine in German, but the Abandoned Mine in English. "OW" is the "Surface" in German, but may be interpreted as the "Outside World" (beyond the barrier) in English. 
 
 Please take into account, that the Free Mine, even if called "Mine" here, is listed as one of the camps. This is not a mistake. It was also called "Freies Lager" (Free Camp) in the earliest concepts (short FL, or in english FC) and the level (.zen) is still called "Free Mine Camp" (with waypoints named "FMC") to seperate it from the "Free Mine" dungeon. 
 
-All the other locations known from the game, such as the Old Fort or the Stone Circle and other landmarks like these are not conceptualised as levels on their own, as they are part of the general "surface" (therefore we will not deal with them here, where it is about the abstract level structure only). This is consistent with the structure in the game data, where all the camps, mines, dungeons and the surface are seperate .zen files; although the surface is then merged with the four camps to a "world.zen".
+All the other locations known from the game, such as the Old Fort and other landmarks like this are not conceptualised as levels on their own, as they are part of the general "surface" (therefore we will not deal with them here, where it is about the abstract level structure only). 
+
+This is consistent with the structure in the game data, where all the camps, mines, dungeons and the surface are seperate .zen files that are edited independently; although in the end the surface is merged with the four camps to a "world.zen".
 
 
 ## Early Phoenix Level Structure (1998-1999)
