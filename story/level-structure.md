@@ -134,7 +134,7 @@ The *Demontower* turned out to become a separate .zen in the final version, but 
 {: .subtext }
 
 Underground & beyond we have the three mines: *Abandoned Mine*, *Old Mine* & *Free Mine* (the latter of which was also sometimes referred to as the "New Mine"). While it was not yet shown on the original abstract above, it is still a very early idea, that the mines should be connected (thus I have added this connection in red). The Abandoned Mine and the Free Mine were always supposed to be linked by a tunnel, which even plays an important role in Alex Wittmann's (once supposed to become official) gothic novel "[Sleeper's Ban](https://gothicarchive.org/documents/SleepersBan.html)".  
-But in later documents a connection between the Old Mine and the Orc Caves (perhaps through a connection with the Abandoned Mine) is also hinted at, making them all interconnected.
+But in later documents a connection between the Old Mine and the Orc Caves (perhaps through a connection with the Abandoned Mine) is also hinted at, making them all interconnected. Although the connection from the Old Mine is only ever mentioned in the context of the "lost mine" - e.g. after the mine runs full of water due to the earthquakes during the *Final Prayer*, from which we could deduce, as Dmitriy suggested, that this connection might only open up at this point in course of the (partial) collapse of the mine.
 
 While imagining such a tunnel the reader has to keep in mind that the Free Mine and the Abandoned Mine were originally supposed to be much closer together (much closer even than the Old Mine and the Abandoned Mine in the release version), as one can see on [Mikes Orpheus map](https://media.gothicarchive.org/conceptart/mikehoge/maps/map3.jpg). 
 {: .subtext }
