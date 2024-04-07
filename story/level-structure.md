@@ -1,23 +1,19 @@
 # Level Structure
 
-**Author:** Flosha  
+**Author:** *Flosha*  
 
-**Content:**  
-
-1. [Preface](#preface)
-2. [Initial Level Structure](#initial-level-structure-1996-1997)
-3. [Early Phoenix Level Structure](#early-phoenix-level-structure-1998-1999)
-4. [Later Phoenix Level Structure](#later-phoenix-level-structure-late-2000)
-5. [Release Version Level Structure](#release-version-level-structure-2001)
-5. [Conclusion](#conclusion)
-
-
-
-## Preface 
 
 In this document we are dealing with the abstract level structure. We list every level or level section that was once supposed to be part of the game, describe the interconnection of the underground levels and analyse which levels were added or removed in course of the concept phase and during production.  
 
 What we do not deal with here are the positions of these levels in the game world or how these positions changed (for this read "Evolution of the Map") unless it is about a change in the structure of dungeons which were thereby connected or disconnected, nor do we deal with how those levels were changed in their particular design (which we do in "World Design"). 
+
+
+**Content:**  
+1. [Initial Level Structure](#initial-level-structure-1996-1997)
+2. [Early Phoenix Level Structure](#early-phoenix-level-structure-1998-1999)
+3. [Later Phoenix Level Structure](#later-phoenix-level-structure-late-2000)
+4. [Release Version Level Structure](#release-version-level-structure-2001)
+5. [Conclusion](#conclusion)
 
 
 ## Initial Level Structure (1996-1997)
@@ -210,7 +206,7 @@ It should be obvious that our solution for PHOENIX is the return to the initial 
 
 ## Read next
 
-* Evolution of the Map (wip)
+* [Evolution of the Map](/story/map-evolution)
 
 
 
