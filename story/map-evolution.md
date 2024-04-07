@@ -169,8 +169,8 @@ With ~v0.7, when new level designers joined the team, namely Horst Dworczak, Mar
 * The original "Orc Area" was added between the demontower and the Stone Circle, with an entrance to the OrcCaves dungeon. 
 * The Fogtower remained at the former stone circle position only; no tower was left close to the swamp where the fogtower was meant to be and the lighttower didn't seem to have been modeled either. 
 * The Swamp was modeled, but with a very limited scope, since they didn't follow Mikes last sketch with a long coast in the middle of the east, but chose to let the Swamp transition into the sea almost immediately behind the Psi Camp. 
-* The Rune Temple idea in the lake ("Island of Resurrection") was discarded and the stone cirlce was modeled at the position it is known by. 
-* The "Old Temple" was added (this is referring to the earlier model of the later so-called Monastery Ruins) on the other side of the northern river, where it flows into the sea, opposite to the fogtower and the beach. 
+* The idea of the "Island of Resurrection" was discarded, instead the stone cirlce was modeled at its release position. 
+* The "Old Temple" was added (this is referring to the original model of the later so-called Monastery Ruins) on the other side of the northern river, where it flows into the sea, opposite to the fogtower.
 * The Goblin Cave was added south of the big forest, north of the big lake.
 * The Entrance to the Orc Cemetary was added.
 * Quentin's Camp was added 
