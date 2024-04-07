@@ -122,7 +122,7 @@ The Old Mine remained in the south exactly as Mike envisioned it. Ralf just deve
 
 ![Southeastern Lake](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Abschnitt_B4_Turm-des-Dmb.jpg)
 
-It is this lake that would later be totally disconnected from the demontower and in the middle of which the "sunken tower" would be placed in even later versions.
+It is this lake that would later be totally disconnected from the demontower and in the middle of which the "sunken tower" would be placed.
 {: .subtext}
 
 Another area that was added during this phase in Ralfs concepts, was the [Hermit's valley](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Abschnitt_B4_Eremitental.jpg) in the south of the Psi Camp (and thus in the east of the demontower). He also made a [concept of the "pass"](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Abschnitt_A1_AlterPass.jpg) that Mike had added to his latest sketch in the west, south of the Free Mine (which at this point would mean south of the New Camp). The Troll Canyon was also modeled roughly at this time in v0.56c and v0.64b, but no concepts by Ralf are known from this area. 
