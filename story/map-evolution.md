@@ -30,7 +30,7 @@ The sketch below is most likely from 1995. It was just a rough draft of a concep
 
 ![First Map Sketch by Mike](/_img/story/map/map1.jpg)
 
-The barrier here was drawn just as a line at the northern border of the colony, protecting the cliff as the only way out, to prevent the prisoners from escape (this changed into the idea of a spherical barrier very early on, but not here). The Marketplace in the very north was there from the start. 
+The barrier here was drawn just as a line at the northern border of the colony, protecting the cliff as the only way out, to prevent the prisoners from escape (this changed into the idea of a spherical barrier very early on, but not here). The Marketplace was in the very north from the start. 
 
 In the middle of the colony was supposed to be "Midstadt" (Midcity), later the "liberal camp" (as it was called because it was here that the convicts liberated themselves and initiated the revolt; establishing a new rule in the former prison castle and building the "outskirts", the later outer ring of the camp). The Mercenary Camp ("Gladiators" is written under it) is drawn in the southwest, with fields north of it. The Psi Camp was drawn in the northwest, with the idea of some thieves hiding there. And the Free Camp with the free diggers and their mine was in the northwest. 
 
