@@ -49,7 +49,7 @@
 		5. History
 	2. World
 		1. [Level Structure](/story/level-structure)
-		2. Evolution of the Map
+		2. [Evolution of the Map](/story/map-evolution)
 		3. World Design <!-- Gothic & Cosmic Horror -->
 			1. Levels
 			2. Camps
