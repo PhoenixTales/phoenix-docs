@@ -139,7 +139,7 @@ And this is basically it. The world was in the process of being made according t
 
 * All the three camps were already modeled at this point, not that much about them would change anymore (and not that much of Ralfs concepts was actually realised in them).
 * You see the New Camp now in the north (it is more in the middle of the map, but north in comparison to the south in which it was originally meant to be), you also see the northern river running towards it, but in the model it was not yet connected to the camp. 
-* The Psi Camp already being a swamp, surrounded by forests (these forests were supposed to be made much bigger and without these gaps inbetween them in the next iteration). You can also can see the coast line as in Mikes sketch, but here it is completely disconnected from the camp, being unaccessible mountain terrain. And for unknown reasons the river from the south did not flow into the swamp as drawn on all the maps, but directly into the ocean north of it.
+* The Psi Camp already being a swamp, surrounded by forests (later these forests were supposed to be made bigger and without these gaps inbetween). You also can see the coast line as in Mikes sketch, but here it is completely disconnected from the camp, unaccessible mountain terrain. And for unknown reasons the river from the south did not flow into the swamp as drawn on all the maps, but directly into the ocean north of it.
 * You can see the fogtower at the former position of the stone circle in Mikes maps. 
 * But no trace of the monastery ruins, which are also not known from any concept arts or sketches. 
 * You see the big northern forest and the "lake" directly connected to the ocean (but positioned a bit higher than the ocean).
@@ -150,7 +150,7 @@ And this is basically it. The world was in the process of being made according t
 * The Free Mine was not yet modeled either, but it was supposed to be placed behind the small gap in the mountains that you see south of the New Camp. 
 * East of this entrance to the Free Mine and directly south of the Old Camp you can see the tall mountain with the Old Fort, as it was placed here on Ralfs concept.  
 * The very big gap in the mountains in the southwest was supposed to become the entrance to the Old Mine. As you see, in opposition to all the map sketches, in the actual modeling approaches it was far more in the west instead of directly in the south.
-* And the two lakes here in the south of the map, these are the southern lake and the "hidden lake", the demontower was meant to be modeled here directly east of these lakes on a cliff. But at this point in time the demontower did not yet exist and the terrain was totally flat. 
+* And the two lakes here in the south of the map, these are the southern lake and the "hidden lake", the demontower was meant to be modeled here directly east of these lakes on a cliff. But at this point a tower model was not yet made; the terrain was totally flat. 
 * Please note that the Mountain Fortress, the Orc Cemetery, anything like an "Orc Area" and so on did not only *not* exist in this world model, but there was also *no conception* of them; they were not supposed to be there. 
 
 
