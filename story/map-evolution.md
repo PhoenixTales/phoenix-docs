@@ -171,15 +171,14 @@ With ~v0.7, when new level designers joined the team, namely Horst Dworczak, Mar
 * The Swamp was modeled, but with a very limited scope, since they didn't follow Mikes last sketch with a long coast in the middle of the east, but chose to let the Swamp transition into the sea almost immediately behind the Psi Camp. 
 * The idea of the "Island of Resurrection" was discarded, instead the stone cirlce was modeled at its release position. 
 * The "Old Temple" was added (this is referring to the original model of the later so-called Monastery Ruins) on the other side of the northern river, where it flows into the sea, opposite to the fogtower.
-* The Goblin Cave was added south of the big forest, north of the big lake.
+* The Goblin Cave was added at its release position, although it was seemlessly connected to the beach of the warans in the release version; the water didn't run down here.
 * The Entrance to the Orc Cemetary was added.
-* Quentin's Camp was added 
-* The Troll Canyon from 0.56c and 0.64b was moved to a bit of a different position and higher up the mountains close to Quentin's Camp.
+* Quentin's Camp was added.
+* The Troll Canyon from 0.64b was moved to a bit of a different position, higher up the mountains close to Quentin's Camp.
 * The friends meeting place was added.
 * The way leading up towards the Old Fort was changed significantly.
-* A plateau was added with a hut (Gilberts hut at this point), which may have been what Ralfs idea of the "Hermit's Valley" developed into. 
-* A forest was added in the southwest between this Orc Area and the Old Camp.
-* A new pass was added 
+* A plateau was added with a hut (Gilberts hut at this point). It may be what Ralfs idea of the "Hermit's Valley" developed into. 
+* A forest was added in the southwest between the Old Camp and the new Orc Area (referring just to the small terrain with the entrance to the orc caves, not to the later version of the world, in which "Orc Area" refers to a much bigger terrain).
 
 It is this map that the players who waited for Gothic before its release were familiar with. It is this map of which the most alpha screenshots exist and which was promoted the most. It had a significant impact on the expectations of the players and their perception of the game world. 
 
@@ -192,11 +191,11 @@ There is still a lot that has changed from the map above towards the final map. 
 
 * The Psi Camps prominent and unique temple tree was removed and instead the temple from stone and its stonen front court were added known by players from the release version. 
 * The Monastery Ruins were redesigned into the strange mess we know from the release version (noteworthily a tower appeared with some similarities with the fogtower that could be interpreted as an early model for the light house conceived by Ralf).
-* The Path leading down from the exchange place into the valley was moved to a different position, as we know it from the release version.
-* The cleft from the Troll Canyon was removed, probably because the Troll didn't throw any gobbos anymore anyway as that feature was cut - and did not anymore live in his troll hoard, just wandering around in the "canyon"; perhaps also because of bad behaviour of the Gobbos falling into the cliff and/or pathfinding issues when it was decided that Diego should be there with the player - even if it is hard to call it "canyon" with it being just big flat plane surrounded by mountains. 
-* A little recycled Orc Village was added at the former OrcCave entrance due to the removal of the underground OrcCity which to implement was no time anymore.
-* The whole area betweenn the Old Camp and Aidan was changed significantly, Cavalorn's hut was added as well as the path towards the Orc "arena" and so on. 
-* Due to the redesign above of the plains between OC and Aidan that apparently seemed to be too boring for them, the forest in the southwest didn't fit here anymore, was removed and instead placed northeast of the Old Camp.
+* The Path leading down the exchange place into the valley was moved to its position from the release version at the outside of the mountain instead of further north inbetween the mountains.
+* The cleft from the Troll Canyon was removed, probably because the Troll didn't throw any gobbos anymore anyway as that feature was cut - and did not anymore live in his troll hoard, just wandering around in the "canyon"; perhaps also because of bad behaviour of the Gobbos falling into the cliff and/or pathfinding issues when it was decided that Diego should be there with the player. <!--even if it is hard to call it "canyon" with it being just big flat plane surrounded by mountains. -->
+* A little recycled Orc village was added at the former OrcCave entrance due to the removal of the underground OrcCity which to implement was no time anymore.
+* The whole area betweenn the Old Camp and Aidan was changed significantly, Cavalorn's hut was added as well as the path towards the totally unused Orc "arena" (which was not a concept of any design concepts and didn't have any purpose in the story either as far as we can say). 
+* Due to the redesign above of the plains between OC and Aidan the forest in the southwest didn't fit here anymore, was removed and instead placed northeast of the Old Camp.
 * The entire mountain fortress was added. The fortress was basically placed at a position where originally the Demontower was supposed to be on both Mikes and Ralfs concepts, while the Demontower itself was placed roughly at the position where Mike originally envisioned the "Old Fort". 
 * The Old Pass was removed again with the path just suddenly ending in a mountain wall. 
 
