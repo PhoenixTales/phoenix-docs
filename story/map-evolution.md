@@ -3,7 +3,7 @@
 
 **Author:** *Flosha*
 
-In the Level Structure document we analysed the abstract structure of the levels that were supposed to be in the game. Here we deal with the layout of these levels, of the surface or the "overworld" to be more specific (world.zen). We deal with (1) the scope of the barrier (2) the position of camps, forests, rivers, the ocean and important landmarks and (3) how they were moved around in course of development all the way to the final layout.
+In the [Level Structure](/story/level-structure) document we analysed the abstract structure of the levels that were supposed to be in the game. Here we deal with the layout of these levels, of the surface or the "overworld" to be more specific (world.zen). We deal with (1) the scope of the barrier (2) the position of camps, forests, rivers, the ocean and important landmarks and (3) how they were moved around in course of development all the way to the final layout.
 
 In the World Design documentation we will "meta-analyse" this evolution of the map, not by analysing one layout of the world after another, as we do here, but by looking at the individual locations specificially as they changed throughout development and speculating about the reasoning behind these changes, before we draw conclusions for our implementation of the overworld in PHOENIX. 
 
