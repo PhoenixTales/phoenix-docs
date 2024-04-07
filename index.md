@@ -49,7 +49,7 @@ APPENDIX
 3. Credits
 ```
 
-Whenever a topic has a source in design documents, old builds of the game or both our documentation is structured in an "Alpha" and a "Phoenix" section:  
+Whenever a topic has a source in design documents, old builds of the game or both, our documentation is structured in an "Alpha" and a "Phoenix" section:  
 
 ```
 (1) Research of how aspect X was planned  
