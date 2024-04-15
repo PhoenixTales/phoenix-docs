@@ -173,7 +173,7 @@ Thus, at gamestart...
 &#8594; the FC will have about 40-50 NPCs (~45)  
 &#8594; the SC will have about 50 NPCs  
 
-The sect will grow from 50 (Phoenix Concept, which takes precedence here) to ~99 NPCs (without a change in the total number of NPCs in the game world - unless for 3-5 additional convicts at most). So there would need to be 49 NPCs who join the sect in course of the first three to four chapters, most of them from the Old Camp, which would shrink the OC from about 210 NPCs to ~161 (not considering here all the NPCs who die in course of the story), which leaves us with a decent and believable evolution that we may be able to display dynamically in the story. 
+The sect will grow from 50 (the Phoenix Concept takes precedence) to ~99 NPCs (without a change in the total number of NPCs in the world - unless for a few additional convicts). So there would need to be 49 NPCs who join the sect in course of the first three to four chapters, most of them from the Old Camp, which would shrink the OC from about 210 NPCs to ~161 (not considering here all the NPCs who die in course of the story), which leaves us with a decent and believable evolution that we may be able to display dynamically in the story. 
 
 There are also some guildless people and Quentin's little gang that we will have to deal with independently. But to summarise the structure: There will be about ~400 NPCs in the world of Act I. 
 
