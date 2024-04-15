@@ -1,3 +1,88 @@
+# World
+
+At first we will deal with the design of the levels of Act I, everything within the Colony before the fall of the barrier, divided into Overworld and Underworld design. Then we will deal with the levels of Act II, which contains the colony as it changed after the fall of the barrier, with the design of the city and its surroundings as a small explorable section of the outside world. 
+
+Then we will analyse the evolution of the different factions ("guilds") in the world and what to make of them. <!--, then with the NPCs and their initial placement ("start routine") in the world (the "setup" that the player will be confronted with).--> 
+
+And finally we will deal with the placement of objects (non-takeable, static objects, moveable or useable objects as well as takeable objects, items).
+
+--- 
+
+**Content:**
+
+1. Level Design
+    * Level Structure
+    * Evolution of the Map
+    * Act I (The Colony)
+        1. Overworld
+            1. Design of the North
+            2. Design of the South
+            3. Old Camp Overhaul
+            4. The Free Camp & the Rock Cemetary
+            5. New Camp Overhaul
+            6. The Swamp & the Psi Camp
+            7. Climate & Vegetation
+        2. Underworld
+            1. Abandoned Mine
+            2. Old Mine
+            3. Free Mine
+            4. Various Caves
+            5. Natural/Orc Caves
+            6. Orc City
+            7. Ancient Temple
+    * Act II (Colony & Outside World) 
+        1. The Colony Revisited
+        2. Passes and Borders
+        3. City Surroundings
+            1. The Ricefields
+            2. The Abandoned Factory
+            3. The Manor of the Lord
+            4. The Big Forest
+            5. Mountain Ranges
+            6. Lakes and Rivers
+            7. Climate & Vegetation
+        4. Design of the City
+            1. Old Town
+                1. The Royal Districts
+                2. The Apostates
+                3. The Fortress
+                4. Old Manufactures
+                5. The Asylum
+            2. New Town
+                1. The Slaves Quarters
+                2. The Varantinian Domain
+                3. The Ruins / Ghost City
+                4. New Manufactures
+            3. The Factory & the Cathedral
+            4. The Slums
+            5. The Canalisation
+2. Faction Design
+    1. Folk
+    2. Mafia
+    3. Priests
+    4. Royals
+    5. Law
+    6. Outlaws
+    7. Revolt
+    8. Heretics
+    9. Slaves
+    10. Pariahs
+3. Character Design
+4. Monster Design
+
+
+Todo: 
+* Every Leveldesign section has an object and item placement subchapter.
+* Every leveldesign section also needs a sound-design subchapter!
+
+
+Leveldesign
+
+After the analyses of the abstract level structure and the evolution of the map, alongside the layout of the main level, that contains all the camps (the *surface*) - we will now "meta-analyse" the development of individual level sections in comparison. We look at specific sections of the world both in isolation and in relation to other relevant level sections in order to draw conclusions for the level design in PHOENIX. 
+
+The terrain of the surface and the position of camps, the design of the camps (and the city) themselves and the design of the "dungeons" or everything below the surface. 
+
+We will make some words about the climate within the colony and the outside world as well as about vegetation and the placement of plants (conditions necessary for growth). We will deal with the placement of monsters (or animals) and orcs in the world. 
 
 
 

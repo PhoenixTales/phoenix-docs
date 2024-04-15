@@ -48,16 +48,23 @@
 		4. MetaPhysics
 		5. History
 	2. World
-		1. [Level Structure](/story/level-structure)
-		2. [Evolution of the Map](/story/map-evolution)
-		3. World Design <!-- Gothic & Cosmic Horror -->
-			1. Levels
-			2. Camps
-			3. Guilds
-			4. Characters
-			5. Climate/Vegetation
-			6. Monsters
-			7. Items
+		1. Level Design <!-- Gothic & Cosmic Horror -->
+			* [Level Structure](/story/level-structure)
+			* [Evolution of the Map](/story/map-evolution)
+			* Act I - The Colony
+				1. Overworld
+				2. Underworld 
+			* Act II - Colony & Outside World
+				1. The Colony Revisited
+        		2. Passes and Borders
+        		3. City Surroundings
+				4. Design of the City 
+		2. Faction Design
+			* [Alpha NPC Structure](/story/npcs/npc-structure)
+		3. Character Design
+			* Character Descriptions
+			* Costume Design
+		4. Monster Design
 	3. Plot
 		1. Alpha Plot(s)
 		2. Sequel Plot
