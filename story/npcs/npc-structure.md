@@ -96,9 +96,10 @@ In 1.06 there were 5 templars only added to display them as being killed in fron
 
 Similarly to the Novices, this number was increased in the Phoenix Concept from 15 to 20 templars. 
 
-**Gurus:** There were supposed to be 5 gurus. In the game there are 9.
+**Gurus:** There were supposed to be 5 gurus vs. 9 in the game.
+In the Phoenix concept they kept this number of 5. 
 
-In the Phoenix concept this number of 5 gurus was still intact. The "Rächer" (revenger), as Angar was called at the time, was counted as a guru from the very beginning (and is still a guru in the game). Sadly from the Phoenix Concept only NPC lists of the sect survived; but we can assume that similar changes in the numbers of NPCs (increasements from at least 5 to 10) were made in the other guilds too.
+Sadly from the Phoenix Concept only NPC lists of the sect survived; but it is safe to assume that similar changes in the numbers of NPCs (increasements from 5 to 10) were made in the other guilds too.
 
 
 ## Numbers by Camps
