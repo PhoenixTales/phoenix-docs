@@ -49,12 +49,12 @@
 		5. History <!-- Timeline! >
 	2. World
 		1. Level Design <!-- Gothic & Cosmic Horror -->
-			* [Level Structure](/story/level-structure)
-			* [Evolution of the Map](/story/map-evolution)
-			* Act I - The Colony
+			1. Act I - The Colony
+				* [Level Structure](/story/level-structure)
+				* [Evolution of the Map](/story/map-evolution)
 				1. Overworld
 				2. Underworld 
-			* Act II - Colony & Outside World
+			2. Act II - Colony & Outside World
 				1. The Colony Revisited
         		2. Passes and Borders
         		3. City Surroundings
