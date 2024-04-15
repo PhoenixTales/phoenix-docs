@@ -27,7 +27,7 @@ A long-term goal is a physical publication of the concept after the release of t
 
 ## Document Structure
 
-While working on our design docs we had to come up with a way to structure the documentation, as you see it in our main index. The documentation is extremely comprehensive and complex and there would be a myriad of ways to structure it, but we wanted the structure to be as simple and straightforward as possible. Therefore the concept is divided into just three main sections: Vision, Mechanics and Story (+ appendices). 
+While working on our design docs we had to come up with a way to structure the documentation, as you see it in our main index. The documentation is extremely comprehensive and complex and there would be a myriad of ways to structure it. We wanted the structure to be simple and straightforward. Therefore the concept is divided into just three main sections: Vision, Mechanics and Story (+ appendices). 
 
 <p class="subtext blueinfo">Please note that the Design Concept is an ongoing documentation of the project since 2016. It is <strong class="demonic">work in progress</strong>. Many documents are currently rewritten and will be unlocked over time. Due to the current work on the order and internal structure of the documents, regular changes to the index are to be expected.</p>
 
