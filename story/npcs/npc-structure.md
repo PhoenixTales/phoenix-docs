@@ -111,7 +111,7 @@ In the Phoenix concept this number of 5 gurus was still intact. The "Rächer" (r
 
 Based on these numbers, in the entire game there were meant to be about 425-453 NPCs depending on the different versions of the game. 
 
-If we only strictly count the numbers of NPCs that are actually suggested in the *NPCs per Guild* document (which means - please note this! - that the OC would have *no miners at all* and the OM and FM would have *no guards*), we have 113 (OC) + 65 (NC) + 40 (FC) + 35 (PSI) = 253 NPCs, which is where the number in the Phoenix Pitch may come from, where they promoted the game as having "250" NPCs. 
+If we only strictly count the numbers of NPCs that are actually suggested in *NPCs per Guild* (which means - please note this! - that the OC would have *no miners at all* and the OM and FM would have *no guards*), we have 113 (OC) + 65 (NC) + 40 (FC) + 35 (PSI) = 253 NPCs, which is where the number in the Phoenix Pitch may come from, where they promoted the game as having "250" NPCs. 
 
 
 ## Numbers of Individual Names
