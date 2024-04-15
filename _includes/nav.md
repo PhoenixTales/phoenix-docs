@@ -4,21 +4,21 @@
 
 ## Index
 
-1. Vision
+1. [Vision](/vision/vision)
 	1. [Introduction](/)
 	2. [Vision of Gothic](/vision/vision-of-gothic)
-    2. [Gothic (re)defined](/vision/gothic-defined)
-	3. A Clash of Dreams
-	4. Phoenix Rising
-	5. [Reconstruction](/vision/reconstruction)
-2. Artdesign
+    3. [Gothic (re)defined](/vision/gothic-defined)
+	4. A Clash of Dreams
+	5. Phoenix Rising
+	6. Artdesign Notes
+	7. [Reconstruction](/vision/reconstruction)
+<!--. Artdesign
 	1. Visuals
 		1. Retro Graphics
 		2. 3D Principles 
 		3. 2D Principles
-	2. UI Design
-	3. Sound & Music
-3. Mechanics
+	3. Sound & Music -->
+2. [Mechanics](/mechanics/mechanics)
 	1. Classes
 	2. Attributes
 		1. [Alpha Attributes](/mechanics/attributes-alpha)
@@ -40,13 +40,13 @@
 	7. Interface
 	8. Events
 	9. AI Functions
-4. Story
+3. Story
 	1. [Setting](/story/setting)
 		1. Mythology
 		2. Geography
 		3. Culture
 		4. MetaPhysics
-		5. History
+		5. History <!-- Timeline! >
 	2. World
 		1. Level Design <!-- Gothic & Cosmic Horror -->
 			* [Level Structure](/story/level-structure)
@@ -66,13 +66,13 @@
 			* Costume Design
 		4. Monster Design
 	3. Plot
-		1. Alpha Plot(s)
+		* [Relation System]
+		1. Alpha Plot(s) <!-- including story events + guild attitudes >
 		2. Sequel Plot
 		3. Phoenix Plot 
 			1. Act I: Orpheus
 				1. Background Story
-					1. The Revolt
-					2. The Camps
+				<!-- 1. The Revolt, 2. The Camps -->
 				2. Plot Abstract
 				3. Plot Description
 					* Chapter 1: World of Convicts
@@ -83,7 +83,7 @@
 					* Chapter 6: Bloodnight
 				4. Plot Logic
 			2. Act II: Nemesis
-				1. Background (Act I to II)
+				1. Background (Act I-II)
 				2. Plot Abstract
 				3. Plot Description
 					* Chapter 7: Return to Prison
@@ -99,23 +99,19 @@
 			* Red Blood on blue Scarves
 			* Path to Awakening
 			* Way of the Arcane
-	4. Relations
-		1. Story Events
-		2. Guild Attitudes
-		3. Relation System
-	5. Missions
-		1. Act I Missions
-			1. OldCamp
-			2. NewCamp
-			3. FreeCamp
-			4. PsiCamp
-			5. OrcCity
-		2. Act II Missions
-			1. RefugeeCamp
-			2. TymorianFortress
-			3. KhorinisCity
-			4. CampOfTents
-			5. DemonCamp
+		5. Missions
+			1. Act I Missions
+				1. OldCamp
+				2. NewCamp
+				3. FreeCamp
+				4. PsiCamp
+				5. OrcCity
+			2. Act II Missions
+				1. RefugeeCamp
+				2. TymorianFortress
+				3. KhorinisCity
+				4. CampOfTents
+				5. DemonCamp
 
 
 ### Appendix
