@@ -5,7 +5,7 @@
 **Created:** 14.04.2024  
 **Last change:** 15.04.2024
 
-Similarly to how the level structure document has given an abstract overview of the levels without actually dealing with the appearance or story of these levels, this document is supposed to give an abstract overview number of npcs within the different guilds, how they changed numbers and what we can deduce from this, without yet dealing with the design of these npcs themselves. 
+Similarly to how the level structure document has given an abstract overview of the levels without actually dealing with the appearance or story of these levels, this document is supposed to give an abstract overview of the number of npcs within the different guilds, how they changed numbers and what we can deduce from this, without yet dealing with the design of these npcs themselves. 
 
 
 **Content:**
@@ -136,7 +136,7 @@ This may have started to change in ~v0.8-v0.9. On screenshots of this version we
 ```
    name[0] =	"Looser, der ";
    slot =		"Magierlehrling";
-   
+
 ```
 
 That said, the slot seems to have contained the general description, such as the guild or a rank in their guild, while the name contained the actual individual name to be given. In 0.64b the "slot" was removed for many NPC scripts, only the name remained, but it stayed for others and for the player characters in particular. In any way, it might be that in 0.74b there was a similar system in place where NPCs may have had their names already - conceptually - but were displayed in the game via their guild/rank description only. And it may also be possible, as some traces suggest, that they experimented with a feature similar to what they would later implement in the Sequel (here on an individual case by case basis) for immersion, where NPCs are displayed as nameless in general until you get to know their name.
