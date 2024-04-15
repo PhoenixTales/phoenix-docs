@@ -165,7 +165,7 @@ For PHOENIX we draw the following conclusions...
 * There will be 20 to 30 scrapers.
 
 **Psi Camp**
-* At gamestart we will have 25 novices, 20 templars and 5 gurus. 
+* There will be 25 novices, 20 templars and 5 gurus. 
 
 Thus, at gamestart...  
 &#8594; the OC will have about ~215 NPCs  
