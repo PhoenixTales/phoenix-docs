@@ -30,6 +30,7 @@ And finally we will deal with the placement of objects (non-takeable, static obj
 
 
 
+# Overworld Design
 
 
 ### Removed or unrealised Locations
@@ -40,9 +41,11 @@ And finally we will deal with the placement of objects (non-takeable, static obj
 * Half-Orcs in the forest
 * Mage's Camp
 
+Deal with every single one of those.
 
 Fogtower/Lighttower:
 Where would a lighthouse (in German "Leuchtturm", *lighttower*) be more fitting than here, hovering above the sea, close to the beach with the wreck? And what has the fogtower to do here, far away from the borders of the swamp and the fog of the area? 
+
 
 
 ### The Barrier, its Size and the Centre of the World
