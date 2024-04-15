@@ -11,7 +11,8 @@
 	4. A Clash of Dreams
 	5. Phoenix Rising
 	6. Artdesign Notes
-	7. [Reconstruction](/vision/reconstruction)
+	7. [Reconstruction](/vision/reconstruction) 
+	<!-- Artdesign Visuals, Retro Graphics, 3D/2D Principles, Sound & Music –->
 2. [Mechanics](/mechanics/mechanics)
 	1. Classes
 	2. Attributes
