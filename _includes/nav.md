@@ -34,7 +34,7 @@
 	7. Interface
 	8. Events
 	9. AI Functions
-3. Story
+3. [Story](/story/story)
 	1. [Setting](/story/setting)
 		1. Mythology
 		2. Geography
