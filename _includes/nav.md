@@ -11,7 +11,7 @@
 	4. A Clash of Dreams
 	5. Phoenix Rising
 	6. Artdesign Notes
-	7. [Reconstruction](/vision/reconstruction) 
+	7. [Reconstruction](/vision/reconstruction)  
 	<!-- Artdesign Visuals, Retro Graphics, 3D/2D Principles, Sound & Music –->
 2. [Mechanics](/mechanics/mechanics)
 	1. Classes
@@ -61,7 +61,6 @@
 			2. Costume Design
 		4. Monster Design
 	3. Plot
-		* [Relation System]
 		1. Alpha Plot(s) <!-- including story events + guild attitudes -->
 		2. Sequel Plot
 		3. Phoenix Plot 
@@ -94,7 +93,8 @@
 			* Red Blood on blue Scarves
 			* Path to Awakening
 			* Way of the Arcane
-		5. Missions
+		5. Relation System
+		6. Missions
 			1. Act I Missions
 				1. OldCamp
 				2. NewCamp
