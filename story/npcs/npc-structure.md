@@ -2,10 +2,10 @@
 
 **Author:** *Flosha*
 
-**Created:** 14.04.2024
+**Created:** 14.04.2024  
 **Last change:** 15.04.2024
 
-Similarly to how the level structure document has given an abstract overview of the levels in the game without actually dealing with the design of these levels, this document is supposed to give an abstract overview of the npcs, how they changed numbers and what we can deduce from this, without yet dealing with the design of these npcs themselves. 
+Similarly to how the level structure document has given an abstract overview of the levels without actually dealing with the appearance or story of these levels, this document is supposed to give an abstract overview number of npcs within the different guilds, how they changed numbers and what we can deduce from this, without yet dealing with the design of these npcs themselves. 
 
 
 **Content:**
@@ -17,7 +17,7 @@ Similarly to how the level structure document has given an abstract overview of 
 
 ## Numbers by Guilds
 
-Some people claimed that the character structure presented in the "NPCs per Guild" document, as going back to the Orpheus Concept phase, would be wildly different from the later implementation in the game, because, as they say, there were so much less characters supposed to be there. While there is truth to this statement, it is an overestimation. At least the Old Camp and the New Camp are in many regards still rather close to the early concept ideas.
+Some people claimed that the character structure presented in the "[NPCs per Guild](https://media.gothicarchive.org/documents/phoenix/PhoenixNSCsPerGuild.pdf)" document, as going back to the Orpheus Concept phase, would be wildly different from the later implementation in the game, because, as they say, there were so much less characters supposed to be there. While there is truth to this statement, it is an overestimation. At least the Old Camp and the New Camp come still close to the early concept ideas in many regards.
 
 ---
 
@@ -27,10 +27,10 @@ Now we know very well, that often NPCs were given a specific guild just for scri
 
 When looked at like this, Balam and Omid are no shadows of course, they are just cooks, in the same way as e.g. the Joker that was cut from 1.01 onwards. Viper is no shadow either. Fisk just an influential trader. In the same way Alberto and/or Santino may just be (a) trader(s) in the Old Mine (it was in the Old Mine that the diggers were supposed to trade their ore for food). Ian was not a shadow but a guard until at least 0.7. All of that leaves us to just 16 remaining shadows instead of 23. Of these 16 remaining shadows only 5(!) have a name and anything to say. And even if Ian, Alberto, Viper, Fisk and Santino would be counted as shadows, we still have only 10 shadows with a name, while the concept promised us 15 shadows we can individually deal with. So in this case we do not really have more, but less NPCs. 
 
-**Diggers (VLK):** In the final game they consist of 88 instances (+ 7 instances for appearance in the Free Mine, so they do not count). Of those 88, only 34 are inside the Old Mine. The remaining 54 are in the camp. 
+**Diggers (VLK):** In the final game they consist of 88 instances (+ 7 instances for appearance in the Free Mine, so they do not count). But of these 88 just 34 are in the Mine, the remaining 54 in the camp. 
 
-But this "VLK" guild in the *NPCs per Guild* concept was not even meant for the diggers. The concept speaks of the folk as "no actual guild" but "more of a collection of all NPCs inside the Old Camp, which do not belong to a "real" guild". This collection of people was meant to consist of about (not exactly) 50 people (to be adjusted as needed). Seven beggars, 12 day labourers doing some work *inside* the camp, 8 crooks, 8 hucksters/dealers, 8 thugs, 3 burned out maniacs (former sect members) and 4 "tinkerers".  
-Diggers are not mentioned here, because the "VLK" category was not meant for them. They would have been described on a page of their own and this list of ("slave" or "old") diggers was just either not made yet or it was lost. 
+The "VLK" guild in the *NPCs per Guild* concept was *not* meant for the diggers. The concept speaks of the folk as "no actual guild" but "more of a collection of all NPCs inside the Old Camp, which do not belong to a "real" guild". This collection of people was meant to consist of about (not exactly) 50 people (to be adjusted as needed). And we will be more specific here in order to show that the diggers were no part of them: 7 beggars, 12 day labourers doing some work *inside* the camp, 8 crooks, 8 hucksters/dealers, 8 thugs, 3 burned out maniacs (former sect members) and 4 "tinkerers".  
+Diggers are not mentioned here, because the "VLK" category was not meant for them. They would have been described on a page of their own and this list of OM diggers was just either not made yet or it was lost. 
 
 Thus, these "VLK" instances in the game are not that many at all, since it is a combination of diggers and all others for simplicity's sake. Many of the NPCs inside of the Old Camp were not necessarily meant to be diggers even if in the game they were finally presented as such, but this is just due to poor execution of the idea. And no matter their job, it does not make sense for them to run around the camp in digger's work clothes either way. It was just another practical concession due to the necessary effort involved in making a variety of regular individual clothing (which actually was done at least to some degree, but not included) and due to technical reasons such as memory limitations that made it problematic to display so many different textures. 
 
@@ -41,12 +41,12 @@ Therefore we can say, that here too we do not have more NPCs than those that wer
 
 In the game, without any cuts between instances, there are 100 instead.  
 13 of them are just inserted into the Free Mine as additional instances for technical reasons, so there are 87 remaining.  
-Mike had either not yet considered (or had it just not yet written down) that there would need to be several additional guards protecting the Old Mine.  
-In the release version there are 17 of them inside of the Old Mine (70 remaining). And then there were also supposed to be several guards outside of the mine to protect the entrance. On Alpha Screens and older builds we can see that there should be at least about ~10 guards stationed at the entrance; then there are still ~60 remaining for the camp. 
+Mike had either not yet considered (or just not yet written down) that there would need to be several additional guards protecting the Mine.  
+In the release version there are 17 of them inside of the Old Mine (70 remaining). And then there were also supposed to be several guards outside of the mine to protect the entrance. On screens and older builds we can see that there should be at least about ~10 guards stationed at the entrance; then there are still ~60 remaining for the camp. 
 
 The rest of the discrepency to the originally planned 32 guards we can only explain as such, that of course Mike could not foresee how many additional guards would be needed for other purposes and how empty the camp would look otherwise. The camp was never meant to be smaller than it is, but the outside ring was designed differently. Originally the palisade was not supposed to be accessible; the idea of the wooden "battlement" came later and so of course some guards had to be placed here (~10 more than the original 32 = 42). Then there were guys needed who would guard the regular convoys between Old Camp and Old Mine (~2), the Exchange Place (~2) and the prison (~1), as well as bringing some life to the inner ward (~50). The castle on the Orpheus Concept was openly accessible and the walls were not as thick and had no battlements, so that it made sense to plan with the 6 palace guards only. But here due to the new design of the castle based on Ralfs concepts there had to be guards at the castle gate and the castle walls would have looked very empty too if there wouldn't be guards on them (there should be several, as seen on screenshots and the Comic), which means at least 10 additional guards (~60). And with this we arrived at the 60 mentioned above. So yes, in this case indeed much more NPCs were included than originally conceived - but for valid reasons. 
 
-**Barons:** Only 5 barons were in the game all the way since 0.56c till release. The early concept had 10. So there were not more, but less in the game. 
+**Barons:** Only 5 barons were in the game all the way since 0.56c till release. The early concept had 10. So there were not more, but less in the game. This will be dealt with in isolation. 
 
 **Fire/Battlemages:** The Firemages remained the same in number, although not in their role. There should have been just 4 actually fully initiated mages + one apprentice ("Lehrling", which was realised in the form of Milten) and one assistant ("Geselle"), instead it ended up being 5 fully initiated firemages (6 when counting Xardas who still shares the guild in his instance). 
 
@@ -54,8 +54,9 @@ The rest of the discrepency to the originally planned 32 guards we can only expl
 
 **Mercenaries:** The available concept speaks of 24 mercenaries and in the game there are just 26 in the camp. 
 
-16 mercenaries are guards in the Free Camp - which could be argued were not supposed to be there originally, since specific "Digger Bodyguards" were meant to play this role. We also should not forget about the "Rangers" which were still part of this earliest NPC document and they alone would practically add 20 additional NPCs to the Free Camp.  
-So in this regard too - at least when not yet taking differences among the Organisers into account - there would actually be more people in the New Camp and the Free Camp according to the concept (especially when also taking the Scraper's into account) than they were in the game.
+16 mercenaries are guards in the Free Camp - which could be argued were not supposed to be there originally, since specific "Digger Bodyguards" were meant to play this role.  
+We also should not forget about the "Rangers" which were still part of this earliest NPC document and they alone would practically add 20 additional NPCs to the Free Camp.  
+So in this regard too - at least when not yet taking differences among the Organisers into account - there would actually be more people in the New Camp and the Free Camp according to the concept (not forgetting Rangers & Scrapers) than they were in the game.
 
 **Organisers:** Yes, the Organisers seem to differ significantly from the concept, where they were described as consisting of only 10.  
 There were 51 Orgas in 0.94k. 4 of them were cut in 1.00 (47) and 19 were added (66). But those that were added (most of those for sure, but we could argue potentially all of those) do not actually belong to the New Camp, but to Quentin's Gang and are thus part of a later unrealised story idea (the two "blackmailers" may belong to Quentin or may as well be independent). 
@@ -69,7 +70,7 @@ In any way: After the removal of the rangers, the Organisers were meant to fulfi
 
 When we think about the Old Camp, where we have about ~50 people not being diggers just living in the camp, doing other stuff, why wouldn't this be similar in the New Camp? There are the Mages (researching), the Mercs (protecting), the Orgas ("organising", dealing, stealing stuff) and the Peasants (growing food), but who is doing everything else? Who is building the wooden structures, who is repairing the dam, who is making all kinds of tools (we know there was supposed to be a smith), who is cooking food, who is fixing all kinds of stuff? Especially due to the independence of the New Camp, there have to be more people with different kinds of responsibilities and obviously the camp has more than enough room for those, as there are ~17 NPCs left that are technically belonging to the Orgas, but wouldn't necessarily have to. 
 
-And when you think about the nature of the camp: Wouldn't this make the camp much more believable and feel much more alive? Wouldn't it give the camp a more profound meaning when there is a bunch of "ordinary" people who left the Old Camp and decided to join the mages and Lee, rather supporting their cause than the path of the barons? And wouldn't it also let the player feel much more special, if he can join a small conspiring group of specifically trained organisers, instead of becoming a member of a large group of ~50 that apparently everyone can join? 
+And wouldn't this also make the camp much more believable and feel much more alive? Wouldn't it give the camp a more profound meaning when there is a bunch of "ordinary" people who left the Old Camp and decided to join the mages and Lee, rather supporting their cause than the path of the barons? And wouldn't it also let the player feel much more special, if he can join a small conspiring group of specifically trained organisers, instead of becoming a member of a large group of ~50 that apparently everyone can join? 
 
 **Peasants:** The peasants were described as 25 people. In the release version are 26. Homer is technically a peasant, but actually he is a builder and works at the dam and other structures. In 0.94k there are ~34 peasants, when we do not count Homer and Jeremiah (the alchemist). Not much of a difference. 
 
@@ -95,9 +96,9 @@ In 1.06 there were 5 templars only added to display them as being killed in fron
 
 Similarly to the Novices, this number was increased in the Phoenix Concept from 15 to 20 templars. 
 
-**Gurus:** There were supposed to be 5. In the game there are 8-9 (the character that is now "Cor Angar" is a Guru and Templar at the same time, in the game he is technically a guru, but at the time of the old concept the associated character seems to have been counted as a templar). 
+**Gurus:** There were supposed to be 5 gurus. In the game there are 9.
 
-In any way: In the Phoenix concept this number of 5 Gurus was still intact and the "Rächer" (revenger), as Angar was called at the time, was already counted as a Guru here. Sadly from the Phoenix Concept only the NPC lists of the sect survived; but we can assume that similar changes in the numbers of NPCs (increasements from at least 5 to 10) were made in the other guilds too.
+In the Phoenix concept this number of 5 gurus was still intact. The "Rächer" (revenger), as Angar was called at the time, was counted as a guru from the very beginning (and is still a guru in the game). Sadly from the Phoenix Concept only NPC lists of the sect survived; but we can assume that similar changes in the numbers of NPCs (increasements from at least 5 to 10) were made in the other guilds too.
 
 
 ## Numbers by Camps
@@ -115,31 +116,29 @@ If we only strictly count the numbers of NPCs that are actually suggested in the
 
 ## Numbers of Individual Names
 
-On one hand we have this large number of ~425 NPCs in the game. While in the Phoenix Pitch and at other places they mentioned "250 NPCs". 
+On one hand we have this large number of ~425 NPCs in the game. While in the Phoenix Pitch and at other places they mentioned "250 NPCs". We have to assume that there were meant to be about 250 NPCs which the player could actually deal with and talk to; while we cannot say for sure how many of these NPCs were supposed to have an individual name. 
 
-We have to assume that there were meant to be about 250 NPCs which the player could actually deal with and talk to; while we cannot say for sure how many of these NPCs were supposed to have an individual name. 
+When counting the number of NPCs with an individual name in the release version (1.06) there are 17 "diggers", 12 "shadows", 19 guards, 5 barons, 7 firemages (counting Xardas), 6 watermages, 6 peasants, just 2 scrapers, 21 "orgas", 9 mercs, 16 novices, 8 templars and 9 gurus, which are just 137 NPCs in total. Although you could add a few nameless gate guards to the list that the player is also talking to. 
 
-When counting the number of NPCs with an individual name in the release version (1.06) there are 17 "diggers", 12 (so called) "shadows", 19 guards, 5 barons, 7 firemages (counting Xardas), 6 watermages, 6 peasants, just 2 scrapers, 21 (so called) "orgas", 9 mercs, 16 novices, 8 templars and 9 gurus, which are just 137 NPCs in total. Although you could add a few nameless gate guards to the list that the player is also talking to. 
-
-When counting in v1.00 we have 20 diggers, 13 shadows, 22 guards, 5 barons, 7 firemages, 6 watermages, 6 peasants, 15 scrapers, 23 orgas, 8 mercs, 11 novices, 7 templars and 9 gurus, which are 152 in total with an individual name. 
+When counting in v1.00 we have 20 diggers, 13 shadows, 22 guards, 5 barons, 7 firemages, 6 watermages, 6 peasants, 15 scrapers, 23 orgas, 8 mercs, 11 novices, 7 templars and 9 gurus; 152 in total with an individual name. 
 
 When counting in v0.94 we have 20 diggers, 20 shadows, 20 guards, 5 barons, 7 firemages, 6 watermages, 7 peasants, 21 scrapers, 21 orgas (Quentin's gang were not added), 8 mercs, 10 novices, 6 templars and 9 gurus, 160 in total with an individual name.
 
 While it is true that some additional names were actually added in later versions, it is much more often the case, that an individually named NPC was removed in following versions to become an ambient NPC. 
 There are more individually named NPCs the further we go back in time until most likely ~0.7 or ~0.8, where the biggest cuts in the story were made.  
 
-For this we find additional confirmation in the Story v3.3 document. There are, for instance: 18-21 individual templar names (of which only 5-8 do still exist in any version of the game that is available to us), 26-31 Novice names (of which only 7 exist in the available versions), 13 merc names (of which 8 exist) and 17 peasant names (only 7 known from the versions).
+We find additional confirmation in the Story v3.3 document. There are alone 18-21 individual templar names (of which only 5-8 do still exist in any version of the game available to us), 26-31 Novice names (of which only 7 exist in the available versions), 13 merc names (of which 8 exist) and 17 peasant names (only 7 known from the versions).
 
 As you see: While the total number of NPCs went up in course of development and is indeed larger than it was meant to be according to the early concepts, the number of NPCs with an individual name, that the player should have been able to talk to, was *continuously* reduced further and further from version to version at least to a specific point. When going back to v0.56c there were some nameless NPCs, but in v0.64b, even if the camp was obviously not finished at the time, every NPC had an individual name. We cannot say for sure how it was done in ~0.7 onwards, but when looking at gameplay videos from ~v0.7 we can still see every gate guard having a name and we do not know a single screenshot of a no-name NPC of this particular version. 
 
-This may have started to change in about v0.8-v0.9. On screenshots of this version we see some nameless diggers, peasants, shadows, novices, guards, mercs and even firemages and orebarons. But the confusing thing is that it is Diego when we see the "Shadow" description. We see a no-name "Circle of Fire Mage" description when it is Milten. It is Lee with the no-name "Mercenary" description, although we know for sure that these NPCs already had their names at this stage of development. One reason for this may have been a change in the structure of the NPC scripts. In 0.56c every NPC had a "name" and a "slot".
+This may have started to change in ~v0.8-v0.9. On screenshots of this version we see nameless diggers, peasants, shadows, novices, guards, mercs and even firemages and orebarons. But the confusing thing is that it is Diego when we see the "Shadow" description. We see a no-name "Circle of Fire Mage" description when it is about Milten. It is Lee with the no-name "Mercenary" description etc. But we know for sure that these NPCs already had their names at this point. One reason for this may have been a change in the structure of the NPC scripts. In 0.56c every NPC had a "name" and a "slot".
 
 ```
-	name[0] =						"Looser, der ";
-	slot =							"Magierlehrling";
+   name[0] =   "Looser, der ";
+   slot =	   "Magierlehrling";
 
-   	name =							"(neuer Bauer)";
-	slot =							"Bauer";
+   name =	   "(neuer Bauer)";
+   slot =	   "Bauer";
 ```
 
 That said, the slot seems to have contained the general description, such as the guild or a rank in their guild, while the name contained the actual individual name to be given. In 0.64b the "slot" was removed for many NPC scripts, only the name remained, but it stayed for others and for the player characters in particular. In any way, it might be that in 0.74b there was a similar system in place where NPCs may have had their names already - conceptually - but were displayed in the game via their guild/rank description only. And it may also be possible, as some traces suggest, that they experimented with a feature similar to what they would later implement in the Sequel (here on an individual case by case basis) for immersion, where NPCs are displayed as nameless in general until you get to know their name.
@@ -149,35 +148,37 @@ In any way, it is not too far-fetched to assume that at some point every or almo
 
 ## Conclusions
 
-For PHOENIX we draw the following conclusions from the analysis above.
+For PHOENIX we draw the following conclusions...
 
 **Old Camp**
 * The *VLK* (folk) will be both a general faction (relevant for both acts and across camps and the city - this will be explained in the document dealing with our "Relation System"); as well as a collection of non-specific-groups within the old camp. The NPCs which are now handled as "VLK" will be divided into *Bdl* (Buddler) of about 35 to 40 NPCs and the rest of about 50 NPCs as described in the concept - they remain "Vlk" and may or may not be divided into additional subgroups like *Wrk* (Workers), *Beg* (Beggars) etc. 
 * We will have 15 to maximum 25 shadows; all the remaining NPCs that are now handled as shadows by the game will receive their own category or become part of the *Vlk*; other than that every STT (shadow) has *VLK* as his fake guild/faction (unless disguised in any other way).
 * The *Grd* remain roughly as they are (~87 NPCs). Unnecessary additional instances for level changes will be removed; we will use the actual NPC instances instead of unrelated or copied NPC instances (this is also applying to some shadows, novices, templars, ...).
 * The number of barons (between 5 and 10) and mages (4-6) are difficult topics that will be discussed in a section on their own. 
+
 -> Thus, at gamestart, the OC will have about ~215 NPCs.
 
 **New Camp**
 * There will be 25 to 30 Mercenaries at most. 
 * We will have 10 to 15 Organisers at most. About 20 of the remaining ~35-40 NPCs that are now handled as *Org* will become rangers of the Free Camp and the remaining ones (~15-20) will be various ordinary workers of the New Camp and technically part of the camp-crossing "folk" faction.
 * There will be 25 to 35 peasants at most, as needed. 
-* There will be 6 Mages.
+* There will be 6 Mages
+
 -> Thus, at gamestart, the NC will have about 81-106 NPCs (~94).
 
 **Free Camp**
 * There will be about 20 Rangers, most of them in the Free Mine dealing with monsters, some of them mostly in the wilderness.
 * There will be 20 to 30 scrapers.
+
 -> Thus, at gamestart, the FC will have about 40-50 NPCs (~45).
 
 **Psi Camp**
 * At gamestart we will have 25 novices, 20 templars and 5 gurus. 
+
 -> Thus, at gamestart, the SC will have about 50 NPCs.
 
 The sect will grow from 50 (Phoenix Concept, which takes precedence here) to ~99 NPCs (without a change in the total number of NPCs in the game world - unless for 3-5 additional convicts at most). So there would need to be 49 NPCs who join the sect in course of the first three to four chapters, most of them from the Old Camp, which would shrink the OC from about 210 NPCs to ~161 (not considering here all the NPCs who die in course of the story), which leaves us with a decent and believable evolution that we may be able to display dynamically in the story. 
 
-On top of that there are some guildless people and Quentin's little gang that we will have to deal with independently. But to summarise the structure above:
-
-There will be about ~400 NPCs in the world of Act I. 
+There are also some guildless people and Quentin's little gang that we will have to deal with independently. But to summarise the structure: There will be about ~400 NPCs in the world of Act I. 
 
 
