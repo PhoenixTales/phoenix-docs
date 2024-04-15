@@ -14,6 +14,8 @@ Similarly to how the level structure document has given an abstract overview of 
 3. [Numbers of Individual Names](#numbers-of-individual-names)
 4. [Conclusions](#conclusions)
 
+---
+
 
 ## Numbers by Guilds
 
@@ -101,6 +103,8 @@ In the Phoenix concept they kept this number of 5.
 
 Sadly from the Phoenix Concept only NPC lists of the sect survived; but it is safe to assume that similar changes in the numbers of NPCs (increasements from 5 to 10) were made in the other guilds too.
 
+---
+
 
 ## Numbers by Camps
 
@@ -113,6 +117,8 @@ Sadly from the Phoenix Concept only NPC lists of the sect survived; but it is sa
 Based on these numbers, in the entire game there were meant to be about 425-453 NPCs depending on the different versions of the game. 
 
 If we only strictly count the numbers of NPCs that are actually suggested in *NPCs per Guild* (which means - please note this! - that the OC would have *no miners at all* and the OM and FM would have *no guards*), we have 113 (OC) + 65 (NC) + 40 (FC) + 35 (PSI) = 253 NPCs, which is where the number in the Phoenix Pitch may come from, where they promoted the game as having "250" NPCs. 
+
+---
 
 
 ## Numbers of Individual Names
