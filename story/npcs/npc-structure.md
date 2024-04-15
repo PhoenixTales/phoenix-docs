@@ -152,11 +152,9 @@ For PHOENIX we draw the following conclusions...
 
 **Old Camp**
 * The *VLK* (folk) will be both a general faction (relevant for both acts and across camps and the city - this will be explained in the document dealing with our "Relation System"); as well as a collection of non-specific-groups within the old camp. The NPCs which are now handled as "VLK" will be divided into *Bdl* (Buddler) of about 35 to 40 NPCs and the rest of about 50 NPCs as described in the concept - they remain "Vlk" and may or may not be divided into additional subgroups like *Wrk* (Workers), *Beg* (Beggars) etc. 
-* We will have 15 to maximum 25 shadows; all the remaining NPCs that are now handled as shadows by the game will receive their own category or become part of the *Vlk*; other than that every STT (shadow) has *VLK* as his fake guild/faction (unless disguised in any other way).
-* The *Grd* remain roughly as they are (~87 NPCs). Unnecessary additional instances for level changes will be removed; we will use the actual NPC instances instead of unrelated or copied NPC instances (this is also applying to some shadows, novices, templars, ...).
+* We will have 15 to maximum 25 shadows; all the remaining NPCs that are now handled as shadows by the game will receive their own category or become part of the *Vlk*; other than that every *Stt* (shadow) has *Vlk* as his fake guild/faction (unless disguised in any other way).
+* The *Grd* remain roughly as they are (~87 NPCs). Unnecessary additional instances for level changes will be removed; we will use the actual NPC instances instead of unrelated or copied instances (this is also applying to some shadows, novices, templars and so on).
 * The number of barons (between 5 and 10) and mages (4-6) are difficult topics that will be discussed in a section on their own. 
-
--> Thus, at gamestart, the OC will have about ~215 NPCs.
 
 **New Camp**
 * There will be 25 to 30 Mercenaries at most. 
@@ -164,18 +162,18 @@ For PHOENIX we draw the following conclusions...
 * There will be 25 to 35 peasants at most, as needed. 
 * There will be 6 Mages
 
--> Thus, at gamestart, the NC will have about 81-106 NPCs (~94).
-
 **Free Camp**
 * There will be about 20 Rangers, most of them in the Free Mine dealing with monsters, some of them mostly in the wilderness.
 * There will be 20 to 30 scrapers.
 
--> Thus, at gamestart, the FC will have about 40-50 NPCs (~45).
-
 **Psi Camp**
 * At gamestart we will have 25 novices, 20 templars and 5 gurus. 
 
--> Thus, at gamestart, the SC will have about 50 NPCs.
+Thus, at gamestart...  
+&#8594; the OC will have about ~215 NPCs  
+&#8594; the NC will have about 81-106 NPCs (~94)  
+&#8594; the FC will have about 40-50 NPCs (~45)  
+&#8594; the SC will have about 50 NPCs  
 
 The sect will grow from 50 (Phoenix Concept, which takes precedence here) to ~99 NPCs (without a change in the total number of NPCs in the game world - unless for 3-5 additional convicts at most). So there would need to be 49 NPCs who join the sect in course of the first three to four chapters, most of them from the Old Camp, which would shrink the OC from about 210 NPCs to ~161 (not considering here all the NPCs who die in course of the story), which leaves us with a decent and believable evolution that we may be able to display dynamically in the story. 
 
