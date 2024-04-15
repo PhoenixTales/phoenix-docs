@@ -45,20 +45,20 @@
 	2. World
 		1. Level Design <!-- Gothic & Cosmic Horror -->
 			1. Act I - The Colony
-				* [Level Structure](/story/level-structure)
-				* [Evolution of the Map](/story/map-evolution)
-				1. Overworld
-				2. Underworld 
+				1. [Level Structure](/story/level-structure)
+				2. [Evolution of the Map](/story/map-evolution)
+				3. Overworld Design
+				2. Underworld Design
 			2. Act II - Colony & Outside World
-				1. The Colony Revisited
-        		2. Passes and Borders
-        		3. City Surroundings
-				4. Design of the City 
+				1. The Colony Revisited  
+				2. Passes and Borders
+				3. City Surroundings
+				4. Design of the City  
 		2. Faction Design
-			* [Alpha NPC Structure](/story/npcs/npc-structure)
+			1. [Alpha NPC Structure](/story/npcs/npc-structure)
 		3. Character Design
-			* Character Descriptions
-			* Costume Design
+			1. Character Descriptions
+			2. Costume Design
 		4. Monster Design
 	3. Plot
 		* [Relation System]
