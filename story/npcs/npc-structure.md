@@ -39,10 +39,10 @@ Therefore we can say, that here too we do not have more NPCs than those that wer
 
 **Guard:** The guards are indeed a lot more than described in the document. The concept speaks of 32 people. According to the concept there would be one leader or "captain", one arena master, one very strong warrior for outside missions, one "leautnant", 3 gladiators, 12 guards for the two gates of the outside ring (working in three shifts, two guards per gate), 6 "portal" guards guarding other important buildings, 6 palace guards (for the barons house) and one "Grinder" responsible to train the guards. 32 in total.
 
-In the game, without any cuts between instances, there are 100 instead.  
+In the game, without any cuts between instances, there are 100.  
 13 of them are just inserted into the Free Mine as additional instances for technical reasons, so there are 87 remaining.  
 Mike had either not yet considered (or just not yet written down) that there would need to be several additional guards protecting the Mine.  
-In the release version there are 17 of them inside of the Old Mine (70 remaining). And then there were also supposed to be several guards outside of the mine to protect the entrance. On screens and older builds we can see that there should be at least about ~10 guards stationed at the entrance; then there are still ~60 remaining for the camp. 
+In the release version there are 17 inside of the Old Mine (70 remaining). And then there were also supposed to be several guards outside of the mine to protect the entrance. On alpha screens we can see that there should be at least about ~10 guards stationed at the entrance; then there are still ~60 remaining for the camp. 
 
 The rest of the discrepency to the originally planned 32 guards we can only explain as such, that of course Mike could not foresee how many additional guards would be needed for other purposes and how empty the camp would look otherwise. The camp was never meant to be smaller than it is, but the outside ring was designed differently. Originally the palisade was not supposed to be accessible; the idea of the wooden "battlement" came later and so of course some guards had to be placed here (~10 more than the original 32 = 42). Then there were guys needed who would guard the regular convoys between Old Camp and Old Mine (~2), the Exchange Place (~2) and the prison (~1), as well as bringing some life to the inner ward (~50). The castle on the Orpheus Concept was openly accessible and the walls were not as thick and had no battlements, so that it made sense to plan with the 6 palace guards only. But here due to the new design of the castle based on Ralfs concepts there had to be guards at the castle gate and the castle walls would have looked very empty too if there wouldn't be guards on them (there should be several, as seen on screenshots and the Comic), which means at least 10 additional guards (~60). And with this we arrived at the 60 mentioned above. So yes, in this case indeed much more NPCs were included than originally conceived - but for valid reasons. 
 
@@ -145,6 +145,8 @@ That said, the slot seems to have contained the general description, such as the
 
 In any way, it is not too far-fetched to assume that at some point every or almost every single NPC in the game world was meant to have an individual name.
 
+---
+
 
 ## Conclusions
 
@@ -168,6 +170,8 @@ For PHOENIX we draw the following conclusions...
 
 **Psi Camp**
 * There will be 25 novices, 20 templars and 5 gurus. 
+
+---
 
 Thus, at gamestart...  
 &#8594; the OC will have about ~215 NPCs  
