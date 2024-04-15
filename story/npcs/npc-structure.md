@@ -134,8 +134,8 @@ As you see: While the total number of NPCs went up in course of development and 
 This may have started to change in ~v0.8-v0.9. On screenshots of this version we see nameless diggers, peasants, shadows, novices, guards, mercs and even firemages and orebarons. But the confusing thing is that it is Diego when we see the "Shadow" description. We see a no-name "Circle of Fire Mage" description when it is about Milten. It is Lee with the no-name "Mercenary" description etc. But we know for sure that these NPCs already had their names at this point. One reason for this may have been a change in the structure of the NPC scripts. In 0.56c every NPC had a "name" and a "slot".
 
 ```
-   name[0] =	"Looser, der ";
-   slot =		"Magierlehrling";
+   name[0] =    "Looser, der ";
+   slot =       "Magierlehrling";
 
 ```
 
