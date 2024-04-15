@@ -129,7 +129,7 @@ When counting the number of NPCs with an individual name in the release version 
 
 When counting in v1.00 we have 20 diggers, 13 shadows, 22 guards, 5 barons, 7 firemages, 6 watermages, 6 peasants, 15 scrapers, 23 orgas, 8 mercs, 11 novices, 7 templars and 9 gurus; 152 in total with an individual name. 
 
-When counting in v0.94 we have 20 diggers, 20 shadows, 20 guards, 5 barons, 7 firemages, 6 watermages, 7 peasants, 21 scrapers, 21 orgas (Quentin's gang were not added), 8 mercs, 10 novices, 6 templars and 9 gurus, 160 in total with an individual name.
+When counting in v0.94 we have 20 diggers, 20 shadows, 20 guards, 5 barons, 7 firemages, 6 watermages, 7 peasants, 21 scrapers, 21 orgas (Quentin's gang was not added), 8 mercs, 10 novices, 6 templars and 9 gurus, 160 in total with an individual name.
 
 While it is true that some additional names were actually added in later versions, it is much more often the case, that an individually named NPC was removed in following versions to become an ambient NPC. 
 There are more individually named NPCs the further we go back in time until most likely ~0.7 or ~0.8, where the biggest cuts in the story were made.  
