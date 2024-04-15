@@ -12,12 +12,6 @@
 	5. Phoenix Rising
 	6. Artdesign Notes
 	7. [Reconstruction](/vision/reconstruction)
-<!--. Artdesign
-	1. Visuals
-		1. Retro Graphics
-		2. 3D Principles 
-		3. 2D Principles
-	3. Sound & Music -->
 2. [Mechanics](/mechanics/mechanics)
 	1. Classes
 	2. Attributes
@@ -46,7 +40,7 @@
 		2. Geography
 		3. Culture
 		4. MetaPhysics
-		5. History <!-- Timeline! >
+		5. History <!-- Timeline -->
 	2. World
 		1. Level Design <!-- Gothic & Cosmic Horror -->
 			1. Act I - The Colony
@@ -67,7 +61,7 @@
 		4. Monster Design
 	3. Plot
 		* [Relation System]
-		1. Alpha Plot(s) <!-- including story events + guild attitudes >
+		1. Alpha Plot(s) <!-- including story events + guild attitudes -->
 		2. Sequel Plot
 		3. Phoenix Plot 
 			1. Act I: Orpheus
