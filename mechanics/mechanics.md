@@ -1,6 +1,6 @@
 # Mechanics
 
-In this section of the concept we will deal with how to translate the *vision* into gameplay. Classes, Attributes, Skills, different modes of interaction, experience, relations or attitudes, interface, character progression and so on. The mechanics are the technical frame, the "rules" of the game within which the story takes place. 
+In this section of the concept we will deal with how to translate the *vision* into gameplay. Classes, Attributes, Skills, different modes of interaction, experience, relations or attitudes, interface, character progression and so on. The mechanics are the technical frame and the "rules" of the game within which the story takes place. 
 
 
 **Content:**
