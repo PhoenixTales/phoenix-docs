@@ -64,7 +64,7 @@ Whenever a topic has a source in design documents, old builds of the game or bot
 
 ## Read next 
 
-* [Vision of Gothic](/vision/vision-of-gothic)
+* [Vision](/vision/vision)
 
 
 ## Links
