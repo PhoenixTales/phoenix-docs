@@ -59,9 +59,11 @@ The next story section is the actual main plot which we deal with when the reade
          2. Plot Abstract
          3. Plot Description
             * Chapter 7: Return to Prison
-            * Chapter 8: Ore of Blood
-            * Chapter 9: Ruins of the City
-            * Chapter 10: Freedom
+            * Chapter 8: Ruins of the City
+            * Chapter 9: Of Ore and Blood
+            * Chapter 10: A fallen Empire
+            * Chapter 11: Rain in Revolt
+            * Chapter 12: Sacrifice of Freedom
          4. Plot Logic
    4. Guild Plots
       * The Way of Power
