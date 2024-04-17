@@ -66,13 +66,21 @@ The next story section is the actual main plot which we deal with when the reade
             * Chapter 12: Sacrifice of Freedom
          4. Plot Logic
    4. Guild Plots
-      * The Way of Power
-      * Fate of the Gladiator
-      * Life for the Temple
-      * A Shadow in the Crowd
-      * Red Blood on blue Scarves
-      * Path to Awakening
-      * Way of the Arcane
+      1. Act I 
+         * The Way of Power
+         * Fate of the Gladiator
+         * Life for the Temple
+         * A Shadow in the Crowd
+         * Red Blood on blue Scarves
+         * Path to Awakening
+         * Way of the Arcane
+         * Friends of Freedom
+      2. Act II
+         * Revolutionary Zeal
+         * Of Ancient Mysteries
+         * The Acceptance of Fear
+         * Against the Vessels of Pain
+         * Heresy and Treason
    5. Relation System
       1. Act I
          * OldCamp
