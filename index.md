@@ -6,9 +6,8 @@ layout: intro
 
 *Welcome to the desert of the ideal.*  
 
-These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working title "Project Nyx"), a radically immersive action rpg developed by Phoenix Tales, based on GOTHIC by Piranha Bytes which had "Phoenix" as its working title.   
+These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working title "Project Nyx"), a radically immersive action rpg developed by Phoenix Tales, based on GOTHIC (2001) by Piranha Bytes which had "Phoenix" as its working title. GOTHIC was supposed to be very different in 1996-1999. The release version was a mere fracture of what they had initially dreamed of and the vision was severely compromised. PHOENIX is an attempt to realise this dream. 
 
-  
 ```
 "Phoenix Design Concept"
 2016-2023 by PhoenixTales
