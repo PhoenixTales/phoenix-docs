@@ -159,19 +159,19 @@ In any way, it is not too far-fetched to assume that at some point every or almo
 For PHOENIX we draw the following conclusions...
 
 **Old Camp**
-* The *VLK* (folk) will be both a general faction (relevant for both acts and across camps and the city - this will be explained in the document dealing with our "Relation System"); as well as a collection of non-specific-groups within the old camp. The NPCs which are now handled as "VLK" will be divided into *Bdl* (Buddler) of about 35 to 40 NPCs and the rest of about 50 NPCs as described in the concept - they remain "Vlk" and may or may not be divided into additional subgroups like *Wrk* (Workers), *Beg* (Beggars) etc. 
-* We will have 15 to maximum 25 shadows; all the remaining NPCs that are now handled as shadows by the game will receive their own category or become part of the *Vlk*; other than that every *Stt* (shadow) has *Vlk* as his fake guild/faction (unless disguised in any other way).
+* The *VLK* (folk) will be both a general faction (relevant for both acts, across camps and the city - explained in more detail in our "Relation System"); as well as a collection of non-specific-groups within the old camp. The NPCs which are now handled as "Vlk" will be divided into *Bdl* (Buddler - 35 to 40 NPCs) and the rest (~50 NPCs as described in the concept), the latter remain "Vlk" and may or may not be divided into additional subgroups like *Wrk* (Workers), *Beg* (Beggars) etc. 
+* We will have between 15 and 25 shadows; all the remaining NPCs that are now handled as shadows by the game will either receive their own category or become part (or a subgroup) of *Vlk*; every *Stt* (shadow) has *Vlk* as his fake guild/faction (unless disguised in any other way).
 * The *Grd* remain roughly as they are (~87 NPCs). Unnecessary additional instances for level changes will be removed; we will use the actual NPC instances instead of unrelated or copied instances (this is also applying to some shadows, novices, templars and so on).
 * The number of barons (between 5 and 10) and mages (4-6) are difficult topics that will be discussed in a section on their own. 
 
 **New Camp**
 * There will be 25 to 30 Mercenaries at most. 
-* We will have 10 to 15 Organisers at most. About 20 of the remaining ~35-40 NPCs that are now handled as *Org* will become rangers of the Free Camp and the remaining ones (~15-20) will be various ordinary workers of the New Camp and technically part of the camp-crossing "folk" faction.
+* We will have 10 to 15 Organisers. About 20 of the remaining ~35-40 NPCs that are now handled as *Org* will become rangers of the Free Camp and the remaining ones (~15-20) will be various ordinary workers of the New Camp and technically part of the camp-crossing "Vlk" faction.
 * There will be 25 to 35 peasants at most, as needed. 
-* There will be 6 Mages
+* There will be 6 Mages.
 
 **Free Camp**
-* There will be about 20 Rangers, most of them in the Free Mine dealing with monsters, some of them mostly in the wilderness.
+* There will be about 20 Rangers, most of them in the Free Mine/Camp dealing with monsters, some of them mostly in the wilderness.
 * There will be 20 to 30 scrapers.
 
 **Psi Camp**
