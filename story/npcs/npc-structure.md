@@ -98,10 +98,10 @@ In 1.06 there were 5 templars only added to display them as being killed in fron
 
 Similarly to the Novices, this number was increased in the Phoenix Concept from 15 to 20 templars. 
 
-**Gurus:** There were supposed to be 5 gurus vs. 9 in the game.
-In the Phoenix concept they kept this number of 5. 
+**Gurus:** There were supposed to be 5 gurus vs. 9 in the game. 
+In the Phoenix concept they kept the number of 5 from *NPCs per Guild*. Although in *Guild System V2* they were described as being 3. Based on this we assume that both guild system concepts were written before *NPCs per Guild*. 
 
-Sadly from the Phoenix Concept only NPC lists of the sect survived; but it is safe to assume that similar changes in the numbers of NPCs (increasements from 5 to 10) were made in the other guilds too.
+Sadly from the Phoenix Concept only NPC lists of the sect survived; but it is safe to assume that similar changes in the numbers of NPCs (increasements from 5 to 10) were made in several other guilds too.
 
 ---
 

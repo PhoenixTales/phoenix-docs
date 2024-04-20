@@ -33,33 +33,7 @@ And finally we will deal with the placement of objects (non-takeable, static obj
 # Overworld Design
 
 
-### Removed or unrealised Locations
 
-* Rune Temple
-* Island 
-* Lighttower
-* Half-Orcs in the forest
-* Mage's Camp
-
-Deal with every single one of those.
-
-Fogtower/Lighttower:
-Where would a lighthouse (in German "Leuchtturm", *lighttower*) be more fitting than here, hovering above the sea, close to the beach with the wreck? And what has the fogtower to do here, far away from the borders of the swamp and the fog of the area? 
-
-
-
-### The Barrier, its Size and the Centre of the World
-
-The size of the gameworld was never changed significantly. But in the world model of v0.5-0.6 the world reached further north and further south. In 0.7 onwards it was reduced in size towards the north and the south, but increased towards the east and west. In a result of this change of the world model and the necessary borders of the world, the barrier was changed in its proportions to have more of a squished, oval shape instead of being a perfect sphere as it was originally meant to be. 
-
-The Old Camp was always positioned right in the centre of the game world (point 0, at the crossing point of the global X and Y axes). This has never been changed. Only due to the reduction in size of the south and the north of the world in later versions, the barrier's scale had to be reduced alongside and it was squished into an oval shape (originally it was supposed to be a perfect sphere). 
-
-While the Old Camp itself has never been moved, this later change of the barrier's extent put it slightly off the centre, if the barrier is seen as the border of the gameworld that it is. In any way, it was the Old Camp, originally called "Midcity", that was drawn first and that was always meant to be in the centre of the game world. 
-
-It is a fact, that according to the original concept, the Sleeper was supposed to be under the Old Camp, he was conceived as sleeping at the very bottom of the barrier or very close to it, at the "foot" of the barrier, deep below the Old Camp as the centre of the barrier. 
-{: .subtext}
-
-**PHOENIX:** If there is anything to change here, it would be to restore the additional space in the north and the south, to transform the barrier into a perfect sphere and make the Old Camp the centre of the barrier again. 
 
 
 ### Free Camp & New Camp
@@ -67,7 +41,7 @@ It is a fact, that according to the original concept, the Sleeper was supposed t
 The specifics of the design of the camps themselves are dealt with in the corresponding documents, here we will only talk about their position. 
 {: .subtext}
 
-During the Orpheus phase the New Camp was always shown in the southwest. It happened during the involvement of Ralf, during the restart of the project under its new working title "Phoenix" that it switched its place with the Free Camp and was modeled in the northwest. The connection of the New Camp with the peasants on the fields at the foot of the "Old Castle" in the south was prevalent in the Orpheus phase and in Alex Wittmann's story, but was soon developed further into the idea of the rice terraces, which was crucial to give the Camp its design both on Ralfs concepts and in form of the ingame models of the camp. We do not have any concept of the New Camp as Mike imagined it to be and we assume that there was none. The cooperation with Ralf has given the Camp its character (through several iterations), but the rice terraces and the dam and thus the waterfall and the connection with the river were the one thing, that all the concepts had in common, based on Mikes own sketch that he made at some point after the Orpheus Map V1. 
+During the Orpheus phase the New Camp was always shown in the southwest. It happened during the involvement of Ralf, during the restart of the project under its new working title "Phoenix" that it switched its place with the Free Camp and was modeled in the northwest. The connection of the New Camp with the peasants on the fields at the foot of the "Old Castle" in the south was prevalent in the Orpheus phase and in Alex Wittmann's story, but was soon developed further into the idea of the rice terraces, which was crucial to give the Camp its design both on Ralfs concepts and in form of the ingame models of the camp. We do not have any concept of the New Camp as Mike imagined it to be and we assume that there was none. The cooperation with Ralf has given the Camp its character (through several iterations), but the rice terraces and the dam and thus the waterfall and the connection with the river were the one thing that all the concepts had in common, based on Mikes own sketch that he made at some point after the Orpheus Map V1. 
 
 At this point it did not really make any difference for the New Camp neither for the setting, nor the story nor stylistically or in any other way, that it was moved further up towards the northwest and basically switched places with the Free Camp. But it did make a difference for the Free Camp at least in so far that the Free Mine was always supposed to have a connecton to the Abandoned Mine. Moving the Free Mine much further into the south (and simultaneously the Abandoned Mine further north and further east) of course did not mean that such a connection could not anymore exist, but if so it had to be different than what was imagined originally. According to the story documents this connection does not seem to have been given up alongside these changes of the layout. And it doesn't have to be. 
 
