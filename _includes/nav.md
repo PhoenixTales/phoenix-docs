@@ -54,7 +54,7 @@
 				3. City Surroundings
 				4. Design of the City  
 		2. Faction Design
-			1. [Alpha NPC Structure](/story/npcs/npc-structure)
+			1. [Colony Population](/story/world/colony-population)
 		3. Character Design
 			1. Character Descriptions
 			2. Costume Design

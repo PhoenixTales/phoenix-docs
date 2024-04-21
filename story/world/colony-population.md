@@ -1,18 +1,19 @@
-# Alpha NPC Structure
+# Colony Population
 
 **Author:** *Flosha*
 
 **Created:** 14.04.2024  
-**Last change:** 15.04.2024
+**Last change:** 21.04.2024
 
-Similarly to how the level structure document has given an abstract overview of the levels without actually dealing with the appearance or story of these levels, this document is supposed to give an abstract overview of the number of npcs within the different guilds, how these numbers changed and what we can deduce from this, without dealing with the design of these npcs themselves. 
+Similarly to how the level structure document has given an abstract overview of the levels without actually dealing with the appearance or story of these levels, this document is supposed to give an abstract overview of the population in the colony; how many belong to which guild, how many belong to which camp, how many are mere "background actors" ("ambient npcs") in the drama and how many play an actual role and carry an "individual name", as well as how these numbers changed in course of development and what we can deduce from these changes, without dealing with the design of these camps, guilds and characters themselves. 
 
 
 **Content:**
 1. [Numbers by Guilds](#numbers-by-guilds)
 2. [Numbers by Camps](#numbers-by-camps)
 3. [Numbers of Individual Names](#numbers-of-individual-names)
-4. [Conclusions](#conclusions)
+4. [Miscellaneous Numbers](#miscellaneous-numbers)
+5. [Conclusions](#conclusions)
 
 ---
 
@@ -155,6 +156,15 @@ In any way, it is not too far-fetched to assume that at least at some point ever
 
 ---
 
+## Miscellaneous Numbers
+
+**Underground Population:** Including the orcs living in the caves and their city and the so-called exile-orcs which were banned from the city. We do not have any information about how many orcs were supposed to be there. In the game there are about ~94 orcs in total (not counting undead orcs in the temple). 
+
+**Females:** There is no information about the numbers of female slaves in the concepts. In the game there are 5, we know one additional name from old scripts and the one from the Comic, to probably 7 at most (while Velaya is an exception, in that she was supposed to be brought into the colony simultaneously to the player). In the novel by Alex Wittmann additional women are mentioned as being among the peasants of the New Camp, but no specific number. And in the later iteration of his novel two additional female warrior NPCs were introduced.
+
+**Childbirth:** Due to the extremely low numbers of women in the colony and all of these women being reserved for the barons or the gurus - at least in the final game this is the narrative - who just use them for fun (or for whatever sexual practices in the sect), procreation is not a thing in the colony. This changes when we take the gothic novel by Alex Wittmann into account. Here one baron has a son who was born inside of the barrier; suggesting that he fathered him with one of his slaves - and based on the idea (which Alex' story shares with the Gothic Comic), that the barrier is there since more than 20 years. Thus this son of a baron is more or less grown up already and it would still make sense that there are no other children in the colony. But less so when we take the female peasants into account. Other than that in Alex' novel a brothel was mentioned in the Old Camp and in early alpha versions the preachers of the Sect were recruiting members by promising them to "get" women (among other things) that they have in the swamp, which may or may not mean that they were supposed to be "accessible" to novices or templars too. These conditions make it more unlikely, but not impossible (who wants to give birth to a child in such a prison?), that there are no children in the colony. 
+
+---
 
 ## Conclusions
 
@@ -189,6 +199,8 @@ Thus, at gamestart...
 
 The sect will grow from 50 (the Phoenix Concept takes precedence) to ~99 NPCs (without a change in the total number of NPCs in the world - unless for a few additional convicts). So there would need to be 49 NPCs who join the sect in course of the first three to four chapters, most of them from the Old Camp, which would shrink the OC from about 210 NPCs to ~161 (not considering here all the NPCs who die in course of the story), which leaves us with a decent and believable evolution that we may be able to display dynamically in the story. 
 
-There are the female slaves, a few guildless NPCs and Quentin's little gang that'll have to deal with independently, but they won't add much to these numbers. Summarising our conclusion: There'll be about ~400 NPCs in the world of Act I. 
+Concerning female characters, it wouldn't cause any conflict to add additional sex slaves to a brothel in the Old Camp (that just the guards and some higher ranked shadows may be able to use) or some female peasants as it was described in the gothic novel by Alex Wittmann. The absence of any children can still be explained by other means (e.g. as we know women are only send to the colony as sex slaves (the female peasants can as well be former, liberated slaves) and these women may have been selected specifically for their infertility to be send into the colony; in other cases a baron may just have caused an abortion through violence). 
+
+There may also be a few guildless NPCs and Quentin's little gang that'll have to deal with independently, but they won't add much to these numbers. Summarising our conclusion: There'll be about ~400 NPCs in the world of Act I. 
 
 
