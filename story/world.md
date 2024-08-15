@@ -105,17 +105,17 @@ He would walk through the hole in the mountain wall, over the tree alongside a w
 
 ![Towards the Lift](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Oberwelt_Anfang-V1-2.jpg)
 
-The lift would bring him into this area, where he could take a passage way towards the valley or another path leading to the Abandoned Mine. A path which through the placement of the rocks - which are hiding the passage to the valley from the perspective of the player when he arrives - would have been most likely for the player to take first. While when coming back from the mine, looking into the other direction, the path to the valley would become more obvious to him. Whatever path the player would take, he would leave them to arrive here at the "northern environment": 
+The lift would bring him into this area, where he could take a passage way towards the valley or another path leading to the Abandoned Mine. 
+
+[Insert concept]
+
+A path which through the placement of the rocks - which are hiding the passage to the valley from the perspective of the player when he arrives - would have been most likely for the player to take first. While when coming back from the mine, looking into the other direction, the path to the valley would become more obvious to him. But whichever path the player would take, he would leave them to arrive here at the "northern environment": 
 
 ![North of the Valley](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Abschnitt_A1-A2-B1-B2.jpg)
 
-It should be obvious how these concepts deviated from Mikes conception. And if you look at the first picture above, you will see how Mike has added sketches to Ralfs concept to show him how he wants it to be. It was an usual process for him to draw over Ralfs concepts as a form of feedback. That said - he did not really approve of this particular sketch due to how much it changed his idea. 
+It should be obvious how these concepts deviated from Mikes conception. And if you look at the first picture above, you will see how Mike has added sketches to Ralfs concept to show him how he wants it to be, although it is difficult to interpret them. It was an usual process for him to draw over Ralfs concepts as a form of feedback to better explain to him how he imagined it instead *or* how Ralfs suggested design could be brought into harmony with Mikes idea. That said, he did not seem to approve this particular sketch due to how much it changed his idea. 
 
-You also have to note how Ralf didn't include any incline (such as Mike had done on his map, where the area was supposed to lead upwards to the exchange place, as it was later realised in the game). Instead of having any of organic inclinations, Ralf he has drawn rather strict straight paths, first horizontal, then a vertical path downwards in form of the lift and again a strict horizontal path to the valley. 
-
-
-
-
+You also have to note how Ralf didn't include any incline (such as Mike had done on his map, where the area was supposed to lead upwards to the exchange place, as it was later realised in the game). Instead of having any organic inclination, Ralf has drawn rather strict straight paths, first horizontal, then a vertical path downwards in form of the lift and again a strict horizontal path to the valley. It is easier to design an area in this kind of way and becomes very complex if diverse inclinations have to be taken into account, as Mike wanted to have them. 
 
 
 
