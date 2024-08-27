@@ -21,7 +21,7 @@ From 0.94k etc. They have Grunt. Grd has Shabak, Org has also a half-orc.
 
 It is mentioned that "Cole" is a deputy (he can give binding orders in absence of the General/Lord). The special role of Orik could be explained in the same way. Similarly it is mentioned that Grunt gives an order at some point and the order is binding. Thus Orik, Cole, Cord and Grunt have a high rank in the guild and it could be that Orik and Cole are the same. 
 
-Cord is described as having pupils that he trains and they compete in the arena of the OC. One of them defected to the Old Camp; Cord, after teaching the player, gives him a mission to go to the camp and kill him in the arena. 
+Cord is described as having pupils that he trains and they compete in the arena of the OC. One of them defected to the Old Camp; Cord, after teaching the player, gives him a mission to go to the camp and kill him in the arena. This makes him fit the best as the "Weaponmaster" and "teacher of the guard". 
 
 
 

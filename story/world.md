@@ -1,6 +1,6 @@
 # World
 
-At first we will deal with the design of the levels of Act I, everything within the Colony before the fall of the barrier, divided into Overworld and Underworld design. Then we will deal with the levels of Act II, which contains the colony as it changed after the fall of the barrier, with the design of the city and its surroundings as a small explorable section of the outside world. 
+At first we will deal with the design of the levels of Act I, everything within the Colony before the fall of the barrier, divided into Overworld and Underworld design. Then we will deal with the levels of Act II, which contains the colony as it changed after the fall of the barrier and the design of the city and its surroundings as a small explorable section of the outside world. 
 
 Then we will analyse the evolution of the different factions ("guilds") in the world and what to make of them. <!--, then with the NPCs and their initial placement ("start routine") in the world (the "setup" that the player will be confronted with).--> 
 
@@ -11,6 +11,44 @@ And finally we will deal with the placement of objects (non-takeable, static obj
 **Content:**
 
 1. Level Design
+    * Act I: Orpheus
+        1. Overworld Design
+            1. Old Camp
+            2. New Camp
+            3. Free Camp
+            4. Psi Camp
+            5. Surroundings
+                1. North of the Colony
+                    1. Cliff & Exchange Place
+                    2. Old Pass
+                    3. Troll Canyon
+                    4. Bandits Camp
+                    5. Abandoned Mine Outside
+                2. East of the Colony
+                    1. FogTower
+                    2. Lighttower & SmugglersBay
+                    3. Monastery Ruins
+                    4. MagesMeetingPlace
+                    5. Swamp
+                    6. Sea & Coastline
+                3. West of the Colony
+                    1. RockCemetary
+                    2. HighWood
+                    3. OrcCamp
+                4. South of the Colony
+                    1. Old Mine Outside
+                    2. DemonTower
+                    3. Southeast Lake
+                    4. Hermit's Valley
+                    5. Mountain Fortress
+        2. Underworld Design
+            1. Abandoned Mine
+            2. Old Mine
+            3. Free Mine
+            4. Fog Mine
+            5. Natural Caves
+            6. OrcCity
+            7. AncientTemple
 2. Faction Design
 <!-- 1. Folk
     2. Mafia
