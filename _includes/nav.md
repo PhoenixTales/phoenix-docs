@@ -34,7 +34,7 @@
 	7. Interface
 	8. Events
 	9. AI Functions
-	10. [Playmodes}(/mechanics/playmodes)
+	10. [Playmodes](/mechanics/playmodes)
 3. [Story](/story/story)
 	1. [Setting](/story/setting)
 		1. Mythology
