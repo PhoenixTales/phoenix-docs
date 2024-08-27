@@ -7,7 +7,7 @@
 
 By factions we mean groups of guilds within and across camps; or in short: Factions are cross-camp groups of guilds. I introduced them to simplify the complex "guild attitudes" by working with _layers of relations_ from general to specific (see [Relations]()). It is a system that enables us to take both Act 1 and Act 2 factions/guilds into account. 
 
-The factions serve primarily the internal purpose of structuring guilds by e.g. the common dramaturgical functions (DraFu) they serve, but they also correspond to groups of people as mentioned within the ingame.
+The factions serve primarily the internal purpose of structuring guilds by e.g. the common dramaturgical functions (DraFu) they serve, but they also correspond to groups of people as mentioned within the game.
 Currently we distinguish between the following factions:
 
 * Folk
@@ -24,16 +24,16 @@ Currently we distinguish between the following factions:
 
 ## Internal Shortcuts
 
-[Vlk] Volk (Folk)
-[Mgt] Magnaten (Magnates)
-[Prs] Priester (Priests)
-[Kng] Königliche (Royals)
-[Rch] Richter (Judges/Law) 
-[Vgf] Vogelfreie (Outlaws)
-[Fre] Freie (Freedom/Revolt)
-[Ktz] Ketzer (Heretics)
-[Slv] Sklaven (Slaves)
-[Exi] Verstoßene (Exiles)
+[Vlk] Volk (Folk)  
+[Mgt] Magnaten (Magnates)  
+[Prs] Priester (Priests)  
+[Kng] Königliche (Royals)  
+[Rch] Richter (Judges/Law)   
+[Vgf] Vogelfreie (Outlaws)  
+[Fre] Freie (Freedom/Revolt)  
+[Ktz] Ketzer (Heretics)  
+[Slv] Sklaven (Slaves)  
+[Exi] Verstoßene (Exiles)  
 
 
 ## Guilds per Faction
