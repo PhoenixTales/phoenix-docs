@@ -34,6 +34,7 @@
 	7. Interface
 	8. Events
 	9. AI Functions
+	10. [Playmodes}(/mechanics/playmodes)
 3. [Story](/story/story)
 	1. [Setting](/story/setting)
 		1. Mythology
@@ -47,14 +48,16 @@
 				1. [Level Structure](/story/level-structure)
 				2. [Evolution of the Map](/story/map-evolution)
 				3. Overworld Design
-				2. Underworld Design
+				4. Underworld Design
 			2. Act II - Colony & Outside World
 				1. The Colony Revisited  
 				2. Passes and Borders
 				3. City Surroundings
 				4. Design of the City  
 		2. Faction Design
-			1. [Colony Population](/story/world/colony-population)
+			1. [Factions](/story/factions/factions)
+			2. [Colony Population](/story/factions/colony-population)
+			3. [Guilds Descriptions](/story/factions/guilds-descriptions)
 		3. Character Design
 			1. Character Descriptions
 			2. Costume Design
