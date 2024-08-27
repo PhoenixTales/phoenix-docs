@@ -2,7 +2,7 @@
 
 **Author:** *Flosha*  
 **Created:** 02.11.2022   
-**Changed:** 27.08.2024
+**Changed:** 27.08.2024  
 **Status:** <span class="changed">work in progress</span>  
 
 By factions we mean groups of guilds within and across camps; or in short: Factions are cross-camp groups of guilds. I introduced them to simplify the complex "guild attitudes" by working with _layers of relations_ from general to specific (see [Relations]()). It is a system that enables us to take both Act 1 and Act 2 factions/guilds into account. 
