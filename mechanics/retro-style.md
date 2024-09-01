@@ -38,10 +38,10 @@ In general we aim to ideally ommit prints if possible, we do so via the HUD.
 
 With the `NoPrints` option (standard in `HardcoreImmersion`) we try to visualise everything. But when playing with `NoPrints` *and* without the HUD, the question arises how and if to inform the player of particular events or changes in the game. 
 Which we solve differently depending on the case: 
-    * When a secret is found, an sfx suffices.  
-    * What if a new Chapter starts?
-    * When getting a Boni: A specific boni sfx? 
-    * GameOver does not have to be shown, as death makes it obvious.
+* When a secret is found, an sfx suffices.  
+* What if a new Chapter starts?
+* When getting a Boni: A specific boni sfx? 
+* GameOver does not have to be shown, as death makes it obvious.
 We can always make exceptions and either show the HUD or simple prints at the top of the screen or at a corner inspite of the `NoHUD` option so that no relevent information is lost. 
 
 Now, `RetroPrints` on the other hand is specifically embracing prints as in our testing builds; here texts like "Secret found", "Chapter 2" or "Game Over", as well as boni like "+5 Arcane" are printed extra visible in a big font and in the center of the screen in the style of oldschool FPS titles.
