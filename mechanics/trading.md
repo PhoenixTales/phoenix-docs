@@ -15,9 +15,9 @@ In case of a dealer or other npcs who want to give the player a choice between a
 This way we improve the non-immersive default of the base game, where traders do not even have a stand (not even in a fake way by e.g. a stand with a texture showing the goods he sells), and seem to just pull weapons and armours out of their pockets. In our system, every item the trader sells should correspond to an actual item in his shop.  
 Obviously the player can try to steal such items, but the irreversible consequences when caught will most often make it more trouble than it's worth, shops with very valuable items are always guarded etc. 
 
-When the player walks to the table the camera focuses on it at a top-down angle. Now the player can switch left and right, up and down between highlighting the items. (They are literally highlighted, lightened up as in Gothic - or if choosen (default in retro mode) by white brackets in the style of Deus Ex or System Shock 2). 
+When the player walks to the table the camera focuses on it at a top-down angle. Now the player can switch left and right, up and down between highlighting the items. (They are literally highlighted, lightened up as in Gothic - or if choosen (default in `RetroStyle`) by white brackets in the style of Deus Ex or System Shock 2). 
 
-When highlighted for the first time, the NPC says a few words about the item (in case of a trader, he also mentions the price at the end), which replaces a non-diegetic item description. When waiting for ~4-5 seconds on an item, the description is repeated in case that the player forgot relevant information.
+When highlighted for the first time, the NPC says a few words about the item (in case of a trader, he also mentions the price at the end), which replaces a non-diegetic item description. When waiting for ~4-5 seconds on an item, the description is repeated in case that the player has forgotten relevant information.
 
 Items are selected with the action key, upon which he may be asked once if he is sure he wants to buy them. There may be an option to bargain (further below).
 
@@ -33,7 +33,7 @@ Every item in a shop receives a specific flag or we solve it via the portalroom 
 
 When hitting `ACTION + ↑` an item is taken, containers (NPCs/Chests) are looted, Mobs are used. We include a `FocusView` function which is triggered after 1-2 sec of just *holding* the `ACTION` key (in the same way as holding it in combat mode triggers the combat stance) while an instance is in focus. `FocusView` is accompanied by a dedicated camera which moves the view to the right shoulder of the PC and closer to the viewed instance. (Unless he is close to a wall to his right, which the camera should detect and move to the left.)
 
-When `FocusView` is triggered on a regular item (not in a shop), the PC or as well an NPC in FollowMode may make a comment on the item (as well as a moveable object, a corpse he found and so on), similar to the "inspect" function when the item is already in the hands of the character and he is inspecting it closely and mentions what he notices. This may also become an important mechanic for the adventure parts and riddles to get additional information.
+When `FocusView` is triggered on a regular item (not in a shop), the PC - or as well an NPC in FollowMode - may make a comment on the item (as well as a moveable object, a corpse he found and so on), similar to the "inspect" function when the item is already in the hands of the character and he is inspecting it closely and mentions what he notices. This may become an important mechanic for the adventure parts and riddles to get additional information.
 
 But when in a shop, holding the action key on an item triggers the trader's comment alongside the `FocusView` as well as a trading interface. In the interface you will just see the option:
 ```
@@ -42,7 +42,7 @@ Buy [X Ore] <- Your price ->
 
 When letting go of the `ACTION` key, the interface closes. 
 
-Instead of navigating through a traders inventory, you will move your character through the trader's shop and we show that the trader is observing you in his shop, comments on the items you are interested in and mentions the price. 
+Instead of navigating through a traders inventory, you will move your character through the trader's shop. We visualise how the trader is observing you in his shop, comments on the items you are interested in and mentions the price. 
 
 This system is both simple as well as immersive and lets the player feel more in control at any time; whatever happens, he can immediately just release a button and is again in full control of his character, can turn around and leave. 
 
