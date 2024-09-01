@@ -9,10 +9,10 @@ How to make trading more immersive, simpler and more intuitive.
 
 **28.08.2024**
 
-Every trader has to have a stand, if not a complete shop. And everything he sells, apart of very small items, have to be actually placed in the world. Traders present their goods by actual items on the table in front of them.
+Every trader has to have a stand, if not a complete shop. And everything he sells, apart of very small items, have to be actually placed in the world. Traders present their goods by actual items on the table in front of them.  
 In case of a dealer or other npcs who want to give the player a choice between a few items, - e.g. the dealer of a guild providing a "loadout" for a mission - he may actually place the items in front of him first, like the weapons dealer in *Mafia: The City of Lost Heaven*. 
 
-This way we improve the non-immersive default of the base game, where traders do not even have a stand (not even in a fake way by e.g. a stand with a texture showing the goods he sells), and seem to just pull weapons and armours out of their pockets. In our system, every item the trader sells should correspond to an actual item in his shop. 
+This way we improve the non-immersive default of the base game, where traders do not even have a stand (not even in a fake way by e.g. a stand with a texture showing the goods he sells), and seem to just pull weapons and armours out of their pockets. In our system, every item the trader sells should correspond to an actual item in his shop.  
 Obviously the player can try to steal such items, but the irreversible consequences when caught will most often make it more trouble than it's worth, shops with very valuable items are always guarded etc. 
 
 When the player walks to the table the camera focuses on it at a top-down angle. Now the player can switch left and right, up and down between highlighting the items. (They are literally highlighted, lightened up as in Gothic - or if choosen (default in retro mode) by white brackets in the style of Deus Ex or System Shock 2). 
