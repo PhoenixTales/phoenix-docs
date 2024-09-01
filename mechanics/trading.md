@@ -48,7 +48,7 @@ Instead of navigating through a traders inventory, you will move your character 
 
 This system is both simple as well as immersive and lets the player feel more in control at any time; whatever happens, he can immediately just release a button and is again in full control of his character, can turn around and leave. 
 
-Obviously, this behavoir changes when the player is in `StealthMode`; here no trading interface opens and the item is just taken instead like any other regular item.  
+Obviously, this behaviour changes when the player is in `StealthMode`; here no trading interface opens and the item is just taken instead like any other regular item.  
 
 This solution causes another problem: It is unproblematic where there are items placed on shelves or tables around the room at the walls. But if the trader stands directly behind a stand full of items the player will have trouble to focus the NPC to initiate a dialogue with him, if he wants to do so, as the items are in the way. Should the items in front of the trader not be focusable then? This would mean to handle these items different than others, which would be inconsequent and confusing to the player. We can solve it by automatically entering the dialogue with a trader when really getting close to the table and facing into the traders direction, because it is just logical that the trader will speak to the player in that case and that the player is thereby seeking to talk to the trader. In the dialogue with the trader we can then initiate the trading camera as described in the first section above, where the trader is presenting to the player the items in front of him, which will work great for all those traders with just a stand and a few items to sell. 
 
