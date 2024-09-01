@@ -28,10 +28,11 @@
 		4. Magic Mode
 		5. Dialogue Mode
 		6. Crafting Mode
-		7. Trading Mode
+		7. [Trading Mode](/mechanics/trading)
 	5. Experience or Arts
 	6. Relations
 	7. Interface
+		1. [RetroStyle](/mechanics/retro-style)
 	8. Events
 	9. AI Functions
 	10. [Playmodes](/mechanics/playmodes)
