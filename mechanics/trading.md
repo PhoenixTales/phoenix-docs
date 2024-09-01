@@ -46,6 +46,8 @@ Instead of navigating through a traders inventory, you will move your character 
 
 This system is both simple as well as immersive and lets the player feel more in control at any time; whatever happens, he can immediately just release a button and is again in full control of his character, can turn around and leave. 
 
+Obviously, this behavoir changes when the player is in `StealthMode`; here no trading interface opens and the item is just taken instead like any other regular item.  
+
 ---
 
 ## Bargaining
