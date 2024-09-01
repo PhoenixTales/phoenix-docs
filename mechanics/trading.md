@@ -1,8 +1,8 @@
 # Trading
 
-**Author:** *Flosha*
-**Created:** 28.08.2024
-**Updated:** 01.09.2024
+**Author:** *Flosha*  
+**Created:** 28.08.2024  
+**Updated:** 01.09.2024  
 
 How to make trading more immersive, simpler and more intuitive.
 
