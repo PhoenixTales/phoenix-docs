@@ -187,7 +187,8 @@ V2:
 * Join conditions: Organise 3 ore, no matter how. 
 * Maximal allowed level of other guilds: 5 for snitches / trappers, 3 for all else
 
-**Summary**: While the shadows require an assination, the Orgas want the player to have learned skills like Acrobatics, Climbing or Disarm Traps. This is a very important observation, as it tells a lot about the unique characteristics of these two thieve guilds in the early vision. The shadows are meant to be spies and assassins first and foremost, while the Orgas are actual thieves or "burglars", which focus on their abilities to overcome the walls of the Old Camps castle to steal ore. And the condition of V2, to organise 3 ore, is an additional confirmation about how much less ore was supposed to be around in the colony and how much harder the acquisition should be (the protection money was also meant to be just 3 ore).
+**Summary**: While the shadows require an assassination, the Orgas want the player to be skilled in Acrobatics, Climbing or Disarm Traps. This is an important observation, as it tells a lot about the unique characteristics of these two thieves guilds in the early vision. The shadows are meant to be spies and assassins first and foremost, while the Orgas are actual thieves or "burglars", focusing on their abilities to overcome the walls of the Old Camps castle to steal ore.  
+The condition of V2, to organise 3 ore, is an additional confirmation about how much less ore was supposed to be around in the colony and how much harder the acquisition should be (the protection money was also meant to be just 3 ore).
 
 Version 1 sets the maximum joinable level for other guilds to 3, while V2 raises it to 5 for the thieves guilds of the OC and FC, analogous to the same conditions in V2 for the snitches.
 
