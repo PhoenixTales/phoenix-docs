@@ -34,7 +34,10 @@ The next story section is the actual main plot which we deal with when the reade
          3. City Surroundings
          4. Design of the City
    2. Faction Design
-      1. Alpha NPC Structure
+      1. Factions
+      2. Colony Population
+      3. Guilds Description
+      4. Join Conditions
    3. Character Design
       1. Character Descriptions
       2. Costume Design
@@ -63,7 +66,7 @@ The next story section is the actual main plot which we deal with when the reade
             * Chapter 9: Of Ore and Blood
             * Chapter 10: A fallen Empire
             * Chapter 11: Rain in Revolt
-            * Chapter 12: Sacrifice of Freedom
+            * Chapter 12: Sacrifice of Freedom <!-- or just Freedom -->
          4. Plot Logic
    4. Guild Plots
       1. Act I 

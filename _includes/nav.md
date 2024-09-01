@@ -59,6 +59,7 @@
 			1. [Factions](/story/factions/factions)
 			2. [Colony Population](/story/factions/colony-population)
 			3. [Guilds Descriptions](/story/factions/guilds-descriptions)
+			4. [Join Conditions](/story/factions/guilds-join-conditions)
 		3. Character Design
 			1. Character Descriptions
 			2. Costume Design
@@ -84,18 +85,28 @@
 				2. Plot Abstract
 				3. Plot Description
 					* Chapter 7: Return to Prison
-					* Chapter 8: Ore of Blood
-					* Chapter 9: Ruins of the City
-					* Chapter 10: Freedom
+					* Chapter 8: Ruins of the City
+					* Chapter 9: Of Ore and Blood
+					* Chapter 10: A fallen Empire
+					* Chapter 11: Rain in Revolt
+					* Chapter 12: Sacrifice of Freedom
 				4. Plot Logic
 		4. Guild Plots
-			* The Way of Power
-			* Fate of the Gladiator
-			* Life for the Temple
-			* A Shadow in the Crowd
-			* Red Blood on blue Scarves
-			* Path to Awakening
-			* Way of the Arcane
+			1. Act I 
+				* The Way of Power
+				* Fate of the Gladiator
+				* Life for the Temple
+				* A Shadow in the Crowd
+				* Red Blood on blue Scarves
+				* Path to Awakening
+				* Way of the Arcane
+				* Friends of Freedom
+			2. Act II
+				* Revolutionary Zeal
+				* Of Ancient Mysteries
+				* The Acceptance of Fear
+				* Against the Vessels of Pain
+				* Heresy and Treason
 		5. Relation System
 		6. Missions
 			1. Act I Missions
