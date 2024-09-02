@@ -59,7 +59,7 @@
 			1. [Factions](/story/factions/factions)
 			2. [Colony Population](/story/factions/colony-population)
 			3. [Guilds Descriptions](/story/factions/guilds-descriptions)
-			4. [Join Conditions](/story/factions/guilds-join-conditions)
+			4. [Join Conditions](/story/factions/guilds-joining-conditions)
 		3. Character Design
 			1. Character Descriptions
 			2. Costume Design
