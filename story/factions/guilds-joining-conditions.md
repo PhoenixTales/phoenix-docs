@@ -39,7 +39,7 @@ The 12 groups written of here are the eight guilds above + the four *higher guil
 * Gurus &
 * Demon Summoner
 
-The old idea of "13" guilds are just the above + the rangers. Diggers, Scrapers and Peasants are not counted here, as they are "internal guilds", with whom it would have been 15-16 guilds and when the half-orcs are counted too, 16-17. 
+The old idea of "13" guilds are just the above + the rangers. Diggers, Scrapers and Peasants are not counted here, as they are "internal guilds", with whom it would have been 15-16 guilds. 
 
 
 ## Guild Progression
