@@ -1,20 +1,22 @@
 # Guild Progression
 
-**Author:** *Flosha*
+**Author:** *Flosha*  
 **Created:** 01.09.2024
 
 
 ## Guild Ranks
 
-In "Join Conditions" I have pointed out how in the early conception phase there was the idea of a level system within a guild and suggested that it corresponded to ranks within the guild and that it was also most likely linked to some degree to the chapters. 
+In [Joining Conditions](/story/factions/guilds-joining-conditions) I have pointed out how in the early conception phase there was the idea of a level system within guilds and suggested that it may correspond to ranks within the guild and that it may also make sense that it is linked at least to some degree to the chapters. 
 
-I also made the example that a thug of level 5 may be thrown out of the guild, then join the sect and be a novice of level 1. By this example I suggested that these levels were linked to the guild and would not persist when joining a different guild and in this case this may be true. But a more precise and perhaps more logical explanation would be to assume that the level is primarily linked to the class. 
-It may be possible to join a totally different class throughout the story, if one has no other option. But usually, as in the example of the shadow: a thief will defect to another thief guild from another camp. As we know, he can be up to level 5; thus having reached quite a high rank in his guild already and alongside having reached quite some skill as a thief. Therefore I assume that in such a case the level would indeed persist and would carry-over to an equivalent or similar rank in the new guild he defects to.
+I also made the example that a thug of level 5 may be thrown out of the guild, then join the sect and be a novice of level 1. By this example I suggested that these levels were linked to the guild and would not persist when joining a different guild. And in this case this may be true. But a more precise and perhaps more logical explanation would be to assume that the level is primarily linked to the *class*. 
 
-As far as we know, up to 7 maximum levels were planned per guild. If that is the case, how may they relate to the chapters, which were 6? In order to clarify this, we first have to point out that the player was meant to start not with level 1, but with level 0 (as being guildless and of no rank or name whatsoever inside of the prison system). 
-Additionally, the 7 levels are linked to the 8-9 guilds that the player could join within the first chapter, but he would not belong to one of these guilds till the end of the game. Somewhere at the end of the game (I assume probably in chapter 5) he would join one of the four so called "higher", "secret" guilds. 
+It may be possible to join a totally different class throughout the story, if one has no other option. But usually, as in the example of the shadow: a thief will most likely defect to another thief guild from another camp. As we know, he can be up to level 5 for defecting to the Orgas; thus having reached quite a high rank in his guild already and alongside having reached quite some skill as a thief. Therefore I assume that in such a case the level would indeed persist and would carry-over to an equivalent or similar rank in the new guild he defects to.
 
-It is unlikely that these higher guilds were also supposed to have 7 levels that the player would progress through; not only due to their narrative meaning, where you are already of a high rank just by belonging to one of these elite groups, but also due to time within the story, where the player focuses on solving the game. It does not seem plausible to me that he was supposed to go through 7 different ranks within the two final chapters. And at least in the Guild System documents it is indeed the case that the 7 levels are only ever mentioned in regard to the regular guilds, not the higher ones. We simply don't know how much they were meant to have. 
+As far as we know, up to 7 maximum levels were planned per guild. If that is the case, how may they relate to the chapters, which were 6? In order to clarify this, we first have to point out that the player was meant to start not with level 1, but with level 0 (being guildless and of no rank or name whatsoever inside of the prison system).
+
+Additionally, the 7 levels are linked to the 8-9 guilds that the player could join within the first chapter, but he would not (necessarily) belong to one of these guilds till the end of the game. Somewhere at the last quarter of the game (I assume probably in chapter 5) he would join one of the four so called "higher", "secret" guilds. 
+
+It is unlikely that these higher guilds were also supposed to have 7 levels that the player would progress through; not only due to their narrative meaning, where you are already of a high rank just by belonging to one of these elite groups, but also due to the point in time within the story, where the player focuses on solving the game. It does not seem plausible to me that he was supposed to go through 7 different ranks within the two final chapters. And at least in the Guild System documents it is indeed the case that the 7 levels are only ever mentioned in regard to the regular guilds, not the higher ones. We simply don't know how much they were meant to have and these levels were supposed to function. 
 
 A conclusion that stands to reason would be to choose the same number as the attribute levels, which are 10 (or 0 + 9). In this case, examplatory guild ranks throughout the story could roughly look like this:
 
@@ -49,6 +51,28 @@ Ingame, these ranks would be displayed or described as:
 * Meister des Feuers / Wassers
 * Schüler der Dunklen Künste / Schüler des DmB
 * Dunkler Hexer / Dämonenbeschwörer
+
+---
+
+In "options of defection" I have described the basic scheme into which the early ideas from Mike fit. According to these ideas, apart from the thief, who could defect to another thief guild throughout the game, the class was not really taken into account as a factor.
+
+The only factors were:
+* Players should have some freedom to change their minds early on (in Mikes case, the simple standard for this was "up to level 3").
+* The relationships between the guilds should be a relevant consideration for the ability to join, regarding trustworthiness, loyalty etc.
+
+What we do in Phoenix is
+* to take the relationships more serious (which will also make the first point thighter and in many cases lower the maximum level for a switch) and
+* add the class as a third factor 
+
+Our system will then look like this:
+
+* Players will be given a little bit of freedom to change their minds about their class, mostly limited to level 1, instead of 3, as the default.
+* Players will get the option to switch to other guilds of the same class at different points of the story, probably up to level 5, which should always be linked to specific narrative reasons. For example, the player may be confronted with a decision or a mission or task, which he is not ready to do and decides to betray his guild at this point in time and defect to the other group. And such possibilities should be given not only once in course of the story, but several times.
+* These options of defaction are restricted and individualised based on relationships. For instance, a shadow will have a harder time or more convincing to do to join the Orgas than an Orga will have to do to join the Rangers, and joining the rangers will be limited to a lower level for the shadow etc.
+* While Mike considered such options for the thief, mostly due to the double agent idea, he did not do so in regard to the warrior. In our case, switching from thugs to templars or vice versa and templars to mercs etc. should be an option, while thug to merc may be fairly restricted due to the bad relationships. 
+
+
+---
 
 
 TO story and costume design:
