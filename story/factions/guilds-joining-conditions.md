@@ -1,4 +1,4 @@
-# Join Conditions
+# Joining Conditions
 
 **Author:** *Flosha*  
 **Created:** 17.04.2024  
@@ -6,7 +6,7 @@
 
 In the final game, after the player joined a camp, he was bound to this camp till the end of the game, with just one (pre-scripted and forced with no alternative) story-twist related exception. According to the original idea this was not the case. When designing the guilds Mike laid out conditions for every guild for when the player could join them if already belonging to another guild.
 
-Mike first described "join conditions" (such as a minimum level you had to have in another guild or specific things you had to prove or skills to acquire) and then at which level the guild would be exclusive, summarised as: "maximum allowed joining level and guild" ("maximal erlaubter Beitrittslevel und Gilde" in German), shortened to the acronym "MEBLAG". In other words, a maximum allowed level you could acquire in another guild above which it would exclude you from joining the guild in question, because they would either not trust you anymore when having such a high rank in another guild or because it would raise skill problems (as e.g. the guild in question was of another class).  
+Mike first described "joining conditions" (such as a minimum level you had to have in another guild or specific things you had to prove or skills to acquire) and then at which level the guild would be exclusive, summarised as: "maximum allowed joining level and guild" ("maximal erlaubter Beitrittslevel und Gilde" in German), shortened to the acronym "MEBLAG". In other words, a maximum allowed level you could acquire in another guild above which it would exclude you from joining the guild in question, because they would either not trust you anymore when having such a high rank in another guild or because it would raise skill problems (as e.g. the guild in question was of another class).  
 
 We are using the guild system v1 and v2, the Phoenix Main Mission doc, the Story v3.3 and all kinds of smaller notes and scribbles as our sources here.
 
@@ -32,9 +32,14 @@ This was not only mentioned in the earliest guild system concepts, it was also p
 
 > There are 12 different groups to join and each of them has got its own goals and point of view. - Mike Hoge, desslock.gamespot.com 06/1998
 
-The 12 groups written of here are the eight guilds above + the four *higher guilds*: The Secret Thieves, the Barons, the Gurus and the Demon Summoner. 
+The 12 groups written of here are the eight guilds above + the four *higher guilds*: 
 
-The old idea of "13" guilds are just the above + the rangers. Diggers, Scrapers and Peasants are not counted here, as they are "internal guilds", with whom it would have been 15-16 guilds and when the half-orcs are counted too, 16-17. 
+* Secret Thieves
+* Barons
+* Gurus &
+* Demon Summoner
+
+The old idea of "13" guilds are just the above + the rangers. Diggers, Scrapers and Peasants are not counted here, as they are "internal guilds", with whom it would have been 15-16 guilds. 
 
 
 ## Guild Progression
@@ -78,9 +83,9 @@ This guild progression was laid out in a graphic in [*Werdegang eines SC's*](htt
 Here I translate the original handwritten notes by Mike, then summarise them in more easily understandable terms. In some cases, the conditions are identical between V1 and V2. In other cases some conditions were added, removed or changed, which is pointed out.
 
 
-### Mafia (Ebr)
+### Junta (Ebr)
 
-First called *Junta* and *Mafia*, then *Orebarons*.
+First called *Junta* and internally described as a *Mafia* due to how they were supposed to feel and function, then *Orebarons*.
 
 V1 & V2 (identical): 
 * Join conditions: Noble Mercs Lev 7, Temple Guard Lev 7, Mafia Snitch Lev 7, Mafia Thug Lev 6+ -> Initiation Battle; PC must kill a member of the mafia [= a baron].
@@ -187,7 +192,8 @@ V2:
 * Join conditions: Organise 3 ore, no matter how. 
 * Maximal allowed level of other guilds: 5 for snitches / trappers, 3 for all else
 
-**Summary**: While the shadows require an assination, the Orgas want the player to have learned skills like Acrobatics, Climbing or Disarm Traps. This is a very important observation, as it tells a lot about the unique characteristics of these two thieve guilds in the early vision. The shadows are meant to be spies and assassins first and foremost, while the Orgas are actual thieves or "burglars", which focus on their abilities to overcome the walls of the Old Camps castle to steal ore. And the condition of V2, to organise 3 ore, is an additional confirmation about how much less ore was supposed to be around in the colony and how much harder the acquisition should be (the protection money was also meant to be just 3 ore).
+**Summary**: While the shadows require an assassination, the Orgas want the player to be skilled in Acrobatics, Climbing or Disarm Traps. This is an important observation, as it tells a lot about the unique characteristics of these two thieves guilds in the early vision. The shadows are meant to be spies and assassins first and foremost, while the Orgas are actual thieves or "burglars", focusing on their abilities to overcome the walls of the Old Camps castle to steal ore.  
+The condition of V2, to organise 3 ore, is an additional confirmation about how much less ore was supposed to be around in the colony and how much harder the acquisition should be (the protection money was also meant to be just 3 ore).
 
 Version 1 sets the maximum joinable level for other guilds to 3, while V2 raises it to 5 for the thieves guilds of the OC and FC, analogous to the same conditions in V2 for the snitches.
 
