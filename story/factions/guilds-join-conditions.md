@@ -32,7 +32,12 @@ This was not only mentioned in the earliest guild system concepts, it was also p
 
 > There are 12 different groups to join and each of them has got its own goals and point of view. - Mike Hoge, desslock.gamespot.com 06/1998
 
-The 12 groups written of here are the eight guilds above + the four *higher guilds*: The Secret Thieves, the Barons, the Gurus and the Demon Summoner. 
+The 12 groups written of here are the eight guilds above + the four *higher guilds*: 
+
+* Secret Thieves
+* Barons
+* Gurus &
+* Demon Summoner
 
 The old idea of "13" guilds are just the above + the rangers. Diggers, Scrapers and Peasants are not counted here, as they are "internal guilds", with whom it would have been 15-16 guilds and when the half-orcs are counted too, 16-17. 
 
@@ -78,9 +83,9 @@ This guild progression was laid out in a graphic in [*Werdegang eines SC's*](htt
 Here I translate the original handwritten notes by Mike, then summarise them in more easily understandable terms. In some cases, the conditions are identical between V1 and V2. In other cases some conditions were added, removed or changed, which is pointed out.
 
 
-### Mafia (Ebr)
+### Junta (Ebr)
 
-First called *Junta* and *Mafia*, then *Orebarons*.
+First called *Junta* and internally described as a *Mafia* due to how they were supposed to feel and function, then *Orebarons*.
 
 V1 & V2 (identical): 
 * Join conditions: Noble Mercs Lev 7, Temple Guard Lev 7, Mafia Snitch Lev 7, Mafia Thug Lev 6+ -> Initiation Battle; PC must kill a member of the mafia [= a baron].
