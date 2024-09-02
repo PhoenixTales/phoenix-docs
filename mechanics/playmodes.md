@@ -24,7 +24,7 @@ Recommended for regular players who just want to play without much of a challeng
 ## Feverdream 
 Regeneration is deactivated at 70% damage and you can only save in "safezones": In your own hut, in the headquarter of your guild or when sleeping guarded by a friend. Thus *being safe* represents *being able to save*. 
 ```
-Highly recommended for most players, those who know Gothic and want a little bit of a challenge and the added immersion of planning your adventures ahead.`
+Highly recommended for most players, those who know Gothic and want a little bit of a challenge and the added immersion of planning your adventures ahead.
 ```
 
 ## Nightmare
