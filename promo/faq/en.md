@@ -428,7 +428,7 @@ When it's done. Currently we are still working on the first act (Orpheus). Since
 
 ## How to support? 
 
-When you want to contribute, reach out to us on [Discord](https://discord.gg/CK4VAR7fpH). Apart from that you can donate. Donations help us to cover the costs of websites, the Gothic Archive, backups, equipment, rent and food. Small, but regular donations help us most and enable us to spend more time with development. You can support [Flosha on Ko-Fi](https://ko-fi.com/flosha). 
+When you want to contribute, reach out to us on [Discord](https://discord.gg/5uHcsEJ44h). Apart from that you can donate. Donations help us to cover the costs of websites, the Gothic Archive, backups, equipment, rent and food. Small, but regular donations help us most and enable us to spend more time with development. You can support [Flosha on Ko-Fi](https://ko-fi.com/flosha). 
 
 
 <div class="authorship">
