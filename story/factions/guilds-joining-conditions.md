@@ -222,7 +222,7 @@ V2:
 * Join Conditions: Psi Novice Lev 7
 * Maximum allowed level of other guilds: (see above, no other guilds allowed) / no higher guilds allowed.
 
-**Summary**: You have to reach the maximum level as a novice (the maximum reachable level in any guild, as far as we know, was defined as 7 - and these "levels" equal ingame ranks). As the Gurus belong to the four higher guilds, no other guild can join them. 
+**Summary**: You have to reach the maximum level as a novice (the maximum reachable level in any guild, as far as we know, was defined as 7 - these "levels" may equal ingame *ranks*). As the Gurus belong to the four higher guilds, no other guild can join them. 
 
 
 ### Temple Guard (Tpl)
