@@ -29,9 +29,9 @@ To the mercs, the sect novices and templars he could only defect at level 1, as 
 
 **Healingmages:** A healing mage should have been able to join the thugs, the shadows, the mercs, the organisation, templars (V2), bodyguards, the rangers and the fire circle at up to level 3. The psi novices and templars (V1) they should only be able to join at up to level 1. Identical to the battle mages except for the possibility to join the mercs until level 3. Based on this scheme, just as the battle mages they would be forced to remain guildless if being banned from the circle between level 4-6. [I may suggest to prevent this by giving the option, similar to the release version, of at least defecting to the other mages circle at up to level 5 or 6; but this may only be possible if the reason for the ban is not a crime that the other circle despises just as much.]
 
-**Sect Novices:** At up to level 3 they can join the thugs, shadows, orgas, bodyguards, rangers and templars. The mercs they can only join at up to level 2. The mages circles they can only join at up to level 1. As other guilds, a sect novice would be forced to remain guildless if he is banned from the sect between level 4 and 6, as there is no option to join any other guild before reaching level 7 to become a guru. 
+**Sect Novices:** At up to level 3 they can join the thugs, shadows, orgas, bodyguards, rangers and templars. The mercs they can only join at up to level 2. The mages circles up to level 1. As other guilds, a sect novice would be forced to remain guildless if he is banned from the sect between level 4 and 6, as there is no option to join any other guild before reaching level 7 to become a guru. 
 
-**Sect Templar:** Could apparently join the fire circle at level 3, as well as the thugs, shadows, bodyguards, rangers, mercs, orgas, novices. Healing mages they should only be able to join at level 1. Same here, forced to remain guildless at levels 4-6 when banned. 
+**Sect Templar:** Could apparently join the fire circle at level 3, as well as the thugs, shadows, bodyguards, rangers, mercs, orgas and novices. Healing mages they should only be able to join at level 1. Same here; forced to remain guildless at levels 4-6 when banned. 
 
 
 ## Summary
