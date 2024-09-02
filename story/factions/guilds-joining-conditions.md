@@ -1,4 +1,4 @@
-# Join Conditions
+# Joining Conditions
 
 **Author:** *Flosha*  
 **Created:** 17.04.2024  
@@ -6,7 +6,7 @@
 
 In the final game, after the player joined a camp, he was bound to this camp till the end of the game, with just one (pre-scripted and forced with no alternative) story-twist related exception. According to the original idea this was not the case. When designing the guilds Mike laid out conditions for every guild for when the player could join them if already belonging to another guild.
 
-Mike first described "join conditions" (such as a minimum level you had to have in another guild or specific things you had to prove or skills to acquire) and then at which level the guild would be exclusive, summarised as: "maximum allowed joining level and guild" ("maximal erlaubter Beitrittslevel und Gilde" in German), shortened to the acronym "MEBLAG". In other words, a maximum allowed level you could acquire in another guild above which it would exclude you from joining the guild in question, because they would either not trust you anymore when having such a high rank in another guild or because it would raise skill problems (as e.g. the guild in question was of another class).  
+Mike first described "joining conditions" (such as a minimum level you had to have in another guild or specific things you had to prove or skills to acquire) and then at which level the guild would be exclusive, summarised as: "maximum allowed joining level and guild" ("maximal erlaubter Beitrittslevel und Gilde" in German), shortened to the acronym "MEBLAG". In other words, a maximum allowed level you could acquire in another guild above which it would exclude you from joining the guild in question, because they would either not trust you anymore when having such a high rank in another guild or because it would raise skill problems (as e.g. the guild in question was of another class).  
 
 We are using the guild system v1 and v2, the Phoenix Main Mission doc, the Story v3.3 and all kinds of smaller notes and scribbles as our sources here.
 
