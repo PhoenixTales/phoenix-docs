@@ -118,3 +118,15 @@ of the sash, material etc. Just the colour is roughly defined.
 The ranks cannot really be divided equally throughout the chapters (for this we would need to have just 6 total levels or 12; which we have no reason to imagine), *unless* we do not think of the chapters as 6, but as 5 chapters, as described in the Phoenix Pitch.
 
 If we assume 5 chapters, the guild progression would roughly be 2 levels per chapter. And it could very well be that this whole "10" levels idea for every attribute and other statistics from the alpha was first developed with the 5 chapters in mind. But even if so, the guild ranks do not necessarily have to be spread out evenly over the chapters. The progression through the guilds has to happen alongside the progression through the main story, but not necessarily in a fully symmetrical and fixed kind of way. 
+
+
+
+---
+
+## Exiled Mages
+
+According to Mikes Orpheus guild concepts mage of the two circles would have to remain guildless if being banned from their circle between level 4-6, as they could only defect to the other circle up to level 3, while the demon summoner only accepts mages of level 7. 
+
+We will divert from this by giving the option, similar to the release version, of at least defecting to the other mages circle at up to level 4 or 5. (Although this may only be possible if the reason for the ban is not a crime that the other circle despises just as much.)  
+
+Additionally: While on the regular path the mage can only join the demon summoner after having reached level 7, being exiled from the circles may work to his advantage in the dark arts by raising his esteem in the eyes of the demon summoner and thus may allow him to become his disciple earlier. 
