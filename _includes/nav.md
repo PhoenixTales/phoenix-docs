@@ -135,9 +135,9 @@
 	2. [Press](/promo/press)
 	3. [FAQ](/promo/faq/en)
 	3. Devblog
-		* [Making of PhoenixTales](/appendix/behind-the-scenes/logo)
+		* [Making of PhoenixTales](/appendix/behind-the-scenes/team-branding)
 		* [The Team behind Phoenix](/appendix/behind-the-scenes/team)
-		* Creating the ASCII Art
+		* [Behind the ASCII Art](/appendix/behind-the-scenes/ascii)
 	4. Essays
 		1. Phoenix & the Rescue of Design
 		2. Behind the Eyes of Elliot

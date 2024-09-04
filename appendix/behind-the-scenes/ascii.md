@@ -118,57 +118,55 @@ I had generated the Phoenix ASCII with an online tool, since I couldn't see me d
 
 I'll just quote the important parts of the conversation. No need to retell what you can read first hand (or first fingertips in that case). I was just finishing the design, showing it to Avallach and asking if he would be able to help me with the colouration.  
 
-> [23.09.] **Flosha:** What do you say now?   
-I want to add colour to the Phoenix. It's just quite hard to do.
+> [23.09.] **Flosha:** What do you say now?    
+I want to add colour to the Phoenix. It's just quite hard to do.  
 
-> [23.09.] **Avallach:** O wow, I really like it. I really like the ASCII art design of the main page. I can help colouring.  
+> [23.09.] **Avallach:** O wow, I really like it. ]I really like the ASCII art design of the main page. I can help colouring.  
 
 ... he said. And went straight to work. Two days later:  
 
-> [25.09.] **Avallach:** This is harder than I thought. I have an idea how to achieve it, but it will take me a bit more time.  
-I will need to separate the ASCII art into multiple layers, each for one colour in the palette. So there will be 4-16 &lt;pre&gt; elements overlayed on top of each other with CSS.
+> [25.09.] **Avallach:** This is harder than I thought. I have an idea how to achieve it, but it will take me a bit more time. / I will need to separate the ASCII art into multiple layers, each for one colour in the palette. So there will be 4-16 &lt;pre&gt; elements overlayed on top of each other with CSS.
 
 > [26.09. 00:37] **Avallach:** It's really hard. This is a prototype with 6 layers, colours are not set yet. But I see that shape somehow got corrupted.  
 
-<img src="/Appendix/behind-the-scenes/ascii/test1-distorted.png">
+![Test1-Distorted](/Appendix/behind-the-scenes/ascii/test1-distorted.png)
 
 > [26.09. 00:50] **Avallach:** I fixed the shape, but contrast and colours still require some work. / Still 6 layers. Gray + 5 colours. / Do you think this is enough colours or should there be more, like 16?
 
-<img src="/Appendix/behind-the-scenes/ascii/test2-shapefixed.png">
+![Test2-ShapeFix](/Appendix/behind-the-scenes/ascii/test2-shapefixed.png)
 
 > [26.09. 12:29] **Avallach:** I'm doing already like the 4th prototype... this time trying to limit colour to areas with some minimum saturation and brightness on the input image:
 
-<img src="/Appendix/behind-the-scenes/ascii/phnx-bw.png">
+![Black-White](/Appendix/behind-the-scenes/ascii/phnx-bw.png)
 
 > [26.09. 12:35] **Avallach:** Current idea: Pick the optimal colours only for these sections of the image, and leave the rest in greyscale:
 
-<img src="/Appendix/behind-the-scenes/ascii/colour-choosing.png">
+![Colour-Choosing](/Appendix/behind-the-scenes/ascii/colour-choosing.png)
 
 > [26.09. 13:54] **Avallach:** I need gimp to calculate optimal colours. / But it is already on the same grid. / 98x95 /  As the ASCII will be. / So that the calculations for each character are exact. This is around 10 colours and IMO looks close enough.
 
-<img src="/Appendix/behind-the-scenes/ascii/colour-choosing-2.png">
+![Colour-Choosing-2](/Appendix/behind-the-scenes/ascii/colour-choosing-2.png)
 
 > [26.09. 14:02] **Avallach:** All the brightness and sharpness will be handled by the ASCII art generator. This is just a template how to separate colours into layers. All the brightness information from here will be ignored.
 
-<!--<img src="/Appendix/behind-the-scenes/ascii/step-1-color-mask.png">
-<img src="/Appendix/behind-the-scenes/ascii/step-2-color-map.png">-->
-<img src="/Appendix/behind-the-scenes/ascii/step-3-separate-colors-wip.png">
+![Step-1-Color-Mask](/Appendix/behind-the-scenes/ascii/step-1-color-mask.png)
+![Step-2-Color-Map](/Appendix/behind-the-scenes/ascii/step-2-color-map.png)
+![Step-3-Seperate-Colours-WiP](/Appendix/behind-the-scenes/ascii/step-3-separate-colors-wip.png)
 
 > [26.09. 15:07] **Avallach:** This is the result of the separation:  
 
-<img src="/Appendix/behind-the-scenes/ascii/layers.gif">
+![Layers-Gif](img src="/Appendix/behind-the-scenes/ascii/layers.gif)
 
 > **Avallach:** Now I will prepare the ASCII-art [again, via the online generator I (flosha) used] from each of these colour layers. / I think only this screenshot really explains how it works, right?
 
-<img src="/Appendix/behind-the-scenes/ascii/thelayers.png">
+![Layers](/Appendix/behind-the-scenes/ascii/thelayers.png)
 
 Upon my request, Avallach has written a little documentation, that really shows the complicated process he came up with just to fullfill my wish to colourise the Phoenix:  
-
 
 ---
 
 
-## How PhoenixTales colours ASCII arts
+## How Phoenix Tales colours ASCII arts
 
 by Avallach  
 
