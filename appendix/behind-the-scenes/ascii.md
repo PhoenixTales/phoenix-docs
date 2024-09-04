@@ -331,10 +331,11 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                  ``      `                                             .'.`                     
                   `    `                                     '.                                 
                                         `         `          `'.                                
-                               `       .          ``                                            </div>
-<div style="color: #736d5d">                                                                                                  
-                                                                                                
-                                                                                                
+                               `       .          ``                                            
+
+</div>
+
+<div style="color: #736d5d">                                                                                                                                                                   
                                                                                                 
                                                                                                 
                                      ;qE^TGqn: *     -*                                         
@@ -413,24 +414,9 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                .                                 ;3                             
                                s                                                                
                                                                    .                            
-                                                                  _e                            
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                </div>
-<div style="color: #453a2b">                                                                                                  
-                                                                                                
-                                                                                                
-                                                                                                
+                                                                  _e                                                                                    
+</div>
+<div style="color: #453a2b">                                                                                                                                                                                      
                                                                                                 
                                              bO~NKOKU                                           
                                              ':$_/vKcDBU_                                       
@@ -521,7 +507,8 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                .         `nbp/ _Xo       .' x_ a      `                         
                           l,              .`` 3             .                                   
                                           y_  .:bx                                              
-                                          .     .                                               </div>
+                                          .     .                                               
+</div>
 <div style="color: #855d5b">                                                                                                  
                                                                                                 
                                                                                                 
@@ -589,34 +576,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
           N~                                                                                    
           `                                                                                     
                                                                                                 
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                
-                                                                                                </div>
+</div>
 <div style="color: #453639">                                                                                                  
                                                                                                 
                                                                                                 
@@ -711,7 +671,8 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                              .                             `                                    
                                                l                                                
                                                .                                                
-                                                                                                </div>
+                                                                                                
+</div>
 <div style="color: #1f724f">                                                                                                  
                                                                                                 
                                                                                                 
@@ -806,7 +767,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                                                                                 
                                                                                                 
                                                                                                 
-                                                                                                </div>
+</div>
 <div style="color: #124a3c">                                                                                                  
                                                                                                 
                                                                                                 
@@ -901,7 +862,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                                                                                 
                                                                                                 
                                                                                                 
-                                                                                                </div>
+</div>
 <div style="color: #5e3131">                                                                                                  
                                                                                                 
                                                                                                 
@@ -996,7 +957,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                                                                                 
                                                                                                 
                                                                                                 
-                                                                                                </div>
+</div>
 <div style="color: #322119">                                                                                                  
                                                                                                 
                                                                                                 
@@ -1091,7 +1052,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                           t-+>. .       .>'  v-;          =a:          '.                       
                          *; . /-+           /y_            .r'                                  
                          .    . .              ~                                                
-                                                                                                </div>
+</div>
 <div style="color: #25261a">                                                                                                  
                                                                                                 
                                                                                                 
@@ -1186,7 +1147,8 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                            c-                                                                   
                         +' _   ^               .;                                               
                              _l'~        l-_    '                                               
-                                        ~^                                                      </div>
+                                        ~^                                                      
+</div>
 <div style="color: #333b3a">                                                                                                  
                                                                                                 
                                                                                                 
@@ -1281,7 +1243,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                                                                                 
                                                                                                 
                                                                                                 
-                                                                                                </div>
+</div>
 <div style="color: #1b272a">                                                                                                  
                                                                                                 
                                                                                                 
@@ -1376,9 +1338,9 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                                                                                 
                                                                                                 
                                                                                                 
-                                                                                                </div>
-  </div>
+</div>
+</div>
 
-  Avallach put the colourised ASCII in a <a href="/phoenix-ascii.svg">.svg</a>, in order to prevent having all that code on our page. But if you want to see how the final 12 layers look like, just rightclick and take a look at the sourcecode of this page.  
+Avallach put the colourised ASCII in a <a href="/phoenix-ascii.svg">.svg</a>, in order to prevent having all that code on our page. But if you want to see how the final 12 layers look like, just rightclick and take a look at the sourcecode of this page.  
 
 
