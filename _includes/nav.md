@@ -159,7 +159,7 @@
 		font-family: "IBM VGA 8x16"; 
   		text-transform: uppercase;
 		font-size: 16px;
-		margin: 1em;
+		margin: 0.5em;
 		position: absolute;
 	}
 
