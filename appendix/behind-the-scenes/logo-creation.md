@@ -1,6 +1,6 @@
 # Logo Creation
 
-**Author:** *Flosha*
+**Author:** *Flosha*  
 **Written:** 18.11.2023
 
 Phoenix is promoted with different kind of imagery, namely three different graphics. We call them, the...
@@ -48,6 +48,8 @@ But since I wanted to combine these three letters somehow, it evolved into this:
 
 ![1000050025](https://github.com/user-attachments/assets/64a52627-e2f8-416d-a0dd-439d429d5ba5)
 
+The sign evolved over years. At first the lines that the blood runs through and that are running through the middle of the letters were just connected by crossing in the middle of the "X" (where Y and N connect). By trying to improve this shape I got the idea to let them run around a central elevated form instead, which exists in both a simple stone version and in the green gem stone version above. A little detail that I think improved the sign a lot. 
+
 * N and Y form the X. 
 * The Y at the same time serves as a metaphor for the sceptre of varant, that plays an important role in the story. 
 * Blood flows into the Y, open upwards, symbolism of sacrifice, like a sacrificial bowl (in this context blootearth clan, persecution of heretics, dark forms of magic, blood ore, war and all these important story related things) but if seen as an upward motion it can also be compared to a bud, in form of the triangle turned upside down, which is a symbol of the revolution and uprising. In this context I had made another version of the logo where instead of the blood running down, a flame is rising up from within the "Y"; and only now when thinking about it, I imagine that we could nicely combine these two approaches in an animation, where at first the blood is running downwards through the sign and then transforms into fire rising up -> the revolution (liberation from outside) and the phoenix (liberation from within) are nourished by suffering and blood).
@@ -72,7 +74,27 @@ The latest aspect we became aware of and I did not know when I designed it (Aval
 
 ![1000050026](https://github.com/user-attachments/assets/0008802d-b103-40c7-91da-8e472a17e246)
 
+In 2023 I re-imagined the logo again. At first, when the project started, we planned with two different modifications. Orpheus (now Act 1) and Nyx (now Axt 2). In order to have a sign for Orpheus alongside the Nyx sign I designed one for Orpheus too. This one:
+
+[Add O logo]
+
+It was not as iconic, but the idea was that the "O" for Orpheus is at the same time a representation for the dimension portal through which the Sleeper was summoned from the demon world (and you know, Orpheus had to travel to the underworld too). Therefore the threatening, dark red light emittimg from within the O, almost like a demonic eye. I also added the teeths from the Sleeper mask, although I was never sure about them. And I imagined it to be cool to have an "O" icon for this part of the project instead of the Gothic "G" (while I had no idea yet what the icon for Nyx would be). 
+
+But when the project was renamed to Phoenix as one coherent drama for both acts, with "Project Nyx" as the working title of both and Orpheus/Nemesis as the names of the acts (as of now), the Nyx sign became an universal sign for the project and not just for one part of it, while the Orpheus sign became obsolete and did not appear anymore on our websites. 
+
+But there was always one thing about the Nyx logo that I think was just not looking quite right and that I was never fully happy with. And that was how the bottom part of the Y was going through the N. While it made sense in order to fully represent the letter, it created a disharmony in the overall form. At the same time I missed one aspect of the Orpheus sign of this threathening light behind the portal. Therefore, in the latest version of our logo I ommitted the lower part of the Y, thereby creating a much more harmonious form, and added what I missed from the Orpheus sign, which created new layers of meaning in the symbolism without destroying the old.
+
+Now the Y with the blood and the triangle (and fire) show the struggle, the sacrifice, the anarchy at the surface, while the N serves as a representation of the underworld and the demonic threat below. And while the Y stands for the sceptre and the "sacrifical bowl" and the summoning spikes and so forth, the N stands for the portal to the ancient temple as seen in the OrcCity with this very form, as it will be unsealed in course of the story. There is room in the middle of both letters and they are roughly the same size - just as in Phoenix, the underworld is supposed to be about 50% of the game. Thus, I think, the current version of the logo represents the project the best and contains the most symbolic meaning. 
+
+The sign was designed before there was any other "logo", like the Phoenix one. 
 
 
+## Phoenix Logo 
 
-https://phoenixthegame.com/assets/img/logo-mask.jpg
+I started to design the Phoenix logo immediately after I decided to name the project accordingly, when we realised that this was in fact the second working title of Gothic, as most prominently seen in the Phoenix Pitch.  
+
+I decided to name the project this way and wanted to design a real "logo" now, I mean, a logo that actually displays the title and not an abstract sign. It was supposed to be based, style-wise, on the same archaic early gothic logo design as the Nyx sign. There is not much of a story or meaning behind the design. But similar to the approach before (of seeking inspiration by iconic retro game symbols), I looked for iconic logos. 
+
+And imo the most iconic logo out there, which is very well known too, might be the one of "DooM".
+
+
