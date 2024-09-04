@@ -87,7 +87,7 @@
         		3. New Camp
         		4. Psi Camp  
 			6. Demontower  
-        	7. Climate & Vegetation  
+        	7. Climate & Vegetation   
 				1. Northern Forest (NWood)
 				2. Eastern Forest (GWood)
 				3. Western Forest (HWood)
