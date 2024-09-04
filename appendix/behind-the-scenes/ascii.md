@@ -1,10 +1,11 @@
  <style type="text/css">
   
   @import url("https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono|Ubuntu+Mono|Cutive+Mono");
-  .unchanged-asci{
+  
+  .unchanged-ascii {
   font-size: 7px;
   text-align: center;
-  font-family: Ubuntu Mono, monospace !important;
+  font-family: 'Ubuntu Mono', monospace !important;
   text-rendering: optimizeSpeed;
   }
 
@@ -14,6 +15,7 @@
   }
 
   pre {
+    display: block;
     overflow-x: hidden;
     border: none;
   }
@@ -36,22 +38,24 @@
     }
   }
 
-  main p {
+  main {
     color: var(--text);
     font-size: 16px;
     line-height: 1.6;
+    font-family: 'Ubuntu Mono', monospace !important;
   }
 
   main h1, main h2, main h3, .blood { 
     color: var(--blood); 
     font-weight: normal;
-    display: inline-block;
+    text-align: center;
   }
 
   main > img {
     max-width: 100%;
     overflow: hidden;
     display: block;
+    margin: 1em auto;
   }
 
 </style>
@@ -108,7 +112,7 @@
 
 I generated the Phoenix ASCII with an online tool, since I couldn't see me doing that by hand. This uncolourised version was looking like this: 
 
-<div>
+<div class="unchanged-ascii">
   <pre style="font-size: 9px; font-family: monospace; background-color: rgb(0, 0, 0); color: rgb(173, 158, 138); line-height: 9px;">                                                                                                                                                                                                                                                                           
                                                                                                 ```   
                                                                                              ','-","' 
