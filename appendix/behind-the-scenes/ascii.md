@@ -39,6 +39,9 @@
   }
 
   main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     color: var(--text);
     font-size: 16px;
     line-height: 1.6;
@@ -258,7 +261,7 @@ I want to add colour to the Phoenix. It's just quite hard to do.
 
 Upon my request, Avallach has written a little documentation, that really shows the complicated process he came up with just to fullfill my wish to colourise the Phoenix:  
 
----
+<p>+-----------------------------+</p>
 
 
 ## How Phoenix Tales colours ASCII arts
@@ -304,7 +307,7 @@ We came up with this exact procedure when preparing a coloured ascii art of the 
 ### Step 3 - separate layers on input image
 
 1. Put colour map prepared in step 2 on top of input image
-2. Use tool "select by colour" (`shift-o`) all the time, with 0% tolerance setting and no antialiasing
+2. Use tool "select by colour" `shift-o` all the time, with 0% tolerance setting and no antialiasing
 3. Scale colour map to image size, with no interpolation (it will look "pixelated")
 4. Select black colour on colour map and remove it
 5. Select any colour on colour map, delete that selection on colour map, then cut that selection from input image and paste it as new layer
@@ -1434,7 +1437,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
 </div>
 </div>
 
----
+<p>+-----------------------------+</p>
 
 Avallach put the colourised ASCII in a <a href="/phoenix-ascii.svg">.svg</a> in order to prevent having all that code on our page. But if you want to see how the final 12 layers look like, just rightclick and take a look at the sourcecode.  
 
