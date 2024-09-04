@@ -103,11 +103,10 @@
            ;'            .`                                                                         
                                                                                                     
                                                                                            </a></pre>
-<pre>
-  +---------------------------+
-  | <span class="blood"># Design of the ASCII Art</span> |
-  +---------------------------+
-</pre>
+
+
+# Design of the ASCII Art
+
 
 **Authors:** *Flosha* & *Avallach*  
 **Created:**: 2021-10-01   
