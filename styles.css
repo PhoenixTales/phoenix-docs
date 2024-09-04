@@ -486,19 +486,6 @@ hr {
     font-size: 20px;
   }
 
-.gothic {
-  background: url("/_img/bg/bg-roerich-doomed-city.jpg");
-  background-position: top left;
-  background-size: 900px;
-  background-repeat: no-repeat;
-  width: 100%;
-  padding: 200px 0 0;
-}
-
-  .gothic .article h1 {
-    font-size: 35px;
-  }
-
 .setting {
   background: url("/_img/bg/bg-escape.jpg");
   background-position: top right;

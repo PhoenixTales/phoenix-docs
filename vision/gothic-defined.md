@@ -1,7 +1,3 @@
----
-layout: gothic
----
-
 # Gothic defined 
 
 
@@ -318,3 +314,19 @@ As Mike said in 1998: "Fortunately, no one came too close to our vision of a 3D-
 
 * [A Clash of Dreams](/vision/clash-of-dreams.html)
 -->
+
+<style>
+  .article {
+    background: url("/_img/bg/bg-roerich-doomed-city.jpg");
+    background-position: top left;
+    background-size: 900px;
+    background-repeat: no-repeat;
+    width: 100%;
+    padding: 200px 0 0;
+  }
+
+  .article h1 {
+    font-size: 35px;
+  }
+
+</style>
