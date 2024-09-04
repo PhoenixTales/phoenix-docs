@@ -91,7 +91,11 @@ nav h1 {
   margin: 1em 0 0; 
 }
 
-nav h2, nav h3 { 
+nav h2 {
+  margin-top: 0;
+}
+
+nav h3 { 
   margin-top: 2em; 
 }
 
