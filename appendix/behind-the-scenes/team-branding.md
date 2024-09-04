@@ -2,7 +2,7 @@
 
 2021-02-18 by flosha  
 
-For some time I wanted to write something about how I made our logo, mostly because I wanted to show the beautiful medieval artworks, that I found in the course of its creation (some of them I used, some I didn't), before they get lost in the depths of my drives. But before I do so, I probably should describe how we founded Phoenix Tales and where the name came from.  
+For some time I wanted to write something about how I made the logo of our team, mostly because I wanted to show the beautiful medieval artworks, that I found in the course of its creation (some of them I used, some I didn't), before they get lost in the depths of my drives. But before I do so, I probably should describe how we founded Phoenix Tales and where the name came from.  
 
 I recall that I came up with the idea to found a team, but rejected it myself at first, since for me it didn't seem to make much sense to found a team with just two people (logx and me at the time). But logx, liking the idea, basically said: "two people are a team already, aren't they?" I should have known that, two are enough in acrobatics after all.  
 
