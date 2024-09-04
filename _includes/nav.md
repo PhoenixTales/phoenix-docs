@@ -4,10 +4,8 @@
 
 ## Index
 
-1. [Introduction](/)
-2. About the Author 
-
-### Documentation
+[Introduction](/)
+<!--About the Author-->
 
 1. [Vision](/vision/vision)
 	1. [Vision of Gothic](/vision/vision-of-gothic)
