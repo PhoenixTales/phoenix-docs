@@ -112,7 +112,7 @@
 		<!-- * Fate of the Gladiator // Merc/NC --> 
 		<!-- * Life for the Temple // Tpl/Psi -->
 		<!-- * A Shadow in the Crowd // -->
-		* In Shadows and Blood <!-- Thief General --> 
+		* Pursuit of Silence <!-- Thief General --> 
 		<!-- * Red Blood on blue Scarves // Org -->
 		* Path to Awakening
 		* Way of the Arcane

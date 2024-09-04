@@ -316,7 +316,7 @@ As Mike said in 1998: "Fortunately, no one came too close to our vision of a 3D-
 -->
 
 <style>
-  .main {
+  main {
     background: url("/_img/bg/bg-roerich-doomed-city.jpg");
     background-position: top left;
     background-size: 900px;
