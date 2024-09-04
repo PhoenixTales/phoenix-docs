@@ -26,7 +26,7 @@
     font-size: 8px;
     text-align: center;
     text-rendering: optimizeSpeed;
-    color: rgb(186, 99, 96);
+    color: #844d44;
     line-height: 8px;
   }
     main .logo a:hover { color: #1dd588; }
