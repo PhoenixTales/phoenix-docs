@@ -134,10 +134,14 @@
 	1. [Media](/promo/media)
 	2. [Press](/promo/press)
 	3. [FAQ](/promo/faq/en)
-	3. Devblog
-		* [Making of PhoenixTales](/appendix/behind-the-scenes/team-branding)
-		* [The Team behind Phoenix](/appendix/behind-the-scenes/team)
-		* [Behind the ASCII Art](/appendix/behind-the-scenes/ascii)
+	3. Devblog (Behind the Scenes)
+		1. [The Team behind Phoenix](/appendix/behind-the-scenes/team)
+		2. Behind the Imagery
+			1. [PhoenixTales Branding](/appendix/behind-the-scenes/team-branding)
+			2. [Design of the ASCII Art](/appendix/behind-the-scenes/ascii)
+			3. Evolution of the Nyx Sign
+			4. Phoenix Logo Design
+			5. Behind the Mask
 	4. Essays
 		1. Phoenix & the Rescue of Design
 		2. Behind the Eyes of Elliot

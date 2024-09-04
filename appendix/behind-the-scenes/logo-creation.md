@@ -1,7 +1,14 @@
-# Logo Creation
+# Behind the Imagery
 
 **Author:** *Flosha*  
 **Written:** 18.11.2023
+
+Maybe change this into "Behind the Imagery", show the images.
+And then link to subarticles dealing with the single images.
+Namely the PhoenixTales Branding
+The Phoenix Sign of Nyx
+The Mask of the Prophetess
+And the Phoenix Logo
 
 Phoenix is promoted with different kind of imagery, namely three specific graphics, the *Phoenix Logo*, the *Phoenix Mask* and the *Phoenix Sign*. I have been asked about the motivation for creating these images and about the meaning behind them, especially of the mask and the sign, which I will explain below. 
 
@@ -41,13 +48,13 @@ A more or less conscious inspiration for this may have been the sign from Prince
 
 In the Prince of Persia sign there was also blood running through the it, but filling it completely, before the colours would be inverted to leave the sign to be an empty black, as seen above. 
 
-Since I wanted to combine all three letters somehow, it evolved into this:
+Since I wanted to combine all three letters, it evolved into this:
 
 ![1000050025](https://github.com/user-attachments/assets/64a52627-e2f8-416d-a0dd-439d429d5ba5)
 
 * N and Y form the X. 
 * The Y at the same time serves as a metaphor for the sceptre of varant, that plays an important role in the story. 
-* Blood flows into the Y, open upwards, symbolism of sacrifice, like a sacrificial bowl (in this context blootearth clan, persecution of heretics, dark forms of magic, blood ore, war and all these important story related things) but if seen as an upward motion it can also be compared to a bud, in form of the triangle turned upside down, which is a symbol of the revolution and uprising. In this context I had made another version of the logo where instead of the blood running down, a flame is rising up from within the "Y"; and only now when thinking about it, I imagine that we could nicely combine these two approaches in an animation, where at first the blood is running downwards through the sign and then transforms into fire rising up -> the revolution (liberation from outside) and the phoenix (liberation from within) are nourished by suffering and blood).
+* Blood flows into the Y, open upwards, symbolism of sacrifice, like a sacrificial bowl (in this context blootearth clan, persecution of heretics, dark forms of magic, blood ore, war and all these important story related things) but if seen as an upward motion it can also be compared to a bud, in form of the triangle turned upside down, which is a symbol of the revolution and uprising. In this context I had made another version of the logo where instead of the blood running down, a flame is rising up from within the "Y"; and only now when thinking about it, I imagine that we could nicely combine these two approaches in an animation, where at first the blood is running downwards through the sign and then transforms into fire rising up -> the revolution (liberation from outside) and the phoenix (liberation from within) are nourished by suffering and blood.
 
 ToDo: Add image/gif of this.
 
