@@ -8,7 +8,7 @@ I recall that I came up with the idea to found a team, but rejected it myself at
 
 In order to found a team, we were in need of a name. We agreed that the name should be inspired by Piranha Bytes. But I also wanted to take inspiration from the Mad Scientists.  
 
-<img class="inline left" src="logo/pb.jpg" alt="Piranha Bytes' old logo">
+<img class="inline left" src="brand/pb.jpg" alt="Piranha Bytes' old logo">
 
 We both thought that we should include Phoenix into it, but it was logx who came up with 'Phoenix Tales'. For those of you for which the reference and double meaning is not obvious, let me explain:  
 
@@ -18,21 +18,21 @@ At first I was not sure about the title. It was lacking the aspect of madness th
 
 Immediately I started to design a logo.  
 
-<img src="logo/thebird.png" alt="the bird made for floshas stop motion project again">
+<img src="brand/thebird.png" alt="the bird made for floshas stop motion project again">
 
 I knew that I wanted to have our name written next to a phoenix. And the first thing that came to my mind was a bird that was modeled according to an idea of mine, a stop motion film that I wanted to create at some time. It was about two main protagonists: a bird and a girl.  
 
-<img src="logo/thegirl.png" alt="the girl made for floshas stop motion project"> 
+<img src="brand/thegirl.png" alt="the girl made for floshas stop motion project"> 
 
 I took an old picture of the bird from the side and created this draft. I didn't think it was too bad. It looked like a phoenix and it had something to it; at least it was mystical enough:  
 
-<img src="logo/phoenixtales1.jpg" alt="logo idea 1">
+<img src="brand/phoenixtales1.jpg" alt="logo idea 1">
 
 I liked it, but was not fully convinced. logx wasn't impressed, thereby blunting my enthusiasm for the logo (although I think I never told him about the stop motion film and that this bird represented a character).  
 
 Right from the beginning I thought it shouldn't be a regular phoenix, it should be dark and mystic and with some blue colour in it, not just fiery all over. The original model above met some of those requirements. But I had something different in mind.  
 
-<img class="inline right" src="logo/themutt.png" alt="One of Rodney Mullen's famous pro decks">
+<img class="inline right" src="brand/themutt.png" alt="One of Rodney Mullen's famous pro decks">
 
 I thought that it shouldn't be too serious, it should be a mad, little, wise, mystic, yoda-like phoenix. I imagined the artworks of pro-skaters in the early era of skateboarding, you know, the power-peralta classics like 'The Mutt', the famous pro deck of <a href="https://www.youtube.com/watch?v=NgJrSUqKUEE">Rodney Mullen</a>.  
   
@@ -42,19 +42,19 @@ And which style could be more fitting for this purpose than real medieval artwor
 
 This are some of the best works I found. Here the phoenix appears to collect its own firewood to burn himself:  
 
-<img src="logo/unused/phoenix1.png" alt="unused medieval phoenix artwork">
+<img src="brand/unused/phoenix1.png" alt="unused medieval phoenix artwork">
 
 The same as here, from the Morgan Library in New York:  
 
-<img src="logo/unused/phoenix2.png" alt="another unused medieval phoenix artwork">
+<img src="brand/unused/phoenix2.png" alt="another unused medieval phoenix artwork">
 
 I like this one especially, for the contrast of the fire with the beautiful blue background. The colours were chosen well:  
 
-<img src="logo/unused/phoenix3.png" alt="third unused medieval phoenix artwork">
+<img src="brand/unused/phoenix3.png" alt="third unused medieval phoenix artwork">
 
 Oh, I also found this pretty peafowl!  
 
-<img src="logo/unused/peafowl.png" alt="unused medieval phoenix artwork">
+<img src="brand/unused/peafowl.png" alt="unused medieval phoenix artwork">
 
 <!---<p>Here the phoenix is presented as a sacrifice on an altar:</p>
 
@@ -62,46 +62,46 @@ Oh, I also found this pretty peafowl!
 
 I also looked for artworks of the Simurgh, more or less the oriental equivalent of the Phoenix as described in the Manṭeq al-ṭayr ('Conference of the Birds') by the famous medieval sufi Farīd al-Dīn ʿAṭṭār.  
 
-<img src="logo/simurgh.jpg" alt="the simurgh">
-<img src="logo/unused/phoenix7.png" alt="unused medieval phoenix artwork">
+<img src="brand/simurgh.jpg" alt="the simurgh">
+<img src="brand/unused/phoenix7.png" alt="unused medieval phoenix artwork">
 
 I like how the sun is drawn here, conveying the idea that the fire is coming from the sun and rising back to its source:  
 
-<img src="logo/unused/phoenix5.png" alt="unused medieval phoenix artwork">
+<img src="brand/unused/phoenix5.png" alt="unused medieval phoenix artwork">
 
 And no idea what is going on on this artwork, but I get the impression that the poor blue bird in a coat adorned by little moons, is sacrificing himself for his children...  
 
-<img src="logo/unused/phoenix4.png" alt="medieval bird">
+<img src="brand/unused/phoenix4.png" alt="medieval bird">
 
 But all those pictures I didn't use at the end. Because I found this guy by accident, an auspicious fox in a blue coat, preaching to two cocks and a goose, with a stick and a beautiful hood.  
 
-<img src="logo/used/thefox.jpg" alt="the medieval fox that I used">
+<img src="brand/used/thefox.jpg" alt="the medieval fox that I used">
 
 I decided to work with this as a base. Then I took the head, the firewood and the flames from this artwork here, as you may recognize:  
 
-<img src="logo/used/phoenix-used.png" alt="the medieval phoenix that I used">
+<img src="brand/used/phoenix-used.png" alt="the medieval phoenix that I used">
 
 I used a bit of the beautiful blue fur of this wolf:  
 
-<img src="logo/used/thewolf.png" alt="the medieval wolf">
+<img src="brand/used/thewolf.png" alt="the medieval wolf">
 
 Putting all of this together I came up with this (here the peak of the phoenix above was not yet included):  
 
-<img src="logo/phoenixtales2.jpg" alt="from the wolf to the phoenix">
+<img src="brand/phoenixtales2.jpg" alt="from the wolf to the phoenix">
 
 Do you recognize how similar the eye of the fox and the eye of the phoenix above is? But their eyes were too small and had not much expression. I wanted to have an eye that was drawn by me, at least the eye. Regarding expression I think, that the eye was the most important. So I took it from a sketch that I had made a few years before of Jochanan (aka John) the Babtist, as he was displayed at some church:  
 
-<img src="logo/jochanan.png" alt="jochanan">
+<img src="brand/jochanan.png" alt="jochanan">
 
 On our logo, the yearning and pain that is shown in this sketch I could not really convey. Could be due to the entirely different head positioning. Maybe I will try to improve this.  
 
 The script of course, changed too. I thought: Just as we make our game from hand, we shouldn't use some random computer font, I should <em>write</em> it. The phoenix tales script first looked like this (as you see I sticked to the colours that I used from the start, more or less):  
 
-<img src="logo/logo-1-2.jpg" alt="phoenix tales first and second logo">
+<img src="brand/logo-1-2.jpg" alt="phoenix tales first and second logo">
 
 And this style of the signs here I had from my "Xardas the puppeteer" sketch, that you can see on <a href="https://phoenixthegame.com">phoenixthegame.com</a>, under which I had written 'Xardas' in this style. The p of Phoenix was originally Xardas' "d":  
 
-<img src="logo/xardas.jpg" alt="xardas script">
+<img src="brand/xardas.jpg" alt="xardas script">
 
 This little idea of how to write those signs evolved into a style of its own that I developed further for the 20th anniversary, when I wrote the title and subtitle for <a href="https://phoenixthegame.com/specials/20thAnniversaryEssay.html">my essay, that we'll publish at march 15th</a>.  
 
@@ -110,18 +110,18 @@ The logo basically is still as it was in the beginning. I made it and there it w
 
 The colour of the script (and of the phoenix) changed over time to the less saturated version below. You know, just like the fading colour of clothing, which is an essential aspect of the wabi-sabi artstyle of our game. Then, at some day, I played around with filters in GIMP. What happened to the logo was an accident, but I found it quite beautiful and so I took it as a "water" variant. We call it logo-water or logo-blood depending on the colour (in our header you see both when hovering over the logo):  
 
-<img src="logo/logo-2b-water.png" alt="logo-water">
+<img src="brand/logo-2b-water.png" alt="logo-water">
 
 No perfection, just attempt. But beauty lies in the attempt.  
 It fits to the graffiti we placed inside the world of our game and unto various promotion artworks, while the medieval artworks shown above will inspire ingame-illustrations of books that we want to include (we're still looking for an artist to do this for us).  
 
 As you see, the making of the logo went a long way in the development of our style as a whole and with our presentation in general. The bird itself evolved over the years. I always changed another little detail. You know the current end result:  
 
-<img src="logo/phoenixtales3.png" alt="current phoenix tales logo">
+<img src="brand/phoenixtales3.png" alt="current phoenix tales logo">
 
 Update: At the 15th anniversary of STALKER I came up with a new STALKER variant of our phoenix, which the Phoenix ASCII art on our team page is based on (see [phoenixtales.de](https://phoenixtales.de)):  
 
-<img src="logo/phnx-stalker.png" alt="Phoenix Stalker Variant by flosha">
+<img src="brand/phnx-stalker.png" alt="Phoenix Stalker Variant by flosha">
 
  
 **Read next:**

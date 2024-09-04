@@ -3,30 +3,25 @@
 **Author:** *Flosha*  
 **Written:** 18.11.2023
 
-Phoenix is promoted with different kind of imagery, namely three different graphics. We call them, the...
-
-* Phoenix Logo
-* Phoenix Mask &
-* Phoenix/Nyx Sign
-
-I have been asked about the motivation for creating these images and what the meaning behind them is, especially of the mask and the sign. 
+Phoenix is promoted with different kind of imagery, namely three specific graphics, the *Phoenix Logo*, the *Phoenix Mask* and the *Phoenix Sign*. I have been asked about the motivation for creating these images and about the meaning behind them, especially of the mask and the sign, which I will explain below. 
 
 
 ## Phoenix Sign
 
-I will begin with the sign, because it is the oldest of them all. We call it the Phoenix "sign", or the "Nyx logo". 
+I will begin with the "sign", because it is the oldest of them.  
+We call it the Phoenix "sign", or the "Nyx logo". 
 
 ![Nyx sign 2023](https://phoenixthegame.com/assets/img/nyxsign-2023.jpg)
 
-When the project was started, we called it "Project Nyx". Phoenix was a term we knew that had some kind of relation to Gothic, but we assumed it was mostly related with the engine. We did not know yet that it served as a working title of the game itself after the Orpheus phase, when they founded Piranha Bytes (Orpheus was conceptualised before that, which is also the reason that PB and THQ have no rights on these concepts, they belong to Mike). 
+When the project was started, we called it "Project Nyx". Phoenix was a term we knew that had some kind of relation to Gothic, but we assumed it was mostly related with the engine. We did not know yet that it served as a working title of the game itself after the Orpheus phase, when Piranha Bytes was founded (Orpheus was conceptualised before that, which is also the reason that PB and THQ have no rights on these concepts, they belong to Mike). 
 
-With this working title, "Project Nyx", we had something that sounded dark enough, like Gothic and was at the same time a name from greek mythology, like Orpheus, Nemesis etc. (you may know the relation of these three from our FAQ). 
+With this working title "Nyx", we had something that sounded dark enough, like Gothic and was at the same time a name from greek mythology, like Orpheus, Nemesis etc. (you may know the relation of these three from our FAQ). 
 
 And now we had to get some kind of logo, a sign or a symbol. There is a specific tradition among retro games to have some kind of sign associated with them. For instance, Unreal Tournament is known very well by the "U" in their specific style that also serves as their "icon". Another well known example is the Half Life logo, the lambda by which everyone recognises the game. But to me the most iconic logo of them all is the sign of Quake.
 
 ![1000050020](https://github.com/user-attachments/assets/0b7b3ca7-a87a-407b-9dab-660ae3abca77)
 
-I was inspired mostly by that and started to experiment with a logo for Nyx. Another inspiration for it was the sign here on the left. But I don't remember anymore where I have it from and what it means. 
+I was inspired mostly by the Quake logo when I started to experiment with a logo for Nyx. Another inspiration for it was the sign here on the left. But I don't remember anymore where I have it from and what it means. 
 
 ![1000050021](https://github.com/user-attachments/assets/ea42a757-b7a3-4081-b540-d7117865dd6a)
 
@@ -40,21 +35,23 @@ But then I had the idea of this blood running through the sign and in a triangul
 
 ![1000050023](https://github.com/user-attachments/assets/2f1c7c84-3f4b-426c-a12a-b12fcf4984f5)
 
-A more or less conscious inspiration for this may have been the sign from Prince of Persia: Warrior Within (another example for a very cool logo associated with a game), which is inspired by the Cuneiform - the oldest known writing system as used in Mesopotamia). There it was also blood running through the sign, but filling it completely, before the colours would be inverted to leave the sign to be an empty black:
+A more or less conscious inspiration for this may have been the sign from Prince of Persia: Warrior Within (another example for a very cool logo associated with a game), which is inspired by the Cuneiform - the oldest known writing system as used in Mesopotamia. 
 
 ![1000050024](https://github.com/user-attachments/assets/9d9eb2c9-0ec4-4255-adad-57f321d27b42)
 
-But since I wanted to combine these three letters somehow, it evolved into this:
+In the Prince of Persia sign there was also blood running through the it, but filling it completely, before the colours would be inverted to leave the sign to be an empty black, as seen above. 
+
+Since I wanted to combine all three letters somehow, it evolved into this:
 
 ![1000050025](https://github.com/user-attachments/assets/64a52627-e2f8-416d-a0dd-439d429d5ba5)
-
-The sign evolved over years. At first the lines that the blood runs through and that are running through the middle of the letters were just connected by crossing in the middle of the "X" (where Y and N connect). By trying to improve this shape I got the idea to let them run around a central elevated form instead, which exists in both a simple stone version and in the green gem stone version above. A little detail that I think improved the sign a lot. 
 
 * N and Y form the X. 
 * The Y at the same time serves as a metaphor for the sceptre of varant, that plays an important role in the story. 
 * Blood flows into the Y, open upwards, symbolism of sacrifice, like a sacrificial bowl (in this context blootearth clan, persecution of heretics, dark forms of magic, blood ore, war and all these important story related things) but if seen as an upward motion it can also be compared to a bud, in form of the triangle turned upside down, which is a symbol of the revolution and uprising. In this context I had made another version of the logo where instead of the blood running down, a flame is rising up from within the "Y"; and only now when thinking about it, I imagine that we could nicely combine these two approaches in an animation, where at first the blood is running downwards through the sign and then transforms into fire rising up -> the revolution (liberation from outside) and the phoenix (liberation from within) are nourished by suffering and blood).
 
 ToDo: Add image/gif of this.
+
+Many details were changed over the years. At first the black lines that the blood runs through and that are running through the middle of the letters were just connected by crossing in the middle of the "X" (where Y and N connect). By trying to improve this shape I got the idea to let them run around a central elevated form instead, which exists in both a simple stone version and in the green gem stone version above. A little detail that I think improved the sign a lot. 
 
 While at first it served primarily as a logo for the project and its working title "Nyx", over time the meaning became more and more profound and with more associations with older original ideas. 
 
