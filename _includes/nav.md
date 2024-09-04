@@ -4,10 +4,8 @@
 
 ## Index
 
-### Introduction
-1. Preface 
-1. [About the Documentation](/)
-3. About the Author 
+1. [Introduction](/)
+2. About the Author 
 
 ### Documentation
 
