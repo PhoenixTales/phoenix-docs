@@ -1,10 +1,10 @@
-# Phoenix Concept
+<span style="header">/ Phoenix Concept</span>
 
 <a href="/"><img src="/_img/phnx2.png"></a>
 
-## Index
+# [Index](/)
 
-[Introduction](/)
+<!--1. [Introduction](/)-->
 <!--About the Author-->
 
 1. [Vision](/vision/vision)
@@ -153,3 +153,10 @@
 <!-- Download the Docs -->
 <!-- Physical Print -->
 </p>
+
+<style>
+	.header { 
+		font-family: "IBM VGA 8x16"; 
+  		text-transform: uppercase;
+	}
+</style>
