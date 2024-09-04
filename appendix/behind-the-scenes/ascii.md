@@ -104,11 +104,10 @@
                                                                                                     
                                                                                            </a></pre>
 <pre>
-  +--------------------------------+
-  | <span class="blood"># Behind the ASCII Colouration</span> |
-  +--------------------------------+
+  +---------------------------+
+  | <span class="blood"># Design of the ASCII Art</span> |
+  +---------------------------+
 </pre>
-
 
 **Authors:** *Flosha* & *Avallach*  
 **Created:**: 2021-10-01   
