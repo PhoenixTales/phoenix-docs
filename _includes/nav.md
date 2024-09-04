@@ -1,5 +1,3 @@
-<span class="header">/ Phoenix.doc</span>
-
 <a href="/"><img src="/_img/phnx2.png"></a>
 
 # [Index](/)
@@ -46,7 +44,7 @@
 
 ## [Story](/story/story)
 
-### I. [Setting](/story/setting)
+### [Setting](/story/setting)
 
 1. Mythology
 2. Geography
@@ -54,19 +52,19 @@
 4. MetaPhysics
 5. History <!-- Timeline -->
 
-### II. World
+### World
 
 1. Level Design <!-- Gothic & Cosmic Horror -->
 	1. Act I - The Colony
 		1. [Level Structure](/story/level-structure)
 		2. [Evolution of the Map](/story/map-evolution)
 		3. Overworld Design
-			4. Underworld Design
+		4. Underworld Design
 	2. Act II - Colony & Outside World
-			1. The Colony Revisited  
-			2. Passes and Borders
-			3. City Surroundings
-			4. Design of the City  
+		1. The Colony Revisited  
+		2. Passes and Borders
+		3. City Surroundings
+		4. Design of the City  
 2. Faction Design
 	1. [Factions](/story/factions/factions)
 	2. [Colony Population](/story/factions/colony-population)
@@ -78,7 +76,7 @@
 	2. Costume Design
 4. Monster Design
 
-### III. Plot
+### Plot
 
 1. Alpha Plot(s) <!-- including story events + guild attitudes -->
 2. Sequel Plot
@@ -166,12 +164,13 @@
 <!-- Physical Print -->
 </p>
 
+<!--
 <style>
 	.header { 
 		font-family: "IBM VGA 8x16"; 
   		text-transform: uppercase;
 		font-size: 16px;
-		margin: 0;
+		margin: 0 1em 0;
 		padding: 0;
 		position: absolute;
 	}
@@ -184,3 +183,4 @@
 		.header { display: none; }
 	}
 </style>
+-->
