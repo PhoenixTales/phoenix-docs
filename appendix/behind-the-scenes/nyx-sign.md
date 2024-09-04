@@ -86,5 +86,4 @@ Now the Y with the blood and the triangle (and fire) show the struggle, the sacr
 
 <style>
     h1 { font-size: 20px; }
-
 </style>
