@@ -83,14 +83,3 @@ But there was always one thing about the Nyx logo that I think was just not look
 
 Now the Y with the blood and the triangle (and fire) show the struggle, the sacrifice, the anarchy at the surface, while the N serves as a representation of the underworld and the demonic threat below. And while the Y stands for the sceptre and the "sacrifical bowl" and the summoning spikes and so forth, the N stands for the portal to the ancient temple as seen in the OrcCity with this very form, as it will be unsealed in course of the story. There is room in the middle of both letters and they are roughly the same size - just as in Phoenix, the underworld is supposed to be about 50% of the game. Thus, I think, the current version of the logo represents the project the best and contains the most symbolic meaning. 
 
-
-
-## Phoenix Logo 
-
-I started to design the Phoenix logo immediately after I decided to name the project accordingly, when we realised that this was in fact the second working title of Gothic, as most prominently seen in the Phoenix Pitch.  
-
-I decided to name the project this way and wanted to design a real "logo" now, I mean, a logo that actually displays the title and not an abstract sign. It was supposed to be based, style-wise, on the same archaic early gothic logo design as the Nyx sign. There is not much of a story or meaning behind the design. But similar to the approach before (of seeking inspiration by iconic retro game symbols), I looked for iconic logos. 
-
-And imo the most iconic logo out there, which is very well known too, might be the one of "DooM".
-
-
