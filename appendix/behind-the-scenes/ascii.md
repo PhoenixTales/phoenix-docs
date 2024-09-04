@@ -1302,6 +1302,8 @@ Avallach put the colourised ASCII into a .svg in order to prevent having all tha
   }
 
   main .logo {
+    margin-top: 0;
+    padding-top: 0;
     font-size: 8px;
     text-align: center;
     text-rendering: optimizeSpeed;
@@ -1332,6 +1334,10 @@ Avallach put the colourised ASCII into a .svg in order to prevent having all tha
     text-align: center;
     padding: 0.5em 0;
     margin-top: 2em;
+  }
+
+  main h1 {
+    font-size: 40px;
   }
 
   main > img {
