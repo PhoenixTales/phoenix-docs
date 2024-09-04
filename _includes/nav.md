@@ -66,28 +66,28 @@
 				1. Cliff & Exchange Place
 				2. Abandoned Mine Outside
 				3. Troll Canyon 
-				4. Old Pass
-			2. Design of the East 
+				4. Old Pass  
+			2. Design of the East  
 				1. Lighttower & Smugglers Bay
 				2. Monastery Ruins
 				3. Fogtower & Fogmine
-				4. Swamp & Hermit's Valley
-        	3. Design of the South
+				4. Swamp & Hermit's Valley  
+			3. Design of the South  
 				1. Old Fort
 				2. Southeastern Lake
 				3. Old Mine
-				4. Mountain Fortress
-			4. Design of the West
+				4. Mountain Fortress  
+			4. Design of the West 
 				1. Western Plateau
 				2. OrcCaves Entrance
-				3. Rock Cemetary
-        	5. Camp Overhaul
+				3. Rock Cemetary  
+			5. Camp Overhaul  
 				1. Old Camp
         		2. Free Camp
         		3. New Camp
-        		4. Psi Camp
-			6. Demontower
-        	7. Climate & Vegetation
+        		4. Psi Camp  
+			6. Demontower  
+        	7. Climate & Vegetation  
 				1. Northern Forest (NWood)
 				2. Eastern Forest (GWood)
 				3. Western Forest (HWood)
