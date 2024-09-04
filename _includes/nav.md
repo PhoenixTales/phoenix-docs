@@ -150,7 +150,7 @@
 		2. Behind the Imagery
 			1. [PhoenixTales Branding](/appendix/behind-the-scenes/team-branding)
 			2. [Design of the ASCII Art](/appendix/behind-the-scenes/ascii)
-			3. Evolution of the Nyx Sign
+			3. [Evolution of the Nyx Sign](/appendix/behind-the-scenes/nyx-sign)
 			4. Phoenix Logo Design
 			5. Behind the Mask
 	4. Essays
