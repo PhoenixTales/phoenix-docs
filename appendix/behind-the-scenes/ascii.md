@@ -1,44 +1,5 @@
 # Design of the ASCII Art
 
-<pre class="logo">
-    <a href="https://phoenixtales.de">                      
-                      ,.                                                                           
-                     ,aBV                                                                           
-                     ,wgm`                                                                          
-                     ')]gQv                                                                          
-                    ;+9Qga'                                                                         
-                    ^tBQgB_                                                                         
-                     `y@gQL                                        `                                
-  :                   ']QQK'                       ;+.       `)L^'                                  
-   ._:`      `.'^,_w)`:)lQgQ&amp;$pL`     `,,-.       `x).          ,j+,`      `.              .:        
-   xV+h_^7jG#BB@&amp;%d^.,.'GgggQQBJ   `7$&amp;@g@G|    `+V`          `[R[Ll&gt;`     &gt;'   "x^     '+bv        
-    |l&amp;%xjb["""XgG:     Jggg&amp;%QD-  vQQ@IDggB,  .+l-           _RG)`,aU!    )+`  `LRh_:'xGp,         
-    |mPQQQQd.'IQ8-      +gQB_|@$,  agQj`vggQ_ ^CU_^^,__)_-   .wmv   ,fd-   _X^    '=#0#BD"          
-   `  _9QgggQvXgB_       "B@x ,&amp;Q_  KggC)0gg@" _DRx:,,^'`     +K,     ;a,   ^fL`     ,mB&amp;&amp;R+.        
-     _hp@QggQQBJ`        ``  :DQ|  _Qggggg&amp;x`  =5mx         ^a"      :I_   .)&gt;      I#y'"wmD7'      
-        ,xBgggX'             ,&amp;Qx   ,ybRhx-  ')7)v]`        ,L.       L[.   )|`    La"   `^_lPv'    
-          `;aBggm,            )BB_            ';|" -_.             `   `J,   '7,`   ``      .`._x!   
-            Vggg&amp;)           LBd'             -"_ .`'.       `,^.^,`   `.'  `_-`                    
-          "PmQggg&amp;"         .jBPIL           '^    -,'`  .`  -y"'.v: `   ,:                 ..      
-           `w8gQhQgm`        _0&amp;j"            ``     ,=" .'`,""'  "L``'.``   `.               .'     
-         `JB@QQbGgQ_       :5@D)                   _)|L&gt;.-,'''   -^,-C'`. `   `                     
-          :yBgQ@QgQ&gt;      .y$QX`                "^ |xv7_^'&gt;.````-;__")`:, ``                        
-          .)Bgggggj     `&gt;!+&amp;%"        ,&gt;_)v=,-,|L__!)7t)+v``:,.:fPf-  `:'`        .:               
-            `_9QDQ&amp;^   ```',C#_        ')_V7Jj];`. '``.,]mIV&gt;   'bGBb   ._.-"^  ` `;_                
-             LG&amp;g0L   ^:,,vd9:             `+bLv;..` ^+Vdb9].` _twDb' ^yVx7__":.`LdU7)`             
-              [QDX9`  `' `x@X`              _mPy:   :hRll+Cmh+^  .Kx  ;fxL_' `   ,Kabmw.            
-            'f@BK_,    .:.)@J               "GX.   ^P7;^)v"|bL&gt;' `a+``'|!v_"&gt;'  `]jIIf7-.           
-           `x@DL'`;)     ``)@)              `_%Gh&gt;  &gt;:','`.':"+IhL :+.  "_,!!``'v;!JK,`              
-          ,Bgw  `"^    ```^j,                t$I   ` `:`   `^',J).     !)+)!.`-v]UC"                
-           :&amp;D'  .'.       '             `` .`xw!      `    `'`..       ,+++|)"_wjfv_:               
-          -0j             ;`               "'                `       .!vL);^'+lx".`.                
-          _Bj            `'               `,`                 `       .."'  )]_`                    
-          .jy           `.:                                               `_+                       
-           ;'            .`                                                                         
-                                                                                                    
-                                                                                           </a></pre>
-
-
 **Authors:** *Flosha* & *Avallach*  
 **Created:**: 2021-10-01   
 
@@ -1274,6 +1235,44 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
 
 Avallach put the colourised ASCII into a .svg in order to prevent having all that code on our page. But if you want to see how the final 12 layers look like, just rightclick and take a look at the sourcecode.  
 
+<pre class="logo">
+    <a href="https://phoenixtales.de">                      
+                      ,.                                                                           
+                     ,aBV                                                                           
+                     ,wgm`                                                                          
+                     ')]gQv                                                                          
+                    ;+9Qga'                                                                         
+                    ^tBQgB_                                                                         
+                     `y@gQL                                        `                                
+  :                   ']QQK'                       ;+.       `)L^'                                  
+   ._:`      `.'^,_w)`:)lQgQ&amp;$pL`     `,,-.       `x).          ,j+,`      `.              .:        
+   xV+h_^7jG#BB@&amp;%d^.,.'GgggQQBJ   `7$&amp;@g@G|    `+V`          `[R[Ll&gt;`     &gt;'   "x^     '+bv        
+    |l&amp;%xjb["""XgG:     Jggg&amp;%QD-  vQQ@IDggB,  .+l-           _RG)`,aU!    )+`  `LRh_:'xGp,         
+    |mPQQQQd.'IQ8-      +gQB_|@$,  agQj`vggQ_ ^CU_^^,__)_-   .wmv   ,fd-   _X^    '=#0#BD"          
+   `  _9QgggQvXgB_       "B@x ,&amp;Q_  KggC)0gg@" _DRx:,,^'`     +K,     ;a,   ^fL`     ,mB&amp;&amp;R+.        
+     _hp@QggQQBJ`        ``  :DQ|  _Qggggg&amp;x`  =5mx         ^a"      :I_   .)&gt;      I#y'"wmD7'      
+        ,xBgggX'             ,&amp;Qx   ,ybRhx-  ')7)v]`        ,L.       L[.   )|`    La"   `^_lPv'    
+          `;aBggm,            )BB_            ';|" -_.             `   `J,   '7,`   ``      .`._x!   
+            Vggg&amp;)           LBd'             -"_ .`'.       `,^.^,`   `.'  `_-`                    
+          "PmQggg&amp;"         .jBPIL           '^    -,'`  .`  -y"'.v: `   ,:                 ..      
+           `w8gQhQgm`        _0&amp;j"            ``     ,=" .'`,""'  "L``'.``   `.               .'     
+         `JB@QQbGgQ_       :5@D)                   _)|L&gt;.-,'''   -^,-C'`. `   `                     
+          :yBgQ@QgQ&gt;      .y$QX`                "^ |xv7_^'&gt;.````-;__")`:, ``                        
+          .)Bgggggj     `&gt;!+&amp;%"        ,&gt;_)v=,-,|L__!)7t)+v``:,.:fPf-  `:'`        .:               
+            `_9QDQ&amp;^   ```',C#_        ')_V7Jj];`. '``.,]mIV&gt;   'bGBb   ._.-"^  ` `;_                
+             LG&amp;g0L   ^:,,vd9:             `+bLv;..` ^+Vdb9].` _twDb' ^yVx7__":.`LdU7)`             
+              [QDX9`  `' `x@X`              _mPy:   :hRll+Cmh+^  .Kx  ;fxL_' `   ,Kabmw.            
+            'f@BK_,    .:.)@J               "GX.   ^P7;^)v"|bL&gt;' `a+``'|!v_"&gt;'  `]jIIf7-.           
+           `x@DL'`;)     ``)@)              `_%Gh&gt;  &gt;:','`.':"+IhL :+.  "_,!!``'v;!JK,`              
+          ,Bgw  `"^    ```^j,                t$I   ` `:`   `^',J).     !)+)!.`-v]UC"                
+           :&amp;D'  .'.       '             `` .`xw!      `    `'`..       ,+++|)"_wjfv_:               
+          -0j             ;`               "'                `       .!vL);^'+lx".`.                
+          _Bj            `'               `,`                 `       .."'  )]_`                    
+          .jy           `.:                                               `_+                       
+           ;'            .`                                                                         
+                                                                                                    
+                                                                                           </a></pre>
+
 
 <style type="text/css">
   
@@ -1336,8 +1335,8 @@ Avallach put the colourised ASCII into a .svg in order to prevent having all tha
     margin-top: 2em;
   }
 
-  main h1 {
-    font-size: 40px;
+  .article h1 {
+    font-size: 45px;
   }
 
   main > img {
