@@ -1,8 +1,8 @@
 # Evolution of the Nyx Sign
 
-**Author:** *Flosha*  
-**Written:** 18.11.2023
-**Last update:** 04.09.2024
+**Author:** *Flosha*   
+**Written:** 18.11.2023  
+**Last update:** 04.09.2024  
 
 
 The "Sign" is the oldest of our logos. The sign was designed before there was any other "logo". We call it the Phoenix "sign", or the "Nyx logo", due to its form and the name of the project at that time.  
