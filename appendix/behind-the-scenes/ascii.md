@@ -1,11 +1,12 @@
 # Behind the ASCII Art
 
-2021-10-01 by flosha and Avallach  
+**Authors:** *Flosha* & *Avallach*
+**Created:**: 2021-10-01  
 
 
 **Flosha:** After the creation of the latest design of this website, in which I decided to discard all images in favour of pure text and ASCII art, I told Avallach that I want to colourise the Phoenix. While the design of our team website [phoenixtales.de](https://phoenixtales.de) as well as of [gothicarchive.org](https://gothicarchive.org) and [phoenixthegame.com](https://phoenixthegame.com) was developed by me on my own, there are a few technical things that I couldn't manage to do myself. The colouration of the ASCII art is one of them, and I thought that the solution is interesting enough to tell you about.  
 
-I had generated the Phoenix ASCII with an online tool, since I couldn't see me doing that by hand. This uncolourised version was looking like this: 
+I generated the Phoenix ASCII with an online tool, since I couldn't see me doing that by hand. This uncolourised version was looking like this: 
 
 <style type="text/css">
   @import url("https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono|Ubuntu+Mono|Cutive+Mono");
@@ -15,9 +16,11 @@ I had generated the Phoenix ASCII with an online tool, since I couldn't see me d
   font-family: Ubuntu Mono, monospace !important;
   text-rendering: optimizeSpeed;
   }
+
+  .chaos-ascii { font-size: 8px; }
 </style>
 
-<div class="unchanged-asci">
+<div>
   <pre style="font-size: 9px; font-family: monospace; background-color: rgb(0, 0, 0); color: rgb(173, 158, 138); line-height: 9px;">                                                                                                                                                                                                                                                                           
                                                                                                 ```   
                                                                                              ','-","' 
@@ -129,37 +132,37 @@ I want to add colour to the Phoenix. It's just quite hard to do.
 
 > [26.09. 00:37] **Avallach:** It's really hard. This is a prototype with 6 layers, colours are not set yet. But I see that shape somehow got corrupted.  
 
-![Test1-Distorted](/Appendix/behind-the-scenes/ascii/test1-distorted.png)
+![Test1-Distorted](/appendix/behind-the-scenes/ascii/test1-distorted.png)
 
 > [26.09. 00:50] **Avallach:** I fixed the shape, but contrast and colours still require some work. / Still 6 layers. Gray + 5 colours. / Do you think this is enough colours or should there be more, like 16?
 
-![Test2-ShapeFix](/Appendix/behind-the-scenes/ascii/test2-shapefixed.png)
+![Test2-ShapeFix](/appendix/behind-the-scenes/ascii/test2-shapefixed.png)
 
 > [26.09. 12:29] **Avallach:** I'm doing already like the 4th prototype... this time trying to limit colour to areas with some minimum saturation and brightness on the input image:
 
-![Black-White](/Appendix/behind-the-scenes/ascii/phnx-bw.png)
+![Black-White](/appendix/behind-the-scenes/ascii/phnx-bw.png)
 
 > [26.09. 12:35] **Avallach:** Current idea: Pick the optimal colours only for these sections of the image, and leave the rest in greyscale:
 
-![Colour-Choosing](/Appendix/behind-the-scenes/ascii/colour-choosing.png)
+![Colour-Choosing](/appendix/behind-the-scenes/ascii/colour-choosing.png)
 
 > [26.09. 13:54] **Avallach:** I need gimp to calculate optimal colours. / But it is already on the same grid. / 98x95 /  As the ASCII will be. / So that the calculations for each character are exact. This is around 10 colours and IMO looks close enough.
 
-![Colour-Choosing-2](/Appendix/behind-the-scenes/ascii/colour-choosing-2.png)
+![Colour-Choosing-2](/appendix/behind-the-scenes/ascii/colour-choosing-2.png)
 
 > [26.09. 14:02] **Avallach:** All the brightness and sharpness will be handled by the ASCII art generator. This is just a template how to separate colours into layers. All the brightness information from here will be ignored.
 
-![Step-1-Color-Mask](/Appendix/behind-the-scenes/ascii/step-1-color-mask.png)
-![Step-2-Color-Map](/Appendix/behind-the-scenes/ascii/step-2-color-map.png)
-![Step-3-Seperate-Colours-WiP](/Appendix/behind-the-scenes/ascii/step-3-separate-colors-wip.png)
+![Step-1-Color-Mask](/appendix/behind-the-scenes/ascii/step-1-color-mask.png)
+![Step-2-Color-Map](/appendix/behind-the-scenes/ascii/step-2-color-map.png)
+![Step-3-Seperate-Colours-WiP](/appendix/behind-the-scenes/ascii/step-3-separate-colors-wip.png)
 
 > [26.09. 15:07] **Avallach:** This is the result of the separation:  
 
-![Layers-Gif](img src="/Appendix/behind-the-scenes/ascii/layers.gif)
+![Layers-Gif](img src="/appendix/behind-the-scenes/ascii/layers.gif)
 
 > **Avallach:** Now I will prepare the ASCII-art [again, via the online generator I (flosha) used] from each of these colour layers. / I think only this screenshot really explains how it works, right?
 
-![Layers](/Appendix/behind-the-scenes/ascii/thelayers.png)
+![Layers](/appendix/behind-the-scenes/ascii/thelayers.png)
 
 Upon my request, Avallach has written a little documentation, that really shows the complicated process he came up with just to fullfill my wish to colourise the Phoenix:  
 
@@ -232,7 +235,7 @@ We came up with this exact procedure when preparing a coloured ascii art of the 
 
 Here our final colourised Phoenix:
 
-<img class="phoenix-ascii" src="/Appendix/behind-the-scenes/ascii/phoenix-ascii.svg" style="width: 481px; margin-right: -40px; cursor: normal; -webkit-user-drag: none">
+<img class="phoenix-ascii" src="/appendix/behind-the-scenes/ascii/phoenix-ascii.svg" style="width: 481px; margin-right: -40px; cursor: normal; -webkit-user-drag: none">
 
 And for your imagination: These are all the signs of the 12 layers if we do not let them overlap and do not put them in a `<pre>` tag:  
 
