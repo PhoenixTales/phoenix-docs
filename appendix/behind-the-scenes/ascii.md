@@ -119,7 +119,7 @@
 I generated the Phoenix ASCII with an online tool, since I couldn't see me doing that by hand. This uncolourised version was looking like this: 
 
 <div class="unchanged-ascii">
-  <pre style="font-size: 9px; font-family: monospace; background-color: rgb(0, 0, 0); color: rgb(173, 158, 138); line-height: 9px;">                                                                                                                                                                                                                                                                           
+  <pre style="font-size: 8px; font-family: monospace; background-color: rgb(0, 0, 0); color: rgb(173, 158, 138); line-height: 8px;">                                                                                                                                                                                                                                                                           
                                                                                                 ```   
                                                                                              ','-","' 
                                                                                         ``.,=\'`.``)_`
