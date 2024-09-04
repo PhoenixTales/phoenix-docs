@@ -1,11 +1,13 @@
 <a href="/"><img src="/_img/phnx2.png"></a>
 
-# [Index](/)
+# Index
 
-<!--1. [Introduction](/)-->
+1. [Introduction](/)
+2. Document Structure
 <!--About the Author-->
 
-## [Vision](/vision/vision)
+
+## I. [Vision](/vision/vision)
 
 1. [Vision of Gothic](/vision/vision-of-gothic)
 2. [Gothic (re)defined](/vision/gothic-defined)
@@ -15,7 +17,7 @@
 6. [Reconstruction](/vision/reconstruction)
 
 
-## [Mechanics](/mechanics/mechanics)
+## II. [Mechanics](/mechanics/mechanics)
 
 1. Classes
 2. Attributes
@@ -44,7 +46,7 @@
 
 ## [Story](/story/story)
 
-### [Setting](/story/setting)
+### III. [Setting](/story/setting)
 
 1. Mythology
 2. Geography
@@ -52,7 +54,7 @@
 4. MetaPhysics
 5. History <!-- Timeline -->
 
-### World
+### IV. World
 
 1. Level Design <!-- Gothic & Cosmic Horror -->
 	1. Act I - The Colony
@@ -76,7 +78,7 @@
 	2. Costume Design
 4. Monster Design
 
-### Plot
+### V. Plot
 
 1. Alpha Plot(s) <!-- including story events + guild attitudes -->
 2. Sequel Plot
