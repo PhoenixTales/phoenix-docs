@@ -64,7 +64,7 @@ Whenever a topic has a source in design documents, old builds of the game or bot
 
 ## Support
 
-Please note that [PHOENIX](https://phoenixthegame.com), the Phoenix Documentation at hand and the entire [Gothic Archive](https://gothicarchive.org) created alongside the project are being done non-commercially and primarily by one person at his free time. At the same time domains and backup storage have to be paid. If you want to support us or just give something in return for the work on the game, the Gothic Archive and this documentation, you can do so fast and simple at [ko-fi](https://ko-fi.com/flosha).
+Please note that [Phoenix](https://phoenixthegame.com), the Phoenix Documentation at hand and the entire [Gothic Archive](https://gothicarchive.org) created alongside the project are being done non-commercially and primarily by one person at his free time. At the same time domains and backup storage have to be paid. If you want to support us or just give something in return for the work on the game, the Gothic Archive and this documentation, you can do so [via ko-fi](https://ko-fi.com/flosha).
 
 
 ## Read next 
