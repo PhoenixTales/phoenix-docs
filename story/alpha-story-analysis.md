@@ -1,7 +1,7 @@
 # Alpha Story
 
-Author: Flosha
-Written: 02.09.2023 - 
+**Author:** Flosha  
+**Written:** 02.09.2023 - /
 
 In order to analyse the original story concept of Gothic we have to differentiate between different phases of development. In course of time there were several iterations of the story that in the beginning evolved organically until the point of no return, where it had to be scrapped and was redone in the last couple of months in order to finish the game under the pressure of the publisher and time. The story was changed and reduced to such a degree, that the former story authors were confused and wondered what happened to the story when playing the final game. By summarising and comparing the narrative as it evolved until it was cut down to a fraction of it's original scope, we will be able to (1) point out the most comprehensive and profound iteration of the story and (2) clearly see whatever valuable is to be found in other iterations, (3) in order to harmonise the best of all in Phoenix; which is summarised in [Phoenix Story]().
 
