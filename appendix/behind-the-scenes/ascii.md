@@ -114,115 +114,18 @@
 **Created:**: 2021-10-01   
 
 
-**Flosha:** After the creation of the latest design of our [team website](https://phoenixtales.de), in which I decided to discard all images in favour of pure text and ASCII art, I told Avallach that I want to colourise the Phoenix. While the design of [gothicarchive.org](https://gothicarchive.org), [phoenixthegame.com](https://phoenixthegame.com) and our [documentation](/) was developed by me on my own, there are a few technical things that I couldn't manage to do myself. The colouration of the ASCII art is one of them, and I thought that the solution is interesting enough to tell you about.  
+**Flosha:** After the creation of the latest design of our [team website](https://phoenixtales.de), in which I decided to discard all images in favour of pure text and ASCII art, I told Avallach that I want to colourise the Phoenix that [I had designed in 2016](https://docs.phoenixthegame.com/appendix/behind-the-scenes/team-branding) and decided to use the newer "stalker" variant I had made in 2021. While the design of [gothicarchive.org](https://gothicarchive.org), [phoenixthegame.com](https://phoenixthegame.com) and our [documentation](/) was developed by me on my own, there are a few technical things that I couldn't manage to do myself. The colouration of the ASCII art is one of them, and I thought that the solution is interesting enough to tell you about.  
 
 I generated the Phoenix ASCII with an online tool, since I couldn't see me doing that by hand. This uncolourised version was looking like this: 
 
-<div class="unchanged-ascii">
-  <pre style="font-size: 8px; font-family: monospace; background-color: rgb(0, 0, 0); color: rgb(173, 158, 138); line-height: 8px;">                                                                                                                                                                                                                                                                           
-                                                                                                ```   
-                                                                                             ','-","' 
-                                                                                        ``.,=\'`.``)_`
-                                                  ``.--::^^--^,^^^^-:'.`           ``.-x)&gt;^-`:,".  !_ 
-                                        .'^v+}IIot[L+x==x=T[xYxxLvv;";|_)_"^^,"~~;&gt;&gt;:` ':``.:-^^`  ^- 
-                                     `,|a%&amp;&amp;Wm%mmeIt3+|l}][[]v;|+_\:`..`&gt;xT+_\Y)'` ``     `.'..` .`^` 
-                                   `^o%&amp;RhhR@BDDpaIjo[y[xx+xTL));"!!^._f=;::---~|"..```    ````` .,.  
-                                 `'v%QgQBRCotwIpWWb9ox|xL)v|v_;,',~^"xh)`',"_}C}x~^"^'``````` ``,;`   
-                                ,f#@@&amp;w,''.......""|tyI))|)&gt;))",'",|Rx`..-""~Y|)!^"",-'::'`   '_^     
-                               "}jj+x".^-,,,-,,",':::_ol:_||!!)_.'vq_..,:^,"",-.`',",:.`  ``"_!.      
-                             `&gt;t_`"L|,";;,:-"";\\!"-^'!ov^)_;-&gt;"-,a\`^,,-^^^^-.  `::'.   ,)|_'        
-                           .&gt;LIG5vL,,;!-`:|)"_^:,` &gt;"^.vy^,&gt;,::":",',-"\,^-:'.`   ````:&gt;_^`           
-                        '"7te@#B#+_".):^\5B$bhvv_, -_,'vV)",'"'-.-`-"_v"^:.``` `   `")_:`             
-                     `&gt;iq9$8m%GGGa::'":|7)yjt|));".&gt;",,|C"''.:``:``|T=l"````    `."!,.                
-                    `T%B%mDBG9%PeG7` -":=K|,-,^';7),"'_x}v"`  '".`:+ylL: ``   `:-^'                   
-                   .]BmW$0$QBmD@g&amp;%T``-^-,+KKw]T+"-,^&gt;_+7Y_)-VjU-'^,-^'`   `."":                      
-                  `vh%@8%GDR$&amp;bjbGDmX'  `'::'''-,""__xyImj|y!,&gt;~':^^.`   `-,^'                        
-                  ~%0D8&amp;Ww5o#D)-|Tl[v|+_'"_;;_|7lLKff=![Uto+&gt;.`.::'.` `'::`                           
-                  _x_-&gt;")__|t=LV]yy}[[}Vx_Tf[+vTiTL_|_)__^,'""'`..` ``.`                              
-                 `xm5It|"|lvj=[tty+||v)vv_!'``.''.`.: x"^..`^"` `````                                 
-                 )Qqvv"\),-,i5XV)"-..'..:^"'`:'````',--.::.'''`` `'`                                  
-                lQG])~!,--,!)5C"'`  `'`   .`    ```.````'''.'-'.`````                                 
-                )+_\,"&gt;,-:` ')y,`  .L).  .`  .'':----'--':!_))^'````                                  
-              `:"")x_'''`    `&gt;,`     ```   `':---~))-_))&gt;_v=_-.`:'``                                 
-              ."~|[T+^^        `.'::.```    `':^':~)_&gt;_vL!`.':```.-...`                               
-              ^_||LY",.           ': `````` .:'':"";!;)&gt;::,,-~^`-&gt;::'-'.                              
-              '^!)|_.^-.        .&gt;` `...'''''.'-,::^!",)_!,,!v)""_v,':-`                              
-               .;x[)&gt;",&gt;,`.``:":"- ``.``.':-:':-''^"&gt;"")v);__\+!&gt;"::''-.`                             
-                `,xy3__\=!~^';"+y\,"'`   .''''-"))",,,&gt;"_)_&gt;LL),^-:--:::`                             
-                 '|Y+jL+f_v"^)"x[_|~^-   `.'.'-)"|&gt;&gt;"&gt;",&gt;;&gt;vLv&gt;,"&gt;;)_^':.                             
-               .|UXmR];L)"=~^^'''-,~v,:````'''vv_|&gt;_"^,,^-_x_v)|!&gt;))+_,:'`                            
-               :!)YIt@%^`)mDjv'`''-&gt;!_~^'..`.:!;!_))v!"__"^,"|~)____|v",:.                            
-             `-^`'":'XQj'`i5f)' ...^"^^"-::::^",,;||vv__++"-,_&gt;_xx),");\-.                            
-             "+wtT}="-7I! ,)^`````..&gt;_&gt;,':^"&gt;\\_|+Yv)v_;"[)_"=_,T)_;""^"-.`                           
-           ``'vL|v[ti=^_x,      .'.-\,,-`.:^"&gt;,)flx+v));|tt}x}+&gt;7j5Y)_-::'`                           
-             `. __---tI|Lv'   ```:,,,^::'::-^^,tixi[)&gt;",)}tjj),^Y]j5v|_^.`                            
-              . ]W_,.:vphKx,.` ```::--::^,:-^")~]yY+)-"__wxvX|)|&gt;|]bh=v~:``                           
-             '' f%|'`.,Lt3fK~` `  `.^'-^|),--_|Tj);__;"~_tT"C)LlV)|xRh_&gt;-.`                           
-             `. W$)^``'"|[9G3)'``  ."'`.!|~,`vti]\^\v);,!T|_|)=XjIRo%0L"":.                           
-              .')%b)^``.^&gt;|l9P|'`   .['':^'':)&gt;"""'!_)&gt;"!v|v~L[yx=aQ$jy[):`                           
-              .:L%p":`  `:^,LUt+~. ` W^^;"'.-,-""&gt;-,";____)&gt;_vYxL]hG&amp;Vx|)'`                           
-              :.\a9)``````''.-~|+,   p\^\^:,"^-^",,,-"vv)_)v|+x)|j&amp;CB]=+\:                            
-              ^.;%&amp;+``..'` ````'""' `e",&gt;"\_~"^,~__)_"v||))Y+|;^=K%hWwty^'`                           
-              ^`L@&amp;v`',^:.`   ``'-' `3,,;&gt;&gt;!",:,_+|+L^vLlv_XPw|~xhyh5=py,-.``                         
-             `:'V8b) .&gt;"&gt;,'`     `   t",&gt;,,&gt;&gt;,'"Lxvvv'v|x[~-"^,xXC[lx)W|,::.`                         
-             `.'[G$&gt; `..-"```   `   `yv,,"^"&gt;_,`"LYv_`:}IfKx!"_iT+=}|)]x_:'.                          
-             ``-xaB'..^:`:'.`.````` 'Tx","-,",!,',_"``~tol}KIX3f=)LxwT]7):'.                          
-             ``_}m@,`.,.`:'-.)'.:,'`.V=",&gt;^,,-,"":'.`_ofl=+xvxiIT)xvvy}v,'-'`                         
-             ``|ThQ~`'.-`'&gt;'-_^.;&gt;':.|+\"&gt;"",^,")_:``\CoCy)_)vwI["=x)_~,:--'                          
-             ``_=a0'`''-`,_:&gt;,,._-..`;;"^,!&gt;"::,"^`  `,|[)^)_~=X),iwyv,""_,.`                         
-             '`vo5y .'','^&gt;'``'`&gt;&gt;`..:"""&gt;;\,'':.    ```.`-:,&gt;v7'_l][+)),^'.                          
-             :-vIm~ '^"&gt;.^&gt;' \-.;)''..";!&gt;&gt;"^.`  `.'.'...`` .:'`-x+x|_~!^'.                           
-            `-^|Gq, .-^~;-^`.": _+,-'`)|&gt;,",:`   `.':,^-^--'`   `,\_\",,:``                           
-             .)l%R" `'"'_^. ~,`-x.:,:`&gt;w;:,":.` `''-^"","",,'.'':^-':^&gt;-.``                           
-             `)fp&amp;"  '.`^!` )_ xv::_:`'+~:^,",'.-,'-^,,""&gt;""-.-",,"&gt;--&gt;,'``                           
-            `.)lGR.  ...,,.`)^`w-.^'``.,v!,::,,^\_:',,"&gt;&gt;;)~"-.'^,_&gt;::\,-.` `..                       
-            `._|@8:  `.`:'``"":7:.-:-``'|+_",'.^_))"^~))~;))_,'''-,^''"^:'. `.'.`                     
-             '_7@I.  `'':.``"^:L&gt;,;&gt;^`` !j);))__)vv);^,^"_))__&gt;,:''..:,-'.```':'.                     
-            `:_L%+ ` `'`.'.'.,`v)--^:.'`.tK);)L|_))~~~&gt;&gt;_))\\__)"'.``:,-'.``.':'`                     
-            .."x$|   `.'^.`.;  [_+=-'..``;hY,!v)_~));"!_)_&gt;"""!"^.`  `.......''.``                    
-            .':vQ)  `.''^::'._`|)|_L&gt;'````v7,,_~~;)_",-!v)!",^-:'.``    `..'-:'`                      
-            .',+QL  `:^:'.`.'):="_&gt;",'`v\ .T)-"&gt;___\,,-"~v_",----':'......'':'`                       
-           `'..\#v  .-^:':,-'v:L;,)_-',av``'|&gt;,,^""!;~"^,\_""-^,,^^^---::::''``                       
-           `'.')D_ `._;-.'-,-_-"LvL)" CY:'` ^+"!&gt;&gt;\~~_\"^-^^""^,""",,^-::::.````` ````                
-          ``:'^_j)`:-")v^:',!,.")_^::)+:.````,=[v|v)_&gt;&gt;,,^::^",""",^-:'...````.'.`.:-`                
-          ``:'."a"`"_&gt;;)|_"_)_^^,:',)&gt;.`..::. -v=+vv_""::'..':^&gt;~;&gt;"^:.``````.''^^^.```               
-          ``''.,L&gt;`"~___;,,--:.^,'-^:``..,\"^.`.~T|v_!"^'  ``.'^&gt;&gt;&gt;&gt;,:...'''.',&gt;!!-.```               
-          ``...",::~~)))_~;&gt;",'.``.````.-,,,,,),`:)L|!",-'.``..':::---::^-:'':-"_&gt;'.`..`              
-         ``.``."".&gt;)))))____;"-''....```'--^^_y=v&gt;:-",,^^",'..``....''::-:':,&gt;~)"^'.-,-'`             
-          `.``';)\+|vL)~,&gt;_))~"^^--''.``'--,!LxL|||!.`^_v;^'::...''':,^:''-,\)")L)__v|^:.             
-         ``:'`'~L))Lvx~,\!!vv&gt;\&gt;,&gt;,:''..:^^,_++Lx),^'...:''-!;,^,-^^-,"",!&gt;;,'"vxv)|&gt;,-,`             
-         `.`-`':)|)!)!~v|_"v;"v)&gt;,-,;_-'^,"_+Y7T7!,:'.:''..',,^,"&gt;&gt;_\),,^\:)v\,"vv~!-:)_`             
-         .:.'`:::-)"_^|vY|.&gt;)=y7":)|Yv"-^"&gt;|]TK[x~^:-''^':::"!_~,^_&gt;&gt;"".|&gt;-")+;"",,^-'v,              
-         `,^'`-'.&gt;;!"-x+xy:;yCyY'_T7j&gt;;\,-"wP)=[x)!",'"&gt;-"&gt;,,v7)&gt;xt,!_,)h)^.~[+|_,,"|-)`              
-          `.``'``;_&gt;":vxyUv^L_x":|=}t)&gt;)v""L3+v][+L|)'))'_|v|}y)_t[!7)'j5))':!!)v":vt&gt;|.              
-          `:-'^` --,v';Yi5I_,"|--v+TwV^xt_^)[X)!Vy==}.)[^"LT[[7!_3K"UK,XI)),',":&gt;":vVK-"-             
-           .,-,-'-'._,-&gt;vxw5&gt;^;"`_+[Ve\vC_'_|yX"|tyy+^,7+-vwt[x,;lI^Th[[3_))"--^''',x}+~,:            
-           `"^'^::' ^^`'^"!hV::\'-)L[f5,=&gt;-)vxUo"+xY__')y[:"}[):_+Iv"+CVhYL)~"^.^&gt;_^"x+++),           
-           ':'````'`., `'-,\f"."'^_Lvoj-,:&gt;v)xit)~,,v!:)+}+'.|,')+}f\"|YyU[=L)~"-'"-:vT=LL_`          
-           ..` ```.``. ``.",+".^'_v)^x)':;||)xy[)"-,"^"v|x}Y.,-'_+xyt""L!LI[}x);""^`")v++L;.          
-           ``` ..``` .,:``';&gt;,.."_&gt;""&gt;-:!)v))LY),:':-")|+x[l_:.:vxx)3+'}xj]+)_&gt;^'`^"^^~)vv"`          
-            ```'".`  .::.``-,'.:"~"^:-:"____)~;,:::-"_vL[]}]+,.^|xvLLT,-^|),''':``.:"^;~_;```         
-              ``"^`  ..'^'`.` :;)_~\,.'!;;\;_,-::-^&gt;_)))v+,x)^.^~__~,7|^```'",: `_,.`.&gt;"-.``          
-              `.   `.'^-'^'`.,v!,""",.';"!;,:--'.^"&gt;&gt;\'.:^:,-.`'-'`.''\- `,)_.  \+&gt;,:` `              
-                 .-,""-`  .,""!!-.^)|_^""&gt;"-'''':""\",^'.'::...'```:,&gt;.  ^v|: `-'^)\,,`               
-               `-&gt;"",'` `:^^:.` `.'^&gt;vv|),^-,,,"_)~^.:",-''`'": `'` ."  '_~` `....';)~,.`             
-             `.^",:`"&gt;-`''` .^,-`  ```'"",:,"__":...::--:``";`.' ``.   ')"   `      `^&gt;,`             
-            `.''.`` `"^.```'-+)\,`  `-'',\\&gt;":. `''::::.`,), `"|: ``  'v" `:'`        ``              
-                     .^'`  `.'v|;".`'"_);--..^!".`:-^'`-||'  -\)|'`  `L).'""",'                       
-                      .'`    ``";--"__,:.```.,_|L_:.:-)T_` `` ';)). :)_ `:,"&gt;,:.`                     
-                       ..`    `'-,,:`.```    ``-!_)\'-)"       `,&gt;!' ,  ``  `''.`                     
-                        ``  ``'^-.``.-'`     `` `.'"_^'          .-,'                                 
-                            ```    `'.'`      `-"'  `:!,.          .'.                                
-                                    ```      `'.`      `.`           `                                </pre>
+![Original-to-ASCII-comparison](/appendix/behind-the-scenes/ascii/phnx-ascii-comparison.gif)
 
-</div>
-
-I'll just quote the important parts of the conversation. No need to retell what you can read first hand (or first fingertips in that case). I was just finishing the design, showing it to Avallach and asking if he would be able to help me with the colouration.  
+For everything else I will just quote our conversation. No need to retell what you can read first hand (or first fingertips in that case). I was just finishing the design, showing it to Avallach and asking if he would be able to help me with the colouration.  
 
 > [23.09.] **Flosha:** What do you say now?    
 I want to add colour to the Phoenix. It's just quite hard to do.  
 
-> [23.09.] **Avallach:** O wow, I really like it. ]I really like the ASCII art design of the main page. I can help colouring.  
+> [23.09.] **Avallach:** O wow, I really like it. I really like the ASCII art design of the main page. I can help colouring.  
 
 ... he said. And went straight to work. Two days later:  
 
@@ -250,8 +153,7 @@ I want to add colour to the Phoenix. It's just quite hard to do.
 
 > [26.09. 14:02] **Avallach:** All the brightness and sharpness will be handled by the ASCII art generator. This is just a template how to separate colours into layers. All the brightness information from here will be ignored.
 
-![Step-1-Color-Mask](/appendix/behind-the-scenes/ascii/step-1-color-mask.png)
-![Step-2-Color-Map](/appendix/behind-the-scenes/ascii/step-2-color-map.png)
+![Step-1-Color-Mask-&-Step-2-Color-Map](/appendix/behind-the-scenes/ascii/step-1-and-2.png)
 ![Step-3-Seperate-Colours-WiP](/appendix/behind-the-scenes/ascii/step-3-separate-colors-wip.png)
 
 > [26.09. 15:07] **Avallach:** This is the result of the separation:  
