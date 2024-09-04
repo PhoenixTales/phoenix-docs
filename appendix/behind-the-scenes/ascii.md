@@ -1,7 +1,7 @@
 # Behind the ASCII Art
 
-**Authors:** *Flosha* & *Avallach*
-**Created:**: 2021-10-01  
+**Authors:** *Flosha* & *Avallach*  
+**Created:**: 2021-10-01   
 
 
 **Flosha:** After the creation of the latest design of this website, in which I decided to discard all images in favour of pure text and ASCII art, I told Avallach that I want to colourise the Phoenix. While the design of our team website [phoenixtales.de](https://phoenixtales.de) as well as of [gothicarchive.org](https://gothicarchive.org) and [phoenixthegame.com](https://phoenixthegame.com) was developed by me on my own, there are a few technical things that I couldn't manage to do myself. The colouration of the ASCII art is one of them, and I thought that the solution is interesting enough to tell you about.  
@@ -158,7 +158,7 @@ I want to add colour to the Phoenix. It's just quite hard to do.
 
 > [26.09. 15:07] **Avallach:** This is the result of the separation:  
 
-![Layers-Gif](img src="/appendix/behind-the-scenes/ascii/layers.gif)
+![Layers-Gif](/appendix/behind-the-scenes/ascii/layers.gif)
 
 > **Avallach:** Now I will prepare the ASCII-art [again, via the online generator I (flosha) used] from each of these colour layers. / I think only this screenshot really explains how it works, right?
 
@@ -1338,12 +1338,12 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                                                                                 
                                                                                                 
                                                                                                 
-                                                                                                
-                                                                                                
-                                                                                                
+                                                                                        
 </div>
 </div>
 
-Avallach put the colourised ASCII in a <a href="/phoenix-ascii.svg">.svg</a>, in order to prevent having all that code on our page. But if you want to see how the final 12 layers look like, just rightclick and take a look at the sourcecode of this page.  
+---
+
+Avallach put the colourised ASCII in a <a href="/phoenix-ascii.svg">.svg</a> in order to prevent having all that code on our page. But if you want to see how the final 12 layers look like, just rightclick and take a look at the sourcecode.  
 
 
