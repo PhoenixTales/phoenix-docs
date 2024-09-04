@@ -160,5 +160,14 @@
   		text-transform: uppercase;
 		font-size: 16px;
 		margin: 1em;
+		position: absolute;
+	}
+
+
+	@media only screen
+	and (max-width : 820px) {
+	
+	/* HIDE HEADING due to inclusion in menu button */
+		.header { display: none; }
 	}
 </style>
