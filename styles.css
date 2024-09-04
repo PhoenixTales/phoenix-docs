@@ -105,7 +105,7 @@ nav h1, nav h2, nav h3 {
 /* TOP NAVIGATION */
 
 nav {
-  background-color: var(--black);
+  /*background-color: var(--black);*/
   z-index: 2;
 }
 
