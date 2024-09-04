@@ -8,7 +8,8 @@
 <body>
 
   <nav>
-    <section class="top">
+    <section class="header">
+      <span>/ Phoenix.doc</span>
       <ul>
         <li><a href="https://github.com/PhoenixTales" target="_blank">Git</a></li>
         <li><a href="https://phoenixthegame.com/contrib">Contrib</a></li>
@@ -27,15 +28,12 @@
       {{ nav | markdownify }}
     </section>
   </nav>
-
-  <section id="intro">
-
-    <img class="logo" src="/_img/phnx-logo.png">
-
+  
+  <main>
     <section class="article">
       {{ content }}
     </section>
-  </section>
+  </main>
 
   {% include footer.html %}
   

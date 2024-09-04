@@ -1,11 +1,7 @@
----
-layout: setting
----
-
 # Setting
 
-**Author:** Flosha
-**Status:** wip
+**Author:** Flosha  
+**Status:** wip  
 
 **Content:**
 

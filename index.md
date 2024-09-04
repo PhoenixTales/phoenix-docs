@@ -119,7 +119,6 @@ Please note that [Phoenix](https://phoenixthegame.com), the Phoenix Documentatio
 
       .phnx-mask {
          width: 100%;
-         margin: 3em auto 0;
       }
    }
 </style>

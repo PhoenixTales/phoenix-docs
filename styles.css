@@ -373,26 +373,7 @@ hr {
 
 /* TEXT STYLING */
 
-/* bloody background heading */ 
-.blood-bg {
-  display: inline-block;
-  background-color: var(--blood);
-  border: 2px solid var(--black);
-  color: var(--black);
-  font-family: "Gothic Alpha";
-  font-size: 16px; 
-  margin: 2em 0 1em;
-  padding: 1em 1.3em 1em 1em;
-  font-weight: bold;
-  line-height: 1em;
-}
 
-/* for short giant text blocks */
-.gianttext { 
-  font-size: 50px;
-  line-height: 1.5em; 
-  /*text-transform: uppercase;*/
-}
 
 /* super text addition */
 .suptext {
@@ -445,16 +426,7 @@ hr {
     width: 110%;
   }
 
-.vision {
-  background: url("/_img/bg/bg-friends2.jpg");
-  background-position: top right;
-  background-size: 80%;
-  background-repeat: no-repeat;
-  width: 100%;
-}
-  .vision .article h1 {
-    font-size: 20px;
-  }
+
 
 .setting {
   background: url("/_img/bg/bg-escape.jpg");

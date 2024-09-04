@@ -1,7 +1,3 @@
----
-layout: vision
----
-
 # Vision of Gothic
 
 <p class="blood-bg">
@@ -284,3 +280,19 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 ## Read next 
 
 * [Gothic defined](/vision/gothic-defined)
+
+
+<style>
+
+    main {
+        background: url("/_img/bg/bg-friends2.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+        main .article h1 {
+            font-size: 20px;
+        }
+
+</style>
