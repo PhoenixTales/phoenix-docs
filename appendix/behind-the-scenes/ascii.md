@@ -241,23 +241,23 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                                                                          ':!:'  
                                                                                        !v:;||s/'
                                                                                   ` ,\p).    lW:
-                                         `.',~!))*r|?|/vs{C{{vl|^:'`        ``.,,S)^!, `',   |W.
-                                  ,!//  X"              |jCvlr!.oSdOa{svx{//?r'  ``   `.''   ^j 
+                                         `.',~!))*r|?|/vs{C((vl|^:'`        ``.,,S)^!, `',   |W.
+                                  ,!//  X"              |jCvlr!.oSdOa(svx(//?r'  ``   `.''   ^j 
                                ':  ```                  '>|!:`    :uEu|^l^`           `      \r 
                              , )                          ',::'   `:``...:?                `/|  
                            '   :e                            `,L   `',!vu'   ''`          !6;   
                          `*,`dQ                            ,,?R'   .'       ' `.````    '4u'    
-                        `|'{E|   '.'''.'',. ``              rK!  ,`',,'    `' ..      ;o6r      
+                        `|'(E|   '.'''.'',. ``              rK!  ,`',,'    `' ..      ;o6r      
                        '|`` '* ,,::`       ',.'            '$: ','.''''.    ```    ,vOD/.       
                     `:v`   ,   ::.           ~,'       `   ",`,.,:''.``         '\ax!`          
                  .;/ev EHW'    !``           .!'           . ."! ,'`          ^aO7,             
                'zu           ``,`,           :,.     `    `  *vLL,         .lXa*`               
-              ,dQQy 'y  s`  :  .,`,       ,|;',   !     `"  `|z{?`       '>jL,                  
+              ,dQQy 'y  s`  :  .,`,       ,|;',   !     `"  `|z(?`       '>jL,                  
              ;gd`:Bu,@g' q@, !   '``:r   r|,.'      `;`C'  `' `'`     `;z|`                     
-            :E:ge'B8C `y. `{$Oe`   ``````.,      `v   `'`.``'`      ,r?;.                       
+            :E:ge'B8C `y. `($Oe`   ``````.,      `v   `'`.``'`      ,r?;.                       
            .S@:#QQOu6SQ#^.*vCvr>|!`,,,,                   ```    ,::.                           
            '?!,.:,!!!>jL?Cxzzv77vC/,          !      `,,`      `:'                              
-               Cj?,?{rwL7jjs|?*r^rr, `   ``   `   '   ',     ``                                 
+               Cj?,?(rwL7jjs|?*r^rr, `   ``   `   '   ',     ``                                 
                 ,:^,.'C6eC^,.  `  `',` ``     ,`  `` ```    ``                                  
               '::'.` /upu,`                        `` `.`                                       
               `,",.` `/js,              ```....`` ``' ^!'`                                      
@@ -272,17 +272,17 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
          `:!rs/Qg' ;D#Xr`  `     '`    `       ,       !          `                             
         .. `,``e@E` C6S!`         .````', `            !,   '     .                             
        ,`|jvvL,.)4: ,!'     `     ```         ,          `   '' `,.                             
-          :^)s{L.:/,                `` '      : "         *.    ````                            
+          :^)s(L.:/,                `` '      : "         *.    ````                            
               `jw>?r`        `   ``.`.'''     ~ '        `*\     `                              
-          {d.  `rHEo/'        `.``''`.'"      ' ,,           l`   `                             
+          (d.  `rHEo/'        `.``''`.'"      ' ,,           l`   `                             
           SB?`  ,|yaSo:       '`.'>;'..!         '                '`                            
           O! .  `">lHge!`     "`  :?:' ^`        `            j%r. `                            
-          ^'v;'   ':?{O$>`     l```'```   `' ,   ,,,    !     ywzL:`                            
+          ^'v;'   ':?(O$>`     l```'```   `' ,   ,,,    !     ywzL:`                            
            jO"`    `''?aj|:    O'` ,` .'`',  .,,:!!,          aC   `                            
              ,      `` .:>|'   H:','.'"'.','',''`r^!:!,     u`  : '                             
             j'    `      `,"`  p,   :::~  ,!!!:`                C?                              
            d#.  ` `       `.`  a.   ::,,`'!                     \ '.                            
-        `  {',   ,~,`          j,   ,~:.`,?  :               ^`   ,``                           
+        `  (',   ,~,`          j,   ,~:.`,?  :               ^`   ,``                           
                   .,           z! ` ',~   ~  :                    :``                           
             q`  '` ``          vr   .'",:'`  .                    !``                           
             E,  '   `. !` `,`  C?   ','.'"  `                     ,`.`                          
@@ -588,8 +588,8 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                             *:                   /9nf_o a/                                      
                                   ./               `.`   .                c'                    
                               '                   `v~h.  v'                                     
-                              C                     :y}  .                                      
-                              }                          v'                                     
+                              C                     :y)  .                                      
+                              )                          v'                                     
                             f;.          y:     'z|e     .                                      
                                          :.      '..                                            
                                                'nu                                              
@@ -597,7 +597,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                               v                                                 
                                         y_ y^    ._                                             
                                     .            ;f                                             
-                                   :}                                                           
+                                   :)                                                           
                                                                                                 
                    't                                                                           
                     .                                                                           
@@ -605,18 +605,18 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                                 /C                                              
                                                l                                                
                                                  . . ..                                         
-                                                ,s;e:3} '                                       
+                                                ,s;e:3) '                                       
                                                      .' f'                                      
                                                      /C                                         
                _l                         v; v:    `*.~b_   e:                                  
-               .`                         . }~      .  ,    a:                                  
+               .`                         . )~      .  ,    a:                                  
                                            vE/   :e      vE~.  e                                
                                            'h;    .     *:E~   .                                
                                          y^ u!   ,8d~Od  *_ Xq:`                                
                                         `_., u;  'l .sO    :_. C`                               
                                         yn:q|     ._!e.':z'CRv.uy                               
-                                        TQ=}C_    :MQ=^dX^ z;9r                                 
-            =.                          :OW|'}:    :~Tqd=. _.$|                                 
+                                        TQ=)C_    :MQ=^dX^ z;9r                                 
+            =.                          :OW|'):    :~Tqd=. _.$|                                 
             .                           |f~  .vz   ;p8CX~ u~ ;.                                 
           bt                             .    .`   _y;CE/C=$t   pVa                             
           '.                                   :e   . =O~e:_'btCrq`                             
@@ -629,7 +629,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                        s,                 `v:  = .:td3nT~  r_'vo..                              
                                            .       ..|bC_ !.  '`                                
                                                       ~uC/      _e                              
-            ~              }`                             =_ `                                  
+            ~              )`                             =_ `                                  
                                                              f:                                 
                    .                                                                            
                   :z                                                                            
@@ -664,9 +664,9 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                            .                                          `    ,                    
                             t,                                     ,e                           
                             .  _a           s'                     ;o                           
-                                 :v  '}:                         .              v               
+                                 :v  '):                         .              v               
                                   ,s                      .     'v                              
-                                                 ,}       o_                                    
+                                                 ,)       o_                                    
                              v_                            y,                                   
                              .                             `                                    
                                                l                                                
@@ -907,7 +907,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                        .                  x:                                    
           v_                                            3_n^                                    
           .                                         _py ` '.                                    
-                                            },   ~8'~U+O4~p=    .`                              
+                                            ),   ~8'~U+O4~p=    .`                              
                                            '.    _bn_.   9B|,'  |C                              
                                            y~     :~KC//\U^ uNr rb                              
                                                  ^E  =MM@+   VH^Rh                              
@@ -921,9 +921,9 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
         `                                  .        .       `                                   
         u/                                 v'      _x       e_                                  
         '.                                 en: xy3xennv     .                                   
-        x;                             }:cyVdue````~Va/o:                                       
+        x;                             ):cyVdue````~Va/o:                                       
         '                              '3qCTV~`,*:3f~v:uyy:                                     
-         C^                             yh~'au: ._V} . ```                                      
+         C^                             yh~'au: ._V) . ```                                      
                                           v:oo,.  ;nt                                           
                                           c:s: t  _z                                            
                                                f`                                               
@@ -974,7 +974,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                           .>.     ./vt`s-~.                                     
                                           cx.  .+ ^s   '                                        
                                      `r';.'`    . .~*                                           
-                   sM          ./     .       >_}   .                                           
+                   sM          ./     .       >_)   .                                           
                    ._                         . .                                               
                                                   ._'                                           
                                                   .*r                                           
@@ -1012,13 +1012,13 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
        +`         ._                                 .>                                         
        +r'         _z> a_;'                    .      'r`                                       
        .!'         ;   t-                      t. '=.                                           
-       ;'                ~-                .   y}`;y*   ......                                  
-                  .        .           +- rc. .ffaeo*`. !}cfxe'>'.                              
+       ;'                ~-                .   y)`;y*   ......                                  
+                  .        .           +- rc. .ffaeo*`. !)cfxe'>'.                              
                  .!       _^:           r'e_  rx3y3f\n*    *_   ns                              
        '`        .=/   /  ;`.       :es`.!C; =:''''..'\s`  .    `.                              
-       >:         ..       r'r'      '-.}/'  ..t!-fs _f'cv'    ~=                               
-       !_              r'  =rs`      'y4+.   cye\s'~z_} ``r`   >}>                              
-       .s;                 ..         `a\ so_`zzae _o}efe}s.                                    
+       >:         ..       r'r'      '-.)/'  ..t!-fs _f'cv'    ~=                               
+       !_              r'  =rs`      'y4+.   cye\s'~z_) ``r`   >)>                              
+       .s;                 ..         `a\ so_`zzae _o)efe)s.                                    
         >'                '..          rC4;z_.sr'on.~a+                                         
        .t_              ~_!;r.          sa_x~fx .-f>4s                                          
        -.            .     t:  .'..     r' tfxn:t:souc                                          
@@ -1043,10 +1043,10 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                 '>                                                                              
                  .           t'                                             >.                  
                          r'*-.                                       \z     ss'                 
-             rf        re//'                                  *3  .~  `     `z}};               
+             rf        re//'                                  *3  .~  `     `z));               
           =y:.`;        .                                     .'             .'xs               
          *-    _*        >`    .;   '`.   ~.            .                       -f\             
-               -t        ss`     .^_uz}`            .  .z;          ....                        
+               -t        ss`     .^_uz)`            .  .z;          ....                        
                            r`  .`  '+ `t/          -~ .ru_         'zaeo=.                      
                                _c     ~zb\              >-    r:      ;nz`                      
                           t-+>. .       .>'  v-;          =a:          '.                       
@@ -1085,9 +1085,9 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                       . r' ^  .           ' >r=-=.. ,>  .!l:. /.                                
                       f/      +           =_   *'sl     *czxo-                                  
                       .     ^'.^          . r'!,t=      .....  t=                               
-                            .           =,=x/}~'r;a= ./ =' l,  ._+                              
+                            .           =,=x/)~'r;a= ./ =' l,  ._+                              
                                          >'. `  . ';=`>    .  =',l                              
-                                    'lv}'}_    ,*'~ .          !                                
+                                    'lv)')_    ,*'~ .          !                                
        ~`    `               /'.     .l'^.     . .                                              
              ~.            ~:. r/              l.^                                              
             !.              ;+`               .;                                                
@@ -1117,15 +1117,15 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                               +      `t`         .    .                                         
                                                 '!   -t   .                                     
                    `r^~_  ~.             .. .      ..:r..=s-...                                 
-                                         la,s,    `=*>:}lvjjjvc`                                
+                                         la,s,    `=*>:)lvjjjvc`                                
                                          .` .      . 'rvcjfzl-.                                 
                                                        .=e;vev'                                 
                                    ,l'=.       *         r'*x;                                  
             ~'                    .!:+.=:      ac>                                              
             .                        ,r:       _=-!c>                                           
          *'       :l.               'la_                                                        
-                 `j}!              .,rz:                          ..   .                        
-                                  `s*                 .      . . .+l..,}' .                     
+                 `j)!              .,rz:                          ..   .                        
+                                  `s*                 .      . . .+l..,)' .                     
              ^'                   'v*           `+   'r   !` r`rl  '==   tz'                    
                    _~              ,!            . 'r        >f_`_       .`                     
                    ..    ;        :r              `l.        .. /n         ='                   
@@ -1178,12 +1178,12 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
           yr.3_                                 :r    `v,                                       
           ta,`                                    .                                             
              t`.                                 _o'. `.                                        
-              `xl .'                      }n\ `  `ays/V8;                                       
+              `xl .'                      )n\ `  `ays/V8;                                       
               n   ~e                       na:c     'e\9:                                       
               ,                          v,y_        ~l` of'                                    
                                          s,.    :l    `  yn: lnT                                
-                                              v}:}~C     ',3;.`'                                
-        y~                                    .` ..rz      `}:                                  
+                                              v):)~C     ',3;.`'                                
+        y~                                    .` ..rz      `):                                  
          o_                               9^'                 .                                 
                                             d~    .           v:                                
                                              . . ,r      '. .                                   
@@ -1203,7 +1203,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                     .                                                           
                                                             `  c:*                              
                   `                                         c:                                  
-                 '}                                                                             
+                 ')                                                                             
                                                                                                 
                                                                                                 
                                                                                                 
@@ -1252,7 +1252,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
                                                                                                 
                                                                                                 
                                                                                                 
-                                                           !}'    .         |'                  
+                                                           !)'    .         |'                  
                                &                               I'   '+ '   /`='                 
                                                                       't.    +`                 
                                                                                                 
@@ -1326,7 +1326,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
               _r   '=       .               |t'                 /o      r'_`. ;'                
                ;   `s~'.   'a~^                         _.                .=*..                 
                     '-I*` cofsv. ,r` .   .     .                  .   .   , ^_~`  .             
-                     'l' ~v-=t+^'r_}_v   +`   rv                 ./  `;      ~,^ :c             
+                     'l' ~v-=t+^'r_)_v   +`   rv                 ./  `;      ~,^ :c             
                           ' ''= 'IIe*;ft.    ranc  '~           ,|..           .!'|             
                                  _fea+`.   ^cfx'. `/            :+                              
                                   ._*.     ....                                                 
