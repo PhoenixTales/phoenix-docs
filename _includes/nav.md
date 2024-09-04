@@ -10,7 +10,7 @@
 ## I. [Vision](/vision/vision)
 
 1. [Vision of Gothic](/vision/vision-of-gothic)
-2. [Gothic (re)defined](/vision/gothic-defined)
+2. [Gothic defined](/vision/gothic-defined)
 3. A Clash of Dreams
 4. Phoenix Rising
 5. Artdesign Notes
@@ -108,11 +108,12 @@
 		4. Plot Logic
 4. Guild Plots
 	1. Act I 
-		* The Way of Power
-		* Fate of the Gladiator
-		* Life for the Temple
-		* A Shadow in the Crowd
-		* Red Blood on blue Scarves
+		* The Way of Power <!-- Grd, OC or Fighter in general -->
+		<!-- * Fate of the Gladiator // Merc/NC --> 
+		<!-- * Life for the Temple // Tpl/Psi -->
+		<!-- * A Shadow in the Crowd // -->
+		* In Shadows and Blood <!-- Thief General --> 
+		<!-- * Red Blood on blue Scarves // Org -->
 		* Path to Awakening
 		* Way of the Arcane
 		* Friends of Freedom
