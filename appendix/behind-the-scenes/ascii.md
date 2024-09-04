@@ -118,7 +118,7 @@
 
 I generated the Phoenix ASCII with an online tool, since I couldn't see me doing that by hand. This uncolourised version was looking like this: 
 
-![Original-to-ASCII-comparison](/appendix/behind-the-scenes/ascii/phnx-ascii-comparison.gif)
+![ASCII Phoenix](/appendix/behind-the-scenes/ascii/phnx-ascii.png)
 
 For everything else I will just quote our conversation. No need to retell what you can read first hand (or first fingertips in that case). I was just finishing the design, showing it to Avallach and asking if he would be able to help me with the colouration.  
 
