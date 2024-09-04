@@ -53,3 +53,6 @@ Being "story-driven" in this sense of the term is also a necessary consequence o
 In a game where everything happens "in real time", but only if the player is ready for it to happen, realtime is a mere illusion; it is realtime only in a mechanical, gameplay related perspective as opposed to "round-based". But the story is *not* realtime. Instead of the story unfolding in "real" (play) time, it unfolds by the player "unlocking" every bit of story one single bit at a time at will. 
 
 Neither the story nor we as the story-authors, nor the other characters nor the demonic threat lurking deep below do nor should care for the will and convenience of the player, nor do we ask the question, if it is convenient for him right now that an assassin is send against him or that the camp is being attacked and so on.  
+
+*Pathologic* and *This War of Mine* are examples for games with a similar approach to story-telling. 
+{: .subtext }
