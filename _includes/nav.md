@@ -1,6 +1,6 @@
 # Phoenix Concept
 
-<a href="/"><img src="/_img/phnx.png"></a>
+<a href="/"><img src="/_img/phnx2.png"></a>
 
 ## Index
 
