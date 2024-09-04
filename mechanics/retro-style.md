@@ -11,8 +11,8 @@ All the options in question can also be set independently and combined different
 * IconHud
 * Pixelation (factor 4)
 * Texture Warping (maybe, mild)
-* RetroLoot
-* RetroPrints
+* [RetroLoot](#retroloot)
+* [RetroPrints](#retroprints)
 
 
 ## RetroLoot
