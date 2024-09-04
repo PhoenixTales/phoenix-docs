@@ -52,6 +52,8 @@
     color: var(--blood); 
     font-weight: normal;
     text-align: center;
+    padding: 0.5em 0;
+    margin-top: 2em;
   }
 
   main > img {
