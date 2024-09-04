@@ -1,72 +1,6 @@
- <style type="text/css">
-  
-  @import url("https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono|Ubuntu+Mono|Cutive+Mono");
-  
-  :root {
-    --blood: #934a46;
-    --text: #ad9e8a;
-  }
+# Design of the ASCII Art
 
-  pre {
-    display: block;
-    overflow-x: hidden;
-    border: none;
-  }
-
-  hr {
-    border-top: 1px dashed;
-  }
-
-  main {
-    color: var(--text);
-    font-size: 16px;
-    line-height: 1.6;
-    font-family: 'Ubuntu Mono', monospace !important;
-  }
-
-  main .logo {
-    font-size: 8px;
-    text-align: center;
-    text-rendering: optimizeSpeed;
-    color: #844d44;
-    line-height: 8px;
-  }
-    main .logo a:hover { color: #1dd588; }
-
-  @media (max-width: 900px) {
-    main. .logo {
-      font-size: 7px;
-      line-height: 7px;
-    }
-  }
-
-  .unchanged-ascii {
-    font-size: 7px;
-    text-align: center;
-    font-family: 'Ubuntu Mono', monospace !important;
-    text-rendering: optimizeSpeed;
-  }
-
-  .chaos-ascii { font-size: 8px; }
-
-  main h1, main h2, main h3, .blood { 
-    color: var(--blood); 
-    font-weight: normal;
-    text-align: center;
-    padding: 0.5em 0;
-    margin-top: 2em;
-  }
-
-  main > img {
-    display: block;
-    max-width: 100%;
-    margin: inherit auto;
-    width: 50%;
-  }
-
-</style>
- 
- <pre class="logo">
+<pre class="logo">
     <a href="https://phoenixtales.de">                      
                       ,.                                                                           
                      ,aBV                                                                           
@@ -103,9 +37,6 @@
            ;'            .`                                                                         
                                                                                                     
                                                                                            </a></pre>
-
-
-# Design of the ASCII Art
 
 
 **Authors:** *Flosha* & *Avallach*  
@@ -1344,3 +1275,70 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
 Avallach put the colourised ASCII into a .svg in order to prevent having all that code on our page. But if you want to see how the final 12 layers look like, just rightclick and take a look at the sourcecode.  
 
 
+<style type="text/css">
+  
+  @import url("https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono|Ubuntu+Mono|Cutive+Mono");
+  
+  :root {
+    --blood: #934a46;
+    --text: #ad9e8a;
+  }
+
+  pre {
+    display: block;
+    overflow-x: hidden;
+    border: none;
+  }
+
+  hr {
+    border-top: 1px dashed;
+  }
+
+  main {
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.6;
+    font-family: 'Ubuntu Mono', monospace !important;
+  }
+
+  main .logo {
+    font-size: 8px;
+    text-align: center;
+    text-rendering: optimizeSpeed;
+    color: #844d44;
+    line-height: 8px;
+  }
+    main .logo a:hover { color: #1dd588; }
+
+  @media (max-width: 900px) {
+    main. .logo {
+      font-size: 7px;
+      line-height: 7px;
+    }
+  }
+
+  .unchanged-ascii {
+    font-size: 7px;
+    text-align: center;
+    font-family: 'Ubuntu Mono', monospace !important;
+    text-rendering: optimizeSpeed;
+  }
+
+  .chaos-ascii { font-size: 8px; }
+
+  main h1, main h2, main h3, .blood { 
+    color: var(--blood); 
+    font-weight: normal;
+    text-align: center;
+    padding: 0.5em 0;
+    margin-top: 2em;
+  }
+
+  main > img {
+    display: block;
+    max-width: 100%;
+    margin: inherit auto;
+    width: 50%;
+  }
+
+</style>
