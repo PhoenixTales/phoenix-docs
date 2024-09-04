@@ -1,4 +1,4 @@
-<span style="header">/ Phoenix Concept</span>
+<span style="header">/ Phoenix.doc</span>
 
 <a href="/"><img src="/_img/phnx2.png"></a>
 
@@ -126,7 +126,7 @@
 				5. DemonCamp
 
 
-### Appendix
+## Appendix
 
 1. Promotion
 	1. [Media](/promo/media)
@@ -155,8 +155,19 @@
 </p>
 
 <style>
+	@font-face {
+		font-family: "IBM VGA 8x16";
+		src: url("/_img/fonts/ibm-vga/ibm-vga-8x16.woff") format('woff');
+		font-weight: normal;
+		font-style: normal;
+		font-display: block;
+		font-size: 16px;
+	}
+
 	.header { 
 		font-family: "IBM VGA 8x16"; 
   		text-transform: uppercase;
+		font-size: 16px;
+		margin: 1em;
 	}
 </style>
