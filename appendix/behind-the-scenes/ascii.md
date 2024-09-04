@@ -2,13 +2,6 @@
   
   @import url("https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono|Ubuntu+Mono|Cutive+Mono");
   
-  .unchanged-ascii {
-  font-size: 7px;
-  text-align: center;
-  font-family: 'Ubuntu Mono', monospace !important;
-  text-rendering: optimizeSpeed;
-  }
-
   :root {
     --blood: #934a46;
     --text: #ad9e8a;
@@ -20,7 +13,16 @@
     border: none;
   }
 
-  .chaos-ascii { font-size: 8px; }
+  hr {
+    border-top: 1px dashed;
+  }
+
+  main {
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.6;
+    font-family: 'Ubuntu Mono', monospace !important;
+  }
 
   main .logo {
     font-size: 8px;
@@ -38,15 +40,14 @@
     }
   }
 
-  main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    color: var(--text);
-    font-size: 16px;
-    line-height: 1.6;
+  .unchanged-ascii {
+    font-size: 7px;
+    text-align: center;
     font-family: 'Ubuntu Mono', monospace !important;
+    text-rendering: optimizeSpeed;
   }
+
+  .chaos-ascii { font-size: 8px; }
 
   main h1, main h2, main h3, .blood { 
     color: var(--blood); 
@@ -57,10 +58,10 @@
   }
 
   main > img {
-    max-width: 100%;
-    overflow: hidden;
     display: block;
-    margin: 1em auto;
+    max-width: 100%;
+    margin: inherit auto;
+    width: 50%;
   }
 
 </style>
@@ -263,7 +264,7 @@ I want to add colour to the Phoenix. It's just quite hard to do.
 
 Upon my request, Avallach has written a little documentation, that really shows the complicated process he came up with just to fullfill my wish to colourise the Phoenix:  
 
-<p>+-----------------------------+</p>
+<hr>
 
 
 ## How Phoenix Tales colours ASCII arts
@@ -325,7 +326,6 @@ We came up with this exact procedure when preparing a coloured ascii art of the 
 2. Position the divs absolutely on the same position, so that they perfectly overlap
 3. Pick different colour for each ASCII art, except of the last one, which contains "grayscale" part
 4. Carefully tweak the colours in CSS so that overall the art has the best reassemblance to the input image
-
 
 ---
 
@@ -1439,7 +1439,7 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
 </div>
 </div>
 
-<p>+-----------------------------+</p>
+<hr>
 
 Avallach put the colourised ASCII in a <a href="/phoenix-ascii.svg">.svg</a> in order to prevent having all that code on our page. But if you want to see how the final 12 layers look like, just rightclick and take a look at the sourcecode.  
 
