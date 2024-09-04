@@ -114,7 +114,7 @@
 **Created:**: 2021-10-01   
 
 
-**Flosha:** After the creation of the latest design of this website, in which I decided to discard all images in favour of pure text and ASCII art, I told Avallach that I want to colourise the Phoenix. While the design of our team website [phoenixtales.de](https://phoenixtales.de) as well as of [gothicarchive.org](https://gothicarchive.org) and [phoenixthegame.com](https://phoenixthegame.com) was developed by me on my own, there are a few technical things that I couldn't manage to do myself. The colouration of the ASCII art is one of them, and I thought that the solution is interesting enough to tell you about.  
+**Flosha:** After the creation of the latest design of our [team website](https://phoenixtales.de), in which I decided to discard all images in favour of pure text and ASCII art, I told Avallach that I want to colourise the Phoenix. While the design of [gothicarchive.org](https://gothicarchive.org), [phoenixthegame.com](https://phoenixthegame.com) and our [documentation](/) was developed by me on my own, there are a few technical things that I couldn't manage to do myself. The colouration of the ASCII art is one of them, and I thought that the solution is interesting enough to tell you about.  
 
 I generated the Phoenix ASCII with an online tool, since I couldn't see me doing that by hand. This uncolourised version was looking like this: 
 
