@@ -1,3 +1,61 @@
+ <style type="text/css">
+  
+  @import url("https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono|Ubuntu+Mono|Cutive+Mono");
+  .unchanged-asci{
+  font-size: 7px;
+  text-align: center;
+  font-family: Ubuntu Mono, monospace !important;
+  text-rendering: optimizeSpeed;
+  }
+
+  :root {
+    --blood: #934a46;
+    --text: #ad9e8a;
+  }
+
+  pre {
+    overflow-x: hidden;
+    border: none;
+  }
+
+  .chaos-ascii { font-size: 8px; }
+
+  main .logo {
+    font-size: 8px;
+    text-align: center;
+    text-rendering: optimizeSpeed;
+    color: rgb(186, 99, 96);
+    line-height: 8px;
+  }
+    main .logo a:hover { color: #1dd588; }
+
+  @media (max-width: 900px) {
+    main. .logo {
+      font-size: 7px;
+      line-height: 7px;
+    }
+  }
+
+  main p {
+    color: var(--text);
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  main h1, main h2, main h3, .blood { 
+    color: var(--blood); 
+    font-weight: normal;
+    display: inline-block;
+  }
+
+  main > img {
+    max-width: 100%;
+    overflow: hidden;
+    display: block;
+  }
+
+</style>
+ 
  <pre class="logo">
     <a href="https://phoenixtales.de">                      
                       ,.                                                                           
@@ -36,9 +94,9 @@
                                                                                                     
                                                                                            </a></pre>
 <pre>
-  +------------------------------+
+  +--------------------------------+
   | <span class="blood"># Behind the ASCII Colouration</span> |
-  +------------------------------+
+  +--------------------------------+
 </pre>
 
 
@@ -49,50 +107,6 @@
 **Flosha:** After the creation of the latest design of this website, in which I decided to discard all images in favour of pure text and ASCII art, I told Avallach that I want to colourise the Phoenix. While the design of our team website [phoenixtales.de](https://phoenixtales.de) as well as of [gothicarchive.org](https://gothicarchive.org) and [phoenixthegame.com](https://phoenixthegame.com) was developed by me on my own, there are a few technical things that I couldn't manage to do myself. The colouration of the ASCII art is one of them, and I thought that the solution is interesting enough to tell you about.  
 
 I generated the Phoenix ASCII with an online tool, since I couldn't see me doing that by hand. This uncolourised version was looking like this: 
-
-<style type="text/css">
-  @import url("https://fonts.googleapis.com/css?family=Inconsolata|Roboto+Mono|Ubuntu+Mono|Cutive+Mono");
-  .unchanged-asci{
-  font-size: 7px;
-  text-align: center;
-  font-family: Ubuntu Mono, monospace !important;
-  text-rendering: optimizeSpeed;
-  }
-
-  :root {
-    --blood: #934a46;
-    --text: #ad9e8a;
-  }
-
-  .chaos-ascii { font-size: 8px; }
-
-  .logo {
-    font-size: 8px;
-    text-align: center;
-    text-rendering: optimizeSpeed;
-    color: rgb(186, 99, 96);
-    line-height: 8px;
-  }
-
-  @media (max-width: 900px) {
-    .logo {
-      font-size: 7px;
-      line-height: 7px;
-    }
-  }
-
-  p {
-    color: var(--text);
-    font-size: 16px;
-    line-height: 1.6;
-  }
-
-  h1, h2, h3, .blood { 
-    color: var(--blood); 
-    font-weight: normal;
-  }
-
-</style>
 
 <div>
   <pre style="font-size: 9px; font-family: monospace; background-color: rgb(0, 0, 0); color: rgb(173, 158, 138); line-height: 9px;">                                                                                                                                                                                                                                                                           
