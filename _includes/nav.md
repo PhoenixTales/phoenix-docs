@@ -167,8 +167,13 @@
 <!-- Physical Print -->
 </p>
 
-<!--
 <style>
+
+	nav img {
+		image-rendering: pixelated;
+	}
+
+/*
 	.header { 
 		font-family: "IBM VGA 8x16"; 
   		text-transform: uppercase;
@@ -183,7 +188,6 @@
 	and (max-width : 820px) {
 	
 	/* HIDE HEADING due to inclusion in menu button */
-		.header { display: none; }
-	}
+	/*		.header { display: none; }
+	} */
 </style>
--->

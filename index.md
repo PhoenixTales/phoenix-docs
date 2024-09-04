@@ -1,8 +1,7 @@
----
-layout: intro
----
-
 # Introduction
+
+<img class="phnx-mask" src="/_img/phnx-mask-v07-retro.png">
+<img class="logo" src="/_img/headings/designdocs2.png">
 
 *Welcome to the desert of the ideal.*  
 
@@ -77,3 +76,50 @@ Please note that [Phoenix](https://phoenixthegame.com), the Phoenix Documentatio
 * [phoenixtales.de](https://phoenixtales.de)
 * [phoenixthegame.com](https://phoenixthegame.com)
 * [gothicarchive.org](https://gothicarchive.org)
+
+
+<style>
+
+   main {
+      background: url("/_img/bg/workbg.jpg");
+      background-position: top right;
+      background-size: 70%;
+      background-repeat: no-repeat;
+      width: 100%;
+   }
+      main article {
+         padding-top: 500px;
+      }
+         main .article h1 {
+            font-size: 20px;
+         }
+
+   .logo {
+      display: block;
+      image-rendering: pixelated;
+      max-height: 400px;
+      max-width: 100%;
+      margin: 0 auto 2em;
+   } 
+
+   .phnx-mask {
+      display: block;
+      image-rendering: pixelated;
+      margin: 0 auto;
+      padding-top: 2em;
+      width: 450px;
+   }
+
+   @media only screen
+   and (max-width : 820px) {
+
+      main {
+         background: none;
+      }
+
+      .phnx-mask {
+         width: 100%;
+         margin: 3em auto 0;
+      }
+   }
+</style>

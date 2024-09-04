@@ -111,6 +111,7 @@ nav {
 
 nav img {
   display: block;
+  image-rendering: pixelated;
   width: 90%;
   margin: 20px auto 0;
   transition: all 0.3s ease-out;
@@ -360,14 +361,6 @@ hr {
   max-width: 100%;
 }
 
-.phnx-mask {
-  display: block;
-  margin: 0 auto;
-  padding-top: 2em;
-  width: 450px;
-  image-rendering: pixelated;
-}
-
 .promo-graphics {
   background: var(--dark);
   width: 100%; 
@@ -444,30 +437,7 @@ hr {
 
 /* CUSTOM BACKGROUNDS -> add CSS directly into the layout htmls? */
 
-.intro {
-  /* position: absolute // test to fix footer and overflow */
-  background: url("/_img/bg/workbg.jpg");
-  background-position: top right;
-  background-size: 70%;
-  background-repeat: no-repeat;
-  width: 100%;
-}
-  .intro article {
-    padding-top: 500px;
-  }
 
-  .intro .article h1 {
-    font-size: 20px;
-  }
-
-  .logo {
-    image-rendering: pixelated;
-    display: block;
-    max-height: 400px;
-    max-width: 100%;
-    
-    margin: 0 auto 2em;
-  } 
 
 .prophetess {
     image-rendering: pixelated;
@@ -646,10 +616,6 @@ and (max-width : 820px) {
     padding: 0;
   }
 
-  .intro {
-    background: none;
-  }
-
   nav {
     position: absolute;
     width: 100%;
@@ -669,12 +635,6 @@ and (max-width : 820px) {
   nav img {
     display: none;
   }
-
-  .phnx-mask {
-    width: 100%;
-    margin: 3em auto 0;
-  }
-
 
   .setting {
     margin-top: 2em;
