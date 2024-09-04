@@ -83,3 +83,8 @@ But there was always one thing about the Nyx logo that I think was just not look
 
 Now the Y with the blood and the triangle (and fire) show the struggle, the sacrifice, the anarchy at the surface, while the N serves as a representation of the underworld and the demonic threat below. And while the Y stands for the sceptre and the "sacrifical bowl" and the summoning spikes and so forth, the N stands for the portal to the ancient temple as seen in the OrcCity with this very form, as it will be unsealed in course of the story. There is room in the middle of both letters and they are roughly the same size - just as in Phoenix, the underworld is supposed to be about 50% of the game. Thus, I think, the current version of the logo represents the project the best and contains the most symbolic meaning. 
 
+
+<style>
+    h1 { font-size: 20px; }
+
+</style>
