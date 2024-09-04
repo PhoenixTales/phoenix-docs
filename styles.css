@@ -628,6 +628,12 @@ and (max-width : 820px) {
   /* HIDE HEADING due to inclusion in menu button */
   nav .header span { display: none; }
 
+  nav .header {
+    position: absolute;
+    right: 0;
+    margin: 1em;
+  }
+
   .menu-title {
     font-family: "IBM VGA 8x16", monospace;
   }
