@@ -136,7 +136,6 @@ nav .header {
   text-transform: uppercase;
 
   position: flex;
-  flex-wrap: wrap;
   justify-content: space-between;
 }
   nav .header ul {
