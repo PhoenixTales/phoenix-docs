@@ -4,14 +4,16 @@
 
 ## Index
 
+* [Introduction](/)
+<!-- * [About the Author] -->
+
 1. [Vision](/vision/vision)
-	1. [Introduction](/)
-	2. [Vision of Gothic](/vision/vision-of-gothic)
-    3. [Gothic (re)defined](/vision/gothic-defined)
-	4. A Clash of Dreams
-	5. Phoenix Rising
-	6. Artdesign Notes
-	7. [Reconstruction](/vision/reconstruction)
+	1. [Vision of Gothic](/vision/vision-of-gothic)
+    2. [Gothic (re)defined](/vision/gothic-defined)
+	3. A Clash of Dreams
+	4. Phoenix Rising
+	5. Artdesign Notes
+	6. [Reconstruction](/vision/reconstruction)
 2. [Mechanics](/mechanics/mechanics)
 	1. Classes
 	2. Attributes
