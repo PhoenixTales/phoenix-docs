@@ -674,7 +674,6 @@ and (max-width : 820px) {
 
   /* HIDE HEADING due to inclusion in menu button */
   nav .header span { display: none; }
-  }
 
   .menu-title {
     font-family: "IBM VGA 8x16", monospace;
