@@ -1342,6 +1342,6 @@ And for your imagination: These are all the signs of the 12 layers if we do not 
 
 <hr>
 
-Avallach put the colourised ASCII in a <a href="/phoenix-ascii.svg">.svg</a> in order to prevent having all that code on our page. But if you want to see how the final 12 layers look like, just rightclick and take a look at the sourcecode.  
+Avallach put the colourised ASCII into a .svg in order to prevent having all that code on our page. But if you want to see how the final 12 layers look like, just rightclick and take a look at the sourcecode.  
 
 
