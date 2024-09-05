@@ -420,7 +420,7 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
     }
 
     main {
-        background: url('/appendix/behind-the-scenes/rescue-of-design/bg.jpg') top center / 100% no-repeat #000;
+        background: url('/appendix/behind-the-scenes/rescue-of-design/bg.jpg') top center / 80% no-repeat #000;
     }
         main .article h1 {
                 font-size: 20px;
