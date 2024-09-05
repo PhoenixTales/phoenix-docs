@@ -1,7 +1,6 @@
 # Mechanics
 
-![Nyx Ascii](/_img/nyxascii.png)
-{: .ascii }
+<img class="nyx-ascii" src="/_img/nyxascii.png">
 
 **Author:** *Flosha*  
 **Created:** 22.11.2022  
@@ -40,7 +39,7 @@ Classes, Attributes, Skills, modes of interaction, experience, attitudes, interf
 
 <style>
 
-    .ascii {
+    .nyx-ascii {
         display: block;
         image-rendering: pixelated;
         max-height: 500px;
