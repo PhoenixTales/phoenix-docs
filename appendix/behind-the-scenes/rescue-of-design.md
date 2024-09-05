@@ -436,7 +436,7 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
         font-family: monospace;
         font-size: 14px;
     }
-
+/*
     .left {
         float: left; 
         padding-right: 20px;
@@ -448,7 +448,7 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
         padding: 0 0 30px 20px;
         max-width: 220px;
     }
-
+*/
     .caption {
         margin: 0em 1em 2em;
         color:#55504a;
