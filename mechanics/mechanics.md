@@ -21,22 +21,47 @@ Classes, Attributes, Skills, modes of interaction, experience, attitudes, interf
     1. [Alpha Attributes](/mechanics/attributes-alpha)
     2. [Phoenix Attributes](/mechanics/attributes-phoenix)
 4. Skills
-5. Modes of Interaction
+    1. Movement Skills
+    2. Combat Skills
+    3. Thief Skills
+    4. Magic Skills
+    5. Psi Skills
+    6. Crafting Skills
+5. HUD
+6. Modes of Interaction (Interface)
     1. Exploration Mode
-        1. Item Handling
-        2. Inventory
-        3. Object Interaction
+        1. Controls
+            1. Walk/Run/Sprint
+            2. Crouch/Rob
+            3. Jump/Climb
+            4. Swim/Dive
+        2. Item Handling
+        3. Inventory
+        4. Object Interaction
+            1. Pushing/Pulling
+            2. Object Destruction
+        5. Puzzles
     2. Combat Mode
     3. Stealth Mode
     4. Magic Mode
     5. Dialogue Mode
     6. Crafting Mode
-    7. Trading Mode
-6. Experience or "Arts"
+    7. [Trading Mode](/mechanics/trading)
+    8. Roleplaying (Char Sheet)
+6. Experience / Arts
 7. Relations
-8. Interface
-9. Events
-10. AI Functions 
+8. External Menus
+    1. Main Menu
+    2. Settings Menu
+9. Customization
+    1. [RetroStyle](/mechanics/retro-style)
+10. Story Events
+11. NPC Behaviour
+    1. Social Structure
+    2. Spreading of Information
+    3. Daily Routines
+    4. Chance Estimation
+12. [Playmodes](/mechanics/playmodes)
 
 
 <style>
