@@ -1,4 +1,4 @@
-# Mechanics
+# Game Mechanics
 
 <img class="nyx-ascii" src="/_img/nyxascii.png">
 
@@ -7,7 +7,9 @@
 **Changed:** 25.08.2024  
 
 In this section of the concept we will deal with how to translate the *vision* into gameplay; how the player can play and how to design the underlying systems enabling this play, to bring our ideas into life through code.  
+
 We will summarise and explain the possibilities of interaction between the player and his character, between the player character and other characters and between characters and the game world.  
+
 Classes, Attributes, Skills, modes of interaction, experience, attitudes, interface, character progression and so on. The mechanics are the technical frame and the "rules" of the game within which the story takes place. 
 
 
@@ -42,9 +44,12 @@ Classes, Attributes, Skills, modes of interaction, experience, attitudes, interf
     .nyx-ascii {
         display: block;
         image-rendering: pixelated;
-        max-height: 500px;
+        max-height: 550px;
         max-width: 100%;
-        margin: 0 auto 1em;
+        margin: -2em auto;
     }
+        main .article h1 {
+            font-size: 22px;
+        }
 
 </style>
