@@ -199,7 +199,7 @@
 			4. Phoenix Logo Design
 			5. Behind the Mask
 	4. Essays
-		1. Phoenix & the Rescue of Design
+		1. [The Rescue of Design](/appendix/behind-the-scenes/rescue-of-design)
 		2. Behind the Eyes of Elliot
 		3. Art and the Demonic Threat 
 		4. The Return of the Design
