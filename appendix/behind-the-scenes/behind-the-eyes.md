@@ -131,7 +131,7 @@ And as soon as he recognises himself as this - what is beyond the screen of the 
     
 A metaphor for the dream we all live in without realising it, because we identify ourselves with the content of the screen or the screen itself, while what we really are may lay beyond, hidden by ourselves to protect us, to conceal something from us that we are not ready to see. This is beauty. This is art. And this is what you can do by using perspectives consciously. As we try with our story around the magical barrier and the sleeping demon deep below.
     
-This moment of being inside Elliot in first person instead of being an unconscious part of his personality (for him) somewhere inside his head that is witnessing him in third, is the last scene of the whole work. Here, first person has a meaning. It wouldn’t have, if frequently used before, nor would you have been able to feel with him like you do.
+This moment of being inside Elliot in first person instead of being an unconscious part of his personality (for him) somewhere inside his head that is witnessing him in third, is the last scene of the whole work. Here, first person has a meaning. It wouldn’t have, if randomly used before, nor would you have been able to feel with him like you do.
     
 And in this first person realisation, in this last scene, his sister Darlene comes close to him. She looks at him and recognises the change right away. And as if she knew (since she does) that she is speaking to someone else now, she says: …
     
