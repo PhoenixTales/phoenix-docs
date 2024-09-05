@@ -10,13 +10,6 @@
 ## Or Behind the Eyes of Elliot
 ```
 
-[![Unser Phoenix als Logo von PhoenixTales](/appendix/behind-the-scenes/rescue-of-design/phoenix.png)](https://phoenixtales.de)
-{: .right }    
-
-
-![Tom Putzki](/appendix/behind-the-scenes/rescue-of-design/tomputzki.png) 
-{: .left }
-
 **Preface:** This essay I started to write after a dialogue about the right camera angle(s) to use and it was first meant as an article for our Phoenix documentation. I began with a comparison of the third person perspective in games with behind-the-back tracking shots in movies, but from there it evolved into more of a philosophical reflection. It may be obvious for you that we use third person in our project, but in our documents we also attempt to show *why* we do what we do. Why third person? Why may it be better for our purpose of making a radical immersive game?
 
 ---
