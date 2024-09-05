@@ -394,8 +394,7 @@ Und seien es auch zittrige Hände, wie die meinen.
 
 ![Flosha](/_img/authors/flosha-sm.png)
 
-Florian aka flosha  
-15. März 2021
+Florian aka flosha - 15. März 2021
 
 <a href="https://gothicarchive.org/postrelease/AJourneyToMike/index.html">Go to our Anniversary Special</a> 
 
