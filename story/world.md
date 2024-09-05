@@ -31,13 +31,17 @@ Level Structure is so abstract,  it could well be to mechanics?
 1. [Level Structure](/story/level-structure)
 -->  
 
-1. Landscape & Climate
-    1. [Evolution of the Map](/story/map-evolution)
-    2. Valley, Mountains
-    3. Sea & Island
-    4. Waterfalls, Lakes, Rivers, Hotsprings
-    5. Swamp & Coastline
-2. Flora / Vegetation
+1. World Map & Layout
+	1. [Level Structure](/story/level-structure)
+	2. [Evolution of the Map](/story/map-evolution)
+	3. Layout of the World
+2. Landscape & Climate
+    1. The Valley of Mines
+	2. Falls, Lakes, Rivers, Springs
+	3. Islands
+	4. The Swamp of Lost Souls
+    5. Sea & Coastline 
+3. Flora / Vegetation
     1. Plants & Mushrooms
     2. Forests 
         1. Northern Forest
@@ -46,7 +50,7 @@ Level Structure is so abstract,  it could well be to mechanics?
         4. Swamp Forest
         5. Demon Forest
         6. Outside Forest
-3. Fauna / Monster Design
+4. Fauna / Monster Design
     1. Mammals
         1. Molerats
         2. Wolves
@@ -73,7 +77,7 @@ Level Structure is so abstract,  it could well be to mechanics?
         5. Mushgroomer
     4. Undead
     5. Demons
-4. Locations
+5. Locations
     1. Overworld
         1. Middle of the Colony
             1. Hangman's Tree
@@ -148,60 +152,79 @@ Level Structure is so abstract,  it could well be to mechanics?
     4. Demonworld
         1. Demonic Overlays
         2. Demon Tunnels
-5. [Faction Design](/story/factions/factions)
+6. [Faction Design](/story/factions/factions)
     1. [Guilds](/story/factions/guilds-descriptions)
-        1. Folk
-            * Miners
-            * Peasants
-            * Workers
-            * Merchants
-            * Healers
-            * Beggars
-            * Auxiliaries
-        2. Magnates
-            * Orebarons/Mafia
+        1. Orpheus
+            1. Folk
+                * Miners
+                * Workers
+                * Merchants
+                * Beggars
+                * Peasants
+            2. Mafia
+                * Orebarons
                 * Thugs/Guard
                 * Snitches/Shadows
-            * Drugbarons
-            * Varantian Tradersguild
-        3. Clergy
-            * Royal Mages
-            * Circle of Fire
-            * Circle of Water
-            * Anti-Royal Monks
-        4. Royals
-            * Royal Court
-            * Paladins
-            * Royal Guard
-            * Royal Army
-        5. Law
-            * Royal Judges
-            * Inquisition
-            * Black Guard
-            * Royal Shadows
-        6. Outlaws
-            * Gladiators
-            * Organisation
-            * Anti-Royal KdW
-            * Demonhunters
-            * Bandits
-        7. Revolt
-            * Scrapers Union
-            * Silence
-        8. Heretics
-            * Psionics
-            * Mystics
-            * Demonsect
-            * Amazons
-            * Demon Summoners
-        9. Slaves
-        10. Pariahs
-            1. Possessed
-            2. Half-Orcs
-        11. Clans
-            1. Bloodearth
-            2. Dreamfire
-
+            3. Mages 
+                * Circle of Fire
+                * Circle of Water
+            4. Anti-Royal 
+                * Mercenaries
+                * Organisation
+                * Rogues
+            5. Heretics 
+                * Psionics
+                * Demon Summoner
+            6. Revolt 
+                * Scraper's Union
+                * Silence
+			7. Bloodearth Clan
+        2. Nemesis
+            1. Folk
+                * Workers
+                * Peasants
+                * Merchants
+                * Healers
+                * Beggars
+                * Auxiliaries
+            2. Magnates
+                * Orebarons
+                * Drugbarons
+                * Varantian Tradersguild
+            3. Clergy
+                * Royal Mages
+                * Circle of Fire
+                * Circle of Water
+                * Anti-Royal Monks
+            4. Royals
+                * Royal Court
+                * Paladins
+                * Royal Guard
+                * Royal Army
+            5. Law
+                * Royal Judges
+                * Inquisition
+                * Black Guard
+                * Royal Shadows
+            6. Outlaws
+                * Anti-Royal KdW
+                * Demonhunters
+                * Bandits
+            7. Revolt
+                * Scrapers Union
+                * Silence
+                * Slave Rebellion
+            8. Heretics
+                * Mystics
+                * Demonsect
+                * Amazons
+                * Demon Summoners
+            9. Pariahs
+                * Possessed
+                * Half-Orcs
+            10. Clans
+                * Bloodearth
+                * Dreamfire
 
 <style>
 

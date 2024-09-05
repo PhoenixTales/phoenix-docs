@@ -44,40 +44,67 @@
 10. [Playmodes](/mechanics/playmodes)
 
 
-## [Story](/story/story)
+<!-- ## [Story](/story/story) -->
 
-### III. [Setting](/story/setting)
+<!-- ### III. [Setting](/story/setting) -->
+
+## III. [Lore](/story/lore)
 
 1. Mythology
 2. Geography
 3. Culture
-	1. Orcish Language
 4. MetaPhysics
-5. History <!-- Timeline -->
+5. History 
 
-### IV. [World](/story/world)
 
-1. Level Design <!-- Gothic & Cosmic Horror -->
-	1. Act I - The Colony
-		1. [Level Structure](/story/level-structure)
-		2. [Evolution of the Map](/story/map-evolution)
-		3. Overworld Design <!-- Overview of Locations, Climate + Vegetation -->
-		4. Underworld Design
-	2. Act II - Colony & Outside World
-		1. The Colony Revisited  
-		2. Passes and Borders
-		3. Cursed Forest
-		4. City Design
-2. Faction Design
-	1. [Factions](/story/factions/factions)
-	2. [Colony Population](/story/factions/colony-population)
-	3. [Guilds Descriptions](/story/factions/guilds-descriptions)
-	4. [Joining Conditions](/story/factions/guilds-joining-conditions)
-	5. [Options of Defection](/story/factions/options-of-defection)
-3. Character Design
-	1. Character Descriptions
-	2. Costume Design
-4. Monster Design
+### IV. [World Design](/story/world)
+
+1. World Map & Layout
+	1. [Level Structure](/story/level-structure)
+	2. [Evolution of the Map](/story/map-evolution)
+	3. Layout of the World
+2. Landscape & Climate
+    1. The Valley of Mines
+	2. Falls, Lakes, Rivers, Springs
+	3. Islands
+	4. The Swamp of Lost Souls
+    5. Sea & Coastline 
+3. Flora / Vegetation
+    1. Plants & Mushrooms
+    2. Forests 
+4. Fauna / Monster Design
+    1. Mammals
+    2. Reptiles
+    3. Insects
+    4. Undead
+    5. Demons
+5. Locations
+    1. Overworld
+    2. Underworld
+    3. Outside World
+    4. Demonworld
+6. [Faction Design](/story/factions/factions)
+	1. [Guilds](/story/factions/guilds-descriptions)
+		1. Orpheus
+			1. Folk (BDL/BEG/BAU)
+			2. Mafia (EBR/GRD/STT)
+			3. Clergy (KDF/KDW)
+			4. Anti-Royal (SLD/ORG/BDT)
+			5. Heretics (PSI/DMB)
+			6. Revolt (SFB/MST)
+			7. Clans (BLO)
+		2. Nemesis
+			1. Folk (WRK/BEG/BAU)
+			2. Magnates (VAG)
+			3. Clergy (KDF/KDW/KDL)
+			4. Outlaws (DHT/BDT)
+			5. Royals (PAL/GRD/SLD)
+			5. Heretics (MYS/DMC/AMZ)
+			6. Revolt (MST/SLV)
+			7. Law (MGS/INQ/SGD)
+			8. Pariahs (POS/HLF)
+			9. Clans (BLO/DRE)
+
 
 ### V. Plot
 
@@ -85,28 +112,28 @@
 2. Sequel Plot
 3. Phoenix Plot 
 	1. Act I: Orpheus
-		1. Background Story
-		<!-- 1. The Revolt, 2. The Camps -->
-		2. Plot Abstract
-		3. Plot Description
+		1. Plot Abstract
+			1. Guild Progression
+				1. [Joining Conditions](/story/factions/guilds-joining-conditions)
+				2. [Options of Defection](/story/factions/options-of-defection)     
+		2. Plot Description
 			* Chapter 1: World of Convicts
 			* Chapter 2: Waves of Madness
 			* Chapter 3: Underground City
 			* Chapter 4: War of Mines
 			* Chapter 5: Ancient Temple
 			* Chapter 6: Bloodnight
-		4. Plot Logic
-	2. Act II: Nemesis
-		1. Background (Act I-II)
-		2. Plot Abstract
-		3. Plot Description
+		3. Plot Logic
+	2. Act II: Nemesis - Background (Act I-II)
+		1. Plot Abstract
+		2. Plot Description
 			* Chapter 7: Return to Prison
 			* Chapter 8: Ruins of the City
 			* Chapter 9: Of Ore and Blood
 			* Chapter 10: A fallen Empire
 			* Chapter 11: Rain in Revolt
 			* Chapter 12: Sacrifice of Freedom
-		4. Plot Logic
+		3. Plot Logic
 4. Guild Plots
 	1. Act I 
 		* The Way of Power <!-- Grd, OC or Fighter in general -->
@@ -125,6 +152,9 @@
 		* Against the Vessels of Pain
 		* Heresy and Treason
 5. Relation System
+	1. [Population]
+		1. [Colony Population](/story/factions/colony-population)	
+		2. City Population
 6. Missions
 	1. Act I Missions
 		1. OldCamp
