@@ -158,10 +158,15 @@ Florian aka flosha - March 30, 2021
 
 ### Support
 
-If you want to support me and PhoenixTales and gives something for the work on Phoenix, the Gothic Archive, our Phoenix Documentation or Essays like these, you can do so [via ko-fi](https://ko-fi.com/flosha). 
+If you want to support me and PhoenixTales and give something in return for the work on Phoenix, the Gothic Archive, our Phoenix Documentation or Essays like this one, you can do so [via ko-fi](https://ko-fi.com/flosha). 
 
 
 <style>
+
+     :root {
+        --blood: #934a46;
+        --text: #ad9e8a;
+    }
 
     .essay-title {
         display: block;
@@ -176,6 +181,11 @@ If you want to support me and PhoenixTales and gives something for the work on P
         background-size: 100%;
         background-repeat: no-repeat;
         width: 100%;
+
+        color: var(--text);
+        /*   font-size: 16px;
+        line-height: 1.6;
+        font-family: 'Ubuntu Mono', monospace !important; */
     }
         main .article h1 {
                 font-size: 20px;
