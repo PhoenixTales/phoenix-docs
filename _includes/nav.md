@@ -124,7 +124,8 @@
 			* Chapter 5: Ancient Temple
 			* Chapter 6: Bloodnight
 		3. Plot Logic
-	2. Act II: Nemesis - Background (Act I-II)
+	* Between Act 1 to 2
+	2. Act II: Nemesis
 		1. Plot Abstract
 		2. Plot Description
 			* Chapter 7: Return to Prison
