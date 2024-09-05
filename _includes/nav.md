@@ -61,52 +61,43 @@
 	1. Act I - The Colony
 		1. [Level Structure](/story/level-structure)
 		2. [Evolution of the Map](/story/map-evolution)
-		3. Overworld Design
-			1. Design of the North
-				1. Cliff & Exchange Place
-				2. Abandoned Mine Outside
-				3. Troll Canyon 
-				4. Old Pass  
-			2. Design of the East  
-				1. Lighttower & Smugglers Bay
-				2. Monastery Ruins
-				3. Fogtower & Fogmine
-				4. Swamp & Hermit's Valley  
-			3. Design of the South  
-				1. Old Fort
-				2. Southeastern Lake
-				3. Old Mine
-				4. Mountain Fortress  
-			4. Design of the West 
-				1. Western Plateau
-				2. OrcCaves Entrance
-				3. Rock Cemetary  
-			5. Camp Overhaul  
-				1. Old Camp
-				2. Free Camp
-				3. New Camp
-				4. Psi Camp  
-			6. Demontower
-			7. Climate & Vegetation   
-				1. Northern Forest (NWood)
-				2. Eastern Forest (GWood)
-				3. Western Forest (HWood)
-				4. Southern Forest (DWood)
+		3. Overworld Design <!-- Overview of Locations, Climate + Vegetation -->
+			1. Cliff & Exchange Place
+			2. Abandoned Mine Outside
+			3. Northern Forest & Hangman's Tree	
+			4. Troll Canyon & Old Pass 
+			5. West Plateau & Forest
+			6. OrcCaves Entrance Area
+			7. Old Fort
+			8. Old Mine Outside
+			9. Mountain Fortress 
+			10. Lighttower & Smugglers Bay
+			11. Monastery Ruins
+			12. Fogtower & Fogmine
+			13. Eastern Forest & Goblins Cave
+			14. Hermit's Valley 
+			15. Southeastern Lake
+			16. Demontower & Forest
+			17. Camps Overhaul  
+				1. Old Camp & Prison
+				2. Free Camp & Rock Cemetary
+				3. New Camp 
+				4. Psi Camp & Swamp   
 		4. Underworld Design
 			1. Abandoned Mine
 			2. Old Mine
 			3. Free Mine
-			4. Various Caves
-			5. Natural/Orc Caves
+			4. Misc Caves
+			5. Natural Caves
 			6. Orc City
 			7. Ancient Temple
 	2. Act II - Colony & Outside World
 		1. The Colony Revisited  
 		2. Passes and Borders
-		3. City Surroundings
-		4. Design of the City 
+		3. Cursed Forest
+		4. City Design
 			1. Older City 
-				1. Castle & Fire Fortress
+				1. Castle
 				2. Monastery
 				3. Orphanage
 				4. Manufactures
