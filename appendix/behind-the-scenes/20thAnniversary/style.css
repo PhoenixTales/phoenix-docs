@@ -544,7 +544,7 @@ nav ul {
 }
 
 .bg-anniversary {
-  background: url('../../img/backgrounds/20th_anniversary_special.jpg') bottom center / cover no-repeat;
+  background: url('img/20th_anniversary_special.jpg') bottom center / cover no-repeat;
 }
 
 @media (min-width: 600px) {
