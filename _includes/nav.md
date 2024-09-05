@@ -200,7 +200,7 @@
 			5. Behind the Mask
 	4. Essays
 		1. [The Rescue of Design](/appendix/behind-the-scenes/rescue-of-design)
-		2. Behind the Eyes of Elliot
+		2. [Behind the Eyes of Elliot](/appendix/behind-the-scenes/behind-the-eyes)
 		3. Art and the Demonic Threat 
 		4. The Return of the Design
 2. Inspirations
