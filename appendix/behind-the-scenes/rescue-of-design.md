@@ -2,16 +2,17 @@
 
 <!-- TODO: Change Font-Style of the "Eintrag im Tagebuch - maybe ingame font! -->
 
-![Title](/appendix/behind-the-scenes/20thAnniversary/AJourneyToMike/title.png)
-![A journey to Mike Hoge on behalf of the 20th Anniversary of Gothic](/appendix/behind-the-scenes/20thAnniversary/AJourneyToMike/title2.png)
+![Title](/appendix/behind-the-scenes/rescue-of-design/title.png)
+![A journey to Mike Hoge on behalf of the 20th Anniversary of Gothic](/appendix/behind-the-scenes/rescue-of-design/title2.png)
 {: .essay-title }
 
 
-[DE] | [EN](AJourneyToMike_en) | [PL](AJourneyToMike_pl) | [RO](AJourneyToMike_ro) | [RU](AJourneyToMike_ru)
+DE | [EN](AJourneyToMike_en) | [PL](AJourneyToMike_pl) | [RO](AJourneyToMike_ro) | [RU](AJourneyToMike_ru)
 
-
+```
 # Phoenix und die Rettung des Designs
 ## Eine Reise zu Mike Hoge zum 20. Jubiläum von Gothic
+```
 
 24.12.2020 - Neuer Eintrag im Tagebuch
 {: .new-entry }
@@ -31,18 +32,18 @@ Was auch immer: Der Traum von einem Spiel, da ist er. Mehr kann ich nicht tun.
 
 [![Unsere Projektseite phoenixthegame.com](/appendix/behind-the-scenes/rescue-of-design/phoenixpage.jpg)](https://phoenixthegame.com)
 
----
 
 25.12.2020 - Neuer Eintrag im Tagebuch
-        
+{: .new-entry }
+
 Doch, etwas kann ich noch tun. Schon Monate zuvor hatte man mich gedrängt, mich doch endlich mit THQ in Verbindung zu setzen, die jetzt die neuen Rechteinhaber von GOTHIC sind, auf dem PHOENIX basiert. Um über die Handhabe der Pre-Alpha Demos und anderem Material zu sprechen. Ich sagte jedes mal: Es ist noch nicht an der Zeit. Sie fragten sich, worauf ich wartete.
         
 Ich wartete darauf, dass wir an einem Punkt ankommen würden, an dem ein solches Ersuchen irgendeinen Eindruck machen würde. Wir mussten anders auftreten. Wir mussten wissen, was wir wollen. Die Idee musste scharf sein wie die Klinge eines Schwertes, sonst dringt sie nicht durch. Anders gesagt: Die Vision musste klar sein und es musste anderen klar sein wie klar sie uns ist. Wir brauchten sowas wie einen Pitch. Oder zumindest eine Art Pitch für einen künftigen Pitch. Und das war die neue Projektseite.
         
-Nun hatten wir alles zusammen: Ein langsam erwachsen gewordenes Archiv ([gothicarchive.org](https://gothicarchive.org)), das dank Martin Dietrich auch ein wenig Beachtung in der Presse gefunden hatte. Eine vernünftige Website für unser "Indie Studio" ([phoenixtales.de](https://phoenixtales.de)) und die neue Website zum Spiel ([phoenixthegame.com](https://phoenixthegame.com)).  
+Nun hatten wir alles zusammen: Ein langsam erwachsen gewordenes Archiv, das dank Martin Dietrich von der GameStar auch ein wenig Beachtung in der Presse gefunden hatte. Eine vernünftige Website für unser "Indie Studio" ([phoenixtales.de](https://phoenixtales.de)) und die neue Website zum Spiel.  
 Das alles zusammennehmend, schrieb ich an den Verantwortlichen bei THQ. Und überraschenderweise eine Antwort. Noch am gleichen Tag. Und was für eine!  
     
-Ab und zu schaute ich ins Forum unter [worldofgothic.de](https://worldofgothic.de). Der Ort, an dem noch immer die älteste (noch existierende) Community um Gothic versammelt ist. Ich rechnete mit ein wenig Begeisterung. Nichts tat sich. Doch es sollte mich nicht kümmern. Die Devise bleibt das Opfer der Frucht, der Folge, die nicht in meiner Hand liegt; der Lohn liegt in der Tat allein, wie die Gita sagt. Aber die Antwort von THQ war eine süße Frucht. Ein kleines Weihnachtsgeschenk.</p> 
+Ab und zu schaute ich ins Forum unter [worldofgothic.de](https://worldofgothic.de). Der Ort, an dem noch immer die älteste (noch existierende) Community um Gothic versammelt ist. Ich rechnete mit ein wenig Begeisterung. Nichts tat sich. Doch es sollte mich nicht kümmern. Die Devise bleibt das Opfer der Frucht, der Folge, die nicht in meiner Hand liegt; der Lohn liegt in der Tat allein, wie die Gita sagt. Aber die Antwort von THQ war eine süße Frucht. Ein kleines Weihnachtsgeschenk. 
     
 Und es kamen weitere Geschenke.
 
@@ -50,6 +51,7 @@ Und es kamen weitere Geschenke.
 ### Ich will bei euch mitmachen
 
 <!--01.01.2021 - -->Neuer Eintrag im Tagebuch
+{: .new-entry }
 
 Hin und wieder hatten Oliver aka logx und ich versucht, neue Mitglieder aktiv für unser Projekt zu gewinnen. Ohne Erfolg. Ich glaubte und erklärte immer wieder: Wenn uns jemand *wirklich* helfen will, dann würde er von sich aus kommen.
 
@@ -72,7 +74,7 @@ Für das Projekt gibt es kein besseres Geschenk als diese Menschen, die uns helf
 
 Das waren die Leute, die wir brauchten. Phoenix ist ein nicht-kommerzielles Projekt. Seine Realisierung verlangt, dass Leute ihre Freizeit dafür opfern; tut man aber nur, wenn man für die Sache brennt. Solche Menschen kommen von allein, wenn man nur dafür sorgt, dass der Traum hell genug strahlt. Tut er das, dann fliegt man hin, wie eine Motte, die das Licht sucht.
 
-[Schatten der Nacht](/appendix/behind-the-scenes/rescue-of-design/shadow.jpg)
+![Schatten der Nacht](/appendix/behind-the-scenes/rescue-of-design/shadow.jpg)
 
 Ich wusste, sie würden verlässlich sein und sich aktiv einbringen. Ohne durch ihr Wirken mehr auf den Kopf zu stellen und mehr Probleme zu schaffen als zu lösen. Ohne ihre eigenen Ideen so sehr erzwingen zu wollen, dass sie das große Ganze zerstören, das zu überblicken eine ganze Weile dauert, weil das Projekt und die Geschichte so komplex sind.
     
@@ -85,11 +87,12 @@ Sie haben uns nicht enttäuscht. So wurde Phoenix Tales zu einem Team von Mensch
 ### Die Vision der Alpha
 
 Neuer Eintrag im Tagebuch
+{: .new-entry }
 
 Am Anfang steht immer eine gewisse Begeisterung für die Projektidee. Doch je mehr jemand in unseren Plot involviert wurde, je mehr er erfasst hat von dem, was wir im Begriff sind zu tun, desto begeisterter wurde er, desto mehr verinnerlichte er "unsere" Vision als seine eigene.  
 Es ist ein seltsames Gefühl, wenn Menschen plötzlich über deine Ideen sprechen und sie so verinnerlicht haben, dass du nichts mehr dazu sagen musst; andere können sie ebenso repräsentieren wie du. Die Ideen hören auf, deine eigenen zu sein.
 
-[Gothic Werbekarte](/appendix/behind-the-scenes/rescue-of-design/gothic.jpg)
+![Gothic Werbekarte](/appendix/behind-the-scenes/rescue-of-design/gothic.jpg)
 {: .left }
 
 Wenn ich hier von 'unserer' Vision spreche, dann zum einen, weil wir die von den geistigen Vätern von GOTHIC entwickelte Vision so sehr verinnerlicht, sie uns angeeignet, zum anderen, weil wir sie kreativ weiterentwickelt haben, die Geschichte sowohl wie die Designprinzipien dahinter.
@@ -138,7 +141,7 @@ In der Zone treiben sich wegen der radioaktiven Strahlung überall mächtige Mut
 
 Viele derer, die ich kenne, die von der frühen Vision von Gothic begeistert sind, haben auch viel Zeit in der Zone verbracht. Es dürfte keinen mehr wundern warum. ;)
     
-> "STALKER 1 habe ich geliebt!" (Mike im [Interview](https://gothicarchive.org/postrelease/interviews/MikeHoge_30_01_2021_Part1.html)>)</p>
+> "STALKER 1 habe ich geliebt!" (Mike im [Interview](https://gothicarchive.org/postrelease/interviews/MikeHoge_30_01_2021_Part1.html))
 
 Von solchen Zusammenhängen wissen die meisten Spieler aber nichts (mehr), weil das die Dinge sind, die es nicht ins Spiel geschafft haben. Die Dinge, die wir zurückbringen wollen.
 
@@ -153,6 +156,7 @@ Viva la (Re)Vision!
 ### Besuch von Mike
 
 30.12.2020 - Neuer Eintrag im Tagebuch
+{: .new-entry }
 
 Oliver hatte mich erst überredet, mir im Rahmen des Projekts wieder Discord zuzulegen, um die Arbeit darüber zu organisieren. Die letzten Monate hatte ich sie per Signal und Mail organisiert und Discord abgelehnt (prinzipielle Privacy-Erwägungen, was meist allein schon daran scheitert, dass die Kontakte nicht einmal ihre Emails verschlüsseln wollen…).
  
@@ -186,12 +190,14 @@ Ich ergriff die Gelegenheit und stellte Mike kurz Phoenix Tales, unser Gothic Ar
     
 Ich würde ihn nächsten Monat besuchen und seine Designkonzepte für die Nachwelt retten: Als Teil der Spielegeschichte für unser Archiv, als Entwürfe von unschätzbarem Wert für unser Spiel und als ein Geschenk für die Community.
     
-31.12.2020  
+31.12.2020 - Neuer Eintrag im Tagebuch
+{: .new-entry }
+
 Im letzten Jahr ist viel passiert. Der Fund der beiden Pre-Alpha Versionen, der Vertical Slice (0.56c) und die Presse Demo 0.64b. Viele der letzten geheimnisumwobenen Details der alten Story konnten gemeinsam gelöst werden (Mike würde sie mir später größtenteils bestätigen).
 
 Und nun, am letzten Tag des Jahres, gelang es in unserem neuen Channel, im Schmelztiegel der Freaks, den originalen Gothic Multiplayer in der Pre-Alpha Demo 0.56c zum Laufen zu kriegen.
     
-[Das Multiplayer Experiment](/appendix/behind-the-scenes/rescue-of-design/multiplayer.jpg)
+![Das Multiplayer Experiment](/appendix/behind-the-scenes/rescue-of-design/multiplayer.jpg)
 {: .left }
 
 Nach über 20 Jahren verbanden sich zwei Spieler im LAN per Hamachi und liefen zusammen durch das alte Testlevel. Sie waren außer sich. Wer würde diese Begeisterung verstehen? Da saßen sie, etwa ein halbes dutzend Typen, verbunden durch Gothic, in Deutschland, in Polen, in Österreich, in Russland, in Tschechien und der Ukraine, und freuten sich wie kleine Kinder über das geglückte Experiment.  
@@ -201,6 +207,7 @@ Gothic begeistert. Auch noch nach 20 Jahren.
 ### Besuch bei Mike
 
 Neuer Eintrag im Tagebuch
+{: .new-entry }
 
 01.01.2021 - Ein Termin mit Mike Hoge... Das ist eine große Sache, wenn du deine Freizeit einem 20 Jahre alten Spiel widmest, das eben der entworfen hat. Und die ersten Entwürfe davon befinden sich in eben jenen Ordnern! Sie uns anzuvertrauen ist ein großes Geschenk. Also schlug ich vor, sollten auch wir Mike was schenken.
 
@@ -213,17 +220,12 @@ Neuer Eintrag im Tagebuch
 Die Reise führt mich vorbei an den Weinbergen, Burgen und Schlössern am goldenen Rhein.
 {: .caption }
 
-Es kam eine Durchsage:  
-“Wir halten heute NICHT in Essen! Ich wiederhole: Wir halten heute NICHT in Essen!”  
-5 Sekunden später: “Wir halten heute DOCH in Essen!”  
-Glück gehabt. Alles wird gut.
+Es kam eine Durchsage: “Wir halten heute NICHT in Essen! Ich wiederhole: Wir halten heute NICHT in Essen!” 5 Sekunden später: “Wir halten heute DOCH in Essen!” Glück gehabt. Alles wird gut.
 
 30.01.2021 - Mike Meeting  
-Gestern um 16:30 kam ich in Bochum an. Um 17 Uhr stand ich bei Mike vor der Tür.  
-Ich hatte Zeit bis 21:30. Dann musste ich meinen Zug zurück kriegen.  
+Gestern um 16:30 kam ich in Bochum an. Um 17 Uhr stand ich bei Mike vor der Tür. Ich hatte Zeit bis 21:30. Dann musste ich meinen Zug zurück kriegen.  
 
-Es war zunächst ein wenig surreal, bei Mike Hoge im Wohnzimmer zu sitzen und ihn auf und ab laufen zu sehen, während er mit Sascha Henrichs telefonierte.  
-Er zeigte mir sein Regal, in das er all das Zeug zu Gothic getan hatte, das er bei seinen Umzugsvorbereitungen finden konnte. Nicht so viel wie mancher vielleicht denken würde. Keine einzige Edition von Gothic 3 hat er. Nur mit Schmerz erinnert er sich an das Projekt zurück. Keine einzige Pappschachtel von Gothic 1, nur die CDs. Auf dem Regal lag ein Poster zu Risen. “Das interessiert keinen, werf’ ich weg.”  
+Es war zunächst ein wenig surreal, bei Mike Hoge im Wohnzimmer zu sitzen und ihn auf und ab laufen zu sehen, während er mit Sascha Henrichs telefonierte. Er zeigte mir sein Regal, in das er all das Zeug zu Gothic getan hatte, das er bei seinen Umzugsvorbereitungen finden konnte. Nicht so viel wie mancher vielleicht denken würde. Keine einzige Edition von Gothic 3 hat er. Nur mit Schmerz erinnert er sich an das Projekt zurück. Keine einzige Pappschachtel von Gothic 1, nur die CDs. Auf dem Regal lag ein Poster zu Risen. “Das interessiert keinen, werf’ ich weg.”  
 Er ist offensichtlich kein Sammler, so wenig wie ich.   
 
 Aber wegen solcher physischer Goodies war ich ja auch nicht gekommen, sondern wegen der Designs. Nach und nach trugen wir die drei Ordner und einige CDs zum Tisch. Dann gingen wir eines nach dem anderen durch, um zu entscheiden, was ich mitnehmen würde und was nicht.  
@@ -269,6 +271,8 @@ Als ich endlich im Zug war, sah ich mir die Dokumente an und konnte der Communit
 #### Die Design Konzepte
     
 31.01.2021 - Neuer Eintrag im Tagebuch  
+{: .new-entry }
+
 Man munkelt, dass Piranha Bytes diese alten Ordner in den Müll werfen wollte. Altlast sozusagen. Mike verhinderte das, Adanos sei Dank. Jetzt sind sie bei mir und ich werde dafür Sorge tragen, dass sie nicht verloren gehen.
         
 Als Kritzeleien eines verrückten Game Designers hat Mike sie mir gegenüber bezeichnet. Der Mann ist demütig. Doch für uns sind sie das letzte Puzzle unserer jahrelangen Nachforschungen, "Alpha Research", wie wir es nennen. Außerdem enthalten sie alte Level- und Charakterentwürfe, die noch niemand zu Gesicht bekommen hat. Wir werden sie im Spiel umsetzen.
@@ -297,13 +301,11 @@ Mein Design inspirierte wiederum Oliver und andere, die es seitdem mit gestalten
     
 So führten all diese kleinen Ereignisse und der Einfluss zahlreicher Menschen aus verschiedenen Teilen der Welt zu diesem Moment: Dass wir nun diese Dokumente in den Händen halten. Ein Netz aus Einflüssen, zu komplex um sie alle nachzuvollziehen. Ein Dank an Mike und ein Dank an alle, deren wechselseitiger Einfluss das ermöglicht hat.
     
-Um 22 Uhr hatte die Rückfahrt begonnen. Um 8 Uhr am nächsten Morgen war ich daheim.  
-Als ich in meiner Heimatstadt ankam, war es schon wieder hell.
+Um 22 Uhr hatte die Rückfahrt begonnen. Um 8 Uhr am nächsten Morgen war ich daheim. Als ich in meiner Heimatstadt ankam, war es schon wieder hell.
     
 ![Der Himmel um 8 Uhr daheim](/appendix/behind-the-scenes/rescue-of-design/athome.jpg)
     
-Ein seltsames Gefühl, so leicht gegangen zu sein und so schwer zurückzukommen.  
-Zu Anfang schrieb ich, dass ich 10 Kilogramm verloren habe. Daheim habe ich das Material gewogen. Die Tasche wog 10 kg… Hier habe ich sie wieder. 
+Ein seltsames Gefühl, so leicht gegangen zu sein und so schwer zurückzukommen. Zu Anfang schrieb ich, dass ich 10 Kilogramm verloren habe. Daheim habe ich das Material gewogen. Die Tasche wog 10 kg… Hier habe ich sie wieder. 
       
 Süßer Schlaf, bittere Träume... Gothic lebt zwar, aber schläft. An seinem Grund, wo alles anfing: Die Vision. Unser Reboot wird sie aufwecken: Phoenix ist ein Wiedererwachen dieser alten Vision. Von damals, als Gothic noch ein wenig anders war. Es lebe Gothic zum 20. Jubiläum.
 
@@ -312,27 +314,35 @@ Süßer Schlaf, bittere Träume... Gothic lebt zwar, aber schläft. An seinem Gr
 
 ### Die Digitalisierung
 
-01.02.2021 - Neuer Eintrag im Tagebuch  
+01.02.2021 - Neuer Eintrag im Tagebuch 
+{: .new-entry }
+
 Mit Hilfe von Avallach habe ich mehrere Stunden versucht den scheiß Scanner unter Linux zum Laufen zu kriegen. Wir sind zu dem Schluss gekommen, dass ich versuchen sollte, Windows XP auf meinem X220 zu installieren. Aber auch das hat nicht funktioniert. Auf das Bios wurde (vom Vorbesitzer) Coreboot geflasht, um die proprietäre Firmware loszuwerden. Und Coreboot wollte Windows natürlich nicht booten. Recht hat es.
 
 02.02.2021 - Neuer Eintrag im Tagebuch  
+{: .new-entry }
+
 Endlich habe ich eine Lösung gefunden: Ich scanne mit dem <s>Smart</s>phone. No Windows needed. So erblicken die Designdokumente das erste mal das Licht der digitalen Welt auf [Graphene](https://grapheneos.org/).
 
 Die Scan-Software ist seltsam. Gescannte Dokumente werden zunächst nur intern, in der App gespeichert; dann kann man sie freigeben und verschicken. Der Prozess sieht also so aus: Vom Smartphone aus weise ich den Scanner an, die Dokumente zu scannen. Eine Seite nach der anderen. Dann schicke ich sie zu [Signal](https://signal.org/). Durch Signal-Desktop landen sie dann auf meinem Computer und so im Archiv. Warum einfach, wenn es auch kompliziert geht...</p>
         
 ![Digitalisierung](/appendix/behind-the-scenes/rescue-of-design/digitise.jpg)
 
-18.02.2021 - Neuer Eintrag im Tagebuch  
+18.02.2021 - Neuer Eintrag im Tagebuch 
+{: .new-entry }
+
 Ich habe die Dokumente in der besten Qualität gescannt, die mir zur Verfügung stand, trotzdem musste ich jede einzelne Seite händisch nachbearbeiten, etwa um die Löcher zu überdecken, in denen die Seiten eingeheftet waren oder den Kontrast von stark verblassten Seiten anzupassen.
 
 ![Erster Logo Entwurf](/appendix/behind-the-scenes/rescue-of-design/first-logo.jpg)
-{: right }
+{: .right }
 
 Da die Dokumente kaum geordnet waren, musste ich eine Struktur entwickeln. Aufwendigere Konzeptzeichnungen habe ich von einfachen Skizzen getrennt. Und manches Kleinod auf Seiten voller Gekritzel, die Mike nur ungern veröffentlicht wissen will, habe ich ausgeschnitten, um es doch veröffentlichen zu können. Darunter z.B. dieser erste Entwurf des Logos.
 
 Ein wenig Ordnung war in dem Ordner mit den Aufzeichnungen durch gelbe, beschriftete Streifen gegeben. Auch die habe ich gescannt, um Deckblätter für meine Struktur daraus zu machen. Es war mein Ziel, dem Design Rechnung zu tragen und es halbwegs ansprechend zu präsentieren. Ich hoffe, das ist mir gelungen und ich hoffe, es bereitet einigen Menschen etwas Freude. Unser Gothic Archiv wird damit um etwa 1 GB wachsen.
 
-03.02.2021 - Neuer Eintrag im Tagebuch  
+03.02.2021 - Neuer Eintrag im Tagebuch 
+{: .new-entry }
+
 8 Uhr. Ich hätte eine Klausur schreiben sollen. Gelernt hatte ich natürlich nichts. Ich überlegte, ob ich hingehen sollte, könnte auf der Fahrt im Zug die Zusammenfassung von irgendwem lesen. Wird schon ausreichen, dachte ich. Aber angekommen an der Bushaltestelle merkte ich, dass ich meinen Geldbeutel vergessen hatte. Also doch wieder zurück.
 
 ![Tom Putzki](/appendix/behind-the-scenes/rescue-of-design/tomputzki.png) 
@@ -351,9 +361,10 @@ Nun sind nicht nur Gothic Alpha Fans aus aller Welt, sondern auch immer mehr Got
  
 Gothic entstand unter der Prämisse, dass das Design der Spiele jener Zeit grundlegende Probleme habe, die man lösen wollte. Man wollte sich nicht einfach nur einreihen in das Erfolgskonzept anderer Spiele ihrer Zeit (wenn es auch im Hinblick auf Spielmechaniken viele Inspirationen gab), sondern abweichen. Weil man von den eigenen Ideen überzeugt war, die man an anderer Stelle nicht fand. Ihre Vision war getrieben nicht nur von der Idee, etwas eigenes zu tun, sondern etwas anders zu tun. Der Grundsatz war: *Other games suck, we make our own.*
 
-Ebenso ist unsere Arbeit an Phoenix motiviert durch die beiden Umstände, dass zum einen Gothic selbst nicht verwirklichen konnte, was es zuvor versprochen hatte und dass zum anderen, nunmehr seit 20 Jahren, noch immer kein anderes Spiel etwas geboten hätte, was der ursprünglichen Vision von Gothic mit ihrer radikalen Immersion auch nur ansatzweise gleichgekommen wäre. Ich hätte nie mit dem Projekt begonnen, wenn es vergleichbares gäbe, wenn es nicht Not tun würde, dass es jemand unternimmt. Wir machen uns die Arbeit, weil es sonst keiner tut:
+Ebenso ist unsere Arbeit an Phoenix motiviert durch die beiden Umstände, dass zum einen Gothic selbst nicht verwirklichen konnte, was es zuvor versprochen hatte und dass zum anderen, nunmehr seit 20 Jahren, noch immer kein anderes Spiel etwas geboten hätte, was der ursprünglichen Vision von Gothic mit ihrer radikalen Immersion auch nur ansatzweise gleichgekommen wäre. Ich hätte nie mit dem Projekt begonnen, wenn es vergleichbares gäbe, wenn es nicht Not tun würde, dass es jemand unternimmt.  
+Wir machen uns die Arbeit, weil es sonst keiner tut.
     
-"Die Rettung des Designs". Meint der Titel die Rettung der Design-Dokumente von Mike? Meint er die Rettung einer Vision von einem Spiel, wie es einst konzipiert war? Oder - ganz vermessen - die Rettung des Gamedesigns *an sich*?
+"Rettung des Designs". Meint der Titel die Rettung der Design-Dokumente? Meint er die Rettung einer Vision von einem Spiel, wie es einst konzipiert war? Oder - ganz vermessen - die Rettung des Gamedesigns *an sich*?
 
 Spiele werden heute wie am Fließband produziert. Die meisten sind nicht mehr der Rede wert. Sie sind beliebiger, bedeutungsloser Zeitvertreib, ohne Liebe zum Detail. Wir versuchen dagegen ein Drama mit Bedeutung zu erzählen, mit tiefgründigen Implikationen. Wir wollen ein Spiel machen, das über sich hinaus weist. Kunst entsteht nicht in Fabriken; man kann sie nicht industrialisieren, sie wird nicht in der sogenannten "Spieleindustrie" *produziert*. Die ist voller Künstler, zweifellos, deren Kunst wird aber beständig durch den industriellen Kontext korrumpiert: Zeitdruck, Marktforschung, Monetarisierung etc.
 
@@ -383,9 +394,8 @@ Und seien es auch zittrige Hände, wie die meinen.
 
 ![Flosha](/_img/authors/flosha-sm.png)
 
-Florian aka flosha, 15. März 2021
-
----
+Florian aka flosha  
+15. März 2021
 
 <a href="https://gothicarchive.org/postrelease/AJourneyToMike/index.html">Go to our Anniversary Special</a> 
 
@@ -395,6 +405,9 @@ Florian aka flosha, 15. März 2021
 * [gothicarchive.org](https://gothicarchive.org)
 * [phoenixtales.de](https://phoenixtales.de) 
   
+
+### Unterstützung
+
 Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, dem Gothic Archive, unserer Phoenix Dokumentation oder Essays wie diesem, kannst du mir über [ko-fi etwas spenden](https://ko-fi.com/flosha). 
 
 
@@ -408,19 +421,20 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
     }
 
     main {
-        background: url('AJourneyToMike/bg.jpg') top center / 100% no-repeat #000;
+        background: url('/appendix/behind-the-scenes/rescue-of-design/bg.jpg') top center / 100% no-repeat #000;
     }
+        main .article h1 {
+                font-size: 20px;
+            }
 
     article {
         max-width: 700px;
         color: #a69685;
-        font-family: monospace;
-        font-size: 14px;
-        line-height: 1.5em;
     }
 
     .new-entry {
-        font-family: 'Gothic Alpha';
+        font-family: monospace;
+        font-size: 14px;
     }
 
     .left {
