@@ -1,7 +1,5 @@
 # Phoenix & the Rescue of Design
 
-<!-- TODO: Change Font-Style of the "Eintrag im Tagebuch - maybe ingame font! -->
-
 ![Title](/appendix/behind-the-scenes/rescue-of-design/title.png)
 ![A journey to Mike Hoge on behalf of the 20th Anniversary of Gothic](/appendix/behind-the-scenes/rescue-of-design/title2.png)
 {: .essay-title }
@@ -420,11 +418,19 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
     }
 
     main {
-        background: url('/appendix/behind-the-scenes/rescue-of-design/bg.jpg') top center / 80% no-repeat #000;
+        background: url("/appendix/behind-the-scenes/rescue-of-design/bg.jpg"); 
+        background-position: top center;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
     }
         main .article h1 {
                 font-size: 20px;
             }
+    
+    .article {
+        max-width: 700px;
+    }
 
     .new-entry {
         font-family: monospace;
