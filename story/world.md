@@ -135,7 +135,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
         image-rendering: pixelated;
         max-height: 550px;
         max-width: 100%;
-        margin: -2em auto;
+        margin: 0 auto;
     }
         main .article h1 {
             font-size: 22px;
