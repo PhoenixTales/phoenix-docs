@@ -113,11 +113,10 @@ So whenever I would want to tell *a story*, especially a character-driven one, I
 
 ---   
 
-<span class="spoiler">SPOILER:</span> In the following last passages until the end I speak about the ending of Mr. Robot; if you have not watched the series before you may want to stop reading here, unless you are sure that you will not watch it ever; but I would highly recommend to do so. Behind all its implausible exaggeration on its surface it surely is one of the most meaningful cinematic works I know.
+At this point I want to mention the story of a man, which is a showcase of this art: Elliot in Mr. Robot. <span class="spoiler">SPOILER:</span> In the following last passages until the end I speak about the ending of Mr. Robot; if you have not watched the series before you may want to stop reading here, unless you are sure that you will not watch it ever; but I would highly recommend to do so. Behind all its implausible exaggeration on its surface it surely is one of the most meaningful cinematic works I know.
 
 ![Elliot & Angela](/appendix/behind-the-scenes/behind-the-eyes/elliot-angela.jpg)
-
-At this point I want to mention the story of a man, which is a showcase of this art: Elliot in Mr. Robot. 
+ 
 Elliot is displayed as a man with a personal identity disorder caused by traumatic events in his past. The viewer of the series himself becomes another part of Elliot’s personality, that he speaks to sometimes just as he speaks to other parts of himself; and thus they break the fourth wall exceptionally well. 
     
 At the end of the series, Elliot realises that all the time he was just another personality to protect him. He wakes up in a hospital and he makes this confession to his sister, that he is not the Elliot he thought. To his surprise, his sister knew and affirmed to him that she knew that he was not the "real version" of himself (whom to help she felt too helpless herself), before he fell asleep again.
