@@ -96,7 +96,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
 	3. [Guilds Descriptions](/story/factions/guilds-descriptions)
 	4. [Joining Conditions](/story/factions/guilds-joining-conditions)
 	5. [Options of Defection](/story/factions/options-of-defection)
-<!-- 1. Folk
+    <!-- 1. Folk
     2. Mafia
     3. Priests
     4. Royals
