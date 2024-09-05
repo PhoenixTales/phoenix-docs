@@ -6,13 +6,13 @@ In this part of the documentation we are dealing with the design of the game wor
 
 We will then proceed to analyse the evolution of all the locations; with the camps and the city in particular - including their layout, artstyle, architecture, their pattern or possibilities of exploration and their historic background. This section is divided into overworld, underworld, outside world and demon world. The locations within the colony are first dealt with in relation to our first act, then in "Colony Revisited" in relation to our second act (after the fall of the barrier). 
 
-Finally we will also deal with the factions and related guilds as they live in and live up the game world and their influence or impact on the same. Including general considerations of their A-life as well as dealing with their visuals (body, costumes, equipment). 
+Finally we will deal with the different factions and related guilds as they live in and live up the game world and with their role in shaping the same. Including general considerations of their role-specific A-life in the simulated world as well as dealing with their visuals (body, costumes, equipment). 
  
 After the analysis of each of these topics (the landscape, the vegetation, the monsters, the locations, the guilds and character visuals), we will summarise our findings, before presenting our solution for Phoenix. As in the other sections of the documentation, "Alpha Research" and Phoenix Gamedesign are thereby clearly discernible.
 
-<!-- In the Act II section we will deal with what the Sequel team wanted to do with the colony in their project, with the limitations they were facing and also, in parts, with what went wrong with the level design of the official sucessor - arising in a critique against the Sequel, while falling far behind it in its artdirection and loosing any gothic themes and aesthetics - before dealing with our own world design for act 2. We will then elaborate how we approach the design of the outside world (Khorinis surroundings); but the majority of this section will cover the design of the *City*.
+<!-- In the Act II section we will deal with what the Sequel team wanted to do with the colony in their project, with the limitations they were facing and also, in parts, with what went wrong with the level design of the official sucessor - arising in a critique against the Sequel, while falling far behind it in its artdirection and loosing any gothic themes and aesthetics - before dealing with our own world design for act 2. We will then elaborate how we approach the design of the outside world (Khorinis surroundings); but the majority of this section will cover the design of the *City*. -->
 
-Then, as mentioned above, we will analyse the evolution of the different factions ("guilds") in the world as well as with their role in shaping said world. <!--In this context we will also have to deal with the NPCs and their initial placement ("start routine") in the world (the "setup" that the player will be confronted with).--> 
+<!--In this context we will also have to deal with the NPCs and their initial placement ("start routine") in the world (the "setup" that the player will be confronted with).--> 
 
 <!--
 Finally we will deal with the placement of objects (non-takeable, static objects, moveable or useable objects as well as takeable objects, items).
