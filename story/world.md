@@ -2,7 +2,9 @@
 
 <img class="world" src="/_img/world/overworld.jpg">
 
-At first we will deal with the design of the levels of Act I, everything within the Colony before the fall of the barrier, divided into Overworld and Underworld design. We will first analyse the general level structure and how the layout of the world evolved, then deal with the evolution of particular camps and other locations, before we explain in a summary to each of these analyses how we approach the design of these locations in Act I of Phoenix. 
+In this part of the documentation we are dealing with the design of the game world, starting with its size, geography, climate and vegetation. We will then proceed to analyse the evolution of all the levels, divided into overworld and underworld design both in relation to our first and second act. But we will also deal with the factions as they live in and shape this world, as well as with the monsters inhabitating it and how they evolved under the influence of the barrier. 
+
+of the levels of Act I, everything within the Colony before the fall of the barrier, divided into Overworld and Underworld design. We will first analyse the general level structure and how the layout of the world evolved, then deal with the evolution of particular camps and other locations, before we explain in a summary to each of these analyses how we approach the design of these locations in Act I of Phoenix. 
 
 In the second part we will deal with what they wanted to do with the World in the Sequel (after the fall of the barrier) and what they couldn't do, before dealing with our world design in Act II, particularly with the design of the city and its surroundings as a small explorable section of the outside world. 
 
