@@ -2,11 +2,15 @@
 
 <img class="world" src="/_img/world/overworld.jpg">
 
-In this part of the documentation we are dealing with the design of the game world, starting with its size, geography, climate and vegetation. We will then proceed to analyse the evolution of all the levels, divided into overworld and underworld design both in relation to our first and second act. We will also deal with the factions and guilds as they live in and shape this world, as well as with the monsters inhabitating it and how they evolved under the influence of the barrier. 
+In this part of the documentation we are dealing with the design of the game world. General questions such as the size of the world and the geography of the universe as a whole are dealt with in the /lore and are seen as evident here. We start with the landscape of the colony and the explorable sections of the outside world and the climate as well as the vegetation inside and outside of the barrier, then continue with the monsters inhabitating the world and how they evolved under the influence of the barrier. 
 
-In the Act I section we will start with an analysis of the general level structure and how the layout of the colony, as the world of Gothic, evolved. Then we deal with the evolution of the camps and other locations, including their artstyle, architecture and layout (while their history will be dealt with in plot/background-story). In a summary to each of these topics we will approach the design of these locations in Act I of Phoenix. "Alpha Research" and Phoenix Gamedesign are thereby clearly divided. 
+We will then proceed to analyse the evolution of all the locations; with the camps and the city in particular - including their layout, artstyle, architecture, their pattern or possibilities of exploration and their historic background. This section is divided into overworld, underworld, outside world and demon world. The locations within the colony are first dealt with in relation to our first act, then in "Colony Revisited" in relation to our second act (after the fall of the barrier). 
 
-In the Act II section we will deal with what the Sequel team wanted to do with the World in their successor and what their limitations were, before dealing with our own world design for our second act. Particularly with the design of the city and its surroundings as a small explorable section of the outside world. 
+Finally we will also deal with the factions and related guilds as they live in and live up the game world and their influence or impact on the same. Including general considerations of their A-life as well as dealing with their visuals (body, costumes, equipment). 
+ 
+After the analysis of each of these topics (the landscape, the vegetation, the monsters, the locations, the guilds and character visuals), we will summarise our findings, before presenting our solution for Phoenix. "Alpha Research" and Phoenix Gamedesign are thereby clearly discernible.
+
+<!-- In the Act II section we will deal with what the Sequel team wanted to do with the colony in their project, with the limitations they were facing and also, in parts, with what went wrong with the level design of the official sucessor - arising in a critique against the Sequel, while falling far behind it in its artdirection and loosing any gothic themes and aesthetics - before dealing with our own world design for act 2. We will then elaborate how we approach the design of the outside world (Khorinis surroundings); but the majority of this section will cover the design of the *City*.
 
 Then, as mentioned above, we will analyse the evolution of the different factions ("guilds") in the world as well as with their role in shaping said world. <!--In this context we will also have to deal with the NPCs and their initial placement ("start routine") in the world (the "setup" that the player will be confronted with).--> 
 
@@ -16,116 +20,187 @@ Finally we will deal with the placement of objects (non-takeable, static objects
 Perhaps: Rather deal with items in a section at the bottom of every single location?
 Or deal with items in the plot, when dealing with the exploration of specific locations!!! -->
 
+<!-- Costume Design may be a subcategory within the guild docs -->
+
 --- 
 
 **Content:**
 
+<!-- 
+Level Structure is so abstract,  it could well be to mechanics?
+1. [Level Structure](/story/level-structure)
+-->  
 
-<!-- Geography, Climate & Vegetation -> to Setting?! -->
-
-1. Level Design
-    1. Act I: The Colony
-        1. [Level Structure](/story/level-structure)
-        2. [Evolution of the Map](/story/map-evolution)
-        3. Overworld Design            
-            1. Camps
-                1. Old Camp
-                2. New Camp
-                3. Free Camp
-                4. Psi Camp
-            2. Surroundings
-                1. Northern Environment
-                    1. Cliff & Exchange Place
-                    2. Old Pass & Troll Canyon
-                    3. Northern Forest & Hangman's Tree
-                    4. Bandits Camp
-                    5. Abandoned Mine Outside
-                2. Western Environment 
-                    1. West Plateau & Forest
-                    2. Rock Cemetary
-                    3. OrcCaves Entrance
-                    4. Mountain Tombs
-                3. Southern Environment
-                    1. Old Fort
-                    2. Old Mine Outside
-                    3. Southeast Lake & Cliffs
-                    4. Demontower & Forest
-                    5. Mountain Fortress
-                4. Eastern Environment
-                    1. Hermit's Valley
-                    2. Swamp & Coastline
-                    3. FogTower & Fogmine
-                    4. Eastern Forest 
-                    5. Goblins Cave
-                    6. Stone Circle 
-                    7. Lighttower & SmugglersBay
-                    8. Monastery Ruins
-                    9. Sea and Island
-        4. Underworld Design
+1. Landscape & Climate
+    1. [Evolution of the Map](/story/map-evolution)
+    2. Valley, Mountains
+    3. Sea & Island
+    4. Waterfalls, Lakes, Rivers, Hotsprings
+    5. Swamp & Coastline
+2. Flora / Vegetation
+    1. Plants & Mushrooms
+    2. Forests 
+        1. Northern Forest
+        2. Western Forest
+        3. Eastern Forest
+        4. Swamp Forest
+        5. Demon Forest
+        6. Outside Forest
+3. Fauna / Monster Design
+    1. Mammals
+        1. Molerats
+        2. Wolves
+        3. Bloodhounds
+        4. Orcdogs
+        5. Harpies
+        6. Shadowbeast
+        7. Trolls
+            * Cavetrolls
+            * Mountaintrolls
+    2. Reptiles
+        1. Scavenger
+        2. Gobbos
+        3. Lurkers
+        4. Snappers
+        5. Swampsharks
+        6. Warans
+        7. Vultures
+    3. Insects
+        1. Meatbugs
+        2. Bloodflies
+        3. Minecrawlers 
+        4. Minesprayer
+        5. Mushgroomer
+    4. Undead
+    5. Demons
+4. Locations
+    1. Overworld
+        1. Middle of the Colony
+            1. Hangman's Tree
+            2. Old Camp
+            3. Western Plateau
+            4. Eastern Grasslands
+        2. Northern Environment
+            1. Cliff & Exchange Place
+            2. Old Pass & Troll Canyon
+            3. Bandits Camp
+            4. Abandoned Mine Outside
+        3. Western Environment 
+            1. New Camp
+            2. Rock Cemetary & Tombs
+            3. Free Camp
+            4. OrcCaves Entrance
+        4. Southern Environment
+            1. Old Fort
+            2. Old Mine Outside
+            3. Demontower & Cliffs
+            4. Mountain Fortress
+        5. Eastern Environment
+            1. Hermit's Valley
+            2. Psi Camp
+            3. FogTower & Fogmine
+            4. Stone Circle 
+            5. Lighttower & SmugglersBay
+            6. Monastery Ruins
+        6. Colony Revisited (after Bloodnight)
+        7. Passes and Borders
+    2. Underworld
+        1. Mines
             1. Abandoned Mine
             2. Old Mine
             3. Free Mine
-            4. Natural Caves
-            5. OrcCity
-            6. OrcGraveyard
-            7. AncientTemple
-    2. Act II - Colony & Outside World
-		1. The Colony Revisited  
-		2. Passes and Borders
-		3. Cursed Forest
-		4. City Design
-			1. Older City 
-				1. Castle
-				2. Monastery
-				3. Orphanage
-				4. Manufactures
-				5. Manors
-			2. Newer City
-				1. Ore Factory
-					1. Cathedral
-				2. Manufactures
-				3. Ghost District
-				4. Varantian Quarters
-				5. Slavemarket
-			3. Slums
-			4. Canalisation
-			5. Catacombs
-2. Faction Design
-    1. [Factions](/story/factions/factions)
-	2. [Colony Population](/story/factions/colony-population)
-	3. [Guilds Descriptions](/story/factions/guilds-descriptions)
-	4. [Joining Conditions](/story/factions/guilds-joining-conditions)
-	5. [Options of Defection](/story/factions/options-of-defection)
-    <!-- 1. Folk
-    2. Mafia
-    3. Priests
-    4. Royals
-    5. Law
-    6. Outlaws
-    7. Revolt
-    8. Heretics
-    9. Slaves
-    10. Pariahs -->
-3. Character Design
-    1. General Description
-	2. Costume Design
-4. Monster Design
-    1. Bloodflies
-    2. Crawlers
-    3. Gobbos
-    4. Orcs
-    5. Meatbugs
-    6. Snappers
-    7. Lurkers
-    8. Molerats
-    9. Scavengers
-    10. Wolves
-    11. Orcdogs
-    12. Bloodhounds
-    13. Shadowbeast
-    14. Trolls
-    15. Harpies
-    16. Undead
+            4. Fog Mine
+        2. Monster Lairs 
+            1. Gobbo Cave
+            2. Troll Hoards
+            3. Bloodfly Nest
+            4. Lurker Nests
+            5. Crawler Nests 
+            6. Sprayerlair
+            7. Dragon Hoard
+        3. Natural Caves
+        4. OrcCaves
+            1. OrcCity
+            2. OrcGraveyard
+        5. AncientTemple
+    3. Outside World
+        1. Abandoned Factory
+        2. Old Fortress
+        3. Franks Castle
+        4. Half-Orc Camp
+        5. City Design
+            1. Older City 
+                1. Castle
+                2. Monastery
+                3. Orphanage
+                4. Manufactures
+                5. Manors
+            2. Newer City
+                1. Ore Factory
+                    1. Cathedral
+                2. Manufactures
+                3. Ghost District
+                4. Varantian Quarters
+                5. Slavemarket
+            3. Slums
+            4. Canalisation
+            5. Catacombs
+    4. Demonworld
+        1. Demonic Overlays
+        2. Demon Tunnels
+5. [Faction Design](/story/factions/factions)
+    1. [Guilds](/story/factions/guilds-descriptions)
+        1. Folk
+            * Miners
+            * Peasants
+            * Workers
+            * Merchants
+            * Healers
+            * Beggars
+            * Auxiliaries
+        2. Magnates
+            * Orebarons/Mafia
+                * Thugs/Guard
+                * Snitches/Shadows
+            * Drugbarons
+            * Varantian Tradersguild
+        3. Clergy
+            * Royal Mages
+            * Circle of Fire
+            * Circle of Water
+            * Anti-Royal Monks
+        4. Royals
+            * Royal Court
+            * Paladins
+            * Royal Guard
+            * Royal Army
+        5. Law
+            * Royal Judges
+            * Inquisition
+            * Black Guard
+            * Royal Shadows
+        6. Outlaws
+            * Gladiators
+            * Organisation
+            * Anti-Royal KdW
+            * Demonhunters
+            * Bandits
+        7. Revolt
+            * Scrapers Union
+            * Silence
+        8. Heretics
+            * Psionics
+            * Mystics
+            * Demonsect
+            * Amazons
+            * Demon Summoners
+        9. Slaves
+        10. Pariahs
+            1. Possessed
+            2. Half-Orcs
+        11. Clans
+            1. Bloodearth
+            2. Dreamfire
 
 
 <style>

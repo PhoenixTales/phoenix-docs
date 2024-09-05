@@ -4,6 +4,25 @@
 **Created:** 17.04.2024  
 **Completed:** 01.09.2024  
 
+
+<!-- 
+   3. [Joining Conditions](/story/factions/guilds-joining-conditions)
+	5. [Options of Defection](/story/factions/options-of-defection)
+ -> Definitely to the plot!
+ 
+ Joining Conditions may be too excessive and unnecessary with 
+ most of it just being a translation; we can reformulate and 
+ condense this a little bit and then link it in the appendix!
+ Then have just a guild joining summaries and defection. 
+
+Same here: Definitely plot related...
+
+     2. Population & Changes
+        1. [Colony Population](/story/factions/colony-population)
+ -->
+
+
+
 In the final game, after the player joined a camp, he was bound to this camp till the end of the game, with just one (pre-scripted and forced with no alternative) story-twist related exception. According to the original idea this was not the case. When designing the guilds Mike laid out conditions for every guild for when the player could join them if already belonging to another guild.
 
 Mike first described "joining conditions" (such as a minimum level you had to have in another guild or specific things you had to prove or skills to acquire) and then at which level the guild would be exclusive, summarised as: "maximum allowed joining level and guild" ("maximal erlaubter Beitrittslevel und Gilde" in German), shortened to the acronym "MEBLAG". In other words, a maximum allowed level you could acquire in another guild above which it would exclude you from joining the guild in question, because they would either not trust you anymore when having such a high rank in another guild or because it would raise skill problems (as e.g. the guild in question was of another class).  
