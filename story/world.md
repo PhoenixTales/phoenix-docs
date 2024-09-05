@@ -2,13 +2,13 @@
 
 <img class="world" src="/_img/world/overworld.jpg">
 
-In this part of the documentation we are dealing with the design of the game world, starting with its size, geography, climate and vegetation. We will then proceed to analyse the evolution of all the levels, divided into overworld and underworld design both in relation to our first and second act. But we will also deal with the factions as they live in and shape this world, as well as with the monsters inhabitating it and how they evolved under the influence of the barrier. 
+In this part of the documentation we are dealing with the design of the game world, starting with its size, geography, climate and vegetation. We will then proceed to analyse the evolution of all the levels, divided into overworld and underworld design both in relation to our first and second act. We will also deal with the factions and guilds as they live in and shape this world, as well as with the monsters inhabitating it and how they evolved under the influence of the barrier. 
 
-of the levels of Act I, everything within the Colony before the fall of the barrier, divided into Overworld and Underworld design. We will first analyse the general level structure and how the layout of the world evolved, then deal with the evolution of particular camps and other locations, before we explain in a summary to each of these analyses how we approach the design of these locations in Act I of Phoenix. 
+In the Act I section we will start with an analysis of the general level structure and how the layout of the colony, as the world of Gothic, evolved. Then we deal with the evolution of the camps and other locations, including their artstyle, architecture and layout (while their history will be dealt with in plot/background-story). In a summary to each of these topics we will approach the design of these locations in Act I of Phoenix. "Alpha Research" and Phoenix Gamedesign are thereby clearly divided. 
 
-In the second part we will deal with what they wanted to do with the World in the Sequel (after the fall of the barrier) and what they couldn't do, before dealing with our world design in Act II, particularly with the design of the city and its surroundings as a small explorable section of the outside world. 
+In the Act II section we will deal with what the Sequel team wanted to do with the World in their successor and what their limitations were, before dealing with our own world design for our second act. Particularly with the design of the city and its surroundings as a small explorable section of the outside world. 
 
-Then we will analyse the evolution of the different factions ("guilds") in the world as well as with their role in shaping said world. <!--In this context we will also have to deal with the NPCs and their initial placement ("start routine") in the world (the "setup" that the player will be confronted with).--> 
+Then, as mentioned above, we will analyse the evolution of the different factions ("guilds") in the world as well as with their role in shaping said world. <!--In this context we will also have to deal with the NPCs and their initial placement ("start routine") in the world (the "setup" that the player will be confronted with).--> 
 
 <!--
 Finally we will deal with the placement of objects (non-takeable, static objects, moveable or useable objects as well as takeable objects, items).
