@@ -4,9 +4,9 @@
 ![A journey to Mike Hoge on behalf of the 20th Anniversary of Gothic](/appendix/behind-the-scenes/rescue-of-design/title2.png)
 {: .essay-title }
 
-<!--
+
 DE | [EN](AJourneyToMike_en) | [PL](AJourneyToMike_pl) | [RO](AJourneyToMike_ro) | [RU](AJourneyToMike_ru)
--->
+
 ```
 # Phoenix und die Rettung des Designs
 ## Eine Reise zu Mike Hoge zum 20. Jubiläum von Gothic
@@ -418,19 +418,19 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
     }
 
     main {
-      /*  background: url("/appendix/behind-the-scenes/rescue-of-design/bg.jpg"); 
+        background: url("/appendix/behind-the-scenes/rescue-of-design/bg.jpg"); 
         background-position: top center;
         background-size: 100%;
-        background-repeat: no-repeat; */
+        background-repeat: no-repeat;
         width: 100%;
     }
         main .article h1 {
                 font-size: 20px;
             }
-    /*
+    
     .article {
         max-width: 700px;
-    }*/
+    }
 
     .new-entry {
         font-family: monospace;
