@@ -123,7 +123,7 @@
 			* Chapter 4: War of Mines
 			* Chapter 5: Ancient Temple
 			* Chapter 6: Bloodnight
-		3. Plot Logic
+		3. Plot Logic  
 	* Between Act 1 to 2
 	2. Act II: Nemesis
 		1. Plot Abstract

@@ -106,7 +106,7 @@ Level Structure is so abstract,  it could well be to mechanics?
             4. Stone Circle 
             5. Lighttower & SmugglersBay
             6. Monastery Ruins
-        6. Colony Revisited (after Bloodnight)
+        6. Colony Revisited
         7. Passes and Borders
     2. Underworld
         1. Mines
