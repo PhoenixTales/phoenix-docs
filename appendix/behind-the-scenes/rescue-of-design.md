@@ -427,10 +427,10 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
         main .article h1 {
                 font-size: 20px;
             }
-    
+    /*
     .article {
         max-width: 700px;
-    }
+    }*/
 
     .new-entry {
         font-family: monospace;
