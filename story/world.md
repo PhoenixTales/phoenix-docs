@@ -1,6 +1,6 @@
 # World Design
 
-<img class="world" src="/_img/overworld.jpg">
+<img class="world" src="/_img/world/overworld.jpg">
 
 At first we will deal with the design of the levels of Act I, everything within the Colony before the fall of the barrier, divided into Overworld and Underworld design. We will first analyse the general level structure and how the layout of the world evolved, then deal with the evolution of particular camps and other locations, before we explain in a summary to each of these analyses how we approach the design of these locations in Act I of Phoenix. 
 
