@@ -2,13 +2,13 @@
 
 <img class="world" src="/_img/world/overworld.jpg">
 
-In this part of the documentation we are dealing with the design of the game world. General questions such as the size of the world and the geography of the universe as a whole are dealt with in the /lore and are seen as evident here. We start with the landscape of the colony and the explorable sections of the outside world and the climate as well as the vegetation inside and outside of the barrier, then continue with the monsters inhabitating the world and how they evolved under the influence of the barrier. 
+In this part of the documentation we are dealing with the design of the game world, starting with its level structure, the evolution of the world map and layout (the gothic kingdom as a whole is dealt with in the /lore). We proceed with the landscape of the colony and the explorable sections of the outside world and the climate as well as the vegetation inside and outside of the barrier, then continue with the monsters inhabitating the world and how they evolved under the influence of the barrier. 
 
-We will then proceed to analyse the evolution of all the locations; with the camps and the city in particular - including their layout, artstyle, architecture, their pattern or possibilities of exploration and their historic background. This section is divided into overworld, underworld, outside world and demon world. The locations within the colony are first dealt with in relation to our first act, then in "Colony Revisited" in relation to our second act (after the fall of the barrier). 
+In the main part we will analyse the evolution of all the locations; the camps and the city in particular - including their layout, artstyle, architecture, their pattern or possibilities of exploration and their historic background. This section is divided into overworld, underworld, outside world and demon world. The locations within the colony are first dealt with in relation to our first act, then in "Colony Revisited" in relation to our second act (after the fall of the barrier). 
 
-Finally we will deal with the different factions and related guilds as they live in and live up the game world and with their role in shaping the same. Including general considerations of their role-specific A-life in the simulated world as well as dealing with their visuals (body, costumes, equipment). 
+Finally we will deal with the different factions and related guilds as they live in and live up the game world and with their role in shaping the same. Including general considerations of their role-specific A-life in the simulated world as well as dealing with their visuals (body, costumes/attire, equipment). 
  
-After the analysis of each of these topics (the landscape, the vegetation, the monsters, the locations, the guilds and character visuals), we will summarise our findings, before presenting our solution for Phoenix. As in the other sections of the documentation, "Alpha Research" and Phoenix Gamedesign are thereby clearly discernible.
+At the end of the analyses of each of these topics within the before mentioned categories (landscape, vegetation, monsters, locations, guilds and character visuals), we will summarise our findings, before presenting our solution for Phoenix. As in the other sections of the documentation, "Alpha Research" and Phoenix Gamedesign are thereby clearly discernible.
 
 <!-- In the Act II section we will deal with what the Sequel team wanted to do with the colony in their project, with the limitations they were facing and also, in parts, with what went wrong with the level design of the official sucessor - arising in a critique against the Sequel, while falling far behind it in its artdirection and loosing any gothic themes and aesthetics - before dealing with our own world design for act 2. We will then elaborate how we approach the design of the outside world (Khorinis surroundings); but the majority of this section will cover the design of the *City*. -->
 
@@ -25,11 +25,6 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
 --- 
 
 **Content:**
-
-<!-- 
-Level Structure is so abstract,  it could well be to mechanics?
-1. [Level Structure](/story/level-structure)
--->  
 
 1. World Map & Layout
 	1. [Level Structure](/story/level-structure)
@@ -81,14 +76,14 @@ Level Structure is so abstract,  it could well be to mechanics?
     1. Overworld
         1. Middle of the Colony
             1. Hangman's Tree
-            2. Old Camp
+            2. Old Camp / Castle
             3. Western Plateau
             4. Eastern Grasslands
         2. Northern Environment
             1. Cliff & Exchange Place
-            2. Old Pass & Troll Canyon
-            3. Bandits Camp
-            4. Abandoned Mine Outside
+            2. Abandoned Mine Outside
+            3. Old Pass & Troll Canyon
+            4. Hidden Bandits Hideout
         3. Western Environment 
             1. New Camp
             2. Rock Cemetary & Tombs
@@ -102,11 +97,19 @@ Level Structure is so abstract,  it could well be to mechanics?
         5. Eastern Environment
             1. Hermit's Valley
             2. Psi Camp
-            3. FogTower & Fogmine
+            3. FogTower 
             4. Stone Circle 
-            5. Lighttower & SmugglersBay
-            6. Monastery Ruins
-        6. Colony Revisited
+            5. Lighttower
+            6. Beach & SmugglersBay
+            7. Monastery Ruins
+        6. Colony Revisited (Act 2)
+            1. Refugee Camp (Mst)
+            2. Infected Mine
+            3. Old Fortress (Tym)
+            4. Abandoned Camp 
+            5. Demon Camp (Dmc)
+            6. Surface Destruction
+            7. Mystic Forests 
         7. Passes and Borders
     2. Underworld
         1. Mines
@@ -115,11 +118,11 @@ Level Structure is so abstract,  it could well be to mechanics?
             3. Free Mine
             4. Fog Mine
         2. Monster Lairs 
-            1. Gobbo Cave
+            1. Gobbo Caves
             2. Troll Hoards
-            3. Bloodfly Nest
+            3. Bld/Crw Nests
             4. Lurker Nests
-            5. Crawler Nests 
+            5. Shadow Caves
             6. Sprayerlair
             7. Dragon Hoard
         3. Natural Caves
@@ -178,7 +181,7 @@ Level Structure is so abstract,  it could well be to mechanics?
             6. Revolt 
                 * Scraper's Union
                 * Silence
-			7. Bloodearth Clan
+	    7. Bloodearth Clan
         2. Nemesis
             1. Folk
                 * Workers
