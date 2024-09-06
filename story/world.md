@@ -208,7 +208,7 @@ Level Structure is so abstract,  it could well be to mechanics?
                 * Royal Shadows
             6. Outlaws
                 * Anti-Royal KdW
-                * Demonhunters
+                * [Demonhunters](/story/factions/guilds/demonhunters)
                 * Bandits
             7. Revolt
                 * Scrapers Union
