@@ -45,6 +45,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
         4. Swamp Forest
         5. Demon Forest
         6. Outside Forest
+        7. Mystic Forests (Act 2)
 4. Fauna / Monster Design
     1. Mammals
         1. Molerats
@@ -130,25 +131,41 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
             1. OrcCity
             2. OrcGraveyard
         5. AncientTemple
+            1. Level 1
+            2. Level 2
+            3. Level 3
+            4. The Abyss
+            5. The Citadell
     3. Outside World
         1. Abandoned Factory
         2. Old Fortress
-        3. Franks Castle
+        3. Moor / Franks Castle 
         4. Half-Orc Camp
         5. City Design
-            1. Older City 
+            1. Older City
                 1. Castle
-                2. Monastery
-                3. Orphanage
-                4. Manufactures
-                5. Manors
+                    1. Fire Fortress
+                    2. The Asylum
+                2. Upper Streets
+                    1. Monastery
+                    2. Orphanage
+                    3. Manors
+                    4. Warehouse
+                3. Lower Streets
+                    1. Gutter
+                    2. Canal
+                    3. Manufactures
             2. Newer City
                 1. Ore Factory
                     1. Cathedral
                 2. Manufactures
                 3. Ghost District
-                4. Varantian Quarters
+                4. Varantian District
+                    1. Workers Quarters
+                    2. The Suq
+                        1. Trading Centre
                 5. Slavemarket
+                    1. Panopticon
             3. Slums
             4. Canalisation
             5. Catacombs
@@ -228,6 +245,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
             10. Clans
                 * Bloodearth
                 * Dreamfire
+
 
 <style>
 
