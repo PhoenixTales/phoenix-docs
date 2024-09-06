@@ -1,4 +1,4 @@
-# Phoenix & the Rescue of Design
+# The Rescue of Design
 
 ![Title](/appendix/behind-the-scenes/rescue-of-design/title.png)
 ![A journey to Mike Hoge on behalf of the 20th Anniversary of Gothic](/appendix/behind-the-scenes/rescue-of-design/title2.png)
