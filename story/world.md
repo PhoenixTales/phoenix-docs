@@ -115,7 +115,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
     2. Underworld
         1. Mines
             1. Abandoned Mine
-            2. Old Mine
+            2. Old / Lost Mine
             3. Free Mine
             4. Fog Mine
         2. Monster Lairs 
