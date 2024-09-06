@@ -111,7 +111,7 @@ nav {
 
 nav img {
   display: block;
-  image-rendering: pixelated;
+  /*image-rendering: pixelated;*/
   width: 90%;
   margin: 20px auto 0;
   transition: all 0.3s ease-out;
