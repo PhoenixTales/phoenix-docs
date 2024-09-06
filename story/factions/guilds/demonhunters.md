@@ -14,7 +14,7 @@ TODO:
 
 ## Attire
 
-![Sequel Demonhunter Armour Concept](_img/factions/guilds/dht.jpg)
+![Sequel Demonhunter Armour Concept](/_img/factions/guilds/dht.jpg)
 
 ### Sequel Analysis
 
