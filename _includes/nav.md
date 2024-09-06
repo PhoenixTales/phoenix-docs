@@ -201,10 +201,6 @@
 
 <style>
 
-	nav img {
-		image-rendering: pixelated;
-	}
-
 /*
 	.header { 
 		font-family: "IBM VGA 8x16"; 
