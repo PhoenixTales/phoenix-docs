@@ -56,13 +56,13 @@ Based on the considerations above, we will go with the following solutions.
 
 * We conceive of the Demonhunters as a special unit with a two-fold purpose: On one hand they are specialised in hunting demons, on the other hand as followers of Lee and the KDW (they evolved from surviving former Orgas and Mercenaries and some new followers from the City) they are renegades in the eyes of the crown. In this role they fight against the royal forces including the inquisition (that they conceive as "demonic" too), in a guerilla kind of way.
 
-* The rope that some of them have wrapped around their body (we'll also create textures and models without it) we conceive of as a grappling hook in the tradition of the former Orgas (called Ore Pirates among other names) and used the metaphor of boarding a ship as robbing the OCs convoys. In German, a grappling hook is called an "Enterhaken", which serves the purpose of boarding (german "entern") a ship. In the context of Act 2 they'll "board" the city and occupy one building at a time.
+* The rope that some of them have wrapped around their body (we'll also create textures and models without it) we conceive of as a grappling hook in the tradition of the former Orgas (which were called Ore Pirates among other names and used the metaphor of boarding a ship as robbing the OCs convoys). In German, a grappling hook is called an "Enterhaken", which serves the purpose of boarding (german "entern") a ship. In the context of Act 2 they'll "board" the city and occupy one building at a time.
 
 * Due to the helmet being the only difference between medium and heavy armour we'll threat both as medium and design a new heavy version on our own; a (simpler) helmet can be part of the light version already and the helmet could evolve a bit too.
 
 * Since the medium version "lengthens" the armour by adding more scales as a protection of the upper thighs, our heavy version will evolve further into the same direction with the protection reaching further down and around. 
 
-* Due to our modular armor progression there will not be three fixed different armours, but a more granular and fluid progression from light to heavy, where the three armour versions serve more as three examplatory steps within a progression with several steps more and some degree of variation. 
+* Due to our modular armor progression there will obviously not be three fixed different armours, but a more granular and fluid progression from light to heavy, where the three armour versions serve more as three examplatory steps within a progression with several more steps inbetween and some degree of variation. 
 
 
 ### DHTL
@@ -72,7 +72,6 @@ Based on the considerations above, we will go with the following solutions.
 * At this most basic level the armour would look very "bald" though (even if it will already look a bit more interesting by the addition of stuff in slots like a leather bag as the Orgas used to wear it and so on), therefore, both to give it more coherence with all the former armours of the NC and for more variety, we may add some fur cover in the old Orga style, differently shaped asymmetric leather covers (from strangely coloured demonic leather) and we also could add scarves. 
 * Since at the beginning of the game no one should know who these guys are, operating in anonymity and without any obvious visible signs of belonging to a specific faction, a blue scarf would destroy this ambiguity; thus we will dye it black, with only a hint of the blue it once was, by having a faded-out black with traces or a slight shine of dark turquoise, while there are still enough accents of colour from the demonic materials used. 
 * The belt model at least of the DHTL has to be changed a bit as it appears way too thick for what it is, compared to e.g. a very similar belt on the novice armour which is modeled completely flat.
-
 * As for variations, the leather may have three slightly different colours (darker, less saturation) and patterns of use.
 * At this stage as for upgrades he can get the mask, some fur cover and can wear a scarf or not and the armour will look more similar to a darker, more neutral and slightly better protected version of an Orga armour with wider pants.
 
@@ -88,7 +87,7 @@ Based on the considerations above, we will go with the following solutions.
 * He can get a long armed leather shirt to replace his old and the DHTM gloves
 * He can get the demonic crawler plate attachments as protection for the arms and legs
 * He can upgrade his studded leather cover with the DHTM version with the neck protection
-* The mere linnen belt now gets a wide black gladiator style leather belt underneath as it is only hinted at slightly in the original DHTM (the execution has to be improved so that it is also seen above and does not end so suddenly in the brown horizontal leather bands around the waist, a potion belt can be attached there. 
+* The mere linnen belt now gets a wide black gladiator style leather belt underneath as it is only hinted at slightly in the original DHTM - the execution has to be improved so that it is also seen above and does not end so suddenly in the brown horizontal leather bands around the waist; a potion belt can be attached there. 
 * He can upgrade his sword belt with demon spikes as seen in the DHTM
 * He can replace his shoes by better boots. The original boots should be reduced a bit in their thickness, as they now take away from the desired military knickerbocker look and hide the legwraps, while the original texture as used on the naked model lays emphasis on the wraps which also serve as closures of the boots. 
 * And he can upgrade his mask by additional leather protection and partially crawler plates in the neck area (DHTM), with a dedicated texture and new mapping for the front of the mask
@@ -96,8 +95,11 @@ Based on the considerations above, we will go with the following solutions.
 
 ### DHTH
 
-* In the last stage he will be able to elongate his crawler plate protection at around the legs or rather: Attach an additional set of plates.
+* In the last stage he will be able to elongate his crawler plate protection around the legs or rather: Attach an additional set of plates.
 * He may replace his gloves by some made with a more sturdy leather from some strong demonic creature.
 * Same with his boots and the mask
 * There may be some additional longer scarf variation that covers parts of the back of the character and hangs down below the hips similar to a cape, giving him a more intimidating appearance.
-* In the context of the story he will additionally have to upgrade his helmet by a gas filtering function with a primitive leather tube running towards a filter attached somewhere at the body, wherein there are some magical herbs soaked into a magical protective liquid made by the KDW in order to not breath in the toxic air.
+* In the context of the story he will additionally have to upgrade his helmet/mask by a gas filtering function with a primitive leather tube running towards a filter attached somewhere at the body, wherein there are some magical herbs soaked into a magical protective liquid made by the KDW in order to not breath in the toxic air.
+* There should also be a variety of different demonic scales used from member to member, so that there will be a difference in colour and shades (alongside the same variation among the monsters); e.g. different shades of blue and green.
+
+
