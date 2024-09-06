@@ -6,7 +6,7 @@ In this part of the documentation we are dealing with the design of the game wor
 
 In the main part we will analyse the evolution of all the locations; the camps and the city in particular - including their layout, artstyle, architecture, their pattern or possibilities of exploration and their historic background. This section is divided into overworld, underworld, outside world and demon world. The locations within the colony are first dealt with in relation to our first act, then in "Colony Revisited" in relation to our second act (after the fall of the barrier). 
 
-Finally we will deal with the different factions and related guilds as they live in and live up the game world and with their role in shaping the same. Including general considerations of their role-specific A-life in the simulated world as well as dealing with their visuals (body, costumes/attire, equipment). 
+Finally we will deal with the different factions and guilds as they live in and live up the game world and their role in shaping the same. Including general considerations of their role-specific A-life in the simulated world as well as dealing with their visuals (body, costumes/attire, equipment). 
  
 At the end of the analyses of each of these topics within the before mentioned categories (landscape, vegetation, monsters, locations, guilds and character visuals), we will summarise our findings, before presenting our solution for Phoenix. As in the other sections of the documentation, "Alpha Research" and Phoenix Gamedesign are thereby clearly discernible.
 
