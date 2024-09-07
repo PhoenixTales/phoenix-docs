@@ -91,4 +91,10 @@ But most likely the sign will keep evolving further...
         color: var(--blood);
         text-align: center;
     }
+
+    .article img {
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
 </style>
