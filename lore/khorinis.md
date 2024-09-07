@@ -32,11 +32,9 @@ Khorinis as "of Khorin" has two meanings depending on what people refer to. They
 
 > Im Namen König Rhobars II, (...) verurteile ich diese vier Verbrecher zur Haft in den Erzminen von Khorinis. [C]
 
-> Das Arbeitslager bei den königlichen Minen. [C]
+<!--> I preferred to hide for a while and there was no better place for this than Khorinis.-->
 
-> I preferred to hide for a while and there was no better place for this than Khorinis. [C]
-
-> Die Stadt lag weit entfernt von den großen Königsstädten im Zentrum des Reiches. Hier kümmerte es niemanden, welches Schicksal den anderen in diesen äußersten Winkel der Welt verschlagen haben mochte. [C]
+> Ich zog es vor, eine Weile unterzutauchen, und dafür gab es im ganzen Königreich keinen besseren Ort als Khorinis. / Die Stadt lag weit entfernt von den großen Königsstädten im Zentrum des Reiches. Hier kümmerte es niemanden, welches Schicksal den anderen in diesen äußersten Winkel der Welt verschlagen haben mochte. [C]
 
 > Als sein Spähtrupp von der herannahenden Orkarmee überrollt zu werden droht, sucht Milten rechtzeitig sein Heil in der Flucht. Völlig entkräftet schleppt er sich *in die nächste Stadt*, wo er unglücklicherweise von den Stadtwachen als Deserteur festgenommen wird. [W]
 
@@ -46,10 +44,6 @@ Khorinis as "of Khorin" has two meanings depending on what people refer to. They
 
 > In order to save his most precious mine in Khorinis, where his people gathered
 magical Ore and forged them into the strongest weapons in the land (...) [M]
-
-> The bright winter sky grew gray and dark as thick black clouds obscured the
-sun. Lightning flashed across the sky darting through a whirlwind of energy as the mages cast the spell using the foci. A blue-hazed sheet drove across the mine, passing the boundaries of will (...) / And so it came to pass that fleeing from greed itself brought greed and thus
-tribulations upon King Rhotbar. [M]
 
 
 ## Strategic importance
