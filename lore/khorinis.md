@@ -1,8 +1,10 @@
 # Khorinis
 
-**Author:** *Flosha*  
-**Created:** 12.06.2024   
-**Last update:** 07.09.2024  
+```
+Author: Flosha  
+Created: 12.06.2024   
+Last update: 07.09.2024  
+```
 
 
 ## Etymology
@@ -123,7 +125,7 @@ Please note that here we are primarily focusing on the definition and role of Kh
   }
 
   .article h1 {
-    margin: 25vh 0 0;
+    margin: 40vh 0 0;
     font-size: 35px;
   }
 </style>
