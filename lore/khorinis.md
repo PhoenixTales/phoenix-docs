@@ -60,7 +60,7 @@ The manual makes it very clear, that magical ore is *only* to be found in Khorin
 
 ### Climate
 
-The rather mediterranean climate of the colony with burned grass and people being able to run around without much or any kind of cover, which would otherwise serve as a reasoning for a position further south, is explained in the novel by the barrier and is thereby not a sufficient reasoning against a position in the north of Myrtana:
+The rather mediterranean climate of the colony with burned grass and people being able to run around without much or any kind of cover, which would otherwise serve as a reasoning for a position further south, is explained in the novel by the barrier and is thereby not a sufficient reasoning against a position in the north of Myrtana.
 
 The barrier is both blocking light to some degree (leading to that desired depressive gothic atmosphere within the colony that was initially aimed for) and still makes it much warmer inside, almost like a conservatory. At the same time not much (if any) rain can pass, resulting in the dryness of most of the soil, except for the areas around the rivers.
 
