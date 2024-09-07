@@ -87,7 +87,7 @@ They *had* the *idea* of an island at first, because of *Escape from New York*, 
 And the Comic, that was considered canonical and showed the city of Khorinis (that Milten travelled to *by foot* from the northern plains (in the north of Myrtana), with Khorinis being the "*next* city" from there, as the official website informed us) - and thus showing us a part of the outside world - surrounded by huge mountain massives, has thus obviously given no reason to imagine an island either. While the barrier was gone, the game world of the Sequel was meant to be limited by the inability to swim out of the world (due to monsters in the sea) and orcs (for reasons related to the story) being placed around all the exits of the valley. 
 
 There is *one* mentioning of an island though, as quoted above. In the design documentation of story version 3, there is written a dialogue of Ka-Garon, one of the "higher" novices: 
-> (...) Be welcome, brother in spirit. You have found, what you searched for. The only place of freedom and happiness that exists *on this dreary island*. (...) [D]
+> Be welcome, brother in spirit. You have found, what you searched for. The only place of freedom and happiness that exists *on this dreary island*. [D]
 
 Independent of the question if Khorinis and the colony are situated on an actual island, we can definitely think of it as an island in a metaphorical meaning, due to its secluded position ("ore island" may be a common term). Just as the Orgas as "ore pirates" are pirates in a metaphorical sense, the colony as this valley surrounded by the barrier is like a metaphorical island - far more secluded than any island, as it is not surrounded by water, which men could at least overcome by ships, but by unbreachable and insurmountable magic.
 
@@ -97,10 +97,10 @@ But *if* Khorinis is an *actual* island, based on all the findings before and th
 
 ## Phoenix Solutions
 
-* A long time ago the holy Khorin brought the "lance of the sun" (khor = sun, korin = lance (the Sceptre of Varant)) to the city, hence receiving his name. He came to be considered a saint and buried at the old temple of fire (which may have been founded by or in the name of him - which is why the local Order of Fire in Khorinis is known as "the Order of Khorin") and the city named after him. This does *not* mean that the city itself has been *founded* by him; a smaller city has been here long before and there may already have been a holy place here, which is why he brought the sceptre to this place, from where it would later find its way into the hands of the myrtanian kings.
-
 Please note that here we are primarily focusing on the definition and role of Khorinis as a location in the grand scheme of the history of Myrtana, while the more elaborated history of the City in particular will be dealt with in the city design documentation. 
 {: .subtext }
+
+* A long time ago the holy Khorin brought the "lance of the sun" (khor = sun, korin = lance (the Sceptre of Varant)) to the city, hence receiving his name. He came to be considered a saint and buried at the old temple of fire (which may have been founded by or in the name of him - which is why the local Order of Fire in Khorinis is known as "the Order of Khorin") and the city named after him. This does *not* mean that the city itself has been *founded* by him; a smaller city has been here long before and there may already have been a holy place here, which is why he brought the sceptre to this place, from where it would later find its way into the hands of the myrtanian kings.
 
 * Khorinis is located in the northeast of the eastern side of Myrtana, not too far away from the Northern Plains, but far enough to be imagined by Milten - at the time of his desertion - to be unlikely affected by the war anytime soon, as it is focused on or expected to be pushed towards mostly the central, royal cities, which Khorinis is far away from. (It is thus obviously not the ore that the orcs are after.) Geographically the colony and the city are on a mountainous peninsula with direct access to the Myrtanian Sea. 
 
@@ -110,14 +110,14 @@ Please note that here we are primarily focusing on the definition and role of Kh
 
 * Additionally, the erection of the barrier led to the first disturbance of the sleeper in his sleep, which caused the ritual to go wrong, the barrier to increase in size and the mages to become prisoners of the prison they themselves created. 
 
-* Since its erection the barrier is heavily influencing the climate within the colony and affects the atmosphere and the depressive, gloomy mood of the valley. 
+* Since its erection the barrier is heavily influencing the climate within the colony and affects the atmosphere and the depressive, gloomy mood of the game world. 
 
 
 <style>
   main {
     background: url("/_img/bg/khorinis-bg.jpg");
     background-position: top center;
-    background-size: 100%;
+    background-size: 746px;
     background-repeat: no-repeat;
     width: 100%;
   }

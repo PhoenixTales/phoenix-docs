@@ -3,7 +3,7 @@
 **Author:** *Flosha*  
 **Written:** 07.09.2024  
 
-Before diving into the research of the Gothic lore, which the lore of Phoenix is derived from and aims to develop further in a consistent way, we have to list our sources. In the Phoenix project only the sources listed below are considered as relevant. Everything else related to the Gothic franchise - that may be considered as canonical by the rightholder - is irrelevant to us. Wenever we quote or mention something from one of the sources below, we use these shortcuts in square brackets below. Also: the list is roughly ordered by priority; a source higher on the list we consider to be more important to adhere to.
+Before diving into the research of the Gothic lore, which the lore of Phoenix is derived from and aims to develop further in a way that is consistent and as loyal as possible to the vision we developed further from our sources, we have to list these sources. In the Phoenix project only the sources listed below are considered as relevant. Everything else related to the Gothic franchise - that may be considered as canonical by the rightholder - is irrelevant to us. Whenever we quote or mention something from one of the sources below, we use the appended shortcuts. Also: the list is roughly ordered by priority. A source that is higher on the list we consider to be more important to adhere to.
 
 ```
 Phoenix' Sources:
