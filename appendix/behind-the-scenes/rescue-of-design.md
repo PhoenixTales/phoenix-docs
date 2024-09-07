@@ -53,8 +53,7 @@ Und es kamen weitere Geschenke.
 
 Hin und wieder hatten Oliver aka logx und ich versucht, neue Mitglieder aktiv für unser Projekt zu gewinnen. Ohne Erfolg. Ich glaubte und erklärte immer wieder: Wenn uns jemand *wirklich* helfen will, dann würde er von sich aus kommen.
 
-[![Unser Phoenix als Logo von PhoenixTales](/appendix/behind-the-scenes/rescue-of-design/phoenix.png)](https://phoenixtales.de)
-{: .right }    
+[![PhoenixTales Team Website](/appendix/behind-the-scenes/rescue-of-design/phoenixtales.jpg)](https://phoenixtales.de) 
 
 &#60;poet-mode&#62; Der Traum würde wie ein Funke wirken, der sein Herz entzündet, ihn langsam dafür brennen lassen, bis er sich darin verzehren würde. Man gibt etwas von sich in das Projekt. Manche etwas viel. Doch wir sterben alle. Überleben nur in dem Maß, in dem wir uns erschöpfen: Was wir behalten stirbt; was wir geben lebt weiter. &#60;/poet-mode&#62;
 
@@ -131,8 +130,7 @@ Der Spieler wird in dieses Gefängnis geworfen. Er kann sich aussuchen, welcher 
       
 GOTHIC hatte ein geniales Setting und war damals und ist heute noch revolutionär. Doch viel mehr noch ist es die ihm zugrundeliegende [Vision](/vision/vision-of-gothic), die wir grob als 'die Alpha' charakterisieren.
 
-![Die Monolith-Fraktion](/appendix/behind-the-scenes/rescue-of-design/monolith.jpg)
-{: .left }
+![Die Monolith-Fraktion](/appendix/behind-the-scenes/rescue-of-design/monolith-2.jpg)
 
 Ebenso mit STALKER: In der sogenannten "Zone" in Chernobyl, kämpfen verschiedene Fraktionen um die Vorherrschaft. In ihrem Zentrum steht der Sarkophagus, stark bewacht von den Monolith, einer fanatischen Sekte um den von ihnen verehrten Monolithen; doch sind sie selbst Opfer des C-Consciousness, einem Über-Bewusstsein, das sie kontrolliert, eben wie die Sekte in GOTHIC, die unter dem Einfluss des Schläfers steht.  
 In der Zone treiben sich wegen der radioaktiven Strahlung überall mächtige Mutanten herum; in der Kolonie sind es die Monster, die durch das magische Erz mutieren.
@@ -432,6 +430,12 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
         max-width: 700px;
     }
 
+    .article img {
+        max-width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
     .new-entry {
         font-family: monospace;
         font-size: 14px;
@@ -442,13 +446,22 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
         padding-right: 20px;
         max-width: 220px;
     }
+*/
+
+    .left {
+        display: block;
+        margin-left: auto;
+        margin-right: initial;
+        padding: 0 0 30px 20px;
+    }
 
     .right {
-        float: right; 
+        display: block;
+        margin-right: auto;
+        margin-left: initial;
         padding: 0 0 30px 20px;
-        max-width: 220px;
     }
-*/
+
     .caption {
         margin: 0em 1em 2em;
         color:#55504a;
