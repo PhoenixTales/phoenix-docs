@@ -117,13 +117,13 @@ Please note that here we are primarily focusing on the definition and role of Kh
   main {
     background: url("/_img/bg/khorinis-bg.jpg");
     background-position: top left;
-    background-size: 746px;
+    background-size: 700px;
     background-repeat: no-repeat;
     width: 100%;
   }
 
   .article h1 {
-    margin: 50vh 0 0;
+    margin: 45vh 0 0;
     font-size: 35px;
   }
 </style>
