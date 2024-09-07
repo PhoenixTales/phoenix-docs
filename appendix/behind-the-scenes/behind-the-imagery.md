@@ -45,7 +45,6 @@ In course of the years of development, I created different kinds of imagery for 
     }
         .article img:hover {
             border: 1px solid var(--stone);
-            border-radius: 5px; 
         }
 
 </style>
