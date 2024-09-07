@@ -1,4 +1,5 @@
 # Khorinis
+{: .bloody-heading }
 
 ```
 Author: Flosha  
@@ -119,5 +120,13 @@ Please note that here we are primarily focusing on the definition and role of Kh
   .article h1 {
     margin: 45vh 0 0;
     font-size: 35px;
+
+    display: inline-block;
+    background-color: var(--blood);
+    border: 2px solid var(--black);
+    color: var(--black);
+    margin: 1em 0;
+    padding: 1em 1.3em 1em 1em;
   }
+
 </style>
