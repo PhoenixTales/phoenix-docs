@@ -19,6 +19,8 @@
 
 ## What is Gothic?
 
+![Earliest Gothic logo from 1998, reconstructed by Avallach](_img/logo/gothic-logo-sm.png)
+
 In order to create a gothic drama we have to define what “Gothic” is.  
 Gothic is much more than the game that was released. It was once supposed to be very different (as shown in the ["Vision of Gothic"](/vision/vision-of-gothic)); the underlying concepts from 1997-1999 were much more radical than what has been realised in 2001. These early ideas in their radicality fascinate us more than the actual game. And we go as far as to claim that it was an attempt to initiate a genre of gothic-like games and to revolutionise the world of fantasy RPGs.  
 
