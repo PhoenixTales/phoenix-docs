@@ -223,7 +223,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
                 * Royal Army
             5. Law
                 * Royal Judges
-                * Inquisition
+                * [Inquisition](/story/factions/guilds/demonhunters)
                 * Black Guard
                 * Royal Shadows
             6. Outlaws
