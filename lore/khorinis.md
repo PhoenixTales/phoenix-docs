@@ -19,9 +19,7 @@ We can either assume that the word is comprised of two words such as "Khor+Inis"
 
 * ***inis*** old irish/welsh for "island" but *ynys* in welsh also more general as *piece of land*, *realm*, *territory*. E.g. Ynis Afallon - the famous "Avalon" from the legends.
 
----
-
-Based on the research above and the idea of Khorin-is, it is an obvious and easy explanation for Khorinis to mean as much as the territory/valley and city "of Khorin", a saint from past days, as I originally suggested. 
+Based on this research and the idea of Khorin-is, it is an obvious and easy explanation for Khorinis to mean as much as the territory/valley and city "of Khorin", a saint from past days, as I originally suggested. 
 
 Based on the idea of Khor-Inis it could mean as much as the "island of the sun", "the island in the east", "the territory in the east", or the "eastern creek". It is noteworthy that Avalon (Ynis Affalon) was sometimes also described as a valley instead of an island in medieval sources and so Khorinis could as well mean as much as "the valley of the east". 
 
@@ -125,7 +123,7 @@ Please note that here we are primarily focusing on the definition and role of Kh
   }
 
   .article h1 {
-    margin: 40vh 0 0;
+    margin: 50vh 0 0;
     font-size: 35px;
   }
 </style>
