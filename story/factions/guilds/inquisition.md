@@ -12,7 +12,7 @@
 
 **Attire:**  
 * their robes are black (natural black / ashen wool and dark leather), optionally with crimson details (such as amulets).
-* may cover all or a part of their face with a mask (Vidocq styled mirror mask?)
+* may cover all or a part of their face with a mask (some may wear a Vidocq styled mirror mask).
 
 **Royal Judges vs. Inquisitors:**
 * *Jurisdictional Responsibility:* Royal judges are responsible exclusively for worldly matters and crimes, Inquisitors are responsible exclusively for hereticism ("religious crimes" of non-initiated alchemists, witches, sects etc.) This is the main distinction that defines them jurisdictionally.
