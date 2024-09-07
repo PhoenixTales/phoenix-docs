@@ -180,7 +180,7 @@
 	3. [FAQ](/promo/faq/en)
 	3. Devblog (Behind the Scenes)
 		1. [The Team behind Phoenix](/appendix/behind-the-scenes/team)
-		2. Behind the Imagery
+		2. [Behind the Imagery](/appendix/behind-the-scenes/behind-the-imagery)
 			1. [PhoenixTales Branding](/appendix/behind-the-scenes/team-branding)
 			2. [Design of the ASCII Art](/appendix/behind-the-scenes/ascii)
 			3. [Evolution of the Nyx Sign](/appendix/behind-the-scenes/nyx-sign)
