@@ -93,6 +93,7 @@ But most likely the sign will keep evolving further...
     }
 
     .article img {
+        display:  block;
         max-width: 100%;
         margin-left: auto;
         margin-right: auto;
