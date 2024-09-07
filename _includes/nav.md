@@ -97,11 +97,11 @@
 			1. Folk (WRK/BEG/BAU)
 			2. Magnates (VAG)
 			3. Clergy (KDF/KDW/KDL)
-			4. Outlaws (DHT/BDT)
+			4. Outlaws ([DHT](/story/factions/guilds/demonhunters)/BDT)
 			5. Royals (PAL/GRD/SLD)
 			5. Heretics (MYS/DMC/AMZ)
 			6. Revolt (MST/SLV)
-			7. Law (MGS/INQ/SGD)
+			7. Law (MGS/[INQ](/story/factions/guilds/inquisition)/SGD)
 			8. Pariahs (POS/HLF)
 			9. Clans (BLO/DRE)
 
