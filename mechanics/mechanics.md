@@ -2,9 +2,11 @@
 
 <img class="nyx-ascii" src="/_img/nyxascii.png">
 
-**Author:** *Flosha*  
-**Created:** 22.11.2022  
-**Changed:** 25.08.2024  
+```
+Author: Flosha
+Created: 22.11.2022  
+Changed: 25.08.2024  
+```
 
 In this section of the concept we will deal with how to translate the *vision* into gameplay; how the player can play and how to design the underlying systems enabling this play, to bring our ideas into life through code.  
 
@@ -71,7 +73,7 @@ Classes, Attributes, Skills, modes of interaction, experience, attitudes, interf
         image-rendering: pixelated;
         max-height: 550px;
         max-width: 100%;
-        margin: -2em auto;
+        margin: -1em auto -2em;
     }
         main .article h1 {
             font-size: 22px;
