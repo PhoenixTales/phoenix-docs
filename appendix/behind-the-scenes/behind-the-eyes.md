@@ -77,7 +77,7 @@ Senua’s Sacrifice uses third person for this reason, not first. It is all abou
 Max Payne 2 - A film noir love story
 {: .caption }
 
-Just as if you face the girl you love. You won’t understand her, you won’t fall in love with her, if you cannot see her from outside. You need the distance that pulls you towards her. If there was no distance, there would be no desire (to unite). 
+Just as if you face the girl you love. You won’t understand her, you won’t fall in love with her, if you cannot see her from outside. You need the distance that pulls you towards her. If there was no distance, there would be no desire.
     
 You will actually know and experience more about her by having this degree of distance, just as you experience more about you, when you distance yourself from your thoughts and your deeds, assessing them as if you would differ: And you do. You are not your thoughts nor your deeds, at least not just that.
     
