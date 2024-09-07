@@ -116,14 +116,14 @@ Please note that here we are primarily focusing on the definition and role of Kh
 <style>
   main {
     background: url("/_img/bg/khorinis-bg.jpg");
-    background-position: top center;
+    background-position: top left;
     background-size: 746px;
     background-repeat: no-repeat;
     width: 100%;
   }
 
   .article h1 {
-    margin: 500px 0 0;
+    margin: 25vh 0 0;
     font-size: 35px;
   }
 </style>
