@@ -15,36 +15,34 @@ In course of the years of development, I created different kinds of imagery for 
 ---
 
 [![PhoenixTales Branding](/appendix/behind-the-scenes/brand/phoenixtales3.png)](/appendix/behind-the-scenes/phoenix-logo)
-* [PhoenixTales Branding](/appendix/behind-the-scenes/phoenix-logo)
+[PhoenixTales Branding](/appendix/behind-the-scenes/phoenix-logo)
 
 [![PhoenixTales ASCII Art](/appendix/behind-the-scenes/ascii/phoenix-ascii.svg)](/appendix/behind-the-scenes/ascii)
-* [ASCII Art](/appendix/behind-the-scenes/ascii)
+[ASCII Art](/appendix/behind-the-scenes/ascii)
 
 [![Phoenix Sign](/appendix/behind-the-scenes/logos/nyx/nyxsign-2023.jpg)](/appendix/behind-the-scenes/nyx-sign)
-* [Phoenix Sign](/appendix/behind-the-scenes/nyx-sign)
+[Phoenix Sign](/appendix/behind-the-scenes/nyx-sign)
 
 [![Phoenix Logo](/appendix/behind-the-scenes/logos/phoenix/phnx-logo-sm.png)](/appendix/behind-the-scenes/phoenix-logo)
-* [Phoenix Logo](/appendix/behind-the-scenes/phoenix-logo)
+[Phoenix Logo](/appendix/behind-the-scenes/phoenix-logo)
 
 [![Phoenix Mask](/appendix/behind-the-scenes/logos/mask/masked.jpg)](/appendix/behind-the-scenes/)
-* [Phoenix Mask](/appendix/behind-the-scenes/)
+[Phoenix Mask](/appendix/behind-the-scenes/)
 
 
 <style>
 
     .article img {
         max-width: 100%;
+        display: block;
         margin-left: auto;
         margin-right: auto;
         min-width: 400px;
+        border: 1px solid var(--black);
     }
         .article img:hover {
-            border: 1px solid var(--light);
+            border: 1px solid var(--stone);
+            border-radius: 5px; 
         }
-
-    ul {
-        text-align: center;
-    }
-    ul li { list-style: none; }
 
 </style>
