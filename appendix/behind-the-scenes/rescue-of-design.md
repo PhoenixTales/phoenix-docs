@@ -431,6 +431,7 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
     }
 
     .article img {
+        display: block;
         max-width: 100%;
         margin-left: auto;
         margin-right: auto;
@@ -449,14 +450,12 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
 */
 
     .left {
-        display: block;
         margin-left: auto;
         margin-right: initial;
         padding: 0 0 30px 20px;
     }
 
     .right {
-        display: block;
         margin-right: auto;
         margin-left: initial;
         padding: 0 0 30px 20px;
