@@ -52,6 +52,7 @@
 
 1. Mythology
 2. Geography
+	1. [Khorinis](/lore/khorinis)
 3. Culture
 4. MetaPhysics
 5. History 
