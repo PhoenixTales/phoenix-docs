@@ -2,8 +2,8 @@
 
 **Authors:** *Avallach, Flosha*  
 
-* from the order of the Inquisition
-* persecute heretics (such as priests involved in forbidden practices, witches, illegal alchemists and whole sects).
+* Order of the Inquisition
+* Inquisitors persecute heretics (such as priests involved in forbidden practices, witches, illegal alchemists and whole sects).
 * appear for investigation when paranormal events are reported
 * command the *black guard*
 * feared by society, since people who end up arrested by them are being executed or disappear (in the *asylum*)
