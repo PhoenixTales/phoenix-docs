@@ -2,8 +2,8 @@
 
 **Authors:** *Avallach, Flosha*  
 
-**Created:** 25.05.2024
-**Last change:** 07.09.2024
+**Created:** 25.05.2024  
+**Last change:** 07.09.2024  
 
 * Order of the Inquisition
 * Inquisitors persecute heretics (such as priests involved in forbidden practices, witches, illegal alchemists and whole sects).
