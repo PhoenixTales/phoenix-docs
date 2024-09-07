@@ -40,7 +40,7 @@
 ## Inspirations
 
 * Rumours about an Inquisition in the Sequel before we received it
-* Historical Inquisitors
+* Historical Inquisition
 * Grammaton Clerics from Equilibrium
 
 ![inquisition1](/_img/factions/guilds/_20240603_225038.JPG)
