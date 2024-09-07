@@ -125,7 +125,7 @@ Please note that here we are primarily focusing on the definition and role of Kh
     background-color: var(--blood);
     border: 2px solid var(--black);
     color: var(--black);
-    padding: 0.5em 0.8em 0.5em 0.5em;
+    padding: 0.4em 0.8em 0.4em 0.8em;
   }
     .article h1::before { content: initial; }
 
