@@ -48,7 +48,7 @@
 
 <!-- ### III. [Setting](/story/setting) -->
 
-## III. [Lore](/story/lore)
+## III. [Lore](/lore/lore)
 
 1. Mythology
 2. Geography
