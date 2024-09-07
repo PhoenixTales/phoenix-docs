@@ -43,12 +43,19 @@
 * Historical Inquisition
 * Grammaton Clerics from Equilibrium
 
+---
+
+![vidoqcmaskinspiration](/_img/factions/guilds/1_2hoOmPDAHvAlE5JCtRa89Q.jpg)
+![vidoqcmaskinspo2](/_img/factions/guilds/Ec9OHJvUEAAG2hL.jpg_large.jpg)
+
+![grammaton-cleric-1](_img/factions/guilds/equilibrium___john_preston_by_vitorramosoliveira-d736x8n-805207405.png)
+![grammaton-cleric-2](/_img/factions/guilds/equilibrium___cleric_john_preston____11_by_bamagiotis_d8d6855-fullview-2402351572.jpg)
+
 ![inquisition1](/_img/factions/guilds/_20240603_225038.JPG)
 ![inquisition2](/_img/factions/guilds/illustration-Spanish-Jew-Grand-Inquisitior.jpg)
 ![inquisition3](/_img/factions/guilds/c0293355-800px-wm.jpg)
 ![inquisition4](/_img/factions/guilds/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2lucXVpc2l0aW9uLXdoZWVsLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MjkwfX19.jpeg)
 
-![equilibrium-grammaton-cleric](/_img/factions/guilds/4K8a76qDhC8Oz0WLs8COLxoseIk.jpg)
-![vidoqcmaskinspo2](/_img/factions/guilds/Ec9OHJvUEAAG2hL.jpg_large.jpg)
-![vidoqcmaskinspiration](/_img/factions/guilds/1_2hoOmPDAHvAlE5JCtRa89Q.jpg)
+
+
 
