@@ -100,7 +100,7 @@ But *if* Khorinis is an *actual* island, based on all the findings before and th
 Please note that here we are primarily focusing on the definition and role of Khorinis as a location in the grand scheme of the history of Myrtana, while the more elaborated history of the City in particular will be dealt with in the city design documentation. 
 {: .subtext }
 
-* A long time ago the holy Khorin brought the "lance of the sun" (khor = sun, korin = lance (the Sceptre of Varant)) to the city, hence receiving his name. He came to be considered a saint and buried at the old temple of fire (which may have been founded by or in the name of him - which is why the local Order of Fire in Khorinis is known as "the Order of Khorin") and the city named after him. This does *not* mean that the city itself has been *founded* by him; a smaller city has been here long before and there may already have been a holy place here, which is why he brought the sceptre to this place, from where it would later find its way into the hands of the myrtanian kings.
+* A long time ago a fire alchemist brought the "lance of the sun" (khor = sun, korin = lance (the Sceptre of Varant)) to the city, wherefore he would later be known as "Khorin". He came to be considered a saint and buried at the old temple of fire (which may have been founded by or in the name of him - which is why the local Order of Fire in Khorinis is known as "the Order of Khorin") and the city named after him. This does *not* mean that the city itself has been *founded* by him; a city has been here long before and there may already have been a holy place here, which is why he brought the sceptre here, from where it would later find its way into the hands of the myrtanian kings (see lore/history).
 
 * Khorinis is located in the northeast of the eastern side of Myrtana, not too far away from the Northern Plains, but far enough to be imagined by Milten - at the time of his desertion - to be unlikely affected by the war anytime soon, as it is focused on or expected to be pushed towards mostly the central, royal cities, which Khorinis is far away from. (It is thus obviously not the ore that the orcs are after.) Geographically the colony and the city are on a mountainous peninsula with direct access to the Myrtanian Sea. 
 
@@ -108,7 +108,7 @@ Please note that here we are primarily focusing on the definition and role of Kh
 
 * Khorinis is also the only place in the kingdom where all these strange creatures and mutations occur or are initially coming from - they are in many cases not *known* or very rarely seen in other areas of the realm (due to reasons also explained in our /lore; you may also read [Gothic defined](/vision/gothic-defined)). 
 
-* Additionally, the erection of the barrier led to the first disturbance of the sleeper in his sleep, which caused the ritual to go wrong, the barrier to increase in size and the mages to become prisoners of the prison they themselves created. 
+* Additionally, the erection of the barrier led to the first disturbance of the sleeper in his sleep, causing the ritual to go wrong, the barrier to increase in size and the mages to become prisoners of the prison they created. 
 
 * Since its erection the barrier is heavily influencing the climate within the colony and affects the atmosphere and the depressive, gloomy mood of the game world. 
 
