@@ -45,10 +45,10 @@
 
 ---
 
-![vidoqcmaskinspiration](/_img/factions/guilds/1_2hoOmPDAHvAlE5JCtRa89Q.jpg)
-![vidoqcmaskinspo2](/_img/factions/guilds/Ec9OHJvUEAAG2hL.jpg_large.jpg)
+![vidoqcmaskinspo-1](/_img/factions/guilds/Ec9OHJvUEAAG2hL.jpg_large.jpg)
+![vidoqcmaskinspo-2](/_img/factions/guilds/1_2hoOmPDAHvAlE5JCtRa89Q.jpg)
 
-![grammaton-cleric-1](_img/factions/guilds/equilibrium___john_preston_by_vitorramosoliveira-d736x8n-805207405.png)
+![grammaton-cleric-1](/_img/factions/guilds/equilibrium___john_preston_by_vitorramosoliveira-d736x8n-805207405.png)
 ![grammaton-cleric-2](/_img/factions/guilds/equilibrium___cleric_john_preston____11_by_bamagiotis_d8d6855-fullview-2402351572.jpg)
 
 ![inquisition1](/_img/factions/guilds/_20240603_225038.JPG)
