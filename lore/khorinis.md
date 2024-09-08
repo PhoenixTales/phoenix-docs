@@ -57,7 +57,9 @@ The small size of the colony and the relatively little amounts of magical ore th
 
 It is common knowledge in the kingdom, that Khorinis is rich of ore, that a special, magical ore is to be found at its mines and that a lot of profit is made through the ore business. 
 
-But Milten, while being an educated man, stationed not too far away from the city, on the northern plains, is *not* aware of the penal colony nor of the barrier surrounding it. The existence and role of this high security prison at this "utmost corner of the world" is kept secret by the empire - we elaborate more on this in the design of the City. 
+But Milten, while being an educated man, stationed not too far away from the city, on the northern plains, is *neither* aware of the penal colony *nor* of the barrier surrounding it. The existence and role of this high security prison at this "utmost corner of the world" is kept secret by the empire.
+
+This will be elaborated on in the design documentation of the City. 
 
 ### Khorinis for the Orcs
 
