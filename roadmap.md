@@ -60,7 +60,7 @@ TODO:
 
     .article ul li {
         /* background: var(--darker); */
-        border: 3px solid var(--swamp);
+        border: 6px solid var(--water);
         list-style: none;
         padding: 0.5em 1em;
         margin-bottom: 1em;
@@ -97,12 +97,12 @@ TODO:
     }
 
     th {
-        background: var(--water);
+        background: var(--black);
         color: var(--blood);
         /*font-family: monospace;*/
         text-transform: uppercase;
         font-weight: normal;
-        font-size: 20px;
+        font-size: 14px;
     }
 
     tr:nth-of-type(odd) {
