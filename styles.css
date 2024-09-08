@@ -19,6 +19,7 @@
   --blood: #844d44;
   --copper: #9e6f4b;
   --demonic: #855f67;
+  --swamp: #506b44;
   --gold: #976b42;
   --fire: #dba37b;
   --ore: #67ab97;
@@ -268,7 +269,7 @@ footer {
 
 /* Article Info */
 
-.article .info {
+.article code .info {
   display: inline-block;
   max-width: 100%;
 }
