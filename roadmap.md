@@ -101,6 +101,7 @@ TODO:
     table tr td:nth-of-type(odd) {
         background: var(--water);
         text-align: center;
+        font-family: monospace;
     }
 
     td {
@@ -109,7 +110,7 @@ TODO:
 
     th {
         background: var(--darkblood);
-        /*font-family: monospace;*/
+        font-family: monospace;
         text-transform: uppercase;
         font-weight: normal;
         font-size: 14px;
