@@ -18,6 +18,8 @@ Update:  05.09.2024
 
 ## Attire & Equipment
 
+![Sequel Armour](/_img/factions/guilds/Demon-Hunter2.jpg)
+
 * **Clothing:** Simple black/ashen tunic with brown leather seams stitched on top, dark pants, black or dark brown boots.  
 * **Armour:** Some are just wearing haubergs, many are wearing combinations of brigandines from dark leather and a central scale armour (Sequel). Their arms and legs are always covered, often in combination with a sleeveless upper tunic in black with signs of the order. A few heavy soldiers are additionally wearing banded armour on top of the hauberg. 
 * **Helmets:** They are wearing helmets made from a mixture of metal and leather-covered brigandines with a visor inspired by *Judge Death* (Sequel) 
@@ -38,6 +40,7 @@ Update:  05.09.2024
 ![sweepers1](/_img/factions/guilds/movie-equilibrium-wallpaper-thumb.jpg)
 ![sweepers2](/_img/factions/guilds/876dfa2e955fb5af9dafbeef83b419ca.jpg)
 ![helmetinspiration1](/_img/factions/guilds/_20240603_162348.JPG)
+![Sequel Armour](/_img/factions/guilds/Demon-Hunter2.jpg)
 ![hansan-rising-dragon-ming-brigandine](/_img/factions/guilds/photo1585534.jpg)
 ![police-shield-example](/_img/factions/guilds/360_F_720171742_DuwgStCWY0MbjVCUarEIa8pMHKYP3u9T.jpg)
 
