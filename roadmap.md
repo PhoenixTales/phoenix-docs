@@ -54,11 +54,22 @@ TODO:
     }
 
 
-    .article ul li {
-        border: 5px solid var(--swamp);
+    .article ul {
+        padding-left: 0;
     }
 
-    .article 
+    .article ul li {
+        background: var(--darker);
+        border: 10px solid var(--swamp);
+        list-style: none;
+        padding: 0.5em;
+        margin-bottom: 1em;
+    }
+
+        .article ul li strong {
+            color: var(--blood);
+        }
+
 
     .article table {
         max-width: 100%;
@@ -68,7 +79,7 @@ TODO:
     }
 
     table, th, td {
-        border: 2px solid var(--stone);
+        border: 1px solid var(--stone);
         border-collapse: collapse;
     }
 
@@ -81,7 +92,7 @@ TODO:
     }
 
     th {
-        background: var(--stone);
+        background: var(--swamp);
         color: var(--black);
         font-family: monospace;
         text-transform: uppercase;
