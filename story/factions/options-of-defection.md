@@ -1,8 +1,11 @@
 # Options of Defection
 Or *Guild Switching Options*
 
-**Author:** *Flosha*  
-**Created:** 02.09.2024  
+```
+Author:  Flosha 
+Written: 02.09.2024  
+```
+{: .info }
 
 Now that we have an overview of the [joining conditions](/story/factions/guilds-joining-conditions), we can consider all the different possibilities of defection for each guild. This is relevant for the story-writing insofar as that we have to know which other guild the player should be able to turn to if he decides that he wants to or if he is banned from his current one.  
 Being banned (or even wanted dead as a traitor) can happen almost at any point in the story. For instance if the player kills an important guild member, this will (in the majority of cases) not be forgiven and will lead to the harshest consequences. Therefore it is important to know which options remain for the player at a given point in the story, coming from a specific position or rank within the current guild. 
