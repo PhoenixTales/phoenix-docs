@@ -431,7 +431,7 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
 
     .caption {
         margin: 0em 1em 2em;
-        color:#55504a;
+        color: #55504a;
         font-size: 13px;
     }
 
@@ -442,6 +442,7 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
     .center {
         text-align: center;
         display: inline-block;
+        max-width: 100%;
         margin-left: auto;
         margin-right: auto;
     }
