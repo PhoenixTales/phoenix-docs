@@ -75,7 +75,7 @@ TODO:
 
     .article table {
         max-width: 100%;
-        font-size: 12px;
+        font-size: 14px;
         margin: 2em 0;
         padding: 1em;
         overflow: auto;
@@ -96,9 +96,9 @@ TODO:
     }
 
     th {
-        background: var(--swamp);
-        color: var(--black);
-        font-family: monospace;
+        background: var(--black);
+        color: var(--swamp);
+        /*font-family: monospace;*/
         text-transform: uppercase;
         font-size: 22px;
     }
