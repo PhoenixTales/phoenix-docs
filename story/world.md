@@ -231,7 +231,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
             5. Law
                 * Royal Judges
                 * [Inquisition](/story/factions/guilds/inquisition)
-                * Black Guard
+                * [Black Guard](/story/factions/guilds/black-guard)
                 * Royal Shadows
             6. Outlaws
                 * Anti-Royal KdW
