@@ -1,10 +1,10 @@
 # Varantin
 
 **Author:** *Flosha*  
-**Created:** ...
+**Created:** 28.05.2024
 
 * Loosely inspired by the khazars, or in general turkic people of the steppe, their traders are shown in respective clothing of that period and their mercenaries in respective armour.
-* In order to show their "foreign" character, they should be speaking in their own language and use their own script and speak german/english with an accent.
+* In order to show their "foreign" character, they should be speaking in their own language, use their own script and speak german/english with an accent.
 * We could use the _"Khazarian Rovas"_ or some variation of it. If the player wants to read it, he has to learn the signs and decipher the meaning or ask an NPC to do it for him. For the language we do not really know how the language of the Khazars sounded like. Research suggests that it may have been similar to todays [chuvash language](https://m.youtube.com/watch?v=I5ZJT20qloI&pp=ygUVbWFuIHNwZWFraW5oIGNodXZhc2gg).
 
 Links:

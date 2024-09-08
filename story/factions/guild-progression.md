@@ -40,44 +40,6 @@ A conclusion that stands to reason would be to choose the same number as the att
 
 ```
 
-Ingame, these ranks would be displayed or described as:
-
-* Eingeweihter (kreisübergreifend)
-* Novize des Feuers / Wassers
-* Lehrling von X (Corristo/Saturas)
-* Adept des Feuers / Wassers
-* Feueralchemist / Wasseralchemist
-* Feuermagier / Wassermagier
-* Meister des Feuers / Wassers
-* Schüler der Dunklen Künste / Schüler des DmB
-* Dunkler Hexer / Dämonenbeschwörer
-
----
-
-Other rank ideas (Psi)
-
-0. None
-1. Anwärter
-2. (Tempel)diener/Novize
-3. Schüler von Guru X
-4. Bote/Anwerber der Bruderschaft
-5. .
-6. Niederer Baal ala Parvez
-7. Baal ala Namib
-7+ Hoher Baal, Guru
-
-
-Templer:
-
-0. None
-1. Anwärter/Diener
-2. Novize/Diener
-3. Schüler von Templer X
-4. Crawlerjäger
-5. Niederer Templer
-6. Gor (Mittlerer Templer)
-7. Gor Na (Hoher Templer)
-7+ Baron
 
 
 
@@ -103,46 +65,6 @@ Our system will then look like this:
 
 
 ---
-
-
-TO story and costume design:
-Milten may have been a "Lehrling" in the Comic,
-but since the game he may have become an "Adept".
-Or he may become one in course of the game;
-him being entrapped may even have to do with his task.
-Maybe him becoming an adept and you becoming a novice
-or an apprentice may be somehow linked even. 
-For example, a "Lehrling" may have some responsibility
-for a novice; so he serves you and you serve him. 
-But when he becomes an adept he cares more about his studies
-and you become an apprentice of Corristo yourself.
----
-In that case we can look at the Comic robe as an apprentice robe.
-Specific characteristics are: The leather parts are brown, not black.
-An initiate may not have any kind of clothing, or maybe just a skirt.
-A Novice may have the beggar-like skirt + the novice poncho from G2.
-An apprentice may have the brown sash, as if to suggest that it is
-not yet "burned" by fire, which makes it black, and he has not any
-adornments on his robe yet (so no flames etc. at the bottom). No amulet.
-
-As an adept the sash is fully black (Miltens ingame robe) and first
-adornments (flames at the bottom and arms) are added + the amulet. 
-
-As a fire alchemist then, you get additional adornments and the
-colours may turn around. 
-As a novice and apprentice you wore a red robe + dark/black sash. 
-Now, Drago wears the opposite: Black/brown robe and red sash. 
-Same as the general high firerobe, which the "firemage" may wear.
-Then Corristo is wearing a fully red robe again. 
-Which would be the one of a master of fire. 
-
-We can follow this scheme and design the robes individuality
-around these principles; apart from these colours etc. we are
-free to use different adornment, runes, belts, amulets, shapes
-of the sash, material etc. Just the colour is roughly defined. 
-
-
-
 
 
 The ranks cannot really be divided equally throughout the chapters (for this we would need to have just 6 total levels or 12; which we have no reason to imagine), *unless* we do not think of the chapters as 6, but as 5 chapters, as described in the Phoenix Pitch.

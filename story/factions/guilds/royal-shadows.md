@@ -2,6 +2,8 @@
 
 **Authors:** *Avallach, Flosha*
 
+28.05.2024
+
 Avallach, 05.10.2023:  
 * The shadows are secret spies of the king. No one knows who is one. 
 * While the inquisition searches for heretics both among citizens and even among priests and the royal guard, the shadows search for traitors and conspiracies.
