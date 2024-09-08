@@ -25,7 +25,7 @@ We will list our priorities split into different areas.
 
 * **Documentation:** We try to rewrite, translate (from German to English) and bring over all the design documents written since 2016 into our public Phoenix Concept as well as finishing all the required additional research that we have to do due to the plethora of design documents we received; the study and documentation and especially harmonisation of which is taking a lot of time. This work is done by Flosha. 
 
-* **Modeling:** In the modeling the colony has priority over the outside world and the city. The main focus of the modeling in the colony is now the northern environment, where we aim to harmonise a lot of contradictory ideas. Then we will go back to the southern environment where we need to fix and improve upon a few things. The rock cemetary and the area around the Free Camp is almost finished, but also requires tweaking and more details. At the end we will approach the overhaul of the East with the new swamp as imagined in the Alpha concepts. As for the camps: The Old Camp is almost finished except for details at the Barons house and the three additional prison levels. The New Camp model is almost done but mapping remains. The Free Camp may be done 50%. The Psi Camp is at the stage of the 0.64b Alpha, but requires additional work based on Ralfs concept arts. The outline of the city and the basic locations are set, but due to all the planned verticality, due to the necessity of making every single building theoretically accessible and so on, the remaining work load is still immense. Most work went into the Varantinian quarter (maybe done to 30%) and the Slums so far which may be done to 60-70%. The ghost district and the older parts of the city are still very barebones. The Abandoned Factory is done to ~80%. The forest modeling has not been started other than its vast outside shape. The ricefields at the city are at 10%. 
+* **Modeling:** In the modeling the colony has priority over the outside world and the city. The main focus of the modeling in the colony is now the northern environment, where we aim to harmonise a lot of contradictory ideas. Then we will go back to the southern environment where we need to fix and improve upon a few things. The rock cemetary and the area around the Free Camp is almost finished, but also requires tweaking and more details. At the end we will approach the overhaul of the East with the new swamp as imagined in the Alpha concepts. As for the camps: The Old Camp is almost finished except for details at the Barons house and the three additional prison levels. The New Camp model is almost done but mapping remains. The Free Camp may be done 50%. The Psi Camp is at the stage of the 0.64b Alpha, but requires additional work based on Ralfs concept arts. The outline of the city and the basic locations are set, but due to all the planned verticality, due to the necessity of making every single building theoretically accessible and so on, the remaining work load is still immense. Most work went into the Varantinian quarter (maybe done to 30%) and the Slums so far which may be done to 60-70%. The ghost district and the older parts of the city are still very barebones. The Abandoned Factory is done to ~80%. The forest modeling has not been started other than its vast outside shape. The ricefields at the city are at 10%. This work is also done by Flosha. 
 
 * **Programming:** We want to release a first Pre-Alpha Demo focused on Item Handling, Inventory, our Modular Armour Illusion System and general movement controls in a testlevel. Auronen is working on this. But due to lack of time help of additional passionate programmers may be needed.
 
@@ -62,7 +62,7 @@ TODO:
     }
 
     table, th, td {
-        border: 2px solid #4a4843;
+        border: 2px solid var(--stone);
         border-collapse: collapse;
     }
 
@@ -72,6 +72,14 @@ TODO:
 
     td {
         overflow: auto;
+    }
+
+    tr:nth-of-type(odd) {
+        background: var(--swamp);
+    }
+
+    tr:nth-of-type(even) {
+        background: blue;
     }
 
 </style>
