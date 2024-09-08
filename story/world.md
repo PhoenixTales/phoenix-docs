@@ -5,8 +5,9 @@
 ```
 Author:  Flosha
 Written: 05.09.2024
-Update:  07.09.2024
+Update:  06.09.2024
 ```
+{: .info }
 
 In this part of the documentation we are dealing with the design of the game world, starting with its level structure, the evolution of the world map and layout (the gothic kingdom as a whole is dealt with in the /lore). We proceed with the landscape of the colony and the explorable sections of the outside world and the climate as well as the vegetation inside and outside of the barrier, then continue with the monsters inhabitating the world and how they evolved under the influence of the barrier. 
 
