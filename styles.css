@@ -270,7 +270,7 @@ footer {
 
 /* Article Info */
 
-.article code .info {
+.article .info {
   display: inline-block;
   max-width: 100%;
 }
