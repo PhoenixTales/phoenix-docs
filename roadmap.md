@@ -74,12 +74,20 @@ TODO:
         overflow: auto;
     }
 
-    tr:nth-of-type(odd) {
-        background: var(--swamp);
+    th {
+        background: var(--stone);
+        color: var(--black);
     }
 
+    tr:nth-of-type(odd) {
+        background: var(--swamp);
+        color: var(--black);
+    }
+
+/*
     tr:nth-of-type(even) {
         background: blue;
     }
+*/
 
 </style>
