@@ -1,9 +1,11 @@
 # Joining Conditions
 
-**Author:** *Flosha*  
-**Created:** 17.04.2024  
-**Completed:** 01.09.2024  
-
+```
+Author:      Flosha  
+Created:     17.04.2024  
+Last update: 01.09.2024  
+```
+{: .info }
 
 <!-- 
    3. [Joining Conditions](/story/factions/guilds-joining-conditions)
