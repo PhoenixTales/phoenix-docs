@@ -439,6 +439,7 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
 
     .center {
         text-align: center;
+        font-family: monospace;
     }
 
 </style>
