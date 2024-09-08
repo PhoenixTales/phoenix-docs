@@ -395,7 +395,7 @@ Florian aka flosha
 
 ### Unterstützung
 
-Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, dem Gothic Archive, unserer Phoenix Dokumentation oder Essays wie diesem, kannst du mir über [ko-fi etwas spenden](https://ko-fi.com/flosha). 
+Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, dem Gothic Archive, unserer Dokumentation oder Essays wie diesem, kannst du das [über ko-fi tun](https://ko-fi.com/flosha). 
 
 
 <style>
