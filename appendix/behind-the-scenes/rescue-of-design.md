@@ -382,8 +382,10 @@ Und seien es auch zittrige Hände, wie die meinen.
 
 ![Flosha](/_img/authors/flosha-sm.png)
 
-Florian aka flosha  
+```
+Florian aka flosha
 15. März 2021
+```
 {: .center }
 
 ### Links
@@ -439,7 +441,7 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
 
     .center {
         text-align: center;
-        font-family: monospace;
+        display: inline-block;
     }
 
 </style>
