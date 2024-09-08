@@ -1,8 +1,8 @@
 # Playmodes
 
 ```
-Author: Flosha  
-Dated:  03.11.2022  
+Author: Flosha
+Dated:  03.11.2022
 Status: <span class="changed">work in progress</span>
 ```
 {: .info } 
