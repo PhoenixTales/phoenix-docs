@@ -65,7 +65,7 @@ TODO:
         background: var(--water);
         border: 6px solid var(--water);
         list-style: none;
-        padding: 0.5em 1em;
+        padding: 0.5em 1.5em;
         margin-bottom: 1em;
         font-family: monospace;
     }
