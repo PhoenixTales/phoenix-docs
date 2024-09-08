@@ -97,8 +97,7 @@ TODO:
     }
 
     th {
-        background: var(--black);
-        color: var(--blood);
+        background: var(--darkblood);
         /*font-family: monospace;*/
         text-transform: uppercase;
         font-weight: normal;
