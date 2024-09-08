@@ -62,7 +62,7 @@ TODO:
     }
 
     .article ul li {
-        /* background: var(--darker); */
+        background: var(--water);
         border: 6px solid var(--water);
         list-style: none;
         padding: 0.5em 1em;
@@ -70,8 +70,9 @@ TODO:
         font-family: monospace;
     }
 
-        .article ul li:nth-of-type(odd) {
+        .article ul li:nth-of-type(even) {
             border: 6px solid var(--darkblood);
+            background: var(--darkblood);
         }
 
         .article ul li strong {
