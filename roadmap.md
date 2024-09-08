@@ -119,7 +119,7 @@ TODO:
     }
 
     tr:nth-of-type(even) {
-        background: var(--black);
+        background: var(--darkest);
     }
     
 
