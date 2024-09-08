@@ -63,7 +63,7 @@ But Milten, while being an educated man, stationed not too far away from the cit
 
 The orcs came from the North driven by hunger and are thus drawn towards the fruitfuil soil around the royal cities in the centre of the realm. Khorinis, for them, is a mountaineous region, rich in ore, but poor in food. 
 
-But most importantly: Khorinis is the home of the Bloodearth Clan - a cursed clan on cursed soil, full of orcish blood - thus known as the *blood earth* -, hated by their kin, as they brought great misery upon the orcs by the summoning of Krushak. While being of the utmost strategic importance for the king, not even the army is aware of it, nor are the orcs. For them Khorinis is the least attractive place to go. For the orcs, going to Khorinis is like for a jew to go back to Egypt.  
+But most importantly: Khorinis is the home of the Bloodearth Clan - a cursed clan on cursed soil, full of orcish blood - thus known as the *blood earth* -, hated by their kin, as they brought great misery upon the orcs by the summoning of Krushak. 
 
 
 ## Position of Khorinis
@@ -114,9 +114,11 @@ But *if* Khorinis is an *actual* island, based on all the findings before and th
 
 * The colony of Khorinis is the only (known or accessible) place in the kingdom where magical ore occurs (for reasons explained in our /lore) and is thus of the highest strategical importance in the current war of Myrtana, while the existence of the prison colony is kept a secret. *After* the revolt of the prisoners (see [The Revolt]) the king therefore decided to send the most powerful mages of the realm to erect a magical barrier around the colony.
 
-* Khorinis is also the home of the orcish bloodearth clan, which the humans are *not* (anymore) aware of, which is hated by most other orcish clans and considered to be cursed by all - including themselves; cursed people on cursed soil. The orcish prophecies of the awakening of the demon are common knowledge among the orcs and feared by everyone. No orc has thus any reason to go to Khorinis among all places. Although in course of the story, this may change... 
+* Khorinis is also the only place in the kingdom where all these strange creatures and mutations occur or are initially coming from - they are in many cases not *known* or very rarely seen in other areas of the realm (due to reasons also explained in our /lore; you may want to read [Gothic defined](/vision/gothic-defined) in this context). 
 
-* Khorinis is the only place in the kingdom where all these strange creatures and mutations occur or are initially coming from - they are in many cases not *known* or very rarely seen in other areas of the realm (due to reasons also explained in our /lore; you may want to read [Gothic defined](/vision/gothic-defined) in this context). 
+* Khorinis is the home of the orcish bloodearth clan, which is hated by most other orcish clans and considered to be cursed by all - including themselves. The orcish prophecies of the awakening of the demon are common knowledge among the orcs and feared by everyone. The strategic importance of the prison colony is not even commonly known among the royal army, nor by the orcs. No orc has thus any reason to go to Khorinis among all places (although in course of the story, this may change...) For them Khorinis is the least attractive place to go. For the orcs, going to Khorinis is like for a jew to go back to Egypt.   
+
+* As the orcs of the bloodearth clan live exclusively underground deep below the mines in their city since at least one thousand years, the humans are *not* aware of their existence. They assume that most orcs in the region went extinct in course of the ancient war fought against the orcs in the valley that took place a thousand years ago, which is a well known legend in the empire, but is greatly misunderstood.
 
 * Additionally, the erection of the barrier led to the first disturbance of the sleeper in his sleep, causing the ritual to go wrong, the barrier to increase in size and the mages to become prisoners of the prison they created. 
 
