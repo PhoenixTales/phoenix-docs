@@ -1,7 +1,11 @@
 # Level Structure
 
-**Author:** *Flosha*  
-
+```
+Author:      Flosha 
+Created:     03.11.2023 
+Last Change: 28.03.2024  
+```
+{: .info }
 
 In this document we are dealing with the abstract level structure. We list every level or level section that was once supposed to be part of the game, describe the interconnection of the underground levels and analyse which levels were added or removed in course of the concept phase and during production.  
 
@@ -190,18 +194,6 @@ Now to the release version. Long story short, alongside the extremely simplified
 ## Conclusion
 
 It should be obvious that our solution for PHOENIX is the return to the initial level structure as it found its most elaborated expression in the early Phoenix Concept shown above. How we will implement this structure in the actual level design and how the game world will change in course of it will be explained in the "World Design" docs. Nothing to change or to add here. 
-
-
-<div class="authorship">
-    <img src="/_img/authors/flosha-sm.png" alt="Flosha">
-    <p>
-        <strong>Author:</strong> Flosha<br>  
-        <em>Creative Director</em><br>  
-        <br>
-        <strong>Created:</strong> 03.11.2023<br>  
-        <strong>Last Change:</strong> 28.03.2024  
-    </p>
-</div>
 
 
 ## Read next
