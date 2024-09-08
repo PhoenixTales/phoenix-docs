@@ -53,9 +53,9 @@ Whenever a topic has a source in design documents, old builds of the game or bot
 -->
 
 ```
-Author:  Flosha  
-Written: 14.05.2023   
-Changed: 08.09.2024  
+Author:  Flosha
+Written: 14.05.2023
+Changed: 08.09.2024
 ```
 {: .info }
 
