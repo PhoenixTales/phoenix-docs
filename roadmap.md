@@ -92,6 +92,7 @@ TODO:
 
     table, th, td {
         /* border: 1px solid var(--stone);*/
+        border: none;
         border-collapse: collapse;
         padding: 1em;
     }
