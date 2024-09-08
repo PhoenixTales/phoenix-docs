@@ -7,7 +7,7 @@ Updated: 08.09.2024
 ```
 {: .info }
 
-* Anti-heretic "police"
+* Anti-heretic "police" order
 * Mostly former soldiers of the army
 * Recruited by the order of the Inquisition to which they pledge their absolute loyalty, they are commanded by inquisitors and serve as their bodyguard
 * They are especially trained in fighting demons, mutants and protection against magic
@@ -24,8 +24,8 @@ Updated: 08.09.2024
 * **Armour:** Some are just wearing haubergs, many are wearing combinations of brigandines from dark leather and a central scale armour (Sequel). Their arms and legs are always covered, often in combination with a sleeveless upper tunic in black with signs of the order. A few heavy soldiers are additionally wearing banded armour on top of the hauberg. 
 * **Helmets:** Some are wearing helmets made from a mixture of metal and leather-covered brigandines with a visor inspired by *Judge Death* (Sequel), others have helmets all made from metal, which are inspired by sallets (example below) and meant to be like a dark version of the Royal Guard helmets (no crest!) mixed with the Sequel helmet visor.  
 * **Anonymity:** Not everyone is wearing a helmet and the helmets do not regularly cover the lower part of the face; therefore they are often wearing black scarves underneath (they do so always if not wearing a helmet), in order to keep a high degree of anonymity.  
-* **Additional Protection:** They use shields with anti-magic protection, especially so when breaking into houses (like a special police unit walking behind the tall tower shield). When fighting primarily against demons they use a spike attachment on their helmets (Sequel); when expecting fights against (armed) humans they may remove this attachment; some of them use the same kind of spikes on their arm guards as protection both against demonic claws/bites as well as to deflect/control sword hits.
-* **Weapons:** Their weapon of choice is the sword and they use crossbows, which may be among the most advanced crossbows in the realm. 
+* **Additional Protection:** They use tower shields with anti-magic protection and reflective abilities, especially so when breaking into houses (like a special police unit walking behind the shield). When fighting primarily against demons they use a spike attachment on their helmets (Sequel); when expecting fights against (armed) humans they may remove this attachment; some of them use the same kind of spikes on their arm guards as protection both against demonic claws/bites as well as to deflect/control sword hits.
+* **Weapons:** Their weapon of choice is the sword (often engraved with protective runes) and they use very effective crossbows, with an advanced reload mechanism, but a limited range. These crossbows of the order are used with both regular and particular anti-magic ammunition aimed to paralyse the alchemical abilities of the mage. The crossbows are also utilised to set-up traps and protective nets (e.g. by spanning a net in a doorway to keep themselves safe from a magic missile that may otherwise be casted from behind before swiftly breeching into the next room). 
 
 
 ## Inspirations  
