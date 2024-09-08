@@ -2,9 +2,8 @@
 
 ```
 Author:  Flosha
-
-Created:     14.04.2024  
-Last change: 21.08.2024
+Created: 14.04.2024
+Update:  21.08.2024
 ```
 {: .info }
 
