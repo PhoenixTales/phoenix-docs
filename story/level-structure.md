@@ -1,9 +1,9 @@
 # Level Structure
 
 ```
-Author:      Flosha 
-Created:     03.11.2023 
-Last Change: 28.03.2024  
+Author:  Flosha
+Created: 03.11.2023
+Update:  28.03.2024
 ```
 {: .info }
 
