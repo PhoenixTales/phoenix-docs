@@ -39,7 +39,7 @@ Update:  05.09.2024
 
 ![sweepers1](/_img/factions/guilds/movie-equilibrium-wallpaper-thumb.jpg)
 ![sweepers2](/_img/factions/guilds/876dfa2e955fb5af9dafbeef83b419ca.jpg)
-![helmetinspiration1](/_img/factions/guilds/_20240603_162348.JPG)
+![helmetinspiration1](/_img/factions/guilds/IMG_20240908_121001.jpg)
 ![Sequel Armour](/_img/factions/guilds/Demon-Hunter2.jpg)
 ![hansan-rising-dragon-ming-brigandine](/_img/factions/guilds/photo1585534.jpg)
 ![police-shield-example](/_img/factions/guilds/360_F_720171742_DuwgStCWY0MbjVCUarEIa8pMHKYP3u9T.jpg)
