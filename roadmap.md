@@ -88,7 +88,8 @@ TODO:
     }
 
     table tr td:nth-of-type(odd) {
-        background: var(--stone);
+        background: var(--water);
+        text-align: center;
     }
 
     td {
