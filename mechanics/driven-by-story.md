@@ -1,7 +1,10 @@
 # Driven by Story
 
-**Author:** *Flosha*  
-**Written:** 04.09.2024  
+```
+Author:  Flosha
+Written: 04.09.2024
+```
+{: .info }
 
 Phoenix is promoted by us as a "story-driven rpg" and so was Gothic. But what does this even mean? 
 
