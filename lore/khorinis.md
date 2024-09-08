@@ -48,20 +48,22 @@ magical Ore and forged them into the strongest weapons in the land (...) [M]
 
 ## Strategic importance
 
-The manual makes it very clear, that magical ore is *only* to be found in Khorinis. The king would not erect a magical barrier around the colony, if the colony wouldn't be of the utmost strategic importance for the war. The small size of the colony and the relatively little amounts of magical ore that the prisoners deliver, does not make this any less plausible or less realistic, since we do not know how many of these "strongest weapons in the land" can be produced by even little amounts of this specific ore, as it may not itself be used to forge weapons that consist entirely of magical ore, but rather be melted to be used as a coating for these royal blades. One big sack of ore can potentially yield a plethora of swords. 
+The manual makes it very clear, that magical ore is *only* to be found in Khorinis. The king would not erect a magical barrier around the colony, if the colony wouldn't be of the utmost strategic importance for the war. 
 
+The small size of the colony and the relatively little amounts of magical ore that the prisoners deliver, does not make this any less plausible or less realistic, since we do not know how many of these "strongest weapons in the land" can be produced by even little amounts of this specific ore, as it may not itself be used to forge weapons that consist entirely of magical ore, but rather be melted to be used as a coating for these royal blades. One big sack of ore can potentially yield a plethora of swords. 
+{: .subtext }
 
 ### Secrecy
 
-It is common knowledge in the kingdom, that Khorinis is rich of ore, that a special, magical ore is to be found at the mines of Khorinis and that a lot of profit is made through the ore business. 
+It is common knowledge in the kingdom, that Khorinis is rich of ore, that a special, magical ore is to be found at its mines and that a lot of profit is made through the ore business. 
 
-But Milten, while being an educated man, stationed not too far away from the city, on the northern plains, is *not* aware of the penal colony nor of the barrier surrounding it. The existence and role of this high security prison at this "utmost corner of the world" is kept secret by the empire.
+But Milten, while being an educated man, stationed not too far away from the city, on the northern plains, is *not* aware of the penal colony nor of the barrier surrounding it. The existence and role of this high security prison at this "utmost corner of the world" is kept secret by the empire - we elaborate more on this in the design of the City. 
 
 ### Khorinis for the Orcs
 
 The orcs came from the North driven by hunger and are thus drawn towards the fruitfuil soil around the royal cities in the centre of the realm. Khorinis, for them, is a mountaineous region, rich in ore, but poor in food. 
 
-But most importantly: Khorinis is the home of the Bloodearth Clan - a cursed clan on cursed soil, full of orcish blood - thus known as the *blood earth* -, hated by their kin, as they brought great misery upon the orcs by the summoning of Krushak. While being of the utmost strategic importance for the king, the orcs are not necessarily aware of the prison colony, as not even the royal army is aware of it. For them Khorinis is the least attractive place to go. For the orcs, going to Khorinis is like for a jew to go back to Egypt.  
+But most importantly: Khorinis is the home of the Bloodearth Clan - a cursed clan on cursed soil, full of orcish blood - thus known as the *blood earth* -, hated by their kin, as they brought great misery upon the orcs by the summoning of Krushak. While being of the utmost strategic importance for the king, not even the army is aware of it, nor are the orcs. For them Khorinis is the least attractive place to go. For the orcs, going to Khorinis is like for a jew to go back to Egypt.  
 
 
 ## Position of Khorinis
