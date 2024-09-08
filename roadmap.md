@@ -34,14 +34,14 @@ We will list our priorities split into different areas.
 
 
 TODO:
-* When did I reconstruct the western plateau?
-* When did I reconstruct the monastery ruins?
-* When did I start modeling the city?
-* When did I decide to include the city in Act 2?
-* When was decided to let the project be one instead of two mods?
-* What parts of the design documentation did we work at when in 2016-2019?
-* When did logx leave? 
-* ...
+1. When did I reconstruct the western plateau?
+2. When did I reconstruct the monastery ruins?
+3. When did I start modeling the city?
+4. When did I decide to include the city in Act 2?
+5. When was decided to let the project be one instead of two mods?
+6. What parts of the design documentation did we work at when in 2016-2019?
+7. When did logx leave? 
+8. ...
 
 
 {: .roadmap }
@@ -60,7 +60,7 @@ TODO:
 
     .article ul li {
         /* background: var(--darker); */
-        border: 7px solid var(--swamp);
+        border: 1px solid var(--swamp);
         list-style: none;
         padding: 0.5em 1em;
         margin-bottom: 1em;
@@ -77,6 +77,7 @@ TODO:
         max-width: 100%;
         font-size: 12px;
         margin: 2em 0;
+        padding: 1em;
         overflow: auto;
     }
 
