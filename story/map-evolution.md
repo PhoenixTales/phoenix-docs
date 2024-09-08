@@ -2,9 +2,9 @@
 ***Or the Layout of the Overworld***
 
 ```
-Author:      Flosha
-Created:     27.03.2024  
-Last Change: 07.04.2024
+Author:  Flosha
+Created: 27.03.2024
+Update:  07.04.2024
 ```
 {: .info }
 
