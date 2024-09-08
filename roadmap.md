@@ -87,7 +87,7 @@ TODO:
         padding: 1em;
     }
 
-    table tr:first-child:nth-of-type(odd) {
+    table tr td:nth-of-type(odd) {
         background: var(--stone);
     }
 
