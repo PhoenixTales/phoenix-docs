@@ -1,10 +1,10 @@
 # Factions
 
 ```
-Author:   Flosha  
-Created:  02.11.2022   
-Changed:  27.08.2024  
-Status:   <span class="changed">work in progress</span>  
+Author:  Flosha
+Created: 02.11.2022
+Update:  27.08.2024
+Status:  <span class="changed">wip</span>
 ```
 {: .info }
 
