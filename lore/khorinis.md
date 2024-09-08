@@ -57,6 +57,12 @@ The manual makes it very clear, that magical ore is *only* to be found in Khorin
 * Thus, the most likely explanation is for Khorinis to be at the northeastern corner of the realm, an explanation which is additionally supported by another source (official website) that says, that Milten fled from his outpost to the *"next city"*. And since the outpost is at the northern plains, Khorinis cannot be in the south. Khorinis has both to be close to the northern plains as well as far enough away from the battles; displayed in the Comic accordingly, where the City is located in a valley surrounded by mountains (which, further east, are even covered by snow). 
 * The City is *very* close to the colony, as according to [the Pass Concept Art](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Abschnitt_A1_AlterPass.jpg) by Ralf Marczinczik, it can be *seen*, even if in quite some distance, from *within* the barrier. 
 
+### Secrecy
+
+It is common knowledge in the kingdom, that Khorinis is rich of ore, that a special, magical ore is to be found at the mines of Khorinis and that a lot of profit is made through the ore business. 
+
+But Milten, while being an educated man, stationed not too far away from the city, on the northern plains, is *not* aware of the penal colony nor of the barrier surrounding it. The existence and role of this high security prison is kept secret by the empire.
+
 
 ### Climate
 
