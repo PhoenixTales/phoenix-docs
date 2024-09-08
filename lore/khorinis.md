@@ -6,6 +6,8 @@ Created: 12.06.2024
 Last update: 07.09.2024  
 ```
 
+Here we are primarily focusing on the definition and role of Khorinis as a location in the grand scheme of the history of Myrtana, while the more elaborated history of the *City* in particular will be dealt with in the city design documentation. 
+
 
 ## Etymology
 
@@ -49,6 +51,19 @@ magical Ore and forged them into the strongest weapons in the land (...) [M]
 The manual makes it very clear, that magical ore is *only* to be found in Khorinis. The king would not erect a magical barrier around the colony, if the colony wouldn't be of the utmost strategic importance for the war. The small size of the colony and the relatively little amounts of magical ore that the prisoners deliver, does not make this any less plausible or less realistic, since we do not know how many of these "strongest weapons in the land" can be produced by even little amounts of this specific ore, as it may not itself be used to forge weapons that consist entirely of magical ore, but rather be melted to be used as a coating for these royal blades. One big sack of ore can potentially yield a plethora of swords. 
 
 
+### Secrecy
+
+It is common knowledge in the kingdom, that Khorinis is rich of ore, that a special, magical ore is to be found at the mines of Khorinis and that a lot of profit is made through the ore business. 
+
+But Milten, while being an educated man, stationed not too far away from the city, on the northern plains, is *not* aware of the penal colony nor of the barrier surrounding it. The existence and role of this high security prison at this "utmost corner of the world" is kept secret by the empire.
+
+### Khorinis for the Orcs
+
+The orcs came from the North driven by hunger and are thus drawn towards the fruitfuil soil around the royal cities in the centre of the realm. Khorinis, for them, is a mountaineous region, rich in ore, but poor in food. 
+
+But most importantly: Khorinis is the home of the Bloodearth Clan - a cursed clan on cursed soil, full of orcish blood - thus known as the *blood earth* -, hated by their kin, as they brought great misery upon the orcs by the summoning of Krushak. While being of the utmost strategic importance for the king, the orcs are not necessarily aware of the prison colony, as not even the royal army is aware of it. For them Khorinis is the least attractive place to go. For the orcs, going to Khorinis is like for a jew to go back to Egypt.  
+
+
 ## Position of Khorinis
 
 * There is a "labour camp", a "penal colony" at the "royal mines" of Khorinis. The penal colony belongs to the city Khorinis, which is "far away from the big royal cities in the centre of the realm" and described as being "at the outmost corner of the world".
@@ -56,12 +71,6 @@ The manual makes it very clear, that magical ore is *only* to be found in Khorin
 * In the south lies Varant and what is described in the novel as the "southern provinces", from which another character comes from, so Khorinis can neither be there (nor in Varant). It could at most be at the southern border of the eastern provinces to the southern provinces above Varant (the location where the battles took place when Varant invaded Myrtana through their borders ashore); but this seems unlikely too as this place between the realms would be at an important trade route, very much opposed to a city "at the outmost corner of the world". 
 * Thus, the most likely explanation is for Khorinis to be at the northeastern corner of the realm, an explanation which is additionally supported by another source (official website) that says, that Milten fled from his outpost to the *"next city"*. And since the outpost is at the northern plains, Khorinis cannot be in the south. Khorinis has both to be close to the northern plains as well as far enough away from the battles; displayed in the Comic accordingly, where the City is located in a valley surrounded by mountains (which, further east, are even covered by snow). 
 * The City is *very* close to the colony, as according to [the Pass Concept Art](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Abschnitt_A1_AlterPass.jpg) by Ralf Marczinczik, it can be *seen*, even if in quite some distance, from *within* the barrier. 
-
-### Secrecy
-
-It is common knowledge in the kingdom, that Khorinis is rich of ore, that a special, magical ore is to be found at the mines of Khorinis and that a lot of profit is made through the ore business. 
-
-But Milten, while being an educated man, stationed not too far away from the city, on the northern plains, is *not* aware of the penal colony nor of the barrier surrounding it. The existence and role of this high security prison is kept secret by the empire.
 
 
 ### Climate
@@ -97,16 +106,15 @@ But *if* Khorinis is an *actual* island, based on all the findings before and th
 
 ## Phoenix Solutions
 
-Please note that here we are primarily focusing on the definition and role of Khorinis as a location in the grand scheme of the history of Myrtana, while the more elaborated history of the City in particular will be dealt with in the city design documentation. 
-{: .subtext }
-
 * A long time ago a fire alchemist brought the "lance of the sun" (khor = sun, korin = lance - the Sceptre of Varant) to the city, wherefore he would later be known as "Khorin". He came to be considered a saint and buried at the old temple of fire (which may have been founded by or in the name of him - which is why the local Order of Fire in Khorinis is known as "the Order of Khorin") and the city named after him. This does *not* mean that the city itself has been *founded* by him; a city has been here long before and there may already have been a holy place here, which is why he brought the sceptre here, from where it would later find its way into the hands of the myrtanian kings (see lore/history).
 
 * Khorinis is located in the northeast of the eastern side of Myrtana, not too far away from the Northern Plains, but far enough to be imagined by Milten - at the time of his desertion - to be unlikely affected by the war anytime soon, as it is focused on or expected to be pushed towards mostly the central, royal cities, which Khorinis is far away from. (It is thus obviously not the ore that the orcs are after.) Geographically the colony and the city are on a mountainous peninsula with direct access to the Myrtanian Sea. 
 
-* The colony of Khorinis is the only (known or accessible) place in the kingdom where magical ore occurs (for reasons explained in our /lore) and is thus of the highest strategical importance in the current war of Myrtana. *After* the revolt of the prisoners (see [The Revolt]) the king therefore decided to send the most powerful mages of the realm to erect a magical barrier around the colony. 
+* The colony of Khorinis is the only (known or accessible) place in the kingdom where magical ore occurs (for reasons explained in our /lore) and is thus of the highest strategical importance in the current war of Myrtana, while the existence of the prison colony is kept a secret. *After* the revolt of the prisoners (see [The Revolt]) the king therefore decided to send the most powerful mages of the realm to erect a magical barrier around the colony.
 
-* Khorinis is also the only place in the kingdom where all these strange creatures and mutations occur or are initially coming from - they are in many cases not *known* or very rarely seen in other areas of the realm (due to reasons also explained in our /lore; you may want to read [Gothic defined](/vision/gothic-defined) in this context). 
+* Khorinis is also the home of the orcish bloodearth clan, which the humans are *not* (anymore) aware of, which is hated by most other orcish clans and considered to be cursed by all - including themselves; cursed people on cursed soil. The orcish prophecies of the awakening of the demon are common knowledge among the orcs and feared by everyone. No orc has thus any reason to go to Khorinis among all places. Although in course of the story, this may change... 
+
+* Khorinis is the only place in the kingdom where all these strange creatures and mutations occur or are initially coming from - they are in many cases not *known* or very rarely seen in other areas of the realm (due to reasons also explained in our /lore; you may want to read [Gothic defined](/vision/gothic-defined) in this context). 
 
 * Additionally, the erection of the barrier led to the first disturbance of the sleeper in his sleep, causing the ritual to go wrong, the barrier to increase in size and the mages to become prisoners of the prison they created. 
 
