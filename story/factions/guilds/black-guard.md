@@ -11,9 +11,9 @@ Updated: 08.09.2024
 * Mostly former soldiers of the army
 * Recruited by the order of the Inquisition to which they pledge their absolute loyalty, they are commanded by inquisitors and serve as their bodyguard
 * They are especially trained in fighting demons, mutants and protection against magic (they themselves have no magic abilities) 
-* Based on the *Imperial Demonhunters* of the Sequel
 * Wardens of the Asylum
 * Groups of black guardsmen are sometimes seen on their own under the command of a commander, when doing regular jobs. But at more complex operations they are always accompanied by one or two Inquisitors and work under their command.
+* Based on the *Imperial Demonhunters* from the Sequel
 
 
 ## Background
