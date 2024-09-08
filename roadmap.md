@@ -83,6 +83,7 @@ TODO:
     table, th, td {
         border: 1px solid var(--stone);
         border-collapse: collapse;
+        padding: 1em;
     }
 
     th, td {
