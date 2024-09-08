@@ -2,8 +2,6 @@
 
 ![Title](/appendix/behind-the-scenes/rescue-of-design/title.png)
 ![A journey to Mike Hoge on behalf of the 20th Anniversary of Gothic](/appendix/behind-the-scenes/rescue-of-design/title2.png)
-{: .essay-title }
-
 
 DE | [EN](AJourneyToMike_en) | [PL](AJourneyToMike_pl) | [RO](AJourneyToMike_ro) | [RU](AJourneyToMike_ru)
 
@@ -48,7 +46,8 @@ Und es kamen weitere Geschenke.
 
 ### Ich will bei euch mitmachen
 
-<!--01.01.2021 - -->Neuer Eintrag im Tagebuch
+<!-- 01.01.2021 -->  
+Neuer Eintrag im Tagebuch
 {: .new-entry }
 
 Hin und wieder hatten Oliver aka logx und ich versucht, neue Mitglieder aktiv für unser Projekt zu gewinnen. Ohne Erfolg. Ich glaubte und erklärte immer wieder: Wenn uns jemand *wirklich* helfen will, dann würde er von sich aus kommen.
@@ -90,7 +89,6 @@ Am Anfang steht immer eine gewisse Begeisterung für die Projektidee. Doch je me
 Es ist ein seltsames Gefühl, wenn Menschen plötzlich über deine Ideen sprechen und sie so verinnerlicht haben, dass du nichts mehr dazu sagen musst; andere können sie ebenso repräsentieren wie du. Die Ideen hören auf, deine eigenen zu sein.
 
 ![Gothic Werbekarte](/appendix/behind-the-scenes/rescue-of-design/gothic.jpg)
-{: .left }
 
 Wenn ich hier von 'unserer' Vision spreche, dann zum einen, weil wir die von den geistigen Vätern von GOTHIC entwickelte Vision so sehr verinnerlicht, sie uns angeeignet, zum anderen, weil wir sie kreativ weiterentwickelt haben, die Geschichte sowohl wie die Designprinzipien dahinter.
 
@@ -163,7 +161,6 @@ Ich dachte, wenn ich auch eine freie Alternative vorziehen würde, so kann ich d
 Wir haben uns länger gefragt, wo die ganzen Leute wären, die noch immer von der alten Vision von Gothic träumen. Wir hatten den Eindruck, es gäbe in der deutschen Community fast niemanden, der sich noch für die radikalen Ideen “der” Alpha interessiert. Hier kamen sie plötzlich alle zusammen. Nicht viele. Aber ein harter Kern an Interessierten. Ein paar Leute gar, die sich aufgrund unserer Updates als 'Fans' des Projekts bezeichneten. Mehr konnte ich mir für diesen frühen Status der Entwicklung nicht erhoffen. Zumal wir noch keine Pressearbeit machten.
 
 ![Mike Hoge](/appendix/behind-the-scenes/rescue-of-design/mike.png)
-{: .right }
 
 Einen Tag nach Eröffnung des Channels gab es ein weiteres Geschenk: Mike Hoge, der geistige Vater von GOTHIC, gesellte sich im Channel zu uns. Sein Nickname: Adanos (einer der Götter im GOTHIC Universum).
 
@@ -194,7 +191,6 @@ Im letzten Jahr ist viel passiert. Der Fund der beiden Pre-Alpha Versionen, der 
 Und nun, am letzten Tag des Jahres, gelang es in unserem neuen Channel, im Schmelztiegel der Freaks, den originalen Gothic Multiplayer in der Pre-Alpha Demo 0.56c zum Laufen zu kriegen.
     
 ![Das Multiplayer Experiment](/appendix/behind-the-scenes/rescue-of-design/multiplayer.jpg)
-{: .left }
 
 Nach über 20 Jahren verbanden sich zwei Spieler im LAN per Hamachi und liefen zusammen durch das alte Testlevel. Sie waren außer sich. Wer würde diese Begeisterung verstehen? Da saßen sie, etwa ein halbes dutzend Typen, verbunden durch Gothic, in Deutschland, in Polen, in Österreich, in Russland, in Tschechien und der Ukraine, und freuten sich wie kleine Kinder über das geglückte Experiment.  
 Gothic begeistert. Auch noch nach 20 Jahren.
@@ -239,7 +235,6 @@ Nicht alle Fragen konnten wir lösen. Manche habe ich vergessen zu stellen, manc
 Der Besuch waren zwei Freunde, etwa in meinem Alter. Sie trafen sich zum Kartenspielen mit Mike. Das Spiel heißt “Tichu”. Angeblich kommt es aus China, laut Mike nur ein Marketing-Gag. Man kann es nur zu viert spielen, also spielte ich mit.
 
 ![Der Phoenix in Tichu](/appendix/behind-the-scenes/rescue-of-design/tichu.png)
-{: .left }
 
 Mike erklärte mir die Regeln. Es schien sehr komplex zu sein und ich kann nicht behaupten, es verstanden zu haben. Erst beim Spielen wurde es langsam klar. Jedenfalls gibt es einen Hund, einen Drachen und... einen Phoenix! Auch *Nexus* genannt. Ich werde nicht versuchen, euch zu erklären was er macht; dürft ihr selbst rausfinden (oder es versuchen). Ich hatte ihn einmal und verschwendete ihn, während Mike eine "Bombe" nach der anderen droppte. Dabei hörten wir [Billy Talent](https://www.youtube.com/watch?v=_zssP6w0VWQ). Ich war in einem Team mit Mike und wir gewannen. Aber Mike spielt es auch schon seit... Na? Seit 20 Jahren.
 
@@ -289,7 +284,6 @@ Auf der Rückfahrt stieg ich vier mal um und musste die ganze Nacht wach bleiben
 Vor etwa 19 Jahren habe ich meinen Cousin das erste mal Gothic spielen sehen. Fun fact: Derselbe Cousin, der damals Gothic spielte, mir Computerspielen an sich näherbrachte, - Gothic sowohl als auch Max Payne, Alice und Stalker und so die meisten Titel, die mich und darüber unser Projekt beeinflussen - gab mir nun seinen Scanner zur Digitalisierung der Design-Dokumente.
 
 ![Die Design-Ordner](/appendix/behind-the-scenes/rescue-of-design/thedocs.jpg)
-{: .right }
 
 Seltsam, wie eines zum anderen führt. Hätte ich ihn nicht vor 20 Jahren dieses Spiel spielen sehen, hätte ich es nie gespielt. Hätte Issues sich nicht mit der Alpha befasst und an seiner Anniversary Edition gearbeitet (damals noch zum 15. Jubiläum), wäre ich nie auf die Idee gekommen, so ein Projekt zu beginnen, auch Phoenix Tales und das Archiv wären nie entstanden. Das wiederum wäre nicht so groß wie es ist, wäre da nicht die jahrelange Detailarbeit von odin68 in seiner [Chronologie](https://forum.worldofplayers.de/forum/threads/1532284-G1-%D0%A5%D0%A0%D0%9E%D0%9D%D0%9E%D0%9B%D0%9E%D0%93%D0%98%D0%AF-%D0%93%D0%9E%D0%A2%D0%98%D0%9A%D0%90-1").  
 Hinwiederum wüssten wir nicht halb so viel über den Cut Content, den wir in Phoenix wiederherstellen, - und der unsere Vision noch konsequenterer Immersion durch Visualisierung inspiriert hat, die wir alle selbst erst verdauen mussten, bevor wir überzeugt waren, dass wir es wirklich so machen wollen - wie wir heute wissen, hätten sich Dmitriy, Vaana und andere nicht so um die Alpha Versionen bemüht.  
@@ -330,7 +324,6 @@ Die Scan-Software ist seltsam. Gescannte Dokumente werden zunächst nur intern, 
 Ich habe die Dokumente in der besten Qualität gescannt, die mir zur Verfügung stand, trotzdem musste ich jede einzelne Seite händisch nachbearbeiten, etwa um die Löcher zu überdecken, in denen die Seiten eingeheftet waren oder den Kontrast von stark verblassten Seiten anzupassen.
 
 ![Erster Logo Entwurf](/appendix/behind-the-scenes/rescue-of-design/first-logo.jpg)
-{: .right }
 
 Da die Dokumente kaum geordnet waren, musste ich eine Struktur entwickeln. Aufwendigere Konzeptzeichnungen habe ich von einfachen Skizzen getrennt. Und manches Kleinod auf Seiten voller Gekritzel, die Mike nur ungern veröffentlicht wissen will, habe ich ausgeschnitten, um es doch veröffentlichen zu können. Darunter z.B. dieser erste Entwurf des Logos.
 
@@ -342,7 +335,6 @@ Ein wenig Ordnung war in dem Ordner mit den Aufzeichnungen durch gelbe, beschrif
 8 Uhr. Ich hätte eine Klausur schreiben sollen. Gelernt hatte ich natürlich nichts. Ich überlegte, ob ich hingehen sollte, könnte auf der Fahrt im Zug die Zusammenfassung von irgendwem lesen. Wird schon ausreichen, dachte ich. Aber angekommen an der Bushaltestelle merkte ich, dass ich meinen Geldbeutel vergessen hatte. Also doch wieder zurück.
 
 ![Tom Putzki](/appendix/behind-the-scenes/rescue-of-design/tomputzki.png) 
-{: .left }
 
 Jetzt wäre ich sowieso zu spät gekommen und brauchte nicht mehr hinzugehen. Ich wollte also den Tag nutzen, um weitere Dokumente zu scannen, als plötzlich auch Tom Putzki in unseren Channel kam. So kamen wir wieder in Kontakt.
 
@@ -390,9 +382,9 @@ Und seien es auch zittrige Hände, wie die meinen.
 
 ![Flosha](/_img/authors/flosha-sm.png)
 
-Florian aka flosha - 15. März 2021
-
-<a href="https://gothicarchive.org/postrelease/AJourneyToMike/index.html">Go to our Anniversary Special</a> 
+Florian aka flosha  
+15. März 2021
+{: .center }
 
 ### Links
 
@@ -407,13 +399,6 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
 
 
 <style>
-
-    .essay-title {
-        display: block;
-        margin: 0 auto;
-        max-width: 90%;
-        height: auto;
-    }
 
     main {
         background: url("/appendix/behind-the-scenes/rescue-of-design/bg.jpg"); 
@@ -441,25 +426,6 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
         font-family: monospace;
         font-size: 14px;
     }
-/*
-    .left {
-        float: left; 
-        padding-right: 20px;
-        max-width: 220px;
-    }
-*/
-
-    .left {
-        margin-left: auto;
-        margin-right: initial;
-        padding: 0 0 30px 20px;
-    }
-
-    .right {
-        margin-right: auto;
-        margin-left: initial;
-        padding: 0 0 30px 20px;
-    }
 
     .caption {
         margin: 0em 1em 2em;
@@ -469,6 +435,10 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
 
     .screen {
         margin-top: 1em;
+    }
+
+    .center {
+        text-align: center;
     }
 
 </style>
