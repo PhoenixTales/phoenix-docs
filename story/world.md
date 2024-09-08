@@ -2,6 +2,12 @@
 
 <img class="world" src="/_img/world/overworld.jpg">
 
+```
+Author:  Flosha
+Written: 05.09.2024
+Update:  07.09.2024
+```
+
 In this part of the documentation we are dealing with the design of the game world, starting with its level structure, the evolution of the world map and layout (the gothic kingdom as a whole is dealt with in the /lore). We proceed with the landscape of the colony and the explorable sections of the outside world and the climate as well as the vegetation inside and outside of the barrier, then continue with the monsters inhabitating the world and how they evolved under the influence of the barrier. 
 
 In the main part we will analyse the evolution of all the locations; the camps and the city in particular - including their layout, artstyle, architecture, their pattern or possibilities of exploration and their historic background. This section is divided into overworld, underworld, outside world and demon world. The locations within the colony are first dealt with in relation to our first act, then in "Colony Revisited" in relation to our second act (after the fall of the barrier). 
