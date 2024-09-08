@@ -1,9 +1,9 @@
 # Joining Conditions
 
 ```
-Author:      Flosha  
-Created:     17.04.2024  
-Last update: 01.09.2024  
+Author:  Flosha
+Created: 17.04.2024
+Update:  01.09.2024
 ```
 {: .info }
 
