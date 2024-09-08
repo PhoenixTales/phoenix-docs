@@ -1,10 +1,11 @@
 # Demonhunters
 
 ```
-Author: Flosha  
-Created: 20.03.2024  
+Author:      Flosha  
+Created:     20.03.2024  
 Last change: 06.09.2024
 ```
+{: .info }
 
 TODO:  
 * General Guild Info
