@@ -91,20 +91,16 @@ TODO:
         background: var(--stone);
     }
 
-    th, td {
-        padding: 0.3em;
-    }
-
     td {
         overflow: auto;
     }
 
     th {
-        background: var(--black);
-        color: var(--swamp);
+        background: var(--blood);
+        color: var(--black);
         /*font-family: monospace;*/
         text-transform: uppercase;
-        font-size: 22px;
+        font-size: 20px;
     }
 
     tr:nth-of-type(odd) {
