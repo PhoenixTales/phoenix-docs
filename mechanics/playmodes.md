@@ -3,7 +3,7 @@
 ```
 Author: Flosha
 Dated:  03.11.2022
-Status: <span class="changed">work in progress</span>
+Status: wip
 ```
 {: .info } 
 
