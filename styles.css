@@ -266,6 +266,12 @@ footer {
     color: #77584b;
   } 
 
+/* Article Info */
+
+.article .info {
+  display: inline-block;
+  max-width: 100%;
+}
 
 /* CODE BLOCKS */
 
