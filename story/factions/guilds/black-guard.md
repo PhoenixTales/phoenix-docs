@@ -10,7 +10,7 @@ Updated: 08.09.2024
 * Anti-heretic "police" order
 * Mostly former soldiers of the army
 * Recruited by the order of the Inquisition to which they pledge their absolute loyalty, they are commanded by inquisitors and serve as their bodyguard
-* They are especially trained in fighting demons, mutants and protection against magic
+* They are especially trained in fighting demons, mutants and protection against magic; they themselves have no magic abilities whatsoever. 
 * Based on the *Imperial Demonhunters* of the Sequel
 * Wardens of the Asylum
 * Groups of black guardsmen are sometimes seen on their own under the command of a commander, when doing regular jobs. But at more complex operations they are always accompanied by one or two Inquisitors and work under their command.
@@ -25,7 +25,7 @@ Updated: 08.09.2024
 * **Helmets:** Some are wearing helmets made from a mixture of metal and leather-covered brigandines with a visor inspired by *Judge Death* (Sequel), others have helmets all made from metal, which are inspired by sallets (example below) and meant to be like a dark version of the Royal Guard helmets (no crest!) mixed with the Sequel helmet visor.  
 * **Anonymity:** Not everyone is wearing a helmet and the helmets do not regularly cover the lower part of the face; therefore they are often wearing black scarves underneath (they do so always if not wearing a helmet), in order to keep a high degree of anonymity.  
 * **Additional Protection:** They use tower shields with anti-magic protection and reflective abilities, especially so when breaking into houses (like a special police unit walking behind the shield). When fighting primarily against demons they use a spike attachment on their helmets (Sequel); when expecting fights against (armed) humans they may remove this attachment; some of them use the same kind of spikes on their arm guards as protection both against demonic claws/bites as well as to deflect/control sword hits.
-* **Weapons:** Their weapon of choice is the sword (often engraved with protective runes) and they use very effective crossbows, with an advanced reload mechanism, but a limited range. These crossbows of the order are used with both regular and particular anti-magic ammunition aimed to paralyse the alchemical abilities of the mage. The crossbows are also utilised to set-up traps and protective nets (e.g. by spanning a net in a doorway to keep themselves safe from a magic missile that may otherwise be casted from behind before swiftly breeching into the next room). 
+* **Weapons:** Their weapon of choice is the sword (often engraved with protective runes) and they use very effective crossbows, with an advanced reload mechanism, but a limited range. These crossbows of the order are used with both regular and particular anti-magic ammunition aimed to paralyse the alchemical abilities of the mage. The crossbows are also utilised to set-up traps and protective nets (e.g. by spanning a net in a doorway to keep themselves safe from a magic missile that may otherwise be casted from behind before they swiftly approach the next room).
 
 
 ## Inspirations  
