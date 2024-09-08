@@ -1,5 +1,4 @@
 # Khorinis
-{: .bloody-heading }
 
 ```
 Author: Flosha  
@@ -101,7 +100,7 @@ Please note that here we are primarily focusing on the definition and role of Kh
 
 * The colony of Khorinis is the only (known or accessible) place in the kingdom where magical ore occurs (for reasons explained in our /lore) and is thus of the highest strategical importance in the current war of Myrtana. *After* the revolt of the prisoners (see [The Revolt]) the king therefore decided to send the most powerful mages of the realm to erect a magical barrier around the colony. 
 
-* Khorinis is also the only place in the kingdom where all these strange creatures and mutations occur or are initially coming from - they are in many cases not *known* or very rarely seen in other areas of the realm (due to reasons also explained in our /lore; you may also read [Gothic defined](/vision/gothic-defined)). 
+* Khorinis is also the only place in the kingdom where all these strange creatures and mutations occur or are initially coming from - they are in many cases not *known* or very rarely seen in other areas of the realm (due to reasons also explained in our /lore; you may want to read [Gothic defined](/vision/gothic-defined) in this context). 
 
 * Additionally, the erection of the barrier led to the first disturbance of the sleeper in his sleep, causing the ritual to go wrong, the barrier to increase in size and the mages to become prisoners of the prison they created. 
 
@@ -121,12 +120,12 @@ Please note that here we are primarily focusing on the definition and role of Kh
     margin: 45vh 0 0;
     font-size: 35px;
 
-    display: inline-block;
+  /*  display: inline-block;
     background-color: var(--blood);
     border: 2px solid var(--black);
     color: var(--black);
-    padding: 0.4em 0.8em 0.4em 0.8em;
+    padding: 0.4em 0.8em 0.4em 0.8em; */
   }
-    .article h1::before { content: initial; }
+    /*.article h1::before { content: initial; }*/
 
 </style>
