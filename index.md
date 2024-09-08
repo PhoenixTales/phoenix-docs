@@ -43,16 +43,21 @@ DESIGN CONCEPT
 APPENDIX
 ```
 
-Whenever a topic has a source in design documents, old builds of the game or both, our documentation is structured in an "Alpha" and a "Phoenix" section:  
+Whenever a topic has a source in design documents, old builds of the game or both, our documentation is structured in an "Alpha" and a "Phoenix" section or divided into "research" or "analysis" and a chapter like "conclusion" or "phoenix solutions"; the reader can thereby differentiate between what was planned and is based on our sources and what we made of it or added on our own. 
 
+<!--
 ```
 (1) Research of how aspect X was planned  
 (2) Concept for realisation of X in Phoenix
 ```
+-->
 
-**Author:** Flosha  
-**Written:** 14.05.2023   
-**Changed:** 15.05.2023  
+```
+Author:  Flosha  
+Written: 14.05.2023   
+Changed: 08.09.2024  
+```
+{: .info }
 
 
 ## Support
