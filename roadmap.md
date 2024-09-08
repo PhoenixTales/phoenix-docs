@@ -34,15 +34,15 @@ We will list our priorities split into different areas.
 
 * **Scripting:** There is no scripting to do before the world is modeled completely. 
 
-
+---
 
 TODO:
 1. When did I reconstruct the western plateau?
 2. When did I reconstruct the monastery ruins?
 3. When did I start modeling the city?
 4. When did I decide to include the city in Act 2?
-5. When was decided to let the project be one instead of two mods?
-6. What parts of the design documentation did we work at when in 2016-2019?
+5. When did I decide to make it a single drama?
+6. What did we write when in 2016-2019?
 7. When did logx leave? 
 8. ...
 
