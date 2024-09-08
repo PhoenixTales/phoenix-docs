@@ -420,7 +420,6 @@ hr {
   /* alternative blue background subtext */
   .blueinfo {
     background-color: var(--water);
-    border-radius: 10px;
     border: none;
   }
 

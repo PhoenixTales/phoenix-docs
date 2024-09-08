@@ -67,6 +67,7 @@ TODO:
         list-style: none;
         padding: 0.5em 1.5em;
         margin-bottom: 1em;
+        font-size: 14px;
         font-family: monospace;
     }
 
