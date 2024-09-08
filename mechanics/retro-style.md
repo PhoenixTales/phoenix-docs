@@ -1,9 +1,11 @@
 # RetroStyle
 
-**Author:** *Flosha*  
-**Created:** 21.08.2024  
-**Last change:** 01.09.2024  
-
+```
+Author:  Flosha
+Created: 21.08.2024
+Update:  01.09.2024
+```
+{: .info }
 
 In the settings under the "Style" category we offer two collections of presets which set specific options. Those preset collections are called `RetroStyle` and `HardcoreImmersion`. 
 All the options in question can also be set independently and combined differently, the player should be able to change single aspects to fine-tune, as they may prefer a mixture of some retro features and some immersive features. `RetroStyle` sets the following options: 
