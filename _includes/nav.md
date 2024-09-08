@@ -102,7 +102,7 @@
 			5. Royals (PAL/GRD/SLD)
 			5. Heretics (MYS/DMC/AMZ)
 			6. Revolt (MST/SLV)
-			7. Law (MGS/[INQ](/story/factions/guilds/inquisition)/SGD)
+			7. Law (MGS/[INQ](/story/factions/guilds/inquisition)/[SGD](/story/factions/guilds/black-guard))
 			8. Pariahs (POS/HLF)
 			9. Clans (BLO/DRE)
 
