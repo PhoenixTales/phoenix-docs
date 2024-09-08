@@ -87,6 +87,10 @@ TODO:
         padding: 1em;
     }
 
+    table tr:first-child:nth-of-type(odd) {
+        background: var(--stone);
+    }
+
     th, td {
         padding: 0.3em;
     }
@@ -104,11 +108,11 @@ TODO:
     }
 
     tr:nth-of-type(odd) {
-        background: var(--dark);
+        background: var(--darker);
     }
 
     tr:nth-of-type(even) {
-        background: var(--darker);
+        background: var(--black);
     }
     
 
