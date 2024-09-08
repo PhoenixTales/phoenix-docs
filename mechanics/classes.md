@@ -1,9 +1,11 @@
 # Classes
 
-**Author:** *Flosha*
-**Created:** 14.02.2022
-**Changed:** 25.08.2024
-
+```
+Author:  Flosha
+Created: 14.02.2022
+Changed: 25.08.2024
+```
+{: .info }
 
 The four classes correspond to four different playstyles by which the player can approach game situations and solve the game. They are not selected before gamestart but they are immersively choosen during gameplay via individual playstile and a sequence of ingame choices. 
 
