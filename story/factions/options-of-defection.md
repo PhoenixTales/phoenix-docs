@@ -2,8 +2,9 @@
 Or *Guild Switching Options*
 
 ```
-Author:  Flosha 
-Written: 02.09.2024  
+Author:  Flosha
+Written: 02.09.2024
+Update:  08.09.2024
 ```
 {: .info }
 
