@@ -59,15 +59,17 @@ TODO:
     }
 
     .article ul li {
-        background: var(--darker);
-        border: 10px solid var(--swamp);
+        /* background: var(--darker); */
+        border: 7px solid var(--swamp);
         list-style: none;
-        padding: 0.5em;
+        padding: 0.5em 1em;
         margin-bottom: 1em;
+        font-family: monospace;
     }
 
         .article ul li strong {
-            color: var(--blood);
+            font-weight: normal;
+            text-transform: uppercase;
         }
 
 
