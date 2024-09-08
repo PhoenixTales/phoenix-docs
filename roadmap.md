@@ -60,7 +60,7 @@ TODO:
 
     .article ul li {
         /* background: var(--darker); */
-        border: 1px solid var(--swamp);
+        border: 3px solid var(--swamp);
         list-style: none;
         padding: 0.5em 1em;
         margin-bottom: 1em;
