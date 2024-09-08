@@ -1,6 +1,9 @@
 # Phoenix Roadmap
 
+```
 Last update: 08.09.2024
+```
+{: .info }
 
 
 ## What we did so far
