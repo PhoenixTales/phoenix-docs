@@ -97,10 +97,11 @@ TODO:
     }
 
     th {
-        background: var(--blood);
-        color: var(--black);
+        background: var(--water);
+        color: var(--blood);
         /*font-family: monospace;*/
         text-transform: uppercase;
+        font-weight: normal;
         font-size: 20px;
     }
 
