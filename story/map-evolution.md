@@ -1,7 +1,12 @@
 # Evolution of the Map 
 ***Or the Layout of the Overworld***
 
-**Author:** *Flosha*
+```
+Author:      Flosha
+Created:     27.03.2024  
+Last Change: 07.04.2024
+```
+{: .info }
 
 In the [Level Structure](/story/level-structure) document we analysed the abstract structure of the levels that were supposed to be in the game. Here we deal with the layout of these levels, of the surface or the "overworld" to be more specific (world.zen). We deal with (1) the scope of the barrier (2) the position of camps, forests, rivers, the ocean and important landmarks and (3) how they were moved around in course of development all the way to the final layout.
 
@@ -203,18 +208,6 @@ There is still a lot that has changed from the map above towards the final map. 
 ## Sequel Concepts
 
 In the original Gothic Sequel the layout of the world was obviously defined by the release version of Gothic and wasn't supposed to be changed. The world would still have been limited to the colony. Inspite of the destruction of the barrier that would allow them to display parts of the outside world, they did not plan to add additional terrain. Not because they didn't want to, but because they weren't able to in lack of time and level designers in the Sequel team.
-
-
-<div class="authorship">
-    <img src="/_img/authors/flosha-sm.png" alt="Flosha">
-    <p>
-        <strong>Author:</strong> Flosha<br>  
-        <em>Creative Director</em><br>  
-        <br>
-        <strong>Created:</strong> 27.03.2024<br>  
-        <strong>Last Change:</strong> 07.04.2024  
-    </p>
-</div>
 
 
 ## Read next
