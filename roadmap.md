@@ -70,11 +70,16 @@ TODO:
         font-family: monospace;
     }
 
+        .article ul li:nth-of-type(odd) {
+            border: 6px solid var(--darkblood);
+        }
+
         .article ul li strong {
             font-weight: normal;
             text-transform: uppercase;
         }
 
+    
 
     .article table {
         max-width: 100%;
