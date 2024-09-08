@@ -1,9 +1,11 @@
 # Guild Descriptions
 
-**Author:** *Flosha*  
-**Created:** *23.10.2021*  
-**Status:** <span class="changed">work in progress</span>   
-
+```
+Author:  Flosha  
+Created: 23.10.2021
+Status: <span class="changed">wip</span>   
+```
+{: .info }
 
 ## ORPHEUS
 
