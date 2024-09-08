@@ -54,6 +54,12 @@ TODO:
     }
 
 
+    .article ul li {
+        border: 5px solid var(--swamp);
+    }
+
+    .article 
+
     .article table {
         max-width: 100%;
         font-size: 12px;
@@ -77,17 +83,18 @@ TODO:
     th {
         background: var(--stone);
         color: var(--black);
+        font-family: monospace;
+        text-transform: uppercase;
+        font-size: 22px;
     }
 
     tr:nth-of-type(odd) {
-        background: var(--swamp);
-        color: var(--black);
+        background: var(--dark);
     }
 
-/*
     tr:nth-of-type(even) {
-        background: blue;
+        background: var(--darker);
     }
-*/
+    
 
 </style>
