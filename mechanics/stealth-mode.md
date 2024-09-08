@@ -1,7 +1,10 @@
 # Stealth Mode
 
-**Author:** *Flosha*
-**Created:** 14.02.2022
+```
+Author:  Flosha
+Created: 14.02.2022
+```
+{: .info }
 
 [Do we need a new "hidden" attribute of Visbility? Or Hiding?]
 
