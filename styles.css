@@ -270,8 +270,7 @@ footer {
 
 .article .info {
   display: inline-block;
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-inline: 2em;
   max-width: 100%;
 }
 
