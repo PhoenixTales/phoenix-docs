@@ -1,8 +1,11 @@
 # Playmodes
 
-**Author:** Flosha  
-**Dated:** 03.11.2022  
-**Status:** <span class="changed">work in progress</span>   
+```
+Author: Flosha  
+Dated:  03.11.2022  
+Status: <span class="changed">work in progress</span>
+```
+{: .info } 
 
 These different play modes or challenges are not to be misunderstood with common levels of difficulty. They do not change the balancing other than how the regeneration works. But they introduce additional challenge and pressure by progressively harder savepoint restrictions and enforcement of gameplay mechanics that you already learned but that were optional before and become more important or even obligatory in the more difficult modes. 
 
