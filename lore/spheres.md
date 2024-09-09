@@ -29,16 +29,16 @@ Our etymology of those terms is explained in our [moraic etymology]().
 
 <style>
 
-    .article ul .blocklist {
+    .blocklist ul {
         padding-left: 0;
     }
-        .article ul .blocklist li {
+        .blocklist ul li {
             background: var(--darkblood);
             list-style: none;
             padding: 1em 1.5em;
             margin-bottom: 1.5em;
         }
-            .article ul .blocklist li strong {
+            .blocklist ul li strong {
                 font-weight: normal;
                 text-transform: uppercase;
             }
