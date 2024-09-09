@@ -24,7 +24,8 @@ Phoenix' Sources:
 
 1. Mythology
     1. Gods
-    2. Spheres
+    2. [Spheres](/lore/spheres)
+    3. Fallen Civilisation
 2. Geography
     1. Myrtana
         1. Tymoris

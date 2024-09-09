@@ -51,6 +51,8 @@
 ## III. [Lore](/lore/lore)
 
 1. Mythology
+	1. Gods
+	2. [Spheres](/lore/spheres)
 2. Geography
 	1. [Khorinis](/lore/khorinis)
 3. Culture

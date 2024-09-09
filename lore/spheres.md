@@ -1,11 +1,15 @@
 # Spheres
 
-**Authors:** Flosha
-**Created:** 02.11.22
-**Changed:** 12.11.22
+```
+Author:  Flosha
+Created: 02.11.22
+Changed: 12.11.22
+```
+{: .info }
 
+![Medieval Spheres](/_img/lore/spheres4.jpg)
 
-In the World of Gothic there is a concept of different spheres. The here and now, the sphere of the living, is described as *Morgrad* in the book *Astronomie* [G]. The Demonworld was an early concept which in the alpha plot was supposed to appear in form of a couple of explorable level sections but had no other dedicated name. To add the 'astral' as a third sphere concept was an idea by Dmitriy based on hints found in books of the mages. 
+In the World of Gothic there is the concept of different spheres. The here and now, the sphere of the living, is described as *Morgrad* in the book *Astronomie* [G]. The Demonworld was an early concept which in the alpha plot was supposed to appear in form of a couple of explorable level sections but had no dedicated name. To add the 'astral' as a third sphere concept was an idea by Dmitriy based on hints found in books of the mages as well as handwritten design documents. The names, other than Morgrad, come from me and are based on my writings about the old language. 
 
 
 ## Spheres in Phoenix

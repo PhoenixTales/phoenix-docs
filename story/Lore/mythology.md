@@ -145,21 +145,6 @@ Es könnte hier im Minental ein schicksalhafter Krieg in der alten Zeit zwischen
 
 “Es wird jemand kommen, der Krushak vernichten wird.”
 
-Nach dem Durchstoßen der Herzen ist der Schläfer noch nicht besiegt, er ist immernoch in der dämonischen Sphäre und könnte von dort wieder beschworen werden; um ihn endgültig zu vernichten muss jemand ihm dorthin folgen. 
-
-Der Heilige Feind:
-* … sitzt auf einem Thron (Bilder einfügen) (deshalb könnten manche Orks mutmaßen, dass es der König der Menschen sei. Oder ein orkischer König/Führer. 
-* Die Orks denken es wäre ein Ork, weil er ein großer Krieger sein soll. Es könnte aber auch ein Mensch sein.
-* Er kämpft laut den Bildern gegen eine feuerspeiende Kreatur. “Wir gedacht seien Drache!” (könnte ein Ork sagen, falls man als Mystiker in Nemesis was vom Phoenix erzählt oder sowas). 
-
-“Es wird der Tag kommen, da die Priester erlöst und der Schläfer verbannt werden wird. 
-Aber für den Heiligen Feind wird der größte Kampf erst dann beginnen.”
-
-Vielleicht heißt er Heiliger Feind, weil er zwar die Orkpriester erlöst und den Schläfer verbannt und den Clan damit faktisch von seinem Fluch und seiner Schuld errettet, aber sie zugleich aus ihrer Stadt treibt (wenn sie aus Furcht vor dem Erwachen des Schläfers an die Oberfläche fliehen) und viele sterben. 
-
-TODO: Der orkische Begriff für “untot” ist eine Mischung der Worte von tot und lebendig, also "totlebendig". Dafür einen Begriff im orkischen Wörterbuch schaffen. Die Steintafeln mit den orkischen Prophezeiungen müssen alle vollständig in orkisch vorliegen.
-
-* “Die fünf Ork-Schamanen, die den Schläfer riefen, erbauten ihm einen unterirdischen Tempel, dessen Zugang in der Orkstadt liegt.” (- der Held, als er erzählt, was Ur-Shak berichtet hat, um die Geschichte zu ergänzen)
 
 
 

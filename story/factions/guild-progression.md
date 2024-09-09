@@ -4,6 +4,60 @@
 **Created:** 01.09.2024
 
 
+
+## Levels by Chapters
+
+In a handwritten note (Orpheus-B-Scribbles page 10) Mike identifies the player levels 1 to 3 with the "Orientation phase". And at least from Story v3 onwards this orientation phase was always identified with Chapter 1 (and we do not have mentionings of chapters before that). 
+
+Mike also mentions (Orpheus-B-Scribbles page 15) that the eight "lower" guilds have levels "1-7", while the four "higher" guilds have the levels "1-END", which *may* either mean that 7 was not meant to be the end and that there were a few more levels until the end - but if so, why then is the number of these levels mentioned nowhere? - or it may mean, and we assume so, that the player would just progress within his guild or class to level 7 as the maximum level at which he would join one of the higher guilds like as a reward. While the mentioning of levels "1-END" in the context of the higher guilds may just be written in the context of lower level NPCs within these guilds. 
+
+As seen in [Options of Defection](), a switch to another guild was set by Mike in the majority of cases to a maximum of level 3. When we interpret this in the context of Story V3 onwards, we could thereby conclude, that a change of the guild was needed to happen as early as within Chapter 1 and would not have been possible anymore (in most cases) in Chapter 2. 
+
+But on the other hand it does not seem reasonable to interpret it this way, because in the Orpheus notes the orientation phase seems to have been just a rough idea for everything before the Psi Ritual that leads to the flood of the Old Mine. In the context of the later story, this would then encompass both Chapter 1 and Chapter 2. 
+
+According to these same notes, during players progression from levels 4-6, the Psi Ritual would take place, the mine would collapse due to it, the Old Camp would attack the Free Mine and the OC and NC be at war; this is what in Story v3.3 would equal the Chapters 3 and 4. 
+
+The player levels 6-7 would then be reserved for the "open fights" between the camps, the orc assault, the total chaos in the colony and the massacres that we know as Nemesis, the Chapters 5 and 6. 
+
+But at this early point in development, it was not clear when the orcs should come to the surface and as written above, chapters were not mentioned yet. In the beginning of the Phoenix concept the story was then divided into 5 chapters instead of 6; these five chapters are mentioned in the Phoenix Pitch. 
+ 
+When we go with the 5 chapter solution while orienting ourselves at Mikes handwritten story notes, the relation between player levels and chapters may for instance present itself like this:
+
+```
+1   0-1      // Orientation. Joins a guild.
+2   2-3      // Can still change, then PsiRitual
+3   4-5      // First OMFull, then FMTaken at the end
+4   6-7      // Mine War, OrcAssault, Higher Guild
+5   END      // Nemesis and Showdown
+             
+```
+
+The six chapter solution could look like this:
+
+```
+1   0-2     // Orientation
+2   3-4     // OMFull
+3   4-5     // FMTaken 
+4   5-6     // OrcAssault
+5   6-7     // Nemesis
+6   END     // Showdown
+```
+
+--- 
+
+If it would not end with level 7 (as we assumed above), based on the five chapter solution we could also imagine that the player would reach level 1-3 in Chapter 1, level 4-5 in Chapter 2, level 6-7 in chapter 3, then join a higher guild in chapter 5, where he reaches levels 8-9 and then conclude the game in chapter 5 with a maximum level of 10. 
+
+---
+
+Since the maximum level is 7, allowing a switch of the guild at up to level 3 is almost half of the guild progression. But it may not be half of the class and story progression, since some additional progress will be made and parts of the story will be played as part of one of the *higher guilds*. So when we think of the six chapters, level 3 will definitely be reached already in course of Chapter 2. 
+
+Independent from the five or six chapter structure, we can assume that in general it would be up to Chapter 2 that the player should still have been able to potentially turn around his previously choosen class, while at least from Chapter 3 onwards the decision for a class would be fixed. 
+
+
+
+
+
+
 ## Guild Ranks
 
 In [Joining Conditions](/story/factions/guilds-joining-conditions) I have pointed out how in the early conception phase there was the idea of a level system within guilds and suggested that it may correspond to ranks within the guild and that it may also make sense that it is linked at least to some degree to the chapters. 
