@@ -12,7 +12,7 @@ At the entrance to this mountain there, you can see a palisade, which was contai
 
 The pass was cut in the last few months of development as it did not seem necessary and there was no time left to develop it any further (obviously there was no time  even to fix the mapping of the path). 
 
-
+But since we only knew the pass from the screenshot above, we did not know how it looked like, other than what the map seemed to suggest. And what the map seemed to suggest was that the pass led into the North...
 
 
 Judging from this depiction on the mal
