@@ -33,9 +33,9 @@ Our etymology of those terms is explained in our [moraic etymology]().
             .article ul li strong {
                 display: block; 
                 font-weight: normal;
-                margin-bottom: 1em;
-                padding-bottom: 1em;
-                letter-spacing: 0.3em;
+                margin-bottom: 0.8em;
+                padding-bottom: 0.8em;
+                letter-spacing: 0.2em;
                 width: 100%;
                 border-bottom: 5px solid var(--black);
             }
