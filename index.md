@@ -63,7 +63,7 @@ Changed: 08.09.2024
 
 ## Support
 
-Please note that [Phoenix](https://phoenixthegame.com), the Phoenix Documentation at hand and the entire [Gothic Archive](https://gothicarchive.org) created alongside the project are being done non-commercially and primarily by one person at his free time. At the same time domains and backup storage have to be paid. If you want to support us or just give something in return for the work on the game, the Gothic Archive and this documentation, you can do so [via ko-fi](https://ko-fi.com/flosha).
+Please note that [Phoenix](https://phoenixthegame.com), the Phoenix Concept at hand and the entire [Gothic Archive](https://gothicarchive.org) created alongside the project are being developed non-commercially and primarily by one person at his free time. Domains and backup storage have to be paid too. If you want to support us or just give something in return for all the work and passion put into the project, you can do so [via ko-fi](https://ko-fi.com/flosha).
 
 
 ## Read next 
