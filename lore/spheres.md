@@ -27,7 +27,7 @@ Our etymology of those terms is explained in our [moraic etymology]().
     }
         .article ul li {
             list-style: none;
-            padding: 1em 1.5em;
+            padding: 1.4em 1.5em;
             margin-bottom: 1.5em;
         }
             .article ul li strong {
