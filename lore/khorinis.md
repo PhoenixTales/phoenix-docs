@@ -3,7 +3,7 @@
 ```
 Author: Flosha  
 Created: 12.06.2024   
-Last update: 07.09.2024  
+Last update: 09.09.2024  
 ```
 
 Here we are primarily focusing on the definition and role of Khorinis as a location in the grand scheme of the history of Myrtana, while the more elaborated history of the *City* in particular will be dealt with in the city design documentation. 
@@ -13,7 +13,7 @@ Here we are primarily focusing on the definition and role of Khorinis as a locat
 
 We can either assume that the word is comprised of two words such as "Khor+Inis", as suggested by Avallach, or we can assume it to be "Khorin" with a suffix "-is" as it appears in words such as basis or polaris, which I suggested.  
 
-* **Korin** is a name and an alternate form of *Corin*, which, as the contributor Ben found, may come from *Quirinus*, an epithet of Mars, the god of war, which according to Ovid could originate from a language related to latin with a potential meaning of the *"lance (bearer)"*. (Interestingly we became aware of this just *after* I had the idea that Khorin once brought the sceptre of Varant to Khorinis.) Additionally, when *Quirinus* is pronounced in a latin manner, it sounds almost like "Khorinis" already. 
+* **Korin** is a name and an alternate form of *Corin*, which, as Ben (one of our contributors) found, may come from *Quirinus*, an epithet of Mars, the god of war, which according to Ovid could originate from a language related to latin with a potential meaning of the *"lance (bearer)"*. (Interestingly we became aware of this just *after* I had the idea that Khorin once brought the sceptre of Varant to Khorinis.) Additionally, when *Quirinus* is pronounced in a latin manner, it sounds almost like "Khorinis" already. 
 
 * ***-aris*** is used to form an adjective in latin, usually from a noun, indicating a relationship or a pertaining to. Example: Sol (sun) → solaris (of the sun). In this sense, Khorinis could mean as much as "of Khorin" or "belonging to Khorin".
 
@@ -48,7 +48,7 @@ magical Ore and forged them into the strongest weapons in the land (...) [M]
 
 ## Strategic importance
 
-The manual makes it very clear, that magical ore is *only* to be found in Khorinis. The king would not erect a magical barrier around the colony, if the colony wouldn't be of the utmost strategic importance for the war. 
+The manual makes it clear, that magical ore is *only* to be found in Khorinis. The king would not erect a magical barrier around the colony, if the colony wouldn't be of the utmost strategic importance for the war. 
 
 The small size of the colony and the relatively little amounts of magical ore that the prisoners deliver, does not make this any less plausible or less realistic, since we do not know how many of these "strongest weapons in the land" can be produced by even little amounts of this specific ore. The swords are thus unlikely to be made entirely from magical ore, but rather be coated by it. One sack of ore can therefore suffice for the production of a plethora of swords. 
 {: .subtext }
@@ -63,9 +63,7 @@ This will be elaborated on in the design documentation of the City.
 
 ### Khorinis for the Orcs
 
-The orcs came from the North driven by hunger and are thus drawn towards the fruitfuil soil around the royal cities in the centre of the realm. Khorinis, for them, is a mountaineous region, rich in ore, but poor in food. 
-
-But most importantly: Khorinis is the home of the Bloodearth Clan - a cursed clan on cursed soil, full of orcish blood - thus known as the *blood earth* -, hated by their kin, as they brought great misery upon the orcs by the summoning of Krushak. 
+The orcs came from the North driven by hunger and are thus drawn towards the fruitfuil soil around the royal cities in the centre of the realm. Khorinis, for them, is a mountaineous region, rich in ore, but poor in food. Most importantly Khorinis is the home of the Bloodearth Clan - a cursed clan on cursed soil, full of orcish blood - thus known as the *blood earth* -, hated by their kin, as they brought great misery upon the orcs by the summoning of Krushak. 
 
 
 ## Position of Khorinis
