@@ -32,13 +32,13 @@ Our etymology of those terms is explained in our [moraic etymology]().
     .article ul .blocklist {
         padding-left: 0;
     }
-        .article ul li .blocklist {
+        .article ul .blocklist li {
             background: var(--darkblood);
             list-style: none;
             padding: 1em 1.5em;
             margin-bottom: 1.5em;
         }
-            .article ul li strong .blocklist {
+            .article ul .blocklist li strong {
                 font-weight: normal;
                 text-transform: uppercase;
             }
