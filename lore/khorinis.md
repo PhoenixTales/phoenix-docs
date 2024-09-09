@@ -48,7 +48,7 @@ magical Ore and forged them into the strongest weapons in the land (...) [M]
 
 ## Strategic importance
 
-The manual makes it very clear, that magical ore is *only* to be found in Khorinis. The king would not erect a magical barrier around the colony, if the colony wouldn't be of the utmost strategic importance for the war. 
+The manual makes it clear, that magical ore is *only* to be found in Khorinis. The king would not erect a magical barrier around the colony, if the colony wouldn't be of the utmost strategic importance for the war. 
 
 The small size of the colony and the relatively little amounts of magical ore that the prisoners deliver, does not make this any less plausible or less realistic, since we do not know how many of these "strongest weapons in the land" can be produced by even little amounts of this specific ore. The swords are thus unlikely to be made entirely from magical ore, but rather be coated by it. One sack of ore can therefore suffice for the production of a plethora of swords. 
 {: .subtext }
