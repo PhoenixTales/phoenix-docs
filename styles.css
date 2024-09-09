@@ -114,14 +114,15 @@ nav {
 
 nav img {
   display: block;
-  /*image-rendering: pixelated;*/
+  image-rendering: pixelated;
   width: 90%;
   margin: 20px auto 0;
-  transition: all 0.3s ease-out;
+ /* transition: all 0.3s ease-out;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
-  -o-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out; */
 }
+/*
   nav img:hover {
     filter: contrast(1.2);
     transition: all 0.3s ease-out;
@@ -129,6 +130,7 @@ nav img {
     -moz-transition: all 0.3s ease-out;
     -o-transition: all 0.3s ease-out;
   }
+*/
 
 
 /* HEADER NAVIGATION */
@@ -636,6 +638,14 @@ and (max-width : 820px) {
     position: absolute;
     right: 0;
     margin: 1em;
+  }
+
+  nav img {
+    display: block;
+    image-rendering: pixelated;
+    min-width: 80%;
+    max-width: 90%;
+    margin: 0 auto;
   }
 
   .menu-title {
