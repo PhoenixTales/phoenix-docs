@@ -417,9 +417,13 @@ hr {
   padding: 1.5em;
   margin: 3em 0;
 }
-  /* alternative blue background subtext */
+  /* alternative background subtexts */
   .blueinfo {
     background-color: var(--water);
+    border: none;
+  }
+  .darkbg {
+    background-color: var(--darker);
     border: none;
   }
 
