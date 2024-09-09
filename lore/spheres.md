@@ -38,7 +38,7 @@ Our etymology of those terms is explained in our [moraic etymology]().
                 letter-spacing: 0.2em;
                 font-size: 14px;
                 width: 100%;
-                border-bottom: 5px solid var(--black);
+                border-bottom: 1px solid var(--silver);
             }
 
             .article ul li em {
