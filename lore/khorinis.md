@@ -63,9 +63,7 @@ This will be elaborated on in the design documentation of the City.
 
 ### Khorinis for the Orcs
 
-The orcs came from the North driven by hunger and are thus drawn towards the fruitfuil soil around the royal cities in the centre of the realm. Khorinis, for them, is a mountaineous region, rich in ore, but poor in food. 
-
-But most importantly: Khorinis is the home of the Bloodearth Clan - a cursed clan on cursed soil, full of orcish blood - thus known as the *blood earth* -, hated by their kin, as they brought great misery upon the orcs by the summoning of Krushak. 
+The orcs came from the North driven by hunger and are thus drawn towards the fruitfuil soil around the royal cities in the centre of the realm. Khorinis, for them, is a mountaineous region, rich in ore, but poor in food. Most importantly Khorinis is the home of the Bloodearth Clan - a cursed clan on cursed soil, full of orcish blood - thus known as the *blood earth* -, hated by their kin, as they brought great misery upon the orcs by the summoning of Krushak. 
 
 
 ## Position of Khorinis
