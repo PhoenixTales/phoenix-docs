@@ -33,7 +33,9 @@ Our etymology of those terms is explained in our [moraic etymology]().
             .article ul li strong {
                 display: block; 
                 font-weight: normal;
-                margin-bottom: 0.5em;
+                margin-bottom: 1em;
+                padding-bottom: 1em;
+                letter-spacing: 0.3em;
                 width: 100%;
                 border-bottom: 2px solid var(--black);
             }
@@ -52,7 +54,7 @@ Our etymology of those terms is explained in our [moraic etymology]().
                 background: var(--water);
             }
 
-            .article ul li:nth-child(2) {
+            .article ul li:nth-child(3) {
                 background: var(--darkblood);
             }
 
