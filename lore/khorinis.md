@@ -3,7 +3,7 @@
 ```
 Author: Flosha  
 Created: 12.06.2024   
-Last update: 07.09.2024  
+Last update: 09.09.2024  
 ```
 
 Here we are primarily focusing on the definition and role of Khorinis as a location in the grand scheme of the history of Myrtana, while the more elaborated history of the *City* in particular will be dealt with in the city design documentation. 
@@ -13,7 +13,7 @@ Here we are primarily focusing on the definition and role of Khorinis as a locat
 
 We can either assume that the word is comprised of two words such as "Khor+Inis", as suggested by Avallach, or we can assume it to be "Khorin" with a suffix "-is" as it appears in words such as basis or polaris, which I suggested.  
 
-* **Korin** is a name and an alternate form of *Corin*, which, as the contributor Ben found, may come from *Quirinus*, an epithet of Mars, the god of war, which according to Ovid could originate from a language related to latin with a potential meaning of the *"lance (bearer)"*. (Interestingly we became aware of this just *after* I had the idea that Khorin once brought the sceptre of Varant to Khorinis.) Additionally, when *Quirinus* is pronounced in a latin manner, it sounds almost like "Khorinis" already. 
+* **Korin** is a name and an alternate form of *Corin*, which, as Ben (one of our contributors) found, may come from *Quirinus*, an epithet of Mars, the god of war, which according to Ovid could originate from a language related to latin with a potential meaning of the *"lance (bearer)"*. (Interestingly we became aware of this just *after* I had the idea that Khorin once brought the sceptre of Varant to Khorinis.) Additionally, when *Quirinus* is pronounced in a latin manner, it sounds almost like "Khorinis" already. 
 
 * ***-aris*** is used to form an adjective in latin, usually from a noun, indicating a relationship or a pertaining to. Example: Sol (sun) → solaris (of the sun). In this sense, Khorinis could mean as much as "of Khorin" or "belonging to Khorin".
 
