@@ -342,13 +342,13 @@ There are also other local deities and believes in different corners of the real
 
 ### Sect of the Sleeper
 
-We will deal with the sect in the faction documentation. For here it has to suffice to note, that the entrance into the sect is accompanied by a radical and conscious renounciation of the three gods, that they also call the "old gods". 
+We will deal with the sect in the faction documentation. For here it has to suffice to note, that the entrance into the sect is accompanied by a radical and conscious renunciation of the three gods, that they also call the "old gods". 
 
-> Wir haben den alten Göttern abgeschworen. [G]
+> Ich habe den alten Göttern abgeschworen. [G]
 
 > Novice: Pray for the last time to your gods. [A]
 
-The priests of the cult still assume that their magical (psionic) power has to have a source in some kind of god, because they do not know or cannot imagine a magic unrelated to a higher, divine (or demonic) source. 
+The priests of the cult still assume that their magical (psionic) power has to have a source in some kind of god, because they do not know or cannot imagine a magic unrelated to a higher, divine (or demonic) source, as magic is seen as a gift from the gods. 
 
 > [...] The brotherhood is a threat. A threat for the proceeding of our trade agreement and thus for the King, the entire kingdom and also for your life. Therefore you should send out scouts and find out, on which gods and on which knowledge their magical power is based. If you figured this out, we will inform the priests of your findings, so that together we can bring an end to this phantom. [...] [G]
 
