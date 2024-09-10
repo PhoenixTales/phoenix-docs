@@ -189,7 +189,7 @@ Also see *anos* (years, age) and "ad"? Sanskrit *adhi* "near", latin *ad* "to, t
 
 > "ad- Motion or direction to; reduction or change into; addition, increase, or intensification."
 
-Also see *ada*+*nos*. *Nos*, latin "we, us". Adhah, sanskrit "down, under, below", from there "Adhara, "ground, foundation" and "Adhana", sanskrit "without possessions". Ada+nos could then be something like "below us", "under us", or "the foundation of us" or "we without any possession" or whatever. 
+Also see *ada*+*nos*. *Nos*, latin "we, us". *Adhah*, sanskrit "down, under, below", from there *Adhara*, "ground, foundation" and *Adhana*, sanskrit "without possessions". Ada+nos could then be something like "below us", "under us", or "the foundation of us" or "we without any possession" or whatever. 
 
 In Hebrew, *Adha* means "ornament". 
 
