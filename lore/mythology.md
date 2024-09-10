@@ -1,9 +1,9 @@
 # Gods of Myrtana
 
 ```
-**Author:** *Flosha, logx, Avallach*    
-**Created:** 28.07.2020  
-**Changed:** 12.06.2024
+Authors: Flosha, logx, Avallach  
+Created: 28.07.2020
+Changed: 12.06.2024
 ```
 
 **Content:**
@@ -62,7 +62,6 @@ Adhah, sanskrit "down, under, below".
 Ada + nos would be something like "below us", "under us", or "the foundation of us" or "we without any possession", 
 Hebre *Adha* "ornament". 
 
-
 **Adrastos**: Greek mythology, Ἄδραστος ("Adrastus") may mean "the inescapable". A king of Argos. Adrastus was mentioned in the *Iliad* of Homer and has been depicted in art already in the 6th century BC. 
 
 **Kasakk**: Sanskrit *kasakka*, "tie firmly". *Kazakh* was speculated to originate from the fusion of two clans, "Khaz" and "Sak". Others think it comes from *kasak* and *kesek*. *Kaz* or *kas* means "free", "brave" and "man" in all turkic languages. In our moraic and orcish etymology, "ak" means as much as "from" or "descending from". Kasakk could in this sense mean as much as a "free descendant".  
@@ -81,8 +80,21 @@ It was Matthias Filler (the most important story-writer responsible for the main
 
 *by Avallach*
 
-In the Ancient Temple there are four stones with symbols, which we associate with the gods. A yellow 8-armed star or sun for Ra, a red flame for Innos, a blue droplet for Adanos and a purple moon for Beliar.
-* ``OtWaMaskSun.tga``, ``OtWaMaskFire.tga``, ``OtWaMaskWater.tga``, ``OtWaMaskMoon.tga``.
+In the Ancient Temple there are four stones with symbols, which we associate with the gods. A golden or yellow 8-armed star or sun for Ra, a red or orange flame for Innos, a blue droplet for Adanos and a purple moon for Beliar.
+
+```
+Sources:
+* OtWaMaskSun.tga  
+* OtWaMaskFire.tga
+* OtWaMaskWater.tga
+* OtWaMaskMoon.tga
+```
+
+![Sun](/_img/lore/OtWaRowOfSymbols1-Sun.png)
+![Fire](/_img/lore/OtWaRowOfSymbols1-Fire.png)
+![Water](/_img/lore/OtWaRowOfSymbols1-Water.png)
+![Moon](/_img/lore/OtWaRowOfSymbols1-Moon.png)
+
 
 
 ## Lore of the Gods
