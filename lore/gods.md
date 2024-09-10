@@ -164,13 +164,11 @@ Despite being a dark god, he appears to be the only one worshipped by people in 
 
 *Flosha, 09.09.2024*
 
-Adanos is the god of balance, he stands for healing, work, knowledge, curiosity, courage and is represented by water. This aspect of "balance" between the two forces of Innos and Beliar, like the water that fills up evenly without distinction, always horizontal, always flowing down, was among Mikes original ideas.
-
-In the manual and also at some places in the design documentation, they used to fall back into a simplified good/evil terminology. But to do the early ideas justice, it is important to see his role not as a balance between god and evil, but between a more complex form of balance as in the philosophy of yin & yang, that are both necessary; a clear good/evil dichotomy should be avoided. Innos and Beliar are indeed about a duality, a duality like light and dark, of activity & passivity, of giving and receiving; but they are both *needed* and form a "unity of opposites". 
+Adanos is the god of balance, he stands for healing, work, knowledge, curiosity, courage and is represented by water. This aspect of "balance" between the two forces of Innos and Beliar, like the water that fills up evenly without distinction, always horizontal, always flowing down, was among Mikes original ideas. In the manual and also at some places in the design documentation, they used to fall back into a simplified good/evil terminology. But to do the early ideas justice, it is important to see his role not as a balance between god and evil, but between a more complex form of balance as in the philosophy of yin & yang, that are both necessary; a clear good/evil dichotomy should be avoided. Innos and Beliar are indeed about a duality, a duality like light and dark, of activity & passivity, of giving and receiving; but they are both *needed* and form a "unity of opposites". 
 
 Just as the indian cults of the gods as all these aspects of Brahman, the Absolute, is hard to grasp for the western mind and widely misunderstood as a "polytheism", yin & yang, while about a duality, are not about a contrast of mutually exclusive forces, but they are part of the equation, they are one, the two sides of a coin or a wheel (think of the wheel of the dharma). And it is Adanos who lets the wheel roll, taking care that it doesn't fall unto one of the sides. 
 
-If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design documentation, that Mike had wanted to avoid to present as such in the game; and in any has to be avoided by us, due to how [Gothic was defined](/vision/gothic-defined). 
+If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design docs, that Mike had wanted to avoid to present as such in the game; and in any has to be avoided by us, due to how [Gothic was defined](/vision/gothic-defined). 
 
 Innos brought light, Beliar brought the night. Both broth life that couldn't exist without both. But Beliar brought dead too. The negation of life. And Adanos, inbetween, brought healing. 
 
