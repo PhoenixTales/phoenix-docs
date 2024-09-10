@@ -79,7 +79,7 @@ He is characterised here as the highest god, while the "three" gods of the myrta
 OtWaMaskSun.tga, OtWaMaskFire.tga, OtWaMaskWater.tga, OtWaMaskMoon.tga
 ```
 
-*Avallach:* In the Ancient Temple there are four stones with symbols, which we associate with the gods. A golden or yellow 8-armed star or sun for Ra, a red or orange flame for Innos, a purple moon for Beliar and a blue droplet for Adanos and.
+*Avallach:* In the Ancient Temple there are four stones with symbols, which we associate with the gods. A golden or yellow 8-armed star or sun for Ra, a red or orange flame for Innos, a purple moon for Beliar and a blue droplet for Adanos.
 
 <div class="god-symbols">
   <img src="/_img/lore/OtWaRowOfSymbols1-Sun.png" alt="Sun Symbol">
