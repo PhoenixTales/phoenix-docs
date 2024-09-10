@@ -151,13 +151,13 @@ By summarising all of these findings and by putting all of those meanings togeth
 
 Despite being a dark god, he appears to be the only one worshipped by people in the story, drawing parallel with *Crom* from the universe of *Conan the Barbarian*
 
-> in Kasakk's name, leave me alone please!
-> thank Kasakk they are not organized
-> He really deserved it, in Kasakk's name
-> Kasakk put copper on the eyes of three of our men [they died]
-> by Kasakk's stinking heap!
-> for Kasakk's sake, let's get out of here
-> Kasakk, Kasakk? Right, there was this little god, I remember
+> in Kasakk's name, leave me alone please!  
+> thank Kasakk they are not organized  
+> He really deserved it, in Kasakk's name  
+> Kasakk put copper on the eyes of three of our men [they died]  
+> by Kasakk's stinking heap!  
+> for Kasakk's sake, let's get out of here  
+> Kasakk, Kasakk? Right, there was this little god, I remember  
 
 
 ### Adanos, Adrastos or Cyvanis
