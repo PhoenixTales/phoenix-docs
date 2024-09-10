@@ -376,8 +376,11 @@ hr {
 }
 
   .phoenixtales {
+    width: 225px;
     margin-top: -18em;
-    margin-right: -10em;
+    filter: brightness(80%);
+    position: relative;
+    left: 60px;
   }
 
 .promo-graphics {

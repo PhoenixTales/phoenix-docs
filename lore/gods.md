@@ -6,6 +6,7 @@ Written: 28.07.2020 - 10.09.2024
 ```
 {: .info }
 
+
 **Content:**
 
 * [Gods of Myrtana](#gods-of-myrtana)
@@ -20,7 +21,9 @@ Written: 28.07.2020 - 10.09.2024
   * [The Necessity of Death](#the-necessity-of-death)
   * [The First Appropriation of Magic](#the-first-appropriation-of-magic)
   * [Cultic Wars & the Decline of Faith](#cultic-wars--the-decline-of-faith)
-* [Cult of the Three Gods](#cult-of-the-three-gods)
+* [Cults of Myrtana](#cults-of-myrtana)
+  * [Cult of the Three Gods](#cult-of-the-three-gods)
+  * [Sect of the Sleeper](#sect-of-the-sleeper)
 
 
 ## Gods of Myrtana
@@ -102,6 +105,8 @@ By summarising all of these findings and by putting all of those meanings togeth
 
 ---
 
+**Kasakk**: Sanskrit *kasakka*, "tie firmly". *Kazakh* was speculated to originate from the fusion of different clans, such as "Khaz" and "Sak". *Kaz* or *kas* means "free", "brave" and "man" in all turkic languages. In our moraic and orcish etymology, "ak" means as much as "from" or "descending from". Kasakk could in this sense mean as much as a "free descendant".  
+
 *This part about Kasakk is written by Avallach*
 
 **Kasakk** is only mentioned in the Gothic Novel (*Sleeper's Ban*), and he is the only deity appearing there. He appears to be the deity of the realm of the dead, similarly to Beliar from the release version. 
@@ -123,35 +128,36 @@ Despite being a dark god, he appears to be the only one worshipped by people in 
 
 Adanos is the god of balance, he stands for healing, work, knowledge, curiosity, courage, represented by water.  
 
-**Adanos**: Sanskrit *Ada* means as much as "eating, devouring". *Ādā* means "to receive, accept, take, resort to, seize, take hold of", also "to imprison". 
-"āḍa (आड).—f An obstinate resisting or insisting upon: also a point maintained of opposition or difficulty." - "ada (अद).—a Half." - "adā (अदा).—m The airs and arts of coquetry. Fund. Income."
-See Adonis, adenoid. 
-See anos (years, age) and "ad"? Sanskrit *adhi* "near", latin *ad* "to, toward"; from this also Old English "aet", or modern English "at". Ad-anos would thus mean as much as "near time", "at the time", "at the age", which could be interpreted as the god of the presence or the god of time. 
-"ad- Motion or direction to; reduction or change into; addition, increase, or intensification."
-Also look at ada + nos.
-*Nos*, latin "we, us".  
-Adhah, sanskrit "down, under, below". 
-*Adhara*, sanskrit "grounds, foundation". 
-"Adhana", sanskrit "without possessions". 
-Ada + nos would be something like "below us", "under us", or "the foundation of us" or "we without any possession", 
-Hebre *Adha* "ornament". 
+**Adanos**: Sanskrit *Ada* has several different pronounciations, all coming with a different meaning: 
 
-**Adrastos**: Greek mythology, Ἄδραστος ("Adrastus") may mean "the inescapable". A king of Argos. Adrastus was mentioned in the *Iliad* of Homer and has been depicted in art already in the 6th century BC. 
+> Ada, eating, devouring.
+> Ādā* means "to receive, accept, take, resort to, seize, take hold of", also "to imprison". 
+> āḍa (आड).—f An obstinate resisting or insisting upon: also a point maintained of opposition or difficulty. 
+> ada (अद).—a Half. 
+> adā (अदा).—m The airs and arts of coquetry. Fund. Income.
 
-**Kasakk**: Sanskrit *kasakka*, "tie firmly". *Kazakh* was speculated to originate from the fusion of two clans, "Khaz" and "Sak". Others think it comes from *kasak* and *kesek*. *Kaz* or *kas* means "free", "brave" and "man" in all turkic languages. In our moraic and orcish etymology, "ak" means as much as "from" or "descending from". Kasakk could in this sense mean as much as a "free descendant".  
+TODO: Also look up *Adonis*, *adenoid*.
+
+Also see *anos* (years, age) and "ad"? Sanskrit *adhi* "near", latin *ad* "to, toward"; from this also Old English "aet", or modern English "at". *Ad-anos* would then mean as much as "near time", "at the time", "at the age", which could be interpreted as the god of the presence or the god of time. 
+
+> "ad- Motion or direction to; reduction or change into; addition, increase, or intensification."
+
+Also see *ada*+*nos*. *Nos*, latin "we, us". Adhah, sanskrit "down, under, below", from there "Adhara, "ground, foundation" and "Adhana", sanskrit "without possessions". Ada+nos could then be something like "below us", "under us", or "the foundation of us" or "we without any possession" or whatever. 
+
+In Hebrew, *Adha* means "ornament". 
+
+**Adrastos**: Greek mythology, Ἄδραστος ("Adrastus") may mean "the inescapable". A king of Argos. Adrastus was mentioned in the *Iliad* of Homer and has been depicted in art already in the 6th century BC; there is too much to write about him, but not much that seems relevant for the god in question.  
+
+**Cyvanis**: ... 
 
 ---
-
-
-
-
-
 
 ## Lore of the Gods
 
 *by Flosha*
 
-An ingame book in Gothic consisting of three volumes; will be quoted below.
+An ingame book in Gothic consisting of three volumes.  
+Below we will quote the entire book alongside our commentary. 
 
 > Höre die Worte der Götter, denn es ist ihr Wille, dass sie gehört werden. Befolge die Lehren der Götter, denn es ist ihr Wille, dass sie befolgt werden. Achte die Priester der Götter, denn sie sind erwählt.
 
@@ -164,7 +170,7 @@ An ingame book in Gothic consisting of three volumes; will be quoted below.
 Due to these characteristics we can deduce that the book was written during the time of the "second Realm", after the reconciliation of the house of Innos and the house of Adanos under Rhobar.
 
 
-## The Will of the Gods
+### The Will of the Gods
 
 *by Flosha, 13.06.2024*
 
@@ -179,7 +185,7 @@ Summarising the words of the gods, the first volume is stating that Innos and Ad
 This characterises Beliar as the god of justice and the death. He is a dark god, not an evil god. And that is how Mike had conceptualised him. 
 
 
-## Creation Myth
+### Creation Myth
 
 *by Flosha, 13.06.2024*
 
@@ -205,7 +211,7 @@ Adanos, also known as "Cyvanis" and "Adrastos", originated after Beliar from the
 * courage (to conquer and rule the world "given" to them) 
 
 
-## The Necessity of Death
+### The Necessity of Death
 
 *by Flosha & logx, 28.07.2020*
 
@@ -218,7 +224,7 @@ Der Name der Orks in der alten Sprache ist „Orak“ (or – Erde; ak – absta
 Gelehrte behaupten, die Orks gingen auf Beliar/Vandras zurück, der einen neuen Menschen aus Erde formte, um ihn anzubeten - und sie taten es auch nicht. Darum bestrafte er sie. Die Menschen betrachten die Orks als entstellt, als Geächtete in den Augen der Götter [siehe Rassismus in der “Geschichte der Orks”]. Menschen halten Orks als Sklaven; die Inquisition spielt mit der Angst der Menschen und droht ihnen, entstellt zu werden wie die Orks, wenn sie den Göttern nicht gehorchen und Beliar erzürnen. Die Orks aber haben ihre eigenen Mythen, die nichts mit der menschlichen Götterwelt gemein haben. 
 
 
-## The first Appropriation of Magic
+### The first Appropriation of Magic
 or: The Great Disentchantment
 
 *by Flosha & logx, 28.07.2020*
@@ -234,7 +240,7 @@ Gewisse ketzerische Bewegungen betrachten diesen Teil des Mythos als Lügen der 
 Herrschaft, Gesetz, Licht und Feuer werden traditionell Ra zugeschrieben. Unter der Führung jener damals noch nicht gespaltenen Priester gründeten diese ersten Menschen, von denen die Überlieferung spricht, ein mächtiges Reich (das "erste Reich"): dessen Zentrum das heutige Varant. Als Insignie der unumschränkten Herrschaft über die Stämme von Varant und die Welt trug der oberste Priester des Ersten Reiches einen Stab mit angeblich göttlichen Kräften zur Beherrschung der Sphären. Man nennt ihn später das "Zepter von Varant".
 
 
-## Cultic Wars & the Decline of Faith
+### Cultic Wars & the Decline of Faith
 
 *by Flosha, 25.03.2024*
 
@@ -246,7 +252,20 @@ Rhobar I. took measures against this decline of faith and the cultic disputes wi
 Rhobar II. later established the Inquisition as another measure, as a representation of Beliars justice. 
 
 
-## Cult of the Three Gods
+## Cults of Myrtana
+
+Mention here: 
+* Cult of Innos
+* Cult of Adanos
+* Cult of Beliar
+* Cult of the Three Gods (reconciliation)
+* Cult, not "religion"
+* House of Innos, not "Church"
+* Temples, not Churches
+* What are the "Circles" etc.
+
+
+### Cult of the Three Gods
 
 *by Flosha, 13.06.2024*
 
@@ -258,14 +277,9 @@ There are other cults in the kingdom. But since Rhobar I. the *Cult of the Three
 There are other local deities in different corners of the realm, such as *Kasakk*, the shamanism of the orcs and specific movements considered as heretical by the royal clergy, such as the *Brotherhood of the Sleeper*. 
 
 
-
-
-### Sect of the Brotherhood
+### Sect of the Sleeper
 
 > Novice: Pray for the last time to your gods. [A]
-
 > Wir haben den alten Göttern abgeschworen. [G]
 
 
-
-Add quotes from the novel and avallachs notes
