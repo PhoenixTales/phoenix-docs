@@ -40,11 +40,11 @@ Current structure:
 ```
 DESIGN CONCEPT
 
-1. Vision        // Project Definition, History, Setting
-2. Mechanics     // Gameplay, Interface, Programming
-3. Lore          // Mythology, Geography, Metaphysics, Background
+1. Vision   // Project Definition, History, Setting
+2. Mechanics   // Gameplay, Interface, Programming
+3. Lore     // Mythology, Geography, Metaphysics, History
 4. World Design  // Levels, Vegetation, Monsters, Factions 
-5. Plot          // Alpha, Sequel, Phoenix Plot, Missions
+5. Plot     // Alpha, Sequel, Phoenix Plot, Missions
 
 APPENDIX
 ```
