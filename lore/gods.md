@@ -177,11 +177,11 @@ Innos brought light, Beliar brought the night. Both brought life that couldn't e
 
 **Adanos**: Sanskrit *Ada* has several different pronounciations, all coming with a different meaning: 
 
-> Ada, eating, devouring.
-> Ādā* means "to receive, accept, take, resort to, seize, take hold of", also "to imprison". 
-> āḍa (आड).—f An obstinate resisting or insisting upon: also a point maintained of opposition or difficulty. 
-> ada (अद).—a Half. 
-> adā (अदा).—m The airs and arts of coquetry. Fund. Income.
+> Ada, eating, devouring.  
+> Ādā* means "to receive, accept, take, resort to, seize, take hold of", also "to imprison".   
+> āḍa (आड).—f An obstinate resisting or insisting upon: also a point maintained of opposition or difficulty.  
+> ada (अद).—a Half.  
+> adā (अदा).—m The airs and arts of coquetry. Fund. Income.  
 
 TODO: Also look up *Adonis*, *adenoid*.
 
