@@ -172,7 +172,7 @@ If the documentation says otherwise, then we see this as a regression for simpli
 
 Innos brought light, Beliar brought the night. Both brought life that couldn't exist without them both. Beliar brought deadt, the negation of life. And Adanos, inbetween, brought healing. 
 
-> *Adanos saw, that the humans were dying and that it was the will of Beliar. And he said: I will not stand against the will of Beliar, but I will give humankind the power of healing." [G]
+> *Adanos saw, that the humans were dying and that it was the will of Beliar. And he said: I will not stand against the will of Beliar, but I will give humankind the power of healing.* [G]
 
 
 **Adanos**: Sanskrit *Ada* has several different pronounciations, all coming with a different meaning: 
