@@ -119,7 +119,7 @@ In the Talmud it is explained as "without the yoke" or "yokeless". In this conte
 
 > In my idea of the lore it has always been so, that this God-Satan story does not exist in the religious world of Gothic, but all the gods were important. And there were specific attributes ascribed to them. And insofar it should be the so that Beliar too had his followers. [Mike, 30.01.2021](https://gothicarchive.org/postrelease/interviews/MikeHoge_30_01_2021_Part3.html#4Temple)
 
-In one of the Dead Sea scrolls, titled *The War of the Sons of Light Against the Sons of Darkness", Belial is characterised as "the leader of the Sons of Darkness", which are also described as the *army of Belial*. 
+In one of the Dead Sea scrolls, titled *The War of the Sons of Light Against the Sons of Darkness*, Belial is characterised as "the leader of the Sons of Darkness", which are also described as the *army of Belial*. 
 
 > You made Belial for the pit, angel of enmity; in darkness is his domain, his counsel is to bring about wickedness and guilt. All the spirits of his are angels of destruction, they walk in the laws of darkness; towards it goes their only desire. 
 
