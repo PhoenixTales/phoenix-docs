@@ -143,7 +143,7 @@ By summarising all of these findings and by putting all of those meanings togeth
 
 **Kasakk**: Sanskrit *kasakka*, "tie firmly". *Kazakh* was speculated to originate from the fusion of different clans, such as "Khaz" and "Sak". *Kaz* or *kas* means "free", "brave" and "man" in all turkic languages. In our moraic and orcish etymology, "ak" means as much as "from" or "descending from". Kasakk could in this sense mean as much as a "free descendant".  
 
-*This part about Kasakk is written by Avallach*
+*This part about Kasakk is written by Avallach:*
 
 **Kasakk** is only mentioned in the Gothic Novel (*Sleeper's Ban*), and he is the only deity appearing there. He appears to be the deity of the realm of the dead, similarly to Beliar from the release version. 
 
