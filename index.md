@@ -115,8 +115,7 @@ Please note that [Phoenix](https://phoenixthegame.com), the Phoenix Concept at h
    }
 
    .og-doc-bg {
-      background: #636363;
-      color: var(--black);
+      background: var(--darker);
    }
 
    @media only screen
