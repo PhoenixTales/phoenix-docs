@@ -40,7 +40,7 @@ Written: 28.07.2020 - 10.09.2024
 > *Zusammen bilden sie die göttliche Dreifaltigkeit.*  
 > *Den Ursprung der Welt, ihren Weg und ihr Ende.*  
 
-I will at first deal with the gods based on the source material and in form of loose historical and etymological reflections. From our source material as listed in the [introduction to our lore](/lore/lore), we know the following names gods:  
+I will at first deal with the gods based on the source material and in form of loose historical and etymological reflections. From our source material as listed in the [introduction to our lore](/lore/lore), we know the following names of gods:  
 
 * *Ra* [C] and *Innos* [G]
 * *Beliar* [G] aka *Vandras* [A] & *Kasakk* [N]
