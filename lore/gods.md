@@ -262,6 +262,8 @@ Adanos, also known as "Cyvanis" and "Adrastos", originated after Beliar from the
 
 > Beliar aber wurde von Neid zerfressen, denn die Menschen beteten nicht zu ihm und ruhten des Nachts. Da wurde er zornig und er formte sich einen Menschen. Einen Menschen, der nur ihn anbeten sollte. Der Mensch aber ward genau so wie alle anderen Menschen. Beliar wurde so stark von Zorn erfüllt, dass er den Menschen tötete und sprach: Wenn sie mich nicht anbeten, dann sollen sie mich fürchten. Und er schuf den Tod und nahm den Menschen das Leben. [G]
 
+[TODO: Translate the section below]
+
 Durch ihre Unfähigkeit zur Integralität (von Licht und Dunkelheit, Sichtbarem und Unsichtbarem, Bewusstem und Unbewusstem, kurz: der Dämonen - so eine mystische Deutung des Mythos), was metaphorisch den Zorn des dunklen Gottes heraufbeschwor, wurden sie sterblich. So leben sie seitdem als „Mora“ (mor – sterblich, vergänglich; ra – Gott; “sterblicher Gott”), in der Sphäre des Vergänglichen (Morgrad). 
 
 Der Name der Orks in der alten Sprache ist „Orak“ (or – Erde; ak – abstammen). Später wurde daraus das heute gebräuchliche „Ork“ in der Sprache der Menschen. Die Menschen betrachten sich als göttlich und „von oben” kommend. Rak = „von Gott” oder „vom Himmel” und im Gegensatz dazu die Orks als von der Erde abstammend und von Erde gemacht = nicht göttlichen Ursprungs.
