@@ -212,7 +212,7 @@ Below we will quote the entire book alongside our commentary.
 
 13.06.2024: It is also important to notice, that inspite of the authors ideological bias against the Adanos cult, he clearly demands in Volume I to "follow the will of the gods" in plural and to respect the priests in general, which includes the priests of Adanos. 
 
-Due to these characteristics we can deduce that the book was written during the time of the "second Realm", after the reconciliation of the house of Innos and the house of Adanos under Rhobar.
+Due to these characteristics we can deduce that the book was written during the time of the new empire, after the reconciliation of the house of Innos and the house of Adanos under Rhobar.
 
 
 ### The Will of the Gods
