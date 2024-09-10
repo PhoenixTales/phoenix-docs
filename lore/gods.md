@@ -123,9 +123,9 @@ In one of the Dead Sea scrolls, titled *The War of the Sons of Light Against the
 
 > You made Belial for the pit, angel of enmity; in darkness is his domain, his counsel is to bring about wickedness and guilt. All the spirits of his are angels of destruction, they walk in the laws of darkness; towards it goes their only desire. 
 
-In the "Rules of the Community", Belial is described to control a large number of demons, but demons which are "specifically allotted to him by God for the purpose of performing evil". Belial is here "established as the force occupying the opposite end of the specrtrum of God". 
+In the "Rules of the Community", Belial is described to control a large number of demons, but demons which are *"specifically allotted to him by God for the purpose of performing evil"*. Belial is here *"established as the force occupying the opposite end of the specrtrum of God"*. 
 
-In the *Fragments*, Belial is "sometimes presented as an agent of divine punishment and sometimes as a rebel". The same fragments of scrolls also say, that "anyone who is ruled by the spirits of Belial and speaks of rebellion should be condemned as a necromancer and a wizard". 
+In the *Fragments*, Belial is *"sometimes presented as an agent of divine punishment and sometimes as a rebel"*. The same fragments of scrolls also say, that *"anyone who is ruled by the spirits of Belial and speaks of rebellion should be condemned as a necromancer and a wizard"*. 
 
 It is unclear why Beliar was not given up as a name for the same reasons as Ra may have been given up, due to so many real-life religious implications. I can only assume that apparently they liked these implications as much that it justified keeping the name.  
 
