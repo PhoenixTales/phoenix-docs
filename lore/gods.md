@@ -14,7 +14,7 @@ Written: 28.07.2020 - 10.09.2024
     * [Ancient Symbols of the Gods](#ancient-symbols-of-the-gods)
     * [Identification of Innos with Ra](#identification-of-innos-with-ra)
   * [Beliar, Vandras or Kasakk](#beliar-vandras-or-kasakk)
-  * [Adanaos, Adrastos or Cyvanis](#adanos-adrastos-or-cyvanis)
+  * [Adanos, Adrastos or Cyvanis](#adanos-adrastos-or-cyvanis)
 * [Lore of the Gods](#lore-of-the-gods)
   * [The Will of the Gods](#the-will-of-the-gods)
   * [Creation Myth](#creation-myth)
