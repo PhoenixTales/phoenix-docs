@@ -28,10 +28,7 @@ Written: 28.07.2020 - 10.09.2024
 
 ## Gods of Myrtana
 
-```
-Flosha, 09.09.2024 - 10.09.2024
-```
-{: .info }
+*Flosha, 09.09.2024 - 10.09.2024*
 
 "About the Gods" from the Sequel [S]:
 > *Innos der Gott des Feuers und des Gesetzes.*
@@ -59,6 +56,8 @@ It was Mattias Filler (the most important story-writer responsible for the main 
 
 
 ### Ra and Innos
+
+*Flosha, 09.09.2024*
 
 > *I am the rising sun, the light, and the life*
 
@@ -91,10 +90,7 @@ OtWaMaskSun.tga, OtWaMaskFire.tga, OtWaMaskWater.tga, OtWaMaskMoon.tga
 
 #### Identification of Innos with Ra
 
-```
-flosha, based on ideas by Avallach
-```
-{: .info }
+*flosha, based on ideas by Avallach*
 
 We imagine *Innos* as a nordic god, which was worshipped in the northern lands. He originated as a god of war, focusing on the destructive aspects of fire, of burning, cleansing and being "just" in that it burns everyone the same - unless he is *innocent* (in this context, think of the [*Feuerprobe*](https://de.wikipedia.org/wiki/Feuerprobe)); while *Ra* is a god originating from the ancient civilisation of Varant with an emphasis on light, the sun, illumination and fire in its positive role in the cultural evolution.
 
@@ -110,6 +106,8 @@ Just as Beliar is not simply "evil", Innos is not just "good"; they are all "par
 
 
 ### Beliar, Vandras or Kasakk
+
+*Flosha, 09.09.2024*
 
 Beliar - also known as *Vandras* from an earlier version of the *Lore of the Gods* and as *Kasakk* in the novel - is the god of the death, god of darkness, creator of the night, responsible for punishment and the shadows. He is not meant to just be "the evil", nor was Innos meant to just be "the good". 
 
@@ -164,6 +162,8 @@ Despite being a dark god, he appears to be the only one worshipped by people in 
 
 ### Adanos, Adrastos or Cyvanis
 
+*Flosha, 09.09.2024*
+
 Adanos is the god of balance, he stands for healing, work, knowledge, curiosity, courage and is represented by water. This aspect of "balance" between the two forces of Innos and Beliar, like the water that fills up evenly without distinction, always horizontal, always flowing down, was among Mikes original ideas.
 
 In the manual and also at some places in the design documentation, they used to fall back into a simplified good/evil terminology. But to do the early ideas justice, it is important to see his role not as a balance between god and evil, but between a more complex form of balance as in the philosophy of yin & yang, that are both necessary; a clear good/evil dichotomy should be avoided. Innos and Beliar are indeed about a duality, a duality like light and dark, of activity & passivity, of giving and receiving; but they are both *needed* and form a "unity of opposites". 
@@ -197,13 +197,11 @@ In Hebrew, *Adha* means "ornament".
 
 **Adrastos**: Greek mythology, Ἄδραστος ("Adrastus") may mean "the inescapable". A king of Argos. Adrastus was mentioned in the *Iliad* of Homer and has been depicted in art already in the 6th century BC; there is too much to write about him, but not much that seems relevant for the god in question.  
 
-**Cyvanis**: ... 
+**Cyvanis**: [TODO] 
 
 ---
 
 ## Lore of the Gods
-
-*by Flosha*
 
 An ingame book in Gothic consisting of three volumes.  
 Below we will quote the entire book alongside our commentary. 
@@ -221,7 +219,7 @@ Due to these characteristics we can deduce that the book was written during the 
 
 ### The Will of the Gods
 
-*by Flosha, 13.06.2024*
+*Flosha, 13.06.2024*
 
 > Die Worte Innos: Und möget ihr nicht verstehen, so zweifelt nicht an den Worten der Priester, ihr Tun ist gerecht und weise. Denn ich bin die aufgehende Sonne, das Licht und das Leben. Und alles was da wider der Sonne, ist wider mir und soll verbannt sein auf immer und ewig in die Schatten.  
 > Die Worte Adanos: Arbeite und lebe, denn der Tag ist gemacht dafür, dass der Mensch arbeite. Suche das Lernen und Wissen, auf dass Du es weitergeben kannst, denn so bist Du geschaffen worden. Wer aber müßig und faul, der soll verbannt werden auf immer und ewig in die Schatten.  
@@ -236,7 +234,7 @@ This characterises Beliar as the god of justice and the death. He is a dark god,
 
 ### Creation Myth
 
-*by Flosha, 13.06.2024*
+*Flosha, 13.06.2024*
 
 > Vom Anbeginn der Zeit: Es ward noch kein Tag oder Nacht und kein Wesen zog über die Welt. Da erschien der Welt Innos und sein Licht erhellte alles. Und Innos schenkte der Welt das Leben. Da aber kein Wesen im Licht des Innos leben kann, schuf er die Sonne. Das Licht war aber noch zu stark. Da teilte sich Innos und schuf Beliar. Beliar brachte die Nacht. Nun konnten die Menschen sein. Da teilte sich Innos erneut und schuf Adanos. Adanos gab den Menschen die Vielseitigkeit, Wissen, Neugier und Mut. Innos war sehr zufrieden mit sich und seinem Werk. 
 > Und er beschloss die Menschen Adanos ganz zu überlassen, um zu ruhen. [G] 
@@ -262,7 +260,7 @@ Adanos, also known as "Cyvanis" and "Adrastos", originated after Beliar from the
 
 ### The Necessity of Death
 
-*by Flosha & logx, 28.07.2020*
+*Flosha & logx, 28.07.2020*
 
 > Beliar aber wurde von Neid zerfressen, denn die Menschen beteten nicht zu ihm und ruhten des Nachts. Da wurde er zornig und er formte sich einen Menschen. Einen Menschen, der nur ihn anbeten sollte. Der Mensch aber ward genau so wie alle anderen Menschen. Beliar wurde so stark von Zorn erfüllt, dass er den Menschen tötete und sprach: Wenn sie mich nicht anbeten, dann sollen sie mich fürchten. Und er schuf den Tod und nahm den Menschen das Leben. [G]
 
@@ -276,7 +274,7 @@ Gelehrte behaupten, die Orks gingen auf Beliar/Vandras zurück, der einen neuen 
 ### The first Appropriation of Magic
 or: The Great Disentchantment
 
-*by Flosha & logx, 28.07.2020*
+*Flosha & logx, 28.07.2020*
 
 > Innos gab den Menschen die Macht ihn zu hören und zu ihm zu sprechen. Er gab ihnen die Macht große Wunder zu vollbringen. Und er nannte sie Magie. Mit dieser Macht konnten die Menschen die Welt frei nach ihrem Willen gestalten. Es gab keine Grenzen, die Innos ihnen aufzeigte. Und so hatten die Menschen Teil an der göttlichen Schöpferkraft. Aber die Menschen waren sich alle gleich und das gefiel ihnen nicht. Also nahm er denen die unzufrieden waren, die Kraft. Die wenigen, die sich dankbar zeigten, stellte Innos über alle anderen.    
 > Diese Menschen wurden alsbald verehrt und gefürchtet und wurden Priester genannt. [G]
@@ -291,7 +289,7 @@ Herrschaft, Gesetz, Licht und Feuer werden traditionell Ra zugeschrieben. Unter 
 
 ### Cultic Wars & the Decline of Faith
 
-*by Flosha, 25.03.2024*
+*Flosha, 25.03.2024*
 
 > ... wurden Priester genannt. Doch auch unter ihnen gab es viele, die bald unzufrieden waren. Und so kam es, dass sie zu Adanos beteten und ihren Ursprung vergaßen. Die Riege der Priester war gespalten. Kriege wurden entfesselt und auch der Glaube an die göttliche Allmacht war bald schon nur noch Mythos. So teilten sich die Priester. Die dem Adanos folgten nannte man nun Magier des Wassers, die Geweihten des Innos hießen aber die Magier des Feuers. [G]
 
@@ -303,23 +301,18 @@ Rhobar II. later established the Inquisition as another measure, as a representa
 
 ## Cults of Myrtana
 
-TODO: 
-* Cult - not "religion"
-* House of Innos, not "Church"
-* Cult of Innos
-* Cult of Adanos
-* Cult of Beliar
-* Cult of the Three Gods (reconciliation)
-* Temples, not Churches
-* Short introduction to the Circles
+Within Myrtana, "religion" (a word that should not appear anywhere ingame) is practiced in form of *Cults* in the sense of the cults of antiquity, such as the mystery cults of ancient Greece. Accordingly, there are no "churches" in Myrtana, but temples. 
+
+There is a cult of Innos, a cult of Adanos and a cult of Beliar. There may be other cults too, but these are the prevailing ones. Myrtana under the rule of Rhobar II. propagates the *Cult of the Three Gods*. The myrtanian people believe in the three gods and in their role in the grand scheme of life, but at some places the worship of Innos prevails, while at other places, more followers of Adanos are to be found. But no devotee of one of the gods would ever negate the existence of another. 
+
+Just as Innos and Adanos, Beliar has dedicated followers too, but no sacrifices are offered to him and no public worship is taking place; the cultic practice of the followers of Beliar is done in secrecy, since the worship of Beliar is condemned by the priests. While there are priests of Innos and Adanos, there are no priests of Beliar and the magic assigned to Beliar, such as the summoning of demons, is banned and considered as heresy.
+
+The *clergy* of Myrtana is thus divided into the priests of fire and the priests of water (which are organised in *circles*), while as a whole, as the communities of followers, they are described as the "House of Innos" and the "House of Adanos". Similar to what in Christianity would be described as the Roman-Catholic or Protestant or Orthodox Church etc. Just that here they were reconciled in form of the Cult of the three Gods, something like an ecumenical movement of Myrtana. 
 
 
 ### Cult of the Three Gods
 
-```
-Flosha, 13.06.2024*
-```
-{: .info }
+*Flosha, 13.06.2024*
 
 > *"the proclaimer of the faith into the three gods and representative of the highest god Ra"* [C]
 
@@ -364,8 +357,9 @@ The priests of the cult still assume that their magical (psionic) power has to h
 
   .god-symbols {
     display: flex;
-    justify-content: space-between;
-    gap: 2em;
+    justify-content: space-around;
+    gap: 1em;
+    margin: 1.5em 0 2em;
   }
 
 </style>
