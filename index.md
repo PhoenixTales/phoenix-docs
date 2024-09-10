@@ -9,17 +9,17 @@ These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working
 
 ```
 PHOENIX DESIGN CONCEPT
-2016-2024 PhoenixTales
+ 2016-2024 PhoenixTales
 
-Authors: 
-Flosha 
-logx 
-Avallach 
-Phantom95 
-Arbax 
-Auronen 
+AUTHORS 
+ Flosha 
+ logx 
+ Avallach 
+ Phantom95 
+ Arbax 
+ Auronen 
 ```  
-<img class="phoenixtales" src="/_img/promo/phnx-stalker2.png">
+<a href="https://phoenixtales.de"><img class="phoenixtales" src="/_img/promo/phnx-stalker2.png"></a>
 
 In the early stages of development we created what later would become the [Gothic Archive](https://gothicarchive.org) by collecting as much pre-release material as possible to research the original vision of what we summarise as the “Gothic Alpha”. In the course of this work we decided to prepare and present it in the form of a website to the community.
 
