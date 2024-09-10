@@ -170,7 +170,7 @@ Just as the indian cults of the gods as all these aspects of Brahman, the Absolu
 
 If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design docs, that Mike had wanted to avoid to present as such in the game; and in any way has to be avoided by us, due to how [Gothic was defined](/vision/gothic-defined). 
 
-Innos brought light, Beliar brought the night. Both broth life that couldn't exist without both. But Beliar brought dead too. The negation of life. And Adanos, inbetween, brought healing. 
+Innos brought light, Beliar brought the night. Both brought life that couldn't exist without them both. Beliar brought deadt, the negation of life. And Adanos, inbetween, brought healing. 
 
 > *Adanos saw, that the humans were dying and that it was the will of Beliar. And he said: I will not stand against the will of Beliar, but I will give humankind the power of healing." [G]
 
