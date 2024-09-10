@@ -1,13 +1,14 @@
-# Gods of Myrtana
+# Gods & Cults
 
 ```
 Authors: Flosha, logx, Avallach  
 Created: 28.07.2020
-Changed: 12.06.2024
+Changed: 10.09.2024
 ```
 
 **Content:**
 
+* [Gods of Myrtana]
 * [Ancient Symbols of the Gods]()
 * [Etymological Research]()
 * [Lore of the Gods]()
@@ -223,3 +224,5 @@ While the Cult of Myrtana identifies Innos with Ra, some heretical movements ref
 ### Other Gods in the Kingdom
 
 * *Kasakk*, worshipped in the Western Provinces. [N]
+
+Add quotes from the novel and avallachs notes
