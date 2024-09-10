@@ -2,15 +2,18 @@
 
 ```
 Authors: Flosha, logx, Avallach  
-Created: 28.07.2020
-Changed: 10.09.2024
+Written: 28.07.2020 - 10.09.2024
 ```
+{: .info }
 
 **Content:**
 
 * [Gods of Myrtana](#gods-of-myrtana)
-* [Ancient Symbols of the Gods](#ancient-symbols-of-the-gods)
-* [Etymological Research](#etymological--historical-notes)
+  * [Ra and Innos](#ra-and-innos)
+    * [Ancient Symbols of the Gods](#ancient-symbols-of-the-gods)
+    * [Identification of Innos with Ra](#identification-of-innos-with-ra)
+  * [Beliar, Vandras or Kasakk](#beliar-vandras-or-kasakk)
+  * [Adanaos, Adrastos or Cyvanis](#adanos-adrastos-or-cyvanis)
 * [Lore of the Gods](#lore-of-the-gods)
   * [The Will of the Gods](#the-will-of-the-gods)
   * [Creation Myth](#creation-myth)
@@ -18,36 +21,107 @@ Changed: 10.09.2024
   * [The First Appropriation of Magic](#the-first-appropriation-of-magic)
   * [Cultic Wars & the Decline of Faith](#cultic-wars--the-decline-of-faith)
 * [Cult of the Three Gods](#cult-of-the-three-gods)
-* [Identification of Innos with Ra](#identification-of-innos-with-ra)
 
 
 ## Gods of Myrtana
 
-* *Ra* [C]
-* *Innos* [G]
-* *Beliar* aka *Vandras* [G/A]
-* *Adanos* aka *Adrastos* & *Cyvanis* [G/A]
-* *Kasakk* [N]
+*by Flosha, 09.09.2024 - 10.09.2024*
+
+I will at first list the gods, then deal with them based on the source material and in form of loose historical and etymological reflections.
+
+* *Ra* [C] and *Innos* [G]
+* *Beliar* [G] aka *Vandras* [A] & *Kasakk* [N]
+* *Adanos* [G] aka *Adrastos* [A] & *Cyvanis* [A]
+
+Development History: Mike came up with a list of suggested names of the gods at first. Most likely the list consisted of *Ra*, *Vandras* and *Cyvanis* and probably *Adrastos* and maybe *Adanos* too. We do not know it for sure, nor does Mike remember. It was Matthias Filler (the most important story-writer responsible for the main plot besides Stefan Nyul and Mike), who came up with the final names of the Gods, at least in case of *Innos* and *Beliar*, because he did not like them and told Mike so. Except for Adanos, which was either among Mikes original suggestions or has been slightly changed by Filler from Adrastos into Adanos. As to where the names were taken from, if not from the original historical sources: Mike mentioned in interviews that he was inspired by *Dungeon Keeper* from 1997. In the expansion *The Deeper Dungeons*, *Belial* (as Beliar is called most often) is the name of the final level. Beliar is also mentioned in *Paradise Lost*, the epic poem by John Milten and *Paradise Lost* is one of the names in the list by Dieter Hildebrandt for potential names for Gothic.
+{: .subtext }
 
 
-### Etymological & Historical Notes
+### Ra and Innos
+
+> "I am the rising sun, the light, and the life"
 
 **Ra**: The name just means *sun* in ancient Egypt, where *Ra* was the God of the sun and creator, of which most of the other gods were thought to be descended from. The Pharaos claimed themselves to be descendants of Ra by which they justified their rule; which is exactly what Rhobar II. is doing according to the Comic. 
 
-**Innos**: I would speculate that it may have been developed by taking the word sun in German (*Sonne*), turning it around into *Ennos* and then just replacing the E by an I, because it sounded better; with the intention to replace *Ra* due to its historical connotation, while keeping the association with the sun. But we could also interpret it as being derived from "innocence"; absence of guilt, inability or absence of intention to harm. Latin *in* ("not") + *nocens* from *noceo* (to hurt); being innocent means "not to hurt", very much like the sanskrit *Ahimsa* (non-harm, most often translated into non-violence). 
+In Gothic, Ra is only mentioned in the Comic, where Rhobar II. is described as... 
+> *"the proclaimer of the faith into the three gods and representative of the highest god Ra"* [C]
 
-**Beliar**: *Belial* or *Beliar* are Hebrew and speculated to stem from two roots, which mean as much as "without" and "to be useful" or "of value", resulting in a literal meaning of "worthlessness", "uselessness" or "ruin". In the Talmud it is explained as "without the yoke" or "yokeless". In this context we have to think of *yoga*, which also means yoke in the sense of union or unification (of life, just as the yoke unites two bulls); Beliar would then be the opposite, the *Disuniter*; which again we could interpret in a metaphysical sense in the context of a disjunction of body and soul upon death, for which Beliar is responsible. It has also been interpreted as "never to rise", like a downward movement or "wicked". Beliar is used as a general phrase of despise. A "son of Beliar" for instance is just a characterisation as "a worthless, wicked, useless" man. 
-In one of the Dead Sea scrolls, titled *The War of the Sons of Light Against the Sons of Darkness", Belial is characterised as "the leader of the Sons of Darkness". 
+He is characterised here as the highest god, while the "three" gods are also mentioned. Ra can either be meant to be one of them. Or he can be thought of as a divine absolute standing above and beyond the three gods. We can thus both think of him as another name, an older name for *Innos*, as well as a god on his own. The one source that would suggest a difference between the two, are the [four symbols](#ancient-symbols-of-the-gods) from the ancient temple. At the same time we can also assume them to be [identified with each other](#identification-of-innos-with-ra). In Phoenix, we combine both of these solutions. 
+
+**Innos**: I speculate that it may have been developed by taking the word sun in German (*Sonne*), turning it around into *Ennos* and then just replacing the E by an I, because it sounded better; with the intention to replace *Ra* due to its historical connotation, while keeping the association with the sun. But we could also interpret it as being derived from "innocence"; absence of guilt, inability or absence of intention to harm. Latin *in* ("not") + *nocens* from *noceo* (to hurt); being innocent means "not to hurt", very much like the sanskrit *Ahimsa* (non-harm, most often translated into non-violence). 
+
+
+#### Ancient Symbols of the Gods
+
+```
+OtWaMaskSun.tga, OtWaMaskFire.tga, OtWaMaskWater.tga, OtWaMaskMoon.tga
+```
+
+Avallach: In the Ancient Temple there are four stones with symbols, which we associate with the gods. A golden or yellow 8-armed star or sun for Ra, a red or orange flame for Innos, a blue droplet for Adanos and a purple moon for Beliar.
+
+![Sun](/_img/lore/OtWaRowOfSymbols1-Sun.png)
+![Fire](/_img/lore/OtWaRowOfSymbols1-Fire.png)
+![Water](/_img/lore/OtWaRowOfSymbols2-Water.png)
+![Moon](/_img/lore/OtWaRowOfSymbols1-Moon.png)
+
+
+#### Identification of Innos with Ra
+
+*by flosha, based on ideas by Avallach*
+
+We imagine *Innos* as a nordic god, which was worshipped in the northern lands. He originated as a god of war, focusing on the destructive aspects of fire, while *Ra* is a god originating from the ancient civilisation of Varant with an emphasis on light, the sun, illumination and fire in its positive role in the cultural evolution.
+
+In order to propagate the cult of fire, the priests of fire have started to identify *Innos* with *Ra* in their preachings a long time ago, but it was under the reign of Rhobar I. that this identification was brought to an end and that the two gods finally merged in the public perception. By doing so, the traditional aspects of *Innos*, of fire, justice and war, are now perceived as the prevailing attributes. Rhobars establishment as a quasi divine ruler and the declaration of his realm as a successor of the first empire proven by bearing the holy insignia (the Sceptre of Varant), was the final seal of this fusion. 
+
+While the Cult of Myrtana identifies *Innos* with *Ra*, some heretical movements refuse this identification; similar to the gnostics they see *Innos*, as worshipped in the cult of the three gods, as a malevolent lesser god and demiurg in difference to the divine Absolute.
+
+
+### Beliar, Vandras or Kasakk
+
+Beliar also known as *Vandras* from an earlier version of the *Lore of the Gods* and as *Kasakk* in the novel, is the god of the death, god of darkness, creator of the night, responsible for punishment and the shadows.
+
+**Beliar**: *Belial* or *Beliar* are Hebrew and speculated to stem from two roots, which mean as much as "without" and "to be useful" or "of value", resulting in a literal meaning of "worthlessness", "uselessness" or "ruin". It has also been interpreted as "never to rise", like a downward movement or "wicked". In the scriptures, Beliar is used as a general phrase of despise. A "son of Beliar" is just a characterisation as "a worthless, wicked, useless" man. 
+
+In the Talmud it is explained as "without the yoke" or "yokeless". In this context we have to think of *yoga*, which also means *yoke* in the sense of *union* or *unification* (of life, just as the yoke unites two bulls); Beliar would then be the opposite, the *Disuniter*; which again we could interpret in a metaphysical sense in the context of a disjunction of body and soul upon death, for which Beliar is responsible. 
+
+In one of the Dead Sea scrolls, titled *The War of the Sons of Light Against the Sons of Darkness", Belial is characterised as "the leader of the Sons of Darkness", which are also described as the *army of Belial*. 
+
 > You made Belial for the pit, angel of enmity; in darkness is his domain, his counsel is to bring about wickedness and guilt. All the spirits of his are angels of destruction, they walk in the laws of darkness; towards it goes their only desire. 
-In the "Rules of the Community", Belial is described to control a large number of demons, but demons which are "specifically allotted to him by God for the purpose of performing evil". Belial is "established as the force occupying the opposite end of the specrtrum of God". The *Sons of Darkness* are also called *army of Belial*. In the *Fragments*, Belial is "sometimes presented as an agent of divine punishment and sometimes as a rebel". The same fragments of the dead sea scrolls also say, that "anyone who is ruled by the spirits of Belial and speaks of rebellion should be condemned as a necromancer and a wizard". It is unclear why Beliar was not given up as a name for the same reasons as RA, with so much real-life religious implications; apparently they liked these implications as much that it justified keeping the name.  
-"In The Satanic Bible (The Book of Belial), Belial means "without a master", and symbolizes independence, self-sufficiency, and personal accomplishment." Aleister Crowley wrote a book named Goetia (1904), which mentions Belial. 
-* Mike was inspired by Dungeon Keeper from 1997. In the expansion *The Deeper Dungeons*, Belial is the name of the final level. 
-* Beliar is mentioned in Paradise Lost, the epic poem by John Milten. *Paradise Lost* is also one of the names in the list by Dieter Hildebrandt for potential names for Gothic. 
 
-**Vandras**: In Sanskrit, *vandra* means to praise, to worship. Based on *vandra* from Old Norse *vondr*, meaning wander or roam, it could mean as much as the "wanderer". *Van* in Sanskrit has the meaning of "sound", but also "to serve" and "to honour", but also "to be distressed". *Vanaya* means "to act", "to hurt", "to kill".  has douzens of possible meaning in sanskrit. 
-It could also be interpreted as being somehow related to the Vandals, a Germanic people, which in a moderng meaning, in the sense of "vandalism", are associated with destruction due to their sack of Rome in 455. Since about the 17th century during the Enlightenment, the Romans were idealised and the Goths and Vandals were blamed for the fall of Rome. In the *Encyclopaedia Britannica" *vandal* has been described as "willful destroyer of what is beautiful or venerable". Etymologically it may derive from the Proto-germanic root *wand-* (water). See Old English *wendelsǣ* or Old High German *wentilsēo* (meaning vandal-sea - the mediterranean sea).  
-Also *Vendras*, spanish for "you will come", from *venir* (to come).  
-Romanian *vandras*, "a tramp".  
+In the "Rules of the Community", Belial is described to control a large number of demons, but demons which are "specifically allotted to him by God for the purpose of performing evil". Belial is here "established as the force occupying the opposite end of the specrtrum of God". 
+
+In the *Fragments*, Belial is "sometimes presented as an agent of divine punishment and sometimes as a rebel". The same fragments of scrolls also say, that "anyone who is ruled by the spirits of Belial and speaks of rebellion should be condemned as a necromancer and a wizard". 
+
+It is unclear why Beliar was not given up as a name for the same reasons as Ra may have been given up, due to so many real-life religious implications. I can only assume that apparently they liked these implications as much that it justified keeping the name.  
+
+Belial also plays an important role in modern occultism such as in the writings of Aleister Crowly in *Goetia* (1904). In *The Book of Belial* (one of the four books of the so called *Satanic Bible* by Anton LaVey), the name is explained to mean "without a master" (like the word anarchy), and symbolises independence, self-sufficiency, and personal accomplishment." In this sense, he is like a god of anarchy. 
+
+**Vandras**: In Sanskrit, *vandra* means to praise, to worship. Based on *vandra* from Old Norse *vondr*, meaning wander or roam, it could mean as much as the "wanderer". *Van* in Sanskrit has the meaning of "sound", but also "to serve" and "to honour", but also "to be distressed". *Vanaya* means "to act", "to hurt", "to kill". It could also be speculated to be somehow related to the *Vandals*, which in a moderng meaning, in the sense of "vandalism", are associated with destruction due to their sack of Rome in 455. Since about the 17th century during the Enlightenment, the Romans were idealised and the Goths and Vandals were blamed for the fall of Rome. In the *Encyclopaedia Britannica" *vandal* has been described as "willful destroyer of what is beautiful or venerable". Etymologically it may also be derived from the Proto-germanic root *wand-* (water). See Old English *wendelsǣ* or Old High German *wentilsēo* (meaning vandal-sea - the mediterranean sea). Also *Vendras*, spanish for "you will come", from *venir* (to come). Or Romanian *vandras*, "a tramp".  
+
+By summarising all of these findings and by putting all of those meanings together in a way that serves the lore, we could characterise Beliar/Vandras to be a vagrant, always wandering god, who wants to be worshipped and will bring destruction and distress when not being praised, when not being accepted, when not followed during his wandering into the night and as such a wanderer he may be well associated with the moon; he is the disuniter who brought the night and death as a necessity of life. See [lore of the gods](#lore-of-the-gods) for more.  
+
+---
+
+*This part about Kasakk is written by Avallach*
+
+**Kasakk** is only mentioned in the Gothic Novel (*Sleeper's Ban*), and he is the only deity appearing there. He appears to be the deity of the realm of the dead, similarly to Beliar from the release version. 
+
+> until they go to Kasakk's realm at some point, simply because they forget to eat or breathe or drink or whatever
+
+Despite being a dark god, he appears to be the only one worshipped by people in the story, drawing parallel with *Crom* from the universe of *Conan the Barbarian*
+
+> in Kasakk's name, leave me alone please!
+> thank Kasakk they are not organized
+> He really deserved it, in Kasakk's name
+> Kasakk put copper on the eyes of three of our men [they died]
+> by Kasakk's stinking heap!
+> for Kasakk's sake, let's get out of here
+> Kasakk, Kasakk? Right, there was this little god, I remember
+
+
+### Adanos, Adrastos or Cyvanis
+
+Adanos is the god of balance, he stands for healing, work, knowledge, curiosity, courage, represented by water.  
 
 **Adanos**: Sanskrit *Ada* means as much as "eating, devouring". *Ādā* means "to receive, accept, take, resort to, seize, take hold of", also "to imprison". 
 "āḍa (आड).—f An obstinate resisting or insisting upon: also a point maintained of opposition or difficulty." - "ada (अद).—a Half." - "adā (अदा).—m The airs and arts of coquetry. Fund. Income."
@@ -68,32 +142,8 @@ Hebre *Adha* "ornament".
 
 ---
 
-Summarising all of these findings and by putting all of those meanings together in a way that serves the lore, we could characterise...
-* Beliar/Vandras to be a vagrant, always wandering god, who wants to be worshipped and will bring destruction and distress when not being praised, when not being accepted, when not followed during his wandering into the night; as such a wanderer he may be well associated with the moon; he is the disuniter, 
-
----
-
-It was Matthias Filler (the most important story-writer responsible for the main plot besides Stefan Nyul and Mike), who came up with the final names of the Gods, except for Adanos, which was either among from Mikes original suggestions or has been slightly changed by Filler from Adrastos into Adanos. 
 
 
-## Ancient Symbols of the Gods
-
-*by Avallach*
-
-In the Ancient Temple there are four stones with symbols, which we associate with the gods. A golden or yellow 8-armed star or sun for Ra, a red or orange flame for Innos, a blue droplet for Adanos and a purple moon for Beliar.
-
-```
-Sources:
-* OtWaMaskSun.tga  
-* OtWaMaskFire.tga
-* OtWaMaskWater.tga
-* OtWaMaskMoon.tga
-```
-
-![Sun](/_img/lore/OtWaRowOfSymbols1-Sun.png)
-![Fire](/_img/lore/OtWaRowOfSymbols1-Fire.png)
-![Water](/_img/lore/OtWaRowOfSymbols2-Water.png)
-![Moon](/_img/lore/OtWaRowOfSymbols1-Moon.png)
 
 
 
@@ -208,20 +258,14 @@ There are other cults in the kingdom. But since Rhobar I. the *Cult of the Three
 There are other local deities in different corners of the realm, such as *Kasakk*, the shamanism of the orcs and specific movements considered as heretical by the royal clergy, such as the *Brotherhood of the Sleeper*. 
 
 
-### Identification of Innos with Ra
-
-*based on ideas by Avallach*
-
-Innos is a nordic god, which was worshipped in Nordmar as well as in the north of Myrtana. He originated as a god of war, focusing on the destructive aspects of fire, while RA is a god originating from the ancient civilisation at Varant with an emphasis on light, the sun, illumination and fire in its positive role in the cultural evolution.
-
-In order to propagate the cult of fire, the priests of fire have started to identify Innos with Ra in their preachings a long time ago, but it was under the reign of Rhobar I. that this identification was brought to an end and that the two gods finally merged in the public perception. Rhobars establishment as a quasi divine ruler and the declaration of his realm as a successor of the first empire proven by bearing the holy insignia (the Sceptre of Varant),
-was the final seal of this attempt. 
-
-While the Cult of Myrtana identifies Innos with Ra, some heretical movements refuse this identification; similar to the gnostics they see Innos, as worshipped in the cult of the three gods, as a malevolent lesser god and demiurg in difference to the divine Absolute.
 
 
-### Other Gods in the Kingdom
+### Sect of the Brotherhood
 
-* *Kasakk*, worshipped in the Western Provinces. [N]
+> Novice: Pray for the last time to your gods. [A]
+
+> Wir haben den alten Göttern abgeschworen. [G]
+
+
 
 Add quotes from the novel and avallachs notes
