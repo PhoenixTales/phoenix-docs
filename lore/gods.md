@@ -168,7 +168,7 @@ Adanos is the god of balance, he stands for healing, work, knowledge, curiosity,
 
 Just as the indian cults of the gods as all these aspects of Brahman, the Absolute, is hard to grasp for the western mind and widely misunderstood as a "polytheism", yin & yang, while about a duality, are not about a contrast of mutually exclusive forces, but they are part of the equation, they are one, the two sides of a coin or a wheel (think of the wheel of the dharma). And it is Adanos who lets the wheel roll, taking care that it doesn't fall unto one of the sides. 
 
-If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design docs, that Mike had wanted to avoid to present as such in the game; and in any has to be avoided by us, due to how [Gothic was defined](/vision/gothic-defined). 
+If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design docs, that Mike had wanted to avoid to present as such in the game; and in any way has to be avoided by us, due to how [Gothic was defined](/vision/gothic-defined). 
 
 Innos brought light, Beliar brought the night. Both broth life that couldn't exist without both. But Beliar brought dead too. The negation of life. And Adanos, inbetween, brought healing. 
 
