@@ -66,7 +66,7 @@ It was Mattias Filler (the most important story-writer responsible for the main 
 In Gothic, Ra is only mentioned in the Comic, where Rhobar II. is described as... 
 > [...] *the proclaimer of the faith into the three gods and representative of the highest god Ra* [C]
 
-He is characterised here as the highest god, while the "three" gods of the myrtanian cult are also mentioned. Ra can either be meant to be one of these three, just the highest of them. Or he can be thought of as a divine absolute standing above and beyond the three gods. We can think of *Ra* as another name, an older name for *Innos* (which it most likely was), but we can also imagine him as a god on his own. The one source that would suggest them being based (at least originally) on two different ideas, are the [four symbols](#ancient-symbols-of-the-gods) from the ancient temple. But we should still also assume them to be [identified with each other](#identification-of-innos-with-ra). In Phoenix, we therefore just combine both of these solutions. 
+He is characterised here as the highest god, while the "three" gods of the myrtanian cult are also mentioned. Ra can either be meant to be one of these three, just the highest of them. Or he can be thought of as a divine absolute standing above and beyond the three gods. We can think of *Ra* as another name, an older name for *Innos* (which it most likely was) and as to be [identified with each other](#identification-of-innos-with-ra), but we can also imagine him as a god on his own. The one source that would suggest them being based on two different concepts, are the [four symbols](#ancient-symbols-of-the-gods) from the ancient temple. In Phoenix, we just combine both of these solutions. 
 
 ---
 
