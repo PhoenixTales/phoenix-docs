@@ -8,18 +8,17 @@ Changed: 10.09.2024
 
 **Content:**
 
-* [Gods of Myrtana]
-* [Ancient Symbols of the Gods]()
-* [Etymological Research]()
-* [Lore of the Gods]()
-  * [The Will of the Gods]()
-  * [Creation Myth]()
-  * [The Necessity of Death]()
-  * [The First Appropriation of Magic]()
-  * [Cultic Wars & the Decline of Faith]()
-* [Cult of the Three Gods]()
-* [Identification of Innos with Ra]()
-* [Additional Quotes]
+* [Gods of Myrtana](#gods-of-myrtana)
+* [Ancient Symbols of the Gods](#ancient-symbols-of-the-gods)
+* [Etymological Research](#etymological--historical-notes)
+* [Lore of the Gods](#lore-of-the-gods)
+  * [The Will of the Gods](#the-will-of-the-gods)
+  * [Creation Myth](#creation-myth)
+  * [The Necessity of Death](#the-necessity-of-death)
+  * [The First Appropriation of Magic](#the-first-appropriation-of-magic)
+  * [Cultic Wars & the Decline of Faith](#cultic-wars--the-decline-of-faith)
+* [Cult of the Three Gods](#cult-of-the-three-gods)
+* [Identification of Innos with Ra](#identification-of-innos-with-ra)
 
 
 ## Gods of Myrtana

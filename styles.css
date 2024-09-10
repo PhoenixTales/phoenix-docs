@@ -369,8 +369,16 @@ hr {
 /* IMAGE STYLING */
 
 .article img {
+  display:  block;
   max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
 }
+
+  .phoenixtales {
+    margin-top: -4em;
+    margin-right: -2em;
+  }
 
 .promo-graphics {
   background: var(--dark);

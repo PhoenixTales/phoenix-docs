@@ -8,13 +8,18 @@
 These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working title "Project Nyx"), a radically immersive action rpg developed by Phoenix Tales, based on GOTHIC (2001) by Piranha Bytes which had "Phoenix" as its working title. GOTHIC was supposed to be very different in 1996-1999. The release version was a mere fracture of what they had initially dreamed of and the vision was severely compromised. PHOENIX is an attempt to realise this dream. 
 
 ```
-"Phoenix Design Concept"
-2016-2024 by PhoenixTales
+PHOENIX DESIGN CONCEPT
+2016-2024 PhoenixTales
 
 Authors: 
-Flosha, logx, Phantom95
-Arbax, Avallach, Auronen
+Flosha 
+logx 
+Avallach 
+Phantom95 
+Arbax 
+Auronen 
 ```  
+<img class="phoenixtales" src="/_img/promo/phnx-stalker2.png">
 
 In the early stages of development we created what later would become the [Gothic Archive](https://gothicarchive.org) by collecting as much pre-release material as possible to research the original vision of what we summarise as the “Gothic Alpha”. In the course of this work we decided to prepare and present it in the form of a website to the community.
 
@@ -54,9 +59,7 @@ Whenever a topic has a source in design documents, old builds of the game or bot
 -->
 
 ```
-Author:  Flosha
-Written: 14.05.2023
-Changed: 08.09.2024
+Author: Flosha   Written: 14.05.2023   Changed: 08.09.2024
 ```
 {: .info }
 
