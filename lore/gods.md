@@ -30,15 +30,15 @@ Written: 28.07.2020 - 10.09.2024
 
 *Flosha, 09.09.2024 - 10.09.2024*
 
-"About the Gods" from the Sequel [S]:
-> *Innos der Gott des Feuers und des Gesetzes.*
-> *Wahrer der Ordnung.*
-> *Adanos Gott des Wassers und der Gerechtigkeit.*
-> *Waagschale der Menschheit.*
-> *Beliar Gott des Todes und der Dunkelheit.*
-> *Herrscher der Nacht.*
-> *Zusammen bilden sie die göttliche Dreifaltigkeit.*
-> *Den Ursprung der Welt, ihren Weg und ihr Ende.*
+*About the Gods* [S]:
+> *Innos der Gott des Feuers und des Gesetzes.*  
+> *Wahrer der Ordnung.*  
+> *Adanos Gott des Wassers und der Gerechtigkeit.*  
+> *Waagschale der Menschheit.*  
+> *Beliar Gott des Todes und der Dunkelheit.*  
+> *Herrscher der Nacht.*  
+> *Zusammen bilden sie die göttliche Dreifaltigkeit.*  
+> *Den Ursprung der Welt, ihren Weg und ihr Ende.*  
 
 I will at first deal with the gods based on the source material and in form of loose historical and etymological reflections. From our source material as listed in the [introduction to our lore](/lore/lore), we know the following names gods:  
 
@@ -84,8 +84,8 @@ OtWaMaskSun.tga, OtWaMaskFire.tga, OtWaMaskWater.tga, OtWaMaskMoon.tga
 <div class="god-symbols">
   <img src="/_img/lore/OtWaRowOfSymbols1-Sun.png" alt="Sun Symbol">
   <img src="/_img/lore/OtWaRowOfSymbols1-Fire.png" alt="Fire Symbol">
-  <img src="/_img/lore/OtWaRowOfSymbols2-Water.png" alt="Water Symbol">
   <img src="/_img/lore/OtWaRowOfSymbols1-Moon.png" alt="Moon Symbol">
+  <img src="/_img/lore/OtWaRowOfSymbols2-Water.png" alt="Water Symbol">
 </div>
 
 #### Identification of Innos with Ra
@@ -357,9 +357,10 @@ The priests of the cult still assume that their magical (psionic) power has to h
 
   .god-symbols {
     display: flex;
-    justify-content: space-around;
-    gap: 1em;
+    justify-content: center;
+    gap: 1.5em;
     margin: 1.5em 0 2em;
+    padding: 1.5em 0 2em;
   }
 
 </style>
