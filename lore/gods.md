@@ -129,7 +129,7 @@ In the *Fragments*, Belial is *"sometimes presented as an agent of divine punish
 
 It is unclear why Beliar was not given up as a name for the same reasons as Ra may have been given up, due to so many real-life religious implications. I can only assume that apparently they liked these implications as much that it justified keeping the name.  
 
-Belial also plays an important role in modern occultism such as in the writings of Aleister Crowly in *Goetia* (1904). In *The Book of Belial* (one of the four books of the so called *Satanic Bible* by Anton LaVey), the name is explained to mean "without a master" (like the word anarchy), and symbolises independence, self-sufficiency, and personal accomplishment." In this sense, he is like a god of anarchy. 
+Belial also plays an important role in modern occultism such as in the writings of Aleister Crowly in *Goetia* (1904). In *The Book of Belial* (one of the four books of the so called *Satanic Bible* by Anton LaVey), the name is explained to mean "without a master" (like the word anarchy), and symbolises "independence, self-sufficiency, and personal accomplishment". In this sense, he is like a god of anarchy. 
 
 As to where the name may have been taken from: If not from the original historical sources listed above: Mike mentioned in interviews that he was inspired by *Dungeon Keeper* from 1997. In the expansion *The Deeper Dungeons*, *Belial* is the name of the final level. Filler may have known this too. Beliar is also mentioned in *Paradise Lost*, the epic poem by John Milten. And "Paradise Lost" is one of the names in the list by Dieter Hildebrandt of potential names for Gothic.
 
