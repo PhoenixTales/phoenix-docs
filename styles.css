@@ -378,7 +378,8 @@ hr {
   .phoenixtales {
     width: 200px;
     margin-top: -17em;
-    filter: brightness(80%);
+    margin-bottom: -1.5em;
+    filter: brightness(90%);
     position: relative;
     left: 80px;
   }
