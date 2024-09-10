@@ -117,7 +117,7 @@ Beliar - also known as *Vandras* from an earlier version of the *Lore of the God
 
 In the Talmud it is explained as "without the yoke" or "yokeless". In this context we have to think of *yoga*, which also means *yoke*, in the sense of *union* or *unification* (of life, just as the yoke unites two bulls); Beliar would then be the opposite, the *Disuniter*, ayoga; which again we could interpret in a metaphysical sense in the context of a disjunction of body and soul upon death, for which Beliar is responsible. 
 
-> In my idea of the lore it has always been so, that this God-Satan story does not exist in the religious world of Gothic, but all the gods were important. And there were specific attributes ascribed to them. And insofar it should be the so, that Beliar too had his followers. [Mike, 30.01.2021](https://gothicarchive.org/postrelease/interviews/MikeHoge_30_01_2021_Part3.html#4Temple)
+> In my idea of the lore it has always been so, that this God-Satan story does not exist in the religious world of Gothic, but all the gods were important. And there were specific attributes ascribed to them. And insofar it should be the so that Beliar too had his followers. [Mike, 30.01.2021](https://gothicarchive.org/postrelease/interviews/MikeHoge_30_01_2021_Part3.html#4Temple)
 
 In one of the Dead Sea scrolls, titled *The War of the Sons of Light Against the Sons of Darkness", Belial is characterised as "the leader of the Sons of Darkness", which are also described as the *army of Belial*. 
 
