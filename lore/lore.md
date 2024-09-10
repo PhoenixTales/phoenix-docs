@@ -23,7 +23,7 @@ Phoenix' Sources:
 **Content:**
 
 1. Mythology
-    1. Gods
+    1. [Gods & Cults](/lore/gods)
     2. [Spheres](/lore/spheres)
     3. Fallen Civilisation
 2. Geography
