@@ -279,6 +279,8 @@ or: The Great Disentchantment
 > Innos gab den Menschen die Macht ihn zu hören und zu ihm zu sprechen. Er gab ihnen die Macht große Wunder zu vollbringen. Und er nannte sie Magie. Mit dieser Macht konnten die Menschen die Welt frei nach ihrem Willen gestalten. Es gab keine Grenzen, die Innos ihnen aufzeigte. Und so hatten die Menschen Teil an der göttlichen Schöpferkraft. Aber die Menschen waren sich alle gleich und das gefiel ihnen nicht. Also nahm er denen die unzufrieden waren, die Kraft. Die wenigen, die sich dankbar zeigten, stellte Innos über alle anderen.    
 > Diese Menschen wurden alsbald verehrt und gefürchtet und wurden Priester genannt. [G]
 
+[TODO: Translate the section below]
+
 Die Menschen glauben, dass Ra (bzw. Innos, die sie mit ihm identifizieren) den ersten Menschen, die unsterblich waren, die Magie als einen Teil seiner göttlichen Schöpferkraft gab und dass sie - Kraft der Magie - nahezu göttliche Fähigkeiten zur Gestaltung der Welt hatten. 
 
 Doch der Mythos erzählt, dass sich die Menschen als unwürdig erwiesen, weil sie sich alle gleich waren (Bedürfnis nach Individualität, Diversität, Überlegenheit, Unterschied), so dass Innos den Unwürdigen seine Macht (die Magie) wieder entzog und dass er einige wenige als Herrscher über alle anderen stellte: Die Priester.  
