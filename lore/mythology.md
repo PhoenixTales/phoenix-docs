@@ -92,7 +92,7 @@ Sources:
 
 ![Sun](/_img/lore/OtWaRowOfSymbols1-Sun.png)
 ![Fire](/_img/lore/OtWaRowOfSymbols1-Fire.png)
-![Water](/_img/lore/OtWaRowOfSymbols1-Water.png)
+![Water](/_img/lore/OtWaRowOfSymbols2-Water.png)
 ![Moon](/_img/lore/OtWaRowOfSymbols1-Moon.png)
 
 
