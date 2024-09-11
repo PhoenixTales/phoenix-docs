@@ -76,7 +76,7 @@ Ralf didn't include any noteworthy rise in the terrain (such as Mike had done on
 
 But if we assume that Ralf has seen Mikes Orpheus map before (which is very likely), and that he based his concept on it, we also could argue, that he may have misinterpreted the shore of the water at the bottom of the cliff and the marketplace, with mountain walls. The "opening" that Mike has drawn in the Orpheus map to connote that he would enter the forest here from the shore, he may have interpreted as an exit instead from the mountains into the forest. In this case, the following image may make it easier to imagine the layout:
 
-![North of the Valley](ralf-start-exits.jpg)
+![North of the Valley](/_img/world/ralf-start-exits.jpg)
 
 In this case the two concepts above may indeed belong to the same time and show two separate locations; the first concept would show the cliff, which you would exit through a cracks in the mountains somewhere behind the forest (red), while the second concept(s) would show the marketplace, with the panorama view towards the Old Camp (blue) and the exit from the lift (green).
 
