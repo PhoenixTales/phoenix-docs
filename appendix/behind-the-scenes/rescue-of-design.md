@@ -429,12 +429,6 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
         font-size: 14px;
     }
 
-    .caption {
-        margin: 0em 1em 2em;
-        color: #55504a;
-        font-size: 13px;
-    }
-
     .screen {
         margin-top: 1em;
     }

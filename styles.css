@@ -441,6 +441,13 @@ hr {
     border: none;
   }
 
+  .caption {
+    margin: 0em 1em 2em;
+    color: #55504a;
+    font-size: 13px;
+  }
+
+
 /* for code modifications */
 .added    { color: var(--demonic); }
 .changed  { color: var(--ore); }
