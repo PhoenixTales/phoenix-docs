@@ -94,15 +94,17 @@ OtWaMaskSun.tga, OtWaMaskFire.tga, OtWaMaskWater.tga, OtWaMaskMoon.tga
 
 We imagine *Innos* as a nordic god, which was worshipped in the northern lands. He originated as a god of war, focusing on the destructive aspects of fire, of burning, cleansing and being "just" in that it burns everyone the same - unless he is *innocent* (in this context, think of the [*Feuerprobe*](https://de.wikipedia.org/wiki/Feuerprobe)); while *Ra* is a god originating from the ancient civilisation of Varant with an emphasis on light, the sun, illumination and fire in its positive role in the cultural evolution.
 
-In the context of justice, see the sword of Gomez, called *Innos Zorn* ("Wrath" or "Rage" of Innos). In religious contexts there is the concept of "gerechter Zorn" (just rage/wrath), that is often attributed to saints or god himself. It is *Innos* who is thought to be *angry*, who wants rage; while Beliar is the one who is executing it in form of punishment in accordance with Innos' will, see [*Will of the gods*](#the-will-of-the-gods).
+In the context of Innos as a god of war, see the sword of Gomez, called *Innos Zorn* ("Wrath" or "Rage" of Innos). In religious contexts there is the concept of "gerechter Zorn" (*just wrath*), that is often attributed to saints or god himself. It is *Innos* who is thought to be *angry*, who wants rage; while Beliar is the one who is executing it in form of punishment in accordance with [Innos' will](#the-will-of-the-gods).
 
-In order to propagate the cult of fire (whose priests originated from the ancient priests but split into different cults), the priests of fire have started to identify *Innos* with *Ra* in their preachings since a few centuries, but it was under the reign of Rhobar I. that this identification was brought to an end and that the two gods finally merged in the public perception. Rhobars establishment as a quasi divine ruler and the declaration of his realm as a successor of the first empire, proven by bearing the holy insignia (the Sceptre of Varant), was the final seal of this fusion. 
+In the Sequel, Innos is specifically linked to the *law* and the *maintenance of order*, while Adanos is linked to *justice*, and called "Waagschale der Menschheit" (scale of mankind), not in the sense of weighing them, but in the sense of keeping mankind in balance between the two forces of light and darkness, order and chaos. 
 
-In course of this, the traditional aspects of *Innos*, of fire, justice and war, have become the prevailing attributes in the general understanding of the god, while the aspects of *Ra* have experienced a decline. Among scholars who learned the older language, the old name *Ra* is still in use (as in the example of the royal judge in the Comic), but most often used interchangeably with *Innos*. 
+In order to propagate the cult of fire (whose priests originated from the united priests of the ancient civilisation but split into different cults from there), the priests of fire have started to identify *Innos* with *Ra* in their preachings since a few centuries. But it was under the reign of Rhobar I. that this identification was brought to an end and that the two gods finally merged in the public perception. Rhobars establishment as a quasi divine ruler and the declaration of his realm as a successor of the first empire, proven by bearing the holy insignia (the Sceptre of Varant), was the final seal of this fusion. 
+
+In course of this, the traditional aspects of *Innos*, of fire, law and war, have become the prevailing attributes in the general understanding of the god, while the aspects of *Ra* have experienced a decline. Among scholars who learned the older language, the old name *Ra* is still in use (as in the example of the royal judge in the Comic), but most often used interchangeably with *Innos*. A simple solution by which we do not have to explain the speech of the judge in the Comic as any mistake. 
 
 And while the Cult of Myrtana identifies *Innos* with *Ra*, some heretical movements refuse this identification; similar to the gnostics they see *Innos*, as worshipped in the cult of the three gods, as a malevolent lesser god and demiurg in difference to the divine Absolute.
 
-Just as Beliar is not simply "evil", Innos is not just "good"; they are all "part of the equation" (Mike). 
+Innos is not just "good"; just as Beliar is not simply "evil"; Innos is order, Beliar is chaos, but they both are needed, they are all "part of the equation" (Mike). 
 
 
 ### Beliar, Vandras or Kasakk
@@ -125,7 +127,9 @@ In one of the Dead Sea scrolls, titled *The War of the Sons of Light Against the
 
 In the "Rules of the Community", Belial is described to control a large number of demons, but demons which are *"specifically allotted to him by God for the purpose of performing evil"*. Belial is here *"established as the force occupying the opposite end of the specrtrum of God"*. 
 
-In the *Fragments*, Belial is *"sometimes presented as an agent of divine punishment and sometimes as a rebel"*. The same fragments of scrolls also say, that *"anyone who is ruled by the spirits of Belial and speaks of rebellion should be condemned as a necromancer and a wizard"*. 
+In the *Fragments*, Belial is *"sometimes presented as an agent of divine punishment and sometimes as a rebel"*. In the fragments it is also written that..
+
+> *anyone who is ruled by the spirits of Belial and speaks of rebellion should be condemned as a necromancer and a wizard*. 
 
 It is unclear why Beliar was not given up as a name for the same reasons as Ra may have been given up, due to so many real-life religious implications. I can only assume that apparently they liked these implications as much that it justified keeping the name.  
 
@@ -147,17 +151,17 @@ By summarising all of these findings and by putting all of those meanings togeth
 
 **Kasakk** is only mentioned in the Gothic Novel (*Sleeper's Ban*), and he is the only deity appearing there. He appears to be the deity of the realm of the dead, similarly to Beliar from the release version. 
 
-> until they go to Kasakk's realm at some point, simply because they forget to eat or breathe or drink or whatever
+> [...] *until they go to Kasakk's realm at some point, simply because they forget to eat or breathe or drink or whatever.*
 
-Despite being a dark god, he appears to be the only one worshipped by people in the story, drawing parallel with *Crom* from the universe of *Conan the Barbarian*
+Despite being a dark god, he appears to be the only one worshipped by people in the story, drawing parallel with *Crom* from the universe of *Conan the Barbarian*.
 
-> in Kasakk's name, leave me alone please!  
-> thank Kasakk they are not organized  
-> He really deserved it, in Kasakk's name  
-> Kasakk put copper on the eyes of three of our men [they died]  
-> by Kasakk's stinking heap!  
-> for Kasakk's sake, let's get out of here  
-> Kasakk, Kasakk? Right, there was this little god, I remember  
+> *"In Kasakk's name, leave me alone please!"*  
+> [...] *"thank Kasakk they are not organized."*  
+> *"He really deserved it, in Kasakk's name."*  
+> *"Kasakk put copper on the eyes of three of our men."* [they died]  
+> [...] *"by Kasakk's stinking heap!*"  
+> *"For Kasakk's sake, let's get out of here."*  
+> *"Kasakk, Kasakk? Right, there was this little god, I remember."*  
 
 
 ### Adanos, Adrastos or Cyvanis
@@ -227,7 +231,7 @@ Summarising the words of the gods, the first volume is stating that Innos and Ad
 
 > "But who acts unrighteous and against the will of the gods, he I shall punish."
 
-This characterises Beliar as the god of justice and the death. He is a dark god, not an evil god. And that is how Mike had conceptualised him. 
+This characterises Beliar as the god of execution (of justice) and death. He is a dark god, not an evil god. And that is how Mike had conceptualised him. 
 
 
 ### Creation Myth
