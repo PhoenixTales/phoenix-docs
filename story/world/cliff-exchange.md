@@ -78,7 +78,7 @@ But if we assume that Ralf has seen Mikes Orpheus map before (which is very like
 
 ![North of the Valley](/_img/world/ralf-start-exits.jpg)
 
-In this case the two concepts above may indeed belong to the same time and show two separate locations; the first concept would show the cliff, which you would exit through a cracks in the mountains somewhere behind the forest (red), while the second concept(s) would show the marketplace, with the panorama view towards the Old Camp (blue) and the exit from the lift (green).
+In this case the two concepts above may indeed belong to the same time and show two separate locations; the first concept would show the cliff, which you would exit through a crack in the mountains somewhere behind the forest (red), while the second concept(s) would show the marketplace, with the panorama view towards the Old Camp (blue) and the exit from the lift (green).
 
 The huge lift drawn by Ralf could be the realisation of what the long pole-like scribble seen on Mikes Orpheus map should be. Why would Mike signify the marketplace with this huge pole in his sketch, if not to suggest a very high lift used for the exchange of the goods? If he would have imagined a ropeway, as it was introduced later, he surely would have drawn a line towards the cliff in the north or to the east over the water in front of the cliff. 
 
@@ -101,9 +101,9 @@ In the second oldest available model from January 22, the forest was reduced in 
 
 ![Model-01-03-1999](/_img/world/surface-1999-03-01-details.png)
 
-In this version of the map, it is unclear where the Abandoned Mine was supposed to fit. Most likely it was meant to be directly below the exchange place alongside those mountains, as done in later versions too. It may look as if this wouldn't there, but the proportions of the map are misleading, since the placeholder structures beyond the barrier are so huge, that they let the area within the barrier and around the marketplace to look small, while actually there is quite a bit of space there. 
+In this version of the map, it is unclear where the Abandoned Mine was supposed to fit. Most likely it was meant to be directly below the exchange place alongside those mountains, as done in later versions too. It may look as if this wouldn't fit there, but the proportions of the map are misleading, since the placeholder structures beyond the barrier are so huge, that they let the area within the barrier and around the marketplace to look small, while actually there is quite a bit of space there. 
 
-The entire model was done very roughly and around the camps (which were already much more elaborated), in order to get an idea. A lot of things were bound to change, but at least it had managed to preserve the overall layout of Mikes concepts.
+The entire model was done very roughly and around the camps (which were already much more elaborated, the Old Camp almost final), in order to get an idea. A lot of things were bound to change, but at least it had managed to preserve the overall layout of Mikes concepts.
 
 
 ### Alpha World Models
