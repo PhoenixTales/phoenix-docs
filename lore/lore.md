@@ -8,9 +8,10 @@ Before diving into the research of the Gothic lore, which the lore of Phoenix is
 ```
 Phoenix' Sources:
 [D] Design Concepts (1996-2000)
-[I] Interviews on Gothic (1998-2000)     
-[G] Gothic (v0.5-v1.06, 2001)   
-[S] Sequel (Build 1.04, 2001)  
+[I] Interviews on Gothic (1998-2000)
+[A] Alpha Builds (~v0.5-v0.9)    
+[G] Gothic (~v1.00-v1.06, 2001)   
+[S] Sequel (Build v1.12, 2001)  
 [P] Promotional Material (Pitch/Flyers)   
 [N] Gothic Novel (Schläfers Bann)  
 [C] Comic ("Helden der Finsternis")   
