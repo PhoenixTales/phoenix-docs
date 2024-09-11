@@ -84,9 +84,7 @@ The huge lift drawn by Ralf could be the realisation of what the long pole-like 
 
 It should be obvious how these concepts deviated from Mikes conception. And if you look at the second picture above, you will see how Mike has added sketches to Ralfs concept to show him how he wants it to be, although it is difficult to interpret them. It was an usual process for him to draw over Ralfs concepts as a form of feedback to better explain to him how he imagined it instead *or* how Ralfs suggested design could be brought into harmony with his ideas. 
 
-That said, he did not seem to approve this particular sketch due to how much it changed his idea. <!-- And just like me at first, it seems that Mike has interpreted this concept to be Ralfs suggestion for the cliff, the place of arrival for the player; which would mean, that there was not even water for the player to fall into. --> In any way we should take a closer look at what Mike has drawn unto the concept:
-
-![Mikes feedback](/_img/world/mikes-feedback-to-ralfs-concept-1.jpg)
+That said, he did not seem to approve this particular sketch due to how much it changed his idea. <!-- And just like me at first, it seems that Mike has interpreted this concept to be Ralfs suggestion for the cliff, the place of arrival for the player; which would mean, that there was not even water for the player to fall into. --> In any way we should take a closer look at what Mike has [drawn unto the concept](/_img/world/mikes-feedback-to-ralfs-concept-1.jpg).
 
 In his scribble he basically repeated what he had drawn in his Orpheus map and his final map sketch shown above. It seems clear that he did not want the cliff to be hidden in a deep circular valley, as Ralf had imagined it. From the cliff the player was meant to have an overview almost of the entire colony, as described both in the comic and the novel, where the protagonist could even see the Psi Camp from afar. He also seemed to insist on a position of the cliff in the east of the marketplace. 
 
@@ -112,11 +110,7 @@ In about v0.7, the exchange place was now looking like this:
 
 ![Exchange Place v0.7](/_img/world/cliff-07.png)
 
-It is here, that for the first time the ropeway appears, that players would know from this screenshot and the [gameplay video of the PC Action](https://www.youtube.com/watch?v=yABtkrQonD0) and would anticipate to be in the game.
-
-![Exchange Place v0.7](/_img/world/pcaction-ropeway.png)
-
-Sadly it was removed and replaced by a much less iconic lift in the end. 
+It is here, that for the first time the ropeway appears, that players would know from this screenshot and the [gameplay video of the PC Action](https://www.youtube.com/watch?v=yABtkrQonD0) and would anticipate to be in the game. Sadly it was removed and replaced by a much less iconic lift in the end. 
 
 Since we do not have a copy of this version of the world, we can not know for sure, if the cliff and the exchange place were already merged in this version. It also could be that this world was still a mixture of the earlier and later design in that there may have been a seperated cliff further east. But this is very unlikey - since the early "Old Temple" (later Monastery ruins) did also appear in this version and so there was no room for any water anymore that the player could have fallen down into from the cliff. Therefore, from version 0.7 onwards, the cliff and the exchange place were merged again into one, as it was on the very first scribble of Mike during the Orpheus conception.
 
@@ -124,8 +118,15 @@ Since we do not have a copy of this version of the world, we can not know for su
 The other side, view from the exchange place towards the Abandoned Mine area.
 {: .caption }
 
+There is not much more to say about the cliff. The position, as far as we know, did not change from here on. The cliff was slightly higher than in the release version, but in both cases, the player was most likely unable to see far into the colony. While almost nothing of Ralfs ideas for the exchange place remained, we could see the bridge that was added to the Abandoned Mine as a later version of Ralfs tree between the cracks in the rock faces. Just as in Ralfs idea, he would have a nice view of at least the Old Camp from this position. 
 
-
+But the ingame implementation also got rid of several earlier ideas:  
+* The lake was no longer connected to the sea, nor was there any waterfall or river that would explain the water in the lake, nor did it have any outflow.
+* The connection to the northern forest was lost - and the northern forest removed.
+* The player could not see the colony from the cliff. 
+* The cliff was tiny in comparison to the originally imagined cliff - it was meant to be much higher. 
+* The idea of the huge lift was discarded.
+* 
 
 
 
