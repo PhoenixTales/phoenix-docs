@@ -231,7 +231,7 @@ Summarising the words of the gods, the first volume is stating that Innos and Ad
 
 > "But who acts unrighteous and against the will of the gods, he I shall punish."
 
-This characterises Beliar as the god of justice and the death. He is a dark god, not an evil god. And that is how Mike had conceptualised him. 
+This characterises Beliar as the god of execution (of justice) and death. He is a dark god, not an evil god. And that is how Mike had conceptualised him. 
 
 
 ### Creation Myth
