@@ -1,5 +1,64 @@
+# Cliff of the Damned & Exchange Place
 
-### Add to World Design: "Northern Environment"
+```
+Author: Flosha
+Written: 11.09.2024
+```
+{: .info }
+
+
+## Origins of the Cliff
+
+What is not yet known and has been overlooked so far by alpha research, is that the idea of the *Cliff* is older than the idea of the barrier. And more than that, we have to assume, that it was the cliff which served (at the dawn of the Orpheus concept) as the first and primary level border. In the [Guild System v1](https://media.gothicarchive.org/documents/orpheus/OrpheusGuilds-V1.pdf), where every guild had its own position regarding a potential escape plan, it is written about the thugs (GRD) that they...
+
+> *dream to take one night the Cliff by storm*
+
+This dream implies, that overcoming the *Cliff* would enable them to escape. It also implies, that it was then supposed to be heavily guarded. In this earliest concept, described in the [Orpheus history](https://media.gothicarchive.org/documents/orpheus/Orpheus-B-Scribbles.pdf), *the revolt* had taken place (mainly motivated by the threat through the monsters that the wardens did not protect them from) and the royal forces were only able to stop them at the *Cliff*. From then on, the prison was under the control of the prisoners. 
+
+But it wouldn't take long to the invention of the barrier.
+
+
+## Position of the Cliff
+
+What was also clear from the start, was that the *Exchange Place*, originally called *Marketplace*, was set directly in the north and on the [first known map sketch](https://media.gothicarchive.org/conceptart/mikehoge/maps/map1.jpg) by Mike, the cliff has been positioned directly north of the marketplace, with a lake below the cliff:
+
+![Cliff & Marketplace v0](/_img/world/cliff-marketplace-v0.jpg)
+
+But this has then been changed in Mikes much more elaborated ["Orpheus Overview Map V1"](https://media.gothicarchive.org/conceptart/mikehoge/maps/map3.jpg) from 1996. While the marketplace stayed in the very north, the *Cliff of the Damned*, as it was called at the time, was not directly north of the marketplace anymore, but now positioned east of it. And the water into which the player was supposed to fall from the cliff, which has been drawn as a lake before, was now directly connected with the ocean; it was still between the marketplace and the cliff, but now, like the cliff itself, it was east of the marketplace, with a path in the north (behind the barrier) leading in a serpentine way towards the west. 
+
+![Cliff & Marketplace v1](/_img/world/cliff-marketplace-v1.jpg)
+
+The player was here not supposed to swim towards the marketplace, but towards the so called northern forest, from which a way (as you see it being drawn through the forest) would lead him to the Abandoned Mine south of the marketplace. Alex Wittmanns Gothic Novel was written with this map layout in mind and even the Gothic Comic (2000) has been made in accordance with this idea, where the marketplace is clearly seperated from the place at which the convicts arrive. The marketplace is of course connected to the cliff, but from another direction, as seen on the map. 
+
+![Cliff in the Comic](/_img/world/cliff-comic.jpg)
+The cliff in the Comic as seen from the edges of the northern forest; a new convict being thrown down the cliff, hitting the water, while the thugs wait for the convict to arrive.
+{: .caption }
+
+![Baptism in the Comic](/_img/world/baptism-comic.jpg)
+The convict reaches the shore and is welcomed by the thugs, "baptising" him in the cruel tradition of the self-ruled penal colony, witnessed by the four friends.
+{: .caption }
+
+In his next and the last known map sketch by Mike, he elaborated his former Orpheus map further. The ...
+
+![Cliff & Marketplace v2](/_img/world/cliff-marketplace-v2.jpg)
+
+
+
+
+
+
+
+
+
+[Include image section of the place from the map]
+
+
+
+
+
+
+
+## Ralfs Concepts
 
 The player would arrive here:
 
@@ -26,8 +85,3 @@ You also have to note how Ralf didn't include any incline (such as Mike had done
 ---
 
 
-#### Exchange Place and Cliff of the Damned
-
-What was also clear from the start, was that the Exchange Place, originally called Marketplace, was imagined to be directly in the north. But while on the very first map sketch by Mike, titled "Orpheus Overview", the cliff was also directly north of the marketplace, with a lake below the cliff, this has been changed in Mikes much more elaborated "Orpheus Overview Map V1". While the marketplace stayed in the very north, the "Cliff of the Damned", as it was called, was not directly north of the marketplace anymore, but east of it. And the water into which the player was supposed to fall from the cliff, which has been drawn as a lake before, was now directly connected with the ocean; it was still between the marketplace and the cliff, but now, like the cliff itself, it was east of the marketplace. And the player was not supposed to swim towards the marketplace, but towards the so called northern forest, from which a way would lead him to the abandoned mine south of the marketplace. Alex Wittmanns Story "Sleeper's Ban" was written with this map layout in mind and the Gothic Comic has also being made in accordance with this idea.
-
-[Include image section of the place from the map]

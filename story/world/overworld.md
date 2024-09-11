@@ -38,6 +38,8 @@ Surface (OW - Oberwelt):
 
 What we also have to take into account is the Leveldesign document created in 03.11.1998 and changed last in 20.07.1999. At this point of the concept, the following locations were planned at the surface (we list them under the original names used in the documents and in their order):
 
+...
+
 What was not yet part of the concept:
 
 * Troll Canyon
@@ -134,10 +136,6 @@ What was not yet part of the concept:
 
 
 
-# Island vs Mainland 
-...
-
-
 
 
 ### Ralfs Map Concepts
@@ -171,7 +169,7 @@ In his next, untitled map sketch, he added a second river north of the Old Camp,
 
 [include image]
 
-In all the builds of the game, as early as v0.56c, it was this river who originated in the waterfall at the New Camp. But in Mikes original concepts, it was the first river in the south that would be connected with the New Camp. In all three of Mike's early map sketches, the New Camp was drawn in the southwest and the Free Mine was drawn in the northwest. 
+In all the builds of the game, as early as v0.56c, it was this river who originated in the waterfall at the New Camp. But in Mikes original concepts, it was the first river in the south that would be connected with the New Camp. In all three of Mike's early map sketches, the New Camp was drawn in the southwest and the Free Mine in the northwest. 
 
 [include images]
 
