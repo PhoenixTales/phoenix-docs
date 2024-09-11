@@ -1,5 +1,12 @@
+# Place of Resurrection
 
-## Stone Cirlce and Rune Temple
+* Stone Circle
+* Rune Temple
+* Old Temple
+
+
+
+### Rune Temple
 
 We have to say that we do not know any concept by Ralf of the stone circle in particular as Mike had imagined it. That does not mean that there may not exist one that we do not know of, but it is very unlikely. Because for the first time with Ralfs concepts the idea of the "island of resurrection" appeared. It is described as "Place of Ressurection" (Erweckungsplatz) and as an "Old Rune Temple" ("Der Alte Runentempel"). Ralf was inspired by the island of the dead by Arnold Böcklin. We know from the design documents that the Stone Circle too was a place of resurrection. The player himself was supposed to be resurrected here when he dies, as well as other players in the multiplayer. Thus, the most likely explanation is that this rune temple was Ralfs re-imagination of the Stone Circle. 
 
@@ -15,6 +22,8 @@ In the phoenix leveldesign document "Der große See und die Insel" ("the big lak
 That means that this design was approved and even considered for the story already. And there has to be a reason why it didn't make it into the game in the end. A very obvious one may be the technical difficulties of realising the idea. Letting the water level sink, letting the entrance of the mine be shown as actually being flooded; it was not possible to do without loading an entirely new surface level. 
 
 ---
+
+## Old Temple / Monastery Ruins
 
 11.09.2024
 
