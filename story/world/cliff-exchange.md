@@ -186,16 +186,16 @@ The ingame implementation got rid of several of the early ideas:
 
 ### Northern Forest Implementation
 
-The northern forest was the easiest to solve among them, although it already required big changes in the word model, in course of which the position of the Exchange Place and the Abandoned Mine changed and all the objects (Vobs) had to be brought over to the new position.
+The northern forest seemed the easiest to solve among them, although it already required big changes in the word model, in course of which the position of the Exchange Place and the Abandoned Mine changed and all the objects (Vobs) had to be brought over to the new position.
 
 There simply was no space for the northern forest, as the mountain range began immediately behind the river. But when compared with the release version, in the pre-alpha models of the world the northern environment did stretch further into the north. So in order to implement the northern forest, I had to make room between the northern river and the mountain path towards to exchange place, shifting the entire mountain area further into the north to make room for the forest. 
 
-And by implementing the northern forest and thereby increasing the distance between the northern bridge (in front of the Old Camp) and the mountain path towards the valley, I became able to decrease the steepness of the rise in the terrain towards the exchange place by letting this rise start with the northern forest already (as Mike had suggested it on his sketch), thereby distributing this rise more evenly. 
+And by implementing the northern forest and thereby increasing the distance between the northern bridge (in front of the Old Camp) and the mountain path towards the valley, I also could become able to decrease the steepness of the rise in the terrain towards the exchange place by letting this rise start with the northern forest already (as Mike had suggested it on his sketch), thereby distributing this rise more evenly. 
 
 
 ### Connection to the Sea
 
-But how could I connect the forest to the water that was meant to be connected to the sea?
+But how could I connect the forest when implemented like this (and I did so already - *twice*, in two different approaches - a work that would later turn out to have been at least halfway in vain) to the water that was meant to be connected to the sea?
 
 If following the concepts more radically, I would not really have needed to make more room between the river and the exchange place (although this increased room may still necessary in order to later make room for the increased distance between the Old Camp and the river with the bridge known from the pre-alpha models). What I actually would have needed to do, is to place the exchange place much further down (a bit closer to the sea level), thereby removing most of the mountain terrain around the path leading down into the valley; there would still have to be a rise in the terrain, but it would even out a lot more and be much less steep. 
 
@@ -210,11 +210,20 @@ That this water cannot be at the exact same height as the ocean itself and has t
 
 But the forest being at least a little bit higher than the level of the lake north of it makes sense, as thereby we could steer the way that the player can exit the sea through the level design. As he then could not swim towards the right (east), nor to the west (where he would fall down the waterfalls) nor could he exit the water at any other point of the forest and thereby avoiding the thugs awaiting him - this way through the design of the terrain I could make sure that the player is forced to swim at this very bay and not anywhere else.   
 
+
 ### Abandoned Mine
 
 With this solution, the path along the Abandoned Mine would still remain as is. It would be the path as drawn on the earliest concepts, leading from the exchange place to the camp at the eastern edges of the northern forest, just in a less steep way. And the Abandoned Mine would then be in the east of the forest, as in Mikes Orpheus map.
 
 As for Ralfs concepts of the mine: The mine was here basically drawn as a path, with rock faces left and right, some broken houses and additional clefts in the mountains leading into the mining sites. The position of it would have been in the west of the exchange place, southwest perhaps, and the path would lead towards the west too; this at least is what his concept of the lift suggests, where we see the direction of the north and an arrow pointing towards the Abandoned Mine in a path to the left. 
+
+Now, in Ralfs concepts, this path is positioned much lower, 80m to be exact, then the cliff. This would not be the case with the Abandoned Mine area from 0.7-0.9 that we keep. But just as the Abandoned Mine we know is not just one site, but a collection of several mining sites on both sides of the mountains, the area already suggests, that the Abandoned Mine as a term is the name of an entire terrain of mining sites. 
+
+That said, the area from Ralfs concepts can very well co-exist next to the area a it has been implemented. It would rather increase the area and serve as additional territory to explore. 
+
+According to the concept, the lift would be placed close to the exchange place; and at this point, at least in Mikes idea, be there 
+
+
 
 ---
 
