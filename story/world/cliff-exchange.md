@@ -15,22 +15,24 @@ What is not yet known and has been overlooked so far by alpha research, is that 
 
 > *dream to take one night the Cliff by storm*
 
-This dream implies, that overcoming the *Cliff* would enable them to escape. It also implies, that it was then supposed to be heavily guarded. In this earliest concept, described in the [Orpheus history](https://media.gothicarchive.org/documents/orpheus/Orpheus-B-Scribbles.pdf), *the revolt* had taken place (mainly motivated by the threat through the monsters that the wardens did not protect them from) and the royal forces were only able to stop them at the *Cliff*. From then on, the prison was under the control of the prisoners. 
+This dream implies, that overcoming the *Cliff* would enable them to escape. It also implies, that it was then supposed to be heavily guarded. And it means, that the guild system v1 is older than the idea of the barrier. In this earliest concept, described in the [Orpheus history](https://media.gothicarchive.org/documents/orpheus/Orpheus-B-Scribbles.pdf), *the revolt* had taken place (mainly motivated by the threat through the monsters that the wardens did not protect them from) and the royal forces were only able to stop them at the *Cliff*. From then on, the prison was under the control of the prisoners. 
 
 But it wouldn't take long to the invention of the barrier.
 
 
 ## Mikes Design of the Cliff
 
-It was defined from the start, that the *Exchange Place*, originally called *Marketplace*, was directly in the north and on the [first known map sketch](https://media.gothicarchive.org/conceptart/mikehoge/maps/map1.jpg) by Mike the cliff has been positioned directly north of the marketplace, with a lake below the cliff:
+It was defined from the start that the *Exchange Place*, originally called *Marketplace*, was directly in the north and on the [first known map sketch](https://media.gothicarchive.org/conceptart/mikehoge/maps/map1.jpg) by Mike the cliff has been positioned north of the marketplace, with a lake below the cliff:
 
 ![Cliff & Marketplace v0](/_img/world/cliff-marketplace-v0.jpg)
 
-But this has then been changed in Mikes much more elaborated ["Orpheus Overview Map V1"](https://media.gothicarchive.org/conceptart/mikehoge/maps/map3.jpg) from 1996. While the marketplace stayed in the very north, the *Cliff of the Damned*, as it was called at the time, was not directly north of the marketplace anymore, but now positioned east of it. And the water into which the player was supposed to fall from the cliff, which has been drawn as a lake before, was now directly connected with the ocean; it was still between the marketplace and the cliff, but now, like the cliff itself, it was east of the marketplace, with a path in the north (behind the barrier) leading in a serpentine way towards the west. 
+But this has then been changed in Mikes much more elaborated ["Orpheus Overview Map V1"](https://media.gothicarchive.org/conceptart/mikehoge/maps/map3.jpg) from 1996. While the marketplace stayed in the very north, the cliff was not directly north of the marketplace anymore, but now positioned east of it. And the water into which the player was supposed to fall from the cliff, which has been drawn as a lake before, was now directly connected with the ocean; it was still between the marketplace and the cliff, but now, like the cliff itself, it was east of the marketplace, with a path in the north (behind the barrier) leading in a serpentine way towards the west. 
 
 ![Cliff & Marketplace v1](/_img/world/cliff-marketplace-v1.jpg)
 
-The player was here not supposed to swim towards the marketplace, but towards the so called northern forest, from which a way (as you see it being drawn through the forest) would lead him to the Abandoned Mine south of the marketplace. Alex Wittmanns Gothic Novel was written with this map layout in mind and even the Gothic Comic (2000) has been made in accordance with this idea, where the marketplace is clearly seperated from the place at which the convicts arrive. 
+The player was here not supposed to swim towards the marketplace, but towards the so called northern forest, from which a way (as you see it being drawn through the forest) would lead him to the Abandoned Mine south of the marketplace. Alex Wittmanns Gothic Novel was written with this map layout in mind and even the Gothic Comic (2000) has been made in accordance with this idea, where the marketplace is clearly seperated from the place at which the convicts arrive.
+
+At this point in development the two locations where listed in separation in the level design docs of the Phoenix Concept. The cliff was described as *Die Klippe der Verdammnis* (Cliff of the Damned*), as the convicts would be convicted here and damned to a life long prison sentence in the penal colony. Some died upon arrival. It was meant to be three or four times as high as the cliff in the release version. And from the cliff the player was meant to have an overview almost of the entire colony, as described both in the comic and the novel, where the protagonist could even see the Psi Camp from afar.
 
 ![Cliff in the Comic](/_img/world/cliff-comic.jpg)
 The cliff in the Comic as seen from the edges of the northern forest; a new convict being thrown down the cliff, hitting the water, while the thugs wait for the convict to arrive.
@@ -40,10 +42,10 @@ The cliff in the Comic as seen from the edges of the northern forest; a new conv
 The convict reaches the shore and is welcomed by the thugs, "baptising" him in the cruel tradition of the self-ruled penal colony, witnessed by the four friends.
 {: .caption }
 
-In his next and the last known map sketch, Mike elaborated his former Orpheus map further. While the marketplace and the cliff stayed just as they were, the northern lake became changed in appearance in that it did now stretch further into the west, but less into the south, due to the introduction of a new river, that would flow south of the northern forest, from the northwest into the sea in the east; this river would remain there till the release version of the game. This change did not affect the gamestart as originally imagined, but it changed the distance to the abandoned mine, which was now on the other side of the river, behind the bridge and not so close to the northern forest as it was in the Orpheus map. 
+In his next and the last known map sketch, Mike elaborated his former Orpheus map further. While the marketplace and the cliff stayed just as they were, the northern lake changed in appearance in that it did now stretch further into the west, but less into the south, due to the introduction of a new river, that would flow south of the northern forest, from the northwest of the colony (it would later become connected to the New Camp) into the sea in the east; this river would remain there till the release version of the game. This change did not affect the gamestart as originally imagined, but it changed the distance to the abandoned mine, which was now on the other side of the river, behind the bridge and not so close to the northern forest as it was in the Orpheus map. 
 
 ![Cliff & Marketplace v2](/_img/world/cliff-marketplace-v2.jpg)
-The cliff marked in red, the forest in green; the arrows in the forest mean to connote a rise in the terrain; it was meant to go upwards here - next to it the marketplace. The Abandoned Mine (VM) more south behind the bridge, while in the east the originally imagined position of the stone circle is seen.
+The cliff marked in red, the forest in green; the arrows in the forest mean to connote a rise in the terrain; it was meant to go upwards here - next to it the marketplace. The Abandoned Mine (VM) more south behind the bridge. In the east the originally imagined position of the stone circle is seen.
 {: .caption }
 
 
@@ -66,27 +68,34 @@ The lift would bring him into this area, where he could take a passage way towar
 
 ![Ralfs Lift](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Oberwelt_VerlasseneMine_Fahrstuhl.jpg)
 
-A path which through the placement of the rocks - which are hiding the passage to the valley from the perspective of the player when he arrives - would have been most likely for the player to take first. While when coming back from the mine, looking into the other direction, the path to the valley would become more obvious to him Whichever path the player would take, he would leave them to arrive here at the "northern environment": 
+A path which through the placement of the rocks - which are hiding the passage to the valley from the perspective of the player when he arrives - would have been most likely for the player to take first. While when coming back from the mine, looking into the other direction, the path to the valley would become more obvious to him. Whichever path the player would take, he would leave them to arrive here at the "northern environment": 
 
 ![North of the Valley](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Abschnitt_A1-A2-B1-B2.jpg)
 
-At first it may seem, that these two concepts, the one with the lift and the one with the higher cliff and the lake, are like two different concepts for the players way into the colony, as this second concept is overwritten with "Anfang" (start), and the first one with "starting location". They also cannot be connected, because in the first concept he connotes "zum Baum" (*to the tree*) as the only path out of this area. And we have to assume that with "tree" he is referring to the hangmen's tree. This means that he would just walk through this opening in the rock face and then through the forest towards the hangmen's tree. 
+It seems that these two concepts, the one with the lift and the one with the higher cliff and the lake, are two different concepts for the players way into the colony, as this second concept is overwritten with "Anfang" (start), and the first one with "starting location" and in both cases Ralf described the way from above towards the valley, as if the player would arrive here.
 
-Ralf didn't include any noteworthy rise in the terrain (such as Mike had done on his map, where the area was supposed to lead upwards to the exchange place, as it was later realised in the game). Instead of having any organic inclination, Ralf has drawn rather strict straight paths, first horizontal, then a vertical path downwards in form of the lift and again a strict horizontal path to the valley. It is easier to design an area in this kind of way and becomes very complex if diverse inclinations have to be taken into account, as Mike wanted to have them. 
+In case of the lift this must be the case, because the reason that the lift was imagined to be 80m high is that most likely it was meant to be within the barrier at the bottom and outside of the barrier at the top; this at least is what Mikes early maps suggest. In this case the player would not have been able to take the lift a second time; it was the lift for the exchange of the goods.  
+
+They also cannot be connected, because in the first concept he connotes "zum Baum" (*to the tree*) as the only path out of this area and we have to assume that with "tree" he is referring to the hangmen's tree. So he would just walk through this opening in the rock face and then through the forest towards the hangmen's tree. 
+
+Ralf also had not included any noteworthy rise in the terrain (such as Mike had done on his map, where the area was supposed to lead upwards to the exchange place, as it was later realised in the game). Instead of having any organic inclination, Ralf has drawn rather strict straight paths, first horizontal, then a vertical path downwards in form of the lift and again a strict horizontal path to the valley. It is easier to design an area in this kind of way and becomes very complex if diverse inclinations have to be taken into account, as Mike wanted to have them.
+{: .subtext }
 
 But if we assume that Ralf has seen Mikes Orpheus map before (which is very likely), and that he based his concept on it, we also could argue, that he may have misinterpreted the shore of the water at the bottom of the cliff and the marketplace, with mountain walls. The "opening" that Mike has drawn in the Orpheus map to connote that he would enter the forest here from the shore, he may have interpreted as an exit instead from the mountains into the forest. In this case, the following image may make it easier to imagine the layout:
 
 ![North of the Valley](/_img/world/ralf-start-exits.jpg)
 
-In this case the two concepts above may indeed belong to the same time and show two separate locations; the first concept would show the cliff, which you would exit through a crack in the mountains somewhere behind the forest (red), while the second concept(s) would show the marketplace, with the panorama view towards the Old Camp (blue) and the exit from the lift (green).
+In this case the two concepts above may indeed belong to the same time and show two separate locations; the first concept would show the cliff, which you would exit through a crack in the mountains somewhere behind the forest (red), while the second concept(s) would show the marketplace, with the sceneric view towards the Old Camp (blue) and the exit from the lift (green).
 
-The huge lift drawn by Ralf could be the realisation of what the long pole-like scribble seen on Mikes Orpheus map should be. Why would Mike signify the marketplace with this huge pole in his sketch, if not to suggest a very high lift used for the exchange of the goods? If he would have imagined a ropeway, as it was introduced later, he surely would have drawn a line towards the cliff in the north or to the east over the water in front of the cliff. 
+The lift drawn by Ralf could be the realisation of what the long pole-like scribble seen on Mikes Orpheus map should be. Why would Mike signify the marketplace with this huge pole in his sketch, if not to suggest a very high lift used for the exchange of the goods? If he would have imagined a ropeway, he surely would have drawn a line towards the cliff in the north or to the east over the water in front of the cliff. But the idea of a ropeway, as it was later realised in v0.7 and also shown in the Comic was not yet around. 
+
+Although there is at least a hint that Ralf was still involved when the idea of the lift was replaced by the idea of a ropeway, in that we have a concept by Ralf of a *Gondel*, as it most likely should have been connected to the ropeway.: 
 
 It should be obvious how these concepts deviated from Mikes conception. And if you look at the second picture above, you will see how Mike has added sketches to Ralfs concept to show him how he wants it to be, although it is difficult to interpret them. It was an usual process for him to draw over Ralfs concepts as a form of feedback to better explain to him how he imagined it instead *or* how Ralfs suggested design could be brought into harmony with his ideas. 
 
 That said, he did not seem to approve this particular sketch due to how much it changed his idea. <!-- And just like me at first, it seems that Mike has interpreted this concept to be Ralfs suggestion for the cliff, the place of arrival for the player; which would mean, that there was not even water for the player to fall into. --> In any way we should take a closer look at what Mike has [drawn unto the concept](/_img/world/mikes-feedback-to-ralfs-concept-1.jpg).
 
-In his scribble he basically repeated what he had drawn in his Orpheus map and his final map sketch shown above. It seems clear that he did not want the cliff to be hidden in a deep circular valley, as Ralf had imagined it. From the cliff the player was meant to have an overview almost of the entire colony, as described both in the comic and the novel, where the protagonist could even see the Psi Camp from afar. He also seemed to insist on a position of the cliff in the east of the marketplace. 
+In his scribble he basically repeated what he had drawn in his Orpheus map and his final map sketch shown above. It seems clear that he did not want the cliff to be hidden in a deep circular valley, as Ralf had imagined it, as thereby the player would have no view of the colony anymore when standing on the cliff. He also seemed to insist on a position of the cliff in the east of the marketplace. 
 
 
 ### Pre-Alpha World Models
