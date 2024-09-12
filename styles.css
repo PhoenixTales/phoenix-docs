@@ -442,8 +442,10 @@ hr {
   }
 
   .caption {
-    margin: 0em 1em 2em;
-    color: #55504a;
+    margin: 1em 1em 2em;
+    padding-left: 1em;
+    padding-right: 1em;
+    color: #65605a;
     font-size: 13px;
   }
 

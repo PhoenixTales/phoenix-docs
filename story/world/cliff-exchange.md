@@ -297,3 +297,7 @@ Through this solution I could finally solve the puzzle of redesigning the northe
 * Die Abzweigung nach links muss relativ gerade rechts vorbei führen, weniger starker Fluss, so dass er etwa genau auf die Alpha VM Höhle zeigt. 
 * Der Lift ist 80m hoch und muss einen Zweck haben. 
 * Der Pfad vom Lift aus gesehen muss nach vorne zur VM und nach links zum Tal führen. Weil aber
+
+Details:
+* Wenn Klippe und Austauschplatz getrennt sind, und umso mehr, wenn die Leute aber eventuell aus dem Westen kommen und die Stadt westlich liegt, die Klippe also sozusagen einen weiteren Weg bedeutet, sollte die Klippe organisch mit dem Weg zur Seilbahn verbunden werden, so dass es aussieht als wäre das eine Art offizieller Gang zur Verurteilung. Diesen Eindruck dieser quasi rituellen Verurteilung kann man, glaube ich, verstärken und dem ganzen einen glaubwürdigen Look geben, wenn eine Art Treppe hinauf führt zur Klippe. -> TODO.
+
