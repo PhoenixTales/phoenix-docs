@@ -125,23 +125,31 @@ In about v0.7, the whole mountain terrain in the north was modeled with a very s
 
 ![Exchange Place v0.7](/_img/world/cliff-07.png)
 
-It is here, that for the first time the ropeway appears, that players would know from this screenshot and the [gameplay video of the PC Action](https://www.youtube.com/watch?v=yABtkrQonD0) and would anticipate to be in the game. Later it would be removed and replaced by a much less iconic and much smaller lift in the end.
+It is here, that for the first time the ropeway appears, that players would know from this screenshot and the [gameplay video of the PC Action](https://www.youtube.com/watch?v=yABtkrQonD0) and would anticipate to be in the game. Later it would be removed and replaced by a much less iconic and much smaller lift.
 
-At first the lake at the exchange place was simply designed as a lake in a basin of mountainous terrain, with no room between the lake and the mountains. There was not meant to be any kind of storage or a camp here and no room for it. The convicts would bring the ore to this place, once every month, they would receive their goods from the outside world and deliver their ore by using the gondola, then bring the goods to the Old Camp. In the Comic this process is shown in connection with a carriage and horses, but still - there is no storage here and no reason for it.
+At first the lake at the exchange place was simply designed as a lake in a basin of mountainous terrain, with no room between the lake and the mountains. There was not meant to be any kind of storage or a camp here and there was also no room for it. Only (in another subversion of 0.7) a wooden platform has been added; where the convicts could stand on and handle the exchange alongside a platform above that the royals would use. 
 
-Accordingly there also was no gate to protect the exchange place, as there was nothing to protect (other than the ropeway itself); there was no ore here obviously, as it was all delivered outside and there were no goods from the outside world here, as they were all brought to the camp. In the initial concept, the Free Camp was also meant to use the exchange place (e.g. at night; if with or without the knowledge of the Old Camp), so it was not meant to be exclusively used by the OC. 
+The convicts would bring the ore to this place, once every month, they would receive their goods from the outside world and deliver their ore by using those gondolas on the ropeway, then bring the goods to the Old Camp. In the Comic this process is shown in connection with a carriage and horses, but still - there is no storage here and no reason for it.
+
+Accordingly there also was no gate to protect the exchange place, as there was nothing to protect (other than the ropeway itself); there was no ore here obviously, as it was all delivered outside and there were no goods from the outside world here either, as they were all brought to the camp. In the initial concept, the Free Camp was also meant to use the exchange place (e.g. at night; if with or without the knowledge of the Old Camp), so it was not meant to be exclusively used by the OC. 
 
 ![Exchange Place to AM v0.7](/_img/world/087.png)
 The other side, view from the exchange place towards the Abandoned Mine area.
 {: .caption }
 
-There would be no gate here till around v0.94k. In screenshots of v0.9 it is still not included. And the screenshot suggested orcs to arrive here. An idea that may not only have been set up for the screenshot, since the orcs occupying the exchange place is an idea that traces back all the way to the earliest Orpheus notes. 
+There would be no gate here till around v0.94k. In screenshots of v0.8 to 0.9 it is still not included.
 
 ![Exchange Place to AM v0.8 - v0.9](/_img/world/ep-08-09.jpg)
+The screenshot also suggested orcs to arrive here. An idea that may not only have been set up for the screen, since the orcs occupying the exchange place is an idea that traces back all the way to the earliest Orpheus notes. 
+{: .caption }
 
-But the actual reason to protect the exchange place and why the gate may make sense, would have been due to the New Camp, which could have a strong motivation to destroy the ropeway in order to stop the exchange with the outside world, which is their primary enemy; but there was obviously nothing to rob - nothing but the convoys. 
+The actual reason to protect the exchange place and why the gate may make sense would have been due to the New Camp, which could have a strong motivation to destroy the ropeway in order to stop the exchange with the outside world, which is their primary enemy; but there was obviously nothing to rob - nothing but the convoys. 
 
-Although we do not have a copy of the world from v0.7, we can say for sure, that the cliff and the exchange place were merged here. While in theory we could imagine a mixture of this exchange place with a seperate cliff further east, this is very unlikey to be the case - since the early "Old Temple" (later "Monastery ruins") did also appear in this version and so there was no room for any water anymore that the player could have fallen down into from the cliff. Therefore, from version v0.7 onwards, the cliff and the exchange place were merged again into one, as it was on the very first scribble by Mike during the Orpheus conception.
+On first sight it may be seem very clear, that the world of v0.7 has alread merged the ideas of the exchange place and the cliff. But as we do not have a copy of this version of the world we cannot say so for sure. In course of months of reflection about the area I found at least a few hints and a possible explanation for how the separated cliff could actually have been implemented in this version of the world. 
+
+For a long time it has been speculated what the big hole in the mesh was meant to be that can be found on the plateau above the entrance to the Abandoned Mine. In later versions this is covered by rocks and there is nothing behind. 
+
+While in theory we could imagine a mixture of this exchange place with a seperate cliff further east, this is very unlikey to be the case - since the early "Old Temple" (later "Monastery ruins") did also appear in this version and so there was no room for any water anymore that the player could have fallen down into from the cliff. Therefore, from version v0.7 onwards, the cliff and the exchange place were merged again into one, as it was on the very first scribble by Mike during the Orpheus conception.
 
 The position, as far as we know, did not change from here on. The cliff was slightly higher than in the release version, but in both cases the player was unable to see the colony. All the ideas regarding the gamestart with the northern forest (which itself was also removed completely) and the cliff as a separate location, where thereby discarded. 
 
@@ -173,28 +181,29 @@ All of these details about changes in the world model in different versions were
 
 ## Summary
 
-The ingame implementation got rid of several of the early ideas:  
+The Cliff as well as the exchange place have changed a lot throughout development. The ingame implementation lost several of the early ideas:  
 
-* There was no longer a connection of the water/lake below the cliff to the sea, nor was there any waterfall or river that would explain the water in the lake, nor did it have any outflow.
-* The connection to the northern forest was lost - and the northern forest itself has been removed, inspite of its dominant role in all map concepts, pre-alpha models and the novel.
-* The player could not see the colony from the cliff. 
-* The cliff was tiny in comparison to the originally imagined cliff - it was meant to be much higher. 
-* The ropeway (removed in the release version, but easy to remodel) was a much better idea than the lift; but the idea of the lift was thereby also discarded.
-* While not dealt with here, it also affected the design of the Abandoned Mine, which was discarded in the form that Ralf had imagined it. 
+* There was no longer a connection of the water/lake below the cliff to the sea, nor was there any waterfall or river that would explain the water in the lake, nor did it have any outflow. This affected the overall feeling as well as the believability of the terrain, giving it a less organic and less "wild" appearance than it could have had.
+* The connection to the northern forest was lost - and the northern forest itself has been removed, inspite of its dominant role in all map concepts, pre-alpha models and the novel, where the Abandoned Mine has always been imagined close to a forest; and an early forest exploration (of course a less dangerous one for the start of the game, which makes sense due to how highly frequented it is) would have served the gothic atmosphere well. 
+* The player could not see the colony from the cliff, as it was initially planned and described in the Comic and the Novel; although a similar sceneric view was offered later on the bridge, the original view from the cliff itself, from where even lights from the Psi Camp should have been seen, was lost.
+* The later implemented cliff at the exchange place was also very low in comparison to the originally imagined cliff, which was meant to be higher and induce more fear of the fall; another aspect connected to that which also has been lost and which follows from the inability to overlook the colony from the cliff, was that the cliff was meant to hover menacingly over the valley like a memorial to remember everyone of their brutal conviction.   
+* The ropeway that has always been planned by Mike and was implemented well in v0.7, has been removed in the release version; and while the ropeway was a much better solution fot the exchange place than the lift by Ralf; the idea of the lift was thereby also discarded.
+* This also affected the design of the Abandoned Mine, which was discarded in the form that Ralf had imagined it. 
 
 
 ## Phoenix Solutions
 
-12.09.2024
+Flosha, 12.09.2024 - 13.09.2024
 
-We did not want to get rid of the general design of the terrain of the exchange place and the Abandoned Mine from the Alpha versions, as the design of this terrain is both very good and it is the *only* and thereby the *first and last* ingame implementation of the exchange place and the Abandoned Mine.
+I want to clarify at first, that I did not want to get rid of the general design of the terrain of the exchange place and the Abandoned Mine from the Alpha versions, as the design of this terrain is both very good and it is the *only* and thereby the *first and last* ingame implementation of the exchange place and the Abandoned Mine.
 
-As for changes, at first we reconstructed the iconic ropeway from v0.7, which Mike had envisioned from the very start and which is not just a visual improvement or a change motivated by nostalgia, but the way that the ropeway is setup also makes it more believable that it was constructed after the creation of the barrier in a joint effort from within and outside the barrier by pulling and pushing the central pillar up, stabilised by thick ropes, it simply makes sense based on its construction. 
+As for changes, at first I reconstructed the iconic ropeway from v0.7, which Mike had envisioned from the very start and which is not just a visual improvement or a change motivated by nostalgia, but the way that the ropeway is setup also makes it more believable that it was constructed after the creation of the barrier in a joint effort from within and outside the barrier by pulling and pushing the central pillar up, stabilised by thick ropes; it simply makes sense based on its construction. Remodeling it was easy enough and did not involve too much effort. By doing so I realised that the rock faces on which the lift has been placed must have been higher in v0.7 than it was in the release version and adjusted it accordingly. 
 
-* We then thought about how, while preserving the above mentioned terrain and setup, we could at the same time include the...
+I then thought about how, while preserving the above mentioned terrain and setup, I could at the same time include the...
   * Connection to the sea with a potential seperate cliff
   * Northern forest (connected to that sea)
-  * 80m Ore lift connected to the Abandoned Mine Concept Arts
+  * Ore lift connected to the Abandoned Mine Concept Arts
+And especially: How I could realise all of this inspite of the Old Temple (Monastery Ruins) that seemed to be very much in the way of all of these changes.  
 
 
 ### Northern Forest Implementation
