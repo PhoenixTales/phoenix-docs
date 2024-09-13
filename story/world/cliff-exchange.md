@@ -1,6 +1,4 @@
-# The Cliff 
-
-// Cliff of the Damned & Exchange Place
+# Northeast
 
 ```
 Author: Flosha
@@ -8,10 +6,43 @@ Written: 15.08.2024 - 13.09.2024
 ```
 {: .info }
 
-In this document we are dealing with the entire northeastern terrain; the level design of the cliff, the exchange place, the northern lake(s), the northern forest, the bandit's camp and the old temple ruins (later monastery ruins). While some of the background story of these locations may be mentioned in course of this document in so far as they are of importance for design decisions, the locations will be dealt with in regard to their lore or their relevance for the story, in the other, respective sections of the documentation.  
+This document contains an analysis of the development history of the entire northeastern environment of the colony (as the northeast we define everything north of the northern river and east of the troll canyon) as well as our overhaul of the territory in Phoenix based on our findings. Namely we are dealing with the level design of...
+* The Cliff of the Damned
+* The Exchange Place
+* The Northern Forest
+* The Northern Lake(s)
+* The Abandoned Mine
+* The Bandits Camp
+* The Old Temple Ruins
 
+Some of the background story of these locations may be mentioned in course of this document in so far as they are of importance for design decisions; but the locations will be dealt with in regard to their lore or their relevance for the story mainly in the other, respective sections of the documentation.  
+{: .subtext }
 
-## Origins of the Cliff
+**Content:**  
+1. Alpha Research
+   1. [Origins of the Cliff]()
+   2. [Maps of the Artdirector]()
+   3. [Concept Art]()
+   4. [Pre-Alpha World Models]()
+      1. [Old Temple Ruins]()
+   5. [Alpha World Models]()
+   6. [Final World Model]()
+   7. [Summary]()
+2. Phoenix Design
+   1. [Approach 1]() (2022)
+   2. [Approach 2]() (Nov 2023)
+   3. [Approach 3]() (Sep 2024)
+   
+
+Todo:
+* Mention that the old temple and bandits camp did not yet exist in mikes maps and ralfs concepts.
+* Mention the stone circle but that it will be dealt with in the document about the east as being south of the river.
+* Structure the phoenix section better.
+  
+
+## Alpha Research
+
+### Origins of the Cliff
 
 What is not yet known and has been overlooked so far by alpha research, is that the idea of the *cliff* is older than the idea of the barrier. And more than that, we have to assume, that it was the cliff which served (at the dawn of the Orpheus concept) as the first and primary level border. In the [Guild System v1](https://media.gothicarchive.org/documents/orpheus/OrpheusGuilds-V1.pdf), where every guild had its own position regarding a potential escape plan, it is written about the thugs (GRD) that they...
 
