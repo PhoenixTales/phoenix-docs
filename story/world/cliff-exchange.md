@@ -4,7 +4,7 @@
 
 ```
 Author: Flosha
-Written: 15.08.2024 - 12.09.2024
+Written: 15.08.2024 - 13.09.2024
 ```
 {: .info }
 
@@ -205,7 +205,7 @@ The Cliff as well as the exchange place have changed a lot throughout developmen
 * The connection to the northern forest was lost - and the northern forest itself has been removed, inspite of its dominant role in all map concepts, pre-alpha models and the novel, where the Abandoned Mine has always been imagined close to a forest; and an early forest exploration (of course a less dangerous one for the start of the game, which makes sense due to how highly frequented it is) would have served the gothic atmosphere well. 
 * The player could not see the colony from the cliff, as it was initially planned and described in the Comic and the Novel; although a similar sceneric view was offered later on the bridge, the original view from the cliff itself, from where even lights from the Psi Camp should have been seen, was lost.
 * The later implemented cliff at the exchange place was also very low in comparison to the originally imagined cliff, which was meant to be higher and induce more fear of the fall; another aspect connected to that which also has been lost and which follows from the inability to overlook the colony from the cliff, was that the cliff was meant to hover menacingly over the valley like a memorial to remember everyone of their brutal conviction.   
-* The iconic ropeway that has always been planned by Mike and was implemented well in v0.7, has been removed in the release version; and while the ropeway may have been a more believable solution for the exchange place than the lift by Ralf, the idea of the lift was thereby also discarded.
+* The ropeway that has always been planned by Mike and was implemented well in v0.7, has been removed in the release version; and while the ropeway may have been a more believable solution for the exchange place than the lift by Ralf, the idea of the lift was thereby also discarded.
 * This also affected the design of the Abandoned Mine, which was discarded in the form that Ralf had imagined it. 
 
 
@@ -217,16 +217,28 @@ I want to clarify at first, that I did not want to get rid of the general design
 
 As for changes, at first I reconstructed the iconic ropeway from v0.7, which Mike had envisioned from the very start and which is not just a visual improvement or a change motivated by nostalgia, but the way that the ropeway is setup also makes it more believable that it was constructed after the creation of the barrier in a joint effort from within and outside the barrier by pulling and pushing the central pillar up, stabilised by thick ropes; it simply makes sense based on its construction. Remodeling it was easy enough and did not involve too much effort. By doing so I realised that the rock faces on which the lift has been placed must have been higher in v0.7 than it was in the release version and adjusted it accordingly. 
 
-I then thought about how, while preserving the above mentioned terrain and setup, I could at the same time include the...
-  * Connection to the sea with a potential seperate cliff
-  * Northern forest (connected to that sea)
-  * Ore lift connected to the Abandoned Mine Concept Arts
-And especially: How I could realise all of this inspite of the Old Temple (Monastery Ruins) that seemed to be very much in the way of all of these changes.  
+I then thought about how, while preserving the above mentioned terrain and setup, I could at the same time include...
+  * a potential separate cliff with another, connected lake and how this lake could have a connection to the sea 
+  * the northern forest (connected to that lake at the cliff) and...
+  * the ore lift in combination with the Abandoned Mine Concept Arts
+And especially: How I could realise all of this inspite of the Old Temple (Monastery Ruins) that seemed to be very much in the way of these changes.  
 
 
 ### Northern Forest Implementation
 
-The northern forest seemed the easiest to solve among them, although it already required big changes in the word model, in course of which the position of the Exchange Place and the Abandoned Mine changed and all the objects (Vobs) had to be brought over to the new position.
+
+#### Attempt 1 
+
+The northern forest I had first implemented in a smaller form by changing the terrain in the north of the river but without any kind of translation in the terrain, which I thought was way too much work to pull off. This way the forest really connected to the Abandoned Mine - so I tried to solve this by including a second, lower entrance at the bottom of the mountain instead. And in order to make this forest more special I came up with a tricky hack by which I could let a side stream of the river flow "through" the forest - or at least create the illusion that it does -, which is very problematic from a technical side.
+This way I realised a forest in the north without any need to change much of the mountainous terrain leading to the exchange place and I did spend at least 50 hours on this solution. But the forest was much smaller than the one known from v0.56c and v0.64b there was no lake. I had a forest in the north now, but realised almost nothing of the initially conceived progression of the player that should arrive here from the river. In the end, the work was in vain. 
+
+
+#### Attempt 2
+
+I discarded my first attempt and decided, that in order to implement the forest in its full size from v0.64b as well as the lake behind it, I simply could not avoid to translate the entire mountain terrain that leads up to the AM and EP further into the north, because there was simply not enough space for the forest and the lake. I was very reluctant to do that since such a translation means that all the objects (Vobs) had to be brought over to the new position (the gothic modding community has written a fiddly tool for such a case, but it is a very large area and I had no experience with the tool). And in general it is our approach to avoid any unnecessary changes. But in this case, it just seemed necessary. 
+
+So I translated the entire northeastern terrain on the Y axis to create additional space where the forest and lake would fit. 
+
 
 There simply was no space for the northern forest, as the mountain range began immediately behind the river. But when compared with the release version, in the pre-alpha models of the world the northern environment did stretch further into the north. So in order to implement the northern forest, I had to make room between the northern river and the mountain path towards to exchange place, shifting the entire mountain area further into the north to make room for the forest. 
 
