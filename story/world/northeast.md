@@ -25,11 +25,15 @@ Some of the background story of these locations may be mentioned in course of th
    1. [Origins of the Cliff](#origins-of-the-cliff)
    2. [Maps of the Artdirector](#maps-of-the-art-director)
    3. [Concept Art](#concept-art)
-   4. [Pre-Alpha World Models](#pre-alpha-world-models)
-   5. [Alpha World Models](#alpha-world-models)
-      1. [Old Temple Ruins](#old-temple-ruins)
-   6. [Final World Model](#final-world-model)
-   7. [Summary](#summary)
+   4. [3D Models](#3d-models)
+      1. [Pre-Alpha World Models](#pre-alpha-world-models)
+      2. [Alpha World Models](#alpha-world-models)
+         1. [A Hole in the Mesh](#a-hole-in-the-mesh)
+         2. [AM in 0.7 to 0.9](#am-in-07-09)
+         3. [Alpha Path into the Valley](#alpha-path-into-the-valley)
+         4. [Old Temple Ruins](#old-temple-ruins)
+      3. [Final World Model](#final-world-model)
+   5. [Summary](#summary)
 2. Phoenix Design
    1. [Exchange Place](#exchange-place)
    2. [Northern Forest](#northern-forest)
@@ -57,7 +61,7 @@ This dream implies, that overcoming the *cliff* would enable them to escape. It 
 But it wouldn't take long to the invention of the barrier.
 
 
-## Maps of the Art Director
+### Maps of the Art Director
 
 It was defined from the start that the *Exchange Place*, originally called *Marketplace*, was directly in the north and on the [first known map sketch](https://media.gothicarchive.org/conceptart/mikehoge/maps/map1.jpg) by Mike the cliff has been positioned north of the marketplace, with a lake below the cliff:
 
@@ -95,7 +99,7 @@ As already noted above, Mike had signified the marketplace on both of these maps
 The Old Temple ruins (Monastery) and the Bandits camp were not yet part of the concept at this point in time and are thus not appearing on Mikes maps. 
 
 
-## Concept Art
+### Concept Art
 
 When Ralf Marczinczik started to draw concepts of the surface for review by Mike, he diverted quite a bit from Mikes original ideas. But for the most part this may have been caused by a misunderstanding, which we will explain further below. On one hand, he has drawn this concept of the "starting location":
 
@@ -146,7 +150,9 @@ In the first world models in the pre-alpha versions of the game, it would roughl
 As for the Old Temple ruins and the bandits camp, they were still no part of the concept. It may be that concept art of the Temple ruins exist, but if so, they haven't been seen by us yet. 
 
 
-## Pre-Alpha World Models
+### 3D Models
+
+#### Pre-Alpha World Models
 
 In v0.56c we can find surface models from january to march 1999. The oldest model of the surface that we have is from January 4. Here the area in question looked like this:
 
@@ -161,7 +167,7 @@ In this version of the map, it is unclear where the Abandoned Mine was supposed 
 The old temple ruins and the bandits camp did not yet exist. The entire model was done very roughly and around the camps (which were already much more elaborated, with the Old Camp almost final), in order to get an idea. Most of the model should be interpreted as nothing but a "dummy" and in some cases, it is even named like that (such as the "dummy meer" (dummy sea) or the mountains). A lot of things were bound to change, but at least it had managed to preserve the overall layout of Mikes concepts.
 
 
-## Alpha World Models
+#### Alpha World Models
 
 In about v0.7, the surface was actually modeled out in a huge update of the world into an overall shape that it would keep until release. The whole mountain terrain in the north was now modeled with a very steep rise in the terrain. The exchange place looking like this:
 
@@ -198,7 +204,7 @@ The screenshot also suggested orcs to arrive here. An idea that may not only hav
 The actual reason to protect the exchange place and why the gate may make sense would have been due to the New Camp, which could have a strong motivation to destroy the ropeway in order to stop the exchange with the outside world, which is their primary enemy; but there was obviously nothing to rob - nothing but the convoys. 
 
 
-### A Hole in the Mesh
+##### A Hole in the Mesh
 
 On first sight it may be seem very clear, that the world of v0.7 has alread merged the ideas of the exchange place and the cliff. But as we do not have a copy of this version of the world we cannot say so for sure. In course of months of reflection about the area I found at least a few hints and a possible explanation for how the separated cliff could actually have been implemented in this version of the world. 
 
@@ -223,7 +229,7 @@ It remains speculation. We do not know if it was ever implemented like this, but
 The positioning of the now combined cliff and exchange place, as far as we know, did not change from here on. The cliff was slightly higher than in the release version, but in both cases the player was unable to see the colony. All the ideas regarding the gamestart with the northern forest (which itself was also removed completely) and the cliff as a separate location, where thereby discarded. 
 
 
-### AM in 0.7-0.9
+##### AM in 0.7-0.9
 
 The Abandoned Mine did now find its place in the world in 0.7 for the first time. Originally the entrance may have first modeled only on the right (in the west), as seen here:
 
@@ -236,8 +242,7 @@ But it could be as well, as the second screenshot from the same or a similar ver
 While very little of Ralfs visual ideas for the exchange place (and for the Abandoned mine) remained (other than getting rid of the water connected to the sea, which does not seem to have been Mikes intention), we could very well interpret the bridge that was added to the Abandoned Mine, connecting its east and west side, as a later version of Ralfs tree between the cracks in the rock faces. Just as in Ralfs idea, the player would have a very sceneric view of at least the Old Camp from this position. 
 
 
-
-### Alpha Path into the Valley
+##### Alpha Path into the Valley
 
 While in the earliest pre-alpha models all the terrain had been completely flat, similar to how Ralf had drawn it, the rise in the terrain in this model (which Mike had suggested on his sketch) was now so steep, that it made it hard to believe that any kinds of wagons could be drawn up this path easily. And certainly not by humans. But that was not necessarily a problem, as in the game the convoys were meant to happen by convoy 'carriers' carrying the ore sacks on pack baskets on their backs. 
 
@@ -264,7 +269,7 @@ These details about the original path to the exchange place as well as many othe
 Whether or not the bandits camp did already exist at this point, we do not know for sure, as no screenshots exist, as far as we know. 
 
 
-#### Old Temple Ruins
+##### Old Temple Ruins
 
 With about v0.7, the Old Temple ruins were implemented, of which we do not have any kind of concept art. We do not know if Ralf has ever drawn anything regarding it. It was added to the world later. But at least far earlier still than the Mountain fortress, that only came in the last few months. In the original design, the old temple ruins were hovering at a cliff over the sea, in very mountainous terrain:
 
@@ -277,7 +282,7 @@ The iconic ruins stayed in the game from v0.7 till v0.9, when for reasons unknow
 It was just quite "open" and the player would have been able to enter it early (although the zombies residing there would have done their best to prevent that) which may not have been fitting for what they wanted to do with it in the new, greatly simplified version of the story. But we will not deal with the question here what these ruins have or may have served in the old story; this will be dealt with in the respective story documentation. 
 
 
-### Final World Model
+#### Final World Model
 
 * The ropeway was removed and replaced by a much smaller and more mechanical lift.
 * The cliff was reduced in height.
@@ -286,7 +291,7 @@ It was just quite "open" and the player would have been able to enter it early (
 * The Old Temple Ruins were removed and replaced by the new Monastery Ruins.
 
 
-## Summary
+### Summary
 
 The Northeast has changed a lot in course of development. The ingame implementation lost several of the early ideas:  
 
