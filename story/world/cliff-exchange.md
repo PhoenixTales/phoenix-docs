@@ -347,7 +347,7 @@ Now in this final solution the forest couldn't cover the east of the lake anymor
 
 I could do it by having just a small cleft in the mountains as an influx for the lake at the EP, that the player could mot fit through, or that he would only fit through when diving and finding it broader below (but that wouldn't be believable - it should be smaller below); or he wouldn't be able to pass unless he would be able to grab a ledge and climb out of the water here, which at this height the player shouldn't yet be able to - but that I could keep in mind for later (as a potential way to infiltrate the exchange place). I also could set up wooden palisades there, a sort of dam, to prevent the water from flooding the exchange place and harming the ropeway construction. Or opt for a combination of these, so that before even reaching the potential ledge to climb on, he would have to dive through a hole in the dam, but that would require better diving skills. 
 
-In the same way I also had to think about what would happen when the player would just swim towards the waterfalls instead. I decided that due to several rocks at the bottom it should be very hard to survive the wall, but not impossible. 
+In the same way I also had to think about what would happen when the player would just swim towards the waterfalls instead. I decided that due to several rocks at the bottom it should be very hard to survive the fall, but not impossible. 
 
 ---
 
@@ -365,14 +365,14 @@ That said, the area from Ralfs concepts can very well co-exist to the area as it
 
 According to the concept, the lift would be placed close to the exchange place. While the lift may be Ralfs (wrong) interpretation of the ropeway, which was serves this concept of exchange already, the lift does not really have a reason to exist. But as I just liked the idea and do not want to get rid of the concept, I still decided to include it. As it doesn't have to and shouldn't be used in the same context as the ropeway, it just could be used in a different context. 
 
-It may not connect the outside world to the colony, as the ropeway is doing so, but it can still be a sort of ore lift and it can even appear at the "same" location, or to be more precise rather the "equivalent" location in the layout as implemented from 0.7 onwards. 
-
 And by the way, something like this ore lift by Ralf, with a counterbalance, is also mentioned a few times in the Gothic novel, by which the protagonist can leave from a dungeon deep down very fast - an idea which absolutely should be utilised in the game at several locations in order to make the backtraveling from all the dungeons easier. Since according to the original concept, the orc caves will only be accessible by first going through the mines, the temple again would be below the orc caves; so the player is always in need to go through all of these dungeons to reach the deeper levels, and Alex Wittmann in the novel, knowingly or unknowingly, has provided us with an actual useful gameplay mechanic to deal with this. An important puzzle piece in the metroidvania like underground design I wanted to realise. 
 {: .subtext}
 
-Since, as mentioned further above, we can interpret the bridge that leads to the other mining sites in the west of the Abandoned Mine, as being a later version and realisation of the tree in front of the waterfall that would lead to the lift, we ought to implement the lift behind this bridge. 
+It may not connect the outside world to the colony, as the ropeway is doing so, but it can still be a sort of ore lift and it can even appear at the "same" location, or to be more precise rather the "equivalent" location in the layout as implemented from 0.7 onwards. 
 
-Either directly behind it, in the middle of this place, leading down into another part of the Abandoned Mine, or behind one of the blocked mine entrances (one of which may as well be just a passage way through the mountains). And if so - what is on the other side of the mountain? Quentins camp, the supposed to be hidden camp of the rogues, renegades from the New Camp. 
+Since, as mentioned further above, we can interpret the bridge that leads to the other mining sites in the west of the Abandoned Mine, as being a later version and realisation of the concept art of the tree in front of the waterfall that would lead to the lift, we ought to implement the lift somewhere behind this bridge. 
+
+Such as behind one of the blocked mine entrances (one of which may as well be just a passage way through the mountains). And if so - what is on the other side of the mountain? Quentins camp, the supposed to be hidden camp of the rogues, renegades from the New Camp. And where is it in relation to the EP? In the southwest. A perfect fit.
 
 
 ## Quentins Camp
