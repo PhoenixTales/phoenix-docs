@@ -56,9 +56,7 @@ What is not yet known and has been overlooked so far by alpha research, is that 
 
 > *dream to take one night the cliff by storm*
 
-This dream implies, that overcoming the *cliff* would enable them to escape. It also implies, that it was then supposed to be heavily guarded. And it means, that the guild system v1 is older than the idea of the barrier. In this earliest concept, described in the [Orpheus history](https://media.gothicarchive.org/documents/orpheus/Orpheus-B-Scribbles.pdf), *the revolt* had taken place (mainly motivated by the threat through the monsters that the wardens did not protect them from) and the royal forces were only able to stop them at the *cliff*. From then on, the prison was under the control of the prisoners. 
-
-But it wouldn't take long to the invention of the barrier.
+This dream implies, that overcoming the *cliff* would enable them to escape. It also implies, that it was then supposed to be heavily guarded. It wouldn't take long to the invention of the barrier; in the escape plan position of other guilds in the document, the barrier is already mentioned. But in the earliest notes it was indeed not yet around. In the earliest known concept, described in the [Orpheus history](https://media.gothicarchive.org/documents/orpheus/Orpheus-B-Scribbles.pdf), *the revolt* had taken place (mainly motivated by the threat through the monsters that the wardens did not protect them from) and the royal forces were only able to stop them at the *cliff*. From then on, the prison was under the control of the prisoners, before any talk of a barrier. 
 
 
 ### Maps of the Art Director
