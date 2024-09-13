@@ -6,7 +6,7 @@ Written: 15.08.2024 - 13.09.2024
 ```
 {: .info }
 
-This document contains an analysis of the development history of the entire northeastern environment of the colony (as the northeast we define everything north of the northern river and east of the troll canyon) as well as our overhaul of the territory in Phoenix based on our findings. Namely we are dealing with the level design of...
+This document contains an analysis of the development history of the entire northeastern environment of the colony as well as our overhaul of the territory in Phoenix based on our findings. Namely we are dealing with the level design of...
 * The Cliff of the Damned
 * The Exchange Place
 * The Northern Forest
@@ -14,6 +14,8 @@ This document contains an analysis of the development history of the entire nort
 * The Abandoned Mine
 * The Bandits Camp
 * The Old Temple Ruins
+
+Definition: As the northeast we define everything north of the northern river and east of the troll canyon.
 
 Some of the background story of these locations may be mentioned in course of this document in so far as they are of importance for design decisions; but the locations will be dealt with in regard to their lore or their relevance for the story mainly in the other, respective sections of the documentation.  
 {: .subtext }
@@ -53,7 +55,7 @@ This dream implies, that overcoming the *cliff* would enable them to escape. It 
 But it wouldn't take long to the invention of the barrier.
 
 
-## Mikes Design of the Cliff
+## Maps of the Art Director
 
 It was defined from the start that the *Exchange Place*, originally called *Marketplace*, was directly in the north and on the [first known map sketch](https://media.gothicarchive.org/conceptart/mikehoge/maps/map1.jpg) by Mike the cliff has been positioned north of the marketplace, with a lake below the cliff:
 
@@ -67,7 +69,7 @@ The scribble by which Mike had signified the marketplace on this map (and on his
 
 The player was here not supposed to swim towards the marketplace, but towards the so called northern forest, from which a way (as you see it being drawn through the forest) would lead him to the Abandoned Mine south of the marketplace. Alex Wittmanns Gothic Novel was written with this map layout in mind and even the Gothic Comic (2000) has been made in accordance with this idea, where the marketplace is clearly seperated from the place at which the convicts arrive.
 
-The two locations where still listed in separation in the level design docs of the Phoenix Concept. The cliff was described as *Die Klippe der Verdammnis* (*"Cliff of the Damned"*), as the convicts would be convicted here and damned to a life long prison sentence in the penal colony (some dying in the water). It was meant to be three or four times as high as the cliff in the release version. And from the cliff the player was meant to have an overview almost of the entire colony, as described both in the comic and the novel, where the protagonist could even see the Psi Camp from afar.
+The two locations where still listed in separation in the level design docs of the Phoenix Concept. The cliff was described as *Die Klippe der Verdammnis* (*"Cliff of the Damned"*), as the convicts would be convicted here and damned to a life long prison sentence in the penal colony (some dying in the water). It was meant to be much higher than the cliff in the release version. And from the cliff the player was meant to have an overview almost of the entire colony, as described both in the comic and the novel, where the protagonist could even see the Psi Camp from afar.
 
 ![Cliff in the Comic](/_img/world/cliff-comic.jpg)
 The cliff in the Comic as seen from the edges of the northern forest; a new convict being thrown down the cliff, hitting the water, while the thugs wait for the convict to arrive.
@@ -83,7 +85,9 @@ In his next and the last known map sketch, Mike elaborated his former Orpheus ma
 The cliff marked in red, the forest in green; the arrows in the forest mean to connote a rise in the terrain; it was meant to go upwards here - next to it the marketplace. The Abandoned Mine (VM) more south behind the bridge. In the east the originally imagined position of the stone circle is seen.
 {: .caption }
 
-As already noted above, Mike had signified the marketplace on both of these maps by this scribble of a ropeway, which would be interpreted differently by Ralf. 
+As already noted above, Mike had signified the marketplace on both of these maps by this scribble of a ropeway, which would be interpreted differently by Ralf, the concept artist.  
+
+The Old Temple ruins (Monastery) and the Bandits camp were not yet part of the concept at this point in time and are thus not appearing on Mikes maps. 
 
 
 ## Ralfs Concept Art
@@ -134,10 +138,12 @@ Interpreting what Mike had [drawn unto the draft by Ralf](/_img/world/mikes-feed
 
 In the first world models in the pre-alpha versions of the game, it would roughly be implemented accordingly.  
 
+As for the Old Temple ruins and the bandits camp, they were still no part of the concept. It may be that concept art of the Temple ruins exist, but if so, they haven't been seen by us yet. 
+
 
 ## Pre-Alpha World Models
 
-In v0.56c we can find surface models from january to march 1999. The oldest model of the surface that we have, is from January 4. Here the area in question looked like this:
+In v0.56c we can find surface models from january to march 1999. The oldest model of the surface that we have is from January 4. Here the area in question looked like this:
 
 ![Model-04-01-1999](/_img/world/surface-1999-01-04-details.png)
 
@@ -147,12 +153,12 @@ In the second oldest available model from January 22, the forest was reduced in 
 
 In this version of the map, it is unclear where the Abandoned Mine was supposed to fit. Most likely it was meant to be directly below the exchange place alongside those mountains, as done in later versions too. It may look as if this wouldn't fit there, but the proportions of the map are misleading, since the placeholder structures beyond the barrier are so huge that they let the area within the barrier and around the marketplace look small, while actually there is a lot of space there. 
 
-The entire model was done very roughly and around the camps (which were already much more elaborated, with the Old Camp almost final), in order to get an idea. A lot of things were bound to change, but at least it had managed to preserve the overall layout of Mikes concepts.
+The old temple ruins and the bandits camp did not yet exist. The entire model was done very roughly and around the camps (which were already much more elaborated, with the Old Camp almost final), in order to get an idea. Most of the model should be interpreted as nothing but a "dummy" and in some cases, it is even named like that (such as the "dummy meer" (dummy sea) or mountains. A lot of things were bound to change, but at least it had managed to preserve the overall layout of Mikes concepts.
 
 
 ## Alpha World Models
 
-In about v0.7, the whole mountain terrain in the north was modeled with a very steep rise in the terrain. The exchange place was now looking like this:
+In about v0.7, the surface was actually modeled out in a huge update of the world into an overall shape that it would keep until release. The whole mountain terrain in the north was now modeled with a very steep rise in the terrain. The exchange place was now looking like this:
 
 ![Exchange Place v0.7](/_img/world/cliff-07.png)
 
@@ -160,7 +166,9 @@ It is here, that for the first time the ropeway appears, that players would know
 
 At first the lake at the exchange place was simply designed as a lake in a basin of mountainous terrain, with no room between the lake and the mountains. There was not meant to be any kind of storage or a camp here and there was also no room for it. Only (in another subversion of 0.7) a wooden platform has been added; where the convicts could stand on and handle the exchange alongside a platform above that the royals would use. 
 
-The convicts would bring the ore to this place, once every month, they would receive their goods from the outside world and deliver their ore by using those gondolas on the ropeway, then bring the goods to the Old Camp. In the Comic this process is shown in connection with a carriage and horses, but still - there is no storage here and no reason for it.
+[add image]
+
+The convicts would bring the ore to this place once every month, they would receive their goods from the outside world and deliver their ore by using those gondolas on the ropeway, then bring the goods to the Old Camp. In the Comic this process is shown in connection with a carriage and horses, but still - there is no storage here and no reason for it.
 
 Accordingly there also was no gate to protect the exchange place, as there was nothing to protect (other than the ropeway itself); there was no ore here obviously, as it was all delivered outside and there were no goods from the outside world here either, as they were all brought to the camp. In the initial concept, the Free Camp was also meant to use the exchange place (e.g. at night; if with or without the knowledge of the Old Camp), so it was not meant to be exclusively used by the OC. 
 
@@ -184,17 +192,17 @@ For a long time it has been speculated what the big hole in the mesh was meant t
 
 [include screen]
 
-If this passage was just meant to connote some collapsed mine, it would not have been modeled the way it has been. In case of any other area in the world, such a collapsed passage way was closed, but this passage stayed open. It was simply a hole in the mesh, thereby clearly telling us that either there should have been modeled something more here later or that something was removed here that was there before. 
+If this passage was just meant to connote some collapsed mine, it would not have been modeled the way it has been. In case of any other area in the world, such a collapsed passage way was closed, but this passage was open. It was simply a hole in the mesh, thereby clearly telling us that either there should have been modeled something more here later or that something was removed here that was there before. 
 
 It was therefore mostly speculated that it may have been an original, bigger entrance to the Abandoned Mine, although we have nothing supporting this idea other than it being close to the mine. 
 
-I want to express the idea here, that this passage could actually have been or be supposed to become the realisation of the cliff, where the player would have fallen into a lake, separated from the one at the exchange place and swim out of the lake to exit this place through a passage in the mountain wall. 
+I want to express the ide, that this passage could actually have been - or has been supposed to become - the realisation of the cliff, where the player would have fallen into a lake separated from the one at the exchange place and swim out of the lake to exit this place through a passage in the mountain wall. 
 
-While this is not exactly how Mike may have had envisioned it, it is exactly how Ralf has drawn it - and we know that Ralf was fully aware of the hardware limitations and that he made his concepts with this in mind. He always tried to offer solutions on his concepts how to realise specific ideas inspite of the technical limitations, often rather underestimating what the hardware would be capable to do and eering on the safer site. This is the very reason that all of his locations and his whole colony design is so much surrounded by huge mountains running almost vertically up, isolating many of the locations for reasons of rendering. The actual level designers have taken these concepts as inspiration but took the freedom to model the mountains more organically, as it was sufficient to block the view port.
+While this is not exactly how Mike may have had envisioned it at first, it is exactly how Ralf has drawn it - and we know that Ralf was fully aware of the hardware limitations and that he made his concepts with this in mind. He always tried to offer solutions on his concepts how to realise specific ideas inspite of the technical limitations, often rather underestimating what the hardware would be capable to do and staying on the safer site. This is the very reason that all of his locations and his whole colony design is so much surrounded by huge mountains running almost vertically up, isolating many of the locations. It was for reasons of rendering. The actual level designers have taken these concepts as inspiration but took the freedom to model the mountains more organically, as it was sufficient to block the view port.
 
 Due to the technical limitations at the time it may have made sense to put a mountain wall in front of the lake; the cliff could still hover past it. The mysterious hole we speculated about for so long could thus actually have been the place through which the player should exit the lake to arrive at this plateau; where, when the early concepts would have been followed, the northern forest should begin, which would then have been in accordance even with Mikes Orpheus map, where the cliff is in the east of the exchange place and where the Abandoned Mine and the path to the exchange place is running along at the west of the forest. 
 
-It remains speculation. We do not know if it was ever implemented like this, but we consider it to be the most likely explanation for the hole in the mesh. It may have been discarded before realising it, opting for the later solution where Cliff and Exchange Place are combined. This may have happened because the model of the exchange place, that may have been done first, was so well received that it seemed like a good decision, it may have been due to technical reasons, as the entire colony overview through the separatd cliff may have been too much; we don't know. But we know that in opposition to how it may seem at first sight and inspite of the many differences to the very early pre-alpha models of the world, the idea of a separated cliff could be realised in the 0.7 model easier than one might imagine - while the combination with a northern forest and the connection to the sea remain difficult to solve and seem indeed to have been discarded at this point.
+It remains speculation. We do not know if it was ever implemented like this, but we consider it to be the most likely explanation for the hole in the mesh. It may have been discarded before realising it, opting for the later solution where Cliff and Exchange Place are combined. This may have happened because the model of the exchange place, that may have been done first, was so well received that it seemed like a good decision, it may have been due to technical reasons, as the entire colony overview through the separated cliff might have been too much; we don't know. But we know that in opposition to how it may seem at first sight and inspite of the many differences to the very early (dummy) pre-alpha models of the world, the idea of a separated cliff could be realised in the 0.7 model easier than one might imagine - while the combination with a northern forest and the connection to the sea remain difficult to solve and seem indeed to have been discarded at this point.
 
 ---
 
@@ -204,7 +212,7 @@ The Abandoned Mine did now find its place in the world in 0.7 for the first time
 
 ![AM v0.7 Screen 1](/_img/world/AM-07-1.jpg)
 
-But it could be as well, as the second screenshot from the same or a similar version shows, that it may have just been this west side of the model that was looking differently at the point; in a subversion we can see how the east side of the mine has already received its final design: 
+But it could be as well, as the second screenshot from the same or a similar version shows, that it may have just been this west side of the model that was looking differently at the point; in a sub-version we can see how the east side of the mine has already received its final design: 
 
 ![AM v0.7 Screen 1](/_img/world/AM-07-2.jpg)
 
@@ -224,19 +232,36 @@ Here as well as on a number of similar screenshots you can see how there was no 
 On this screenshot the original path through the mountains (instead of at the outside of the mountain wall) can still be seen in the background. 
 {: .caption }
 
-All of these details about changes in the world model in different versions were found by us, namely Dmitriy, Vaana and Flosha, in course of many years of research in between 2015 to 2018, long before we did have any access to alpha versions containing said world models. As mentioned above, some of them we still have not received any copies of. 
+These details about the original path to the exchange place as well as many other differences in the development history were found by us, namely Dmitriy, Vaana and Flosha, in course of years of research in between 2015 to 2018, long before we did have any access to alpha versions containing said world models. As mentioned above, some of them we still have not received any copies of. 
 {: .info }
+
+Whether or not the bandits camp did already exist at this point, we do not know. 
+
+
+#### Old Temple Ruins
+
+...
+
+
+### Final World Model
+
+* The ropeway was removed and replaced by a much smaller and more mechanical lift.
+* The cliff was reduced in height.
+* A sort of camp and storage was added to the exchange place as well as a gate to protect it. 
+* The original path from the exchange place was removed and replaced by a path at the outside of the mountain wall, which made sense at least from an aesthetical perspective as it offered the player a good view into the valley.
+* The Old Temple Ruins were removed and replaced by the Monastery Ruins.
 
 
 ## Summary
 
-The Cliff as well as the exchange place have changed a lot throughout development. The ingame implementation lost several of the early ideas:  
+The Northeast has changed a lot in course of development. The ingame implementation lost several of the early ideas:  
 
-* There was no longer a connection of the water/lake below the cliff to the sea, nor was there any waterfall or river that would explain the water in the lake, nor did it have any outflow. This affected the overall feeling as well as the believability of the terrain, giving it a less organic and less "wild" appearance than it could have had.
+* There was no longer a connection of the water/lake below the cliff to the sea, nor was there any waterfall or any other  influx or outflow of the water. This affected the overall atmosphere as well as the believability of the terrain, giving it a less organic and less "wild" appearance than it could have had.
 * The connection to the northern forest was lost - and the northern forest itself has been removed, inspite of its dominant role in all map concepts, pre-alpha models and the novel, where the Abandoned Mine has always been imagined close to a forest; and an early forest exploration (of course a less dangerous one for the start of the game, which makes sense due to how highly frequented it is) would have served the gothic atmosphere well. 
 * The player could not see the colony from the cliff, as it was initially planned and described in the Comic and the Novel; although a similar sceneric view was offered later on the bridge, the original view from the cliff itself, from where even lights from the Psi Camp should have been seen, was lost.
-* The later implemented cliff at the exchange place was also very low in comparison to the originally imagined cliff, which was meant to be higher and induce more fear of the fall; another aspect connected to that which also has been lost and which follows from the inability to overlook the colony from the cliff, was that the cliff was meant to hover menacingly over the valley like a memorial to remember everyone of their brutal conviction.   
-* The ropeway that has always been planned by Mike and was implemented well in v0.7, has been removed in the release version; and while the ropeway may have been a more believable solution for the exchange place than the lift by Ralf, the idea of the lift was thereby also discarded.
+* The later implemented cliff at the exchange place was also very low in comparison to the originally imagined cliff, which was meant to be higher and induce more fear of the fall
+* Another aspect connected to that which also has been lost and which follows from the inability to overlook the colony from the cliff, was that the cliff was meant to hover menacingly over the valley like a memorial to remember everyone of their brutal conviction.   
+* The ropeway that has always been planned by Mike and was implemented well in v0.7, has been removed in the release version; and while the ropeway may have been a more believable solution for the exchange place than the lift by Ralf, the idea of the lift was thereby also lost.
 * This also affected the design of the Abandoned Mine, which was discarded in the form that Ralf had imagined it. 
 
 
@@ -246,7 +271,10 @@ Flosha, 12.09.2024 - 13.09.2024
 
 I want to clarify at first, that I did not want to get rid of the general design of the terrain of the exchange place and the Abandoned Mine from the Alpha versions, as the design of this terrain is both very good and it is the *only* and thereby the *first and last* ingame implementation of the exchange place and the Abandoned Mine.
 
-As for changes, at first I reconstructed the iconic ropeway from v0.7, which Mike had envisioned from the very start and which is not just a visual improvement or a change motivated by nostalgia, but the way that the ropeway is setup also makes it more believable that it was constructed after the creation of the barrier in a joint effort from within and outside the barrier by pulling and pushing the central pillar up, stabilised by thick ropes; it simply makes sense based on its construction. Remodeling it was easy enough and did not involve too much effort. By doing so I realised that the rock faces on which the lift has been placed must have been higher in v0.7 than it was in the release version and adjusted it accordingly. 
+
+### Exchange Place
+
+At first I reconstructed the iconic ropeway from v0.7, which Mike had envisioned from the very start and which is not just a visual improvement or a change motivated by nostalgia, but the way that the ropeway is setup also makes it more believable that it was constructed after the creation of the barrier in a joint effort from within and outside the barrier by pulling and pushing the central pillar up, stabilised by thick ropes; it simply makes sense based on its construction. Remodeling it was easy enough and did not involve too much effort. By doing so I realised that the rock faces on which the lift has been placed must have been higher in v0.7 than it was in the release version and adjusted it accordingly. 
 
 I then thought about how, while preserving the above mentioned terrain and setup, I could at the same time include...
   * a potential separate cliff with another, connected lake and how this lake could have a connection to the sea 
@@ -257,11 +285,10 @@ And especially: How I could realise all of this inspite of the Old Temple (Monas
 
 ### Northern Forest Implementation
 
-
 #### Attempt 1 
 
-The northern forest I had first implemented in a smaller form by changing the terrain in the north of the river but without any kind of translation in the terrain, which I thought was way too much work to pull off. This way the forest really connected to the Abandoned Mine - so I tried to solve this by including a second, lower entrance at the bottom of the mountain instead. And in order to make this forest more special I came up with a tricky hack by which I could let a side stream of the river flow "through" the forest - or at least create the illusion that it does -, which is very problematic from a technical side.
-This way I realised a forest in the north without any need to change much of the mountainous terrain leading to the exchange place and I did spend at least 50 hours on this solution. But the forest was much smaller than the one known from v0.56c and v0.64b there was no lake. I had a forest in the north now, but realised almost nothing of the initially conceived progression of the player that should arrive here from the river. In the end, the work was in vain. 
+The northern forest I had first implemented in a smaller form by changing the terrain in the north of the river but without any kind of translation in the terrain, which I thought was way too much work to pull off. This way the forest was not be connected to the Abandoned Mine - so I tried to solve this by including a second, lower entrance at the bottom of the mountain instead. And in order to make this forest more special I came up with a tricky hack by which I could let a side stream of the river flow "through" the forest - or at least create the illusion that it does -, which is very problematic from a technical side.
+This way I realised a forest in the north without any need to change much of the mountainous terrain leading to the exchange place and I did spend at least 50 hours on this solution. But the forest was much smaller than the one known from v0.56c and v0.64b there was no lake. I had a forest in the north now, but realised almost nothing of the initially conceived progression of the player that should arrive here from the river. In the end, the work was mostly in vain.
 
 
 #### Attempt 2
@@ -274,41 +301,55 @@ I was very reluctant to do that since such a translation means that all the obje
 
 So I translated the entire northeastern terrain +200 on the global Y axis to create additional space where the forest and lake would fit. 
 
-In this solution, the forest had the same size as in the pre-alpha builds and so had the lake that was to be connected to the sea. But then there still were the mountains. The forest and the lake were still completely disconnected from the northern terrain and the level of the water at the lake was exactly as in the pre-alpha builds, not much higher than the sea. In course of this approach I modeled a cliff exactly where it was apparently meant to be in the pre-alpha models. But then he would fall unto mountains... So I did let the lake run further into a sort of cave in the mountains with an opening at the top that the player would fall into. He would then have to swim through this cave through a cleft in the wall and towards the northern forest. This photo served as an inspiration for this approach and it actually would have been very atmospheric: 
+In this solution, the forest had the same size as in the pre-alpha builds and so had the lake that was to be connected to the sea. But then there still were the mountains. The forest and the lake were still completely disconnected from the northern terrain and the level of the water at the lake was exactly as in the pre-alpha builds, not much higher than the sea, because I hadn't realise the intended rise in the terrain. 
+
+In course of this approach I modeled a cliff exactly where it was apparently meant to be according to the dummy models of the pre-alpha models. But then he would fall unto mountains... So I did let the lake run underground into a sort of cave in the mountains with an opening at the top that the player would fall into. He would then have to swim through this cave through a cleft in the wall and towards the northern forest. This photo served as an inspiration for this approach and it actually would have been very atmospheric: 
 
 [include photo]
 
 But it was all very made up. And since the lake was on the same level as it was in the pre-alpha versions, it had to somehow flow around the Monastery Ruins that were exactly inbetween the lake and the sea. Should I now try to relocate them too? 
-I tried to keep the ruins at their original position and let the water from the lake behind the forest flow around it and down into the sea. At least in the north of the temple the terrain even seemed to suggest such a potential use. But it also meant that I had to remove the entire mountain wall west of the monastery, as well as the mountains north of it. I did so and it could have worked, but I was not satisfied, as it seemed like a compromise. The opposite of our uncompromising design approach. 
+I preferred and tried to keep the ruins at their original position and let the water from the lake behind the forest flow around it and down into the sea. At least in the north of the temple the terrain even seemed to suggest such a potential use. But it also meant that I had to remove the entire mountain wall west of the monastery, as well as the mountains north of it. I did so and it could have worked, but I was not satisfied, as it seemed like a compromise. The opposite of our uncompromising design approach. 
 
 It got rid of some of the desired atmosphere of the temple while at the same time corrupting the desired atmosphere of the lake and the water flowing down there. Instead of improving upon both, it made both worse. Which is why I started to contemplate in earnest about a possible relocation of the monastery ruins.
 
-What I totally miscalculated with this second approach were the proportions. I designed it all based on maps and views in Blender and as if the proportions of the lake and the position of the cliff in the pre-alpha builds would be reasonable to follow. Only when testing it ingame I realised how much bigger all of this was than I imagined it to be while looking at it in the 3D programme. The northern lake in the pre-alpha versions as well as the suggested position of the cliff were of course nothing but very rough dummy models, but they also had heavily exaggerated proportions. It was not a viable approach to orient myself at them for the design of the territory.
+What I totally miscalculated with this second approach were the proportions. I designed it all based on maps and views in Blender and as if the proportions of the lake and the position of the cliff in the pre-alpha builds would be reasonable to follow. When testing it ingame I realised how much bigger all of this was than I imagined it to be while looking at it in the 3D programme. The northern lake in the pre-alpha versions as well as the suggested position of the cliff were of course nothing but very rough dummy models, but they also had heavily exaggerated proportions. It was not a viable approach to orient myself at them for the design of the territory.
 
 What this approach also missed based on the pre-alpha model, where everything was still flat, was how originally the forest was meant to be *part* of the rise in the terrain towards the cliff. I missed this and did not connect the dots.
 
 All of my problems with the monastery ruins I had could have been avoided when realising this and the implications of it earlier. 
 
 
-#### Approach 3
+### Final solution
 
 Now I had implemented the forest already *twice*, in two different approaches and a lot of this work has been in vain. 
 
-How I could actually solve these design problems and combine all of the desired ideas, I realised only upon the deep analysis in the document at hand. 
+My approaches were too isolated. The entire northeast had to be looked at as a whole, but I couldn't, it was simply a task too complicated and apparently impossible to solve and so opted for viewing single aspects of the northeast in isolation, such as the forest and the lake. A real solution, if it would even be possible, would have to take everything into account. Therefore I decided to stop any further experimentation and considered a more thorough analysis as the priority, which this document is the result of. Only through the deep analysis in the document at hand, I realised how I could actually solve these design problems and combine all of the desired ideas.
 
-Based on this research I realised, that when I followed the concepts more radically, I would not have needed to make more room (at least not as much) between the river and the exchange place (although increased room may still be necessary if I would want to make room for the increased distance between the Old Camp and the river with the bridge known from the pre-alpha models).
+Mainly by the revelation in regard to the hole in the mesh above the AM, how that could be connected another lake, which I could connect to the one at the exchange place, and how the plateau behind that passage could thud be the actual point of arrival and the place where the northern forest should begin. 
 
-What I actually would have needed to do is to place the exchange place a bit further down (a bit closer to the sea level), thereby removing most of the mountain terrain around the path leading down into the valley; there would still have to be a rise in the terrain, but it would even out a lot more and be less steep. By implementing the northern forest I would become able to let it rise towards the cliff (as Mike had suggested it on his sketch), thereby distributing this rise more evenly. 
+I realised, that when I thereby followed the concepts more radically, I would not even be in need to make more room (at least not as much) between the river and the exchange place due to the forest and the lake, because it was not about realising them in seperation to the mountainous terrain towards the Abandoned Mine, but basically on top of or inspite of this terrain. <!-- (although increased room may still be necessary if I would want to make room for the increased distance between the Old Camp and the river with the bridge known from the pre-alpha models)-->.
 
-Instead of walking from the exchange place down the path arriving at the Abandoned Mine, the player would arrive at the forest instead. 
-The forest would reach to where from at least 0.8 onwards there was the plateau in the northwest of the Abandoned Mine; this plateau and some mountains is basically the only thing that would disappear; or rather: The forest would be covering it, all the way towards the river north of the Old Camp.  
+<!-- What I actually would have needed to do is to place the exchange place a bit further down (a bit closer to the sea level), thereby removing most of the mountain terrain around the path leading down into the valley;-->
 
-If the terrain would thereby be positioned deeper, we would have room for the seperate cliff here with a very sceneric view over the entire colony, while the view from the exchange place would be the same as known - almost.
-Because there would have to be a waterfall here, at the exchange place, or higher up in the mountains west of it, that would on one hand flow into the lake at the exchange place, but then also (in a very organic way and in form of several steps), flow down into the southwest (south from the perspective of the exchange place), north of the forest but south of the cliff. And from here this water would then again flow down in one or two wide steps/waterfalls towards the ocean. 
+The forest *itself* could already begin on an elevated surface and did not have to be very low and close to the river, as it had been done in the dummy models of the pre-alpha builds. It could be higher. And when the forest would be higher and rise up towards the cliff (as Mike had suggested it on his last known map sketch), I would potentially be able to even out the very steep path towards the mine a bit, distributing this rise more evenly. 
+
+So the forest would reach to where from at least 0.8 onwards there was the plateau in the northwest of the Abandoned Mine; this plateau and some mountains is basically the only thing that would "disappear"; or not even that, but rather the forest would be either covering it or begin immediately south of it. And then reach all the way towards the river north of the Old Camp.  
+
+The view from the exchange place would be the same as known at its position preserved. There would have to be a waterfall here, perhaps higher up in the mountains east of it, because based on the height of the hole in the mesh, the water level at the seperate cliff would have to be higher than the one of the exchange place; thus the waterfall had to be east of the exchange place, flowing into the northern lake at the cliff and from there into two directions - east into the lake at the exchange place and west, organically in form of several steps and waterfalls, down towards the sea. 
+
+---
 
 That this water cannot be at the exact same height as the ocean itself and has to flow down in some way and at some point or another, we can consider as something that Mike had to have already in mind, because as the forest terrain was supposed to rise north, it would rise quite a bit up compared to the ocean and the river south of it (that also flows into the ocean), while the water north of it was meant to be not too much lower than the forest, since the convicts should arrive here at the shore.
 
-But the forest being at least a little bit higher than the level of the lake north of it makes sense, as thereby we could steer the way that the player can exit the sea through the level design. As he then could not swim towards the right (east), nor to the west (where he would fall down the waterfalls) nor could he exit the water at any other point of the forest and thereby avoiding the thugs awaiting him - this way through the design of the terrain I could make sure that the player is forced to swim at this very bay and not anywhere else; since our gamestart could not be introduced by a cutscene, as there are none; the player would already play during the conviction himself and thus also had to swim on his own. 
+The forest being at least a little bit higher than the level of the lake north of it makes sense and is something that I had already considered in my second approach, because thereby I could steer the way that the player can exit the sea through the level design. As he then could not swim towards the right (east), nor to the west (where he would fall down the waterfalls) nor could he exit the water at any other point of the forest and thereby avoiding the thugs awaiting him - this way through the design of the terrain I could make sure that the player is forced to swim at this very bay and not anywhere else; since our gamestart could not be introduced by a cutscene, as there are none; the player would "play" the conviction himself and thus also had to swim on his own. 
+
+Now in this final solution the forest couldn't cover the east of the lake anymore as the exchange place would be here. And based on Mikes concepts I wanted the lake at the exchange place and the lake under the cliff to be connected; so there had to be a different way to prevent the player from avoiding the thugs. 
+
+I could do it by having just a small cleft in the mountains as an influx for the lake at the EP, that the player could mot fit through, or that he would only fit through when diving and finding it broader below (but that wouldn't be believable - it should be smaller below); or he wouldn't be able to pass unless he would be able to grab a ledge and climb out of the water here, which at this height the player shouldn't yet be able to - but that I could keep in mind for later (as a potential way to infiltrate the exchange place). I also could set up wooden palisades there, a sort of dam, to prevent the water from flooding the exchange place and harming the ropeway construction. Or opt for a combination of these, so that before even reaching the potential ledge to climb on, he would have to dive through a hole in the dam, but that would require better diving skills. 
+
+In the same way I also had to think about what would happen when the player would just swim towards the waterfalls instead. I decided that due to several rocks at the bottom it should be very hard to survive the wall, but not impossible. 
+
+---
 
 Another very cool aspect regarding the northern forest and the plateau: We should imagine the path alongside the Abandoned Mine towards the Exchange place and the path through the forest towards the cliff as two seperate paths that run parallel to each other, with height differences and one or two connections, such as the place where you can climb up to the plateau. That said, I was not actually in need to reshape the terrain of the plateau; it could remain the elevated area that it was, *within* the forest, thereby making the forest just more interesting and creating additional sceneric views into the colony. The forest didn't have to run down into the valley in one even decline, but can do so in steps that I would connect via serpentine paths. And more so: While the path to the exchange place would be the original path through the mountains from v0.7-0.9, I could actually reuse the path of the release version that ran down at the mountain as a path *within* the forest without even relocating it. Just the mountain behind would be changed, reduced and become part of the forest.  
 
