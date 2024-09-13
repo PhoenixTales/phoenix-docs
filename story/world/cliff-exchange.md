@@ -235,37 +235,54 @@ This way I realised a forest in the north without any need to change much of the
 
 #### Attempt 2
 
-I discarded my first attempt and decided, that in order to implement the forest in its full size from v0.64b as well as the lake behind it, I simply could not avoid to translate the entire mountain terrain that leads up to the AM and EP further into the north, because there was simply not enough space for the forest and the lake. I was very reluctant to do that since such a translation means that all the objects (Vobs) had to be brought over to the new position (the gothic modding community has written a fiddly tool for such a case, but it is a very large area and I had no experience with the tool). And in general it is our approach to avoid any unnecessary changes. But in this case, it just seemed necessary. 
+There simply was no space for the northern forest and the lake, as the mountain range began immediately behind the river. But when compared with the release version, in the pre-alpha models of the world the northern environment did stretch further into the north. 
 
-So I translated the entire northeastern terrain on the Y axis to create additional space where the forest and lake would fit. 
+I discarded my first attempt and decided, that in order to implement the forest in its full size from v0.64b as well as the lake behind it, I simply could not avoid to shift the entire mountain terrain that leads up to the AM and EP further into the north, because there was simply not enough space. 
+
+I was very reluctant to do that since such a translation means that all the objects (Vobs) had to be brought over to the new position (the gothic modding community has written a fiddly tool for such a case, but it is a very large area and I had no experience with the tool). And in general it is our approach to avoid any unnecessary changes. But in this case, it just seemed necessary. 
+
+So I translated the entire northeastern terrain +200 on the global Y axis to create additional space where the forest and lake would fit. 
+
+In this solution, the forest had the same size as in the pre-alpha builds and so had the lake that was to be connected to the sea. But then there still were the mountains. The forest and the lake were still completely disconnected from the northern terrain and the level of the water at the lake was exactly as in the pre-alpha builds, not much higher than the sea. In course of this approach I modeled a cliff exactly where it was apparently meant to be in the pre-alpha models. But then he would fall unto mountains... So I did let the lake run further into a sort of cave in the mountains with an opening at the top that the player would fall into. He would then have to swim through this cave through a cleft in the wall and towards the northern forest. This photo served as an inspiration for this approach and it actually would have been very atmospheric: 
+
+[include photo]
+
+But it was all very made up. And since the lake was on the same level as it was in the pre-alpha versions, it had to somehow flow around the Monastery Ruins that were exactly inbetween the lake and the sea. Should I now try to relocate them too? 
+I tried to keep the ruins at their original position and let the water from the lake behind the forest flow around it and down into the sea. At least in the north of the temple the terrain even seemed to suggest such a potential use. But it also meant that I had to remove the entire mountain wall west of the monastery, as well as the mountains north of it. I did so and it could have worked, but I was not satisfied, as it seemed like a compromise. The opposite of our uncompromising design approach. 
+
+It got rid of some of the desired atmosphere of the temple while at the same time corrupting the desired atmosphere of the lake and the water flowing down there. Instead of improving upon both, it made both worse. Which is why I started to contemplate in earnest about a possible relocation of the monastery ruins.
+
+What I totally miscalculated with this second approach were the proportions. I designed it all based on maps and views in Blender and as if the proportions of the lake and the position of the cliff in the pre-alpha builds would be reasonable to follow. Only when testing it ingame I realised how much bigger all of this was than I imagined it to be while looking at it in the 3D programme. The northern lake in the pre-alpha versions as well as the suggested position of the cliff were of course nothing but very rough dummy models, but they also had heavily exaggerated proportions. It was not a viable approach to orient myself at them for the design of the territory.
+
+What this approach also missed based on the pre-alpha model, where everything was still flat, was how originally the forest was meant to be *part* of the rise in the terrain towards the cliff. I missed this and did not connect the dots.
+
+All of my problems with the monastery ruins I had could have been avoided when realising this and the implications of it earlier. 
 
 
-There simply was no space for the northern forest, as the mountain range began immediately behind the river. But when compared with the release version, in the pre-alpha models of the world the northern environment did stretch further into the north. So in order to implement the northern forest, I had to make room between the northern river and the mountain path towards to exchange place, shifting the entire mountain area further into the north to make room for the forest. 
+#### Approach 3
 
-By implementing the northern forest and thereby increasing the distance between the northern bridge (in front of the Old Camp) and the mountain path towards the valley, I also would become able to decrease the steepness of the rise in the terrain towards the exchange place by letting this rise start with the northern forest already (as Mike had suggested it on his sketch), thereby distributing this rise more evenly. 
+Now I had implemented the forest already *twice*, in two different approaches and a lot of this work has been in vain. 
 
+How I could actually solve these design problems and combine all of the desired ideas, I realised only upon the deep analysis in the document at hand. 
 
-### Connection to the Sea
+Based on this research I realised, that when I followed the concepts more radically, I would not have needed to make more room (at least not as much) between the river and the exchange place (although increased room may still be necessary if I would want to make room for the increased distance between the Old Camp and the river with the bridge known from the pre-alpha models).
 
-But how could I connect the forest when implemented like this (and I did so already - *twice*, in two different approaches - a work that would later turn out to have been at least halfway in vain) to the water that was meant to be connected to the sea?
+What I actually would have needed to do is to place the exchange place a bit further down (a bit closer to the sea level), thereby removing most of the mountain terrain around the path leading down into the valley; there would still have to be a rise in the terrain, but it would even out a lot more and be less steep. By implementing the northern forest I would become able to let it rise towards the cliff (as Mike had suggested it on his sketch), thereby distributing this rise more evenly. 
 
-If following the concepts more radically, I would not have needed to make more room between the river and the exchange place (although this increased room may still be necessary in order to later make room for the increased distance between the Old Camp and the river with the bridge known from the pre-alpha models). What I actually would have needed to do, is to place the exchange place much further down (a bit closer to the sea level), thereby removing most of the mountain terrain around the path leading down into the valley; there would still have to be a rise in the terrain, but it would even out a lot more and be much less steep. 
+Instead of walking from the exchange place down the path arriving at the Abandoned Mine, the player would arrive at the forest instead. 
+The forest would reach to where from at least 0.8 onwards there was the plateau in the northwest of the Abandoned Mine; this plateau and some mountains is basically the only thing that would disappear; or rather: The forest would be covering it, all the way towards the river north of the Old Camp.  
 
-Instead of walking from the exchange place down the path arriving at the Abandoned Mine, the player would arrive at the forest instead.
+If the terrain would thereby be positioned deeper, we would have room for the seperate cliff here with a very sceneric view over the entire colony, while the view from the exchange place would be the same as known - almost.
+Because there would have to be a waterfall here, at the exchange place, or higher up in the mountains west of it, that would on one hand flow into the lake at the exchange place, but then also (in a very organic way and in form of several steps), flow down into the southwest (south from the perspective of the exchange place), north of the forest but south of the cliff. And from here this water would then again flow down in one or two wide steps/waterfalls towards the ocean. 
 
-The forest would then reach to where from at least 0.8 onwards there was the plateau in the northwest of the Abandoned Mine; this plateau and some mountains is basically the only thing that would disappear; or rather: The forest would be covering it, all the way towards the river north of the Old Camp.  
-
-If the terrain would thereby be positioned much deeper, we would have room for the seperate cliff here with a very sceneric view over the entire colony, while the view from the exchange place would be the same as known - almost.
-Because there would have to be a waterfall here, at the exchange place, or higher up in the mountains west of it, that would on one hand flow into the lake at the exchange place, but then also (in a very organic way and in form of several steps), flow down into the southwest (south from the perspective of the exchange place), north of the forest but south of the cliff. And from here this water would then agaim flow down in one or two wide steps/waterfalls towards the ocean. 
-
-That this water cannot be at the exact same height as the ocean itself and has to flow down in some way and at some point or another, we can consider as something that Mike had to have already in mind, because the forest terrain was supposed to rise north, so it would rise quite a bit up compared to the ocean and the river south of it (that also flows into the ocean), while the water north of it was meant to be not too much lower than the forest, since the convicts should arrive here at the shore.
+That this water cannot be at the exact same height as the ocean itself and has to flow down in some way and at some point or another, we can consider as something that Mike had to have already in mind, because as the forest terrain was supposed to rise north, it would rise quite a bit up compared to the ocean and the river south of it (that also flows into the ocean), while the water north of it was meant to be not too much lower than the forest, since the convicts should arrive here at the shore.
 
 But the forest being at least a little bit higher than the level of the lake north of it makes sense, as thereby we could steer the way that the player can exit the sea through the level design. As he then could not swim towards the right (east), nor to the west (where he would fall down the waterfalls) nor could he exit the water at any other point of the forest and thereby avoiding the thugs awaiting him - this way through the design of the terrain I could make sure that the player is forced to swim at this very bay and not anywhere else; since our gamestart could not be introduced by a cutscene, as there are none; the player would already play during the conviction himself and thus also had to swim on his own. 
 
 
 ### Abandoned Mine
 
-With this solution, the path along the Abandoned Mine would still remain as is. It would be the path as drawn on the earliest concepts, leading from the exchange place to the camp at the eastern edges of the northern forest, just in a less steep way. And the Abandoned Mine would then be in the east of the forest, as in Mikes Orpheus map.
+With this solution the path along the Abandoned Mine would still remain as is. It would be the path as drawn on the earliest concepts, leading from the exchange place to the camp at the eastern edges of the northern forest, just in a less steep way. And the Abandoned Mine would then be in the east of the forest, as in Mikes Orpheus map.
 
 As for Ralfs concepts of the mine: The mine was here basically drawn as a path, with rock faces left and right, some broken houses and additional clefts in the mountains leading into the mining sites. The position of it would have been in the west of the exchange place, southwest perhaps, and the path would lead towards the west too; this at least is what his concept of the lift suggests, where we see the direction of the north and an arrow pointing towards the Abandoned Mine in a path to the left. 
 
@@ -273,16 +290,21 @@ Now, in Ralfs concepts, this path is positioned much lower, 80m to be exact, tha
 
 That said, the area from Ralfs concepts can very well co-exist next to the area as it has been implemented. It would just increase the area and serve as additional territory to explore. 
 
-According to the concept, the lift would be placed close to the exchange place. While the lift was Ralfs (wrong) interpretation of the ropeway, which was serving this concept of the exchange already, the lift does not really have a reason to exist. But as I just liked the idea and do not want to get rid of the concept, I still decided to include it. And as it doesn't have to and shouldn't be used in the same context as the ropeway, it just could be used in a different context. It may not connect the outside world to the colony, as the ropeway is doing so, but it can still be a sort of ore lift and it can appear at the very "same" location, at least the "equivalent" location in the layout as implemented from 0.7 onwards. 
+According to the concept, the lift would be placed close to the exchange place. While the lift was Ralfs (wrong) interpretation of the ropeway, which was serving this concept of the exchange already, the lift does not really have a reason to exist. But as I just liked the idea and do not want to get rid of the concept, I still decided to include it. And as it doesn't have to and shouldn't be used in the same context as the ropeway, it just could be used in a different context. It may not connect the outside world to the colony, as the ropeway is doing so, but it can still be a sort of ore lift and it can appear at the "same" location, at least the "equivalent" location in the layout as implemented from 0.7 onwards. 
 
-And by the way, something like this ore lift by Ralf, with a counterbalance, is also mentioned a few times in the Gothic novel, by which the protagonist can leave from a dungeon deep down very fast - an idea which absolutely should be utilised in the game at several locations in order to make the backtraveling from all the dungeons easier. Since according to the original concept, the orc caves will only be accessible by first going through the mines, the temple again would be below the orc caves; so the player is always in need to go through all of these dungeons to reach the deeper levels, and Alex Wittmann in the novel, knowingly or unknowingly, has provided us with an actual useful gameplay mechanic to deal with this.
+And by the way, something like this ore lift by Ralf, with a counterbalance, is also mentioned a few times in the Gothic novel, by which the protagonist can leave from a dungeon deep down very fast - an idea which absolutely should be utilised in the game at several locations in order to make the backtraveling from all the dungeons easier. Since according to the original concept, the orc caves will only be accessible by first going through the mines, the temple again would be below the orc caves; so the player is always in need to go through all of these dungeons to reach the deeper levels, and Alex Wittmann in the novel, knowingly or unknowingly, has provided us with an actual useful gameplay mechanic to deal with this. An important puzzle piece in the metroidvania like underground design I wanted to realise. 
 {: .subtext}
 
 Since, as mentioned further above, we can interpret the bridge that leads to the other mining sites in the west of the Abandoned Mine, as being a later version and realisation of the tree in front of the waterfall that would lead to the lift, we ought to implement the lift behind this bridge. 
 
-Either directly behind it, in the middle of this place, leading down into another part of the Abandoned Mine, or behind one of the blocked mine entrances (one of which may as well be just a passage way through the mountains). And if so - what is on the other side of the mountain? There is Quentins Camp. A highly underdeveloped location, which was implemented late, did not serve any purpose in the story and had no environmental storytelling attached to it either. What if it is just another, more secluded part of the abandoned mine? A very obvious solution. And it may be hidden due to the abandonment of the area; all the entrances to it have long been blocked and in order to make it even more secluded, we should remove the regular path that is leading towards it and has no basis in the concepts or earlier ideas anyway. This way, it becomes actually inaccessible and no one knows where they are hiding, which obiously should be the goal for this hidden bandits camp. 
+Either directly behind it, in the middle of this place, leading down into another part of the Abandoned Mine, or behind one of the blocked mine entrances (one of which may as well be just a passage way through the mountains). And if so - what is on the other side of the mountain? Quentins camp, the supposed to be hidden camp of the rogues, renegades from the New Camp. 
 
-The concept of the Abandoned Mine itself by Ralf, with the broken down huts, can fit somewhere inbetween the mountains here or into the bandit camp area itself. 
+
+## Quentins Camp
+
+Quentins camp was a highly underdeveloped location, which was implemented late, did not serve any purpose in the story and had almosz no environmental storytelling attached to it either. Why shouldn't it be just another, more secluded part of the abandoned mine? A very obvious solution. Then it may be hidden due to the abandonment of the area; all the entrances to it have long been blocked and in order to make it even more secluded, I removed the regular path that is leading towards it and has no basis in the concepts or earlier ideas anyway; this way this northern path is exclusively leading to the troll canyon again, as it originally was; by transforming it into this very wide terrain that would lead both to the canyon as well as to the bandits, did not serve either of them well, nor did it make the camp as a "hidden" location very believable. But by seperating it lime this and connecting it to the Abandoned mine, it becomes actually inaccessible and no one knows where they are hiding, which obiously should be the goal for the bandits hideout. 
+
+The concept of the Abandoned Mine itself by Ralf, with the broken down huts, can fit somewhere inbetween the mountains here or even into the bandit camp area itself. 
 
 ---
 
@@ -311,9 +333,11 @@ At times during the design process and the many experiments with this area I tho
 
 [screen from the gameplay trailer, beach]
 
-In the meanwhile, in course of another experiment including a whole week of modeling work, I had tried to just keep it at the original position and let the water from the lake behind the forest flow around it and down into the sea. At least in the north of the temple the terrain even seemed to suggest such a potential use. But it also meant that I had to remove the entire mountain wall west of the monastery, as well as the mountains north of it. I did so and it could have worked, but I was not satisfied, as it seemed like a compromise. The opposite of our uncompromising design approach. 
+In the meanwhile, in course of another 
+...
+Therefore I was almost opting for the relocation approach.
 
-It got rid of some of the desired atmosphere of the temple while at the same time corrupting the desired atmosphere of the lake and the water flowing down there. Instead of improving upon both, it made both worse. Therefore I was almost opting for the relocation approach.
+...
 
 But at September 12th 2024 when I finally analysed the evolution of the northern environment further in form of the document at hand, to solve the various problems and conflicts I had with this area, it dawned on me, that there could be a third solution. A solution by which the temple could remain at its position and still not be in the way and corrupt the atmosphere and look of the lake. I could solve it through the rise in the forest that I discussed before. 
 
