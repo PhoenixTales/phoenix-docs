@@ -145,23 +145,41 @@ The screenshot also suggested orcs to arrive here. An idea that may not only hav
 
 The actual reason to protect the exchange place and why the gate may make sense would have been due to the New Camp, which could have a strong motivation to destroy the ropeway in order to stop the exchange with the outside world, which is their primary enemy; but there was obviously nothing to rob - nothing but the convoys. 
 
+---
+
 On first sight it may be seem very clear, that the world of v0.7 has alread merged the ideas of the exchange place and the cliff. But as we do not have a copy of this version of the world we cannot say so for sure. In course of months of reflection about the area I found at least a few hints and a possible explanation for how the separated cliff could actually have been implemented in this version of the world. 
 
 For a long time it has been speculated what the big hole in the mesh was meant to be that can be found on the plateau above the entrance to the Abandoned Mine. In later versions this is covered by rocks and there is nothing behind. 
 
-While in theory we could imagine a mixture of this exchange place with a seperate cliff further east, this is very unlikey to be the case - since the early "Old Temple" (later "Monastery ruins") did also appear in this version and so there was no room for any water anymore that the player could have fallen down into from the cliff. Therefore, from version v0.7 onwards, the cliff and the exchange place were merged again into one, as it was on the very first scribble by Mike during the Orpheus conception.
+[include screen]
 
-The position, as far as we know, did not change from here on. The cliff was slightly higher than in the release version, but in both cases the player was unable to see the colony. All the ideas regarding the gamestart with the northern forest (which itself was also removed completely) and the cliff as a separate location, where thereby discarded. 
+If this passage was just meant to connote some collapsed mine, it would not have been modeled the way it has been. In case of any other area in the world, such a collapsed passage way was closed, but this passage stayed open. It was simply a hole in the mesh, thereby clearly telling us that either there should have been modeled something more here later or that something was removed here that was there before. 
 
-The Abandoned Mine did now find its place in the world in 0.7, although originally either the entrance was first modeled only on the right (in the west) or, as the second screenshot from the same or a similar version shows, it may have just been the right side of the model that was looking differently.
+It was therefore mostly speculated that it may have been an original, bigger entrance to the Abandoned Mine, although we have nothing supporting this idea other than it being close to the mine. 
+
+I want to express the idea here, that this passage could actually have been or be supposed to become the realisation of the cliff, where the player would have fallen into a lake, separated from the one at the exchange place and swim out of the lake to exit this place through a passage in the mountain wall. 
+
+While this is not exactly how Mike may have had envisioned it, it is exactly how Ralf has drawn it - and we know that Ralf was fully aware of the hardware limitations and that he made his concepts with this in mind. He always tried to offer solutions on his concepts how to realise specific ideas inspite of the technical limitations, often rather underestimating what the hardware would be capable to do and eering on the safer site. This is the very reason that all of his locations and his whole colony design is so much surrounded by huge mountains running almost vertically up, isolating many of the locations for reasons of rendering. The actual level designers have taken these concepts as inspiration but took the freedom to model the mountains more organically, as it was sufficient to block the view port.
+
+Due to the technical limitations at the time it may have made sense to put a mountain wall in front of the lake; the cliff could still hover past it. The mysterious hole we speculated about for so long could thus actually have been the place through which the player should exit the lake to arrive at this plateau; where, when the early concepts would have been followed, the northern forest should begin, which would then have been in accordance even with Mikes Orpheus map, where the cliff is in the east of the exchange place and where the Abandoned Mine and the path to the exchange place is running along at the west of the forest. 
+
+It remains speculation. We do not know if it was ever implemented like this, but we consider it to be the most likely explanation for the hole in the mesh. It may have been discarded before realising it, opting for the later solution where Cliff and Exchange Place are combined. This may have happened because the model of the exchange place, that may have been done first, was so well received that it seemed like a good decision, it may have been due to technical reasons, as the entire colony overview through the separatd cliff may have been too much; we don't know. But we know that in opposition to how it may seem at first sight and inspite of the many differences to the very early pre-alpha models of the world, the idea of a separated cliff could be realised in the 0.7 model easier than one might imagine - while the combination with a northern forest and the connection to the sea remain difficult to solve and seem indeed to have been discarded at this point.
+
+---
+
+The positioning of the now combined cliff and exchange place, as far as we know, did not change from here on. The cliff was slightly higher than in the release version, but in both cases the player was unable to see the colony. All the ideas regarding the gamestart with the northern forest (which itself was also removed completely) and the cliff as a separate location, where thereby discarded. 
+
+The Abandoned Mine did now find its place in the world in 0.7 for the first time. Originally the entrance may have first modeled only on the right (in the west), as seen here:
 
 ![AM v0.7 Screen 1](/_img/world/AM-07-1.jpg)
 
+But it could be as well, as the second screenshot from the same or a similar version shows, that it may have just been this west side of the model that was looking differently at the point; in a subversion we can see how the east side of the mine has already received its final design: 
+
 ![AM v0.7 Screen 1](/_img/world/AM-07-2.jpg)
 
-While almost nothing of Ralfs ideas for the exchange place (nor for the Abandoned mine) remained (other than getting rid of the water connected to the sea, which does not seem to have been Mikes intention), we could very well interpret the bridge that was added to the Abandoned Mine leading to additional mining sites, as a later version of Ralfs tree between the cracks in the rock faces. Just as in Ralfs idea, the player would have a very sceneric view of at least the Old Camp from this position. 
+While very little of Ralfs visual ideas for the exchange place (and for the Abandoned mine) remained (other than getting rid of the water connected to the sea, which does not seem to have been Mikes intention), we could very well interpret the bridge that was added to the Abandoned Mine, connecting its east and west side, as a later version of Ralfs tree between the cracks in the rock faces. Just as in Ralfs idea, the player would have a very sceneric view of at least the Old Camp from this position. 
 
-And while in the earliest pre-alpha models all the terrain had been completely flat, similar to how Ralf had drawn it, the rise in the terrain in this model (which Mike had suggested on his sketch) was now so steep, that it made it hard to believe that any kinds of wagons could be drawn up this path easily. And certainly not by humans. 
+While in the earliest pre-alpha models all the terrain had been completely flat, similar to how Ralf had drawn it, the rise in the terrain in this model (which Mike had suggested on his sketch) was now so steep, that it made it hard to believe that any kinds of wagons could be drawn up this path easily. And certainly not by humans. 
 
 ![Path to Exchange Place v0.7](/_img/world/path-to-ep-07.jpg)
 This screenshot shows the path up to the exchange place in v0.7X. It did lead from the Abandoned Mine down and through the mountains, ending roughly at the position where later Drax and Ratford would be placed.
@@ -175,7 +193,7 @@ Here as well as on a number of similar screenshots you can see how there was no 
 On this screenshot the original path through the mountains (instead of at the outside of the mountain wall) can still be seen in the background. 
 {: .caption }
 
-All of these details about changes in the world model in different versions were found by us, namely Dmitriy, Vaana and Flosha, in course of many years of research in between 2015 to 2018, long before we did have any access to alpha versions containing said world models. And some of them we still have not found any copies of. 
+All of these details about changes in the world model in different versions were found by us, namely Dmitriy, Vaana and Flosha, in course of many years of research in between 2015 to 2018, long before we did have any access to alpha versions containing said world models. As mentioned above, some of them we still have not received any copies of. 
 {: .info }
 
 
@@ -187,7 +205,7 @@ The Cliff as well as the exchange place have changed a lot throughout developmen
 * The connection to the northern forest was lost - and the northern forest itself has been removed, inspite of its dominant role in all map concepts, pre-alpha models and the novel, where the Abandoned Mine has always been imagined close to a forest; and an early forest exploration (of course a less dangerous one for the start of the game, which makes sense due to how highly frequented it is) would have served the gothic atmosphere well. 
 * The player could not see the colony from the cliff, as it was initially planned and described in the Comic and the Novel; although a similar sceneric view was offered later on the bridge, the original view from the cliff itself, from where even lights from the Psi Camp should have been seen, was lost.
 * The later implemented cliff at the exchange place was also very low in comparison to the originally imagined cliff, which was meant to be higher and induce more fear of the fall; another aspect connected to that which also has been lost and which follows from the inability to overlook the colony from the cliff, was that the cliff was meant to hover menacingly over the valley like a memorial to remember everyone of their brutal conviction.   
-* The ropeway that has always been planned by Mike and was implemented well in v0.7, has been removed in the release version; and while the ropeway was a much better solution fot the exchange place than the lift by Ralf; the idea of the lift was thereby also discarded.
+* The iconic ropeway that has always been planned by Mike and was implemented well in v0.7, has been removed in the release version; and while the ropeway may have been a more believable solution for the exchange place than the lift by Ralf, the idea of the lift was thereby also discarded.
 * This also affected the design of the Abandoned Mine, which was discarded in the form that Ralf had imagined it. 
 
 
