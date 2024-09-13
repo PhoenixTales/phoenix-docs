@@ -88,10 +88,18 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
             3. Western Plateau
             4. Eastern Grasslands
         2. Northern Environment
-            1. Cliff & Exchange Place
-            2. Abandoned Mine Outside
-            3. Old Pass & Troll Canyon
-            4. Hidden Bandits Hideout
+            1. [Northeast](/story/world/northeast) 
+                * Northern Forest
+                * Northern Lake(s)
+                * Cliff of the Damned 
+                * Exchange Place
+                * Abandoned Mine Outside
+                * Hidden Bandits Hideout
+                * Old Temple Ruins
+            2. [Northwest]
+                * Troll Canyon
+                * Old Pass to the North
+                * Old Pass to the West
         3. Western Environment 
             1. New Camp
             2. Rock Cemetary & Tombs
@@ -103,13 +111,14 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
             3. Demontower & Cliffs
             4. Mountain Fortress
         5. Eastern Environment
-            1. Hermit's Valley
-            2. Psi Camp
-            3. FogTower 
-            4. Stone Circle 
-            5. Lighttower
-            6. Beach & SmugglersBay
-            7. Monastery Ruins
+            1. Eastern Shore
+                * Lighttower
+                * Beach & Smugglers Bay
+                * Stone Circle 
+            2. The Swamp
+                * FogTower 
+                * Hermit's Valley
+                * Psi Camp
         6. Colony Revisited (Act 2)
             1. Refugee Camp (Mst)
             2. Infected Mine

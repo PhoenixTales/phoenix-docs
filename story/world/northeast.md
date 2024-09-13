@@ -37,9 +37,10 @@ Some of the background story of these locations may be mentioned in course of th
       2. [Second Approach](#second-approach) (Nov 2023)
       3. [Final Solution](#final-solution) (Sep 2024)
    3. [The Cliff](#the-cliff)
-   4. [Abandoned Mine](#abandoned-mine) 
-   5. [Quentins Camp](#quentins-camp) 
-   6. [The Old Temple](#the-old-temple)
+   4. [Northern Lake(s)](#northern-lakes)
+   5. [Abandoned Mine](#abandoned-mine) 
+   6. [Quentins Camp](#quentins-camp) 
+   7. [The Old Temple](#the-old-temple)
 
 
 
@@ -196,7 +197,8 @@ The screenshot also suggested orcs to arrive here. An idea that may not only hav
 
 The actual reason to protect the exchange place and why the gate may make sense would have been due to the New Camp, which could have a strong motivation to destroy the ropeway in order to stop the exchange with the outside world, which is their primary enemy; but there was obviously nothing to rob - nothing but the convoys. 
 
----
+
+### A Hole in the Mesh
 
 On first sight it may be seem very clear, that the world of v0.7 has alread merged the ideas of the exchange place and the cliff. But as we do not have a copy of this version of the world we cannot say so for sure. In course of months of reflection about the area I found at least a few hints and a possible explanation for how the separated cliff could actually have been implemented in this version of the world. 
 
@@ -210,7 +212,7 @@ It was therefore mostly speculated that it may have been an original, bigger ent
 
 ![Hole above the AM in the game, covered by Stones](/_img/world/hole-above-am.jpg)
 
-On October 28, 2023, I got the idea, that this passage could actually have been - or has been supposed to become - the realisation of the cliff, where the player would have fallen into a lake separated from the one at the exchange place and swim out of the lake to exit this place through a passage in the mountain wall. (Although it took me almost another year to arrive at a full picture for a potential design, as described in the [Phoenix solutions](#phoenix-solutions)).
+On October 28, 2023, I got the idea, that this passage could actually have been - or has been supposed to become - the realisation of the cliff, where the player would have fallen into a lake separated from the one at the exchange place and swim out of the lake to exit this place through a passage in the mountain wall. (Although it took me almost another year to arrive at a full picture for a potential design, as described in the Phoenix section).
 
 While this is not exactly how Mike may have had envisioned it at first, it is exactly how Ralf has drawn it - and we know that Ralf was fully aware of the hardware limitations and that he made his concepts with this in mind. He always tried to offer solutions on his concepts how to realise specific ideas inspite of the technical limitations, often rather underestimating what the hardware would be capable to do and staying on the safer site. This is the very reason that all of his locations and his whole colony design is so much surrounded by huge mountains running almost vertically up, isolating many of the locations. It was for reasons of rendering. The actual level designers have taken these concepts as inspiration but took the freedom to model the mountains more organically, as it was sufficient to block the view port.
 
@@ -218,9 +220,10 @@ Due to the technical limitations at the time it may have made sense to put a mou
 
 It remains speculation. We do not know if it was ever implemented like this, but we consider it to be the most likely explanation for the hole in the mesh. It may have been discarded before realising it, opting for the later solution where Cliff and Exchange Place are combined. This may have happened because the model of the exchange place, that may have been done first, was so well received that it seemed like a good decision. It may have been due to technical reasons, as the entire colony overview through the separated cliff might have been too much; we don't know. But we know that in opposition to how it may seem at first sight and inspite of the many differences to the very early (dummy) pre-alpha models of the world, the idea of a separated cliff could be realised in the 0.7 model easier than one might imagine - while the combination with a northern forest and the connection to the sea remain difficult to solve and seem indeed to have been discarded at this point.
 
----
-
 The positioning of the now combined cliff and exchange place, as far as we know, did not change from here on. The cliff was slightly higher than in the release version, but in both cases the player was unable to see the colony. All the ideas regarding the gamestart with the northern forest (which itself was also removed completely) and the cliff as a separate location, where thereby discarded. 
+
+
+### AM in 0.7-0.9
 
 The Abandoned Mine did now find its place in the world in 0.7 for the first time. Originally the entrance may have first modeled only on the right (in the west), as seen here:
 
@@ -232,7 +235,11 @@ But it could be as well, as the second screenshot from the same or a similar ver
 
 While very little of Ralfs visual ideas for the exchange place (and for the Abandoned mine) remained (other than getting rid of the water connected to the sea, which does not seem to have been Mikes intention), we could very well interpret the bridge that was added to the Abandoned Mine, connecting its east and west side, as a later version of Ralfs tree between the cracks in the rock faces. Just as in Ralfs idea, the player would have a very sceneric view of at least the Old Camp from this position. 
 
-While in the earliest pre-alpha models all the terrain had been completely flat, similar to how Ralf had drawn it, the rise in the terrain in this model (which Mike had suggested on his sketch) was now so steep, that it made it hard to believe that any kinds of wagons could be drawn up this path easily. And certainly not by humans. 
+
+
+### Alpha Path into the Valley
+
+While in the earliest pre-alpha models all the terrain had been completely flat, similar to how Ralf had drawn it, the rise in the terrain in this model (which Mike had suggested on his sketch) was now so steep, that it made it hard to believe that any kinds of wagons could be drawn up this path easily. And certainly not by humans. But that was not necessarily a problem, as in the game the convoys were meant to happen by convoy 'carriers' carrying the ore sacks on pack baskets on their backs. 
 
 ![Path to Exchange Place v0.7](/_img/world/path-to-ep-07.jpg)
 
@@ -251,6 +258,8 @@ On this screenshot the original path through the mountains (instead of at the ou
 
 These details about the original path to the exchange place as well as many other differences in the development history were found by us, namely Dmitriy, Vaana and Flosha, in course of years of research in between 2015 to 2018, long before we did have any access to alpha versions containing said world models. As mentioned above, some of them we still have not received any copies of.
 {: .subtext }
+
+---
 
 Whether or not the bandits camp did already exist at this point, we do not know for sure, as no screenshots exist, as far as we know. 
 
@@ -364,7 +373,7 @@ My approaches were too isolated. The entire northeast had to be looked at as a w
 
 I could solve it by the revelation in regard to the hole in the mesh above the AM, how that could be connected to another lake, which I could connect to the one at the exchange place, and how the plateau behind that passage could thus be the actual point of arrival *and* the place where the northern forest should begin, that should be *part* of this terrain leading down towards the river, and not an isolated, flat forest at the bottom of it. 
 
-I realised, that when I thereby followed the concepts more radically, I would not even be in need to make more room (at least not as much) between the river and the exchange place due to the forest and the lake, because it was not about realising them in seperation to the mountainous terrain towards the Abandoned Mine, but as a part of this terrain. <!-- (although increased room may still be necessary if I would want to make room for the increased distance between the Old Camp and the river with the bridge known from the pre-alpha models)-->.
+I realised, that when I thereby followed the concepts more radically, I would not even be in need to make more room (at least not as much) between the river and the exchange place due to the forest and the lake, because it was not about realising them in seperation to the mountainous terrain towards the Abandoned Mine, but as a part of this terrain. <!-- (although increased room may still be necessary if I would want to make room for the increased distance between the Old Camp and the river with the bridge known from the pre-alpha models)-->
 
 <!-- What I actually would have needed to do is to place the exchange place a bit further down (a bit closer to the sea level), thereby removing most of the mountain terrain around the path leading down into the valley;-->
 
@@ -399,7 +408,7 @@ I could do it by having just a small cleft in the mountains as an influx for the
 In the same way I also had to think about what would happen when the player would just swim towards the waterfalls instead. I decided that due to several rocks at the bottom it should be hard to survive the fall, but perhaps not impossible. 
 
 
-#### Abandoned Mine
+### Abandoned Mine
 
 With this solution the path along the Abandoned Mine would still remain as is. It would be the path as drawn on the earliest concepts, leading from the EP to the camp at the eastern edges of the northern forest (possibly in a less steep way). And the Abandoned Mine too would then be in the east of the forest, as in Mikes Orpheus map.
 
@@ -420,7 +429,7 @@ Since, as mentioned further above, we can interpret the bridge that leads to the
 Such as behind one of the blocked mine entrances (one of which may as well be just a passage way through the mountains). And if so - what is on the other side of the mountain? Quentins camp, the supposed to be hidden camp of the rogues, renegades from the New Camp. And where is it in relation to the EP? In the southwest. A perfect fit.
 
 
-#### Quentins Camp
+### Quentins Camp
 
 Quentins camp was a highly underdeveloped location, which was implemented late, did not serve any purpose in the story and had almost no environmental storytelling attached to it either. Why shouldn't it be just another, more secluded part of the AM? A very obvious solution. Hidden due to the abandonment of the area; all the entrances to it have long been blocked and in order to make it even more secluded, I removed the regular "path" from the release version that is leading towards it and has no basis in the concepts or earlier ideas anyway; this way this northern path is exclusively leading to the troll canyon again, as it originally was; by transforming it into this very wide terrain that would lead both to the canyon as well as to the bandits, did not serve either of them well, nor did it make the camp as a "hidden" location very believable. But by seperating it like this and connecting it to the Abandoned Mine it becomes actually inaccessible and no one knows where they are hiding, which obiously should be the goal for the bandits hideout. 
 
@@ -431,9 +440,7 @@ The concept of the Abandoned Mine itself by Ralf, with the broken down huts, can
 While all of this sounds as if I could thereby not only come much closer to the original concepts but also improve the believability of the terrain in a very organic way, what was with the Old Temple, which was so problematic before, as it was "in the way" of the lake? 
 
 
-#### The Old Temple
-
-12.09.2024
+### The Old Temple
 
 In my second approach to the northern forest and the northern lake, I had tried to somehow combine the temple with this change in the terrain; the temple was located between the lake and the ocean, with the waterfalls (very small ones, as the level of the lake was not that much higher than the level of the ocean) running into the ocean north of it or both north and south of it, with the ruins being placed on a mountain hill inbetween all this water. This could work indeed. While the Old Temple design is much better and more coherent than the ruins of the release version, the terrain in the Alpha that leads towards and surrounds it was still very blank. The water could improve this. 
 
@@ -455,4 +462,5 @@ In this case, at least parts of the rock faces west of the temple ruins could re
 
 Through this solution I could finally solve the puzzle of redesigning the northeastern environment without compromises. I had worked on it, on and off, in search for a solution, for 2 years.
 
-
+But while being sure that this time it would finally work out, I still had to do it. 
+Now!

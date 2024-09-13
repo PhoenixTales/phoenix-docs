@@ -83,6 +83,7 @@
     5. Demons
 5. Locations
     1. Overworld
+		1. [Northeast](/story/world/northeast) 
     2. Underworld
     3. Outside World
     4. Demonworld
