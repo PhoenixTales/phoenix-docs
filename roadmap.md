@@ -1,9 +1,58 @@
 # Phoenix Roadmap
 
 ```
-Last update: 08.09.2024
+Last update: 14.09.2024
 ```
 {: .info }
+
+
+# Roadmap
+
+This page serves the purpose of informing you about the progress of Phoenix: What is done, what still has to be done and what we are currently capable of doing and where progress depends on additional help (also see our [contrib page](https://phoenixthegame.com/contrib)).
+
+Right now Flosha is working alone on the documentation and on the Phoenix build, focused on world modeling. Auronen is working on tools in the background, that are both instrumental for our project and of help for the community at large.
+ 
+
+## Priorities
+
+1. Design Documentation
+2. Modeling - Programming - Animation
+3. Scripting - Spacering
+    1. Starting Routines / NPC Placement
+    2. Guild Plots
+    3. Main Plot
+
+
+### Priority I
+
+Finishing the documentation (analysis and planning) of the world design, the gameplay mechanics and features, animations and music is of the highest priority in order to support and accelerate or even just enable working on these areas and do so most effectively and according to plan.  
+
+
+### Priority II
+
+World Modeling, Programming, Animation, Music: We list these as priority number 2 since all of these areas either are already or could be perfectly worked on simultaneously by different people without interfering with one another. 
+
+**World Modeling:** As long as major parts of the world are under construction, the waynet and waypoints may change (the invisible net of single points that are used to control the positioning and movement of NPCs). It does not make sense to focus on scripting until the world modeling is done. Therefore Flosha is currently focused on the world modeling. He is working on it alone. 
+
+**Programming:** Auronen is working on tools related to compilation and engine injections. Our gameplay features we are planning for Phoenix either are or will be based on this work. 
+
+**Animatiom:** We need someone who has experience with character animation and wants to help us to fix or reconstruct old alpha animations to the new rig, improve current animations and create new animations in regard to completely new movement mechanics. 
+
+**Music:** We currently have no composer actively working on music for Phoenix. Some of the old music has to be remixed, other music has to be created from scratch; background informations and instructions are given. You will fit perfectly if you like both the [Gothic/Alpha Soundtrack](https://gothicarchive.org/music/) as well as ambient music in the style of STALKER ([Example 1](https://m.youtube.com/watch?v=Y0x5UZzX3kQ&pp=ygUSc3RhbGtlciByYXJlIG11c2lj#searching), [Example 2]
+and heavier electronic/industrial music in the style of oldschool shooters like Quake. If you can reproduce music in a similar style and like the idea of a mixture of these - you are highly welcome to contribute. Your work may greatly influence the atmosphere of the Orc Caves, the Ancient Temple and of the City Khorinis. 
+
+
+### Priority III
+
+**Writing:** Story writing in regard to the main plot is currently not needed. But supportive writing such as for ingame books, ambient dialogues, preachings as well as mission/quest ideas are always welcome. In order to contribute in this regard in a way consistent with the phoenix universe, you should read all of our [/vision](/vision/vision), [/lore](/lore/lore) and [/world](/story/world) documentation first. 
+
+**Scripting:** For the above mentioned reasons, no scripting is currently done and scripters are not needed at the moment. 
+
+
+```
+The Colony design takes precedence over the design of the outside world areas and the City design, but since inspiration is a major factor that can motivate and speed up the work, he is working on what is currently most motivating to work on. Switching between the colony design (which is a very restricted work based on our sources) and the city design (where we have a lot of freedom to design what we want) means variety and is a motivating approach. 
+```
+
 
 
 ## What we did so far
