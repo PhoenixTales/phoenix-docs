@@ -2,7 +2,7 @@
 
 ```
 Author: Flosha
-Written: 15.08.2024 - 13.09.2024
+Written: 15.08.2024 - 14.09.2024
 ```
 {: .info }
 
@@ -296,17 +296,19 @@ The Northeast has changed a lot in course of development. The ingame implementat
 * There was no longer a connection of the water/lake below the cliff to the sea, nor was there any waterfall or any other  influx or outflow of the water. This affected the overall atmosphere as well as the believability of the terrain, giving it a less organic and less "wild" appearance than it could have had.
 * The connection to the northern forest was lost - and the northern forest itself has been removed, inspite of its dominant role in all map concepts, pre-alpha models and the novel, where the Abandoned Mine has always been imagined close to a forest; and an early forest exploration (of course a less dangerous one for the start of the game, which makes sense due to how highly frequented it is) would have served the gothic atmosphere well. 
 * The player could not see the colony from the cliff, as it was initially planned and described in the Comic and the Novel; although a similar sceneric view was offered later on the bridge, the original view from the cliff itself, from where even lights from the Psi Camp should have been seen, was lost.
-* The later implemented cliff at the exchange place was also very low in comparison to the originally imagined cliff, which was meant to be higher and induce more fear of the fall
-* Another aspect connected to that which also has been lost and which follows from the inability to overlook the colony from the cliff, was that the cliff was meant to hover menacingly over the valley like a memorial to remember everyone of their brutal conviction.   
-* The ropeway that has always been planned by Mike and was implemented well in v0.7, has been removed in the release version; and while the ropeway may have been a more believable solution for the exchange place than the lift by Ralf, the idea of the lift was thereby also lost.
-* This also affected the design of the Abandoned Mine, which was discarded in the form that Ralf had imagined it. 
+* The later implemented cliff at the exchange place was very low in comparison to the originally imagined cliff, which was meant to be higher and induce more fear of the fall.
+* Another aspect connected to that which also has been lost and which follows from the inability to overlook the colony from the cliff, was that the cliff could hover menacingly over the valley like a memorial to remember everyone of their brutal conviction.   
+* The ropeway that has always been planned by Mike - and was implemented well in v0.7 - has been removed in the release version; and while the ropeway may have been a more believable solution for the exchange place than the lift by Ralf, the idea of the lift was thereby also lost.
+* This also affected the design of the Abandoned Mine, which was discarded in the form that Ralf had imagined it.
 
 
 ## Phoenix Solutions
 
-Flosha, 12.09.2024 - 13.09.2024
+Flosha, 12.09.2024 - 14.09.2024
 
 I want to clarify at first, that I did not want to get rid of the general design of the terrain of the exchange place and the Abandoned Mine from the Alpha versions, as the design of this terrain is both very good and it is the *only* and thereby the *first and last* ingame implementation of the exchange place and the Abandoned Mine.
+
+And it is a viable question to ask, as to *why* the cliff should be separated at all and in which sense that would make it any better. Apart from the dominance of the idea in the concepts and design documents, that give it a high priority according to our *principles of reconstruction*, one should keep in mind that a seperate implementation of the cliff was meant to go along a seperate section of exploration at the gamestart; the player would enter the valley via a different path through the northern forest, with different things to explore, different perspectives to discover and additional stories to be told, as they are mentioned in the Gothic Novel, while the path to the exchange place wouldn't be lost, but still be there and explorable in addition to it. It is in this way that it would be an improvement. Apart from all the interesting interconnections, possible interactions with the convoy and so on. Other than that, in the old story the player would have a reason to visit both the cliff (arrival of new convict(s)) and the exchange place (new convoy) and the AM again in course of the story, thereby approaching the paths from the other direction; all of which did not play a role in the heavily trimmed story of the release version. 
 
 
 ### Exchange Place
@@ -325,8 +327,8 @@ And especially: How I could realise all of this inspite of the Old Temple (Monas
 
 #### First Approach
 
-The northern forest I had first implemented in a smaller form by changing the terrain in the north of the river but almost without touching (or relocating) the mountainous terrain leading to the AM, which I thought was way too much work to pull off. This way the forest was not be connected to the Abandoned Mine - so I tried to solve this by including a second, lower entrance at the bottom of the mountain instead. And in order to make this forest more special I came up with a tricky hack by which I could let a side stream of the river flow "through" the forest - or at least create the illusion that it does -, which is very problematic from a technical side.
-This way I realised a forest in the north without any need to change much of the mountainous terrain leading to the exchange place and I did spend at least 50 hours on this solution. But the forest was much smaller than the one known from v0.56c and v0.64b *and* there was no lake. I had a forest in the north now, but realised almost nothing of the initially conceived progression of the player that should arrive here from the lake. In the end, the work was mostly in vain.
+The northern forest I had first implemented in a smaller form by changing the terrain in the north of the river but almost without touching (or relocating) the mountain terrain leading to the AM, which I thought was way too much work to pull off. This way the forest was not connected to the Abandoned Mine - I tried to solve this by including a second, lower entrance at the bottom of the mountain instead. And in order to make this forest more special I came up with a tricky hack by which I could let a side stream of the river flow "through" the forest - or at least create the illusion that it does -, which is very problematic from a technical side.  
+This way I realised a forest in the north without any need to change much of the mountain terrain leading to the exchange place. I did spend at least 50 hours on this solution. But the forest was much smaller than the one known from v0.56c and v0.64b *and* there was no lake. I had a forest in the north now, but had realised almost nothing of the initially conceived progression of the player that should arrive here from the lake. In the end, the work was mostly in vain.
 
 
 #### Second Approach
@@ -339,7 +341,7 @@ So I translated the entire northeastern terrain on the global Y axis (+200) to c
 
 In this solution, the forest had the same size as in the pre-alpha builds and so had the lake that was to be connected to the sea. But then the mountains were still there and in the way; after all, the cliff was meant to be here north of the lake; but now a large mountain range was north of the lake that was leading to the AM and the Exchange Place. The forest and the lake were still completely disconnected from the northern terrain and the level of the water at the lake was exactly as in the pre-alpha builds, not much higher than the sea, because I hadn't yet realised the intended rise in the terrain. 
 
-In course of this approach I modeled a cliff exactly where it was apparently meant to be according to the dummy models of the pre-alpha models. But then he would fall unto mountains... So I did let the lake run underground into a sort of cave in the mountains. The waterfall from Ralfs concept art was falling into this cave. The cave was partially open at the top so that the player would fall into (but it was way too high. 60 meters, if I recall correctly, although such a fall does not seem as high in third person). He would then have to swim through this cave through a cleft in the wall and towards the northern forest. 
+In course of this approach I modeled a cliff exactly where it was apparently meant to be according to the dummy models of the pre-alpha models. But then he would fall unto mountains... So I did let the lake run underground into a sort of cave in the mountains. The waterfall from Ralfs concept art was falling into this cave. The cave was partially open at the top so that the player could fall into it (but it was way too high. 60 meters, if I recall correctly, although such a fall does not seem as high in third person). He would then have to swim through this cave through a cleft in the wall and towards the northern forest. 
 
 ![Waterfall Cave in Scotland](/_img/world/scotland-waterfall-cave.jpg)
 
@@ -351,7 +353,7 @@ Photos like this one served as inspiration for this "waterfall cave".
 This photo served as an inspiration for the exit out of this cave; the player would have to swim through an opening in the mountain wall that I modeled inspired by this photography. It actually would have been very atmospheric. 
 {: .caption }
 
-But it was all very made up. And since the lake was on the same level as it was in the pre-alpha versions, it had to somehow flow around the Old Temple (Monastery) Ruins that were exactly inbetween the lake and the sea. Should I now try to relocate them too? 
+Since the lake was on the same level as it was in the pre-alpha versions, it had to somehow flow around the Old Temple (Monastery) Ruins that were exactly inbetween the lake and the sea. Should I now try to relocate them too? 
 I preferred and tried to keep the ruins at their original position and let the water from the lake behind the forest flow around it and down into the sea. At least in the north of the temple the terrain even seemed to suggest such a potential use. But it also meant that I had to remove the entire mountain wall west of the monastery, as well as the mountains north of it. I did so. And it could have worked, somehow. But I was not satisfied, as it seemed like a compromise. The opposite of our uncompromising design approach.
 
 ![Second Approach to the Cliff](/_img/world/north-cliff-of-the-damned-and-waterfall.jpg)
@@ -359,11 +361,13 @@ I preferred and tried to keep the ruins at their original position and let the w
 This screenshot shows this second approach of mine; you can see the cliff here, next to Ralfs waterfall idea that was actually leading to the ore lift and the Ruins in front, now without any rock faces west of them, the lake running past it. 
 {: .caption }
 
-It got rid of some of the desired atmosphere of the temple while at the same time corrupting the desired atmosphere of the lake and the water flowing down there. Instead of improving upon both, it made both worse. Which is why I started to contemplate in earnest about a possible relocation of the Old Temple Ruins.
+It got rid of some of the desired atmosphere of the temple while at the same time corrupting the desired atmosphere of the lake and the water that should flow down there. Instead of improving upon both, it made both worse. Which is why I started to contemplate in earnest about a possible relocation of the Old Temple Ruins.
 
 What I totally miscalculated with this second approach were the proportions. I designed it all based on maps and views in Blender and as if the proportions of the lake and the position of the cliff in the pre-alpha builds would be reasonable to follow. When testing it ingame I realised how much bigger all of this was than I imagined it to be while looking at it in the 3D programme. The northern lake in the pre-alpha versions as well as the suggested position of the cliff were of course nothing but very rough dummy models, but they also had heavily exaggerated proportions. It was not a viable approach to orient myself at them for the design of the territory.
 
-What this approach also missed based on the pre-alpha model, where everything was still flat, was how originally the forest was meant to be *part* of the rise in the terrain towards the cliff. I missed this and did not connect the dots. While I liked (and I still like) some of the ideas developed in course of this approach, they weren't lost. The idea of the underground waterfall cave could still be realised; it just hadn't have to be in the context of the Cliff. 
+It was all very made up. Due to the proportions the lake was so big that the player would have to swim a long time towards the Northern Forest, and that just for the pre-alpha lake; with the underground section it became an even longer swimming section and all of this made it less believable. In the original concepts the player was meant to fall from the cliff and the thugs at the shore should have seen him and even be able to fish him out of the water if necessary. This approach realised nothing like that. 
+
+What this approach also missed based on the pre-alpha model, where everything was still flat, was how actually the forest was meant to be *part* of the rise in the terrain towards the cliff. I missed this completely based on the pre-alpha model that I considered as more final than it should be considered as, and Ralf had apparently missed this too, as on his concepts the forest is also presented as a very flat area. While I liked (and I still like) some of the ideas developed in course of this approach, they weren't lost. The idea of the underground waterfall cave could still be realised; it just hadn't have to be in the context of the Cliff. 
 
 All of my problems with the Old Temple Ruins I had could have been avoided when realising this and the implications of it earlier. 
 
@@ -412,7 +416,7 @@ Now in this final solution the forest couldn't cover the east of the lake anymor
 
 With this solution the path along the Abandoned Mine would still remain as is. It would be the path as drawn on the earliest concepts, leading from the EP to the camp at the eastern edges of the northern forest (possibly in a less steep way). And the Abandoned Mine too would then be in the east of the forest, as in Mikes Orpheus map.
 
-As for Ralfs concepts of the mine: The mine was here basically drawn as a path, with rock faces left and right, some broken houses and additional clefts in the mountains leading into the mining sites. Judging by his concept of the lift, where the cardinal direction into the north is marked and a arrow towards the AM points to the left, it seems to suggest a position of this AM passage in the west of the EP, southwest perhaps, and leading westwards too. 
+As for Ralfs concepts of the mine: The mine was here basically drawn as a path, with rock faces left and right, some broken houses and additional clefts in the mountains leading into the mining sites. Judging by his concept of the lift, where the cardinal direction into the north is marked and an arrow towards the AM points to the left, it seems to suggest a position of this AM passage in the west of the EP, southwest perhaps, and leading westwards too. 
 
 Now, in Ralfs concepts, this path is positioned much lower, 80m to be exact, than the cliff, which is not the case with the Abandoned Mine area from 0.7-0.9 that we keep. But just as the Abandoned Mine we know is not just one site, but a collection of several mining sites on both sides of the mountains, the area already suggests, that the Abandoned Mine as a term is the name of an entire terrain of mining sites. 
 That said, the area from Ralfs concepts can very well co-exist to the area as it has been implemented, somewhere deeper down. It would just increase the area and serve as additional territory to explore. 
