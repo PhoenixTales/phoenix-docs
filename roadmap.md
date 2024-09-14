@@ -1,27 +1,97 @@
 # Phoenix Roadmap
 
 ```
-Last update: 08.09.2024
+Last update: 14.09.2024
 ```
 {: .info }
+
+This page serves the purpose of informing you about the progress of Phoenix: What has been done so far, what is currently done, what still has to be done, what we are currently capable of doing and where progress depends on additional help (also see [/contrib](https://phoenixthegame.com/contrib)).
+
+TLDR: Right now Flosha is working alone on the documentation and on the Phoenix build, focused on world modeling. Auronen is working on tools in the background, that are both instrumental for our project and of help for the community at large. Avallach is in the process of fixing our Gothic Archive and improving its performance (it can currently not be updated due to storage problems). <!-- He is doing some supportive research in regard to inspirations of Gothic, but is not actively involved in development at the moment. -->
+
+There is no one else currently at work. A few long-term contributors support us occasionally. 
+
+
+## Short-term Goal
+
+We want to release a first tech demo focused on Item Handling, our Inventory System, our Modular Armour Illusion System and general movement controls in a testlevel. It cannot yet be estimated when this first demo can be published. 
+ 
+
+## Priorities
+
+```
+1. Design Documentation
+2. Modeling - Programming - Animation
+3. Scripting - Spacering - Supportive Writing
+    1. Starting Routines / NPC Placement
+    2. Guild Plots
+    3. Main Plot
+```
+
+### Priority I
+
+Finishing the documentation of our world design, gameplay mechanics and features, animations and music is of the highest priority in order to support and accelerate (or even just enable) the work on these areas and do so most effectively and according to plan.  
+
+
+### Priority II
+
+World Modeling, Programming, Animation, Music: We list these as priority number 2 since all of these areas either are already or could be perfectly worked on simultaneously by different people without interfering with one another. 
+
+**World Modeling:** As long as major parts of the world are under construction, the waynet and waypoints may change (the invisible net of single points that are used to control the positioning and movement of NPCs). It does not make sense to focus on scripting until the world modeling is done. Therefore Flosha is currently focused on the world modeling. He is working on it alone. 
+
+The Colony design takes precedence over the design of the outside world areas and the City design, but since inspiration is a major factor that can motivate and speed up the work, he is working on what is currently most motivating to work on. Switching between the colony design (which is a very restricted work based on our sources) and the city design (where we have a lot of freedom to design what we want) means variety and is a motivating approach. 
+{: .subtext }
+
+**Programming:** Auronen is working on tools related to compilation and engine related stuff. Our gameplay features we are planning for Phoenix either are or will be based on this work. 
+
+**Animation:** We need someone experienced with character animation who wants to help us to fix or reconstruct alpha animations to make them useable with the newer rig, as well as to improve animations and create new animations in regard to new movement mechanics. 
+
+**Music:** We currently have no composer actively working on music for Phoenix. Some of the old music has to be remixed, other music has to be created from scratch; background informations and instructions are given. You will fit perfectly if you like both the [Gothic/Alpha Soundtrack](https://gothicarchive.org/music/) as well as ambient music in the style of STALKER ([Example 1](https://m.youtube.com/watch?v=Y0x5UZzX3kQ&pp=ygUSc3RhbGtlciByYXJlIG11c2lj#searching), [Example 2](https://m.youtube.com/watch?v=gjf_VfZFwRg&list=PLS0H674D7-s7DEhmIzYSE-FxIIe_y-yGQ&index=22&pp=iAQB8AUB))
+and heavier electronic, industrial music in the style of oldschool shooters like Quake. If you can reproduce music in a similar style and like the idea of a mixture of these - you are highly welcome to contribute. <!-- Your work may greatly influence the atmosphere of the Orc Caves, the Ancient Temple and of the City Khorinis. -->
+
+
+### Priority III
+
+**Writing:** Story writing in regard to the main plot is currently not needed. It is done by Flosha.  
+Supportive writing such as for ingame books, ambient dialogues, preachings as well as mission/quest ideas are always welcome. In order to contribute in this regard in a way consistent with the Phoenix universe, you should read all of our [/vision](/vision/vision), [/lore](/lore/lore) and [/world](/story/world) documentation first. 
+
+**Scripting:** For the above mentioned reasons, no scripting is currently done and scripters are not needed at the moment. 
 
 
 ## What we did so far
 
+*work in progress, written by memory*
+
 | Year | Our Work, Focus & Publications |
 |------|--------------------------------|
 | 2016 | The project is started by Flosha under the working title *Nyx*. logx joins the team. Founding of [PhoenixTales](https://phoenixtales.de). Story-writing is started. |
-| 2017 | Flosha re-models the entire Old Camp of the Sequel based on Screenshots. |
-| 2018 | The first version of the story of Act II is completed. |
-| 2019 | We realise the work is impossible to pull off without really being able to comprehend all the material in question. Flosha sets up the Gothic Archive as an internal archive for Phoenix for the sighting of Pre-Release material; he then decides to make it public in form of a website for the community. Arbax joins the team. Pixel by pixel reconstruction of the original Gothic Alpha Ingame Font by Flosha. |
-| 2020 | Release of the [Gothic Archive](https://gothicarchive.org) (v0.5) in March 21th. Gothic v0.56c and v0.64b are handed over to PhoenixTales. We publish the Phoenix Pitch from 1997. We release an updated version of the Gothic MDK. Flosha writes a new website of the project under [phoenixthegame.com](https://phoenixthegame.com) and sets Phoenix to be the new name of the project. It is published at December 24th. [Avallach joins the team?] |
-| 2021 | Flosha [visits Mike Hoge](), who hands over all of his remaining design concepts for digitisation, which Piranha Bytes wanted to throw away. We release them in the archive from march 15th to april 15th. Among them hundreds of unreleased concept arts, handwritten design documents and an entire [Gothic Novel]() by Alex Wittmann, once supposed to be released as an official book. Another former developer sends us the "Phoenix Main Mission" document. Reconstruction of the original Alpha Fonts by Pierre. Creation of diverse lacking transitional textures. Tweaking of the camera perspectives. First attempt to harmonise the Alpha Troll Canyon with a Pass and the "Saturas hill". Mage's Chapel Overhaul. Baron's house overhaul. Arena overhaul. First implementation of the northern forest. The overhaul of the southern environment of the Colony begins. Overhaul of the marketplace. Implementation of a new body & head texture system by Sasha (jr) to enable us to use a more systematic naming scheme and make character individualisation easier. Implementation of FogZones by Pierre. Avallach writes a new Archive backend split in several repos to improve the very long page building loading times and enable a simple download of the Archive | 
-| 2022 | We are given the Story v3.3 documentation and an additional collection of 14 Phoenix documents. They are released in the Archive at June 27th. The Mad Scientists provide us with the [Finster Demo](). We make it work on modern systems and release it in the Archive three months later in Septembre 17th. |
+| 2017 | Flosha re-models the entire Old Camp of the Sequel based on Screenshots. The first guild plots are started to be developed. |
+| 2018 | The first version of the story of Act II is completed. The first rudimentary form of an internal Archive is starting to form. Basic lore development. |
+| 2019 | We realise the work is impossible to pull off without really being able to comprehend all the material in question. Flosha sets up the Gothic Archive as an internal archive for Phoenix for the sighting of Pre-Release material alongside a simple website that didn't found much interest as there were no graphical image links (v0.1 to v0.4); he then decides to make it public in form of a new website for the community including the graphical navigation (v0.5). Arbax joins the team [?] as a supportive writer. Pixel by pixel reconstruction of the original Gothic Alpha Ingame Font by Flosha. |
+| 2020 | Release of the [Gothic Archive](https://gothicarchive.org) (v0.5) in March 21th. Gothic v0.56c and v0.64b are handed over to PhoenixTales. We publish the Phoenix Pitch from 1997. We release an updated version of the Gothic MDK. Flosha writes a new website of the project under [phoenixthegame.com](https://phoenixthegame.com) and sets Phoenix to be the new name of the project. It is published at December 24th. Avallach joins [?] |
+| 2021 | Flosha [visits Mike Hoge](), who hands over all of his remaining design concepts for digitisation, which Piranha Bytes wanted to throw away. We release them in the archive from march 15th to april 15th and in the following year. Among them hundreds of unreleased concept arts, handwritten design documents and an entire [Gothic Novel]() by Alex Wittmann, once supposed to be released as an official book. Another former developer sends us the "Phoenix Main Mission" document. Reconstruction of the original Alpha Fonts by Pierre. Creation of diverse lacking transitional textures. Tweaking of the camera perspectives. First attempt to harmonise the Alpha Troll Canyon with a Pass and the "Saturas hill". Mage's Chapel Overhaul. Baron's house overhaul. Arena overhaul. First implementation of the northern forest. The overhaul of the southern environment of the Colony begins. Overhaul of the marketplace. Implementation of a new body & head texture system by Sasha (jr) to enable us to use a more systematic naming scheme and make character individualisation easier. Implementation of FogZones by Pierre. Avallach writes a new Archive backend split in several repos to improve the very long page building loading times and enable a simple download of the Archive. | 
+| 2022 | We are given the Story v3.3 documentation and an additional collection of 14 Phoenix documents. They are released in the Archive at June 27th. The Mad Scientists provide us with the [Finster Demo](https://gothicarchive.org/demos/finster/). We make it work on modern systems and release it in the Archive three months later in Septembre 17th. |
 | 2023 | Flosha and Avallach visit Mike again to return the design documentation. We publish the Gothic Comic and are given the original Comic pencil drawings. Flosha decides to realise the Phoenix Documentation in a similar way as the Gothic Archive, as a public website to facilitate contributions, exchange of ideas and the conservation of our gamedesign ideas. The [Phoenix Concept](/) website goes online at May 14th. |
-| 2024 | The model on the city and its environment continues. The focus lies completely on the design documentation and the transfer of all of our chaotic design notes in a clear and structured way into the public Phoenix Concept (except for the plot documentation, which is written in a private repo). The current leveldesign focus is on the northern environment of the colony. |
-| 2025+ | Pre-Alpha Demo |
- 
+| 2024 | The model on the city and its environment continues. The focus lies completely on the design documentation, on writing new documentation based on all the newly acquired material and the sighting and transfer of all of our chaotic design notes from the first years of conception in a clear and structured way into the public Phoenix Concept (except for the plot documentation, which is written in a private repo). |
+| 2025+ | Hopefully a tech demo focusing on gameplay mechanics. |
 
+```
+Clarify:  
+1. When did I reconstruct the western plateau?
+2. When did I reconstruct the monastery ruins?
+3. When did I start modeling the city?
+4. When did I decide to include the city?
+5. When did I start modeling the city?
+6. When did I decide to make it a single drama?
+7. What did we write when in 2016-2019?
+8. When did logx retire? 
+9. When did Avallach join?
+
+Todo:
+* Months may be added.
+```
+
+<!-- 
 ## Priorities
 
 We will list our priorities split into different areas.
@@ -36,18 +106,7 @@ We will list our priorities split into different areas.
 
 ---
 
-TODO:
-1. When did I reconstruct the western plateau?
-2. When did I reconstruct the monastery ruins?
-3. When did I start modeling the city?
-4. When did I decide to include the city in Act 2?
-5. When did I decide to make it a single drama?
-6. What did we write when in 2016-2019?
-7. When did logx leave? 
-8. ...
-
-
-{: .roadmap }
+-->
 
 
 <style>
