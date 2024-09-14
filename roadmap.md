@@ -9,7 +9,7 @@ This page serves the purpose of informing you about the progress of Phoenix: Wha
 
 TLDR: Right now Flosha is working alone on the documentation and on the Phoenix build, focused on world modeling. Auronen is working on tools in the background, that are both instrumental for our project and of help for the community at large. Avallach is in the process of fixing our Gothic Archive and improving its performance (it can currently not be updated due to storage problems). <!-- He is doing some supportive research in regard to inspirations of Gothic, but is not actively involved in development at the moment. -->
 
-There is no one else currently at work, but a few long-term contributors support us every now and then. 
+There is no one else currently at work. A few long-term contributors support us occasionally. 
 
 
 ## Short-term Goal
