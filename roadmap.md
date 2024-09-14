@@ -77,11 +77,12 @@ Clarify:
 1. When did I reconstruct the western plateau?
 2. When did I reconstruct the monastery ruins?
 3. When did I start modeling the city?
-4. When did I decide to include the city in Act 2 and started modeling it?
-5. When did I decide to make it a single drama?
-6. What did we write when in 2016-2019?
-7. When did logx retire? 
-8. When did Avallach join?
+4. When did I decide to include the city?
+5. When did I start modeling the city?
+6. When did I decide to make it a single drama?
+7. What did we write when in 2016-2019?
+8. When did logx retire? 
+9. When did Avallach join?
 
 Todo:
 * Months may be added.
