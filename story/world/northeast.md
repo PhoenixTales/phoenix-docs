@@ -2,7 +2,7 @@
 
 ```
 Author: Flosha
-Written: 15.08.2024 - 13.09.2024
+Written: 15.08.2024 - 14.09.2024
 ```
 {: .info }
 
@@ -304,11 +304,11 @@ The Northeast has changed a lot in course of development. The ingame implementat
 
 ## Phoenix Solutions
 
-Flosha, 12.09.2024 - 13.09.2024
+Flosha, 12.09.2024 - 14.09.2024
 
 I want to clarify at first, that I did not want to get rid of the general design of the terrain of the exchange place and the Abandoned Mine from the Alpha versions, as the design of this terrain is both very good and it is the *only* and thereby the *first and last* ingame implementation of the exchange place and the Abandoned Mine.
 
-And it is a viable question to ask, as to *why* the cliff should be separated at all and in which sense that would make it any better. Apart from the domimance of the idea in the concepts and design documents, that give it a high priority according to our *principles of reconstruction*, one should keep in mind that a seperate implementation of the cliff was meant to go along a seperate section of exploration at the gamestart; the player would enter the valley via a different path through the northern forest, with different things to explore, different perspectives to discover and additional stories to be told, as they are mentioned in the Gothic Novel, while the path to the exchange place wouldn't be lost, but still be there and explorable in addition to it. It is in this way that it would be an improvement. Apart from all the interesting interconnections, possible interactions with the convoy and so on. Other than that, in the old story the player would have a reason to visit both the cliff and the exchange place and AM again in course of the story, thereby approaching the paths from the other direction; all of which did not play a role in the heavily trimmed story of the release version. 
+And it is a viable question to ask, as to *why* the cliff should be separated at all and in which sense that would make it any better. Apart from the dominance of the idea in the concepts and design documents, that give it a high priority according to our *principles of reconstruction*, one should keep in mind that a seperate implementation of the cliff was meant to go along a seperate section of exploration at the gamestart; the player would enter the valley via a different path through the northern forest, with different things to explore, different perspectives to discover and additional stories to be told, as they are mentioned in the Gothic Novel, while the path to the exchange place wouldn't be lost, but still be there and explorable in addition to it. It is in this way that it would be an improvement. Apart from all the interesting interconnections, possible interactions with the convoy and so on. Other than that, in the old story the player would have a reason to visit both the cliff (arrival of new convict(s)) and the exchange place (new convoy) and the AM again in course of the story, thereby approaching the paths from the other direction; all of which did not play a role in the heavily trimmed story of the release version. 
 
 
 ### Exchange Place
