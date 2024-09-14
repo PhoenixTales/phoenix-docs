@@ -56,13 +56,27 @@ Summary, Flosha:
     * Klaus: Leaving it open also strengthens the opportunities to roleplay and to choose different paths. There is no forced discrepancy between my character and myself then. So I am absolutely in favour of this.
 
 
+* Add a Burial section with the ideas from the server:
+    * 14.09.2024: Gothic does not tell us much in this regard. The only thing I remember now where something about ceremonies in this regard is told in the sources, is in the novel. Where they mention these copper (coins) that they place on the eyes.
+    -> This would then be Kasakk/Beliar related. From there we may be able to deduce something.
+    * Delvin: I guess, some would want the dead to be cremated, so there won't be undead.
+    * Flosha: . Innos followers may want to avoid that the most.
+    And the association with fire may suggest something like that.
+    While Adanos followers could prefer a burial at sea.
+    And Beliar in the earth.
+    * Flosha: I think this could be one aspect where people are rather free in the Cult. BUT it also is interesting because, by this decision at the end of life, they REALLY show which god they believe and feel connected to the most.
+    Which could lead to some denunciation.
+    Or to situations like this: A man wants to be buried in the beliar way or Adanos way or something. But the wife decides to do it otherwise because she doesn't want to confront the reactions. Just a social thing. Nothing in the law.
+    * so either the Beliar priests would be responsible for the burial, or perhaps a different priest depending on which kind of burial someone wanted - or even a mixture? what happens to the ashes after burned in the innos way?
+    * 
+
+
 
 * Klaus: 11.09.2024: Beliar is not "sending" demons, he is "containing" them. He is holding them back where the people push them to (by oppression) and so on; people themselves evoke them consciously or unconsciously.
     * Delvin 11.09.2024: KryptoKlaus expressed quite an interesting idea of Beliar's and demons association, that Beliar is rather containing the demons and your thoughts that what is dead should stay dead. I think that this could be part of the propaganda of the new "forced" religion. But I don't know your exact plans on the demons though.
 
 
 * Add to the Tutelaries part (all 11.09.2024):
-    * Klaus: For what purposes and in which situations will people pray to/worship/venerate the gods, including Beliar? 
     * Klaus: From a practical point of view, it would be very interesting to make a list of dozens of both mundane and special actions and situations people are in and allocate to each action/situation one or more gods. Meaning to which god someone would pray.
     * Klaus: If we have an understanding of what people could want from Beliar, we could then think about what a (non-wicked) Beliar cult could look like and what a Beliar priest would do. Because a priest is a mediator between the divine and the people. So the wishes and hopes of the people are almost as elementary regarding the work and cult of a priest as the god itself is.
     * Klaus: with such a list, we will get a good feeling of what Beliar means to the people of Myrtana. And I have the feeling that more and more we will come to the conclusion that among criminals there will be exceptionally many people praying to Beliar. -> Flosha: Good transition into the Beliar Cult part! 
@@ -113,6 +127,9 @@ Summary, Flosha:
     * Klaus, 11.09.2024: Innos and Adanos have very exoteric cults, while the cult of Beliar naturally tends to turn esoteric, even if not intended from the beginning. You implied something similar.
     * Klaus: This could be an interesting approach to the topic. A cult of Beliar is accepted and even demanded, but it is never trusted. Not because it would be wrong to worship Beliar, but because his followers tend to do more than what is allowed and watchable. That opens up many opportunities. A priest of Beliar could be responsible for the dead, burying liturgies, remembering*** the dead etc.. Now imagine the typical priest is just doing that but there is also a significant amount of Beliar priests being available for a bit dirty work. For example the above mentioned cursing of a thief or knowingly taking donations from criminals. There could be a wide range of things which are not so clean, but also not pure evil and demonic. And this could be designed fluently, maybe with each and individual priest drawing their own red lines. This would also open up opportunities for insights in inner debates and fights, you can imagine: "We are not allowed to do that!", "This is not Beliar!", "You are responsible for our bad reputation!" etc.
     * Klaus: Only the smallest minority would turn absolutely dangerous, summon demons etc.. The question then is: How much of shadows and darkness is acceptible and needed in the reality of men 
+    * 14.09.2024: The more I think about it, the more I become convinced that it would be good to include Beliar priests in some form. The lore of the gods does not mention beliar priests, but also does not say that they do not exist. Only the manual said so (which has to be seen critical in several regards; we also deviate from it in some other regards because it is in conflict with some essential ideas by Mike regarding succession to the throne and everything). So when going with what just the other sources tell us, like the lore of the gods, we could just say that it simply keeps quiet about the beliar priests. The arcane gift, the access to magic, which is associated with being "elected", receiving this gift, this has to be the primary distinction.
+    Not this "priest" term.
+    So there can be beliar priests in the universe, in the sense we discussed it before, just excluded from magic, which ofc some are practicing nonetheless underhand.
 
 
 

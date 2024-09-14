@@ -403,7 +403,8 @@ Innos is associated specifically with the *law*. Beliar is associated with punis
 
 *Klaus, Flosha & Delvin*
 
-In order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we should try to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Because by believing in different gods they clearly imagine the gods to have different responsibilities and may be seen as patrons of different professions and estates.
+In order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we should try to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Because by believing in different gods they clearly imagine the gods to have different responsibilities and may be seen as patrons of different professions and estates. So we asked the question: For what purposes and in which situations will people pray to or worship the gods, including Beliar?
+
 
 | Gods       | Areas of Life |
 |------------|---------------|
