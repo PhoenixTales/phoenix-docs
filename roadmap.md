@@ -10,6 +10,11 @@ This page serves the purpose of informing you about the progress of Phoenix: Wha
 TLDR: Right now Flosha is working alone on the documentation and on the Phoenix build, focused on world modeling. Auronen is working on tools in the background, that are both instrumental for our project and of help for the community at large. Avallach is in the process of fixing our Gothic Archive and improving its performance (it can currently not be updated due to storage problems). <!-- He is doing some supportive research in regard to inspirations of Gothic, but is not actively involved in development at the moment. -->
 
 There is no one else currently at work, but a few long-term contributors support us every now and then. 
+
+
+## Short-term Goal
+
+We want to release a first tech demo focused on Item Handling, our Inventory System, our Modular Armour Illusion System and general movement controls in a testlevel. It cannot yet be estimated when this first demo can be published. 
  
 
 ## Priorities
