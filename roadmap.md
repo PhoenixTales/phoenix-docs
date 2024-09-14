@@ -44,7 +44,7 @@ The Colony design takes precedence over the design of the outside world areas an
 
 **Programming:** Auronen is working on tools related to compilation and engine related stuff. Our gameplay features we are planning for Phoenix either are or will be based on this work. 
 
-**Animation:** We need someone with experience with character animation and wants to help us to fix or reconstruct alpha animations to make it useable with the new rig, as well as to improve animations and create new animations in regard to new movement mechanics. 
+**Animation:** We need someone experienced with character animation who wants to help us to fix or reconstruct alpha animations to make them useable with the newer rig, as well as to improve animations and create new animations in regard to new movement mechanics. 
 
 **Music:** We currently have no composer actively working on music for Phoenix. Some of the old music has to be remixed, other music has to be created from scratch; background informations and instructions are given. You will fit perfectly if you like both the [Gothic/Alpha Soundtrack](https://gothicarchive.org/music/) as well as ambient music in the style of STALKER ([Example 1](https://m.youtube.com/watch?v=Y0x5UZzX3kQ&pp=ygUSc3RhbGtlciByYXJlIG11c2lj#searching), [Example 2](https://m.youtube.com/watch?v=gjf_VfZFwRg&list=PLS0H674D7-s7DEhmIzYSE-FxIIe_y-yGQ&index=22&pp=iAQB8AUB))
 and heavier electronic, industrial music in the style of oldschool shooters like Quake. If you can reproduce music in a similar style and like the idea of a mixture of these - you are highly welcome to contribute. <!-- Your work may greatly influence the atmosphere of the Orc Caves, the Ancient Temple and of the City Khorinis. -->
