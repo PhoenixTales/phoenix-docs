@@ -355,7 +355,6 @@ The priests of the cult still assume that their magical (psionic) power has to h
 
 ## Phoenix Solutions
 
-
 TODO:
 * Take out most interpretation above to put here.
 * Take out all the phoenix related historical context (first empire etc.)
@@ -402,18 +401,20 @@ Innos is associated specifically with the *law*. Beliar is associated with punis
 
 #### The Gods as Tutelaries
 
-It was one of our contributors, Klaus, who suggested, that in order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we should try to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Because by believing in different gods they clearly imagined the gods to have different responsibilities and so they also may be seen as patrons of different professions and estates.
+*Klaus, Flosha & Delvin*
+
+In order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we should try to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Because by believing in different gods they clearly imagined the gods to have different responsibilities and so they also may be seen as patrons of different professions and estates.
 
 | Gods       | Areas of Life |
 |------------|---------------|
-| **Innos**  | war, fighting, sports, power & fortune, bad dreams (dispelling darkness), weather (spending sun for agriculture, spare from fire, thunder and cold), vices (like addiction), speech disorders, procreation |
-| **Adanos** | health (spare from sickness, heal wounds, ease pain), travel, equality, weather (send enough rain, spare from floods), fertility, dexterity (craft-related), learning |
-| **Beliar** | death (gentle death, delaying death, fear of death), fear, hiding, curses, revenge, retribution, miscarriage, shady business, demons (protect from & evoke), ghosts, sorrow, harvest |
+| **Innos**  | war, fighting, sports, power & fortune, law (legislation), bad dreams (dispelling darkness), weather (spending sun for agriculture, spare from fire, thunder and cold), vices (like addiction), theocracy (and kritarchy?), monarchy(?), speech (and disorders), trade, procreation |
+| **Adanos** | health (spare from sickness, heal wounds, ease pain), justice (judiciary), equality, travel, weather (send enough rain, spare from floods), meritocracy/noocracy (?), republic (?), fertility, dexterity (craft-related), learning |
+| **Beliar** | death (gentle death, delaying death, fear of death), executive, fear, hiding, curses, revenge, retribution, miscarriage, shady business, occultism, anarchy (as well as autocracy on the opposite spectrum, or kraterocracy), demons (protect from & evoke), ghosts, sorrow, harvest |
 
 | God        | Professions/Estates |
 |------------|---------------------|
-| **Innos**  | soldiers, smiths, gladiators, mercenaries, cooks (herd), masons, carpenters, charcoal burners, bakers, bards, poets, musicians, fire priests |
-| **Adanos** | healers (medici, surgeons, midwifes), fishermen, travelers, innkeepers, explorers, shepherds, peasants, sailors, ferrymen, scholars, artists, spinners, weavers, tailors, beggars, beekeepers, potters, dyers, water priests | 
+| **Innos**  | warriors, soldiers, legislators - "lawyers", smiths, gladiators, mercenaries, merchants, cooks (herd), masons, carpenters, charcoal burners, bakers, bards, poets, musicians, fire priests |
+| **Adanos** | healers (medici, surgeons, midwifes), judges (in the sense of mediators), slaves (gladiators too), fishermen, travelers, innkeepers, explorers, shepherds, peasants, sailors, ferrymen, scholars, artists, spinners, weavers, tailors, beggars, beekeepers, potters, dyers, water priests | 
 | **Beliar** | gravediggers, executioners, miners, gladiators (fast/heroic death), butchers, knackers, criminals (everyone in hiding: thieves, refugees, scared, haunted), whores |
 
 ```
@@ -421,6 +422,11 @@ TODO: Add our reasoning for the assignments
 unsure: nightwatchmen, hunters, children
 
 ```
+<!-- What is the name of these sort of judges in villages like in Afghanistan etc. who mediate between the people? Those is what I imagine adanos "judges" to mean; opposed to royal judges who are more about the flame and thereby kind of taking the role of judgement out of the hands of the adanos judges, where - as they may say - it was in better hands -> they are more operating according to the Dao-de-Jing and Laotse/Daoism: Add this to the law/justice section! 
+
+Trade: Trading has lots to do with communication; Innos gave men the ability to speek, so we have assigned it primarily to Innos. 
+
+-->
 
 
 #### Identification of Innos with Ra

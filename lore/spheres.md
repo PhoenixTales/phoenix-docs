@@ -22,6 +22,21 @@ In the World of Gothic there is the concept of different spheres. The here and n
 
 Our etymology of those terms is explained in our [moraic etymology](). 
 
+
+
+### Shagrad 
+
+TODO: Add more thoughts and interpretation about it here.  
+Add all that was written from the alpha-research forum and the shadows metaphor interpretation.  
+
+<!-- Klaus ideas:
+11.09.2024
+To take someone into the shadows can mean "nothing" but also can mean taking him away from the light. Also grim and rather hell-like. [...] The worst part about hell is being away from God in the darkness.
+
+-->
+
+
+
 <style>
 
     .article ul {
