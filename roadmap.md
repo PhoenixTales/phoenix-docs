@@ -52,7 +52,7 @@ and heavier electronic, industrial music in the style of oldschool shooters like
 
 ### Priority III
 
-**Writing:** Story writing in regard to the main plot is currently not needed. It is done by Flosha.  
+**Writing:** Story writing in regard to the main plot is currently not needed. It has been written by Flosha and logx and is mostly done.  
 Supportive writing such as for ingame books, ambient dialogues, preachings as well as mission/quest ideas are always welcome. In order to contribute in this regard in a way consistent with the Phoenix universe, you should read all of our [/vision](/vision/vision), [/lore](/lore/lore) and [/world](/story/world) documentation first. 
 
 **Scripting:** For the above mentioned reasons, no scripting is currently done and scripters are not needed at the moment. 
