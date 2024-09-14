@@ -296,10 +296,10 @@ The Northeast has changed a lot in course of development. The ingame implementat
 * There was no longer a connection of the water/lake below the cliff to the sea, nor was there any waterfall or any other  influx or outflow of the water. This affected the overall atmosphere as well as the believability of the terrain, giving it a less organic and less "wild" appearance than it could have had.
 * The connection to the northern forest was lost - and the northern forest itself has been removed, inspite of its dominant role in all map concepts, pre-alpha models and the novel, where the Abandoned Mine has always been imagined close to a forest; and an early forest exploration (of course a less dangerous one for the start of the game, which makes sense due to how highly frequented it is) would have served the gothic atmosphere well. 
 * The player could not see the colony from the cliff, as it was initially planned and described in the Comic and the Novel; although a similar sceneric view was offered later on the bridge, the original view from the cliff itself, from where even lights from the Psi Camp should have been seen, was lost.
-* The later implemented cliff at the exchange place was also very low in comparison to the originally imagined cliff, which was meant to be higher and induce more fear of the fall
-* Another aspect connected to that which also has been lost and which follows from the inability to overlook the colony from the cliff, was that the cliff was meant to hover menacingly over the valley like a memorial to remember everyone of their brutal conviction.   
-* The ropeway that has always been planned by Mike and was implemented well in v0.7, has been removed in the release version; and while the ropeway may have been a more believable solution for the exchange place than the lift by Ralf, the idea of the lift was thereby also lost.
-* This also affected the design of the Abandoned Mine, which was discarded in the form that Ralf had imagined it. 
+* The later implemented cliff at the exchange place was very low in comparison to the originally imagined cliff, which was meant to be higher and induce more fear of the fall.
+* Another aspect connected to that which also has been lost and which follows from the inability to overlook the colony from the cliff, was that the cliff could hover menacingly over the valley like a memorial to remember everyone of their brutal conviction.   
+* The ropeway that has always been planned by Mike - and was implemented well in v0.7 - has been removed in the release version; and while the ropeway may have been a more believable solution for the exchange place than the lift by Ralf, the idea of the lift was thereby also lost.
+* This also affected the design of the Abandoned Mine, which was discarded in the form that Ralf had imagined it.
 
 
 ## Phoenix Solutions
@@ -307,6 +307,8 @@ The Northeast has changed a lot in course of development. The ingame implementat
 Flosha, 12.09.2024 - 13.09.2024
 
 I want to clarify at first, that I did not want to get rid of the general design of the terrain of the exchange place and the Abandoned Mine from the Alpha versions, as the design of this terrain is both very good and it is the *only* and thereby the *first and last* ingame implementation of the exchange place and the Abandoned Mine.
+
+And it is a viable question to ask, as to *why* the cliff should be separated at all and in which sense that would make it any better. Apart from the domimance of the idea in the concepts and design documents, that give it a high priority according to our *principles of reconstruction*, one should keep in mind that a seperate implementation of the cliff was meant to go along a seperate section of exploration at the gamestart; the player would enter the valley via a different path through the northern forest, with different things to explore, different perspectives to discover and additional stories to be told, as they are mentioned in the Gothic Novel, while the path to the exchange place wouldn't be lost, but still be there and explorable in addition to it. It is in this way that it would be an improvement. Apart from all the interesting interconnections, possible interactions with the convoy and so on. Other than that, in the old story the player would have a reason to visit both the cliff and the exchange place and AM again in course of the story, thereby approaching the paths from the other direction; all of which did not play a role in the heavily trimmed story of the release version. 
 
 
 ### Exchange Place
