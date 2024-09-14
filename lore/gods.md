@@ -3,6 +3,7 @@
 ```
 Authors: Flosha, logx, Avallach
 Written: 28.07.2020 - 10.09.2024
+Last update: 14.09.2024
 ```
 {: .info }
 
@@ -10,9 +11,8 @@ Written: 28.07.2020 - 10.09.2024
 **Content:**
 
 * [Gods of Myrtana](#gods-of-myrtana)
-  * [Ra and Innos](#ra-and-innos)
+  * [Innos and Ra](#innos-and-ra)
     * [Ancient Symbols of the Gods](#ancient-symbols-of-the-gods)
-    * [Identification of Innos with Ra](#identification-of-innos-with-ra)
   * [Beliar, Vandras or Kasakk](#beliar-vandras-or-kasakk)
   * [Adanos, Adrastos or Cyvanis](#adanos-adrastos-or-cyvanis)
 * [Lore of the Gods](#lore-of-the-gods)
@@ -24,6 +24,13 @@ Written: 28.07.2020 - 10.09.2024
 * [Cults of Myrtana](#cults-of-myrtana)
   * [Cult of the Three Gods](#cult-of-the-three-gods)
   * [Sect of the Sleeper](#sect-of-the-sleeper)
+* [Phoenix Solutions](#phoenix-solutions)  
+  * [Gods in Phoenix](#gods-in-phoenix)  
+    * [Beyond Good & Evil](#beyond-good--evil)
+    * [Gods and Time](#gods-and-time)
+    * [The Divine Law](#the-divine-law)
+    * [The Gods as Tutelaries](#the-gods-as-tutelaries)
+    * [Identification of Innos with Ra](#identification-of-innos-with-ra)
 
 
 ## Gods of Myrtana
@@ -55,9 +62,13 @@ It was Mattias Filler (the most important story-writer responsible for the main 
 > Mattias came to me and said: "The names of the gods are crap, we need to redo them..." So he did. [Mike Hoge, interview with Dmitriy, 30.12.20](https://gothicarchive.org/postrelease/interviews/MikeHoge_30_12_2020.html)
 
 
-### Ra and Innos
+### Innos and Ra
 
 *Flosha, 09.09.2024*
+
+**Innos**: I speculate that Filler may have developed it by taking the word sun in German (*Sonne*), turning it around into *Ennos* and then just replacing the E by an I, because it sounded better; with the intention to replace *Ra* due to its historical connotation, while keeping the association with the sun. But we could also interpret it as being derived from "innocence"; absence of guilt, inability or absence of intention to harm. Latin *in* ("not") + *nocens* from *noceo* (to hurt); being innocent means "not to hurt", very much like the sanskrit *Ahimsa* (which means *non-harm*, most often translated as *non-violence*). 
+
+Innos was not meant to be just "good", just as Beliar was not simply meant to be "evil"; Innos is order, Beliar is chaos, but they both are needed, they are all "part of the equation" (Mike). 
 
 > *I am the rising sun, the light, and the life*
 
@@ -66,11 +77,7 @@ It was Mattias Filler (the most important story-writer responsible for the main 
 In Gothic, Ra is only mentioned in the Comic, where Rhobar II. is described as... 
 > [...] *the proclaimer of the faith into the three gods and representative of the highest god Ra* [C]
 
-He is characterised here as the highest god, while the "three" gods of the myrtanian cult are also mentioned. Ra can either be meant to be one of these three, just the highest of them. Or he can be thought of as a divine absolute standing above and beyond the three gods. We can think of *Ra* as another name, an older name for *Innos* (which it most likely was) and as to be [identified with each other](#identification-of-innos-with-ra), but we can also imagine him as a god on his own. The one source that would suggest them being based on two different concepts, are the [four symbols](#ancient-symbols-of-the-gods) from the ancient temple. In Phoenix, we just combine both of these solutions. 
-
----
-
-**Innos**: I speculate that Filler may have developed it by taking the word sun in German (*Sonne*), turning it around into *Ennos* and then just replacing the E by an I, because it sounded better; with the intention to replace *Ra* due to its historical connotation, while keeping the association with the sun. But we could also interpret it as being derived from "innocence"; absence of guilt, inability or absence of intention to harm. Latin *in* ("not") + *nocens* from *noceo* (to hurt); being innocent means "not to hurt", very much like the sanskrit *Ahimsa* (which means *non-harm*, most often translated as *non-violence*). 
+He is characterised here as the highest god, while the "three" gods of the myrtanian cult are also mentioned. Ra can either be meant to be one of these three, just the highest of them. Or he could be thought of as a divine absolute standing above and beyond the three gods. We can think of *Ra* as another name, an older name for *Innos* (which it most likely was) and as to be [identified with each other](#identification-of-innos-with-ra), but we can also imagine him as a god on his own. The one source that would suggest them being based on two different concepts, are the [four symbols](#ancient-symbols-of-the-gods) from the ancient temple.
 
 
 #### Ancient Symbols of the Gods
@@ -87,24 +94,6 @@ OtWaMaskSun.tga, OtWaMaskFire.tga, OtWaMaskWater.tga, OtWaMaskMoon.tga
   <img src="/_img/lore/OtWaRowOfSymbols1-Moon.png" alt="Moon Symbol">
   <img src="/_img/lore/OtWaRowOfSymbols2-Water.png" alt="Water Symbol">
 </div>
-
-#### Identification of Innos with Ra
-
-*flosha, based on ideas by Avallach*
-
-We imagine *Innos* as a nordic god, which was worshipped in the northern lands. He originated as a god of war, focusing on the destructive aspects of fire, of burning, cleansing and being "just" in that it burns everyone the same - unless he is *innocent* (in this context, think of the [*Feuerprobe*](https://de.wikipedia.org/wiki/Feuerprobe)); while *Ra* is a god originating from the ancient civilisation of Varant with an emphasis on light, the sun, illumination and fire in its positive role in the cultural evolution.
-
-In the context of Innos as a god of war, see the sword of Gomez, called *Innos Zorn* ("Wrath" or "Rage" of Innos). In religious contexts there is the concept of "gerechter Zorn" (*just wrath*), that is often attributed to saints or god himself. It is *Innos* who is thought to be *angry*, who wants rage; while Beliar is the one who is executing it in form of punishment in accordance with [Innos' will](#the-will-of-the-gods).
-
-In the Sequel, Innos is specifically linked to the *law* and the *maintenance of order*, while Adanos is linked to *justice*, and called "Waagschale der Menschheit" (scale of mankind), not in the sense of weighing them, but in the sense of keeping mankind in balance between the two forces of light and darkness, order and chaos. 
-
-In order to propagate the cult of fire (whose priests originated from the united priests of the ancient civilisation but split into different cults from there), the priests of fire have started to identify *Innos* with *Ra* in their preachings since a few centuries. But it was under the reign of Rhobar I. that this identification was brought to an end and that the two gods finally merged in the public perception. Rhobars establishment as a quasi divine ruler and the declaration of his realm as a successor of the first empire, proven by bearing the holy insignia (the Sceptre of Varant), was the final seal of this fusion. 
-
-In course of this, the traditional aspects of *Innos*, of fire, law and war, have become the prevailing attributes in the general understanding of the god, while the aspects of *Ra* have experienced a decline. Among scholars who learned the older language, the old name *Ra* is still in use (as in the example of the royal judge in the Comic), but most often used interchangeably with *Innos*. A simple solution by which we do not have to explain the speech of the judge in the Comic as any mistake. 
-
-And while the Cult of Myrtana identifies *Innos* with *Ra*, some heretical movements refuse this identification; similar to the gnostics they see *Innos*, as worshipped in the cult of the three gods, as a malevolent lesser god and demiurg in difference to the divine Absolute.
-
-Innos is not just "good"; just as Beliar is not simply "evil"; Innos is order, Beliar is chaos, but they both are needed, they are all "part of the equation" (Mike). 
 
 
 ### Beliar, Vandras or Kasakk
@@ -149,7 +138,7 @@ By summarising all of these findings and by putting all of those meanings togeth
 
 *This part about Kasakk is written by Avallach:*
 
-**Kasakk** is only mentioned in the Gothic Novel (*Sleeper's Ban*), and he is the only deity appearing there. He appears to be the deity of the realm of the dead, similarly to Beliar from the release version. 
+**Kasakk** is only mentioned in the Gothic Novel (*Sleeper's Ban*), and he is the *only* deity that is mentioned there. He appears to be the deity of the realm of the dead, similarly to Beliar from the game. 
 
 > [...] *until they go to Kasakk's realm at some point, simply because they forget to eat or breathe or drink or whatever.*
 
@@ -168,13 +157,9 @@ Despite being a dark god, he appears to be the only one worshipped by people in 
 
 *Flosha, 09.09.2024*
 
-Adanos is the god of balance, he stands for healing, work, knowledge, curiosity, courage and is represented by water. This aspect of "balance" between the two forces of Innos and Beliar, like the water that fills up evenly without distinction, always horizontal, always flowing down, was among Mikes original ideas. In the manual and also at some places in the design documentation, they used to fall back into a simplified good/evil terminology. But to do the early ideas justice, it is important to see his role not as a balance between god and evil, but between a more complex form of balance as in the philosophy of yin & yang, that are both necessary; a clear good/evil dichotomy should be avoided. Innos and Beliar are indeed about a duality, a duality like light and dark, of activity & passivity, of giving and receiving; but they are both *needed* and form a "unity of opposites". 
+Adanos is the god of balance, he stands for healing, work, knowledge, curiosity, courage and is represented by water. This aspect of "balance" between the two forces of Innos and Beliar, like the water that fills up evenly without distinction, always horizontal, always flowing down, was among Mikes original ideas. 
 
-Just as the indian cults of the gods as all these aspects of Brahman, the Absolute, is hard to grasp for the western mind and widely misunderstood as a "polytheism", yin & yang, while about a duality, are not about a contrast of mutually exclusive forces, but they are part of the equation, they are one, the two sides of a coin or a wheel (think of the wheel of the dharma). And it is Adanos who lets the wheel roll, taking care that it doesn't fall unto one of the sides. 
-
-If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design docs, that Mike had wanted to avoid to present as such in the game; and in any way has to be avoided by us, due to how [Gothic was defined](/vision/gothic-defined). 
-
-Innos brought light, Beliar brought the night. Both brought life that couldn't exist without them both. Beliar brought deadt, the negation of life. And Adanos, inbetween, brought healing. 
+Innos brought light, Beliar brought the night. Both brought life that couldn't exist without them both, according to the [lore of the gods](#lore-of-the-gods). Beliar brought death, the negation of life. And Adanos, inbetween, brought healing. 
 
 > *Adanos saw, that the humans were dying and that it was the will of Beliar. And he said: I will not stand against the will of Beliar, but I will give humankind the power of healing.* [G]
 
@@ -206,17 +191,20 @@ In Hebrew, *Adha* means "ornament".
 ## Lore of the Gods
 
 An ingame book in Gothic consisting of three volumes.  
-Below we will quote the entire book alongside our commentary. 
+Below we will quote the entire book with a very short analysis of what it implies. 
+
+A more elaborated commentary with an interpretation of the texts is given in the Phoenix Section. 
+{: .subtext }
 
 > Höre die Worte der Götter, denn es ist ihr Wille, dass sie gehört werden. Befolge die Lehren der Götter, denn es ist ihr Wille, dass sie befolgt werden. Achte die Priester der Götter, denn sie sind erwählt.
 
-13.06.2024: The first volume is more moral in character, the second volume deals with the creation of the world and life and the third volume establishes the superiority of priesthood and talks of the "fall of magic". From this general layout we can deduce a primarily moral intention and focus of the scripture.  
+The first volume is more moral in character, the second volume deals with the creation of the world and life and the third volume establishes the superiority of priesthood and talks of the "fall of magic". From this general layout we can deduce a primarily moral intention and focus of the scripture.  
 
-25.03.2024: It seems that mythological and historical records are melting together in the books, alongside a ideological colouration of the author, which is obviously a priest of fire based on his negative description of the circle of water, of which he writes that they *"... directed their prayers to Adanos and forgot their origin"*. 
+It seems that mythological and historical records are melting together in the books, alongside a ideological colouration of the author, which can be speculated to be a priest of fire based on his negative description of the circle of water, of which he writes that they *"... directed their prayers to Adanos and forgot their origin"*. 
 
-13.06.2024: It is also important to notice, that inspite of the authors ideological bias against the Adanos cult, he clearly demands in Volume I to "follow the will of the gods" in plural and to respect the priests in general, which includes the priests of Adanos. 
+It is also important to notice, that inspite of the authors ideological bias against the Adanos cult, he clearly demands in Volume I to "follow the will of the gods" in plural and to respect the priests in general, which includes the priests of Adanos. 
 
-Due to these characteristics we can deduce that the book was written during the time of the new empire, after the reconciliation of the house of Innos and the house of Adanos under Rhobar.
+Due to these characteristics we can deduce that the book was written during the time of Rhobar I. or II. (which we summarise as the "New Empire"), after the reconciliation of the house of Innos and the house of Adanos under Rhobar.
 
 
 ### The Will of the Gods
@@ -241,19 +229,21 @@ This characterises Beliar as the god of execution (of justice) and death. He is 
 > Vom Anbeginn der Zeit: Es ward noch kein Tag oder Nacht und kein Wesen zog über die Welt. Da erschien der Welt Innos und sein Licht erhellte alles. Und Innos schenkte der Welt das Leben. Da aber kein Wesen im Licht des Innos leben kann, schuf er die Sonne. Das Licht war aber noch zu stark. Da teilte sich Innos und schuf Beliar. Beliar brachte die Nacht. Nun konnten die Menschen sein. Da teilte sich Innos erneut und schuf Adanos. Adanos gab den Menschen die Vielseitigkeit, Wissen, Neugier und Mut. Innos war sehr zufrieden mit sich und seinem Werk. 
 > Und er beschloss die Menschen Adanos ganz zu überlassen, um zu ruhen. [G] 
 
-As the script is most likely written by a priest of Innos, Ra does not appear as a name, but based on the analysis above, we can as well replace him with Ra to get a better picture. 
+As the script is most likely written by a priest of Innos, Ra does not appear as a name, but based on our analysis above, we can as well imagine Ra as the creator god here instead. 
 
-"There was no day yet nor night and no being wandered on the world." Speaking of a time before existence. 
+"There was no day yet nor night and no being wandered on the world." This is a wording that according to tradition seems to speak of a time before existence. 
 
 "There appeared Innos to the world and his light illuminated everything. And Innos gave life to the world." Everything was still one and everything was light, this was the beginning of the universe. 
 
-"But since no being could live in the light of Innos, he created the sun." Thus, the light was bundled, focused, concentrated into a perceived center of the universe. 
+"But since no being could live in the light of Innos, he created the sun." This we can interpret to mean, that the light was bundled, focused, concentrated into a perceived center of the universe. 
  
-"But the light was still too strong. There Innos divided itself and created Beliar." The underlying unity of existence had to create duality to enable reality, to enable realisation; nothing could realise the light without darkness; duality was a necessity for life. 
+"But the light was still too strong. There Innos divided itself and created Beliar. Beliar brought the Night. Now Man could be." The underlying unity of existence had to create duality to enable reality, to enable realisation; nothing could realise the light without darkness; duality was a necessity for life. According to the lore, humans came only in existence after Beliar originated from Innos or Ra. 
 
-So Beliar, formerly called *Vandras*, described as the "God of Darkness", "the dark God", originated or emanated from Ra as a necessity, as life could not be in the light of Ra without darkness, he "who brought the night"; it is due to him that man could be and realise god on earth/in himself. He is God of justice and the death, in the realm of the "Shadows" in which everyone ends.
+So Beliar, formerly called *Vandras*, described as the "God of Darkness", "the dark God", originated or emanated from Ra as a necessity, as life could not be in the light of Ra without darkness, he "who brought the night"; it is due to him that man could be and realise god on earth/in himself. He is God of justice and death, in the realm of the "Shadows" in which everyone ends.
 
-Adanos, also known as "Cyvanis" and "Adrastos", originated after Beliar from the same common source and is associated with the evolution of humanity into the supreme species it considers itself to be; in that he gave man... 
+> There Innos divided himself again and created Adanos. Adanos gave men diversity, knowledge, curiosity and courage.
+
+Adanos, also known as "Cyvanis" and "Adrastos", originated after Beliar from the same common source and can be interpreted as being associated with the evolution of humanity into the supreme species it considers itself to be; in that he gave man... 
 * diversity (different tribes, cultures, nations)
 * knowledge (the development of self-consciousness and intellect)
 * curiosity (the driving force of exploration) and
@@ -307,13 +297,14 @@ Rhobar II. later established the Inquisition as another measure, as a representa
 
 ## Cults of Myrtana
 
-Within Myrtana, "religion" (a word that should not appear anywhere ingame) is practiced in form of *Cults* in the sense of the cults of antiquity, such as the mystery cults of ancient Greece. Accordingly, there are no "churches" in Myrtana, but temples. 
+Within Myrtana, "religion" (a word that should not appear anywhere ingame) is practiced in form of *Cults* in the sense of the cults of antiquity, such as the mystery cults of ancient Greece. Accordingly, in the Gothic lore there are no "churches" in Myrtana, but temples. 
 
-There is a cult of Innos, a cult of Adanos and a cult of Beliar. There may be other cults too, but these are the prevailing ones. Myrtana under the rule of Rhobar II. propagates the *Cult of the Three Gods*. The myrtanian people believe in the three gods and in their role in the grand scheme of life, but at some places the worship of Innos prevails, while at other places, more followers of Adanos are to be found. But no devotee of one of the gods would ever negate the existence of another. 
+We may mention though that "cathedrals" are mentioned in the context of Gothic. A cathedral was among the very first things that were designed when the Mad Scientists and the founders of the later Piranha Bytes joined to work on what would later become Gothic and there is an associating music track too. But we should not confuse this internal (or even in-universe) term as to connote something very christian; the "cathedral" is primarily used because it is such an important gothic trope; it is of threatening, awe-inspiring and iconic character and when thinking of gothic fiction, a dark, gothic cathedral is among the first things that come to mind. So it was obvious to imagine and work on a cathedral. 
+{: .subtext }
 
-Just as Innos and Adanos, Beliar has dedicated followers too, but no sacrifices are offered to him and no public worship is taking place; the cultic practice of the followers of Beliar is done in secrecy, since the worship of Beliar is condemned by the priests. While there are priests of Innos and Adanos, there are no priests of Beliar and the magic assigned to Beliar, such as the summoning of demons, is banned and considered as heresy.
+There is a cult of Innos, a cult of Adanos and a cult of Beliar. There may be other cults too, but these are the prevailing ones. Myrtana under the rule of Rhobar II. propagates the *Cult of the Three Gods*. The myrtanian people believe in the three gods and in their role in the grand scheme of life, at some places the worship of Innos may prevail, while at other places, more followers of Adanos are to be found. But no devotee of one of the gods would negate the existence of another. 
 
-The *clergy* of Myrtana is thus divided into the priests of fire and the priests of water (which are organised in *circles*), while as a whole, as the communities of followers, they are described as the "House of Innos" and the "House of Adanos". Similar to what in Christianity would be described as the Roman-Catholic or Protestant or Orthodox Church etc. Just that here they were reconciled in form of the Cult of the three Gods, something like an ecumenical movement of Myrtana. 
+There are also other local deities and believes in different corners of the realm, such as the shamanism of the orcs and specific movements considered as heretical by the priests, such as the *Brotherhood of the Sleeper*. 
 
 
 ### Cult of the Three Gods
@@ -322,15 +313,19 @@ The *clergy* of Myrtana is thus divided into the priests of fire and the priests
 
 > *"the proclaimer of the faith into the three gods and representative of the highest god Ra"* [C]
 
-With the founding of the empire, Rhobar I. attempted to reconcile the disputes of the priests by the proclamation of the faith in the three gods. There are other cults in the kingdom. But since Rhobar I. the *Cult of the Three Gods* is "states religion".
+According to the Comic, Rhobar II. (perhaps Rhobar I. already) established this new faith, the cult of the three gods in Myrtana, while Innos or Ra - which at least in the present are used interchangeably - is seen as the highest god of the three. Rhobars proclamation of the faith into the three gods can thus be seen both as a reconciliation (after the cultic wars), but also, by establishing Innos as the highest god, he clearly decided the war in favour of Innos.
 
-Priests are consecrated both to Innos and Adanos, but not to Beliar. At least - not anymore at the time of the new empire during which the story takes place. 
+Just as Innos and Adanos, Beliar has dedicated followers too, but according to the sources, it seems that no sacrifices are offered to him and no public worship is taking place; if there is any cultic practice of the followers of Beliar, then it seems to be done in secrecy, since the worship of Beliar is condemned by the priests. While there are priests of Innos and Adanos, the manual specifically mentions - and also Mike said so at some point, that there are no priests of Beliar and the magic assigned to Beliar, such as necromancy or the summoning of demons, is banned and considered heretical.
 
 > [...] zu oberst stand *Innos*, der Gott der Sonne und des Gesetzes, der als erster und höchster Gott verehrt wurde und dessen Priester die Magier des Feuers waren. Die
 Priester des Gottes *Adanos* [...] waren die Magier des Wasserkreises, nur dem
 Gott der Dunkelheit und des Todes, *Beliar*, waren keine Priester geweiht, denn seine Mächte waren von finsterer Natur. [M]
 
-The belief in the gods, while it may be in decline (and the reverence for the gods may be the lowest in a place like the colony), is still very popular within Myrtana and we can quote several mentionings from within the colony too.
+Also the *Lore of the Gods* at least implies, that no priests may be consecrated to Beliar, as they are not mentioned. So according to the sources there may indeed be no priests of beliar - at least not anymore at the time during which the story takes place. And at least not where the myrtanian regime is in control. In the colony, they are not...
+
+The "clergy" of Myrtana is thus divided into the priests of fire and the priests of water (which are organised in *circles*), while as a whole, as the communities of followers, they are described as the "House of Innos" and the "House of Adanos". Similar to what in Christianity would be described as the Roman-Catholic or Protestant or Orthodox Church etc. Just that here they were reconciled in form of the faith into the three Gods, something like an ecumenical movement of Myrtana (although less peaceful, but a brutal, a gothic one). 
+
+The belief in the gods, while it may be in decline (and the reverence especially for Innos may be the lowest in a place like the colony), is still very popular within Myrtana and we can quote several mentionings from the game too.
 
 > *The Mages in the New Camp are planning something with the magical barrier. The Gods may protect us.* (Secret Thieves, 0.56c)
 
@@ -342,7 +337,7 @@ The belief in the gods, while it may be in decline (and the reverence for the go
 
 <!-- Magic is still thought to be a gift of the gods; even if it cannot be proven. A title of a book that was not written, is talking of the "Divine Gift" (Göttergabe), related to the first circle, refering to magic or the "Arcane". There is a melee weapon called "Götterhammer" (hammer of the gods). -->
 
-There are also other local deities and believes in different corners of the realm, such as the shamanism of the orcs and specific movements considered as heretical by the royal clergy, such as the *Brotherhood of the Sleeper*. 
+
 
 ### Sect of the Sleeper
 
@@ -356,6 +351,98 @@ The priests of the cult still assume that their magical (psionic) power has to h
 
 > [...] The brotherhood is a threat. A threat for the proceeding of our trade agreement and thus for the King, the entire kingdom and also for your life. Therefore you should send out scouts and find out, on which gods and on which knowledge their magical power is based. If you figured this out, we will inform the priests of your findings, so that together we can bring an end to this phantom. [...] [G]
 
+
+
+## Phoenix Solutions
+
+
+TODO:
+* Take out most interpretation above to put here.
+* Take out all the phoenix related historical context (first empire etc.)
+* Add all the additional ideas from our discord exchanges.
+* Maybe put the interpretation of the scriptures here; but instead add a summary of all the stuff that can clearly be taken without interpretation from all the sources, although the current interpretation of the lore of the gods imo is quite obvious
+{: .subtext }
+
+
+### Gods in Phoenix
+
+
+#### Beyond Good & Evil
+
+In the manual and also at some places in the design documentation, the writers used to fall back into a simplified good/evil dichotomy. But to do the early ideas justice (or just in order to tell a better story, a more meaningful drama), it is veryimportant to us neither to see Innos and Beliar as representing good and evil, nor to confuse the role of Adanos accordingly, as a balance between good and evil.
+
+Adanos should be about a more complex form of balance as in the philosophy of yin & yang, that are both necessary; a clear good/evil dichotomy should be avoided at all costs. Innos and Beliar are indeed about a duality, a duality like light and dark, of activity & passivity, of giving and receiving; but they are both *needed* and form a "unity of opposites". 
+
+Just as the ancient indian cults of the gods as all these aspects of Brahman, the Absolute, is hard to grasp for the western mind and widely misunderstood as a "polytheism", yin & yang, while about a duality, are not about a contrast of mutually exclusive forces, they are one, the two sides of a coin or a wheel (think of the wheel of the dharma). And it is Adanos who lets the wheel roll, taking care that it doesn't fall unto one of the sides. 
+
+If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design docs, that Mike had wanted to avoid to present as such in the game; and in any way has to be avoided by us, due to how [Gothic was defined](/vision/gothic-defined). 
+
+
+#### Gods and Time
+
+Night & Day, Dusk and Dawn:  
+As Innos and Beliar are responsible for night and day, Adanos could be imagined as playing a role in the transition inbetween; as if he helps at dusk and dawn (imagine the image of the sun rising at the horizon from the water at dawn or sinking down into the earth at dusk); Adanos playing a mediator role. 
+
+```
+TODO: Add metaphors regarding other cycles (year, seasons etc.)
+```
+
+
+#### The Divine Law
+
+All of the three gods are associated in the sources with justice, but in different ways.
+Innos is associated specifically with the *law*. Beliar is associated with punishment (of those who act against the will of the gods), he is therefore associated with the *execution* of the law. And Adanos is associated with *justice* in the Sequel, but in a sense of balance, of equality (in case of unjust inequality). 
+
+
+#### The Gods as Tutelaries
+
+It was one of our contributors, Klaus, who suggested, that in order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we should try to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Because by believing in different gods they clearly imagined the gods to have different responsibilities and so they also may be seen as patrons of different professions and estates.
+
+| Gods       | Areas of Life |
+|------------|---------------|
+| **Innos**  | war, fighting, sports, power & fortune, bad dreams (dispelling darkness), weather (spending sun for agriculture, spare from fire, thunder and cold), vices (like addiction), speech disorders, procreation |
+| **Adanos** | health (spare from sickness, heal wounds, ease pain), travel, equality, weather (send enough rain, spare from floods), fertility, dexterity (craft-related), learning |
+| **Beliar** | death (gentle death, delaying death, fear of death), fear, hiding, curses, revenge, retribution, miscarriage, shady business, demons (protect from & evoke), ghosts, sorrow, harvest |
+
+| God        | Professions/Estates |
+|------------|---------------------|
+| **Innos**  | soldiers, smiths, gladiators, mercenaries, cooks (herd), masons, carpenters, charcoal burners, bakers, bards, poets, musicians, fire priests |
+| **Adanos** | healers (medici, surgeons, midwifes), fishermen, travelers, innkeepers, explorers, shepherds, peasants, sailors, ferrymen, scholars, artists, spinners, weavers, tailors, beggars, beekeepers, potters, dyers, water priests | 
+| **Beliar** | gravediggers, executioners, miners, gladiators (fast/heroic death), butchers, knackers, criminals (everyone in hiding: thieves, refugees, scared, haunted), whores |
+
+```
+TODO: Add our reasoning for the assignments
+unsure: nightwatchmen, hunters, children
+
+```
+
+Adanos was associated in the scriptures with diversity (which we interpret as different tribes, cultures, nations), with knowledge (which we interpret as the development of self-consciousness and intellect), with curiosity (which we interpret as the driving force of exploration) and with courage (which we interpret as to conquer and rule the world (nature) "given" to them). At the same time he was associated in the Sequel with justice. 
+
+
+#### Identification of Innos with Ra
+
+*flosha, based on ideas by Avallach*
+
+We combine both of the above mentioned possible explanations regarding Ra & and Innos (Ra as the former name of Innos and being identified with him, as well as Ra as the actual divine Absolute that the other three gods originated from), by explaining it through a historical, religious development within Myrtana. 
+
+We imagine *Innos* as a nordic god, which was primarily worshipped in the northern lands. He originated as a god of war, of law and fire. While *Ra* is a god originating from the ancient civilisation of Varant, the creator, with an emphasis on light, the sun and illumination. 
+
+The "fire" comes both with the positive aspects of warmth and its essential role in the cultural evolution, as well as with destructive aspects of destruction. In the context of justice, the fire is seen as "cleansing" and being "just" in that it burns everyone the same - unless he is *innocent* (in this context, think of the [*Feuerprobe*](https://de.wikipedia.org/wiki/Feuerprobe)).
+
+In the context of Innos as a god of war, see the sword of Gomez, called *Innos Zorn* ("Wrath" or "Rage" of Innos). In religious contexts there is the concept of "gerechter Zorn" (*just wrath*), that is often attributed to saints or god himself. It may be *Innos* who is thought to be *angry*, who wants rage; while Beliar is the one who is executing it in form of punishment in accordance with [Innos' will](#the-will-of-the-gods).
+
+In the Sequel, Innos is specifically linked to the *law* and the *maintenance of order*, while Adanos is linked to *justice*, and called "Waagschale der Menschheit" (scale of mankind), not in the sense of weighing them, but in the sense of keeping mankind in balance between the two forces of light and darkness, order and chaos. 
+
+In order to propagate the cult of fire (whose priests originated from the united priests of the ancient civilisation but split into different cults from there), the priests of fire have started to identify *Innos* with *Ra* in their preachings since a few centuries. But it was under the reign of Rhobar I. that this identification was brought to an end and that the two gods finally merged in the public perception. Rhobars establishment as a quasi divine ruler and the declaration of his realm as a successor of the first empire, proven by bearing the holy insignia (the Sceptre of Varant), was the final seal of this fusion. 
+
+In course of this, the traditional aspects of *Innos*, of fire, law and war, have become the prevailing attributes in the general understanding of the god, while the aspects of *Ra* have experienced a decline. Among scholars who learned the older language, the old name *Ra* is still in use (as in the example of the royal judge in the Comic), but most often used interchangeably with *Innos*. A simple solution by which we do not have to explain the speech of the judge in the Comic as any mistake. 
+
+But while the Cult of Myrtana identifies *Innos* with *Ra*, some heretical movements refuse this identification; similar to the gnostics they see *Innos*, as worshipped in the cult of the three gods, as a malevolent lesser god and demiurg in difference to the divine Absolute.
+
+
+## Cult of Three Gods
+
+With the founding of the empire, Rhobar I. attempted to reconcile the disputes of the priests by the proclamation of the faith in the three gods. There are other cults in the kingdom. But since Rhobar I. the *Cult of the Three Gods* is "states religion".
 
 
 
