@@ -466,7 +466,5 @@ In my prior modeling attempts I hadn't considered the rise of the terrain yet, b
 
 In this case, at least parts of the rock faces west of the temple ruins could remain and the water would run down north and probably south of it too into the ocean; from above, on the lake, the temple would not be seen, just some rocks sticking out from the wall, that the water would flow around; from above the player wouldn't know about the temple. And from the bottom, the beach and the monastery itself, you couldn't look upon the lake, but the mountainous region would be preserved, maybe not as high as before, but that really didn't matter, as unfinished as this area was even in the release version of the game. 
 
-Through this solution I could finally solve the puzzle of redesigning the northeastern environment without compromises. I had worked on it, on and off, in search for a solution, for 2 years.
+Through this solution I could finally solve the puzzle of redesigning the northeastern environment without compromises. I had worked on this design, on and off, in search for a solution, for 2 years.
 
-But while being sure that this time it would finally work out, I still had to do it. 
-Now!
