@@ -366,16 +366,22 @@ TODO:
 
 ### Gods in Phoenix
 
+```
+TODO: Innos and Beliar - any summaries/additions/explanations beyond what is written in the Alpha analyses?
+```
+
+Adanos was associated in the scriptures with diversity (which we interpret as different tribes, cultures, nations), with knowledge (which we interpret as the development of self-consciousness and intellect), with curiosity (which we interpret as the driving force of exploration) and with courage (which we interpret as to conquer and rule the world (nature) "given" to them). At the same time he was associated in the Sequel with justice. 
+
 
 #### Beyond Good & Evil
 
-In the manual and also at some places in the design documentation, the writers used to fall back into a simplified good/evil dichotomy. But to do the early ideas justice (or just in order to tell a better story, a more meaningful drama), it is veryimportant to us neither to see Innos and Beliar as representing good and evil, nor to confuse the role of Adanos accordingly, as a balance between good and evil.
+In the manual and also at some places in the design documentation, the writers used to fall back into a simplified good/evil dichotomy. But to do the early ideas justice (or just in order to tell a better story, a more meaningful drama), it is very important to us neither to see Innos and Beliar as representing good and evil, nor to confuse the role of Adanos accordingly, as a balance between good and evil.
 
 Adanos should be about a more complex form of balance as in the philosophy of yin & yang, that are both necessary; a clear good/evil dichotomy should be avoided at all costs. Innos and Beliar are indeed about a duality, a duality like light and dark, of activity & passivity, of giving and receiving; but they are both *needed* and form a "unity of opposites". 
 
 Just as the ancient indian cults of the gods as all these aspects of Brahman, the Absolute, is hard to grasp for the western mind and widely misunderstood as a "polytheism", yin & yang, while about a duality, are not about a contrast of mutually exclusive forces, they are one, the two sides of a coin or a wheel (think of the wheel of the dharma). And it is Adanos who lets the wheel roll, taking care that it doesn't fall unto one of the sides. 
 
-If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design docs, that Mike had wanted to avoid to present as such in the game; and in any way has to be avoided by us, due to how [Gothic was defined](/vision/gothic-defined). 
+If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design docs, that Mike had wanted to avoid to present as such in the game; and in any way has to be avoided by us, due to our [definition of Gothic](/vision/gothic-defined). 
 
 
 #### Gods and Time
@@ -415,8 +421,6 @@ TODO: Add our reasoning for the assignments
 unsure: nightwatchmen, hunters, children
 
 ```
-
-Adanos was associated in the scriptures with diversity (which we interpret as different tribes, cultures, nations), with knowledge (which we interpret as the development of self-consciousness and intellect), with curiosity (which we interpret as the driving force of exploration) and with courage (which we interpret as to conquer and rule the world (nature) "given" to them). At the same time he was associated in the Sequel with justice. 
 
 
 #### Identification of Innos with Ra
