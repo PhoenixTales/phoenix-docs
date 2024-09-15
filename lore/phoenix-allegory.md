@@ -1,4 +1,4 @@
-# The Phoenix Allegory
+# Corristos Allegory of the Phoenix
 
 ```
 Author: Flosha
@@ -33,7 +33,9 @@ The Ashes of the Phoenix, that Corristo is hinting at here, is to be found at th
 
 If we understand this literally, it has to mean that Corristo and Gomez or another baron once met at the bottom of the prison. The reader should imagine how the prison was originally [meant to look like](https://gothicarchive.org/conceptart/ralfmarczinczik/prison.html), where this well would run all the way down along three prison levels. Here at the deepest point of the prison, hidden and in secret at the well, the firemage met with one of the prisoners, perhaps Gomez himself, to forge an alliance - *before* the barons were in power. The second book explains us what that means. 
 
-[TODO: Speculate: Why are the *ashes* of the Phoenix here? What does this imply in the allegory of the Phoenix? Was a ritual performed here in which something was burned? The "pact" may have been sealed here by fire?]
+```
+TODO: Speculate: Why are the *ashes* of the Phoenix here? What does this imply in the allegory of the Phoenix? Was a ritual performed here in which something was burned? The "pact" may have been sealed here by fire?
+```
 
 
 ## Book 2 - The Ashes of the Phoenix
@@ -93,7 +95,7 @@ A part of the mages left the hoard - the circle and the camp, to form a new circ
 
 ## Book 4 - The Waves of the Phoenix
 
-> *So the Children of the Storm erected high dams to protect themselves from the Waves of Water. They kept a lookout for their former companions in suffering and forced the remaining to hard labour without mercy.*
+> *So the Children of the Storm erected high dams to protect themselves from the Waves of Water. They kept a lookout for their former companions in suffering and forced the remaining to hard labour without mercy.*  
 > *The pure Storm of Justice, that it initially was, changed his face and became worse than what it had replaced.*
 
 This is referring to the construction of the palisade, that surrounds the outer ring. The text tells us, that the conflict with the New Camp was the actual reason for the construction of the palisade, from which they would lookout for their new enemies.  
@@ -120,7 +122,7 @@ This is the cave behind the waterfall east of the New Camp. This could give us s
 
 ## Book 6 - The Nightmare of the Phoenix
 
-> *Before long the Beak of the Storm ripped flesh from his own side again and this flesh formed into the Children of the Spirit. They hid in rocky caves, before they founded their own hoard in the midst of mud and vermin.*
+> *Before long the Beak of the Storm ripped flesh from his own side again and this flesh formed into the Children of the Spirit. They hid in rocky caves, before they founded their own hoard in the midst of mud and vermin.*  
 > *This was the hour of birth of our own demise, since the Power of the Spirit shocked the Structure [Gefüge] of the World.*
 
 Corristo describes the founding of the Sect of the Sleeper, that he paraphrases as Children of the Spirit. More about the actual background of the foundation of the Psi Camp can be found in our respective documentation. The second sentence should be self-explanatory. The description of the events as a "shock" (or in the original text a "Erschütterung"), can be seen as having a double meaning. It shattered the structure of the Colony in that the Old Mine was flooded in course of the earthquakes during the Last Prayer. But in Corristos understanding, their rituals also send a shock through the magical structure of the world at large (more about this you can read in the context of the alpha plot). 
@@ -132,7 +134,7 @@ This rocky nest in airy height is the cave in which Gilbert was hiding in the re
 
 ## Book 7 - The Nest of the Phoenix
 
-> *Thus, the years went by and the Rage of the Storm competed with the Waves of Water and the Children of the Spirit. The Fire, that once nourished the Storm so eagerly, became ever weaker and today it is burning insignificantly.*
+> *Thus, the years went by and the Rage of the Storm competed with the Waves of Water and the Children of the Spirit. The Fire, that once nourished the Storm so eagerly, became ever weaker and today it is burning insignificantly.*  
 > *Measures have to be taken, to preserve the Knowledge of the Fire.*
 
 Again, Corristo seems to indicate, that him and his brothers were really standing behind the *Storm* initially, "eagerly nourishing" the fire of the revolt. But now, the fire was weak, the madness was strong and the circle, as every magic circle, founded for a magical purpose and goal, was bare of motive and sanction; it lost support of those it had brought into power and saw its magical endeavours as a total inversion of its initial intentions. But he is not giving up; before the fire of his life would be extinguished, he had to lay the trail of the Phoenix. 
@@ -148,7 +150,7 @@ The Phoenix settles at the highest place of his hoard (of the prison castle), th
 
 Corristo seems to suggest, that apart from the situation in the colony and the barons that are about to kill the mages of his circle, he also discovered something about the magical events associated with the awakening of the Sleeper. 
 
-> *It must persist. It has always been so. It will always be so.*
+> *It must persist. It has always been so. It will always be so.*  
 > *The Life of the Phoenix is an everlasting Cycle. He always returns to where he began, to rise from the Ashes to new life. This is the resurrection of the Phoenix.* 
 
 This last book is going more into magical territory (of internal change) in the sense of what we call the Phoenix Mystery with which we will not deal with here, as it has to be discovered in the story. But the idea of the cycles in context of the Phoenix and of fire we can as well interpret in context of all the outer change. 
@@ -163,8 +165,8 @@ At the end of the trail, when returning back to where it began, the player disco
 
 ## Book 9 - The Resurrection of the Phoenix
 
-> *You have solved the Riddle of the Phoenix. You are worthy, to receive the Knowledge of Fire.*
-> *Preserve the knowledge and do not waste it in a meaningless way. This is the last hoard of fire within the barrier.*
+> *You have solved the Riddle of the Phoenix. You are worthy, to receive the Knowledge of Fire.*  
+> *Preserve the knowledge and do not waste it in a meaningless way. This is the last hoard of fire within the barrier.*  
 > *The Phoenix has risen from the Ashes and the Power of Fire blazes in new lustre. This is the Cycle of Life. It was so forever. It will be so forever.*
 
 
@@ -173,47 +175,47 @@ At the end of the trail, when returning back to where it began, the player disco
 ### Original Text
 
 **1. Die Spur des Phoenix:**
-> *Der Sturm zieht auf. Ich weiss es und kann doch nicht dagegen ankämpfen. Ich selbst verhalf einst dem Sturm zu seiner Macht und sonnte mich in seinem Glanz. Doch nun ist der Bund mit dem Sturm zum Pakt mit dem Teufel geworden und meine Seele ist verloren.*
-> *Doch das Feuer wird weiterbestehen, muss weiterbestehen. Sein  Wissen wird sich erheben wie ein Phoenix aus der Asche. Derjenige, der gewillt ist, der Spur des Phoenix zu folgen, wird die Wiederauferstehung des Wissens über das Feuer erleben.*
+> *Der Sturm zieht auf. Ich weiss es und kann doch nicht dagegen ankämpfen. Ich selbst verhalf einst dem Sturm zu seiner Macht und sonnte mich in seinem Glanz. Doch nun ist der Bund mit dem Sturm zum Pakt mit dem Teufel geworden und meine Seele ist verloren.*  
+> *Doch das Feuer wird weiterbestehen, muss weiterbestehen. Sein  Wissen wird sich erheben wie ein Phoenix aus der Asche. Derjenige, der gewillt ist, der Spur des Phoenix zu folgen, wird die Wiederauferstehung des Wissens über das Feuer erleben.*  
 > *Die Spur des Phoenix beginnt in den tiefsten Tiefen seines runden Hortes. Dort, wo der Bund mit dem Sturm begann liegt die Asche des Phoenix begraben.*
 
 **2. Die Asche des Phoenix:**
-> *Einst, als ich den Kindern des Sturmes zur Macht verhalf, fegten sie ihre Unterdrücker hinweg. Doch ihre Grausamkeit stand der der Unterdrücker in nichts nach.*
-> *Sie raubten, mordeten und trieben die Schwachen zu unwürdiger Arbeit.*
+> *Einst, als ich den Kindern des Sturmes zur Macht verhalf, fegten sie ihre Unterdrücker hinweg. Doch ihre Grausamkeit stand der der Unterdrücker in nichts nach.*  
+> *Sie raubten, mordeten und trieben die Schwachen zu unwürdiger Arbeit.*  
 > *Was einst felsenfest verbunden war, brach durch die Macht des Sturms entzwei. An dieser Stelle beginnt der Aufstieg der Macht des Feuers, gleich dem Aufstieg des Phoenix. Doch der Phoenix hat an der Stelle des Bruches eine Feder hinterlassen. Die Feder des Phoenix.*
 
 **3. Die Feder des Phoenix:**
-> *Die Kinder des Sturms wurden zu den neuen Unterdrückern und die Macht des Feuers stärkte sie. Nichts war vor der Gier des Sturms sicher.*
-> *Schon bald versammelten sich die Unzufriedenen und verliessen den Hort. Sie wurden von der Weisheit des Wassers hinfortgetragen und von seiner Macht beschützt.*
+> *Die Kinder des Sturms wurden zu den neuen Unterdrückern und die Macht des Feuers stärkte sie. Nichts war vor der Gier des Sturms sicher.*  
+> *Schon bald versammelten sich die Unzufriedenen und verliessen den Hort. Sie wurden von der Weisheit des Wassers hinfortgetragen und von seiner Macht beschützt.*  
 > *Dort, wo die Macht des Wassers den Hort verlässt, findest du die Wellen des Phoenix.*
 
 **4. Die Wellen des Phoenix:**
-> *So errichteten die Kinder des Sturmes um sich herum hohe Dämme um sich vor den Wogen des Wassers zu schützen. Sie hielten Ausschau nach ihren einstigen Leidensgenossen und trieben die Verbliebenen erbarmungslos zu harter Arbeit.*
-> *Der anfänglich so reine Sturm der Gerechtigkeit wandelte sein Gesicht und wurde schlimmer als das, was er einst ersetzte.*
+> *So errichteten die Kinder des Sturmes um sich herum hohe Dämme um sich vor den Wogen des Wassers zu schützen. Sie hielten Ausschau nach ihren einstigen Leidensgenossen und trieben die Verbliebenen erbarmungslos zu harter Arbeit.*  
+> *Der anfänglich so reine Sturm der Gerechtigkeit wandelte sein Gesicht und wurde schlimmer als das, was er einst ersetzte.*  
 > *Beschreite den Damm und halte nach den Wogen des Wassers Ausschau. Dann wirst du vielleicht auch die Sehnsucht des Phoenix erblicken können.*
 
 **5. Die Sehnsucht des Phoenix:**
-> *Zuerst versteckten sich die Kinder des Wassers, die aus dem Hort flohen. Sie suchten Zuflucht in versteckten Höhlen, doch schon bald fanden sie einen eigenen Hort, der sie vor dem Zorn des Sturms schützte.*
+> *Zuerst versteckten sich die Kinder des Wassers, die aus dem Hort flohen. Sie suchten Zuflucht in versteckten Höhlen, doch schon bald fanden sie einen eigenen Hort, der sie vor dem Zorn des Sturms schützte.*  
 > *Nicht alle Höhlen kann man trockenen Fusses betreten. Doch genau diese Höhlen sind oft die besten Verstecke. Der feurige Phoenix hasst solche Höhlen, hat er doch Angst vor dem fliessenden Element. Solche Höhlen sind der Alptraum des Phoenix.*
 
 **6. Der Alptraum des Phoenix:**
-> *Schon bald riss der Schnabel des Sturmes aufs neue Fleisch aus seiner eigenen Seite und dieses Fleisch wurde zu den Kindern des Geistes. Sie versteckten sich in felsigen Höhlen, bevor sie einen eigenen Hort inmitten von Schlamm und Ungeziefer gründeten.*
-> *Dies war die Geburtsstunde unseres eigenen Untergangs, denn die Macht des Geistes erschütterte das Gefüge der Welt.*
+> *Schon bald riss der Schnabel des Sturmes aufs neue Fleisch aus seiner eigenen Seite und dieses Fleisch wurde zu den Kindern des Geistes. Sie versteckten sich in felsigen Höhlen, bevor sie einen eigenen Hort inmitten von Schlamm und Ungeziefer gründeten.*  
+> *Dies war die Geburtsstunde unseres eigenen Untergangs, denn die Macht des Geistes erschütterte das Gefüge der Welt.*  
 > *Der Phoenix zieht seine Jungen in einem Felsennest in luftiger Höhe auf. Dort wo kein Weg hinführt, brennt das feurige Nest des Phoenix.*
 
 **7. Das Nest des Phoenix:**
-> *So zogen die Jahre ins Land und der Zorn des Sturmes wetteiferte mit den Wogen des Wassers und den Kindern des Geistes. Das Feuer, dass einst den Sturm so eifrig ernährte, wurde immer schwächer und heute lodert es nur noch unbedeutend.*
-> *Vorkehrungen müssen getroffen werden, um das Wissen des Feuers zu bewahren.*
+> *So zogen die Jahre ins Land und der Zorn des Sturmes wetteiferte mit den Wogen des Wassers und den Kindern des Geistes. Das Feuer, dass einst den Sturm so eifrig ernährte, wurde immer schwächer und heute lodert es nur noch unbedeutend.*  
+> *Vorkehrungen müssen getroffen werden, um das Wissen des Feuers zu bewahren.*  
 > *Neigen sich die Tage eines Phoenix seinem Ende, so lässt er sich am höchsten Ort seines Hortes nieder und erwartet das Unausweichliche. Er erwartet dort den Tod des Phoenix.*
 
 **8. Der Tod des Phoenix:**
-> *Das Gefüge der Welt bebte. Erst langsam und schwach, dann immer öfter und immer heftiger. Das Ende ist nah, dessen bin ich mir sicher. Weder Sturm noch Wasser noch Geist erkennen es. Doch das Feuer weiss um die Wahrheit.*
-> *Es muss weiterbestehen. Es war immer so. Es wird immer so sein.*
+> *Das Gefüge der Welt bebte. Erst langsam und schwach, dann immer öfter und immer heftiger. Das Ende ist nah, dessen bin ich mir sicher. Weder Sturm noch Wasser noch Geist erkennen es. Doch das Feuer weiss um die Wahrheit.*  
+> *Es muss weiterbestehen. Es war immer so. Es wird immer so sein.*  
 > *Das Leben des Phoenix ist ein immerwährender Kreislauf. Er kehrt stets dorthin zurück, wo er einst begonnen hat, um sich aus der Asche wieder zu neuem Leben zu erheben. Dies ist die Auferstehung des Phoenix.*
 
 **9. Die Wiederauferstehung des Phoenix:**
-> *Du hast das Rätsel des Phoenix entschlüsselt. Du bist würdig, das Wissen des Feuers an dich zu nehmen.*
-> *Bewahre das Wissen und vergeude es nicht sinnlos. Dies ist der letzte Hort des Feuers innerhalb der Barriere.*
+> *Du hast das Rätsel des Phoenix entschlüsselt. Du bist würdig, das Wissen des Feuers an dich zu nehmen.*  
+> *Bewahre das Wissen und vergeude es nicht sinnlos. Dies ist der letzte Hort des Feuers innerhalb der Barriere.*  
 > *Der Phoenix hat sich aus seiner Asche erhoben, und die Macht des Feuers erstrahlt in neuem Glanz. Dies ist der Kreislauf des Lebens. Es war immer so. Es wird immer so sein.*
 
 
