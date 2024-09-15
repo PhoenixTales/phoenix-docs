@@ -408,18 +408,36 @@ In order to design the gods in Phoenix in a coherent way and get a better pictur
 
 | Gods       | Areas of Life |
 |------------|---------------|
-| **Innos**  | war, fighting, sports, power & fortune, law (legislation), bad dreams (dispelling darkness), weather (spending sun for agriculture, spare from fire, thunder and cold), vices (like addiction), theocracy (and kritarchy?), monarchy(?), speech (and disorders), trade, procreation |
-| **Adanos** | health (spare from sickness, heal wounds, ease pain), justice (judiciary), equality, travel, weather (send enough rain, spare from floods), meritocracy/noocracy (?), republic (?), fertility, dexterity (craft-related), learning |
-| **Beliar** | death (gentle death, delaying death, fear of death), executive, fear, hiding, curses, revenge, retribution, miscarriage, shady business, occultism, anarchy (as well as autocracy on the opposite spectrum, or kraterocracy), demons (protect from & evoke), ghosts, sorrow, harvest |
+| **Innos**  | light, sun, fire, war, fighting, sports, power & fortune, law (legislation), bad dreams (dispelling darkness), weather (spending sun for agriculture, spare from fire, thunder and cold), vices (like addiction), theocracy (and kritarchy?), monarchy(?), speech (and disorders), trade, procreation, language, the spoken word |
+| **Adanos** | water, health (spare from sickness, heal wounds, ease pain), justice (judiciary), equality (and measuring), travel, weather (send enough rain, spare from floods), meritocracy/noocracy (?), republic (?), fertility, dexterity (craft-related), learning, the written word |
+| **Beliar** | death (gentle death, delaying death, fear of death), moon, executive, fear, dreams (imagination), hiding, curses, revenge, retribution, miscarriage, shady business, occultism, anarchy (as well as autocracy on the opposite spectrum, or kraterocracy), demons (protect from & evoke), ghosts, sorrow, harvest, the unspoken, hidden thoughts |
+
+As discussed in [divine law], we associate Innos with the aspect of "legislation" (giving of the law) and therefore legislators, Adanos with the "judiciary" and therefore judges (in the particular meaning mentioned above - the royal magistrates of the New Empire are Innos focused) and Beliar with the executive and thus executioners.
+
+Innos is assiciated with and respinsible for light, creation, the sun and its warmth, thus the people of Myrtana pray to him for everything related, that the sun may shine and protect them from cold (hard winter - disfavour of Innos), that the fire of the home may never extinguish, that no fire may break out in or lightnings struck the village, that light might fill their thoughts and dreams and bodies (in form of children, as creation is associated with Innos and light -  with which children - below a certain age - are associated with in general too). 
+Accordingly, those professions that are working with fire a lot, use to turn to and are traditionally associated with Innos, but also those crafts which "create" the basic structures of their cultural world (builders). 
+As he is associated with law and order, so he is with order and structure in general. And since he has given men the ability to see, to speak and to hear and and "enlightened" the related senses, we associate him with music, the spoken word, singing, poetry and language in general as well as those professions which are primary driven by communication, such as trade. 
+As he is also associated with war he is of course revered by all kinds of warriors. 
+
+Adanos is associated with water and healing; so he is with health and all related professions, that they may stay healthy or become healthy again, that wounds may heal, that it may rain enough, with fertility of the soil (and women), with floods, that the people hope to be spared from, with travel, travelers and innkeepers (just as he carries the water safely through rivers to the sea and is always in motion), naturally with all professions dealimg with water. Due to his association with equality and the water as a measure if evenness, he is also associated with measures and revered by those who experience inequality, such as slaves and beggars. And due to his relation with knowledge he is also associated with science, the written word (which connects the world of thoughts to the manifested world) and all kinds of scholars (and the power and rule of the same). And due to his association with curiosity and diversity, he is also associates with the finer arts and crafts, such as painting (water) or weaving, as well as with those who produce variety in form of tailors (individual clothes) or dyers. 
+
+Beliar is associated with the night, the shadows, with dreams, the imaginative, and with death and demons. So he is revered by all who deal with death (hangmen, gravediggers), with those who operate at night, those who are hiding, like thieves or those who are haunted, those who try to escape, those involved in shady business. He is prayed to by those who seek revenge; those who are cursed or want to curse; those who are afraid or want others to fear them; those who are in sorrow. He is also associated with harvest due to its traditional associations. As Innos is associated with the spoken, Adanos with the written word, so is Beliar to the unspoken, unwritten, with all the hidden thoughts, feelings and ideas. He is also associated with occultism (in the sense of dark, hidden practices) as well as with anarchy and chaos. 
+
 
 | God        | Professions/Estates |
 |------------|---------------------|
-| **Innos**  | warriors, soldiers, legislators - "lawyers", smiths, gladiators, mercenaries, merchants, cooks (herd), masons, carpenters, charcoal burners, bakers, bards, poets, musicians, fire priests, nightwatchmen, children |
-| **Adanos** | healers (medici, surgeons, midwifes), judges (in the sense of mediators), slaves (gladiators too), fishermen, travelers, innkeepers, explorers, hunters, shepherds, peasants, sailors, ferrymen, scholars, artists, spinners, weavers, tailors, beggars, beekeepers, potters, dyers, water priests | 
-| **Beliar** | gravediggers, executioners, miners, gladiators (fast/heroic death), butchers, knackers, criminals (everyone in hiding: thieves, refugees, scared, haunted), whores |
+| **Innos**  | warriors, soldiers, legislators - "lawyers", smiths, gladiators, mercenaries, merchants, cooks (herd), masons, carpenters, charcoal burners, bakers, bards, poets, musicians, priests, potters, nightwatchmen, children |
+| **Adanos** | healers (medici, surgeons, midwifes), judges (in the sense of mediators), slaves (gladiators too), fishermen, travelers, innkeepers, explorers, hunters, shepherds, peasants, sailors, ferrymen, scholars, artists, spinners, weavers, tailors, beggars, beekeepers, potters, dyers, priests | 
+| **Beliar** | gravediggers, executioners, miners, gladiators (fast/heroic death), butchers, knackers, criminals (everyone in hiding: thieves, refugees, scared, haunted), nightwatchmen, whores, priests |
+
+As can be seen, some professions or estates we linked to two or all the three gods, depending on the perspective and the situation. A potter deals with water as much as with fire. A nightwatchmen carries fire through the night, but may also hope for the moon to appear. A gladiator may pray to Innos for victory in battle, to Beliar for a merciful death in case of loss, to Adanos if he is a slave who hopes for freedom. 
+
+It should be obvious, that the assignment of the professions is only meant to be a general tendency and a traditional association; there can be several reasons for why one may prefer and pray to another god for particular, individual reasons. 
+
+
 
 ```
-TODO: Add our reasoning for the assignments
+TODO: Add additionak reasoning for the assignments
 ```
 <!-- What is the name of these sort of judges in villages like in Afghanistan etc. who mediate between the people? Those is what I imagine adanos "judges" to mean; opposed to royal judges who are more about the flame and thereby kind of taking the role of judgement out of the hands of the adanos judges, where - as they may say - it was in better hands -> they are more operating according to the Dao-de-Jing and Laotse/Daoism: Add this to the law/justice section! 
 
