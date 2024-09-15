@@ -414,14 +414,12 @@ In order to design the gods in Phoenix in a coherent way and get a better pictur
 
 | God        | Professions/Estates |
 |------------|---------------------|
-| **Innos**  | warriors, soldiers, legislators - "lawyers", smiths, gladiators, mercenaries, merchants, cooks (herd), masons, carpenters, charcoal burners, bakers, bards, poets, musicians, fire priests |
-| **Adanos** | healers (medici, surgeons, midwifes), judges (in the sense of mediators), slaves (gladiators too), fishermen, travelers, innkeepers, explorers, shepherds, peasants, sailors, ferrymen, scholars, artists, spinners, weavers, tailors, beggars, beekeepers, potters, dyers, water priests | 
+| **Innos**  | warriors, soldiers, legislators - "lawyers", smiths, gladiators, mercenaries, merchants, cooks (herd), masons, carpenters, charcoal burners, bakers, bards, poets, musicians, fire priests, nightwatchmen, children |
+| **Adanos** | healers (medici, surgeons, midwifes), judges (in the sense of mediators), slaves (gladiators too), fishermen, travelers, innkeepers, explorers, hunters, shepherds, peasants, sailors, ferrymen, scholars, artists, spinners, weavers, tailors, beggars, beekeepers, potters, dyers, water priests | 
 | **Beliar** | gravediggers, executioners, miners, gladiators (fast/heroic death), butchers, knackers, criminals (everyone in hiding: thieves, refugees, scared, haunted), whores |
 
 ```
 TODO: Add our reasoning for the assignments
-unsure: nightwatchmen, hunters, children
-
 ```
 <!-- What is the name of these sort of judges in villages like in Afghanistan etc. who mediate between the people? Those is what I imagine adanos "judges" to mean; opposed to royal judges who are more about the flame and thereby kind of taking the role of judgement out of the hands of the adanos judges, where - as they may say - it was in better hands -> they are more operating according to the Dao-de-Jing and Laotse/Daoism: Add this to the law/justice section! 
 
