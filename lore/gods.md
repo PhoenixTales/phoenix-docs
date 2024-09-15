@@ -322,9 +322,9 @@ Gott der Dunkelheit und des Todes, *Beliar*, waren keine Priester geweiht, denn 
 
 Also the *Lore of the Gods* at least implies, that no priests may be consecrated to Beliar, as they are not mentioned. So according to the sources there may indeed be no priests of beliar - at least not anymore at the time during which the story takes place. And at least not where the myrtanian regime is in control. In the colony, they are not...
 
-The "clergy" of Myrtana is thus divided into the priests of fire and the priests of water (which are organised in *circles*), while as a whole, as the communities of followers, they are described as the "House of Innos" and the "House of Adanos". Similar to what in Christianity would be described as the Roman-Catholic or Protestant or Orthodox Church etc. Just that here they were reconciled in form of the faith into the three Gods, something like an ecumenical movement of Myrtana (although less peaceful, but a brutal, a gothic one). 
+The "clergy" of Myrtana is thus divided into the priests of fire and the priests of water (which are organised in *circles*), while as a whole, as the communities of followers, they are described as the "House of Innos" and the "House of Adanos". Similar to what in Christianity would be described as the Roman-Catholic or Protestant or Orthodox Church etc. Just that here they were reconciled in form of the faith into the three Gods, something like an ecumenical movement of Myrtana (although less peaceful, but a brutal, a gothic one). Both in Gothic and the Sequel the followers of Innos are also described as the *Children of Fire*. 
 
-The belief in the gods, while it may be in decline (and the reverence especially for Innos may be the lowest in a place like the colony), is still very popular within Myrtana and we can quote several mentionings from the game too.
+The belief in the gods, while it may be in decline (and the reverence especially for Innos may be the lowest in a place like the colony), is still very popular within Myrtana and we can quote several mentionings within the game(s).
 
 > *The Mages in the New Camp are planning something with the magical barrier. The Gods may protect us.* (Secret Thieves, 0.56c)
 
@@ -333,7 +333,11 @@ The belief in the gods, while it may be in decline (and the reverence especially
 > Rigaldo: *May Innos protect us.* [G]
 
 > Until my body goes to Beliars realm and extinguishing is the fire of life. [G]
+<!--> Arbeiter: Dieses Diebespack, diese faulen Hunde, soll Beliar sie alle holen! [S]-->
+> Worker: *This pack of thieves, those lazy dogs, shall Beliar take them all!* [S]
 
+<!-- > Brief eines Arbeiters *Bei Innos, die Orks haben schreckliche Dinge mit ihnen getan.* / *Innos sei Dank, zumindest haben wir es ins Lager geschafft. Der König ist ebenfalls hier im Tal. Das gibt vielen hier Mut und Kraft.* -->
+> Letter of a worker: *Oh Innos, the orcs have done terrible things to them.* / *Thank Innos, at least we made it into the camp.*
 <!-- Magic is still thought to be a gift of the gods; even if it cannot be proven. A title of a book that was not written, is talking of the "Divine Gift" (Göttergabe), related to the first circle, refering to magic or the "Arcane". There is a melee weapon called "Götterhammer" (hammer of the gods). -->
 
 
@@ -393,7 +397,7 @@ Innos is associated specifically with the *law*. Beliar is associated with punis
 *Flosha, Klaus & Delvin*  
 *11.09.2024 - 15.09.2024*
 
-In order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we should try to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Or in other words: How the Gods and men relate. 
+In order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we should try to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Or in other words: How gods and men relate. 
 
 Because by believing in different gods they clearly imagine the gods to have different responsibilities and may be seen as patrons of different professions and estates. So we asked the question: For what purposes and in which situations will people pray to or worship the gods, including Beliar?
 
