@@ -151,16 +151,14 @@ Corristo seems to suggest, that apart from the situation in the colony and the b
 > *It must persist. It has always been so. It will always be so.*
 > *The Life of the Phoenix is an everlasting Cycle. He always returns to where he began, to rise from the Ashes to new life. This is the resurrection of the Phoenix.* 
 
-This last book is going more into magical territory (of internal change) in the sense of what we call the Phoenix Mystery with which we will not deal with here, as it has to be discovered in the story.
-
-But the idea of the cycles in context of the Phoenix and of fire we can as well interpret in context of all the outer change. 
+This last book is going more into magical territory (of internal change) in the sense of what we call the Phoenix Mystery with which we will not deal with here, as it has to be discovered in the story. But the idea of the cycles in context of the Phoenix and of fire we can as well interpret in context of all the outer change. 
 
 Throughout the allegory, Corristo describes the different camps as "hoards". While he has no specific name for the hoard of the New Camp and the hoard of the Psi Camp, he identifies the Prison Castle as the hoard of the Phoenix. The Prison Castle is a portentous symbol both of oppression and of revolution and of the cycle between. First built for the prisoners, then overtaken with the help of Fire. The old system crushed and burned down; a new system arose. This system is crushed again with their leaders slowly drifting into madness, the firemages killed; the fire extinguished. 
 In the Sequel, again a new order arises in the Castle. The Camp now a Refugee Camp; once the prisoners fled away from the castle, now they flee towards it. And here too the new order is supported by a new magical movement, a new form of circle in the chapel. 
 
 What are Corristos intentions apart from preserving the knowledge that the player should discover by following the trail to the end?
 
-At the end of the trail, when returning back to where it began, the player discovers a secret chamber of Corristo. In the chamber he finds a bookstand that contains the Resurrection of the Phoenix. 
+At the end of the trail, when returning back to where it began, the player discovers a secret chamber of Corristo. In the chamber he finds a bookstand that contains the Resurrection of the Phoenix. In the Sequel, there is not much to it. But it should be obvious, that the *Phoenix Mystery* is an essential part of the Phoenix Plot. 
 
 
 ## Book 9 - The Resurrection of the Phoenix
