@@ -59,6 +59,7 @@
 3. Culture
 4. MetaPhysics
 5. History 
+	1. [Phoenix Allegory](/lore/phoenix-allegory)
 
 
 ### IV. [World Design](/story/world)
