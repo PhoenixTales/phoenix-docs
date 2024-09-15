@@ -27,9 +27,8 @@ Last update: 14.09.2024
 * [Phoenix Solutions](#phoenix-solutions)  
   * [Gods in Phoenix](#gods-in-phoenix)  
     * [Beyond Good & Evil](#beyond-good--evil)
-    * [Gods and Time](#gods-and-time)
     * [The Divine Law](#the-divine-law)
-    * [The Gods as Tutelaries](#the-gods-as-tutelaries)
+    * [Gods in Relation to Men](#gods-in-relation-to-men)
     * [Identification of Innos with Ra](#identification-of-innos-with-ra)
 
 
@@ -389,7 +388,7 @@ All of the three gods are associated in the sources with justice, but in differe
 Innos is associated specifically with the *law*. Beliar is associated with punishment (of those who act against the will of the gods), he is therefore associated with the *execution* of the law. And Adanos is associated with *justice* in the Sequel, but in a sense of balance, of equality (in case of unjust inequality). 
 
 
-#### Relation of Gods and Men
+#### Gods in Relation to Men
 
 *Flosha, Klaus & Delvin*  
 *11.09.2024 - 15.09.2024*
