@@ -383,45 +383,48 @@ Just as the ancient indian cults of the gods as all these aspects of Brahman, th
 If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design docs, that Mike had wanted to avoid to present as such in the game; and in any way has to be avoided by us, due to our [definition of Gothic](/vision/gothic-defined). 
 
 
-#### Gods and Time
-
-Night & Day, Dusk and Dawn:  
-As Innos and Beliar are responsible for night and day, Adanos could be imagined as playing a role in the transition inbetween; as if he helps at dusk and dawn (imagine the image of the sun rising at the horizon from the water at dawn or sinking down into the earth at dusk); Adanos playing a mediator role. 
-
-```
-TODO: Add metaphors regarding other cycles (year, seasons etc.)
-```
-
-
 #### The Divine Law
 
 All of the three gods are associated in the sources with justice, but in different ways.
 Innos is associated specifically with the *law*. Beliar is associated with punishment (of those who act against the will of the gods), he is therefore associated with the *execution* of the law. And Adanos is associated with *justice* in the Sequel, but in a sense of balance, of equality (in case of unjust inequality). 
 
 
-#### The Gods as Tutelaries
+#### Relation of Gods and Men
 
-*Klaus, Flosha & Delvin*
+*Flosha, Klaus & Delvin*  
+*11.09.2024 - 15.09.2024*
 
-In order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we should try to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Because by believing in different gods they clearly imagine the gods to have different responsibilities and may be seen as patrons of different professions and estates. So we asked the question: For what purposes and in which situations will people pray to or worship the gods, including Beliar?
+In order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we should try to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Or in other words: How the Gods and men relate. 
+
+Because by believing in different gods they clearly imagine the gods to have different responsibilities and may be seen as patrons of different professions and estates. So we asked the question: For what purposes and in which situations will people pray to or worship the gods, including Beliar?
 
 
 | Gods       | Areas of Life |
 |------------|---------------|
-| **Innos**  | light, sun, fire, war, fighting, sports, power & fortune, law (legislation), bad dreams (dispelling darkness), weather (spending sun for agriculture, spare from fire, thunder and cold), vices (like addiction), theocracy (and kritarchy?), monarchy(?), speech (and disorders), trade, procreation, language, the spoken word |
+| **Innos**  | light, sun, fire, day, war, fighting, sports, power & fortune, law (legislation), bad dreams (dispelling darkness), weather (spending sun for agriculture, spare from fire, thunder and cold), vices (like addiction), theocracy (and kritarchy?), monarchy(?), speech (and disorders), trade, procreation, language, the spoken word, work, activity |
 | **Adanos** | water, health (spare from sickness, heal wounds, ease pain), justice (judiciary), equality (and measuring), travel, weather (send enough rain, spare from floods), meritocracy/noocracy (?), republic (?), fertility, dexterity (craft-related), learning, the written word |
-| **Beliar** | death (gentle death, delaying death, fear of death), moon, executive, fear, dreams (imagination), hiding, curses, revenge, retribution, miscarriage, shady business, occultism, anarchy (as well as autocracy on the opposite spectrum, or kraterocracy), demons (protect from & evoke), ghosts, sorrow, harvest, the unspoken, hidden thoughts |
+| **Beliar** | night, darkness, silence, death (gentle death, delaying death, fear of death), moon, executive, fear, dreams (imagination), hiding, curses, revenge, retribution, miscarriage, shady business, occultism, anarchy (as well as autocracy on the opposite spectrum, or kraterocracy), rest, inactivity, demons (protect from & evoke), ghosts, sorrow, harvest, the unspoken, hidden thoughts |
 
 As discussed in [divine law], we associate Innos with the aspect of "legislation" (giving of the law) and therefore legislators, Adanos with the "judiciary" and therefore judges (in the particular meaning mentioned above - the royal magistrates of the New Empire are Innos focused) and Beliar with the executive and thus executioners.
 
-Innos is assiciated with and respinsible for light, creation, the sun and its warmth, thus the people of Myrtana pray to him for everything related, that the sun may shine and protect them from cold (hard winter - disfavour of Innos), that the fire of the home may never extinguish, that no fire may break out in or lightnings struck the village, that light might fill their thoughts and dreams and bodies (in form of children, as creation is associated with Innos and light -  with which children - below a certain age - are associated with in general too). 
-Accordingly, those professions that are working with fire a lot, use to turn to and are traditionally associated with Innos, but also those crafts which "create" the basic structures of their cultural world (builders). 
-As he is associated with law and order, so he is with order and structure in general. And since he has given men the ability to see, to speak and to hear and and "enlightened" the related senses, we associate him with music, the spoken word, singing, poetry and language in general as well as those professions which are primary driven by communication, such as trade. 
+Innos is associated with and responsible for light, creation, the sun and its warmth, thus the people of Myrtana pray to him for everything related. That the sun may shine and protect them from cold (hard winter - disfavour of Innos), that the fire of the home may never extinguish, that no fire may break out in or lightnings struck the village, that light might fill their thoughts (overcome vice) and dreams and bodies (in form of children, as creation is associated with Innos and light, with which children - below a certain age - are associated too). 
+Accordingly, those professions that are working with fire a lot, use to turn to and are traditionally associated with Innos, but also those crafts which "create" the basic structures of their cultural world (builders). As he is associated with law and order, so he is with order and structure in general.  
+Since he is thought to have given men the ability to see, to speak and to hear and "enlightened" the related senses, we associate him with music, the spoken word, singing, poetry and language in general as well as those professions which are primary driven by communication, such as trade. 
 As he is also associated with war he is of course revered by all kinds of warriors. 
 
-Adanos is associated with water and healing; so he is with health and all related professions, that they may stay healthy or become healthy again, that wounds may heal, that it may rain enough, with fertility of the soil (and women), with floods, that the people hope to be spared from, with travel, travelers and innkeepers (just as he carries the water safely through rivers to the sea and is always in motion), naturally with all professions dealimg with water. Due to his association with equality and the water as a measure if evenness, he is also associated with measures and revered by those who experience inequality, such as slaves and beggars. And due to his relation with knowledge he is also associated with science, the written word (which connects the world of thoughts to the manifested world) and all kinds of scholars (and the power and rule of the same). And due to his association with curiosity and diversity, he is also associates with the finer arts and crafts, such as painting (water) or weaving, as well as with those who produce variety in form of tailors (individual clothes) or dyers. 
+Adanos is associated with water and healing; so he is with health and all related professions, that they may stay healthy or become healthy again, that wounds may heal, that it may rain enough, with fertility of the soil (and women), with floods, that the people hope to be spared from, with travel, travelers and innkeepers (just as he carries the water safely through rivers to the sea and is always in motion), naturally with all professions dealimg with water.  
+Due to his association with equality and the water as a measure and its evenness, he is also associated with measures in general and revered by those who experience inequality, such as slaves and beggars.  
+Due to his relation with knowledge he is associated with science, the written word (which connects the world of thoughts to the manifested) and all kinds of scholars (and the potential power and rule of the same). And due to his association with curiosity and diversity, he is also associated with the finer arts and crafts, such as painting (water) or weaving, as well as with those who produce variety in form of tailors (individual clothes) or dyers. 
 
-Beliar is associated with the night, the shadows, with dreams, the imaginative, and with death and demons. So he is revered by all who deal with death (hangmen, gravediggers), with those who operate at night, those who are hiding, like thieves or those who are haunted, those who try to escape, those involved in shady business. He is prayed to by those who seek revenge; those who are cursed or want to curse; those who are afraid or want others to fear them; those who are in sorrow. He is also associated with harvest due to its traditional associations. As Innos is associated with the spoken, Adanos with the written word, so is Beliar to the unspoken, unwritten, with all the hidden thoughts, feelings and ideas. He is also associated with occultism (in the sense of dark, hidden practices) as well as with anarchy and chaos. 
+Beliar is associated with the night, the shadows, the moon, with dreams, the imaginative, and with death and demons. So he is revered by all who deal with death (hangmen, gravediggers), with those who operate at night, those who are hiding, like thieves or those who are haunted, those who try to escape, those involved in shady business. He is prayed to by those who seek revenge; those who are cursed or want to curse; those who are afraid or want others to fear them; those who are in sorrow. He is also associated with harvest due to its traditional associations. As Innos is associated with the spoken, Adanos with the written word, so is Beliar to the unspoken, unwritten, with all hidden thoughts, feelings and ideas and with silence. He is also associated with occultism (in the sense of dark, hidden practices) as well as with anarchy and chaos. 
+
+Gods and Time/Cycles:
+As Innos and Beliar are seen to be responsible for day and night, the day and night cycle is seen as a constant flow between the dominance of these two aspects. Allegorically the sun may be seen as being born at dawn and wins over the darkness; or that the darkness is just there to reveal the light, for it to stand out (literal meaning of existence). The night may be seen as a veil thrown over the world to bring silence. Innos and the day are associated with activity and work, while the night for most people is asdociated with inactivity and rest and just as important.  
+Adanos could be imagined as playing a role in the transition inbetween; as if he helps at dusk and dawn (imagine the image of the sun rising at the horizon from the water at dawn or sinking down into the earth at dusk); Adanos playing a mediator role or being responsible for the exchange to bring balance. 
+
+```
+TODO: Add metaphors regarding other cycles (year, seasons etc.)
+```
 
 
 | God        | Professions/Estates |
@@ -433,7 +436,6 @@ Beliar is associated with the night, the shadows, with dreams, the imaginative, 
 As can be seen, some professions or estates we linked to two or all the three gods, depending on the perspective and the situation. A potter deals with water as much as with fire. A nightwatchmen carries fire through the night, but may also hope for the moon to appear. A gladiator may pray to Innos for victory in battle, to Beliar for a merciful death in case of loss, to Adanos if he is a slave who hopes for freedom. 
 
 It should be obvious, that the assignment of the professions is only meant to be a general tendency and a traditional association; there can be several reasons for why one may prefer and pray to another god for particular, individual reasons. 
-
 
 
 ```
