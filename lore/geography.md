@@ -147,4 +147,4 @@ In the foundation series, Trantor has a similar role in the galactic empire as R
 
 > Trantor is an entirely domed world with the exception of the Imperial Sector. Reminiscent of the Caves of Steel on Old Earth, much of Trantor is placed underground in order to support the billions of residents, most of whom rarely see the sun and visit special rooms imitating sunlight. The planet is the most industrialized and densely populated in the galaxy. ([Asimov Wiki](https://asimov.fandom.com/wiki/Trantor))
 
-We will mention Trantor only in very old scriptures and similar ancient sources for reasons that we won't further elaborate on. 
+Trantor will only be mentioned in very old scriptures and similar ancient sources. 
