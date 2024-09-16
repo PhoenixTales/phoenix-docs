@@ -21,7 +21,7 @@ First we list all the geographic names from our considered sources and what we k
   * (South-)Geronia [N]
 * Northern Lands [C]
   * Polar Regions [N]
-    * Shirtakkhia [N]
+    * Shirtakkiha [N]
 * Varant [G]
   * Thyria [S]
 * Trantor [F]
