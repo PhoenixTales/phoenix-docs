@@ -121,7 +121,49 @@ Kumatekk: polar badger; clan insignia of the most fearsome warrior clan of the S
 
 ### Varant
 
-... 
+**Authors:** *Flosha*, *logx*, *Ben*   
+**Created:** 09.06.2024  
+**Last change:** 13.06.2024  
+
+#### Etymology
+
+logx suggested Vara+Anta while I suggested Vara to be a central river in Varant, like the Nil in Egypt. 
+
+* ***vara*** - sanskrit/pali for "excellent, noble", "excellence, blessing"
+* ***vāra*** - latin “fork”
+* ***vera*** - Old Norse “to be”
+* ***varà*** - catalan for "monitor lizard"
+* ***вар*** - russian for "tar", "pitch"
+* ***vara***, finnish "reserve, backup"
+* ***vara-*** - finnish prefix meaning "extra, spare, contingency, safety, emergency" of the word that follows
+
+* ***अन्त***, antá, sanskrit/pali “disposition, essence”, "end, goal, top", see "Vedanta" = "the end of... the essence of the Veda"
+* ***anta***, galician *dolmen, menhir, megalith; landmark*
+
+Summarising these findings we could describe Varant as the "essence of the noble", the "land of the blessed" or as the place of "safety among the megalithes".    
+The "Vara" river flows through this land and ends here in the sea. Varant is the "land of the Vara", and "the end of the Vara". The varantin being the "people of the Vara", which is the "noble river", the "essence" of life around which they have build their cities all the way back to the megalithes of the ancient civilisation. Lizards may be common and tar/pitch plays a role too as they used it for their dark wooden ships.
+
+
+#### Quotes
+
+> So kam es, das bald die benachbarten Reiche, Myrthanas Schätze für sich beanspruchen wollten. Allen voran das Reich Varant. Über die Hügel des Reiches kamen Reiterheere, Schiffe aus dunklem Holz zogen am Horizont auf und hissten die Fahnen des Kampfes. Die Armeen von Myrthana zogen aus, um das zu verteidigen, was ihre Heimat war.  
+> Es war Krieg.  
+> Die Armada des Königs versenkte Schiff für Schiff, doch erlitt dabei selbst große Verluste. Die Schlachten an Land wurden von Beginn an schnell und mit größter Härte geschlagen, denn beide Seiten forderten ihren Sieg. Doch soviel Schlachten Myrthanas Männer auch gewannen, sofort erreichte sie die Kunde, das an anderem Ort die varantenischen Reiterheere wieder ins Land einfielen. Der Krieg, dessen Ende schnell herbeigesehnt war, zog sich von Scharmützel zu Schlacht und dauerte viele Monde. [M]
+
+> Immer weiter trieb er seine Mannen voran, immer weiter Richtung der Grenze von Varant. - Schlacht von Varant [G]
+
+> Der Krieg war entschieden. Varant seiner, für die Versorgung der Truppen so wichtigen, Seehäfen beraubt. König Rhobar weilte schon lange nicht mehr auf den Schlachtfeldern von Varant, sondern überließ es seinen Generälen die letzten feindliche Truppen aufzureiben. Varant besaß nur noch ein größeres Heer, geführt von Lukkor, dem fähigsten Kriegsherrn des Varantener Heeres, mehr als einmal hatte er eine drohende Niederlage in einen Sieg verwandeln können.  
+> Doch nun saß sein Heer in der Falle. Dem Heer des Feindes zwar zahlenmäßig überlegen doch in aussichtloser Position. Lee, der Kriegsheld von Myrtana hatte ihn in eine Falle gelockt. Seine schwere Reiterei konnte auf dem tiefen, sumpfigen Boden des engen Tals nicht kämpfen und die Hügelketten um ihn herum waren von Lee's Soldaten besetzt, die immer wieder zustießen und so sein Heer Mann um Mann dezimierten. Die verzweifelten Ausfälle seiner Mannen waren blutig zurückgeschlagen worden. Er war besiegt. - Schlacht von Varant [G] 
+
+
+#### Summary
+
+* Varant has/had a direct border to Myrtana (a border region full of hills) and at the same time a connection by the sea; they attacked from both.
+* Varant had important harbours relevant for the supply of its troops and ships of "dark wood".
+* There was a united, organised "Varantin Army", primarily consisting of "heavy cavalry".
+* The battle between Lee and Lukkor is a situation comparable to the battle of the Thermopylae (between the persian empire under Xerxes I and a greek alliance led by Sparta under Leonidas I) or the battle of the Teutoburg Forest (the "Varian Disaster"), where Germanic tribes have ambushed very effectively against the Romans; in any way, he fought between steep hills and at a swamp terrain somewhere in Varant, whereas the majority of Varant can be assumed to be more flat. 
+* There was one important capital city, which we named Varalon.
+* As a place inspired by ancient eastern civilisations such Babylonia, Persia, Egypt or Jerusalem, it makes sense to locate it primarily in the southeast of the empire. Within the layout of the "around the sea" idea it may have a small border region in the west (full of the hills that the varantian army went through when attacking Myrtana), which would be south of the eastern provinces of Myrtana with its central ore cities, but the majority of the land may then primarily stretch towards the east. 
 
 
 ### Thyria 
