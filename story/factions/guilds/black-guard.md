@@ -7,6 +7,8 @@ Updated: 08.09.2024
 ```
 {: .info }
 
+![SGD Armour, Redering by Bloody](/_img/factions/guilds/blackguard-bloody.png)
+
 * Anti-heretic "police" order
 * Mostly former soldiers of the army
 * Recruited by the order of the Inquisition to which they pledge their absolute loyalty, they are commanded by inquisitors and serve as their bodyguard
