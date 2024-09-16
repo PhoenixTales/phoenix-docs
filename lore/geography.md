@@ -13,7 +13,6 @@ First we list all the geographic names from our considered sources and what we k
 * Varant [G]
 * Trantor [F]
 * Tolbenland [F]
-<!-- **Regions and/or Cities:**-->
 * Khorinis [G]
 * Tymoris [G]
 * Nordmar [G]
@@ -26,10 +25,10 @@ First we list all the geographic names from our considered sources and what we k
 * Far South [N]
 * Thyria [S]
 * Cranwater [F]
-<!-- // **Unknown:** -->
 * Sendar [C] 
-* (South-)Geronia [N] 
-<!-- // **Other Landmarks:** -->
+* (South-)Geronia [N]
+
+// *Other Landmarks:*
 * Archolos [G]
 
 <!-- ### Quotes
@@ -41,13 +40,8 @@ Here we'll quote all mentions/descriptions about the locations from the sources.
 
 Here we analyse, interpret and decide on what to do with the names given above: What will their role be in our drama?
 
----
+Myrtana, Varant, Nordmar, Khorinis, Tymoris, Westfield and the Archolos mountain are covered in documents of their own. 
 
-
-## Myrtana
-
-...
-For further information, see /Myrtana.
 
 #### Northern Plains
 
@@ -87,6 +81,21 @@ Home of the Nurrba, among others, mentioned in *Sleeper's Ban*: Barbaric tribe f
 ### Sendar
 
 Only mentioned in the Comic. Milten is coming from here. It could be a city, a region or even a realm. We prefer to explain it as a single specific province in the east of Myrtana. 
+
+
+### Laran 
+
+Only mentioned in an ingame book, that is written by "Barthos von Laran". Most likely a myrtanian city. 
+
+
+### Thyria 
+
+Only mentioned in the Sequel in form of the weapon of Thora, described as a "Thryrianischer Kampfstab" (Thyrian Battlestaff), therefore used by us as a name for the home of the Amazons. 
+
+
+### Syriana
+
+Syriana (or in German Syrianien) is deduced from an item in the game, described as "Syrianisches Öl" (Syrianian Oil). Might be a region, a province, an entire realm, we don't know more.
 
 
 ### Western Provinces
