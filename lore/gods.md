@@ -446,7 +446,7 @@ It should be obvious, that the assignment of the professions is only meant to be
 
 
 ```
-TODO: Add additionak reasoning for the assignments
+TODO: Add additional reasoning for the assignments
 ```
 <!-- What is the name of these sort of judges in villages like in Afghanistan etc. who mediate between the people? Those is what I imagine adanos "judges" to mean; opposed to royal judges who are more about the flame and thereby kind of taking the role of judgement out of the hands of the adanos judges, where - as they may say - it was in better hands -> they are more operating according to the Dao-de-Jing and Laotse/Daoism: Add this to the law/justice section! 
 
