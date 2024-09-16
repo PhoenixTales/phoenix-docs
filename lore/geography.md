@@ -20,8 +20,8 @@ First we list all the geographic names from our considered sources and what we k
   * Western Provinces [N]
   * (South-)Geronia [N]
 * Northern Lands [C]
-  * Polar Regions [N]
-    * Shirtakkiha [N]
+  * Land(s) of the Orcs
+  * Land of the Shirtakkihn [N]
 * Varant [G]
   * Thyria [S]
 * Trantor [F]
@@ -57,7 +57,12 @@ The Northern Plains are in the North of Myrtana and like the border region betwe
 
 ### Northern Land(s)
 
-The lands north of the "northern plains". Colder climate (ala Scandinavia). Home of the *Huegoth* from the novel, a barbaric tribe from the north raiding the coasts of the kingdom; red hair, blue eyes, inspired by vikings. The Orcs that are invading th kingdom are also thought to come from somewhere here. 
+The lands north of the "northern plains". Colder climate (ala Scandinavia). Home of the *Huegoth* from the novel, a barbaric tribe from the north raiding the coasts of the kingdom; red hair, blue eyes, inspired by vikings. 
+
+
+#### Land(s) of the Orcs
+
+The Orcs that are invading the kingdom from the northern lands also come from somewhere here, most likely from some region in the mountains of the north. 
 
 
 #### Land of the Shirtakkihn
