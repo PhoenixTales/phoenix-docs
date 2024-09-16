@@ -11,33 +11,34 @@ First we list all the geographic names from our [sources](/lore/lore) and what w
 
 ## Locations mentioned in the sources
 
-* Myrtana [G]
-  * Tymoris [G]
-  * Westfield [G]
-  * Khorinis [G]
-  * Nordmar [G]
-  * Northern Plains [C,W]
-  * Western Provinces [N]
-  * Eastern Provinces
-  * South-Geronia [N]
-* Northern Lands [C]
-  * Land(s) of the Orcs
-  * Land of the Shirtakkihn [N]
-* Varant [G]
-  * Thyria [S]
-* Far South [N]
+* [Myrtana](#locations-of-myrtana) [G]
+  * [Tymoris](#locations-of-myrtana) [G]
+  * [Westfield](#locations-of-myrtana) [G]
+  * [Khorinis](#locations-of-myrtana) [G]
+    * [Colony](#locations-of-myrtana) [G]
+  * [Nordmar](#nordmar) [G]
+  * [Northern Plains](#northern-plains) [C,W]
+  * [Western Provinces](#western-provinces) [N]
+  * [Eastern Provinces](#eastern-provinces)
+  * [South-Geronia](#south-geronia--southern-provinces) [N]
+* [Northern Land(s)](#northern-lands) [C]
+  * [Land(s) of the Orcs](#lands-of-the-orcs)
+  * [Land of the Shirtakkihn](#land-of-the-shirtakkihn) [N]
+* [Varant](#varant) [G]
+  * [Thyria](#thyria) [S]
+* [Far South](#far-south) [N]
 
-* Laran [G]
-* Syriana [G]
-* Sendar [C]
+* [Laran](#laran) [G]
+* [Syriana](#syriana) [G]
+* [Sendar](#sendar) [C]
 
 // *Other Landmarks*
-* Archolos [G]
+* [Archolos](#archolos) [G]
 
 // *Finster*
-* Tolbenland [F]
-  * Cranwater [F]
-* Trantor [F]
+* [Tolbenland](#tolbenland) [F]
+  * [Cranwater](#cranwater) [F]
+* [Trantor](#trantor) [F]
 
 
 ## Locations of Myrtana
