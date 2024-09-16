@@ -8,25 +8,27 @@ First we list all the geographic names from our considered sources and what we k
 
 ## Locations mentioned in the sources
 
-<!-- **Lands:** -->
 * Myrtana [G]
+  * Tymoris [G]
+  * Khorinis [G]
+  * Nordmar [G]
+  * Northern Plains [C,W]
+  * Westfield [G]
+  * Western Provinces [N]
+  * (South-)Geronia [N]
+* Northern Lands [C]
+  * Polar Regions [N]
+    * Shirtakkhia [N]
 * Varant [G]
+  * Thyria [S]
 * Trantor [F]
 * Tolbenland [F]
-* Khorinis [G]
-* Tymoris [G]
-* Nordmar [G]
+  * Cranwater [F]
+* Far South [N]
+
 * Laran [G]
 * Syriana [G]
-* Northern Plains [C,W]
-* Westfield [G]
-* Western Provinces [N]
-* Polar Regions [N]
-* Far South [N]
-* Thyria [S]
-* Cranwater [F]
-* Sendar [C] 
-* (South-)Geronia [N]
+* Sendar [C]
 
 // *Other Landmarks:*
 * Archolos [G]
@@ -43,7 +45,7 @@ Here we analyse, interpret and decide on what to do with the names given above: 
 Myrtana, Varant, Nordmar, Khorinis, Tymoris, Westfield and the Archolos mountain are covered in documents of their own. 
 
 
-#### Northern Plains
+### Northern Plains
 
 > I was a soldier in the fortress in the large plain in the north. / (...) Soon they would have reached the end of the northern plains and overrun our little outpost with ease. - Milten [C]
 
@@ -117,14 +119,13 @@ Since he either may not have wanted to or was not meant to name the kingdom as s
 Assuming *Geronia* to be a former potential name for the Gothic kingdom, we could then also explain it in-universe to be an older name of a realm or land at what today is called Myrtana, before it has been named as such. Now there could still be a region left still carrying that name Geronien/Geronia.
 
 
-### Cranwater
-
-Mentioned in Finster, as being located in Tolbenland. Most likely a city.
-
-
 ### Tolbenland
 
 Mentioned in Finster. "Tolben" seems often to be used in fantasy settings in relation to Druids. Thus, "Tolbenland" could be hinting at a land of druids, potentially a "barbaric" land in the west of Myrtana. 
+
+#### Cranwater
+
+Mentioned in Finster, as being located in Tolbenland. Most likely a city.
 
 
 ### Trantor
