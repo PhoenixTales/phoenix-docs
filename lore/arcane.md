@@ -1,24 +1,32 @@
 # The Arcane
 
-Flosha
-15.09.2024
+*About the Relation between The Magic Circles and the Cult(s) of the Gods in Myrtana.*
 
-In order to understand the clergy of Myrtana, the priesthood and the mages, we have to clarify, what the magic circles are actually meant to be and how they relate to priesthood. 
 
-These questions have always been seen so far, as far as I know, as a conflict between the imagination of the Gothic founders, in particular between Mike Hoge and Stefan Nyul. While Mike always laid emphasis on the idea that the mages were operating in form of these seperated circles since a long time and seemed to suggest that e.g. the priesthood of Innos is identical to the circle of fire, Nyul always seemed to promote a different idea, that led to many misunderstandings. 
+Author: Flosha, 15.09.2024
+
+In order to understand the relation between the Magic Circles and what we describe as the "clergy" of Myrtana, between the priesthood and the mages, we have to clarify, what the magic circles are meant to be, how they relate to Cult(s) of the gods and how the *Arcane*, which is thought to be the root of all magic, is understood by and associated with both. 
+
+These questions have always been seen so far, - as far as I know - as a conflict between the imagination of the Gothic founders, in particular between Mike Hoge and Stefan Nyul. While Mike always laid emphasis on the idea that the mages were operating in form of these seperated circles since a long time and seemed to suggest that e.g. the priesthood of Innos is identical to the circle of fire, Nyul always seemed to promote a different idea, that led to many misunderstandings. 
 
 These misunderstandings become clear in the question of how the split of the mages in the colony occured. Nyul described the events as such, that the mages split after the creation of the barrier and seemed to suggest, that they were *one* circle before. He has written it as such in the dialogue with Saturas and he has also written a book in the Sequel that suggested the same (see [/phoenix-allegory]).
 
 ---
 
-There is one thing that we have overlooked so far.
-
 The scriptures tell us about priests of Innos and Adanos. From the game we know a circle of fire and a circle of water. Two questions arise:
 
 1. Are the priests and the mages clearly identified with each other? Are they the same? Or are they something different? Or something inbetween?
-2. Couldn't the magic circle of the mages, even *if*, as we assume ourselves, the mages are indeed priests of Innos or Adanos, be seen as independent from their role as priests of a god? And can there be other priests, like Beliar priests, too?
+2. Couldn't the magic circle of the mages, even *if*, as we assumed ourselves, the mages are indeed priests of Innos or Adanos, be seen as independent from their role as priests of a god? And can there be other priests, like Beliar priests, too?
 
-The only thing in the sources that actually link these two, are the dialogues with Corristo, which we have to assume have been written in the last few months of development and we don't know by whom. Probably Mike. And it never really states so. It is only implied by Corristo having an obvious connection to the Cult of Innos. But being a mage that studies and practices specific forms of magic that are being associated with a god, doesn't have to equal being a priest of that god.
+
+
+
+
+
+
+Being a mage that studies and practices specific forms of magic that are being associated with a god, doesn't have to equal being a priest of that god.
+
+The only thing in the sources that actually link these two, are the dialogues with Corristo, which we have to assume have been written in the last few months of development (and we don't know by whom). 
 
 A priest of Innos for instance could join or learn from different magical circles. He becomes a priest in a monastery. Being a cleric may *usually* be seen as a pre-condition for a possible initiation into a magical circle, but there are exceptions too (such as Milten and the player character). 
 
@@ -65,6 +73,9 @@ Within Norse mythology, there is a form of magic known as Seidr, which was not p
 
 
 
+---
+
+But if they had told me, that the royal judge as we see him in the Intro, who is presented in a golden robe, is a priest of Innos, a teacher and a judge, I would not have had a hard time to believe that. 
 
 ```
 
