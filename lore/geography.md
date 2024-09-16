@@ -90,7 +90,7 @@ Only mentioned in the Comic. Milten is coming from here. It could be a city, a r
 
 ### Laran 
 
-Only mentioned in an ingame book, that is written by "Barthos von Laran". Most likely a myrtanian city. 
+Only mentioned in an ingame book, written by "Barthos von Laran". Most likely a myrtanian city. 
 
 
 ### Thyria 
