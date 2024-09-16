@@ -46,11 +46,11 @@ Here we analyse, interpret and decide on what to do with the names given above: 
 
 In this general geography section we are dealing with all the instances that are mentioned in the sources (and will be mentioned in Phoenix), but are not part of the Gameworld. All those instances which *are* contained in or contain the game world, are covered in documents on their own, see here:
 
-/lore/Myrtana
-/lore/Tymoris
-/lore/Westfield
-[/lore/Khorinis](/lore/khorinis)
-/lore/Colony
+/lore/Myrtana  
+/lore/Tymoris  
+/lore/Westfield  
+[/lore/Khorinis](/lore/khorinis)  
+/lore/Colony  
 
 
 ### Nordmar
