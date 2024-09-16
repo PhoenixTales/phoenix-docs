@@ -55,9 +55,23 @@ In this general geography section we are dealing with all the instances that are
 
 ### Nordmar
 
-...
+*Flosha & Ben, 10.06.2024*
 
-May be located within or close to the Northern Plains, e.g. in the western part of the Northern Plains. 
+Only mentioned a single time in the game in form of a dialogue and in no other of the sources. 
+
+> Leider geht die magische Wirkung des Erzes beim Schmelzen verloren. In den Hochöfen von Nordmar, da kennen sie die richtige Schmelztechnik. - Ian [G]
+
+The source says nothing about what kind of location Nordmar is. We only know of its blast furnaces and we know of its position somewhere north. But there is more that we can deduce from the name:  
+The suffix "-mar" is a term that is commonly used in names of locations, such as "Weimar", refering to lakes, springs or swamps in the area of the given settlement or city. Thus, based on the one given source it is most reasonable to imagine Nordmar as a city in the north close to a swamp, lake or springs, not as a land.  
+
+
+#### Summary
+
+* Nordmar is a city in the north.
+* It may be located within or close to the Northern Plains, e.g. in the western part of the Northern Plains. 
+* There are blast furnaces.
+* Its blacksmiths seem to know the processing of magical ore better than anyone else.
+* It is build close to a swamp, at a lake or at springs. 
 
 
 ### Northern Plains / Northern Provinces
