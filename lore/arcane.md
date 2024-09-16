@@ -2,13 +2,16 @@
 
 *About the Relation between The Magic Circles and the Cult(s) of the Gods in Myrtana, about the Arcane and the difference between Mages and Priests.*
 
+```
 Author: Flosha, 15.09.2024 - 16.09.2024
+```
+{: .info }
 
 In order to understand the relation between the Magic Circles and what we describe as the "clergy" of Myrtana, between the priesthood and the mages, we have to clarify, what the magic circles are meant to be, how they relate to Cult(s) of the gods and how the *Arcane*, which is thought to be the root of all magic, is understood by and associated with both. 
 
-These questions have always been seen so far, - as far as I know - as a conflict between the imagination of the Gothic founders, in particular between Mike Hoge and Stefan Nyul. While Mike always laid emphasis on the idea that the mages were operating in form of these seperated circles since a long time and seemed to suggest that e.g. the priesthood of Innos is identical to the circle of fire, Nyul always seemed to promote a different idea, that led to many misunderstandings. 
+These questions are related, according to my current understanding, to a conflict between the imagination of the Gothic founders, in particular between Mike Hoge and Stefan Nyul. While Mike always laid emphasis on the idea that the mages were operating in form of these seperated circles since a long time and seemed to suggest that the priesthood of Innos is identical to the circle of fire, Nyul may have thought of a different idea, that led to misunderstandings. 
 
-These misunderstandings become clear in the question of how the split of the mages in the colony occured. Nyul described the events as such, that the mages split after the creation of the barrier and seemed to suggest, that they were *one* circle before. He has written it as such in the dialogue with Saturas and he has also written a book in the Sequel that suggested the same (see [/phoenix-allegory](/lore/phoenix-allegory)).
+These misunderstandings become clear in the question of how the split of the mages in the colony occured. Nyul described the events as such, that the mages split after the creation of the barrier and seemed to suggest, that they were *one* circle before. He has written it as such in the dialogue with Saturas and he (or Filler) has also written a book in the Sequel that suggested the same (see [/phoenix-allegory](/lore/phoenix-allegory)).
 
 
 ## Mages vs. Priests
@@ -21,7 +24,7 @@ The scriptures tell us about priests of Innos and Adanos, so we know that they e
 
 Then from all the documents and the game we know that a circle of fire and a circle of water exist. But being a mage that studies and practices specific forms of magic that are being associated with a god, doesn't have to equal being a priest of that god.
 
-The only thing in the sources that actually link these two, are the dialogues with Corristo in the release version of the game, which we have to assume have been written in the last few months of development (and we don't know by whom). Here it is clearly stated, that mages equal priests.
+The only thing in the sources that actually link these two, are the dialogues with Corristo in the release version of the game, which we have to assume have been written in the last few months of development (and we don't know by whom). Here it is clearly stated that mages equal priests.
 
 <!-- > Unsere Magie ist ein Geschenk der Götter. Wir sind auserwählt, zugleich Priester, Lehrer und Richter zu sein.  
 > Ein Geschenk, das zugleich eine Bürde ist. Ein Amt, das unser Leben bestimmt. 
@@ -36,8 +39,8 @@ So, they are priests, teachers and judges? In a sort of "holy office"? Let us lo
 
 The mages in the colony do not do any kind of religious or cultic service as a Priest would do, nor do they teach in the Old Camp, nor judge.
 
-The mages in the colony are not residing in the chapel in the *function* of priests. They are not even using it as a chapel. On the contrary, based on the design concepts the building only has been a chapel before; when the wardens were still living in the castle there may have been a priest here and wardens and prisoners came here to pray or listen to preachings. But this is no longer the case.  
-The mages have taken the chapel and actually desecrated it in order to use it as their residence and their laboratory. According to the concept arts, they have barricaded the windows to create a darker environment and remain undisturbed in their magical studies and practices by anyone outside. No one is allowed to enter the chapel, no one is going here to pray or to bring sacrifices to the gods. It makes sense, because the fire mages in the colony are not acting as priests, they are almost purely focused on the Arcane.  
+The mages in the colony are not residing in the chapel in the *function* of priests. They are not even using it as a chapel. On the contrary, based on the design concepts the building has been a chapel *before*; when the wardens were still living in the castle there may have been a priest here and wardens and prisoners came here to pray or listen to preachings. But this is no longer the case.  
+The mages have taken the chapel and actually desecrated it in order to use it as their residence and their laboratory. According to the concept arts they have barricaded the windows to create a darker environment and remain undisturbed in their magical studies and practices by anyone outside. No one is allowed to enter the chapel, no one is going here to pray or to bring sacrifices to the gods. It makes sense, because the fire mages in the colony are just not acting like priests, they are almost purely focused on the Arcane.  
 Perhaps other mages *may* work as priests and/or take this role more serious, they may preach and fulfill other cultic duties. But the circle of fire in the colony is obviously not interested much in this regard. Although based on our research, according to which we can assume that most of the convicts may primarily pray to Beliar, they have not much business doing so anyway.
 
 
@@ -55,7 +58,7 @@ In my endeavours to trace back the sources of this idea in history, I stumbled u
 
 > Since the Greek gods were an integral part of nature, it's difficult to separate them completely from magic, or any other aspect of Greek life. However, there is evidence in pre-Classical Greek writings of magical practitioners that studied the forces of the world around them (what they would have called the "sympathies") in order to control them. The gods were still usually present in these stories, but not as suppliers of magic, but suppliers of knowledge of magic.
 
-Every men can potentialy acquire this knowledge - or even steal it - from the gods and thereby becoming "like a god" himself, in the concept of divination, which is strongly linked to magic (also see the idea of the Absolute Individual), but as this knowledge is so dangerous and can be abused, the priests of the realm explain that the "Arcane Gift" as it is called in Gothic must only bestowed upon the "elected ones", the priests, excluding everyone else, hiding the secret knowledge of the arcane from laymen and forbidding any magical practices they deem too dangerous or evil to be done.
+Every men can potentialy acquire this knowledge - or even steal it - from the gods and thereby becoming "like a god" himself, in the concept of divination, which is strongly linked to magic (also see the idea of the Absolute Individual), but as this knowledge is so dangerous and can be abused, the priests of the realm explain that the "Arcane Gift" as it is called in Gothic, must only bestowed upon the "elected ones", the priests, excluding everyone else, hiding the secret knowledge of the arcane from laymen and forbidding any magical practices they deem too dangerous or evil to be done.
 
 
 ## The Arcane Gift
@@ -63,10 +66,10 @@ Every men can potentialy acquire this knowledge - or even steal it - from the go
 The *Arcane Gift* is bestowed upon the worthy, according to the priests of Innos, it must only be given to the *elected* ones. 
 
 The Innos Cult calls it a *Spark* igniting the Fire.  
-The Adanos Cult calls it the *Blessing of Water* in the game. 
+The Adanos Cult calls it the *Blessing of Water* in the game.  
 The Beliar Cult may call it a *Kiss of the Night* or a similar metaphor.  
 
-But this dictat is not followed. Corristo is taking Milten as an apprentice, a deserteur, not a cleric. He does not make him a "priest", he simply admits him to enter their circle and teaches him the magic arts. Same with the player. While claiming the mages are equaling priests, the game doesn't suggest the player or Milten to be initiated into any kind of priesthood, they do nothing to suggest that. 
+But this dictat is not followed. Corristo is taking Milten as an apprentice, a deserteur, not a cleric. He does not make him a "priest", he simply admits him to enter their circle and teaches him the magic arts. Same with the player. While claiming the mages are equaling priests, the game doesn't suggest the player or Milten to be initiated into any kind of priesthood, they do nothing to support such an idea; the just beconm mages. 
 
 
 ## Forbidden Practices
