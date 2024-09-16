@@ -1,7 +1,10 @@
 # Geography
 
-**Author:** *Flosha*, *Ben*  
-**Rewrite:** 08.06.2024
+```
+Author:  Flosha  
+Rewrite: 08.06.2024 - 16.09.2024
+```
+{: .info }
 
 First we list all the geographic names from our considered sources and what we know about them from said sources. Then we summarise our own interpretation in short terms: What they are, what they mean, climatic and cultural characreristics and a short summary of their historic implications and their relevance for the story. 
 
