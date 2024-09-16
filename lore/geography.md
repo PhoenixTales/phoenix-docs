@@ -17,7 +17,7 @@ First we list all the geographic names from our [sources](/lore/lore) and what w
   * [Khorinis](#locations-of-myrtana) [G]
     * [Colony](#locations-of-myrtana) [G]
   * [Nordmar](#nordmar) [G]
-  * [Northern Plains](#northern-plains) [C,W]
+  * [Northern Plains](#northern-plains--northern-provinces) [C,W]
   * [Western Provinces](#western-provinces) [N]
   * [Eastern Provinces](#eastern-provinces)
   * [South-Geronia](#south-geronia--southern-provinces) [N]
