@@ -154,3 +154,39 @@ And mages may often be priests, but not always are.
 
 ---
 
+
+
+16.09.2024
+
+---
+
+
+
+
+Also note, how the mages in the colony are greeting each other. They do not say "For Innos" or "Innos zum Gruße", what they are saying is: "Magie zu Ehren". 
+
+Magic is their primary interest. 
+
+As they are living in an early medieval inspired world infused by the idea of gods, the gods are always playing a role in their understanding of the happenings in the world, and the very term of the "arcane gift", and magic as given by the gods, shows this relationship and also shows how gothic went for a more realistic presentation instead of the clear distinction between "arcane" and "divine" magic in that the mages think and the priests preach that there is a secret knowledge of the arcane, which is thought to be divine in nature and originate from the gods.
+
+But every men can potentialy acquire this knowledge - or even steal it - from the gods and thereby becoming "like a god" himself, in the concept of divinisation, which is strongly linked to magic (also see the idea of the Absolute Individual), but as this knowledge is so dangerous and can be abused, the priests of the realm explain that the arcane gift must only bestowed upon the "elected ones", the priests, excluding everyone else, hiding the secret knowledge of the arcane from laymen and forbidding any magical practices they deem too dangerous or evil to be done.
+
+But this dictat is not followed by everyone. Corristo is taking Milten as an apprentice, a deserteur, not a cleric. He does not make him a "priest", he simply admits him to enter their circle and teaches him the magic arts. 
+
+The priests are forbidding entire areas of arcane studies and practices, by which the clergy of Myrtana tries to restrict Magic in the realm for reasons of safety and control, but neither Corristo nor Saturas care about it, as they are both secret disciples of the Demon Evocator and study the Dark Arts. 
+
+By telling stories about the fall of the old civilisation, ruined by demonic interference in consequence of an abuse of the Arcane Gift by Dark Mages, and by constructing links to the orcs, they evoke fear of the demonic sphere and dark magic. 
+
+
+
+Summary:
+
+By understanding the Arcane like this and by not simply explaining priests and mages to be identical, we not only can explain all the discrepancies that occur otherwise by the way the mages are presented, we not only create a more complex and believable society, but we also thereby open up many possibilities for future story telling in the universe that would otherwise be impossible or very restricted. 
+
+For example, it is unbelievable that there are no priests of Beliar in a society with a cult of the three gods, where Beliar is the god of the dead. And it is impossible to include them in a world that forbids magic assigned to Beliar, *when* mages and priests are seen as identical. But there are no problems in a world where there is a differentation, where priests of Beliar can stand besides the priests of other gods and are simply not allowed to practice the dark arts.  
+
+
+Magic is described as an Art. In the sense of the old greek "techne", like aesthetics, ethics or logic. In an early medieval inspired world, there is no differentiation or understanding of a difference between magic and science. Mages represent science. Some things that they do would also be seen as science in a modern understanding, while other things they do would be seen by a modern understanding as either wizardry or 
+
+. and they do magic. 
+
