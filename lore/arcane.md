@@ -8,7 +8,7 @@ In order to understand the relation between the Magic Circles and what we descri
 
 These questions have always been seen so far, - as far as I know - as a conflict between the imagination of the Gothic founders, in particular between Mike Hoge and Stefan Nyul. While Mike always laid emphasis on the idea that the mages were operating in form of these seperated circles since a long time and seemed to suggest that e.g. the priesthood of Innos is identical to the circle of fire, Nyul always seemed to promote a different idea, that led to many misunderstandings. 
 
-These misunderstandings become clear in the question of how the split of the mages in the colony occured. Nyul described the events as such, that the mages split after the creation of the barrier and seemed to suggest, that they were *one* circle before. He has written it as such in the dialogue with Saturas and he has also written a book in the Sequel that suggested the same (see [/phoenix-allegory]).
+These misunderstandings become clear in the question of how the split of the mages in the colony occured. Nyul described the events as such, that the mages split after the creation of the barrier and seemed to suggest, that they were *one* circle before. He has written it as such in the dialogue with Saturas and he has also written a book in the Sequel that suggested the same (see [/phoenix-allegory](/lore/phoenix-allegory)).
 
 
 ## Mages vs. Priests
@@ -32,7 +32,7 @@ The only thing in the sources that actually link these two, are the dialogues wi
 So, they are priests, teachers and judges? In a sort of "holy office"? Let us look at the facts.
 
 
-**The Mages do not act as Priests**
+## The Mages do not act as Priests
 
 The mages in the colony do not do any kind of religious or cultic service as a Priest would do, nor do they teach in the Old Camp, nor judge.
 
@@ -41,7 +41,7 @@ The mages have taken the chapel and actually desecrated it in order to use it as
 Perhaps other mages *may* work as priests and/or take this role more serious, they may preach and fulfill other cultic duties. But the circle of fire in the colony is obviously not interested much in this regard. Although based on our research, according to which we can assume that most of the convicts may primarily pray to Beliar, they have not much business doing so anyway.
 
 
-**The Mages practice Arcane Magic**
+## The Mages practice Arcane Magic
 
 The mages in the colony are practicing *Arcane* magic, as we know. In this context we should be aware of what this term "Arcane" usually means in the context of RPGs. In Dungeons & Dragons and many other rpg systems, so-called "Arcane Magic" is seen in opposition to "Divine Magic". Divine magic is associated with clerics, while Arcane Magic is at the total opposite of the spectrum; it is practiced often by those who despise the clergy, by occult circles and idiosyncratic individuals. 
 
@@ -58,7 +58,7 @@ In my endeavours to trace back the sources of this idea in history, I stumbled u
 Every men can potentialy acquire this knowledge - or even steal it - from the gods and thereby becoming "like a god" himself, in the concept of divination, which is strongly linked to magic (also see the idea of the Absolute Individual), but as this knowledge is so dangerous and can be abused, the priests of the realm explain that the "Arcane Gift" as it is called in Gothic must only bestowed upon the "elected ones", the priests, excluding everyone else, hiding the secret knowledge of the arcane from laymen and forbidding any magical practices they deem too dangerous or evil to be done.
 
 
-**The Arcane Gift**
+## The Arcane Gift
 
 The *Arcane Gift* is bestowed upon the worthy, according to the priests of Innos, it must only be given to the *elected* ones. 
 
@@ -69,14 +69,14 @@ The Beliar Cult may call it a *Kiss of the Night* or a similar metaphor.
 But this dictat is not followed. Corristo is taking Milten as an apprentice, a deserteur, not a cleric. He does not make him a "priest", he simply admits him to enter their circle and teaches him the magic arts. Same with the player. While claiming the mages are equaling priests, the game doesn't suggest the player or Milten to be initiated into any kind of priesthood, they do nothing to suggest that. 
 
 
-**Forbidden Practices**
+## Forbidden Practices
 
 The priests may forbid entire areas of arcane studies and practices, by which the clergy of Myrtana tries to restrict magic in the realm for reasons of safety and control, but neither Corristo nor Saturas care about it, as according to Mikes earliest notes and all the old versions of the story, they are both secret disciples of the Demon Evocator and study the Dark Arts themselves. 
 
 By telling stories about the fall of the old civilisation, ruined by demonic interference in consequence of an abuse of the Arcane Gift by Dark Mages, and by constructing links to the orcs, the priests and the cult of the realm evoke fear of the demonic sphere and dark magic (perhaps for valid reasons). But this is not the position of the mages of the colony. 
 
 
-**Magic over All**
+## Magic over Everything
 
 The mages in the colony are greeting each other *not* by saying "For Innos" or "Innos zum Gruße", what they are saying is: "Magie zu Ehren", which translates to "In honour of magic". The arcane magic is their primary interest.  
 
@@ -87,11 +87,11 @@ But in this universe there is always the possibility - and as story authors we s
 Magic is described as an Art. In the sense of the old greek "techne", like aesthetics, ethics or logic. In an early medieval inspired world, there is no differentiation or understanding of a difference between magic and science. Mages represent science. Some things that they do would also be seen as science in a modern understanding, while other things they do would be seen by a modern understanding as either wizardry or illusion or whatever. What today is hypnosis, back then is just magic. What today is physics, back then was just magic. The mages are involved in all of these different aspects of magic and they are involved in this more than in any kind of religious practice. 
 
 
-**The Gothic Mages of the Early Vision**
+## The Gothic Mages of the Early Vision
 
 In the Novel the only occurence of a fire mage, there still called a fire alchemist, is *Lotho*, a mage that is clearly serving the barons. In this short description about Lotho the alliance between "the fire and the storm", as Corristo would describe his invovlement with the barons in his [allegory](/lore/phoenix-allegory), was shown more clearly than in the entirety of the game. 
 
-![Early Mage concept by Ralf](/_img/lore/4friends.jpg)
+![Early Mage concept by Mike](/_img/lore/4friends.jpg)
 
 Consider how dark the mages were shown on the early sketches by Mike and Ralf alike, clearly more "occult", less clerical in character.  
 And what is the fire mage in the Novel doing? He is torturing a member of the Organisation for the barons in front of the people, clearly serving as an instrument of the *Storm*, dedicating his magic power to the regime. 
@@ -102,17 +102,10 @@ Is this sort of an arcane, occult, alchemist gothic mage, under the patronage an
 
 Certainly not. Initially, the mages were meant to be idiosyncratic individuals, everyone with his own individual clothing and interests. They were not meant to be seen as humble clerics in uniform robes. 
 
-![Early Mage concept by Ralf](/_img/lore/battlemage.jpg)
+![Early Battlemage concept by Mike](/_img/lore/battlemage.jpg)
 
 
-**Mages and Priests should NOT be identical**
-
-The idea of priests of the gods in the universe is great, as are many characteristics developed in this regard. But by completely identifiying mages and priests, it diminished the potential as well as the stylistic presentation of both and immensely restricted the possibilities of developing these aspects further; to present other magic circles in the realm, to show and develop *actual* priests deserving the name and so forth. By differentiating the ideas more and preserving the old ideas, a whole horizon of narrative potential is opening up to us. 
-
-In this context, the quote by Corristo above, about them being priests and judges and teachers, in a sort of "holy office"... If they had told me, that the royal judge as we see him in the Intro and the Comic, who is presented in a golden robe, is a priest of Innos, a teacher and a judge, I would not have had a hard time to believe it. But these mages? No.
-
-
-**What is a Magic Circle?**
+## What is a Magic Circle?
 
 The mages of a magic circle are literally mages around a magic circle drawn unto the floor to create a sacral/magical/ritual space.
 The mages after the fall of the barrier where for some time studying together in the old camp, around ONE magic circle they had drawn in the old chapel that they haven taken over. It is in this sense, that Nyul and the Sequel story writers may be totally right: They were ONE circle before because this should be seen completely *independent* from their religous background. In this original circle of the colony, water, fire and also some dark magic was studied before they split over disputes, but the leaders of both circles are still disciples of the DMB and the disputes may be less magical than political in nature. 
@@ -128,7 +121,7 @@ The mages in the colony, most likely, did not even belong to the same magic circ
 I think that this understanding brings us much further and enriches the lore much more. 
 
 
-**Circles and the Elements**
+## Circles and the Elements
 
 A magic circle does not have to be linked to a specific element either. It is so with the colony mages, but there could as well be a magical circle that calls itself "Circle of Laran" or something like that, where the mages study different forms of magic. Or there is a Circle around a specific Master X and thus called "the Circle of X".
 
@@ -140,7 +133,7 @@ The idea of the circles when interpreted in this way, is much more fitting to th
 Also, "Circle" may be a rare case where the term used in the english version serves the desired connotation better than the original german "Kreis". Kreis, while actually being identical in meaning, gives it just a bit less of a mysterious, esoteric feeling. It evokes the notion of an open "kreis" that anyone can visit, while actually a very "closed" circle ("geschlossener Kreis") is meant. But in German "Zirkel" can be used just as well and in this context we should probably should use it more often. 
 
 
-**Alchemical Magic**
+## Alchemical Magic
 
 The magic in Gothic is strongly linked with the four elements. The four elements (fire, water, air, earth) are mentioned in the book *Astronomy* [G] and one of the books of the circles is called *Elementare Arcanei*. 
 
@@ -164,10 +157,13 @@ The "air" mages from Khorinis may mostly focus on this "gas" aspect. And you may
 
 ## Summary
 
-
 So how can the quote from Corristo be brought into harmony with the earlier ideas of the mages as practitioners of arcane magic in local circles? We say: It can't and shouldn't. 
 
-It would actually be most reasonable, based on the sources, to say that: *Not* every mage is a priest. Not every priest is a mage. AND: Not every priest of Innos, who has been bestowed the "arcane gift", has necessarily to join something like the circle of fire. He may as well join the circle of air, for instance. Or none. And the kind of magic, that the mages in the colony are focused on, the circle of fire in particular, which are "battle mages", burning and torturing their enemies, this is something that is certainly *not* what the common priest of fire is doing, is allowed or supposed to do; except perhaps for specific clerical battlemages who support the royal army in war. 
+The idea of priests of the gods in the universe is great, as are many characteristics developed in this regard. But by completely identifiying mages and priests, it diminished the potential as well as the stylistic presentation of both and immensely restricted the possibilities of developing these aspects further; to present other magic circles in the realm, to show and develop *actual* priests deserving the name and so forth. By differentiating the ideas more and preserving the old ideas, a whole horizon of narrative potential is opening up to us. 
+
+In this context, the quote by Corristo above, about them being priests and judges and teachers, in a sort of "holy office"... If they had told me, that the royal judge as we see him in the Intro and the Comic, who is presented in a golden robe, is a priest of Innos, a teacher and a judge, I would not have had a hard time to believe it. But these mages? No.
+
+So: *Not* every mage is a priest. Not every priest is a mage. And not every priest of Innos, who has been bestowed the "arcane gift", has necessarily to join something like the circle of fire. He may as well join the circle of air, for instance. Or none. And the kind of magic, that the mages in the colony are focused on, the circle of fire in particular, which are "battle mages", burning and torturing their enemies, this is something that is certainly *not* what the common priest of fire is doing, is allowed or supposed to do; except perhaps for specific clerical battlemages who support the royal army in war. 
 
 The circles are esoteric, while the priesthood is exoteric. In some cases they are strongly related to the gods, in other cases less so, and they have their own rules and traditions and rituals based on general old magic tradition. 
 
