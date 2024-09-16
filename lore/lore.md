@@ -27,12 +27,14 @@ Phoenix' Sources:
     1. [Gods & Cults](/lore/gods)
     2. [Spheres](/lore/spheres)
     3. Fallen Civilisation
-2. Geography
+2. [Geography](/lore/geography)
     1. Myrtana
         1. Tymoris
             1. [Khorinis](/lore/khorinis)
                 * The Colony
     2. Varant
+    3. Landmarks
+        1. [Archolos](/lore/archolos)
 3. Culture
 	1. Mora Language
 	2. Orcish Language
