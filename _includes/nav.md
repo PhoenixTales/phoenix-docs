@@ -54,6 +54,7 @@
 1. Mythology
 	1. [Gods & Cults](/lore/gods)
 	2. [Spheres](/lore/spheres)
+	3. [The Arcane](/lore/arcane)
 2. [Geography](/lore/geography)
 	1. [Khorinis](/lore/khorinis)
 3. Culture

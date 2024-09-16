@@ -26,7 +26,8 @@ Phoenix' Sources:
 1. Mythology
     1. [Gods & Cults](/lore/gods)
     2. [Spheres](/lore/spheres)
-    3. Fallen Civilisation
+    3. [The Arcane](/lore/arcane)
+    4. Fallen Civilisation
 2. [Geography](/lore/geography)
     1. Myrtana
         1. Tymoris
