@@ -341,7 +341,6 @@ The belief in the gods, while it may be in decline (and the reverence especially
 <!-- Magic is still thought to be a gift of the gods; even if it cannot be proven. A title of a book that was not written, is talking of the "Divine Gift" (Göttergabe), related to the first circle, refering to magic or the "Arcane". There is a melee weapon called "Götterhammer" (hammer of the gods). -->
 
 
-
 ### Sect of the Sleeper
 
 We will deal with the sect in the faction documentation. For here it has to suffice to note, that the entrance into the sect is accompanied by a radical and conscious renunciation of the three gods, that they also call the "old gods". 
@@ -437,7 +436,7 @@ TODO: Add metaphors regarding other cycles (year, seasons etc.)
 | God        | Professions/Estates |
 |------------|---------------------|
 | **Innos**  | warriors, soldiers, legislators - "lawyers", smiths, gladiators, mercenaries, merchants, cooks (herd), masons, carpenters, charcoal burners, bakers, bards, poets, musicians, priests, potters, nightwatchmen, children |
-| **Adanos** | healers (medici, surgeons, midwifes), judges (in the sense of mediators), slaves (gladiators too), fishermen, travelers, innkeepers, explorers, hunters, shepherds, peasants, sailors, ferrymen, scholars, artists, spinners, weavers, tailors, beggars, beekeepers, potters, dyers, priests | 
+| **Adanos** | healers (medici, surgeons, midwifes), judges (in the sense of mediators), slaves (gladiators too), fishermen, travelers (also traveling merchants), innkeepers, explorers, hunters, shepherds, peasants, sailors, ferrymen, scholars, artists, spinners, weavers, tailors, beggars, beekeepers, potters, dyers, priests | 
 | **Beliar** | gravediggers, executioners, miners, gladiators (fast/heroic death), butchers, knackers, criminals (everyone in hiding: thieves, refugees, scared, haunted), nightwatchmen, whores, priests |
 
 As can be seen, some professions or estates we linked to two or all the three gods, depending on the perspective and the situation. A potter deals with water as much as with fire. A nightwatchmen carries fire through the night, but may also hope for the moon to appear. A gladiator may pray to Innos for victory in battle, to Beliar for a merciful death in case of loss, to Adanos if he is a slave who hopes for freedom. 
