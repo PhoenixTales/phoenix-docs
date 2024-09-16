@@ -22,6 +22,35 @@ The scriptures tell us about priests of Innos and Adanos. From the game we know 
 
 
 
+16.09.2024
+
+In the release version, Corristo would say:
+<!-- > Unsere Magie ist ein Geschenk der Götter. Wir sind auserwählt, zugleich Priester, Lehrer und Richter zu sein.  
+> Ein Geschenk, das zugleich eine Bürde ist. Ein Amt, das unser Leben bestimmt. 
+-->
+> *Our magic is a gift of the gods. We are elected to be, at the same time, priests, teachers and judges.*
+> *A gift, that is also a burden. An office, that dictates our life.*
+
+How can this and the quote from the Manual be brought into harmony with the earlier ideas of the mages as practitioners of arcane magic in local circles? We say: It can't and shouldn't. 
+
+
+Neither do they do any kind of religious/cultic service as a Priest would do, nor do they teach in the Old Camp.
+
+In the Novel the only occurence of a fire mage, there still called a fire alchemist, is *Lotho*, a mage that is clearly serving the barons. In his short description the alliance between "the fire and the storm", as Corristo would describe it in his [allegory], was shown more clearly than in the entirety of the game. 
+
+Consider how dark the mages were shown on the early sketches by Mike and Ralf alike, clearly more "occult", less clerical in character.  
+And what is the fire mage in the Novel doing? He is torturing a member of the Organisation for the barons in front of the people, clearly serving as an instrument of the *Storm*, dedicating his magic power to the regime. 
+
+Is this sort of an arcane, occult, alchemist gothic mage, under the patronage and in the service of brutal criminals, how you imagine a priest of Innos, that is meant to bring light and warmth to the people and the blessing of the sun?
+
+Certainly not. Initially, the mages were meant to be idiosyncratic individuals, everyone with his own individual clothing and interests. They were not meant to be seen as humble clerics in uniform robes. 
+
+The idea of priests of the gods in the universe is great, as are many characteristics developed in this regard. But by completely identifiying mages and priests, it diminished the potential as well as the stylistic presentation of both and immensely restricted the possibilities of developing these aspects further; to present other magic circles in the realm, to show and develop *actual* priests deserving the name and so forth. By differentiating the ideas more and preserving the old ideas, a whole horizon of narrative potential is opening up to us. 
+
+---
+
+
+
 
 
 Being a mage that studies and practices specific forms of magic that are being associated with a god, doesn't have to equal being a priest of that god.
