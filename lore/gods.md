@@ -394,7 +394,7 @@ Innos is associated specifically with the *law*. Beliar is associated with punis
 
 #### Gods in Relation to Men
 
-*Flosha, Klaus & Delvin*  
+*Flosha, Hagen & Delvin*  
 *11.09.2024 - 15.09.2024*
 
 In order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we should try to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Or in other words: How gods and men relate. 

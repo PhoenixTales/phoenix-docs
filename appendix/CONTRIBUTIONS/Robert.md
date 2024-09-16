@@ -1,5 +1,7 @@
+Robert / Hagen von Tronje
+
 08.09.2024:
-KryptoKlaus — Today at 21:59
+Hagen von Tronje — Today at 21:59
 @flosha Yesterday you wrote, that you would like to get feedback and ideas for your documents and I am more than happy to start with my first topic regarding the colony population: Colony Guards. Not Old Camp guards („Gardisten“) but the original guards of the penal colony.
 
 I think it is unrealistic how in the game each and every colony guard was killed and thus the OC guards just took their equipment. I would find it much more believable, that a huge chunk was murdered (for example maybe a third of them), but the biggest part of them would have been taken prisoners. At first to maybe use them as leverage to get out of the barrier. When realising this will not happen, they would have used them as slaves to make those, who forced the prisoners to work in the mines, work themselves – thus turning the tides. Some of them would die of course, because of the hard conditions. But when the protagonist enters the colony, there still should be a number of former guards working as slaves in the mines. That would also make it possible to add more hierarchy and thus immersion. Those slaves would be so despised that even the diggers would spit on them and treat them as pariahs.
