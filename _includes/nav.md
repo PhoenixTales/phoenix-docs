@@ -56,8 +56,6 @@
 	2. [Spheres](/lore/spheres)
 2. [Geography](/lore/geography)
 	1. [Khorinis](/lore/khorinis)
-	2. Landmarks
-        1. [Archolos](/lore/archolos)
 3. Culture
 4. MetaPhysics
 5. History 
