@@ -264,7 +264,7 @@ CH3
 ```
 
 One cell in one table row describes the relation between the two together, not the attitude one camp has to the second and the second to the first. And from top to bottom you can read how it develops throughout the story.   
-That is what I meant and its a big difference I think and makes things much simpler. The attitude from one wo another is not what I meant with the relationship at one specific point, which is completely focused on the chapter and how the main events change the relationships.  
+That is what I meant and its a big difference I think and makes things much simpler. The attitude from one to another is not what I meant with the relationship at one specific point, which is completely focused on the chapter and how the main events change the relationships.  
 But concerning the description of the camps/guilds itself, we should make this in another table. According to the principle of doing one thing and do that well. 
 
 So we have a table just describing the camp structure, hierarchy, feeling. We have one table just describing the guild structure, hierarchy, feeling etc.
