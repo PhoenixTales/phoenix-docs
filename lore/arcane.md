@@ -69,7 +69,7 @@ The Innos Cult calls it a *Spark* igniting the Fire.
 The Adanos Cult calls it the *Blessing of Water* in the game.  
 The Beliar Cult may call it a *Kiss of the Night* or a similar metaphor.  
 
-But this dictat is not followed. Corristo is taking Milten as an apprentice, a deserteur, not a cleric. He does not make him a "priest", he simply admits him to enter their circle and teaches him the magic arts. Same with the player. While claiming the mages are equaling priests, the game doesn't suggest the player or Milten to be initiated into any kind of priesthood, they do nothing to support such an idea; the just beconm mages. 
+But this dictat is not followed. Corristo is taking Milten as an apprentice, a deserteur, not a cleric. He does not make him a "priest", he simply admits him to enter their circle and teaches him the magic arts. Same with the player. While claiming the mages are equaling priests, the game doesn't suggest the player or Milten to be initiated into any kind of priesthood, they do nothing to support such an idea; they just become mages. 
 
 
 ## Forbidden Practices
