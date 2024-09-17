@@ -159,7 +159,7 @@
 		* The Acceptance of Fear
 		* Against the Vessels of Pain
 		* Heresy and Treason
-5. Relation System
+5. [Relation System](/story/relation-system)
 	1. [Population]
 		1. [Colony Population](/story/factions/colony-population)	
 		2. City Population

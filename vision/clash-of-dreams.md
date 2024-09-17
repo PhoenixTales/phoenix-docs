@@ -81,3 +81,20 @@ We try to realise the contradictory ideas of the founders, bring them to an end,
 
 
 
+
+
+
+Maybe put into "A Clash of Dreams":
+
+While Mike can be seen as the father of Gothic and the designer behind the basic framework of the story and the factions, it is very important to understand, that all of the details about them has been developed in course of at least two years of a constant exchange of ideas between the four founders, Mike Hoge, Stefan Nyul, Alex Brüggemann and Tom Putzki. They developed this vision together. 
+
+And while Alex Brüggemann was more involved in the design of the game mechanics and Tom Putzki, - after first being responsible for the level design - focused on the marketing of their vision, Stefan Nyul was the man that was responsible for the majority of the story for the longest time in development, the main story writer. Mike was mainly responsible for the first chapter and then again wrote a lot in the last few months of development, when everything was changed, the old story removed and rewritten to meet the deadlines. 
+
+I dare to argue, inspite of my love and affection for Mike and an understanding for all the decisions he made (I want to emphasize this), that in course of these years of development, Stefan Nyul may have had, at least in *some* regards, a better grasp of the background story than Mike had at the time, simply because he was involved in this story, especially the old story, more deeply. Mike is an exceptional visionary and artdirector, but Nyul was a great writer. 
+
+And it is very striking and stands out a lot, how in his approach to a successor (he was the leader behind the Sequel project), he picked up so many loose story threads in the writing; the major story events that couldn't be realised in the first instalment (the Orc Assault and Nemesis), he still decided to mention in the Sequel, he still considered as a part of the lore; he just explained them to have been taken place between the events of Gothic and the Sequel, thereby tying back to all the work that had been done by the story-writers for years.
+
+He did a great job - and this is said just from a very early, completely unfinished build of the project - to continue where they stopped and was motivated to do so. While the official successor as it came to being, that was then developed instead after the Sequel team had gotten fired, did not care about any of these old story ideas, that several story authors had developed for Gothic, at all. It has thrown all of it out and didn't even care to tie back to the release story much, leaving open many questions and ideas that have been hinted at in the first part and instead confronting the players with an almost completely different universe. By paying very little respect to the passionate work that went into the creation of the original story and setting, the official successor clearly steered Gothic away from its roots.
+
+Phoenix is going back to the roots. 
+

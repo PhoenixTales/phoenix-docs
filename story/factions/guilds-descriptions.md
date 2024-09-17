@@ -21,7 +21,7 @@ Guards of the castle, protectors of the camp, the mafia's thugs, rude and brutal
 Eyes and ears of the barons, informants and agents, hiding in the crowd: Snitches, Spies, Thieves, Dealers and Assassins for all undercover operations of the Mafia, <!--operating from a secret headquarter,--> creating a web of mutual distrust among the people for control.
 
 #### Circle of Fire (KDF)
-High priests of Innos, powerful mages of fire, selected by the king for the creation of the barrier; idiosyncratic individuals trapped together in the prison they created, <!--based in the former chapel,--> partaking in and corrupted by the wealth of the barons while operating as agents of the crown.
+Powerful mages of fire, selected by the king for the creation of the barrier; idiosyncratic individuals trapped together in the prison they created, <!--based in the former chapel,--> partaking in and corrupted by the wealth of the barons while operating as agents of the crown.
 
 #### Folk (VLK)
 Inhabitants of the camp under control of the Mafia; conglomerate of convicts from all stands of society; mostly servants and craftsmen, who are not working in the mines, practicing their former professions or otherwise trying to survive as beggars on the streets.
@@ -69,7 +69,8 @@ Union without masters conceiving their camp as the most free place in the colony
 ### Others
 
 #### BDT
-...
+Renegades from the New Camp defected in course of a conflict between their leaders, a brutal gang with an unknown hideout, ...
+
 
 #### DMB
 ...
