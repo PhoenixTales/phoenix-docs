@@ -138,7 +138,7 @@ Concretely, in order to develop these missions the best, we need to create inter
 
 ---
 
-And these relations are not just meant to be dealt with *once*, e.g. in the first chapter in order to decide between these guilds, but they should be dealt with throughout the story in each chapter, to serve the function of informing the player and involving the player in the *changes* of these relationships in co urse of the story.
+And these relations are not just meant to be dealt with *once*, e.g. in the first chapter in order to decide between these guilds, but they should be dealt with throughout the story in each chapter, to serve the function of informing the player and involving the player in the *changes* of these relationships in course of the story.
 
 An example for a mission of the STT ⇆ KDF relation, would be in CH3, when the Mages start to slowly oppose the barons, where the Shadows may try to get infos and spy a bit about what the Mages are doing/planning, as the distrust of the barons increases.
 
