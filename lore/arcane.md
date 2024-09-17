@@ -76,7 +76,7 @@ But this dictat is not followed. Corristo is taking Milten as an apprentice, a d
 
 The priests may forbid entire areas of arcane studies and practices, by which the clergy of Myrtana tries to restrict magic in the realm for reasons of safety and control, but neither Corristo nor Saturas care about it, as according to Mikes earliest notes and all the old versions of the story, they are both secret disciples of the Demon Evocator and study the Dark Arts themselves. 
 
-Additionally, in our lore, by telling stories about the fall of the old civilisation, ruined by demonic interference in consequence of an abuse of the Arcane Gift by Dark Mages, and by constructing links to the orcs, the priests and the cult of the realm evoke fear of the demonic sphere and dark magic (perhaps for valid reasons). But this is, again, is not the position of the mages of the colony. 
+Additionally, in our lore, by telling stories about the fall of the old civilisation, ruined by demonic interference in consequence of an abuse of the Arcane Gift by Dark Mages, and by constructing links to the orcs, the priests and the cult of the realm evoke fear of the demonic sphere and dark magic (perhaps for valid reasons). But this, again, is not the position of the mages in Gothic. 
 
 
 ## Magic over Everything
