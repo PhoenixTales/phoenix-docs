@@ -85,7 +85,7 @@ Please note that [Phoenix](https://phoenixthegame.com), the Phoenix Concept at h
 <style>
 
    main {
-      background: url("/_img/bg/workbg.jpg");
+      background: url("/_img/bg/workbg3.jpg");
       background-position: top right;
       background-size: 70%;
       background-repeat: no-repeat;
