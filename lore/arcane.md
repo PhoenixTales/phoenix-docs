@@ -115,7 +115,7 @@ Initially, the mages were meant to be presented as idiosyncratic individuals wit
 The mages of a magic circle are literally mages around a magic circle drawn unto the floor to create a sacral/magical/ritual space.
 The mages after the fall of the barrier where for some time studying together in the old camp, around ONE magic circle they had drawn in the old chapel that they haven taken over. It is in this sense, that Nyul and the Sequel story writers may be totally right: They were ONE circle before because this should be seen completely *independent* from their religous background. In this original circle of the colony, water, fire and also some dark magic was studied before they split over disputes, but the leaders of both circles are still disciples of the DMB and the disputes may be less religious than political in character. 
 
-The mages were working together for a while as a sort of united circle and then founded the two circles. Not in the sense of *inventing the idea* of a fire or water circle, of which there might be many in the realm, but just FORMING local ones in the colony. And therefore and due to this history they also have some common traditions with some shared history, as we know from the documents. 
+The mages were working together for a while as a sort of united circle and then founded the two circles. Not in the sense of *inventing the idea* of a fire or water circle, of which there might be many in the realm, but in the sense of just *forming* local ones in the colony. This history also explains that they still meet and have some common traditions, as we know from the documents. 
 
 Priesthood is something that spans across the entire realm. The "house of Innos" is their community as a whole, like the church. 
 
