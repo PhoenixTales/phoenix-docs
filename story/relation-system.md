@@ -5,6 +5,7 @@ Author: Flosha
 Written: 29.09.2021
 Last Update: 17.09.2024
 ```
+{: .info }
 
 *29.09.2021*
 
@@ -352,7 +353,7 @@ So one table per guild, listing all the npcs therein and then adding etymologica
 The etymological and general character/background description should be listed in a document on its own like this:
 
 ```
-        Name/Etymology    Background/Crime/Profession   Something else?
+        Name/Etymology    Background/Crime/Profession
 VLK
 Ryan
 Marus
@@ -368,9 +369,7 @@ We may add additional categories on the right, but the name and a short descript
 
 On the basis of this general character description we then create the table of character development. Remember to search in this channel for all the names we (or you) have clarified already.
 
-```
-Conspired leaders of the Revolt, united by the torture they suffered, constituting a Mafia ruling the ore business, conceiving themselves as revolutionary successors of the orebarons, being conceived by others as either freedom fighters or oppressors.
-```
+> Conspired leaders of the Revolt, united by the torture they suffered, constituting a Mafia ruling the ore business, conceiving themselves as revolutionary successors of the orebarons, being conceived by others as either freedom fighters or oppressors.
 
 This would be an example of how to try to condense as much aspects of them into the fewest words.  
 And its one of the (or maybe the) most complex guild(s). Therefore I would say that no guild description should be longer than this.
