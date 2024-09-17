@@ -135,7 +135,9 @@ And there may be "laymen circles" too, which depending on what they are doing an
 
 The idea of the circles when interpreted in this way, is much more fitting to the gothic setting. Just compare this to all kinds of modern magical circles. 
 
-Also, "Circle" may be a rare case where the term used in the english version serves the desired connotation better than the original german "Kreis". Kreis, while actually being identical in meaning, gives it just a bit less of a mysterious, esoteric feeling. It evokes the notion of an open "kreis" that anyone can visit, while actually a very "closed" circle ("geschlossener Kreis") is meant. But in German "Zirkel" can be used just as well and in this context we should probably should use it more often. 
+"Circle" may be a rare case where the term used in the english version serves the desired connotation better than the original german "Kreis". Kreis, while actually being identical in meaning, gives it just a bit less of a mysterious, esoteric feeling. It evokes the notion of an open "kreis" that anyone can visit, while actually a very "closed" circle ("geschlossener Kreis") is meant. The circles are exclusive, so exclusive that in many or even most cases it should be an absolute secret who belongs to a circle, if not even its very existence is concealed. The mages in the colony of course have nothing to conceal, they are surrounded and part of an anarchist prison ruled by criminals. In fact, in the prison the mages can practice their magic with more freedom than perhaps anywhere else in the world. 
+
+Gladly, in German "Zirkel" can be used just as well as "Kreis" and in this context we should use it more. 
 
 
 ## Alchemical Magic
