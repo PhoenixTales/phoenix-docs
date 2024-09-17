@@ -105,7 +105,7 @@ And what is the fire mage in the Novel doing? He is torturing a member of the Or
 
 Is this sort of an arcane, occult, alchemist gothic mage, under the patronage and in the service of brutal criminals, how you imagine a priest of Innos, that is meant to bring light and warmth to the people and the blessing of the sun?
 
-Certainly not. Initially, the mages were meant to be idiosyncratic individuals, everyone with his own individual clothing and interests. They were not meant to be seen as humble clerics in uniform robes. 
+Initially, the mages were meant to be presented as idiosyncratic individuals with their own individual interests and attire and *not* as humble clerics in uniform robes. 
 
 ![Early Battlemage concept by Mike](/_img/lore/battlemage.jpg)
 
