@@ -193,7 +193,7 @@ while the so-called "guild attitudes" give hints about the latter, but they are 
 
 So for example we create a table of the barons.
 
-That shows the relation of
+That shows the relation of  
 Gomez to Arto  
 Arto to Raven  
 Raven to Gomez  
