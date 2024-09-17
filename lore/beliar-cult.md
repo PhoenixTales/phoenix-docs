@@ -45,6 +45,18 @@ Delvin: On the other hand it makes the god of dead a bit less "present/involved"
 
 ---
 
+Hagen: I will have to think and sleep about it. My first reaction is that both ideas (beliar-only burials or different burials for different cults) are interesting but that I would rather like Beliar (and Beliar priests) generally being responsible for death, burial and rememberance of the dead including liturgical services regarding that. It has a major advantage, because it would make the world more 'gothic':
+
+Afterall, one of the most interesting aspects of Beliar in the perspective we are building through discussions and documents is that he is dark but he is also just and necessary (contrary to the twisted narrative of G2 and onwards). The necessity of death plays a huge part in gothic and darkwave subcultures, because it is vastly underrepresented in our (post-)modern times, our everyday life, our experience and popular culture. This under-representation is countered with over-representation in those subcultures. And while being afraid of death and not wanting to think too much about it is natural for men, it is also natural and necessary to place it into a context and build a perspective towards it.
+In the imperial cult of three complementary gods in a truely gothic universe, Beliar could play this role of the unwanted but necessary representative of both death and the way to deal with death. I also like our thoughts from last week, in which we imagined Beliar (or rather his followers) to be distrusted, while his cult itself cannot be destroyed because although it is unwanted, it is still needed for everyone. Even for the followers of Innos and Adanos.
+We can also imagine that those followers (of Innos and Adanos) are much more prone to accept and adapt the imperial religious narrative (three god cult), while Beliar probably has the most followers who feel supressed by it. At the same time, the cult of three gods, as far as we know, explicitly tells believers that Beliar is responsible for the dead, doesn't it?
+
+So the Beliar cult being the only cult responsible for burial and rememberance would embrace the very gothic idea that no matter how people live, think, believe and pray, nobody of them can escape or negate death. It is necessary. And this manifests itself in the cult of Beliar. It makes death, darkness, loss and rememberance touchable. It embodies all of that.
+
+So I tend to say that beliar-only burials are more interesting and more "gothic" than a potpourri of death and burial cults.
+
+Maybe we could bring in diversity regarding cult practice through rather small adjustment. Brainwave: Maybe everyone would go to a Beliar priest to bury his loved ones. But maybe the follower of one god would want to put coins on the corpse's eyes, the other one would put a candle, blessed by a priest of Innos, in the grave (so Innos' light may guide the dead through Beliar's darkness) etc.
+
 
 
 
