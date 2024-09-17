@@ -22,9 +22,9 @@ The scriptures tell us about priests of Innos and Adanos, so we know that they e
 
 > Die dem Adanos folgten nannte man nun Magier des Wassers, die Geweihten des Innos hießen aber die Magier des Feuers.
 
-Then from all the documents and the game we know that a circle of fire and a circle of water exist. But being a mage that studies and practices specific forms of magic that are being associated with a god, doesn't have to equal being a priest of that god.
+This document already identifies the priests with the mages of the related element. Being a mage that studies and practices specific forms of magic that are being associated with a god, wouldn't have to equal being a priest of that god, but Gothic went with this solution. 
 
-The only thing in the sources that actually link these two, are the dialogues with Corristo in the release version of the game, which we have to assume have been written in the last few months of development (and we don't know by whom). Here it is clearly stated that mages equal priests.
+The only other place in the sources that links the two are the dialogues with Corristo in the release version of the game, which we have to assume have been written in the last few months of development (and we don't know by whom). Here too is clearly stated that mages equal priests.
 
 <!-- > Unsere Magie ist ein Geschenk der Götter. Wir sind auserwählt, zugleich Priester, Lehrer und Richter zu sein.  
 > Ein Geschenk, das zugleich eine Bürde ist. Ein Amt, das unser Leben bestimmt. 
