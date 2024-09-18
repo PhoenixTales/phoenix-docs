@@ -47,9 +47,9 @@ The article has to be structured better; many things may be possible to condense
 
 I started with how we could have a sort of logic of the player, how he would join the camps, which is the initial task in the first chapter. 
 
-The quests as they have been written in the original document as described above, where limited in so far, as that they were written on the premise that they player is inside of the Old Camp and gets all the quests from there. But the player would also have been able to go to the New Camp immediately or to the Psi Camp very early on. In this case, there also should be missions given in these other camps as well to serve as a decision tree between the camps and by which the player can develop his character into this direction (of preferring Camp X). 
+The quests as they have been written in the original document as described above, where limited in so far, as that they were written on the premise that they player is inside of the Old Camp and gets all the quests from there. But the player would also have been able to go to the New Camp immediately or to the Psi Camp very early on. In this case, there also should be missions given in these other camps as well (ofc these missions can also be the same ones but given from the other side) to serve as a decision tree between the camps and by which the player can develop his character into this direction (of preferring Camp X). 
 
-Additionally, with the Free Camp we have one camp more that we had to consider. So we needed one additional OC vs. PSI and NC vs. PSI quest in the Psi Camp and one additional NC vs. OC in the New Camp and add the Free Camp too. Thereby I ended up with the following structure:
+Additionally, with the Free Camp we have one camp more that we had to consider. So we needed one additional OC vs. PSI and NC vs. PSI quest in the Psi Camp and with the New Camp and Free Camp accordingly. Thereby I ended up with the following structure:
 
 ```
 OC:  OC ⇆ NC | OC ⇆ FC | OC ⇆ PC
