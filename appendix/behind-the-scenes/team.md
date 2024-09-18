@@ -266,8 +266,6 @@ Apart from working on Phoenix I work on other Gothic related things. I translate
     
   -->
 
-Habe zwischendurch mal die Fragen beantwortet:
-
 
 ### Hagen (Robert)
 
@@ -297,35 +295,25 @@ The Old Camp has a good atmosphere but the player gets alienated in the course o
 The Psi Camp has a thick atmosphere, believable and earnest characters and the most impressive warrior caste, but after you join it, it has nothing to offer and staying part of it while finding out about the true nature of the sleeper is not explained in a believable way.
 
 #### What are your favourite games?
-
 Deus Ex series (Revision, HR, MD), Metal Gear Solid 1, S.T.A.L.K.E.R. (if it wouldn't be so gamebreakingly buggy even with mods), Red Orchestra: Ostfront 41-45, Splinter Cell: Chaos Theory, Red Dead: Revolver (never played Redemption 1 or 2), Dawn of War, Stronghold, Crusader Kings 2/3, Manor Lords, Kingdom Come: Deliverance, Tekken 3, Frostpunk
 
-
 #### What is your favourite music?
-
-Absolutely superior: Gregorian and other ecclesial chant from occident and orient.
-
-Singable traditional folk songs: about what we call „Heimat“ in German, about studying, about „Wein, Weib und Gesang“ (Wine, woman and singing), about living and dying, about war and peace, about God and the world.
-
-When it comes to listening to music from a data carrier: Neofolk.
-
+Absolutely superior: Gregorian and other ecclesial chant from occident and orient.  
+Singable traditional folk songs: about what we call „Heimat“ in German, about studying, about „Wein, Weib und Gesang“ (Wine, woman and singing), about living and dying, about war and peace, about God and the world.  
+When it comes to listening to music from a data carrier: Neofolk.  
 Also I am right now learning to play guitar. Eventhough I wish I wasn't so lazy in doing so.
 
-
 #### Any books you would like to recommend?
-
 To spontaneously name books of three authors:
 * „Die Schwarze Spinne“ by Jeremias Gotthelf.
 * „Das kalte Herz“ by Wilhelm Hauff
-* „In Stahlgewittern“ and „Das abenteuerliche Herz“ by Ernst Jünger
-
+* „In Stahlgewittern“ and „Das abenteuerliche Herz“ by Ernst Jünger  
 And of course reading all the poems of Theodor Körner and Joseph von Eichendorff.
 
-
 #### What do you do other than that?
-
 Spending time with my family, renovating the house, chopping firewood, doing some subsistence agriculture, writing short stories and novels which probably will never be finished, writing poems, being in a volunteer fire brigade, doing martial arts (right now lacking the time for that) and sometimes enjoying a good tobacco pipe or cigar and a glass of Whisky with friends.
 
+---
 
 ![David](/appendix/behind-the-scenes/team/link2.png)
 
