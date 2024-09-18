@@ -80,7 +80,7 @@ My favourite games from the last couple of years... probably [Dusk](https://newb
 The games I am waiting for right now are mostly Indie Games. The only exception would be [Alice 3](https://www.americanmcgee.com/) (update 2023: in the meantime it failed :`(), [Ready or Not](https://www.youtube.com/watch?v=hdJI3_8zG7A) and [Hellblade II](https://ninjatheory.com/). The project I am looking forward to the most is [Beta Decay](https://www.youtube.com/watch?v=AHqHYhX2tAI) (the artstyle almost exactly fits to my aesthetical preference as to what I would expect a Cyberpunk game to be), then there is [Gloomwood](https://www.youtube.com/watch?v=wGzx-sElP-I), [Derelikt](https://visuwyg.itch.io/derelikt), [Compound Fracture](https://www.youtube.com/watch?v=7hdkmGLO0vQ) and new to the list (as of December 2023): [Bloodthief](https://www.youtube.com/watch?v=zpTcXky_8yo).
     
 #### What is your favourite music?
-I would say, my favourites are: Have A Nice Life, Lost in Kiev, Being as an Ocean, Ólafur Arnalds, Электрофорез, Clint Mansell (The Fountain), Ghostly Kisses, She Wants Revenge, Tool, A Perfect Circle, Rage Against the Machine, Nine Inch Nails, Interpol, Nu-Metal stuff like Limp Bizkit and all kinds of music from the late 1990s and early 2000s.
+I would say, my favourites are: Have A Nice Life, Lost in Kiev, Being as an Ocean, Ólafur Arnalds, Clann, Sol Invictus, Clint Mansell (The Fountain), Ghostly Kisses, She Wants Revenge, Tool, A Perfect Circle, Rage Against the Machine, Nine Inch Nails, Interpol, Nu-Metal stuff like the early Linkin Park and all kinds of music from the late 1990s and early 2000s.
 
 #### Any books you would like to recommend?
 Hard question. But what I would like to recommend to everyone are the Memoirs of Vinoba Bhave: [Moved by Love](https://archive.org/details/MovedByLove-English-VinobaBhave). Nothing has influenced my thinking as much as Vinoba; he combined Vedanta and Anarchy, he practiced what he dreamed of more than anyone I ever heard of and his idea to unite the quest for internal liberation with the pursuit of a socio-economic revolution and to think them as mutual dependent from each other, that inspires me ever since.
@@ -208,7 +208,6 @@ I think it is very important to use software, that respects your freedoms. Even 
 In Vanilla Gothic I like the Old Camp the most and right after it the Sect Camp. As for the Sequel it is really hard for me to tell. I love everything in the Sequel, but in the build that is available, the Old Camp's atmosphere is probably the best.
 
 #### What are your favourite games?
-
 * Gothic 1 - the best PB game without a question and for me the best game ever.
 * Age of Mythology - very nice RTS, similar to AoE.
 * Knights and Merchants - RTS with unique style, has a free and open source remake.
@@ -266,6 +265,67 @@ Apart from working on Phoenix I work on other Gothic related things. I translate
     <h4>What do you do other than that?
     
   -->
+
+Habe zwischendurch mal die Fragen beantwortet:
+
+
+### Hagen (Robert)
+
+// Writer
+{: .second-comment }
+
+#### Who are you?
+Originally a trained farmer, but working as a community manager in a small media company. Living in a German low mountain range with a beautiful wife and lovely children. Born in the early 1990s.
+
+#### How did you come to Phoenix Tales?
+I forgot how I found Phoenix in 2023, it must have had something to do with YouTube and probably alpha footage. Joined the Discord in September 2024, got a warm welcome and happily started to contribute.
+
+#### Why do you love Gothic so much?
+European low fantasy approach and neither American nor Asian overload for the senses. Faction-basedness. Art style. Accessible clunkyness.
+
+#### What do you do in the project?
+Right now I am contributing my thoughts to the documentation, especially regarding lore, and working on writing; side- and guildquests, findable texts and environmental storytelling.
+
+#### Which programmes do you use for your tasks?
+Just any text editor.
+
+#### What are your favourite camps and guilds in Gothic/Phoenix?
+Phoenix: Probably New Camp.  
+Gothic: Unsure.  
+The New Camp has the most convincing goals and a relatively free approach, but it lacks the atmosphere in the release version, being too empty and static.  
+The Old Camp has a good atmosphere but the player gets alienated in the course of the story in a way that it is not as believable and intense as it could have been.  
+The Psi Camp has a thick atmosphere, believable and earnest characters and the most impressive warrior caste, but after you join it, it has nothing to offer and staying part of it while finding out about the true nature of the sleeper is not explained in a believable way.
+
+#### What are your favourite games?
+
+Deus Ex series (Revision, HR, MD), Metal Gear Solid 1, S.T.A.L.K.E.R. (if it wouldn't be so gamebreakingly buggy even with mods), Red Orchestra: Ostfront 41-45, Splinter Cell: Chaos Theory, Red Dead: Revolver (never played Redemption 1 or 2), Dawn of War, Stronghold, Crusader Kings 2/3, Manor Lords, Kingdom Come: Deliverance, Tekken 3, Frostpunk
+
+
+#### What is your favourite music?
+
+Absolutely superior: Gregorian and other ecclesial chant from occident and orient.
+
+Singable traditional folk songs: about what we call „Heimat“ in German, about studying, about „Wein, Weib und Gesang“ (Wine, woman and singing), about living and dying, about war and peace, about God and the world.
+
+When it comes to listening to music from a data carrier: Neofolk.
+
+Also I am right now learning to play guitar. Eventhough I wish I wasn't so lazy in doing so.
+
+
+#### Any books you would like to recommend?
+
+To spontaneously name books of three authors:
+* „Die Schwarze Spinne“ by Jeremias Gotthelf.
+* „Das kalte Herz“ by Wilhelm Hauff
+* „In Stahlgewittern“ and „Das abenteuerliche Herz“ by Ernst Jünger
+
+And of course reading all the poems of Theodor Körner and Joseph von Eichendorff.
+
+
+#### What do you do other than that?
+
+Spending time with my family, renovating the house, chopping firewood, doing some subsistence agriculture, writing short stories and novels which probably will never be finished, writing poems, being in a volunteer fire brigade, doing martial arts (right now lacking the time for that) and sometimes enjoying a good tobacco pipe or cigar and a glass of Whisky with friends.
+
 
 ![David](/appendix/behind-the-scenes/team/link2.png)
 
