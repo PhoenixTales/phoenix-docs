@@ -13,7 +13,7 @@ CH2+: Camp/Class/Guild-bounded Story Decisions
 ```
 
 
-## CH1
+## CH1 - Orientation
 
 ```
 CH1 >
@@ -92,37 +92,61 @@ PSIONIC: -
 
 ---
 
-## CH2
+## CH2 - FocusHunt
 
+Main: `Support Sect </> Circles (KDF </> KDW)`
 
-
-Escape Plans:
+InterestsCH2:
 ```
 VLK:Survive
 MAF:StatusQuo
 PSI:Massprayer
-NC/FC:Destroy[?]
+NC/FC:Ore (Foci?)
 KDF:Research
-
-CH2: SupportPSI </> SupportCircles
-
-
-
-ResearchBarrier </> DestroyBarrier
 ```
 
-CH2:
-OC: ...
-PSI
+## CH3 - Internal Conflicts
 
-CH3:
-
+Camp-bounded Decisions
+```
 OC:  Support KDF <> EBR
 PSI: Support Angar <> Kalom
 NC:  Support Lares <> Lee
 FC:  ...
+```
+
+Class-bounded Decisions:
+...
+
+Guild-bounded Decisions:
+...
 
 
+## CH4 - Faction War
+
+Main: `FindTemple`
+
+```
+OC:  Loyal to the Barons or not
+NC:  Orc Alliance or not?
+PSI: OC Alliance <> NC Alliance
+~~FC~~
+```
 
 
+## CH5 - OrcAssault
 
+Main: `AccessTemple`
+
+Truce:
+```
+OC:
+NC:   
+PSI:
+~~FC~~
+```
+
+
+## CH6 - Nemesis
+
+Main: `BanSleeper`
