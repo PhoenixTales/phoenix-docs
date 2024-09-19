@@ -86,7 +86,7 @@ I would say, my favourites are: Have A Nice Life, Lost in Kiev, Being as an Ocea
 Hard question. But what I would like to recommend to everyone are the Memoirs of Vinoba Bhave: [Moved by Love](https://archive.org/details/MovedByLove-English-VinobaBhave). Nothing has influenced my thinking as much as Vinoba; he combined Vedanta and Anarchy, he practiced what he dreamed of more than anyone I ever heard of and his idea to unite the quest for internal liberation with the pursuit of a socio-economic revolution and to think them as mutual dependent from each other, that inspires me ever since.
 
 #### What do you do other than that?
-Acrobatics and designing other things. Such as acrobatic sequences and acts, other websites, clothing and stuff, like the [fsocial](https://fosci.al/) project. But I do not find the time (or do not have the ressources) to work on all these ideas enough.
+Acrobatics and designing other things. Such as acrobatic sequences and acts, other websites, clothing and stuff, like the [fsocial](https://fsoci.al/) project. But I do not find the time (or do not have the ressources) to work on all these ideas enough.
 
 ---  
 
