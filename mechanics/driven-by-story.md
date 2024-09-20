@@ -18,7 +18,7 @@ What is not interactive is not *played*. The more a game is playable the more ga
 
 This understanding of what a game should be forms the basis to several design decisions regarding our gameplay. But what makes this gameplay *story-driven*?
 
-In consequence of a believable simulated stage of this gothic drama Phoenix has to be, the story and the world as the stage of the story should evolve on their own, if the player interferes with it or not.
+In consequence of a believable simulated stage of this gothic drama we want Phoenix to be, the story and the world as the stage of the story should evolve on their own, if the player interferes with it or not.
 
 In that a game is story driven, it is of course pre-narrated to a high degree, but not in a linear way, but in what we may call a multi-dynamic-simultaneous narrative. It is...
 
