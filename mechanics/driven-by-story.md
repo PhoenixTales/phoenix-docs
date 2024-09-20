@@ -9,7 +9,7 @@ Last update: 20.09.2024
 
 Phoenix is promoted by us as a "story-driven rpg" and so was Gothic. But what does this even mean? 
 
-A game driven by story is (1) not a film with passages of interactivity, but a simulated story in a simulated world with simulated A-life the player can constantly interact and interfere with. And this interactivity should be consistent in the game logic, which we may call "interaction consistency": What NPCs can do, the player character in theory must also be able to do and vice versa.
+A game driven by story is *not* a film with passages of interactivity, but a simulated story in a simulated world with simulated A-life the player can constantly interact and interfere with. And this interactivity should be consistent in the game logic, which we may call "interaction consistency": What NPCs can do, the player character in theory must also be able to do and vice versa.
 
 In this sense, a game like Hellblade, as much value it may have for what it is, is simply less of a game than Gothic. It may be an experience with much *focus* on the story with some degrees of interactivity, but if something could work just as well as a film, then it is not much of a game. And even if the interactivity adds something to the experience, it remains a very restricted form of interactivity broken up by constant cutscenes and would thus be better described as an interactive movie than a game.
 {: .subtext }
