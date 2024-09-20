@@ -3,6 +3,7 @@
 ```
 Author:  Flosha
 Written: 04.09.2024
+Last update: 20.09.2024
 ```
 {: .info }
 
@@ -38,24 +39,30 @@ And then there is the possibility of a completely opposite approach: Events unfo
 
 In one case the game scenario, the game world, the game's story can only progress as much as the player. In the other case the player can only progress as much as the game world and story.
 
-Everything depends on conditions still, but conditions in which the player is only one of multiple factors among the other characters in the game which are driven by their own motives. Time, or evem weather or simple chance may be other possible factors at play.  
+Everything depends on conditions still, but conditions in which the player is only one of multiple factors among the other characters in the game which are driven by their own motives. Time, or even weather or simple chance may be other possible factors at play.  
 
-It is only in this sense, that "story-driven", as which we describe Phoenix, receives its true meaning. It does *not* mean, that the game is focused on the story, but it is a design approach to offer an experience that is opposed to a "player-driven" experience. "Story-driven" describes a game that is driven by the story and not by the player. 
+It is only in this sense that "story-driven", as which we describe Phoenix, receives its true meaning. It does *not* simply mean that the game is focused on the story, but it is a design approach to offer an experience that is opposed to a "player-driven" experience. "Story-driven" describes a game that is driven by the story and not by the player. 
 
 The story is driven forward; the player influences the events, reacts to the events, initiates some events, but he cannot stop the drama. It is unfolding in front of the eyes of the player and the player is a part of it, thrown into it, but he is *not* in control. He is in control of his character only, of the little role that he plays. 
 
-I will argue that this is a necessary aspect of immersive sim-rpg design if we want to follow it consequently and develop it further. Because if playing in a immersively simulated game world, this "simulation" is as non-immersive as it gets, when the story of the roleplay does not move forward in any way independent from the player. 
+In regard to the Immersive Sim, orienting ourselves at the early Vision of Gothic requires bold decisions in design. The Immersive Sims it was inspired by were not so story-driven. System Shock 2 may be an exception here, but its "rpg" elements were superficial. There were attributes and stuff to skill, but there was no "roleplaying". In that Gothic wanted to be a real RPG and an Immersive Sim at the same time, it required a different approach.
 
-It was only in form of the collapse of the old mine and the attack on the free mine (which were supposed to be two different events originally, besides diverse other similar story twists) that in the release version something happened behind the back of the player - at every other point in the story we could say that the world of Gothic was completely static!  
+So I will argue that this is a necessary aspect of immersive sim-rpg design if we want to follow it consequently and develop it further. Because when playing in a immersively simulated game world, this "simulation" is as non-immersive as it gets, when the story of the roleplay does not move forward in any way independent from the player. 
+
+It was only in form of the collapse of the old mine and the attack on the free mine (which were supposed to be two different events originally, besides diverse other similar story twists) that in the release version something happened behind the back of the player - at every other point in the story we could say that the world of the release version of Gothic was completely static! It was not even close to the "living" world that was promised.
 
 By this particular story twist at least the illusion was conveyed that something has happened independently from the players actions (while actually it was triggered by nothing else than the player having a specific dialogue etc.) In Phoenix, these kinds of events happening "behind the back" of the player have to apply to almost everything and most often not in an illusionary way, but actually triggered by factors independent from the players influence, such as time. 
 
 Whether or not he is witnessing them depends on whether or not he is at the right place at the right time. A factor which again is heavily influenced by which guild he belongs to and so on.
 
 Being "story-driven" in this sense of the term is also a necessary consequence of the idea of a "realtime" rpg, as which Gothic has always been promoted.  
-In a game where everything happens "in real time", but only if the player is ready for it to happen, realtime is a mere illusion; it is realtime only in a mechanical, gameplay related perspective as opposed to "round-based". But the story is *not* realtime. Instead of the story unfolding in "real" (play) time, it unfolds by the player "unlocking" every bit of story one single bit at a time at will. 
+In a game where everything happens "in real time", but only if the player is ready for it to happen, realtime is a mere illusion; it is realtime only in a mechanical, gameplay related perspective as opposed to "round-based". But the *story* is *not* realtime, because instead of the story unfolding in "real" (play) time, it unfolds by the player "unlocking" every bit of story one single bit at a time at will. 
 
-Neither the story nor we as the story-authors, nor the other characters nor the demonic threat lurking deep below do nor should care for the will and convenience of the player, nor do we ask the question, if it is convenient for him right now that an assassin is send against him or that the camp is being attacked and so on.  
+Neither the story nor we as the story-authors, nor the other characters nor the demonic threat lurking deep below do nor should care for the will and convenience of the player. We do not ask the question, if it is convenient for him right now that an assassin is send against him or that the camp is being attacked and so on.  
 
 *Pathologic* and *This War of Mine* are examples for games with a similar approach to story-telling. 
 {: .subtext }
+
+```
+ToDo: Are there more aspects to it?
+```
