@@ -20,12 +20,13 @@
 
 ## II. [Mechanics](/mechanics/mechanics)
 
-1. Classes
-2. Attributes
+1. [Driven by Story](/mechanics/driven-by-story)
+2. Classes
+3. Attributes
 	1. [Alpha Attributes](/mechanics/attributes-alpha)
 	2. [Phoenix Attributes](/mechanics/attributes-phoenix)
-3. Skills
-4. Modes of Interaction 
+4. Skills
+5. Modes of Interaction 
 	1. Exploration Mode
 		1. Item Handling
 		2. Inventory
@@ -36,13 +37,13 @@
 	5. Dialogue Mode
 	6. Crafting Mode
 	7. [Trading Mode](/mechanics/trading)
-5. Experience or Arts
-6. Relations
-7. Interface
+6. Experience or Arts
+7. Relations
+8. Interface
 	1. [RetroStyle](/mechanics/retro-style)
-8. Events
-9. AI Functions
-10. [Playmodes](/mechanics/playmodes)
+9. Events
+10. AI Functions
+11. [Playmodes](/mechanics/playmodes)
 
 
 <!-- ## [Story](/story/story) -->
