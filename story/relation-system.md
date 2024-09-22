@@ -399,34 +399,41 @@ Below I will list all kinds of categories of relations, or in short, "relation s
 This way the relation systems help us to have an overview and to address all the themes that one expects from the premises of our setting and our story, without falling into the trap of missing various essential themes and thereby wasting the potential of our own premises. 
 
 
-### "Mutual Relations"
+### Mutual Relations
 
-In a circle of inner to outer.  
-
-* Individual to Individual
+* Man to Man
+* Group to Group
 * Guild to Guild
 * Faction to Faction
 * Class to Class
 * Camp to Camp
 * Province to Province
 * Realm to Realm
-* Race to Race (Human/Orc/Half-Orc)
-* Species to Species (Monsters)
-* Sphere to Sphere (Morgrad/Shagrad/Tyrgrad)
+* Race to Race 
+* Species to Species 
+* Sphere to Sphere
 * God to God
+
+
+### Individual Relations
+
+How an NPC relates to all of the above, how a guild, a race etc. relates to all of the above. 
+
+Examples: Relation of the Circle of Fire to the Orcs (Race). Relation of an Individual to the Clergy (Faction). Relation of a God to a Guild (e.g. how the Inquisition justifies their actions through Beliar). 
+{: .info }
 
 
 ### Relation to Themes
 
 *Flosha & Hagen, last update 22.09.2024*
 
-* Political Themes: Thoughts about and loyalty to the King and the kingdom, on the war, on the relation of Colony and City and of both to the Realm, to the Criminals, to the Orebarons, 
+* Political Themes: Thoughts about and loyalty to the King and the kingdom, on the war, on the relation of Colony and City and of both to the Realm, to the Criminals, to the Orebarons, to Orcs or Humans as the enemy, ... 
 
-* Economical Themes: Working Conditions (Suffering/Exploitation of the Workers), Poverty/misery, Wealth, Ore business, Property & stealing, ...
+* Economical Themes: Working Conditions (Suffering/Exploitation of the Workers), Poverty/misery, Wealth, Ore business, Property & stealing, food & hunger, ...
 
-* Interpersonal & Social Themes: Trust & Friendship (especially in the war context), betrayal, love, respect, honour, recognition, hierarchy/rank, leadership, competition, family, revenge, atonement, forgiveness, truthfulness, lies, death & burial, the dead & ancestors, blood & descent, racism, magic, gods & the cult(s), ...
+* Interpersonal & Social Themes: trust & friendship (especially in the war context), betrayal, love, respect, honour, duty, recognition, hierarchy/rank, leadership, competition, family, revenge, atonement, forgiveness, truthfulness, lies, death & burial, the dead & ancestors, blood & descent, racism, magic, mages, priests, gods & the cult(s), ...
 
-* Intrapersonal & Emotional Themes: Loneliness, perception (and trust in their own perception), age & aging, decay, hatred, wrath/anger, passion, temperance, suffering, (free) will, dreams, demons ...
+* Intrapersonal & Emotional Themes: Loneliness, perception (and trust in their own perception), age & aging, decay, hatred, wrath/anger, passion, temperance, suffering, (free) will & fate, dreams, demons ...
 
 * Environmental & Ecological Themes: The Plague, strange ecological phenomena, weather, vegetation, ... 
 
