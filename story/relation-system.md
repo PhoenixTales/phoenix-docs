@@ -382,7 +382,9 @@ And its one of the (or maybe the) most complex guild(s). Therefore I would say t
 This I think is an extremely valuable tool for story writing because it cannot be underestimated how much guidance it gives. Just by having a big scheme of relations and having these relations between all kinds of factions, realms, entities, npcs, monsters, gods, camps, subfactions etc. as themes to deal with in dialogues or missions, we have a very clear plan of what to write about, what to deal with in dialogues. We don't have to get topics from nowhere, this big scheme is providing hundreds of possible topics to deal with and we can always take the scheme and see what we have to address.
 
 
-## Themes by Relations 
+## Relation Systems
+
+
 
 07.-08.12.2023
 
@@ -391,52 +393,42 @@ Content (missions, items, environmental storytelling etc.) dealing with themes d
 * Entity to Entity / Instance to Instance
 
 
-## Categories of Relations
+## Relation Systems
+
+Below I will list all kinds of categories of relations, or in short, "relation systems". By these relation systems we not only differentiate how one entity (or "instance") relates to another entity, - which I summarised as "Mutual Relations", - but also how one entity relates to specific *themes* of importance. These themes are partially defined by the story, but there are also essential themes we have to focus on based on the gothic-fantasy setting.  
+This way the relation systems help us to have an overview and to address all the themes that one expects from the premises of our setting and our story, without falling into the trap of missing various essential themes and thereby wasting the potential of our own premises. 
+
 
 ### "Mutual Relations"
+
+In a circle of inner to outer.  
+
 * Individual to Individual
-* Race to Race (Human/Orc/Half-Orc)
-* Man/Orc to Monster
-* God to God
+* Guild to Guild
 * Faction to Faction
+* Class to Class
+* Camp to Camp
+* Province to Province
 * Realm to Realm
+* Race to Race (Human/Orc/Half-Orc)
+* Species to Species (Monsters)
 * Sphere to Sphere (Morgrad/Shagrad/Tyrgrad)
+* God to God
 
 
-### Relations to Themes
+### Relation to Themes
 
 *Flosha & Hagen, last update 22.09.2024*
 
-* Political Themes: Thoughts about and loyalty to the King and the kingdom, on the war, on the Colony and Criminals, ...
+* Political Themes: Thoughts about and loyalty to the King and the kingdom, on the war, on the relation of Colony and City and of both to the Realm, to the Criminals, to the Orebarons, 
 
-* Economical Themes: Working Conditions (Suffering/Exploitation of the Workers), Poverty/misery, Wealth, Ore business, Possession/property & stealing, ...
+* Economical Themes: Working Conditions (Suffering/Exploitation of the Workers), Poverty/misery, Wealth, Ore business, Property & stealing, ...
 
-* Trust (in the War context)
-* Friendship (in the War)
-* Betrayal
-* 
+* Interpersonal & Social Themes: Trust & Friendship (especially in the war context), betrayal, love, respect, honour, recognition, hierarchy/rank, leadership, competition, family, revenge, atonement, forgiveness, truthfulness, lies, death & burial, the dead & ancestors, blood & descent, racism, magic, gods & the cult(s), ...
 
-Emotional:
+* Intrapersonal & Emotional Themes: Loneliness, perception (and trust in their own perception), age & aging, decay, hatred, wrath/anger, passion, temperance, suffering, (free) will, dreams, demons ...
 
-* Plague
-
-Ecological: 
-* Strange ecological phenomena
-
-Mental:
-* Perception / Trust in perception
-
-
-
-* Demons
-* Magic
-* Racism
-* Love
-* 
-
-Body:
-* 
-
+* Environmental & Ecological Themes: The Plague, strange ecological phenomena, weather, vegetation, ... 
 
 <!--
 
