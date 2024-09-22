@@ -427,7 +427,24 @@ Examples: Relation of the Circle of Fire to the Orcs (Race). Relation of an Indi
 
 *Flosha & Hagen, last update 22.09.2024*
 
-* Political Themes: Thoughts about and loyalty to the King and the kingdom, on the war, on the relation of Colony and City and of both to the Realm, to the Criminals, to the Orebarons, to Orcs or Humans as the enemy, ... 
+We list the themes below in a rough structure, - through their sequence - but without categorisation. Every theme can and should be looked at from different perspectives. Thus, apart from the themes themselves, we also have to take these perspectives into account, from which we should deal with the themes. 
+
+#### Perspectives
+
+* intra-personal - how one relates to a theme based on personal history, emotionally, mentally or from a psychological point of view
+* inter-personal - how one relates to a theme in relation to others
+* political point of view
+* ecomonical point of view
+* religious/cultural
+
+#### Themes
+
+* Thoughts about and loyalty to the King and the kingdom
+* War & Peace
+* The Penal Colony
+* The City
+* Imprisonment
+* , to the Criminals, to the Orebarons, to Orcs or Humans as the enemy, ... 
 
 * Economical Themes: Working Conditions (Suffering/Exploitation of the Workers), Poverty/misery, Wealth, Ore business, Property & stealing, food & hunger, ...
 
