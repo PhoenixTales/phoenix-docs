@@ -391,9 +391,9 @@ Content (missions, items, environmental storytelling etc.) dealing with themes d
 * Entity to Entity / Instance to Instance
 
 
-### Categories of Relations
+## Categories of Relations
 
-#### "Mutual Relations"
+### "Mutual Relations"
 * Individual to Individual
 * Race to Race (Human/Orc/Half-Orc)
 * Man/Orc to Monster
@@ -403,25 +403,39 @@ Content (missions, items, environmental storytelling etc.) dealing with themes d
 * Sphere to Sphere (Morgrad/Shagrad/Tyrgrad)
 
 
-#### Individual Relations of X (an NPC, faction etc.) or an Attitude of X to a theme, such as the...
+### Relations to Themes
 
-* (Loyalty to) the King and the kingdom
-* Working Conditions (Suffering/Exploitation of the Workers)
-* Plague
-* War
+*Flosha & Hagen, last update 22.09.2024*
+
+* Political Themes: Thoughts about and loyalty to the King and the kingdom, on the war, on the Colony and Criminals, ...
+
+* Economical Themes: Working Conditions (Suffering/Exploitation of the Workers), Poverty/misery, Wealth, Ore business, Possession/property & stealing, ...
+
 * Trust (in the War context)
 * Friendship (in the War)
 * Betrayal
-* Colony and Criminals
+* 
+
+Emotional:
+
+* Plague
+
+Ecological: 
 * Strange ecological phenomena
+
+Mental:
 * Perception / Trust in perception
-* Poverty/misery from the perspective of X
-* Ore business
+
+
+
 * Demons
 * Magic
 * Racism
 * Love
-* Possession
+* 
+
+Body:
+* 
 
 
 <!--
