@@ -443,9 +443,11 @@ We list the themes below in a rough structure. Many themes can and should be loo
 
 #### Themes
 
-* Hierarchy & Bond: loyalty to X (king, kingdom, ...), rank, status, prestige, leadership & servitude, honour, sincerity, duty, responsibiliy, determination, blood & descent, family, clan, tribe, caste, class, guild, group, community
+* Freedom is the main goal of the game and thus also the main theme; at first it is a simple understanding: Be free by getting out of the prison that holds you captive. But Freedom has to be addressed from all kinds of angles: External freedom (breaking out of the prison) and internal freedom (free will?), freedom of choice, control or discipline as requirements for freedom, responsibility as a consequence of freedom; freedom in thought and feeling, freedom vs. imprisonment and all the different possible layers of imprisonment (in the colony, the city, in the realm, in society, in the war, in the body, in ones mind, in ones own conditioning and how to break free; freedom in relation to economic and political power, freedom by non-identification (with everything that can be enslaved), freedom in the sense of spiritual liberation and what it requires (action, belief, grace?), freedom of the gods, and how all of that correlates with, is presented alongside or in contrast to freedom and restriction in the gameplay and exploration. 
 
-* Economical Themes: (Right) livelihood, labour, working conditions, exploitation, sharing, poverty/misery & wealth, greed, currency, property & stealing, the ore business, means of production, tools, food, hunger, harvest, lack & superfluity
+* Hierarchy & Bond: loyalty to X (king, kingdom, ...), rank, status, prestige, leadership & servitude, honour, sincerity, duty, responsibiliy, determination, blood & descent, family, clan, tribe, caste, class, guild, group, community - and can one be free in a hierarchical society? 
+
+* Economical Themes: (Right) livelihood, labour, working conditions, exploitation, sharing, poverty/misery & wealth, greed, currency, property & stealing, the ore business, means of production, tools, food, hunger, harvest, lack & superfluity, free time and art, imprisonment by the constant struggle for survival. 
 
 * War & Peace
 * The Penal Colony
