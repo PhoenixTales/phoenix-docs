@@ -436,54 +436,42 @@ We list the themes below in a rough structure, - through their sequence - but wi
 * political point of view
 * ecomonical point of view
 * religious/cultural
+* historical (viewing themes from a historical perspective and different views on historical events)
 
 #### Themes
 
-* Loyalty to King & Kingdom
+* Social hierarchy: loyalty to X (king, kingdom, ...), rank, status, prestige, leadership & servitude, respect, honour, recognition, sincerity, duty, responsibiliy, determination, blood & descent, family, clan, tribe, caste, class, guild, group, community
 * War & Peace
 * The Penal Colony
 * The City
-* Imprisonment
+* Imprisonment & Freedom
+* Dependence/Independence
 * Crime & Criminals
-* Working Conditions
-* Exploitation
-* Poverty/Misery/Wealth
-* Ore business
-* Property & Stealing
-* Food & hunger
-* Tust & Betrayal
+* Economical Themes: (Right) livelihood, labour, working conditions, exploitation, sharing, poverty/misery & wealth, currency, property & stealing, the ore business, means of production, tools, food, hunger, harvest, lack & superfluity
+* Trust & Betrayal
 * Truthfulness & Lies
-* Friendship
-* Love
-* Respect
-* Honour
-* Duty
-* Recognition
-* Hierarchy & Rank
-* Leadership & Servitude
-* Competition
-* Family
-* Revenge
-* Atonement
-* Forgiveness
+* Affection, Friendship & Loneliness
+* Love, Partnership & Desire
+* Self-Image & Self-Reflection
+* Competition & Sports
+* Family & Community
+* Revenge, Atonement & Forgiveness
 * Death & burial
 * The dead & Ancestors
-* Blood & descent
 * Racism
-* Magic & Mages
-* The Cult(s)
-* Loneliness
+* Magic & Rituals
+* Rites and the Cult(s)
 * Perception (and trust in their own perception)
-* Age & aging
-* Decay
+* Age & Aging (Childhood, Youth, Maturity, Seniority)
+* Blossom & Decay
 * Hatred, Wrath/Anger
 * Passion
 * Temperance
-* Suffering
+* Happiness & Suffering
 * (Free) will & Fate
 * Dreams
 * Demons
-* The Plague
+* Sickness & Health, the Plague
 * Strange ecological phenomena
 * Weather
 * Vegetation
