@@ -439,20 +439,54 @@ We list the themes below in a rough structure, - through their sequence - but wi
 
 #### Themes
 
-* Thoughts about and loyalty to the King and the kingdom
+* Loyalty to King & Kingdom
 * War & Peace
 * The Penal Colony
 * The City
 * Imprisonment
-* , to the Criminals, to the Orebarons, to Orcs or Humans as the enemy, ... 
-
-* Economical Themes: Working Conditions (Suffering/Exploitation of the Workers), Poverty/misery, Wealth, Ore business, Property & stealing, food & hunger, ...
-
-* Interpersonal & Social Themes: trust & friendship (especially in the war context), betrayal, love, respect, honour, duty, recognition, hierarchy/rank, leadership, competition, family, revenge, atonement, forgiveness, truthfulness, lies, death & burial, the dead & ancestors, blood & descent, racism, magic, mages, priests, gods & the cult(s), ...
-
-* Intrapersonal & Emotional Themes: Loneliness, perception (and trust in their own perception), age & aging, decay, hatred, wrath/anger, passion, temperance, suffering, (free) will & fate, dreams, demons ...
-
-* Environmental & Ecological Themes: The Plague, strange ecological phenomena, weather, vegetation, ... 
+* Crime & Criminals
+* Working Conditions
+* Exploitation
+* Poverty/Misery/Wealth
+* Ore business
+* Property & Stealing
+* Food & hunger
+* Tust & Betrayal
+* Truthfulness & Lies
+* Friendship
+* Love
+* Respect
+* Honour
+* Duty
+* Recognition
+* Hierarchy & Rank
+* Leadership & Servitude
+* Competition
+* Family
+* Revenge
+* Atonement
+* Forgiveness
+* Death & burial
+* The dead & Ancestors
+* Blood & descent
+* Racism
+* Magic & Mages
+* The Cult(s)
+* Loneliness
+* Perception (and trust in their own perception)
+* Age & aging
+* Decay
+* Hatred, Wrath/Anger
+* Passion
+* Temperance
+* Suffering
+* (Free) will & Fate
+* Dreams
+* Demons
+* The Plague
+* Strange ecological phenomena
+* Weather
+* Vegetation
 
 <!--
 
