@@ -414,10 +414,13 @@ This way the relation systems help us to have an overview and to address all the
 * Sphere to Sphere
 * God to God
 
+Examples: How Milten relates to Corristo (personal relationship), how the Shadows relate to the Orebarons (guild attitude), how Humans relate to Orcs (racism), how Innos relates to Beliar etc.
+{: .info }
+
 
 ### Individual Relations
 
-How an NPC relates to all of the above, how a guild, a race etc. relates to all of the above. 
+How an NPC, a guild, a species relates to all of the above. 
 
 Examples: Relation of the Circle of Fire to the Orcs (Race). Relation of an Individual to the Clergy (Faction). Relation of a God to a Guild (e.g. how the Inquisition justifies their actions through Beliar). 
 {: .info }
@@ -427,7 +430,7 @@ Examples: Relation of the Circle of Fire to the Orcs (Race). Relation of an Indi
 
 *Flosha & Hagen, last update 22.09.2024*
 
-We list the themes below in a rough structure, - through their sequence - but without categorisation. Every theme can and should be looked at from different perspectives. Thus, apart from the themes themselves, we also have to take these perspectives into account, from which we should deal with the themes. 
+We list the themes below in a rough structure. Many themes can and should be looked at from different perspectives. Thus, apart from the themes themselves, we also have to take these perspectives into account, from which we may have to deal with the themes. 
 
 #### Perspectives
 
@@ -440,25 +443,23 @@ We list the themes below in a rough structure, - through their sequence - but wi
 
 #### Themes
 
-* Social hierarchy: loyalty to X (king, kingdom, ...), rank, status, prestige, leadership & servitude, respect, honour, recognition, sincerity, duty, responsibiliy, determination, blood & descent, family, clan, tribe, caste, class, guild, group, community
+* Hierarchy & Bond: loyalty to X (king, kingdom, ...), rank, status, prestige, leadership & servitude, honour, sincerity, duty, responsibiliy, determination, blood & descent, family, clan, tribe, caste, class, guild, group, community
+
+* Economical Themes: (Right) livelihood, labour, working conditions, exploitation, sharing, poverty/misery & wealth, greed, currency, property & stealing, the ore business, means of production, tools, food, hunger, harvest, lack & superfluity
+
 * War & Peace
 * The Penal Colony
 * The City
 * Imprisonment & Freedom
-* Dependence/Independence
 * Crime & Criminals
-* Economical Themes: (Right) livelihood, labour, working conditions, exploitation, sharing, poverty/misery & wealth, currency, property & stealing, the ore business, means of production, tools, food, hunger, harvest, lack & superfluity
-* Trust & Betrayal
-* Truthfulness & Lies
-* Affection, Friendship & Loneliness
-* Love, Partnership & Desire
+
+Modes, Qualities & Conditions of Mutual Relationships: trust & betrayal, truthfulness & lies, affection, friendship & loneliness, love, partnership & desire, jealousy, dependence & independence, awe, admiration, disgust, disdain, respect, recognition, revenge, atonement & forgiveness
+
+
 * Self-Image & Self-Reflection
 * Competition & Sports
-* Family & Community
-* Revenge, Atonement & Forgiveness
 * Death & burial
-* The dead & Ancestors
-* Racism
+* The dead & Ancestors 
 * Magic & Rituals
 * Rites and the Cult(s)
 * Perception (and trust in their own perception)
@@ -468,13 +469,11 @@ We list the themes below in a rough structure, - through their sequence - but wi
 * Passion
 * Temperance
 * Happiness & Suffering
-* (Free) will & Fate
+* Philosophical: (Free) will vs. Fate, Identity Formation, Violence vs. Non-Violence, Virtues & Vices, Role of the Gods, 
 * Dreams
 * Demons
-* Sickness & Health, the Plague
-* Strange ecological phenomena
-* Weather
-* Vegetation
+* Health & Sickness: Disease, Wounds, Healing, Care, Medicin, Immunity, Vulnerability, Resistance, Possessiveness, the Plague, ...
+* Ecological: psi-waves, psi-knots, magical rain, weather, vegetation, mutations, ...
 
 <!--
 
