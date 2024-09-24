@@ -24,30 +24,32 @@ Phoenix' Sources:
 **Content:**
 
 1. Mythology
-    1. [Gods & Cults](/lore/gods)
+    1. [Gods](/lore/gods)
     2. [Spheres](/lore/spheres)
-    3. [The Arcane](/lore/arcane)
-    4. Fallen Civilisation
-2. [Geography](/lore/geography)
+    3. Fallen Civilisation
+2. Culture
+    1. Cults of the Realm
+    2. [The Arcane](/lore/arcane)
+    3. Language
+	1. Mora Language
+	2. Orcish Language
+    4. Racism
+    5. Slavery
+3. MetaPhysics
+    1. Alchemical Magic
+    2. Psionic Magic
+4. [Geography](/lore/geography)
     1. Myrtana
         1. Tymoris
             1. [Khorinis](/lore/khorinis)
                 * The Colony
-3. Culture
-	1. Mora Language
-	2. Orcish Language
-    3. Racism
-    4. Slavery
-4. MetaPhysics
-	1. Alchemical Magic
-	2. Psionic Magic
 5. History
     1. First Empire
     2. Second Empire
-	3. Third Empire
+    3. Third Empire
         1. Old Empire
         2. New Empire
     4. Battle of Varant
     5. The Revolt
     6. Creation of the Barrier <!-- here include size of the barrier -->
-	7. Timeline 
+    7. Timeline 
