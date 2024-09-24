@@ -40,7 +40,7 @@ Phoenix' Sources:
     2. Psionic Magic
 4. [Geography](/lore/geography)
     1. Myrtana
-        1. Tymoris
+        1. Tymoria
             1. [Khorinis](/lore/khorinis)
                 * The Colony
 5. History
