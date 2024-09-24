@@ -53,16 +53,16 @@
 ## III. [Lore](/lore/lore)
 
 1. Mythology
-	1. [Gods & Demons](/lore/gods)
-	2. [Cosmology](/lore/spheres)
-	3. [The Arcane](/lore/arcane)
+   1. [Gods & Demons](/lore/gods)
+   2. [Cosmology](/lore/spheres)
+   3. [The Arcane](/lore/arcane)
 2. Culture
-        1. [Cults & Sects](/lore/cults)
-3. MetaPhysics
+   1. [Cults & Sects](/lore/cults)
+3. MetaPhysics  
 4. [Geography](/lore/geography)
-	1. [Khorinis](/lore/khorinis)
+   1. [Khorinis](/lore/khorinis)
 5. History 
-	1. [Phoenix Allegory](/lore/phoenix-allegory)
+   1. [Phoenix Allegory](/lore/phoenix-allegory)
 
 
 ### IV. [World Design](/story/world)
