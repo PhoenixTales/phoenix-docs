@@ -1,4 +1,4 @@
-# Driven by Story
+# Storydriven
 
 ```
 Author:  Flosha
@@ -34,7 +34,7 @@ NPCs will receive the very missions that the player would otherwise receive if p
 {: .subtext}
 
 
-**Story-driven vs. Player-driven**
+## Story-driven vs. Player-driven
 
 In telling a story in or through a game, there are two diametrically opposed approaches in what drives the story forward: 
 
@@ -44,7 +44,7 @@ And then there is the possibility of a completely opposite approach: Events unfo
 
 In one case the game scenario, the game world, the game's story can only progress as much as the player. In the other case the player can only progress as much as the game world and story.
 
-Everything depends on conditions still, but conditions in which the player is only one of multiple factors among the other characters in the game which are driven by their own motives. Time, or even weather, other NPCs and their actions or simple chance may be other possible factors at play.  
+Everything depends on conditions still, but conditions in which the player is only one of multiple factors among the other characters in the game which are driven by their own motives. Thus NPCs time, even weather or simple chance may be possible factors at play. 
 
 It is only in this sense that "story-driven", as which we describe Phoenix, receives its true meaning. It does *not* simply mean that the game is focused on the story, but it is a design approach to offer an experience that is opposed to a "player-driven" experience. "Story-driven" describes a game that is driven by the story and *not* by the player. 
 
@@ -58,7 +58,7 @@ A story-driven game is like a game in which the *story* is the underlying engine
 So the game is driven forward by the story; the player influences the events, reacts to the events, initiates some events, but he cannot stop the drama. It is unfolding in front of the eyes of the player and he is a part of it, thrown into it, but he is *not* in control. He is in control of his character only, of the little role that *he* plays. 
 
 
-**The Immersive Sim RPG**
+## The Immersive Sim RPG
 
 It is also in regard to the Immersive Sim that orienting ourselves at the early Vision of Gothic requires such bold decisions in design. The Immersive Sims it was inspired by were not story-driven either in the sense described above.  
 They were mostly driven by exploration, we may say, such as System Shock 2 or Thief, and this is an absolutely crucial aspect for Gothic too. But they were not much of "RPGs". Yes, most of them had skills, attributes and stuff, they had an inventory and so on. But all of these are just superficial aspects of roleplaying, mechanical aspects, comparable to the underlying rules of a table top RPG.  
@@ -77,7 +77,7 @@ Speaking of concrete examples: It was only in form of the collapse of the old mi
 By this particular story twist at least the illusion was conveyed that something has happened independently from the players actions (while actually it was triggered by nothing else than the player having a specific dialogue). In Phoenix, these kinds of events happening "behind the back" of the player have to apply to almost everything and most often not in an illusionary way that are still player dependent, but actually triggered by factors independent from the players influence, such as time.  
 
 
-**A Realtime RPG**
+## Realtime RPG
 
 Being "story-driven" in this sense of the term is also a necessary consequence of the idea of a "realtime" rpg, as which Gothic has always been promoted.  
 In a game where everything happens "in real time", but only if the player is ready for it to happen, realtime is a mere illusion; it is realtime only in a mechanical, gameplay related sense as opposed to "round-based". But the *story* is *not* realtime, because instead of the story unfolding in "real" (play) time, it unfolds by the player "unlocking" every bit of story one single bit at a time at will. 
@@ -90,7 +90,7 @@ Neither the story nor we as the story-authors, nor the other characters nor the 
 It is only by actually letting the game being story-driven, that we can bring the player to experience the urgency of action and force him to do what is believable to do for his character in a given moment in time. 
 
 
-**Story first**
+## Story first
 
 Now, when designing the story, the release version and almost every CRPG out there approaches it as such, that the developer is constantly asking: "Which action of the player will now trigger the next bit of story and the next change in the world?" The player comes first. The player is the driving force.
 
