@@ -3,7 +3,7 @@
 ```
 Authors: Flosha, logx, Avallach
 Written: 28.07.2020 - 10.09.2024
-Last update: 14.09.2024
+Last update: 24.09.2024
 ```
 {: .info }
 
