@@ -45,7 +45,7 @@ Phoenix' Sources:
             1. [Westfield](/lore/westfield)
             2. [Khorinis](/lore/khorinis)
                 * The Colony
-5. History
+5. [History](/lore/history)
     1. First Empire
     2. Second Empire
     3. Third Empire

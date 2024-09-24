@@ -64,7 +64,7 @@
       1. [Tymoria](/lore/tymoris)
          1. [Westfield](/lore/westfield)
          2. [Khorinis](/lore/khorinis)
-6. History 
+5. [History](/lore/history) 
    1. [Phoenix Allegory](/lore/phoenix-allegory)
 
 
