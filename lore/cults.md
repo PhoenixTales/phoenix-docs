@@ -1,4 +1,4 @@
-# Cults of Myrtana
+# Cults & Sects
 
 ```
 Author: Flosha
@@ -12,8 +12,9 @@ Last update: 24.09.2024
 * Cult of the three Gods
   * Origins of the Cult
 * Sect of the Sleeper
+* Demon Sect
 * Orcish Shamanism
-* Demon Cult
+* Cultic Practices
 
 
 ## Religion of Myrtana
