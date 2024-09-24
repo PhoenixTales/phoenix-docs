@@ -142,4 +142,4 @@ Old introduction to the story:
 * 6 v. Gothic: <!-- Die Orks erobern einen Großteil der westlichen Provinzen. --> The Orcs conquer a majority of the western provinces. 
 * 3 v. Gothic: Milten deserts, fleeing to Khorinis. The orcs break through the fortifications of the eastern Northern Plains into the centre of the Realm and begin to overrun the first cities.
 <!-- Milten flieht. Die Orks brechen durch die Befestigungen der östlichen Nordebenen ins Zentrum des Reiches vor und beginnen die ersten zentralen Königsstädte zu belagern. -->
-* 2 v. Gothic: <!-- [Delete later: The Kodama Chronicle is written ("ten years ago...")] --> The four friends are convicted. The Orcs push into the centre of the realm and begin to siege the big royal cities. Only the eastern provinces, with Khorinis as their outmost and most secluded bastion.
+* 2 v. Gothic: <!-- [Delete later: The Kodama Chronicle is written ("ten years ago...")] --> The four friends are convicted. The Orcs push into the centre of the realm and begin to siege the big royal cities. Only the eastern provinces withstand, with Khorinis as their outmost and most secluded bastion.
