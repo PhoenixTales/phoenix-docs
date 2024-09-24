@@ -1,10 +1,8 @@
-# Decision Trees
+# Decisions
 
 *Flosha, 19.10.2024*
 
-Structured by relation tables  
-Every relation = one decision  
-      (by roleplaying)
+*Decision Trees* structured by relation tables. Every relation equals one decision by roleplaying.  
 
 
 ```
@@ -92,7 +90,7 @@ PSIONIC: -
 
 ---
 
-## CH2 - FocusHunt
+## CH2 - Ritual Involvement
 
 Main: `Support Sect </> Circles (KDF </> KDW)`
 
@@ -112,7 +110,7 @@ Camp-bounded Decisions
 OC:  Support KDF <> EBR
 PSI: Support Angar <> Kalom
 NC:  Support Lares <> Lee
-FC:  ...
+FC:  ?
 ```
 
 Class-bounded Decisions:
@@ -130,7 +128,7 @@ Main: `FindTemple`
 OC:  Loyal to the Barons or not
 NC:  Orc Alliance or not?
 PSI: OC Alliance <> NC Alliance
-~~FC~~
+FC:  Reconquer/Rescue
 ```
 
 
@@ -140,10 +138,10 @@ Main: `AccessTemple`
 
 Truce:
 ```
-OC:
-NC:   
-PSI:
-~~FC~~
+OC:  Stopping the Revolt
+NC:  Truce with OC 
+PSI: Influencing the Revolt / Temple
+FC:  Influencing the Revolt
 ```
 
 
