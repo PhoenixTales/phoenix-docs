@@ -10,13 +10,15 @@ Last update: 14.09.2024
 
 **Content:**
 
-* [Gods of Myrtana](#gods-of-myrtana)
+* [Names of the Gods](#names-of-the-gods)
   * [Innos and Ra](#innos-and-ra)
     * [Ancient Symbols of the Gods](#ancient-symbols-of-the-gods)
-  * [Beliar, Vandras or Kasakk](#beliar-vandras-or-kasakk)
+  * [Beliar, Vandras, Gotha or Kasakk](#beliar-vandras-gotha-or-kasakk)
   * [Adanos, Adrastos or Cyvanis](#adanos-adrastos-or-cyvanis)
-* [Lore of the Gods](#lore-of-the-gods)
-  * [The Will of the Gods](#the-will-of-the-gods)
+* [Will of the Gods](#will-of-the-gods)
+
+
+
   * [The First Appropriation of Magic](#the-first-appropriation-of-magic)
   * [Cultic Wars & the Decline of Faith](#cultic-wars--the-decline-of-faith)
 * [Cults of Myrtana](#cults-of-myrtana)
@@ -34,23 +36,13 @@ Last update: 14.09.2024
 
 *Flosha, 09.09.2024 - 10.09.2024*
 
-*About the Gods* [S]:
-> *Innos der Gott des Feuers und des Gesetzes.*  
-> *Wahrer der Ordnung.*  
-> *Adanos Gott des Wassers und der Gerechtigkeit.*  
-> *Waagschale der Menschheit.*  
-> *Beliar Gott des Todes und der Dunkelheit.*  
-> *Herrscher der Nacht.*  
-> *Zusammen bilden sie die göttliche Dreifaltigkeit.*  
-> *Den Ursprung der Welt, ihren Weg und ihr Ende.*  
-
 I will at first deal with the gods based on the source material and in form of loose historical and etymological reflections. From our source material as listed in the [introduction to our lore](/lore/lore), we know the following names of gods:  
 
 * *Ra* [C] and *Innos* [G]
-* *Beliar* [G] aka *Vandras* [A] & *Kasakk* [N]
+* *Beliar* [G] aka *Vandras* [A], *Gotha* [C] & *Kasakk* [N]
 * *Adanos* [G] aka *Adrastos* [A] & *Cyvanis* [A]
 
-Mike came up with the three names. One of these initial names was *Ra*, the others remain speculation. But we know that *Innos*, *Vandras*, most likely *Beliar* and *Cyvanis* (and perhaps *Adrastos* too) were suggestions from Filler (Mattias Filler was the most important story-writer responsible for the main plot besides Stefan Nyul and Mike). He did not suggest just three names but made a whole list of potential names. 
+Mike came up with three names. One of these initial names was *Ra*, the others remain speculation. But we know that *Innos*, *Vandras*, most likely *Beliar* and *Cyvanis* (and perhaps *Adrastos* too) were suggestions from Filler (Mattias Filler was the most important story-writer responsible for the main plot besides Stefan Nyul and Mike). He did not suggest just three names but made a whole list of potential names. 
 
 > Innos, Adanos and Beliar came later from Filler. One of these three names was one of mine, but I do not remember which one. [...] I believe Innos I had called RA before.
 
@@ -75,12 +67,25 @@ It may also be that Adrastos was Mikes suggestion which has then been changed in
 > Mattias came to me and said: "The names of the gods are crap, we need to redo them..." So he did. [Mike Hoge, interview with Dmitriy, 30.12.20](https://gothicarchive.org/postrelease/interviews/MikeHoge_30_12_2020.html)
 
 
-### Etymological Reflections
-
-
-#### Innos and Ra
+### Innos and Ra
 
 *Flosha, 09.09.2024*
+
+> ... *the highest god Ra* [C]
+
+> Innos gab den Menschen die Macht ihn zu hören und zu ihm zu sprechen. Er gab ihnen die Macht große Wunder zu vollbringen. Und er nannte sie Magie. Mit dieser Macht konnten die Menschen die Welt frei nach ihrem Willen gestalten. Es gab keine Grenzen, die Innos ihnen aufzeigte. Und so hatten die Menschen Teil an der göttlichen Schöpferkraft. [G]
+
+> Die wenigen, die sich dankbar zeigten, stellte Innos über alle anderen.    
+> Diese Menschen wurden alsbald verehrt und gefürchtet und wurden Priester genannt. [G]
+
+> *Innos der Gott des Feuers und des Gesetzes.*  
+> *Wahrer der Ordnung.* [S]
+
+
+Summary: 
+* Innos is characterised as the 
+* He is connected to the Mages of the Circle of Fire. 
+
 
 **Innos**: I think that Filler may have developed it by taking the word sun in German (*Sonne*), turning it around into *Ennos* and then just replacing the E by an I, because it sounded better; with the intention to replace *Ra* due to its historical connotation, while keeping the association with the sun. But we could also interpret it as being derived from "innocence"; absence of guilt, inability or absence of intention to harm. Latin *in* ("not") + *nocens* from *noceo* (to hurt); being innocent means "not to hurt", very much like the sanskrit *Ahimsa* (which means *non-harm*, most often translated as *non-violence*). 
 
@@ -115,6 +120,9 @@ OtWaMaskSun.tga, OtWaMaskFire.tga, OtWaMaskWater.tga, OtWaMaskMoon.tga
 ### Beliar, Vandras, Gotha or Kasakk
 
 *Flosha, 09.09.2024*
+
+> *Beliar Gott des Todes und der Dunkelheit.*  
+> *Herrscher der Nacht.* [S]
 
 Beliar - also known as *Vandras* from an earlier version of the *Lore of the Gods* and as *Kasakk* in the novel - is the god of the death, god of darkness, creator of the night, responsible for punishment and the shadows. He is not meant to just be "the evil", nor was Innos meant to just be "the good". 
 
@@ -177,6 +185,10 @@ Despite being a dark god, he appears to be the only one worshipped by people in 
 
 *Flosha, 09.09.2024*
 
+> *Adanos Gott des Wassers und der Gerechtigkeit.*  
+> *Waagschale der Menschheit.* [S]
+
+
 Adanos is the god of balance, he stands for healing, work, knowledge, curiosity, courage and is represented by water. This aspect of "balance" between the two forces of Innos and Beliar, like the water that fills up evenly without distinction, always horizontal, always flowing down, was among Mikes original ideas. 
 
 Innos brought light, Beliar brought the night. Both brought life that couldn't exist without them both, according to the [lore of the gods](#lore-of-the-gods). Beliar brought death, the negation of life. And Adanos, inbetween, brought healing. 
@@ -208,23 +220,13 @@ In Hebrew, *Adha* means "ornament".
 
 ---
 
-## Lore of the Gods
 
-An ingame book in Gothic consisting of three volumes.  
-Below we will quote the entire book with a very short analysis of what it implies. 
+## Relation of the Gods
 
-A more elaborated commentary with an interpretation of the texts is given in the Phoenix Section. 
-{: .subtext }
+> *Zusammen bilden sie die göttliche Dreifaltigkeit.*  
+> *Den Ursprung der Welt, ihren Weg und ihr Ende.* [S]
 
-> Höre die Worte der Götter, denn es ist ihr Wille, dass sie gehört werden. Befolge die Lehren der Götter, denn es ist ihr Wille, dass sie befolgt werden. Achte die Priester der Götter, denn sie sind erwählt.
-
-The first volume is more moral in character, the second volume deals with the creation of the world and life and the third volume establishes the superiority of priesthood and talks of the "fall of magic". From this general layout we can deduce a primarily moral intention and focus of the scripture.  
-
-It seems that mythological and historical records are melting together in the books, alongside a ideological colouration of the author, which can be speculated to be a priest of fire based on his negative description of the circle of water, of which he writes that they *"... directed their prayers to Adanos and forgot their origin"*. 
-
-It is also important to notice, that inspite of the authors ideological bias against the Adanos cult, he clearly demands in Volume I to "follow the will of the gods" in plural and to respect the priests in general, which includes the priests of Adanos. 
-
-Due to these characteristics we can deduce that the book was written during the time of Rhobar I. or II. (which we summarise as the "New Empire"), after the reconciliation of the house of Innos and the house of Adanos under Rhobar.
+This is also expressed in form of the "Will" of the gods as ascribed to them in the scriptures.
 
 
 ### The Will of the Gods
@@ -235,11 +237,12 @@ Due to these characteristics we can deduce that the book was written during the 
 > Die Worte Adanos: Arbeite und lebe, denn der Tag ist gemacht dafür, dass der Mensch arbeite. Suche das Lernen und Wissen, auf dass Du es weitergeben kannst, denn so bist Du geschaffen worden. Wer aber müßig und faul, der soll verbannt werden auf immer und ewig in die Schatten.  
 > Die Worte Beliars: Wer aber handelt unrecht und gegen den Willen der Götter, den will ich strafen, den Körper mit Schmerz, Leid und Tod, den Geist werde ich aber zu mir nehmen auf immer und ewig in die Schatten. [G]
 
-Summarising the words of the gods, the first volume is stating that Innos and Adanos want those to be banished into the shadows who act against them. The words of Beliar are not in any kind of conflict with the words of Innos or Adanos, but are confirming them: 
+Summarising the words of the gods, the first volume of the *Lore of the Gods* (ingame series of books) is stating that Innos and Adanos want those to be banished into the shadows who act against them. The words of Beliar are not presented as being in any kind of conflict with the words of Innos or Adanos, but are confirming them: 
 
 > "But who acts unrighteous and against the will of the gods, he I shall punish."
 
 This characterises Beliar as the god of execution (of justice) and death. He is a dark god, not an evil god. And that is how Mike had conceptualised him. 
+
 
 
 ### The first Appropriation of Magic
