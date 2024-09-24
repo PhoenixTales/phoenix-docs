@@ -63,13 +63,13 @@ The belief in the gods, while it may be in decline (and the reverence especially
 
 > Rigaldo: *May Innos protect us.* [G]
 
-> Until my body goes to Beliars realm and extinguishing is the fire of life. [G]
+> *Until my body goes to Beliars realm and the fire of life extinguishes.* [G]
 
 <!-- Arbeiter: Dieses Diebespack, diese faulen Hunde, soll Beliar sie alle holen! [S]-->
 > Worker: *This pack of thieves, those lazy dogs, shall Beliar take them all!* [S]
 
 <!-- > Brief eines Arbeiters *Bei Innos, die Orks haben schreckliche Dinge mit ihnen getan.* / *Innos sei Dank, zumindest haben wir es ins Lager geschafft. Der König ist ebenfalls hier im Tal. Das gibt vielen hier Mut und Kraft.* -->
-> Letter of a worker fleeing from Khorinis: *Oh Innos, the orcs have done terrible things to them.* / *Thank Innos, at least we made it into the camp.*
+> Letter of a worker fleeing from Khorinis to the refugee camp: *Oh Innos, the orcs have done terrible things to them.* / *Thank Innos, at least we made it into the camp.*
 
 <!-- Magic is still thought to be a gift of the gods; even if it cannot be proven. A title of a book that was not written, is talking of the "Divine Gift" (Göttergabe), related to the first circle, refering to magic or the "Arcane". There is a melee weapon called "Götterhammer" (hammer of the gods). -->
 
@@ -91,13 +91,13 @@ Rhobar II. later established the Inquisition as another measure, as a representa
 
 We will deal with the sect in the faction documentation. For here it has to suffice to note, that the entrance into the sect is accompanied by a radical and conscious renunciation of the three gods, that they also call the "old gods". 
 
-> Ich habe den alten Göttern abgeschworen. [G]
+> *Ich habe den alten Göttern abgeschworen.* [G]
 
-> Novice: Pray for the last time to your gods. [A]
+> Novice: *Pray for the last time to your gods.* [A]
 
 The priests of the cult still assume that their magical (psionic) power has to have a source in some kind of god, because they do not know or cannot imagine a magic unrelated to a higher, divine (or demonic) source, as magic is seen as a gift from the gods. 
 
-> [...] The brotherhood is a threat. A threat for the proceeding of our trade agreement and thus for the King, the entire kingdom and also for your life. Therefore you should send out scouts and find out, on which gods and on which knowledge their magical power is based. If you figured this out, we will inform the priests of your findings, so that together we can bring an end to this phantom. [...] [G]
+> [...] *The brotherhood is a threat. A threat for the proceeding of our trade agreement and thus for the King, the entire kingdom and also for your life. Therefore you should send out scouts and find out, on which gods and on which knowledge their magical power is based. If you figured this out, we will inform the priests of your findings, so that together we can bring an end to this phantom.* [...] [G]
 
 
 ## Orcish Shamanism
