@@ -1,6 +1,6 @@
 # Westfield
 
-``Authors: Flosha, Ben`` 
+``Authors: Flosha, Ben``  
 ``Created: 09.06.2024``
 
 Like Tymoris it is only known from a document (Urkunde) that Lester seeks. The original says:
