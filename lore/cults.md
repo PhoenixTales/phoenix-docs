@@ -7,7 +7,7 @@ Last update: 24.09.2024
 ```
 
 **Content:**
-* Cultic Practice
+* Religion of Myrtana
 * Cultic Wars & the Decline of Faith
 * Cult of the three Gods
   * Origins of the Cult
@@ -16,7 +16,7 @@ Last update: 24.09.2024
 * Demon Cult
 
 
-## Cultic Practice
+## Religion of Myrtana
 
 Within Myrtana, "religion" (a word that should not appear anywhere ingame) is practiced in form of *Cults* in the sense of the cults of antiquity, such as the mystery cults of ancient Greece. Accordingly, in the Gothic lore there are no "churches" in Myrtana, but temples in which the people pray to the gods and bring their sacrifices. 
 
@@ -109,3 +109,8 @@ The priests of the cult still assume that their magical (psionic) power has to h
 ## Demon Cult
 
 ``TODO``
+
+
+## Cultic Practices
+
+``TODO: Describe how the cults are practiced and how they find concrete expression in the everyday life of the peopls based on the findings in /gods``
