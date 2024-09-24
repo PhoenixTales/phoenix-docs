@@ -100,7 +100,7 @@ The priests of the cult still assume that their magical (psionic) power has to h
 > [...] *The brotherhood is a threat. A threat for the proceeding of our trade agreement and thus for the King, the entire kingdom and also for your life. Therefore you should send out scouts and find out, on which gods and on which knowledge their magical power is based. If you figured this out, we will inform the priests of your findings, so that together we can bring an end to this phantom.* [...] [G]
 
 
-## Demon Cult
+## Demon Sect
 
 ``TODO``
 
