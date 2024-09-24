@@ -18,7 +18,7 @@ Classes, Attributes, Skills, modes of interaction, experience, attitudes, interf
 
 **Content:**
 
-1. [Driven by Story](/mechanics/driven-by-story)
+1. [Storydriven](/mechanics/driven-by-story)
 2. Classes
 3. Attributes
     1. [Alpha Attributes](/mechanics/attributes-alpha)
