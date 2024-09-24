@@ -28,7 +28,7 @@ Phoenix' Sources:
     2. [Spheres](/lore/spheres)
     3. Fallen Civilisation
 2. Culture
-    1. Cults of the Realm
+    1. Cults
     2. [The Arcane](/lore/arcane)
     3. Language
 	1. Mora Language
