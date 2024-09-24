@@ -1,4 +1,4 @@
-# Cults of Myrtana
+# Cultic Scriptures
 
 
 ## Lore of the Gods
@@ -20,14 +20,12 @@ It is also important to notice, that inspite of the authors ideological bias aga
 Due to these characteristics we can deduce that the book was written during the time of Rhobar I. or II. (which we summarise as the "New Empire"), after the reconciliation of the house of Innos and the house of Adanos under Rhobar.
 
 
-### The Will of the Gods
+## About the Gods
 
-*Flosha, 13.06.2024*
+Add Sequel Book.
 
-> Die Worte Innos: Und möget ihr nicht verstehen, so zweifelt nicht an den Worten der Priester, ihr Tun ist gerecht und weise. Denn ich bin die aufgehende Sonne, das Licht und das Leben. Und alles was da wider der Sonne, ist wider mir und soll verbannt sein auf immer und ewig in die Schatten.  
-> Die Worte Adanos: Arbeite und lebe, denn der Tag ist gemacht dafür, dass der Mensch arbeite. Suche das Lernen und Wissen, auf dass Du es weitergeben kannst, denn so bist Du geschaffen worden. Wer aber müßig und faul, der soll verbannt werden auf immer und ewig in die Schatten.  
-> Die Worte Beliars: Wer aber handelt unrecht und gegen den Willen der Götter, den will ich strafen, den Körper mit Schmerz, Leid und Tod, den Geist werde ich aber zu mir nehmen auf immer und ewig in die Schatten. [G]
 
-Summarising the words of the gods, the first volume is stating that Innos and Adanos want those to be banished into the shadows who act against them. The words of Beliar are not in any kind of conflict with the words of Innos or Adanos, but are confirming them: 
 
-...
+## Magic Circle Books
+
+Add Book.
