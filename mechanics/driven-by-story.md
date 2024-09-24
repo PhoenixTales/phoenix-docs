@@ -61,7 +61,9 @@ In a storydriven game, the player may influence events, react to events, initiat
 ## The Immersive Sim RPG
 
 It is also in regard to the Immersive Sim that orienting ourselves at the early Vision of Gothic requires such bold decisions in design. The Immersive Sims it was inspired by were not story-driven either in the sense described above.  
-They were mostly driven by exploration, we may say, such as System Shock 2 or Thief, and this is an absolutely crucial aspect for Gothic too. But they were not much of "RPGs". Yes, most of them had skills, attributes and stuff, they had an inventory and so on. But all of these are just superficial aspects of roleplaying, mechanical aspects, comparable to the underlying rules of a table top RPG.  
+They were mostly driven by exploration, we may say, such as System Shock 2 or Thief, and this is an absolutely crucial aspect for Gothic too. But they were not much of "RPGs". 
+
+Yes, most of them had skills, attributes and stuff, they had an inventory and so on. But all of these are just superficial aspects of roleplaying, mechanical aspects, comparable to the underlying rules of a table top RPG.  
 
 They are not the essence of the RPG; the essence is the story told by the narrator and the role played within this frame and in reaction to or in dialogue with the events of the narration.  
 In table top rpgs it is this what is underlying and driving the experience. It is the narrator that is *leading* the game, not the players. In CRPGs there is of course an underlying story too, but so far they have put the players agency over consequent narration. 
