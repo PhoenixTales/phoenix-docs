@@ -1,5 +1,8 @@
 # Cults of Myrtana
 
+Author: Flosha
+
+
 Within Myrtana, "religion" (a word that should not appear anywhere ingame) is practiced in form of *Cults* in the sense of the cults of antiquity, such as the mystery cults of ancient Greece. Accordingly, in the Gothic lore there are no "churches" in Myrtana, but temples. 
 
 We may mention though that "cathedrals" are mentioned in the context of Gothic. A cathedral was among the very first things that were designed when the Mad Scientists and the founders of the later Piranha Bytes joined to work on what would later become Gothic and there is an associating music track too. But we should not confuse this internal (or even in-universe) term as to connote something very christian; the "cathedral" is primarily used because it is such an important gothic trope; it is of threatening, awe-inspiring and iconic character and when thinking of gothic fiction, a dark, gothic cathedral is among the first things that come to mind. So it was obvious to imagine and work on a cathedral. 
@@ -59,7 +62,14 @@ The belief in the gods, while it may be in decline (and the reverence especially
 <!-- Magic is still thought to be a gift of the gods; even if it cannot be proven. A title of a book that was not written, is talking of the "Divine Gift" (Göttergabe), related to the first circle, refering to magic or the "Arcane". There is a melee weapon called "Götterhammer" (hammer of the gods). -->
 
 
-### Sect of the Sleeper
+### Origins of the Cult
+
+In Phoenix we explain the origins of the Cult based on the Comic in association with the founding of the empire.  
+Rhobar I. attempted to reconcile the disputes of the priests and end the cultic wars by the proclamation of the faith in the three gods. There are other cults in the kingdom. But since Rhobar I. the *Cult of the Three Gods* is "states religion".
+
+
+
+## Sect of the Sleeper
 
 We will deal with the sect in the faction documentation. For here it has to suffice to note, that the entrance into the sect is accompanied by a radical and conscious renunciation of the three gods, that they also call the "old gods". 
 
@@ -71,3 +81,7 @@ The priests of the cult still assume that their magical (psionic) power has to h
 
 > [...] The brotherhood is a threat. A threat for the proceeding of our trade agreement and thus for the King, the entire kingdom and also for your life. Therefore you should send out scouts and find out, on which gods and on which knowledge their magical power is based. If you figured this out, we will inform the priests of your findings, so that together we can bring an end to this phantom. [...] [G]
 
+
+## Orcish Shamanism
+
+``TODO: Write on shamanism and Vodoo here.``
