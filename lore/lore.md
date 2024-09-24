@@ -40,7 +40,7 @@ Phoenix' Sources:
     1. Alchemical Magic
     2. Psionic Magic
 4. [Geography](/lore/geography)
-    1. Myrtana
+    1. [Myrtana](/lore/myrtana)
         1. [Tymoria](/lore/tymoris)
             1. [Westfield](/lore/westfield)
             2. [Khorinis](/lore/khorinis)
