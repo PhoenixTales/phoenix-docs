@@ -55,7 +55,7 @@ A story-driven game is like a game in which the *story* is the underlying engine
 *Pathologic* and *This War of Mine* may be examples for games with a similar approach to story-telling. 
 {: .subtext }
 
-So the game is driven forward by the story; the player influences the events, reacts to the events, initiates some events, but he cannot stop the drama. It is unfolding in front of the eyes of the player and he is a part of it, thrown into it, but he is *not* in control. He is in control of his character only, of the little role that *he* plays. 
+In a storydriven game, the player may influence events, react to events, initiate some events, but he cannot stop the drama. It is unfolding in front of the eyes of the player and he is a part of it, thrown into it, but he is *not* in control. He is in control of his character only, just of the little role that *he* plays. 
 
 
 ## The Immersive Sim RPG
