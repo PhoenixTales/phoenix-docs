@@ -1,4 +1,4 @@
-# Gods
+# Gods & Demons
 
 ```
 Authors: Flosha, logx, Avallach
@@ -10,22 +10,23 @@ Last update: 24.09.2024
 
 **Content:**
 
-* [Names of the Gods](#names-of-the-gods)
+* [Gods of Myrtana](#gods-of-myrtana)
   * [Innos and Ra](#innos-and-ra)
     * [Identification of Innos with Ra](#identification-of-innos-with-ra)
     * [Ancient Symbols of the Gods](#ancient-symbols-of-the-gods)
   * [Beliar, Vandras, Gotha or Kasakk](#beliar-vandras-gotha-or-kasakk)
   * [Adanos, Adrastos or Cyvanis](#adanos-adrastos-or-cyvanis)
-* [Relation of the Gods](#relation-of-the-gods)
-  * [Will of the Gods](#will-of-the-gods)
-  * [Divine Justice](#divine-justice)
-  * [Time & Change](#time--change)
-  * [Beyond Good & Evil](#beyond-good--evil)
-* [Gods in Relation to Men](#gods-in-relation-to-men)   
+  * [Relation of the Gods](#relation-of-the-gods)
+    * [Will of the Gods](#will-of-the-gods)
+    * [Divine Justice](#divine-justice)
+    * [Time & Change](#time--change)
+    * [Beyond Good & Evil](#beyond-good--evil)
+  * [Gods in Relation to Men](#gods-in-relation-to-men)   
+* Demons
+  * Demons in Relation to Men
 
 
-
-## Names of the Gods
+## Gods of Myrtana
 
 *Flosha, 09.09.2024 - 10.09.2024*
 
@@ -240,7 +241,7 @@ In Hebrew, *Adha* means "ornament".
 ---
 
 
-## Relation of the Gods
+### Relation of the Gods
 
 > *Zusammen bilden sie die göttliche Dreifaltigkeit.*  
 > *Den Ursprung der Welt, ihren Weg und ihr Ende.* [S]
@@ -250,7 +251,7 @@ Innos brought light, Beliar brought the night. Both brought life that couldn't e
 This is also expressed in form of the "Will" of the gods as ascribed to them in the scriptures.
 
 
-### The Will of the Gods
+#### The Will of the Gods
 
 *Flosha, 13.06.2024*
 
@@ -271,7 +272,7 @@ At the same time, Adanos accepts the will of Beliar that what has a beginning ha
 Thereby standing inbetween, he mediated between life and death, rise and fall, blossom and withering, glory and ruin.  
 
 
-### Divine Justice
+#### Divine Justice
 
 All of the three gods are associated in the sources with justice, but in different ways.
 Innos is associated specifically with the *law*. Beliar is associated with punishment (of those who act against the will of the gods), he is therefore associated with the *execution* of the law. And Adanos is associated with *justice* in the Sequel, but in a sense of balance, of equality (in case of unjust inequality). 
@@ -283,7 +284,7 @@ In the context of Innos as a god of war, see the sword of Gomez, called *Innos Z
 In the Sequel, Innos is specifically linked to the *law* and the *maintenance of order*, while Adanos is linked to *justice*, and called "Waagschale der Menschheit" (scale of mankind), not in the sense of weighing them, but in the sense of keeping mankind in balance between the two forces of light and darkness, order and chaos. 
 
 
-### Time & Change
+#### Time & Change
 
 As Innos and Beliar are seen to be responsible for day and night, the day and night cycle may be seen as a constant flow between the dominance of these two aspects. Allegorically the sun may be seen as being born at dawn and wins over the darkness and that the darkness is just there to reveal the light, for it to "stand out" (which is the literal meaning of existence). The night may be seen as a veil thrown over the world at dusk to bring silence.  
 Dawn is like the rise of Innos, Dusk like his conscious retraction. Innos and the day are associated with activity and work, while the night for most people is associated with inactivity and rest - but just as important. But since Adanos is associated with work we could as well see Innos/Ra as a static absolute, that plants the light, the seed of life, in the womb of the night, while Adanos is the dyanmics that evolves from their union. 
@@ -297,7 +298,7 @@ TODO: Add metaphors regarding other cycles (year, seasons etc.)
 ```
 
 
-### Beyond Good & Evil
+#### Beyond Good & Evil
 
 In the manual and also at some places in the design documentation, the writers used to fall back into a simplified good/evil dichotomy. But to do the early ideas justice (and just in order to tell a better story, a more meaningful drama), it is very important to us neither to see Innos and Beliar as representing good and evil, nor to confuse the role of Adanos accordingly, as a balance between good and evil. All of the gods have both positive and negative aspects to them. 
 
@@ -321,7 +322,7 @@ The simple good/evil structure of the gods that the official successors develope
 Therefore, no matter what even some of the notes in design documents or official publications of the publisher say, it doesn't matter. A clear good/evil dichotomy must be avoided at all costs. 
 
 
-#### Gods in Relation to Men
+### Gods in Relation to Men
 
 *Flosha, Hagen & Delvin*  
 *11.09.2024 - 15.09.2024*
@@ -373,6 +374,15 @@ TODO: Add additional reasoning for the assignments
 Trade: Trading has lots to do with communication; Innos gave men the ability to speek, so we have assigned it primarily to Innos. 
 
 -->
+
+## Demons
+
+``TODO: Sleeper, Archdemons, Demon names, Demon masks etc.``
+
+
+### Demons in Relation to Men
+
+``TODO``
 
 
 <style>
