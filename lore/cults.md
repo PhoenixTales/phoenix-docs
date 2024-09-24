@@ -5,14 +5,14 @@
 ``Last update: 24.09.2024``  
 
 **Content:**
-* Religion of Myrtana
-* Cultic Wars & the Decline of Faith
-* Cult of the three Gods
-  * Origins of the Cult
-* Sect of the Sleeper
-* Demon Sect
-* Orcish Shamanism
-* Cultic Practices
+* [Religion of Myrtana](#religion-of-myrtana)
+* [Cultic Wars & the Decline of Faith](#cultic-wars--the-decline-of-faith)
+* [Cult of the three Gods](#cult-of-the-three-gods)
+  * [Origins of the Cult](#origins-of-the-cult)
+* [Sect of the Sleeper](#sect-of-the-sleeper)
+* [Demon Sect](#demon-sect)
+* [Orcish Shamanism](#orcish-shamanism)
+* [Cultic Practices](#cultic-practices)
 
 
 ## Religion of Myrtana
@@ -100,14 +100,14 @@ The priests of the cult still assume that their magical (psionic) power has to h
 > [...] *The brotherhood is a threat. A threat for the proceeding of our trade agreement and thus for the King, the entire kingdom and also for your life. Therefore you should send out scouts and find out, on which gods and on which knowledge their magical power is based. If you figured this out, we will inform the priests of your findings, so that together we can bring an end to this phantom.* [...] [G]
 
 
-## Orcish Shamanism
-
-``TODO: Write on shamanism and Vodoo here.``
-
-
 ## Demon Cult
 
 ``TODO``
+
+
+## Orcish Shamanism
+
+``TODO: Write on shamanism and Vodoo here.``
 
 
 ## Cultic Practices
