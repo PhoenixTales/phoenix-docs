@@ -1,7 +1,10 @@
 # Cults of Myrtana
 
+```
 Author: Flosha
-
+25.03.2024 - 13.06.2024
+Last update: 24.09.2024
+```
 
 Within Myrtana, "religion" (a word that should not appear anywhere ingame) is practiced in form of *Cults* in the sense of the cults of antiquity, such as the mystery cults of ancient Greece. Accordingly, in the Gothic lore there are no "churches" in Myrtana, but temples. 
 
@@ -11,6 +14,15 @@ We may mention though that "cathedrals" are mentioned in the context of Gothic. 
 There is a cult of Innos, a cult of Adanos and a cult of Beliar. There may be other cults too, but these are the prevailing ones. Myrtana under the rule of Rhobar II. propagates the *Cult of the Three Gods*. The myrtanian people believe in the three gods and in their role in the grand scheme of life, at some places the worship of Innos may prevail, while at other places, more followers of Adanos are to be found. But no devotee of one of the gods would negate the existence of another. 
 
 There are also other local deities and believes in different corners of the realm, such as the shamanism of the orcs and specific movements considered as heretical by the priests, such as the *Brotherhood of the Sleeper*. 
+
+
+**Content:**
+* Cultic Wars & the Decline of Faith
+* Cult of the three Gods
+  * Origins of the Cult
+* Sect of the Sleeper
+* Orcish Shamanism
+* Demon Cult
 
 
 ## Cultic Wars & the Decline of Faith
@@ -53,7 +65,7 @@ The belief in the gods, while it may be in decline (and the reverence especially
 
 > Until my body goes to Beliars realm and extinguishing is the fire of life. [G]
 
-<!--> Arbeiter: Dieses Diebespack, diese faulen Hunde, soll Beliar sie alle holen! [S]-->
+<!-- Arbeiter: Dieses Diebespack, diese faulen Hunde, soll Beliar sie alle holen! [S]-->
 > Worker: *This pack of thieves, those lazy dogs, shall Beliar take them all!* [S]
 
 <!-- > Brief eines Arbeiters *Bei Innos, die Orks haben schreckliche Dinge mit ihnen getan.* / *Innos sei Dank, zumindest haben wir es ins Lager geschafft. Der König ist ebenfalls hier im Tal. Das gibt vielen hier Mut und Kraft.* -->
@@ -85,3 +97,8 @@ The priests of the cult still assume that their magical (psionic) power has to h
 ## Orcish Shamanism
 
 ``TODO: Write on shamanism and Vodoo here.``
+
+
+## Demon Cult
+
+``TODO``
