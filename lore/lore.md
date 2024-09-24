@@ -25,16 +25,18 @@ Phoenix' Sources:
 
 1. Mythology
     1. [Gods](/lore/gods)
-    2. [Spheres](/lore/spheres)
-    3. Fallen Civilisation
+    2. Demons
+    3. [Cosmology](/lore/spheres)
+    4. Fallen Civilisation
 2. Culture
     1. Cults
-    2. [The Arcane](/lore/arcane)
-    3. Language
+    2. On Magic
+    3. [The Arcane](/lore/arcane)
+    4. Language
 	1. Mora Language
 	2. Orcish Language
-    4. Racism
-    5. Slavery
+    5. Racism
+    6. Slavery
 3. MetaPhysics
     1. Alchemical Magic
     2. Psionic Magic
