@@ -104,7 +104,7 @@
 			7. Clans (BLO)
 		2. Nemesis
 			1. Folk (WRK/BEG/BAU)
-			2. Magnates (VAG)
+			2. Magnates (VRT)
 			3. Clergy (KDF/KDW/KDL)
 			4. Outlaws ([DHT](/story/factions/guilds/demonhunters)/BDT)
 			5. Royals (PAL/GRD/SLD)
