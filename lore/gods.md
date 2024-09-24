@@ -12,24 +12,17 @@ Last update: 14.09.2024
 
 * [Names of the Gods](#names-of-the-gods)
   * [Innos and Ra](#innos-and-ra)
+    * [Identification of Innos with Ra](#identification-of-innos-with-ra)
     * [Ancient Symbols of the Gods](#ancient-symbols-of-the-gods)
   * [Beliar, Vandras, Gotha or Kasakk](#beliar-vandras-gotha-or-kasakk)
   * [Adanos, Adrastos or Cyvanis](#adanos-adrastos-or-cyvanis)
-* [Will of the Gods](#will-of-the-gods)
+* [Relation of the Gods](#relation-of-the-gods)
+  * [Will of the Gods](#will-of-the-gods)
+  * [Divine Justice](#divine-justice)
+  * [Time & Change](#time--change)
+  * [Beyond Good & Evil](#beyond-good--evil)
+* [Gods in Relation to Men](#gods-in-relation-to-men)   
 
-
-
-  * [The First Appropriation of Magic](#the-first-appropriation-of-magic)
-  * [Cultic Wars & the Decline of Faith](#cultic-wars--the-decline-of-faith)
-* [Cults of Myrtana](#cults-of-myrtana)
-  * [Cult of the Three Gods](#cult-of-the-three-gods)
-  * [Sect of the Sleeper](#sect-of-the-sleeper)
-* [Phoenix Solutions](#phoenix-solutions)  
-  * [Gods in Phoenix](#gods-in-phoenix)  
-    * [Beyond Good & Evil](#beyond-good--evil)
-    * [The Divine Law](#the-divine-law)
-    * [Gods in Relation to Men](#gods-in-relation-to-men)
-    * [Identification of Innos with Ra](#identification-of-innos-with-ra)
 
 
 ## Names of the Gods
@@ -82,14 +75,9 @@ It may also be that Adrastos was Mikes suggestion which has then been changed in
 > *Wahrer der Ordnung.* [S]
 
 
-Summary: 
-* Innos is characterised as the 
-* He is connected to the Mages of the Circle of Fire. 
-
+### Etymological Reflections
 
 **Innos**: I think that Filler may have developed it by taking the word sun in German (*Sonne*), turning it around into *Ennos* and then just replacing the E by an I, because it sounded better; with the intention to replace *Ra* due to its historical connotation, while keeping the association with the sun. But we could also interpret it as being derived from "innocence"; absence of guilt, inability or absence of intention to harm. Latin *in* ("not") + *nocens* from *noceo* (to hurt); being innocent means "not to hurt", very much like the sanskrit *Ahimsa* (which means *non-harm*, most often translated as *non-violence*). 
-
-Innos was not meant to be just "good", just as Beliar was not simply meant to be "evil"; Innos is order, Beliar is chaos, but they both are needed, they are all "part of the equation" (Mike). 
 
 > *I am the rising sun, the light, and the life*
 
@@ -117,6 +105,33 @@ OtWaMaskSun.tga, OtWaMaskFire.tga, OtWaMaskWater.tga, OtWaMaskMoon.tga
 </div>
 
 
+#### Identification of Innos with Ra
+
+*flosha, based on ideas by Avallach*
+
+In Phoenix we combine and harmonise these two possible, but conflicting explanations of Ra and Innos (Ra as the former name of Innos, being identical with him, as well as Ra as a divine Absolute that the other three gods originated from), by explaining it through a historical, religious development within Myrtana. 
+
+We imagine *Innos* as a nordic god, which was primarily worshipped in the northern lands. He originated as a god of war, of law and fire. While *Ra* is a god originating from the ancient civilisation of Varant, the creator, with an emphasis on light, the sun and illumination. 
+
+In order to propagate the cult of fire (whose priests originated from the (not yet divided) priests of the ancient civilisation but split into different cults from there), the priests of fire have started to identify *Innos* with *Ra* in their preachings since a few centuries. But it was under the reign of Rhobar I. that this identification was brought to an end and that the two gods finally merged in the public perception. Rhobars establishment as a quasi divine ruler and the declaration of his realm as a successor of the first empire, proven by bearing the holy insignia (the Sceptre of Varant), was the final seal of this fusion. 
+
+In course of this, the traditional aspects of *Innos*, of fire, law and war, have become the prevailing attributes in the general understanding of the god, while the aspects of *Ra* have experienced a decline. Among scholars who learned the older language, the old name *Ra* is still in use (as in the example of the royal judge in the Comic), but most often used interchangeably with *Innos*. A simple solution by which we do not have to explain the speech of the judge in the Comic as any mistake. 
+
+But while the Cult of Myrtana identifies *Innos* with *Ra*, some heretical movements refuse this identification; similar to the gnostics they see *Innos*, as worshipped in the cult of the three gods, as a malevolent lesser god and demiurg in difference to the divine Absolute.
+
+This way, by not refusing or simply ignoring Ra as mentioned in the Comic, but appreciating both names, we have developed the lore much further.  
+
+
+#### Summary
+
+* Innos is characterised as the God of Light, Life, Fire, the Sun, Law and the Maintenance of Order.
+* He created the Universe or the Universe originated from what he is thought to be.
+* He is thought to have given Mankind the Divine Gift and is said to have taken it away again from all others than the Priests (a notion from a book that was written by a priest of fire and is to be seen in the context of the ideology of the cult). 
+* He is connected to the Mages of the Circle of Fire.
+* The metaphor of *Children of Fire* is used, which implies a potential metaphor of Innos as a Father. 
+* He is identified with Ra and described as the highest God by the royal judge.
+
+
 ### Beliar, Vandras, Gotha or Kasakk
 
 *Flosha, 09.09.2024*
@@ -127,6 +142,9 @@ OtWaMaskSun.tga, OtWaMaskFire.tga, OtWaMaskWater.tga, OtWaMaskMoon.tga
 Beliar - also known as *Vandras* from an earlier version of the *Lore of the Gods* and as *Kasakk* in the novel - is the god of the death, god of darkness, creator of the night, responsible for punishment and the shadows. He is not meant to just be "the evil", nor was Innos meant to just be "the good". 
 
 > Mike: This was also one of those internal conflicts. [...] "He will go to Beliars realm" does not mean to go to hell, but just to go into the realm of the dead, was my original idea. That is what I wanted to have. [Mike, 30.01.2021](https://gothicarchive.org/postrelease/interviews/MikeHoge_30_01_2021_Part3.html#Mythology)
+
+
+#### Etymological Reflecfions
  
 **Beliar**: *Belial* or *Beliar* are Hebrew and speculated to stem from two roots, which mean as much as "without" and "to be useful" or "of value", resulting in a literal meaning of "worthlessness", "uselessness" or "ruin". It has also been interpreted as "never to rise", like a downward movement or "wicked". In the scriptures, Beliar is used as a general phrase of despise. A "son of Beliar" is just a characterisation as "a worthless, wicked, useless" man. 
 
@@ -188,13 +206,14 @@ Despite being a dark god, he appears to be the only one worshipped by people in 
 > *Adanos Gott des Wassers und der Gerechtigkeit.*  
 > *Waagschale der Menschheit.* [S]
 
+> *Adanos saw, that the humans were dying and that it was the will of Beliar. And he said: I will not stand against the will of Beliar, but I will give humankind the power of healing.* [G]
 
 Adanos is the god of balance, he stands for healing, work, knowledge, curiosity, courage and is represented by water. This aspect of "balance" between the two forces of Innos and Beliar, like the water that fills up evenly without distinction, always horizontal, always flowing down, was among Mikes original ideas. 
 
-Innos brought light, Beliar brought the night. Both brought life that couldn't exist without them both, according to the [lore of the gods](#lore-of-the-gods). Beliar brought death, the negation of life. And Adanos, inbetween, brought healing. 
+Adanos was associated in the scriptures with diversity (which we may interpret as different tribes, cultures, nations), with knowledge (which we may interpret as the development of self-consciousness and intellect), with curiosity (which we may interpret as the driving force of exploration) and with courage (which we interpret as to conquer and rule the world (nature) "given" to them). At the same time he was associated in the Sequel with justice. 
 
-> *Adanos saw, that the humans were dying and that it was the will of Beliar. And he said: I will not stand against the will of Beliar, but I will give humankind the power of healing.* [G]
 
+#### Etymological Reflections
 
 **Adanos**: Sanskrit *Ada* has several different pronounciations, all coming with a different meaning: 
 
@@ -226,6 +245,8 @@ In Hebrew, *Adha* means "ornament".
 > *Zusammen bilden sie die göttliche Dreifaltigkeit.*  
 > *Den Ursprung der Welt, ihren Weg und ihr Ende.* [S]
 
+Innos brought light, Beliar brought the night. Both brought life that couldn't exist without them both, according to the *lore of the gods*. Beliar brought death, the negation of life. And Adanos, inbetween, brought healing. 
+
 This is also expressed in form of the "Will" of the gods as ascribed to them in the scriptures.
 
 
@@ -243,43 +264,57 @@ Summarising the words of the gods, the first volume of the *Lore of the Gods* (i
 
 This characterises Beliar as the god of execution (of justice) and death. He is a dark god, not an evil god. And that is how Mike had conceptualised him. 
 
+At the same time, Adanos accepts the will of Beliar that what has a beginning has to end, that what is born must die.
 
-### Justice
+> *Adanos saw, that the humans were dying and that it was the will of Beliar. And he said: I will not stand against the will of Beliar, but I will give humankind the power of healing.* [G]
+
+Thereby standing inbetween, he mediated between life and death, rise and fall, blossom and withering, glory and ruin.  
+
+
+### Divine Justice
 
 All of the three gods are associated in the sources with justice, but in different ways.
 Innos is associated specifically with the *law*. Beliar is associated with punishment (of those who act against the will of the gods), he is therefore associated with the *execution* of the law. And Adanos is associated with *justice* in the Sequel, but in a sense of balance, of equality (in case of unjust inequality). 
 
+In the context of justice, the fire is seen as "cleansing" and being "just" in that it burns everyone the same - unless he is *innocent* (in this context, think of the [*Feuerprobe*](https://de.wikipedia.org/wiki/Feuerprobe)).
+
+In the context of Innos as a god of war, see the sword of Gomez, called *Innos Zorn* ("Wrath" or "Rage" of Innos). In religious contexts there is the concept of "gerechter Zorn" (*just wrath*), that is often attributed to saints or god himself. It may be *Innos* who is thought to be *angry*, who wants rage; while Beliar is the one who is executing it in form of punishment in accordance with [Innos' will](#the-will-of-the-gods).
+
+In the Sequel, Innos is specifically linked to the *law* and the *maintenance of order*, while Adanos is linked to *justice*, and called "Waagschale der Menschheit" (scale of mankind), not in the sense of weighing them, but in the sense of keeping mankind in balance between the two forces of light and darkness, order and chaos. 
 
 
+### Time & Change
 
-## Phoenix Solutions
+As Innos and Beliar are seen to be responsible for day and night, the day and night cycle may be seen as a constant flow between the dominance of these two aspects. Allegorically the sun may be seen as being born at dawn and wins over the darkness and that the darkness is just there to reveal the light, for it to "stand out" (which is the literal meaning of existence). The night may be seen as a veil thrown over the world at dusk to bring silence.  
+Dawn is like the rise of Innos, Dusk like his conscious retraction. Innos and the day are associated with activity and work, while the night for most people is associated with inactivity and rest - but just as important. But since Adanos is associated with work we could as well see Innos/Ra as a static absolute, that plants the light, the seed of life, in the womb of the night, while Adanos is the dyanmics that evolves from their union. 
 
-TODO:
-* Take out most interpretation above to put here.
-* Take out all the phoenix related historical context (first empire etc.)
-* Add all the additional ideas from our discord exchanges.
-* Maybe put the interpretation of the scriptures here; but instead add a summary of all the stuff that can clearly be taken without interpretation from all the sources, although the current interpretation of the lore of the gods imo is quite obvious
-{: .subtext }
+Adanos could be imagined as playing a role in the transition between day and night; as if he helps at dusk and dawn (imagine the image of the sun rising at the horizon from the water at dawn or sinking down into the earth at dusk), Adanos playing a mediator role or being responsible for this exchange to bring balance. 
 
-
-### Gods in Phoenix
-
-```
-TODO: Innos and Beliar - any summaries/additions/explanations beyond what is written in the Alpha analyses?
-```
-
-Adanos was associated in the scriptures with diversity (which we interpret as different tribes, cultures, nations), with knowledge (which we interpret as the development of self-consciousness and intellect), with curiosity (which we interpret as the driving force of exploration) and with courage (which we interpret as to conquer and rule the world (nature) "given" to them). At the same time he was associated in the Sequel with justice. 
+In this way, Adanos may also be associated with time and *change* in general. For the magic in our universe and our understanding of the *Elementary Arcanum*, this may play an important role, as water may have to be involved in any kind of change including movement and transmission.
 
 
-#### Beyond Good & Evil
+### Beyond Good & Evil
 
-In the manual and also at some places in the design documentation, the writers used to fall back into a simplified good/evil dichotomy. But to do the early ideas justice (or just in order to tell a better story, a more meaningful drama), it is very important to us neither to see Innos and Beliar as representing good and evil, nor to confuse the role of Adanos accordingly, as a balance between good and evil.
+In the manual and also at some places in the design documentation, the writers used to fall back into a simplified good/evil dichotomy. But to do the early ideas justice (and just in order to tell a better story, a more meaningful drama), it is very important to us neither to see Innos and Beliar as representing good and evil, nor to confuse the role of Adanos accordingly, as a balance between good and evil. All of the gods have both positive and negative aspects to them. 
 
-Adanos should be about a more complex form of balance as in the philosophy of yin & yang, that are both necessary; a clear good/evil dichotomy should be avoided at all costs. Innos and Beliar are indeed about a duality, a duality like light and dark, of activity & passivity, of giving and receiving; but they are both *needed* and form a "unity of opposites". 
+The "fire" of Innos comes both with the positive aspects of warmth and its essential role in the cultural evolution, as well as with the negative aspects of destruction. The "sun" of Ra can give rise to life or may bring drought and burn the soil.  
+Beliar may bring death, but he also brings rest, silence and calmness. 
+
+And while the healing of Adanos may seem as a movement that brings something that is nearing death closer to life again, a vivifying force, there are "negative" aspects to it as well: A man may be healed and thereby be spared of dying (for now). Another man may have to die in order for others to heal. An organism may have to be destroyed to rescue the whole. Both within the individual human body as well as within society, healing is not a purely "positive" force, it is a struggle between forces; those organisms who destroy the body are fought against and eliminated. In the same way, priests of Adanos are not only focusing on healing, or rather: They too may fight and destroy, if they think that destruction is needed for healing. In this way, Adanos is helping Beliar, as he willingly gives "into Beliars hands", carries into the Shadows, what opposes Innos light.
+
+Innos was not meant to be just "good", just as Beliar was not simply meant to be "evil" and Adanos is not the balance between good and evil; Innos is order, Beliar is chaos, but they both are needed, they are all "part of the equation" (Mike). 
+
+Adanos should be about a more complex form of balance as in the philosophy of yin & yang, that are both necessary. Innos and Beliar are indeed about a duality, a duality like light and dark, of activity & passivity, of giving and receiving; but they are both *needed* and form a "unity of opposites". 
 
 Just as the ancient indian cults of the gods as all these aspects of Brahman, the Absolute, is hard to grasp for the western mind and widely misunderstood as a "polytheism", yin & yang, while about a duality, are not about a contrast of mutually exclusive forces, they are one, the two sides of a coin or a wheel (think of the wheel of the dharma). And it is Adanos who lets the wheel roll, taking care that it doesn't fall unto one of the sides. 
 
-If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design docs, that Mike had wanted to avoid to present as such in the game; and in any way has to be avoided by us, due to how Gothic was defined by themselves and as elaborated by us extensively in [*Gothic defined*](/vision/gothic-defined). 
+If the documentation says otherwise, then we see this as a regression for simplicity's sake in the context of the internal design docs, that Mike had wanted to avoid to present as such in the game; and in any way has to be avoided by us, due to how [Gothic was defined](/vision/gothic-defined). 
+
+> Common Fantasy is very simple […] divided into black & white, good & evil. Fantasy is neat, clean and colourful. GOTHIC is different. […]
+
+The simple good/evil structure of the gods that the official successors developed Gothic into, is exactly what Gothic and Gothic Fantasy is *not* meant to have, it is what Gothic was meant to be *opposed* to, it is one of the reasons that Gothic Fantasy was invented, as a fantasy approach *against* a clear good/evil dichotomy. 
+
+Therefore, no matter what even some of the notes in design documents or official publications of the publisher say, it doesn't matter. A clear good/evil dichotomy must be avoided at all costs. 
 
 
 #### Gods in Relation to Men
@@ -287,7 +322,7 @@ If the documentation says otherwise, then we see this as a regression for simpli
 *Flosha, Hagen & Delvin*  
 *11.09.2024 - 15.09.2024*
 
-In order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we should try to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Or in other words: How gods and men relate. 
+In order to design the gods in Phoenix in a coherent way and get a better picture of their role in the kingdom and their *meaning* for the people in Myrtana, we tried to imagine in which cases, for which themes, problems and so on, they turn and pray to which god. Or in other words: How gods and men relate. 
 
 Because by believing in different gods they clearly imagine the gods to have different responsibilities and may be seen as patrons of different professions and estates. So we asked the question: For what purposes and in which situations will people pray to or worship the gods, including Beliar?
 
@@ -312,13 +347,6 @@ And due to his association with curiosity and diversity, he is also associated w
 
 Beliar is associated with the night, the shadows, the moon, with dreams, the imaginative, and with death and demons. So he is revered by all who deal with death (hangmen, gravediggers), with those who operate at night and those who hide. Thieves and the haunted, those who try to escape or those involved in shady business. He is prayed to by those who seek revenge; those who are cursed or want to curse; those who are afraid or want others to fear them; those who are in sorrow or completely abandoned or banned. He is also associated with harvest due to its traditional associations. As Innos is associated with the spoken, Adanos with the written word, so is Beliar with the unspoken, unwritten, with all hidden thoughts, feelings and ideas, and with silence. He is associated with occultism (in the sense of dark, hidden practices) as well as with anarchy and chaos. And - very importantly - he is associated with mining, as the miners work in the dark, seeking for hidden ore (literally "stars of the earth" in the old language) in the shadows.
 
-Gods and Time/Cycles:
-As Innos and Beliar are seen to be responsible for day and night, the day and night cycle is seen as a constant flow between the dominance of these two aspects. Allegorically the sun may be seen as being born at dawn and wins over the darkness. That the darkness is just there to reveal the light, for it to "stand out" (which is the literal meaning of existence). The night may be seen as a veil thrown over the world at dusk to bring silence.  
-Dawn is like the rise of Innos, Dusk like his conscious retraction. Innos and the day are associated with activity and work, while the night for most people is associated with inactivity and rest - but just as important.  
-Adanos could be imagined as playing a role in the transition inbetween; as if he helps at dusk and dawn (imagine the image of the sun rising at the horizon from the water at dawn or sinking down into the earth at dusk), Adanos playing a mediator role or being responsible for this exchange to bring balance. 
-
-In this way, Adanos may also be associated with time and *change* in general. For the magic in our universe and our understanding of the *Elementary Arcanum*, this may play an important role, as water may have to be involved in any kind of change including movement and transmission. 
-
 ```
 TODO: Add metaphors regarding other cycles (year, seasons etc.)
 ```
@@ -334,6 +362,8 @@ As can be seen, some professions or estates we linked to two or all the three go
 
 It should be obvious, that the assignment of the professions is only meant to be a general tendency and a traditional association; there can be several reasons for why one may prefer and pray to another god for particular, individual reasons. 
 
+It should also be obvious how poor all of these aspects have been developed in the Gothic universe, missing so much potential storytelling that was implied by the premises of the gods but never found expression in the game. 
+
 
 ```
 TODO: Add additional reasoning for the assignments
@@ -343,27 +373,6 @@ TODO: Add additional reasoning for the assignments
 Trade: Trading has lots to do with communication; Innos gave men the ability to speek, so we have assigned it primarily to Innos. 
 
 -->
-
-
-#### Identification of Innos with Ra
-
-*flosha, based on ideas by Avallach*
-
-We combine both of the above mentioned possible explanations regarding Ra & and Innos (Ra as the former name of Innos and being identified with him, as well as Ra as the actual divine Absolute that the other three gods originated from), by explaining it through a historical, religious development within Myrtana. 
-
-We imagine *Innos* as a nordic god, which was primarily worshipped in the northern lands. He originated as a god of war, of law and fire. While *Ra* is a god originating from the ancient civilisation of Varant, the creator, with an emphasis on light, the sun and illumination. 
-
-The "fire" comes both with the positive aspects of warmth and its essential role in the cultural evolution, as well as with destructive aspects of destruction. In the context of justice, the fire is seen as "cleansing" and being "just" in that it burns everyone the same - unless he is *innocent* (in this context, think of the [*Feuerprobe*](https://de.wikipedia.org/wiki/Feuerprobe)).
-
-In the context of Innos as a god of war, see the sword of Gomez, called *Innos Zorn* ("Wrath" or "Rage" of Innos). In religious contexts there is the concept of "gerechter Zorn" (*just wrath*), that is often attributed to saints or god himself. It may be *Innos* who is thought to be *angry*, who wants rage; while Beliar is the one who is executing it in form of punishment in accordance with [Innos' will](#the-will-of-the-gods).
-
-In the Sequel, Innos is specifically linked to the *law* and the *maintenance of order*, while Adanos is linked to *justice*, and called "Waagschale der Menschheit" (scale of mankind), not in the sense of weighing them, but in the sense of keeping mankind in balance between the two forces of light and darkness, order and chaos. 
-
-In order to propagate the cult of fire (whose priests originated from the united priests of the ancient civilisation but split into different cults from there), the priests of fire have started to identify *Innos* with *Ra* in their preachings since a few centuries. But it was under the reign of Rhobar I. that this identification was brought to an end and that the two gods finally merged in the public perception. Rhobars establishment as a quasi divine ruler and the declaration of his realm as a successor of the first empire, proven by bearing the holy insignia (the Sceptre of Varant), was the final seal of this fusion. 
-
-In course of this, the traditional aspects of *Innos*, of fire, law and war, have become the prevailing attributes in the general understanding of the god, while the aspects of *Ra* have experienced a decline. Among scholars who learned the older language, the old name *Ra* is still in use (as in the example of the royal judge in the Comic), but most often used interchangeably with *Innos*. A simple solution by which we do not have to explain the speech of the judge in the Comic as any mistake. 
-
-But while the Cult of Myrtana identifies *Innos* with *Ra*, some heretical movements refuse this identification; similar to the gnostics they see *Innos*, as worshipped in the cult of the three gods, as a malevolent lesser god and demiurg in difference to the divine Absolute.
 
 
 <style>
