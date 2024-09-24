@@ -76,7 +76,7 @@ It may also be that Adrastos was Mikes suggestion which has then been changed in
 > *Wahrer der Ordnung.* [S]
 
 
-### Etymological Reflections
+#### Etymological Reflections
 
 **Innos**: I think that Filler may have developed it by taking the word sun in German (*Sonne*), turning it around into *Ennos* and then just replacing the E by an I, because it sounded better; with the intention to replace *Ra* due to its historical connotation, while keeping the association with the sun. But we could also interpret it as being derived from "innocence"; absence of guilt, inability or absence of intention to harm. Latin *in* ("not") + *nocens* from *noceo* (to hurt); being innocent means "not to hurt", very much like the sanskrit *Ahimsa* (which means *non-harm*, most often translated as *non-violence*). 
 
