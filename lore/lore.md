@@ -24,13 +24,12 @@ Phoenix' Sources:
 **Content:**
 
 1. Mythology
-    1. [Gods](/lore/gods)
-    2. Demons
-    3. [Cosmology](/lore/spheres)
-    4. Fallen Civilisation
+    1. [Gods & Demons](/lore/gods)
+    2. [Cosmology](/lore/spheres)
+    3. Old Civilisation
 2. Culture
-    1. Cults
-    2. On Magic
+    1. [Cults & Sects](/lore/cults)
+    2. Gift of Magic
     3. [The Arcane](/lore/arcane)
     4. Language
 	1. Mora Language
