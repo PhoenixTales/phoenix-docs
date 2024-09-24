@@ -292,6 +292,10 @@ Adanos could be imagined as playing a role in the transition between day and nig
 
 In this way, Adanos may also be associated with time and *change* in general. For the magic in our universe and our understanding of the *Elementary Arcanum*, this may play an important role, as water may have to be involved in any kind of change including movement and transmission.
 
+```
+TODO: Add metaphors regarding other cycles (year, seasons etc.)
+```
+
 
 ### Beyond Good & Evil
 
@@ -346,10 +350,6 @@ And due to his relation with knowledge he is associated with science, the writte
 And due to his association with curiosity and diversity, he is also associated with the finer arts and crafts, such as painting (water) or weaving, as well as with those who produce variety in form of tailors (individual clothes) or dyers. 
 
 Beliar is associated with the night, the shadows, the moon, with dreams, the imaginative, and with death and demons. So he is revered by all who deal with death (hangmen, gravediggers), with those who operate at night and those who hide. Thieves and the haunted, those who try to escape or those involved in shady business. He is prayed to by those who seek revenge; those who are cursed or want to curse; those who are afraid or want others to fear them; those who are in sorrow or completely abandoned or banned. He is also associated with harvest due to its traditional associations. As Innos is associated with the spoken, Adanos with the written word, so is Beliar with the unspoken, unwritten, with all hidden thoughts, feelings and ideas, and with silence. He is associated with occultism (in the sense of dark, hidden practices) as well as with anarchy and chaos. And - very importantly - he is associated with mining, as the miners work in the dark, seeking for hidden ore (literally "stars of the earth" in the old language) in the shadows.
-
-```
-TODO: Add metaphors regarding other cycles (year, seasons etc.)
-```
 
 
 | God        | Professions/Estates |
