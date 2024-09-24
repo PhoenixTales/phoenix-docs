@@ -319,7 +319,7 @@ If the documentation says otherwise, then we see this as a regression for simpli
 
 The simple good/evil structure of the gods that the official successors developed Gothic into, is exactly what Gothic and Gothic Fantasy is *not* meant to have, it is what Gothic was meant to be *opposed* to, it is one of the reasons that Gothic Fantasy was invented, as a fantasy approach *against* a clear good/evil dichotomy. 
 
-Therefore, no matter what even some of the notes in design documents or official publications of the publisher say, it doesn't matter. A clear good/evil dichotomy must be avoided at all costs. 
+Therefore it doesn't matter what some official publications of the publisher or even some of the notes in design documents may say - a clear good/evil dichotomy must be avoided at all costs. 
 
 
 ### Gods in Relation to Men
