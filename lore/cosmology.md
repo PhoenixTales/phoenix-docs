@@ -3,11 +3,17 @@
 *Flosha, 24.09.2024*
 
 1. Creation Myth
+    1. Necessity of Death
 2. The Spheres
-3. ...
+    1. Morgrad
+    2. Shagrad
+    3. Tyrgrad
+
 
 
 ## Creation Myth
+
+A commentary on the "Lore of the Gods".
 
 *Flosha, 13.06.2024*
 
@@ -41,4 +47,19 @@ Adanos, also known as "Cyvanis" and "Adrastos", originated after Beliar from the
 * knowledge (the development of self-consciousness and intellect)
 * curiosity (the driving force of exploration) and
 * courage (to conquer and rule the world "given" to them) 
+
+
+### The Necessity of Death
+
+*Flosha & logx, 28.07.2020*
+
+> Beliar aber wurde von Neid zerfressen, denn die Menschen beteten nicht zu ihm und ruhten des Nachts. Da wurde er zornig und er formte sich einen Menschen. Einen Menschen, der nur ihn anbeten sollte. Der Mensch aber ward genau so wie alle anderen Menschen. Beliar wurde so stark von Zorn erfüllt, dass er den Menschen tötete und sprach: Wenn sie mich nicht anbeten, dann sollen sie mich fürchten. Und er schuf den Tod und nahm den Menschen das Leben. [G]
+
+[TODO: Translate the section below]
+
+Durch ihre Unfähigkeit zur Integralität (von Licht und Dunkelheit, Sichtbarem und Unsichtbarem, Bewusstem und Unbewusstem, kurz: der Dämonen - so eine mystische Deutung des Mythos), was metaphorisch den Zorn des dunklen Gottes heraufbeschwor, wurden sie sterblich. So leben sie seitdem als „Mora“ (mor – sterblich, vergänglich; ra – Gott; “sterblicher Gott”), in der Sphäre des Vergänglichen (Morgrad). 
+
+Wir erklären den Name der Orks in der alten Sprache als „Orak“ (or – Erde; ak – abstammen). Später wurde daraus das heute gebräuchliche „Ork“. Die Menschen betrachten sich als göttlich und „von oben” kommend. Rak = „von Gott” oder „vom Himmel” und im Gegensatz dazu die Orks als von der Erde abstammend und von Erde gemacht = nicht göttlichen Ursprungs.
+
+In Phoenix wird der Mythos um Beliars Menschen auf unterschiedliche Weise interpretiert. Manche Gelehrte behaupten, es seien die Orks, die Beliar/Vandras schuf, um ihn anzubeten - aber sie taten es auch nicht. Darum bestrafte er sie. Darum betrachten die Menschen die Orks als entstellt, als Geächtete in den Augen der Götter [siehe Rassismus in der “Geschichte der Orks”]. Die Inquisition spielt mit der Angst der Menschen und droht ihnen, entstellt zu werden wie die Orks, wenn sie den Göttern nicht gehorchen und Beliar erzürnen. Die Orks aber haben ihre eigenen Mythen, die nichts mit der menschlichen Götterwelt gemein haben.
 
