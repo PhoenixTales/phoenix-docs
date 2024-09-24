@@ -44,7 +44,7 @@ And then there is the possibility of a completely opposite approach: Events unfo
 
 In one case the game scenario, the game world, the game's story can only progress as much as the player. In the other case the player can only progress as much as the game world and story.
 
-Everything depends on conditions still, but conditions in which the player is only one of multiple factors among the other characters in the game which are driven by their own motives. Thus NPCs time, even weather or simple chance may be possible factors at play. 
+Everything depends on conditions still, but conditions in which the player is only one of multiple factors among the other characters in the game which are driven by their own motives. Thus NPCs, time, even weather or simple chance may be possible factors at play. 
 
 It is only in this sense that "story-driven", as which we describe Phoenix, receives its true meaning. It does *not* simply mean that the game is focused on the story, but it is a design approach to offer an experience that is opposed to a "player-driven" experience. "Story-driven" describes a game that is driven by the story and *not* by the player. 
 
