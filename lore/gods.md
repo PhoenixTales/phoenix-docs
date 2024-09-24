@@ -30,7 +30,7 @@ Last update: 14.09.2024
     * [Identification of Innos with Ra](#identification-of-innos-with-ra)
 
 
-## Gods of Myrtana
+## Names of the Gods
 
 *Flosha, 09.09.2024 - 10.09.2024*
 
@@ -75,7 +75,10 @@ It may also be that Adrastos was Mikes suggestion which has then been changed in
 > Mattias came to me and said: "The names of the gods are crap, we need to redo them..." So he did. [Mike Hoge, interview with Dmitriy, 30.12.20](https://gothicarchive.org/postrelease/interviews/MikeHoge_30_12_2020.html)
 
 
-### Innos and Ra
+### Etymological Reflections
+
+
+#### Innos and Ra
 
 *Flosha, 09.09.2024*
 
@@ -109,7 +112,7 @@ OtWaMaskSun.tga, OtWaMaskFire.tga, OtWaMaskWater.tga, OtWaMaskMoon.tga
 </div>
 
 
-### Beliar, Vandras or Kasakk
+### Beliar, Vandras, Gotha or Kasakk
 
 *Flosha, 09.09.2024*
 
@@ -144,6 +147,8 @@ As to where they may have gotten the idea for the name, if not from the original
 ---
 
 **Vandras**: In Sanskrit, *vandra* means to praise, to worship. Based on *vandra* from Old Norse *vondr*, meaning wander or roam, it could mean as much as the "wanderer". *Van* in Sanskrit has the meaning of "sound", but also "to serve" and "to honour", but also "to be distressed". *Vanaya* means "to act", "to hurt", "to kill". It could also be speculated to be somehow related to the *Vandals*, which in a moderng meaning, in the sense of "vandalism", are associated with destruction due to their sack of Rome in 455. Since about the 17th century during the Enlightenment, the Romans were idealised and the Goths and Vandals were blamed for the fall of Rome. In the *Encyclopaedia Britannica*, *vandal* has been described as "willful destroyer of what is beautiful or venerable". Etymologically it may also be derived from the Proto-germanic root *wand-* (water). See Old English *wendelsǣ* or Old High German *wentilsēo* (meaning vandal-sea - the mediterranean sea). Also *Vendras*, spanish for "you will come", from *venir* (to come). Or Romanian *vandras*, "a tramp".  
+
+**Gotha**, ``TODO!``
 
 By summarising all of these findings and by putting all of those meanings together in a way that serves the lore, we could characterise Beliar/Vandras to be a vagrant, always wandering god, who wants to be worshipped and will bring destruction and distress when not being praised, when not being accepted, when not followed during his wandering into the night and as such a wanderer he may be well associated with the moon; he is the disuniter who brought the night and death as a necessity of life. See [lore of the gods](#lore-of-the-gods) for more.  
 
