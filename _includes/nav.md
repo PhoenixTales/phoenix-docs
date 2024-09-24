@@ -60,7 +60,9 @@
    1. [Cults & Sects](/lore/cults)
 3. MetaPhysics  
 4. [Geography](/lore/geography)
-   1. [Khorinis](/lore/khorinis)
+   1. [Tymoria](/lore/tymoris)
+      1. [Westfield](/lore/westfield)
+      2. [Khorinis](/lore/khorinis)
 5. History 
    1. [Phoenix Allegory](/lore/phoenix-allegory)
 
