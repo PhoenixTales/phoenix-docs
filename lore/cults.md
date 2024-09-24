@@ -1,10 +1,8 @@
 # Cults & Sects
 
-```
-Author: Flosha
-25.03.2024 - 13.06.2024
-Last update: 24.09.2024
-```
+``Author: Flosha``  
+``25.03.2024 - 13.06.2024``  
+``Last update: 24.09.2024``  
 
 **Content:**
 * Religion of Myrtana
