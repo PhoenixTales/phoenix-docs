@@ -50,11 +50,27 @@ I will at first deal with the gods based on the source material and in form of l
 * *Beliar* [G] aka *Vandras* [A] & *Kasakk* [N]
 * *Adanos* [G] aka *Adrastos* [A] & *Cyvanis* [A]
 
-Mike came up with the gods. One of the names from Mikes original gods was *Ra*, and maybe *Adanos* or *Adrastos* too, while *Innos*, *Vandras*, *Beliar* and *Cyvanis* (and perhaps *Adanos*) were suggestions from Filler - he made a list of potential names. One of the original names by Mike may have been lost. We do not know for sure who suggested which name, nor does Mike remember.
+Mike came up with the three names. One of these initial names was *Ra*, the others remain speculation. But we know that *Innos*, *Vandras*, most likely *Beliar* and *Cyvanis* (and perhaps *Adrastos* too) were suggestions from Filler (Mattias Filler was the most important story-writer responsible for the main plot besides Stefan Nyul and Mike). He did not suggest just three names but made a whole list of potential names. 
 
-> Innos, Adanos and Beliar came later from Filler. And one of these three names was one of mine, but I do not remember which one. [...] I believe Innos I had called RA before.
+> Innos, Adanos and Beliar came later from Filler. One of these three names was one of mine, but I do not remember which one. [...] I believe Innos I had called RA before.
 
-It was Mattias Filler (the most important story-writer responsible for the main plot besides Stefan Nyul and Mike), who came up with the final names of the Gods, at least in case of *Innos* and *Beliar*, because he did not like the original names from Mike. The one name that may have been an original suggestion by Mike, might be Adanos, which was either among Mikes original suggestions or has been slightly changed by Filler from a formerly suggested *Adrastos* into Adanos. But it also could have been Beliar. 
+Mike does not remember much, but we now that it was Filler came up with the final names of the Gods, except for one from Mike, which was kept. And we know that it was not Innos, as his name was Ra.
+
+And since we know that Ra was one of the original names from Mike (which still appears in the Comic), we could also speculate that "Gotha" may be one of his names, as it also appears in the Comic. 
+
+> "... in Gothas Namen..."  
+> "... in the name of Gotha"  
+
+It is mentioned in a similar way as Beliar or Innos in the game and since Ra was the name for Innos at the time, Beliar seems most likely. It remains speculation, as Gotha could as well be interpreted e.g. as a saint. But if he is one of the gods, and if we can identify him with Beliar, and since we know that one of the final names by Mike was kept and it was neither Ra nor Gotha, we can speculate that the original names by Mike were...
+
+* Ra
+* Gotha
+* Adanos
+
+This also fits insofar as that Adanos is still Mikes favourite god that he has chosen to use as a nickname (and the New Camp his favourite camp). 
+{: .subtext }
+
+It may also be that Adrastos was Mikes suggestion which has then been changed into Adanos, but it remains speculative.
 
 > Mattias came to me and said: "The names of the gods are crap, we need to redo them..." So he did. [Mike Hoge, interview with Dmitriy, 30.12.20](https://gothicarchive.org/postrelease/interviews/MikeHoge_30_12_2020.html)
 
@@ -63,7 +79,7 @@ It was Mattias Filler (the most important story-writer responsible for the main 
 
 *Flosha, 09.09.2024*
 
-**Innos**: I speculate that Filler may have developed it by taking the word sun in German (*Sonne*), turning it around into *Ennos* and then just replacing the E by an I, because it sounded better; with the intention to replace *Ra* due to its historical connotation, while keeping the association with the sun. But we could also interpret it as being derived from "innocence"; absence of guilt, inability or absence of intention to harm. Latin *in* ("not") + *nocens* from *noceo* (to hurt); being innocent means "not to hurt", very much like the sanskrit *Ahimsa* (which means *non-harm*, most often translated as *non-violence*). 
+**Innos**: I think that Filler may have developed it by taking the word sun in German (*Sonne*), turning it around into *Ennos* and then just replacing the E by an I, because it sounded better; with the intention to replace *Ra* due to its historical connotation, while keeping the association with the sun. But we could also interpret it as being derived from "innocence"; absence of guilt, inability or absence of intention to harm. Latin *in* ("not") + *nocens* from *noceo* (to hurt); being innocent means "not to hurt", very much like the sanskrit *Ahimsa* (which means *non-harm*, most often translated as *non-violence*). 
 
 Innos was not meant to be just "good", just as Beliar was not simply meant to be "evil"; Innos is order, Beliar is chaos, but they both are needed, they are all "part of the equation" (Mike). 
 
@@ -117,11 +133,13 @@ In the *Fragments*, Belial is *"sometimes presented as an agent of divine punish
 
 > *anyone who is ruled by the spirits of Belial and speaks of rebellion should be condemned as a necromancer and a wizard*. 
 
-It is unclear why Beliar was not given up as a name for the same reasons as Ra may have been given up, due to so many real-life religious implications. I can only assume that apparently they liked these implications as much that it justified keeping the name.  
+Since *Beliar* has been chosen as a name inspite of all its historical background in real life religion, it is clear that this can not be the reason for giving up *Ra* either. It would seem like an obvious reason to avoid the usage of a name with too many real life associations, but as this was not the case with *Beliar*, we can conclude that *Ra* was discarded for purely stylistic reasons. 
 
-Belial also plays an important role in modern occultism such as in the writings of Aleister Crowly in *Goetia* (1904). In *The Book of Belial* (one of the four books of the so called *Satanic Bible* by Anton LaVey), the name is explained to mean "without a master" (like the word anarchy), and symbolises "independence, self-sufficiency, and personal accomplishment". In this sense, he is like a god of anarchy. 
+And apparently, in case of Beliar, they either may not have known all the associations with real life religion, may not have cared or it may have known them very well and liked these associations.   
 
-As to where the name may have been taken from: If not from the original historical sources listed above: Mike mentioned in interviews that he was inspired by *Dungeon Keeper* from 1997. In the expansion *The Deeper Dungeons*, *Belial* is the name of the final level. Filler may have known this too. Beliar is also mentioned in *Paradise Lost*, the epic poem by John Milten. And "Paradise Lost" is one of the names in the list by Dieter Hildebrandt of potential names for Gothic.
+Belial also plays an important role in modern occultism such as in the writings of Aleister Crowley in *Goetia* (1904). In *The Book of Belial* (one of the four books of the so called *Satanic Bible* by Anton LaVey), the name is explained to mean "without a master" (just as the word anarchy), and symbolises "independence, self-sufficiency, and personal accomplishment". In this sense he is like an anarchist god; a god of those who need no god as an authority, but grants *them* full authority if he receives the necessary worship and sacrifice. 
+
+As to where they may have gotten the idea for the name, if not from the original historical sources listed above: Mike mentioned in interviews that he was inspired by *Dungeon Keeper* from 1997. In the expansion *The Deeper Dungeons*, *Belial* is the name of the final level. Filler may have known this too. Beliar is also mentioned in *Paradise Lost*, the epic poem by John Milten. And "Paradise Lost" is one of the names in the list by Dieter Hildebrandt that is speculated to be a list of potential names for Gothic.
 
 ---
 
