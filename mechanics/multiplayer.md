@@ -3,8 +3,10 @@
 ``Author: Flosha``  
 ``25.09.2024``
 
+Please be aware that nothing of what will be described here below is currently worked at. It is primarily an attest of a potential future realisation; of how the multiplayer story mode could be realised and of potential other mutliplayer modes that could fit into the game - much of which - or at least the technical framework of which - have already been realised in the community.  
 
-## Story Coop
+
+## Story Mode
 
 From the very beginning of the development, Gothic had always been promoted as having a multiplayer story mode (which we call "Coop" today). It was an essential part of the project that they wanted to realise, mentioned in always every single interview and several times did let it seem that they are actually proud of the concept behind their multiplayer, which was meant to be different than what players knew at the time. 
 
@@ -175,11 +177,24 @@ And it also offers incredible incentives for the modding community. Because othe
 And if the technical side of this endeavour is solved, - and there is work being done in that direction by programmers involved in Phoenix, among others - this is definitely the direction we would choose. Time will tell if this dream comes true. But it is clear, that the original Vision of Gothic will not be completely fulfilled without realising the Multiplayer Story Mode. 
 
 
-## Free-Play Multiplayer
+## Freeplay Mode
 
-...
+Potential freeplay mode as known from STALKER utilising the entire game world, that could be opened up to a large number of players who would then be able to play their own stories here without a pre-narrated story, only with a simulated A-life, including occasional respawns of monsters, items, trading inventory updates and so forth. 
+
+Freeplay could potentially be combined with a hardcore Permadeath Mode (the possibility of resurrection, as planned in the Alpha, which then would require help of other players, could make this more endurable); ans this could *also* be combined with the idea of switching into the role of any other random character in the gameworld, when the former one dies, so that every NPC can potentially turn into a player character.  
+
+Many interesting ideas can be realised in such a mode. 
 
 
-## Deathmatch
+## Story Episodes
 
-...
+It would be possible to tell specific short story episodes which aren't taking more than 1-2 hours, like as events of the past, e.g. by giving the opportunity to play two convicts helping each other during the revolt, such as the barons themselves. 
+
+
+## Additional Modes
+
+* **Deathmatch:** Arena battles in various smaller or larger, literal or metaphorical "arenas" from the game.  
+* **Endless/Survival:** Gameplay ala Left 4 Dead with waves of madmen to survive  (e.g. within the castle), or in form of enemies in the Arenas. 
+ 
+These modes may be possible to be played with various possible multiplayer characters that have to be unlocked in story mode. 
+
