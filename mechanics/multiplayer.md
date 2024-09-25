@@ -3,7 +3,10 @@
 ``Author: Flosha``  
 ``25.09.2024``
 
-From the very beginning of the development, Gothic had always been promoted as having a multiplayer. It was an essential part of the project that they wanted to realise, mentioned in always every single interview and several times did let it seem that they are actually proud of the concept behind their multiplayer, which was meant to be different than what players knew at the time. 
+
+## Story Coop
+
+From the very beginning of the development, Gothic had always been promoted as having a multiplayer story mode (which we call "Coop" today). It was an essential part of the project that they wanted to realise, mentioned in always every single interview and several times did let it seem that they are actually proud of the concept behind their multiplayer, which was meant to be different than what players knew at the time. 
 
 ``Add quotes``
 
@@ -16,7 +19,7 @@ But then, somewhen in 1999, after 3+ years already had been spend to realise it,
 We will at first deal with the reasons for the cancellation which were explained in detail by Mike, before offering a critique of that reasoning from our perspective and in the context of our design philosophy. 
 
 
-## Reasons for the Cancellation
+### Reasons for the Cancellation
 
 ``gothic.gomp.ch, 1999``
 <!-- > **Simon Moon:** Was war der Grund, daß der Multiplayermode abgesetzt wurde?-->
@@ -67,11 +70,11 @@ Ich kann euch da draußen nur bitten, eine Sache zu bedenken: Die Entwicklung ei
 
 ----
 
-## Critique of Impure Reason
+### Critique of Impure Reason
 
 **Flosha:** At first I will try to summarise the reasoning given. It boils down to the following problems:  
 
-* Players can either not receive the same missions or have to just follow the main player or otherwise may take missions away from each other. 
+* Players can either not receive the same missions, have to just follow the main player or otherwise may take missions away from each other. 
 * If not receiving the same missions, it would be too much work to write extra missions for each player. 
 * Theoretical balancing issues due to the choice of a guild.
 
@@ -97,7 +100,7 @@ The four friends were convicted two years before the player, they already have a
 There is no need whatsoever to omit the first chapter, the only need is to think of the story from the individual perspective of the five characters.  
 
 
-### Character Selection
+#### Character Selection
 
 Before a multiplayer session, there of course has to be a character selection, where one of the players chooses the main hero, while others choose one of the four friends. If only two or three players play together, just one or two of the four friends turn into player characters, while the remaining friends remain NPCs like in a singleplayer session. 
 
@@ -106,7 +109,7 @@ The game starts regularly with the conviction of the main hero. The story, missi
 The idea of enabling a friend to join a singleplayer session in the middle of a playthrough is easy from a gamedesign perspective (the technical implementation is a different question) insofar as that every one of the four friends has a clear scripted state and position in the game world etc. at any given moment of the story and can then easily be taken over at a specific point in time by another player joining the game. 
 
 
-### Fixed Roles
+#### Fixed Roles
 
 Exactly because of the story and in order to not compromise it, the other player characters are of course *not* possible to shape as much as the main hero, because they already have a fixed role. In the same way, as the main hero interacts with the four friends in the story, where they give specific answers, the possible dialogue options of the players controlling the friends have of course to be restricted. This is *not* a compromise, it is the opposite, it means *not* to compromise the story for the multiplayer, but to tell it consequently while allowing additional players to participate. 
 
@@ -118,9 +121,16 @@ Just as with every other character in the game, we have to assume that the frien
 
 The old story implies that the four friends are meeting several times in course of the story. In the Alpha, Gorn and Lester are at the meeting place already at the beginning of the game and after escorting the player into the valley, Diego tells the player that he still has to do something. Later in the game, in course of the mission for Thorus of getting the list from the mine (it is not given by Diego), Diego seems to follow him and meets him in front of the mine, by the following dialogue and other, similar hints in the documents it is suggested that the four friends were meant to keep an eye on the main hero from the very beginning, they are working in the background, observing the player, talking about the events taking place in the colony and eventually helping him; while the main hero would form a stronger bond with one of the friends, depending on his choosen guild and/or class.
 
-At the same time they would do their own business: Lester for instance is involved in the illegal drug trade, Gorn is a Mercenary, but has friends in the Organisation and is involved in their raids that are completely despised by Lee. Milten is doing stuff behind the back of his master Corristo and keeps meeting with his friends he is not allowed to see anymore.
+For example: In this particular case, the player is send to the mine for a mission to become a shadow (not given by Diego as it was done in the release version, where the same man who has stolen ore from the ore barons a few weeks ago is now suddenly the "leader" of the shadows; this is of course not the case). But in any way, Diego is a shadow himself and in the singleplayer campaign of the alpha story it is suggested that he follows him. For the multiplayer story for Diego we can derive a mission from here; such as an obvious solution like this: The leaders of the shadows is sending Diego to observe the player during the mission, which only makes sense: It is logical that a guild, which works similar to the Stasi of the German Democratic Republic, while training a new snitch, will of course have other snitches observing him at work in order to evaluate his loyalty and trustworthiness.  
 
-They all have their story and thus telling these stories is the obvious solution for the multiplayer mode. While being linked to and taking place simultaneously to the events of the singleplayer plot, being parts of that very plot, they each show the story from a different angle, tell additional stories in the world, develop the story further, give it more depth and complexity and provide answers to questions, such as: Why is Diego here, what brought him there, what did he do in the meanwhile, how does he relate to the other shadows and so on and so on.
+So while being involved with the player, sometimes directly, sometimes indirectly, at the same time they would mind their own business: Lester for instance is involved in illegal drug trade, Gorn is a Mercenary, but has friends in the Organisation and is involved in their raids that are completely despised by Lee. Milten is doing stuff behind the back of his master Corristo and keeps meeting with his friends he is not allowed to see anymore.
+
+They all have their story and thus telling these stories is the obvious solution for the multiplayer mode. While being linked to and taking place simultaneously to the events of the singleplayer plot, being part of that very plot, they each show the story from a different angle, tell additional stories in the world, develop the story further, give it more depth and complexity and provide answers to questions, such as: Why is Diego here, what brought him there, what did he do in the meanwhile, how does he relate to the other shadows? And so on and so on.
+
+And since every character is experiencing his own story or the same story from his perspective with individual missions, these character plots could work just as well as additional singleplayer campaigns that can be played alone, in case of which the Main Hero would turn into an NPC and which guild he joins could be random, thereby always adding some element of surprise to a playthrough. 
+
+
+#### Multiplayer Storytelling
 
 Regarding dialogues, in the multiplayer mode every single dialogue would have to have an additional condition as simple as:
 
@@ -128,36 +138,21 @@ Regarding dialogues, in the multiplayer mode every single dialogue would have to
 Player is PC_PSIONIC, then TRUE
 ```
 
-Thus, depending on the character played, the NPCs would talk to you or not and if talking to you they would only have dialogues specifically written with this character in mind. 
+Thus, depending on the character played, the NPCs would either talk to you or not and if talking to you they would only have dialogues specifically written with your particular character in mind. 
 
-Since every character is experiencing his own story or the same story from his perspective with individual missions, these character plots could work just as well as additional singleplayer campaigns that can be played alone, in case of which the Main Hero would turn into an NPC and which guild he joins could be random, thereby always adding some element of surprise to a playthrough. 
+But the reader may realise a difficulty of this approach to a multiplayer story: When e.g. the role of Diego is taken by another player, how can one make sure that the main hero and Diego meet at the desired time? For example: When the player is send to the troll canyon and Diego is already there. How can this work, since the player in the role of Diego may be finished already before the main hero arrives? 
 
+The answer is: In these particular cases, where two or more characters are supposed to be involved in a mission - which is the case in both the singleplayer and the multiplayer mode, the scenario has to be designed in such a way that the other characters are *needed* to solve the mission. There were missions supposed to be designed as such that one player alone cannot solve them. So a character cannot be finished here before another one is present. 
 
-
-
-
-
-
-, when he So just as the main hero, the four friends have their own agenda. 
+And as far as time is concerned: It is totally true that in a "player-driven" game as I called it, it would be very difficult to make sure that the story progression of two characters is in synchronicity *enough* to enable them to experience events together. But this is not the case in a real "[story-driven](/lore/driven-by-story)" game as I described it. Since the story is taking place on a day by day basis and most events will occur not earlier or later just because of the actions of the player character(s), the time at which an event occurs or the moment at which two or more characters are meant to meet to play together or to help each other, is clearly defined in a particular time frame, which in practice results in something like "Day 5 at Dusk". 
 
 ---
 
+So, to summarise: It is only consequent, that the other characters do *not* receive the same missions as the main hero (in most cases), they have to be tailored specifically to one character, being influenced by his specific decisions. In some cases the friends *may* be able to solve a mission, that otherwise the hero would fulfill. For instance: If several thieves are looking for a particular artifact, Diego may do so too and get it before the player. But in no case can the very *same* mission be taken by several players (they may just  at most get an equivalent or a similar mission from the same or a different mission giver, but in a different context), nor can any player take a mission away from another, as it is never the very same. 
 
-Darum ist die konsequenteste und zugleich die interessanteste Lösung eine Kombination von 1 und 2. Es ist nur konsequent, dass die vier Freunde in vielen Fällen NICHT die Missionen erhalten, die der Held bekommt, die sind auf ihn als Charakter zugeschnitten und abhängig von seinen Entscheidungen. In einigen Fällen KÖNNEN die vier Freunde eine Mission erfüllen, die andernfalls der Held erledigen könnte; in keinem Fall aber kann dieselbe Mission von mehreren Spielern angenommen werden. 
+Just as there are missions that are written only for the main hero, there are missions only written for one of the four friends. 
 
-Die Lösung ist also simpel:
-Einige Missionen funktionieren wie beschrieben in seiner Lösung 2: Die vier Freunde oder einer davon wird in manchen Fällen eine Mission mit einem anderen Spieler zusammen erledigen, die dieser angenommen hat. Andere Missionen müssen aber, wie in Lösung 1 beschrieben, exklusiv auf die jeweiligen Charaktere zugeschnitten sein. Genauso wie es also Missionen gibt, die nur der Held erhalten kann, so gibt es Missionen, die nur einem der vier Freunde gegeben wird basierend auf dem jeweiligen Charakter. Es mag eine "Scheißlösung" sein aufgrund des großen Aufwands, den das bedeutet. Aber es ist die konsequenteste Lösung, die zudem durch die spezifischen Storystränge der verschiedenen Charaktere im Multiplayer zusätzlichen Wiederspielwert bedeutet.
-Ja, es ist mehr Aufwand, aber man hätte sich z.B. auf die Umsetzung der Hauptstory für den Helden konzentrieren können und dann die vier Freunde in vier kleinen Addons für den Multiplayer nachliefern können, die die vier Freunde in die Hauptstory einflechten und ermöglichen, in ihre Rolle zu schlüpfen und dem Spieler zu helfen bzw. zu erleben, was sie parallel zu dem Helden getan haben, was man im Singleplayer nur erzählt bekommt oder gar nicht weiß. 
-
-
----
-
-
-
-
----
-
-Flosha: Auch das ist kein Problem. Da im Multiplayer nur einer der namenlose Held sein kann werden die anderen in die Rolle eines der Freunde schlüpfen. Die sind aber schon in einer Gilde. Aufträge, die relevant für einen Gildenbeitritt sind, können sie sich also nicht wegschnappen.
+And this may be a "shitty solution", to use Mikes words, due to the immense effort it takes, but it is the most consequent solution of the different multiplayer characters adds a lot of replay value. Every character plot tells the story of what they have done parallel to the player, how they were involved with NPCs in the world; they reveal and deal with many aspects which in the singleplayer main plot are only hinted at, that the player only hears about or even doesn't know anything about. 
 
 ---
 
@@ -173,7 +168,18 @@ But instead of doing so and following such a passionate approach, instead of tel
 
 While from a historical perspective it was of course necessary to do all the cuts in the end as this was the only way that the game could be published that otherwise would have been cancelled the same way as its Sequel, - struggeling a lot already with the realisation of the singleplayer story alone - the stories of the four friends would have been ideal material for addons of the main game. 
 
-Yes, for sure they wouldn't have been able to write these four additional side plots alongside the main plot in time, to release them alongside the main game, but there is no need to do so. In an ideal scenario, the multiplayer could have been developed one plot at a time, thereby expanding the Singleplayer story at first into a Multiplayer Story Coop for two players, then three, then four and finally all five, while at the same time giving the opportunity to patch the main game into a more complete state.  
+Yes, for sure they wouldn't have been able to write these four additional side plots alongside the main plot in time, to release them alongside the main game, but there is no need to do so. In an ideal scenario, the multiplayer could have been developed one plot at a time, thereby expanding the Singleplayer story at first into a Multiplayer Story Coop for two players, then three, then four and finally all five, while at the same time giving the opportunity to patch the main game into a more complete state. 
 
-And if the technical side of this endeavour is solved, - and there is work being done in that direction by programmers involved in Phoenix, among others - this is the direction we would choose. Time will tell if this dream comes true. But the original Vision of Gothic will not be completely fulfilled without the Multiplayer Story Mode. 
+And it also offers incredible incentives for the modding community. Because other than just telling new stories in different times and/or worlds, modders can make it their mission to create additional multiplayer characters for Phoenix, thereby always expanding the complexity of the story. What if you could play the story in the role of Xardas? What if you could play the story in the role of Scar? And so forth. 
 
+And if the technical side of this endeavour is solved, - and there is work being done in that direction by programmers involved in Phoenix, among others - this is definitely the direction we would choose. Time will tell if this dream comes true. But it is clear, that the original Vision of Gothic will not be completely fulfilled without realising the Multiplayer Story Mode. 
+
+
+## Free-Play Multiplayer
+
+...
+
+
+## Deathmatch
+
+...
