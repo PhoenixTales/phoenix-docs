@@ -44,7 +44,9 @@
 9. Events
 10. AI Functions
 11. [Playmodes](/mechanics/playmodes)
-12. [Multiplayer](/mechanics/multiplayer)
+12. Multiplayer
+	1. [Alpha Multiplayer](/mechanics/multiplayer-alpha)
+	2. [Phoenix Multiplayer](/mechanics/multiplayer-phoenix)
 
 
 <!-- ## [Story](/story/story) -->

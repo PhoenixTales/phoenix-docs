@@ -65,7 +65,9 @@ Classes, Attributes, Skills, modes of interaction, experience, attitudes, interf
     3. Daily Routines
     4. Chance Estimation
 12. [Playmodes](/mechanics/playmodes)
-13. [Multiplayer](/mechanics/multiplayer)
+13. Multiplayer
+	1. [Alpha Multiplayer](/mechanics/multiplayer-alpha)
+	2. [Phoenix Multiplayer](/mechanics/multiplayer-phoenix)
 
 
 <style>
