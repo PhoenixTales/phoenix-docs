@@ -296,7 +296,7 @@ Fight against waves of enemies, either alone or as a team of friends against AI.
 An "Endless Survival" mode can be selected with the potential of player rankings by the maximum time they manage to survive.  
 
 A similar thing has been done already for Vanilla Gothic in form of the "Left 4 Gothic" mod. 
-{: .info }
+{: .subtext }
 
 Examplatory Survival Scenarios:  
 * **Old Arena**: A fight against all kinds of human warriors becoming progressively stronger. 
