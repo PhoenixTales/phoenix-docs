@@ -26,7 +26,7 @@
 ---
 
 Please be aware that nothing of what will be described in this article is currently worked at. It should be seen as an attest of a potential future realisation; of how a multiplayer story mode could be realised and of potential other mutliplayer modes that could fit very well into the game - much of which - or at least the technical framework of which - have already been realised in the community, but the specifics of which are our unique concepts.  
-{: .info }
+{: .subtext }
 
 
 ## Alpha Multiplayer
@@ -39,13 +39,13 @@ From the very beginning of the development, Gothic had always been promoted as h
 
 While at first they have spoken of "at least 8" players, this was changed very soon to 5, a number with which they sticked till the end. 
 
-- Gibt es einen Multiplayer-Modus?
-Tom Putzki: Aber klar doch! Zusammen mit seinen Freunden und Kollegen ein richtig gutes Spiel zu zocken, bringt doch noch mehr Fun als alleine vor dem Rechner zu hängen. (01.05.1999)
+> Gibt es einen Multiplayer-Modus?  
+> Tom Putzki: Aber klar doch! Zusammen mit seinen Freunden und Kollegen ein richtig gutes Spiel zu zocken, bringt doch noch mehr Fun als alleine vor dem Rechner zu hängen. (01.05.1999)
 
 > g0mp: Gothic ist kein reines Online Spiel wie UO, kann man trotzdem mit einer Netzwerk Option oder dergleichen rechnen?  
 > Tom: Sorry, Internetversion von GOTHIC ist derzeit nicht in Planung... zumindest nicht bei der derzeitigen Anbindung in Deutschland - Lags...(( aber Multiplayer ist selbstverständlich, bis zu 5 Spieler im lokalen Netzwerk....und als besonderes Leckerchen: Die Story ist sowohl im Single- als auch im Multiplayer kontinuierlich spielbar!!!! (01.05.1999)
 
-While most people may not know or remember much of what the Gothic multplayer was meant to be, and for how little of it had actually been implemented in the game, the developers promised a lot of very specific details about the multiplayer in 1998-1999.  
+Most players may not know or remember much of what the Gothic multiplayer was meant to be, but for how little of it had actually been implemented in the game the developers promised a lot of specific details about the multiplayer in 1998-1999.  
  
 > How is Gothic going to support Multi-player? Will you be able to adventure with your character build up in single player along with your friends favorite characters?  
 > Mike: Yes. But we plan to allow only characters of the same level to join a game, to keep the game balance intact. As we started with GOTHIC, I imagined a game where you can play several hours in single player mode, then join a game with your friend and take your character with you and finally even take the improvements you`ve made in your multiplayer session back to your single player game...  
@@ -65,10 +65,12 @@ But very shortly after this, after 2-3 years had been spend with the feature, at
 
 We will at first deal with the reasons for this cancellation which were explained in detail by Mike, before offering a critique of that reasoning from our perspective and in the context of our design philosophy. 
 
+``TODO: Add additional details e.g. regarding the Resurrection or Teleport system from the documents.``
+
 
 ### Reasons for the Cancellation
 
-``gothic.gomp.ch, 1999``
+``Source: gothic.gomp.ch, 1999``
 <!-- > **Simon Moon:** Was war der Grund, daß der Multiplayermode abgesetzt wurde?-->
 > **Simon Moon:** *What was the reason for the cancellation of the multiplayer?*
 
@@ -80,7 +82,6 @@ Relativ früh wurde uns klar, wie viele Probleme da dran hängen, vor allem was 
 > **Mike Hoge:** *Heavy problems with the story and the gamedesign.*  
 > *When we started with Gothic back then, it was my idea to implememt a multiplayer mode with story. Since then we have spend many days and weeks with the solution of multiplayer problems, because we wanted to implement the feature at all costs.*  
 > *Relatively early it became clear to us, how many problems are involved in that, especially concerning the missions (which come last in the development process).*  
-
 <!-- Einige Beispiele:  
 Problem: Die Missionen von Gothic bauen teilweise aufeinander auf. Es gibt Packs von 5 oder 6 Missionen, die teilweise aufeinander folgen müssen aber auch teilweise parallel verlaufen können. Spieler A nimmt Mission 1a an. Mission 1b kann erst losgehen, sobald Mission 1a gelöst wurde. Spieler B spricht mit dem Auftraggeber, kurz nachdem Spieler A Mission 1a gelöst hat und bekommt Mission 1b OHNE Mission 1a gemacht zu haben oder überhaupt zu kennen. Das ist Mist. -->
 > *Some examples:*  
@@ -88,7 +89,7 @@ Problem: Die Missionen von Gothic bauen teilweise aufeinander auf. Es gibt Packs
 <!-- Mögliche Lösungen:
 1. Spieler B bekommt die Mission nicht - alle Missionen dieses Strangs müssen von Spieler A gemacht werden -> Scheißlösung, denn wir müssten uns bei 5 Spielern 5 mal so viele Missionen einfallen lassen.
 2. Einer der Spieler bekommt immer alle Missionen, und die anderen müssen ihm "unfrei" als Party folgen -> Problem: Jeder möchte gerne Missionen annehmen können.
-UND: So würden immer alle Spieler überall gemeinsam hinlaufen. (Das wiederum ist ein weiteres Problem)-->
+UND: So würden immer alle Spieler überall gemeinsam hinlaufen. (Das wiederum ist ein weiteres Problem) -->
 > *Possible solutions:*  
 > *1. Player B doesn't get the mission - all the missions of this string must be done by player A -> shitty solution, because in case of 5 players we would need to come up with 5 times as many missions.*
 > *2. One of the players always gets all the missions and the others need to follow him "unfree" as a party -> Problem: Everyone wants to be able to accept missions.*  
@@ -143,9 +144,7 @@ The (singleplayer) story of course has to have priority, as it is the basis of e
 
 ## Phoenix Multiplayer
 
-The Phoenix multiplayer is divided into three sections, that can be chosen from the Multiplayer menu; notes about the [Interface (lobby)](/#lobby) are to be found at the end of the document. 
-
-There is the (1) *Story Mode* for up to 5 players, plus *"Short Stories"*, there is (2) the *Freeplay Mode* and there is what I call (3) *Scenarios* where each scenario is possible to be played in one or more different "modes". 
+The Phoenix multiplayer - if ever realised - will be divided into three sections, that can be chosen from the Multiplayer menu. There is the (1) *Story Mode* for up to 5 players, plus *"Short Stories"*, there is (2) the *Freeplay Mode* and there is what I call (3) *Scenarios* where each scenario is possible to be played in one or more different "modes". 
 
 
 ### Story Mode
@@ -331,12 +330,12 @@ One team has all the available shadow tactics and tools, the others are bodyguar
 #### Convoy
 
 One team needs to get a convoy from A to B, the other team has to attack them. The interesting part is that the attacker team can chose a few different spawn points to attack from somewhere else and the convoy team, while starting as always, can decide to take a different route; this leads to surprises and different tactics. The game is over when
-* the convoy reaches a mine (trigger zone) or
-* the attackers have acquired the delivery.
+* the convoy reaches the destination (trigger zone) or
+* the attackers have acquired the delivery before that
 
 The delivery can be a cart drawn by an orc slave, a message by someone who is escorted or a backpack. There can be npcs involved who move the cart and the convoy guards can give instructions, but there could also be players taking the delivery upon them and wearing the backpack etc. This way they can also try to run away from attackers; which most likely will happen at a point, to evade the attackers and reach the mine, so its also a kind of escape-game. 
 
-Possible Scenarios are:
+Exemplatory Scenarios (in the Colony) are:
 * OC to EP
 * OC to OM
 * FC to NC
