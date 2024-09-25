@@ -228,52 +228,79 @@ Freeplay could potentially be combined with a hardcore Permadeath (the possibili
 
 ### Scenarios
 
-* **Arena:** Battles in various smaller or larger, literal or metaphorical "arenas" from the game. Arena may be played in multiplayer in form of Deathmatch (1vs1), in form of Team Deathmach (e.g. 2vs2), in Coop against hostile NPCs or even in Singleplayer against NPCs, in which case the Arenas serve as well as practice of the combat/magic system in general.  
+Apart from the entire gameworld, as being used in the Story and in Freeplay, there are also separated multiplayer levels, which we call *Scenarios*, that can be selected in a level selection menu. 
 
-* **Survival:** Fight agaimst waves of enemies to survive  (e.g. survive against human opponents or against harder and harder monsters in the Arena, survive against the Orcs in the Outside Ring, survive against the Revolt in the Castle, survive against the Madmen at the Pass etc.); the waves may have a fixed number or may be endless with the potential of player rankings by the maximum time they manage to survive.  
- 
-These modes may be possible to be played with various multiplayer characters that have to be unlocked in story mode (as well as the arenas themselves). 
+Each level appears under its specific name and either a screen or a short video (as in the 0.64 main menu), with tags below that tell which multiplayer mode(s) the level can be played in.  
+
+There are six multiplayer modes (apart from Freeplay and Story):
+
+* *Arena*
+* *Survival*
+* *Raid*
+* *Assassination*
+* *Convoy*
+* *OreStrike*
 
 
-**Author:** Flosha
-**Dated:** 03.11.2022
+#### Arena 
+
+Battles in various smaller or larger, literal or metaphorical "arenas" from the game. May be played in form of Deathmatch (1vs1), Team Deathmach (e.g. 2vs2) for larger arenas, in Coop against hostile NPCs or even in Singleplayer against NPCs, in which case the Arenas can serve as well as practice of the combat/magic system in general.  
+
+Most arena levels can be played in both Arena and Survival mode. The levels are unlocked by playing the Singleplayer. 
+
+A timer is running and players respawn with a short delay; the fight is going on until the time is over, who has more points wins. 
+
+Ideas: Instead of points given for killing enemies only (or at all), we could make it more tactical and stylish and create a better flow by giving points only for (1) silent kills, (2) parades, (3) evasions, (4) healing of friends, ...? This will be possible to think through better when the combat system has been done, which will make Deathmatch in Phoenix more interesting than it would be in Gothic now.  
+
+Arena as well as survival may be possible to be played by various multiplayer characters that have to be unlocked in story mode (just as the arenas themselves). 
+
+
+#### Survival
+
+> "The goal is to survive and to escape".
+
+Fight against waves of enemies, either alone or as a team of friends against AI. The number of players (up to 5), which enemies will spawn and how many in how many waves will depend on the level and is pre-scripted. 
+
+An "Endless Survival" mode can be selected with the potential of player rankings by the maximum time they manage to survive.  
+
+A similar thing has been done already for Vanilla Gothic in form of the "Left 4 Gothic" mod. 
+{: .info }
+
+Examplatory Survival Scenarios:  
+* **Old Arena**: A fight against all kinds of human warriors becoming progressively stronger. 
+ * **Orgy Madness**: The orgy going wrong; a big fight inside the Swamp where everyone is suddenly going mad; dead novices wake up again, possessed by the Sleeper. 
+ * **In Flames**: Secret <!-- The Firemages fight against waves of guards and shadows coming; when all the mages are dead, another level is loaded as a bonus, where you play Corristo in the prison. The player who survived the longest gets to play Corristo, the others watch. He is alone but with mightier spells, more room to move and some possibilities to interact with the environment. -->
+ * **Orc Assault**: Survive against the Orcs in the Outside Ring.
+ * **Death to the Barons**: A fight in the castle, where the player can be one of the five barons and they try to survive against the waves of shadows and diggers storming the castle. 
+ * **Orc Arena**: A fight against all kinds of monsters and orcs with progressive difficulty.
+ * **Bloodnight**: Survive against the Madmen at the Pass. 
+ * **The Great Hall**: A fight against waves of undead in the great temple hall.
+ * **Demon Invasion**: You are in the demon world and have to survive against all kinds of demons, illusions etc., spawning all around you. 
+
+Since these levels are more about the fighting, we keep it fair and fun and simplify things; instead of the need to grab an item with an animation, items will spawn as fat floating items you just have to run through as in Retro Mode. In some levels, like the *Old Arena* or *In Flames*, those items will spawn at specific points in the map like in Unreal Tournament. In other levels, like in *Orgy Madness*, the *Great Hall* and *Demon Invasion*, the enemies will drop stuff. This way the player can regenerate health during the waves and sometimes mid battle. Health immediately heals you, mana fills up immediately etc.
+
+
+#### Raid
+
+This mode is a mixture of survival and Team Deathmatch. In difference to Survival it doesn't only go against AI (which remains an option in lack of players); so there are two teams, both playable and both teams respawn. The difference to Team Deathmatch is, that there is an overarching goal like "raid the mine", that there are rounds, that you can only respawn in the next round and that the spawn points change with every round. A round is over as soon as all members of one team of a given round are killed or when a specific time has passed. 
+
+The attacking team is called "Raiders", the defending team is called "Defenders", but that can change depending on the level and the corresponding lore or background of those teams.
+
+Examplatory Scenario:
+* **FM Raid:** A fight around and within the mine leading you deeper and deeper. The more the raiders can push the miners down, the faster the respawn points are set deeper. The miners lose when they reach the natural caves, where the last survivors can escape; this ends the round (if we should also include a kind of campaign, where two teams need to fight through different raids one after another, these escapes should give bonus points inspite of loosing). They win when they can hold the enemies back long enough until some help from the New Camp arrives. 
+
+
+#### Assassination
+
+One team has all the available shadow tactics and tools, the others are bodyguards. The target is an npc that goes specific routes and the bodyguards can only influence the route slightly. They can talk to the npc and convince him to go another route, which will lead to different scenarios each round. The target is the boss of the bodyguards, thus he gives instructions to the players, he will send some of them away to guard at another spot and will become angry if they keep surrounding him all alone. Here think of the Multiplayer of Splinter Cell 2. 
+
 
 
 
 For this to be realised, it has also to be possible for player characters to speak with each other; where the friends are usually saying the dialogues that are known from the singleplayer. 
 
-### Diego
-Story...
-
-### Milten
-Story...
-
-### Lester
-Story....
-
-### Gorn
-Story.... 
 
 
-
-
-
-
-## Deathmatch
-
-Regular deathmatch and team deathmatch (depending on level size) in a collection of levels unlocked by playing the Singleplayer. A timer is running and players respawn with a short delay; fight is going on until the time is over, who has more points wins. 
-
-Instead of points given for killing enemies only (or at all), we could make it more tactical and stylish and thereby create a better flow by giving points only for (1) silent kills, (2) parades, (3) evasions, (4) healing of friends, ...? 
-
-
-### Scenarios
-
-The so-called scenarios are a collection of five additional multiplayer modes: 
-*Survival*, *Raid*, *Assassination*, *Convoy* and *OreStrike*.
-
-
-Survival, Raid, Assassination, Convoy and OreStrike levels will appear on the right and will not be differentiated by their specific mode. Instead the interface will be divided by "scenarios". 
-Each scenario appears under its specific name with tags behind that tell which mode(s) are possible to play it in. Like this:
 
 
 ### Unlocking Characters and Levels
@@ -305,37 +332,16 @@ DISSOLVE:
 
 
  
-
-
-#### Survival
-
-"The goal is to survive and to escape".
-Either alone or as a team of friends against AI. The number of players (up to 5), which enemies will spawn and how many in how many waves will depend on the level and is pre-scripted. 
-
- * **Old Arena**: A fight against all kinds of human warriors becoming progressively stronger. 
- * **Orgy Madness**: The orgy going wrong; a big fight inside the Swamp where everyone is suddenly going mad; dead novices wake up again, possessed by the Sleeper. 
- * **In Flames**: The Firemages fight against waves of guards and shadows coming; when all the mages are dead, another level is loaded as a bonus, where you play Corristo in the prison. The player who survived the longest gets to play Corristo, the others watch. He is alone but with mightier spells, more room to move and some possibilities to interact with the environment.
- * **Death to the Barons**: A fight in the castle, where the player can be one of the five barons and they try to survive against the waves of shadows and diggers storming the castle. 
- * **Orc Arena**: A fight against all kinds of monsters and orcs with progressive difficulty.
- * **The Great Hall**: A fight against waves of undead in the great temple hall.
- * **Demon Invasion**: You are in the demon world and have to survive against all kinds of demons, illusions etc., spawning all around you. 
+ 
    
 In this way, as in the story bonus levels, we use multiplayer maps to expand the storytelling. 
 
-Since these levels are more about the fighting, we keep it fair and fun and simplify things; instead of the need to grab an item with an animation, items will spawn as fat floating items you just have to run through as in Retro Mode. In some levels, like the *Old Arena* or *In Flames*, those items will spawn at specific points in the map like in Unreal Tournament. In other levels, like in *Orgy Madness*, the *Great Hall* and *Demon Invasion*, the enemies will drop stuff. This way the player can regenerate health during the waves and sometimes mid battle. Health immediately heals you, mana fills up immediately etc.
 
 
-#### Raid
-
-This mode is a mixture of survival and Team Deathmatch. In difference to Survival it doesn't only go against AI (which remains an option in lack of players); so there are two teams, both playable and both teams respawn. The difference to Team Deathmatch is, that there is an overarching goal like "raid the mine", that there are rounds, that you can only respawn in the next round and that the spawn points change with every round. A round is over as soon as all members of one team of a given round are killed or when a specific time has passed. 
-The attacking team is called "Raiders", the defending team is called "Defenders", but that can change depending on the level and the corresponding lore/background of those teams.
-
-* **FM Raid:** A fight around and within the mine leading you deeper and deeper. The more the raiders can push the miners down, the faster the respawn points are set deeper. The miners lose when they reach the natural caves, where the last survivors can escape; this ends the round (if we should also include a kind of compaign, where two teams need to fight through different raids one after another, these escapes should give bonus points inspite of loosing). They win when they can hold the enemies back long enough until some help from the New Camp arrives. 
 
 
-#### Assassination
 
-One team has all the available shadow tactics and tools, the others are bodyguards. The target is an npc that goes specific routes and the bodyguards can only influence the route slightly. They can talk to the npc and convince him to go another route, which will lead to different scenarios each round. The target is the boss of the bodyguards, thus he gives instructions to the players, he will send some of them away to guard at another spot and will become angry if they keep surrounding him all alone. Here think of the Multiplayer of Splinter Cell 2. 
+
 
 
 #### Convoy
