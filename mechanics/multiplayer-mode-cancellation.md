@@ -20,14 +20,14 @@ We will at first deal with the reasons for the cancellation which were explained
 
 ``gothic.gomp.ch, 1999``
 <!-- > **Simon Moon:** Was war der Grund, daß der Multiplayermode abgesetzt wurde?-->
-> Simon Moon: *What was the reason for the cancellation of the multiplayer?*
+> **Simon Moon:** *What was the reason for the cancellation of the multiplayer?*
 
 <!--
 > **Mike Hoge:** Schwere Probleme mit der Story und dem Game-Design.
 Als wir damals mit Gothic angefangen haben, war es meine Idee, einen Multiplayer-Modus mit Story einzubauen.  
 Wir haben seitdem viele Tage und Wochen mit der Lösung von Multiplayer-Problemen verbracht, weil wir das Feature um jedem Preis einbauen wollten.  
 Relativ früh wurde uns klar, wie viele Probleme da dran hängen, vor allem was die Missionen (die bei der Entwicklung erst als letztes kommen) betrifft. -->
-> Mike Hoge: *Heavy problems with the story and the gamedesign.*  
+> **Mike Hoge:** *Heavy problems with the story and the gamedesign.*  
 > *When we started with Gothic back then, it was my idea to implememt a multiplayer mode with story. Since then we have spend many days and weeks with the solution of multiplayer problems, because we wanted to implement the feature at all costs.*  
 > *Relatively early it became clear to us, how many problems are involved in that, especially concerning the missions (which come last in the development process).*  
 
@@ -40,16 +40,24 @@ Problem: Die Missionen von Gothic bauen teilweise aufeinander auf. Es gibt Packs
 1. Spieler B bekommt die Mission nicht - alle Missionen dieses Strangs müssen von Spieler A gemacht werden -> Scheißlösung, denn wir müssten uns bei 5 Spielern 5 mal so viele Missionen einfallen lassen.
 2. Einer der Spieler bekommt immer alle Missionen, und die anderen müssen ihm "unfrei" als Party folgen -> Problem: Jeder möchte gerne Missionen annehmen können.
 UND: So würden immer alle Spieler überall gemeinsam hinlaufen. (Das wiederum ist ein weiteres Problem)-->
+> *Possible solutions:*  
+> *1. Player B doesn't get the mission - all the missions of this string must be done by player A -> shitty solution, because in case of 5 players we would need to come up with 5 times as many missions.*
+> *2. One of the players always gets all the missions and the others need to follow him "unfree" as a party -> Problem: Everyone wants to be able to accept missions.*  
+> *AND: This way, all the players would then run everywhere together (which in turn is another problem).*  
 
-
-Weiteres Problem: Rennen immer alle Spieler in denselben Dungeon (was teilweise aufgrund der voranschreitenden Story nicht zu vermeiden ist, denn wenn das z.B. große Portal zum uralten Tempel aufgeht und alle NSCs rennen hin und plündern, dann wollen die Spieler natürlich alle mit von der Partie sein), dann können viele kleine feine Sachen in der Story so nicht stattfinden, weil die Herausforderung für einen Spieler einfach in einem magisch- psionischen- pfeilgespickten und blutsprizenden Inferno von 5 Spielern zunichte gemacht wird.
-Wir wollen kein Diablo machen.
-
+<!-- Weiteres Problem: Rennen immer alle Spieler in denselben Dungeon (was teilweise aufgrund der voranschreitenden Story nicht zu vermeiden ist, denn wenn das z.B. große Portal zum uralten Tempel aufgeht und alle NSCs rennen hin und plündern, dann wollen die Spieler natürlich alle mit von der Partie sein), dann können viele kleine feine Sachen in der Story so nicht stattfinden, weil die Herausforderung für einen Spieler einfach in einem magisch- psionischen- pfeilgespickten und blutsprizenden Inferno von 5 Spielern zunichte gemacht wird.
+Wir wollen kein Diablo machen. --> 
+> *Additional problem: When all the players always run into the same dungeon (which is partially unavoidable due to the proceeding story, because when the portal to the ancient temple opens and all the NPCs run there and plunder, the players of course want to take part in it), then many small, nice things in the story can't happen like that, because the challenge for one player will just vanish in a magic, psionic, arrow-studded and blood-splattering Inferno of 5 players. We don't want to make Diablo.*  
 
 ----
 
-Flosha Lösung:
-Der Multiplayer basiert auf dem Held und den vier Freunden. Darum ist die konsequenteste und zugleich die interessanteste Lösung eine Kombination von 1 und 2. Es ist nur konsequent, dass die vier Freunde in vielen Fällen NICHT die Missionen erhalten, die der Held bekommt, die sind auf ihn als Charakter zugeschnitten und abhängig von seinen Entscheidungen. In einigen Fällen KÖNNEN die vier Freunde eine Mission erfüllen, die andernfalls der Held erledigen könnte; in keinem Fall aber kann dieselbe Mission von mehreren Spielern angenommen werden. 
+## Critique of Impure Reason
+
+**Flosha:** In his answers, Mike gives the impression as if in the multiplayer there would be up to 5 players which are all on the same level, probably all convicted together and then developing their character at will.  
+But the multiplayer was based on the idea of one nameless hero and the four friends. The four friends are convicted already, they already have a guild and a place in the prison hierarchy as well as an associated class. 
+
+
+Darum ist die konsequenteste und zugleich die interessanteste Lösung eine Kombination von 1 und 2. Es ist nur konsequent, dass die vier Freunde in vielen Fällen NICHT die Missionen erhalten, die der Held bekommt, die sind auf ihn als Charakter zugeschnitten und abhängig von seinen Entscheidungen. In einigen Fällen KÖNNEN die vier Freunde eine Mission erfüllen, die andernfalls der Held erledigen könnte; in keinem Fall aber kann dieselbe Mission von mehreren Spielern angenommen werden. 
 
 Die Lösung ist also simpel:
 Einige Missionen funktionieren wie beschrieben in seiner Lösung 2: Die vier Freunde oder einer davon wird in manchen Fällen eine Mission mit einem anderen Spieler zusammen erledigen, die dieser angenommen hat. Andere Missionen müssen aber, wie in Lösung 1 beschrieben, exklusiv auf die jeweiligen Charaktere zugeschnitten sein. Genauso wie es also Missionen gibt, die nur der Held erhalten kann, so gibt es Missionen, die nur einem der vier Freunde gegeben wird basierend auf dem jeweiligen Charakter. Es mag eine "Scheißlösung" sein aufgrund des großen Aufwands, den das bedeutet. Aber es ist die konsequenteste Lösung, die zudem durch die spezifischen Storystränge der verschiedenen Charaktere im Multiplayer zusätzlichen Wiederspielwert bedeutet.
