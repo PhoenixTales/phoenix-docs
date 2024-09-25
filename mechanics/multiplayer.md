@@ -129,7 +129,7 @@ For the story mode, as the "heart" of the multiplayer, we start by different pre
 
 Gothic/Phoenix offers such individual characters in form of the four friends, alongside the nameless hero they are the five playable multiplayer characters:
 
-* `PC_PLAYER` (Hero)
+* `PC_HERO` (Hero)
 * `PC_FIGHTER` (Gorn)
 * `PC_MAGE` (Milten)
 * `PC_PSIONIC` (Lester)
@@ -185,6 +185,8 @@ if Player is PC_PSIONIC, then TRUE
 
 Thus, depending on the character played, the NPCs would either talk to you or not and if talking to you they would only have dialogues specifically written with your particular character in mind. 
 
+It of course should also be possible at any given moment for player characters to speak with each other; the friends are usually saying the dialogues that are known from the singleplayer, but there may be some additional options in order to communicate some general important stuff: Exchange items with each other, agree upon meeting at a specific location at a given time etc. 
+
 But the reader may realise a difficulty of this approach to a multiplayer story: When e.g. the role of Diego is taken by another player, how can one make sure that the main hero and Diego meet at the desired time? For example: When the player is send to the troll canyon and Diego is already there. How can this work, since the player in the role of Diego may be finished already before the main hero arrives? 
 
 **Coop Missions:**  
@@ -228,9 +230,11 @@ Freeplay could potentially be combined with a hardcore Permadeath (the possibili
 
 ### Scenarios
 
-Apart from the entire gameworld, as being used in the Story and in Freeplay, there are also separated multiplayer levels, which we call *Scenarios*, that can be selected in a level selection menu. 
+Apart from the entire gameworld, as being used in the Story and in Freeplay, there are also separated multiplayer levels, which we call *Scenarios*.
 
-Each level appears under its specific name and either a screen or a short video (as in the 0.64 main menu), with tags below that tell which multiplayer mode(s) the level can be played in.  
+In form of these Scenarios, similar to the Short stories, we can use multiplayer maps to expand the storytelling. 
+
+The Scenarios can be selected in a level selection menu. Each level appears under its specific name and either a screen or a short video (as in the 0.64 main menu), with tags below that tell which multiplayer mode(s) the level can be played in.  
 
 There are six multiplayer modes (apart from Freeplay and Story):
 
@@ -292,118 +296,108 @@ Examplatory Scenario:
 
 #### Assassination
 
-One team has all the available shadow tactics and tools, the others are bodyguards. The target is an npc that goes specific routes and the bodyguards can only influence the route slightly. They can talk to the npc and convince him to go another route, which will lead to different scenarios each round. The target is the boss of the bodyguards, thus he gives instructions to the players, he will send some of them away to guard at another spot and will become angry if they keep surrounding him all alone. Here think of the Multiplayer of Splinter Cell 2. 
+One team has all the available shadow tactics and tools, the others are bodyguards. The target is an npc that goes specific routes and the bodyguards can only influence the route slightly. They can talk to the npc and convince him to go another route, which will lead to different scenarios each round. The target is the boss of the bodyguards, thus he gives instructions to the players, he will send some of them away to guard at another spot and will become angry if they keep surrounding him all alone. Here think of the Multiplayer of Splinter Cell 2, which should inspire us. 
 
 
+#### Convoy
+
+One team needs to get a convoy from A to B, the other team has to attack them. The interesting part is that the attacker team can chose a few different spawn points to attack from somewhere else and the convoy team, while starting as always, can decide to take a different route; this leads to surprises and different tactics. The game is over when
+* the convoy reaches a mine (trigger zone) or
+* the attackers have acquired the delivery.
+
+The delivery can be a cart drawn by an orc slave, a message by someone who is escorted or a backpack. There can be npcs involved who move the cart and the convoy guards can give instructions, but there could also be players taking the delivery upon them and wearing the backpack etc. This way they can also try to run away from attackers; which most likely will happen at a point, to evade the attackers and reach the mine, so its also a kind of escape-game. 
+
+Possible Scenarios are:
+* OC to EP
+* OC to OM
+* FC to NC
+* PSI to OC
 
 
-For this to be realised, it has also to be possible for player characters to speak with each other; where the friends are usually saying the dialogues that are known from the singleplayer. 
+#### Ore Strike
 
+Alongside Act II we may add an additional bombing mode, where an orebomb has to be placed at one of two or three spots like in Counter Strike. 
 
+An examplatory scenario could be the whole castle with a closed gate plus prison. One bomb could be placed in the tower, one in the prison somewhere and one in the chapel or so. As in Assassination, players can use their thief skills (hide in shadows and other abilities) to make it hard to get catched. 
+  
+---
 
-
-
-### Unlocking Characters and Levels
+#### Unlocking Content
 
 Characters and levels are unlocked by progression in the Singleplayer or the Story Coop.
 
-
-* The OC Arena right from the start (Deathmatch and Survival). 
+Examplatory Level Unlocking Conditions:  
+* The OC Arena available right from the start (Deathmatch and Survival). 
 * The Castle will be available after completing CH1 as Stt, Grd or KdF (Deathmatch).
 * The Temple Tree will be available after completing CH1 as a Psionic (Deathmatch).
 * The Orgy Madness after completion of CH2. 
 * The OC Prison will be available in CH3 (Deathmatch and Survival).
 * "In Flames" when completing CH4 as a Mage. (Survival)
 * "FM Raid" when completing CH4 (Raid).
-* The Orc Arena when completing CH4 (Deathmatch and Survival).
+* The Orc Arena when completing CH5 (Deathmatch and Survival).
 * The Temple LV2 Main Hall after completing CH5 (Deathmatch and Survival).
-* "Death to the Barons" when completing CH4. 
-* The Sleepers Block after completing CH6 (Deathmatch or All against Sleeper). 
+* "Death to the Barons" when completing CH5. 
+* The Sleepers Block after completing CH6 (Deathmatch or "All against Sleeper"). 
 * The MST Headquarter after completing the Singleplayer as Mst.
 * The Revolt (Rise of the Barons) when completing the Singleplayer as Ebr.
 * The Bloodnight in the New Camp when completing the Story Coop with Gorn.
 * Demon Invasion when completing the game on Nightmare Difficulty.
 
+Some characters may be unlocked when you made a quest for them in the singleplayer.
 
+Examplatory Character Unlocking Conditions:  
+* Namib becomes available when you joined the Psionics.
+* Raven becomes available when completing the feverdream mode as a OC loyalist
+* Lee when doing so as a NC loyalist
+* Angar when doing so as Psi
+* YBerion will only become available when you complete the whole game in the Nightmare mode
+* Xardas will be unlocked when completing the whole game in the Madness mode
 
-DISSOLVE:
-* Unlocking of Singleplayer Faces, Bonus Coop Levels and Multiplayer Levels/Characters
-* Some characters are unlocked when you made a quest for them in the singleplayer. For instance, Namib becomes available when you joined the Psionics. Raven becomes available when completing the feverdream mode as a OC loyalist, Lee when doing so as a NC loyalist, Angar when doing so as Psi. YBerion will only become available when you complete the whole game in the Nightmare mode. Xardas will be unlocked when completing the whole game in the Madness mode. This way you are rewarded. In the multiplayer mode they will be hidden but you will see something like: "Unlock this character by completing the game in xy mode."
-
-
- 
- 
-   
-In this way, as in the story bonus levels, we use multiplayer maps to expand the storytelling. 
-
-
-
-
-
-
-
-
-
-#### Convoy
-
-One team needs to get a convoy to the exchange place or a mine, the other team has to attack them. The interesting part is that the attacker team can chose a few different spawn points to attack from somewhere else and the convoy team, while starting as always, can decide to take a different route. the game is over when
-* the delivery reaches a mine (trigger zone) or
-* the attackers have acquired the delivery.
-
-The delivery can be a cart drawn by an orc slave, a message by someone who is escorted or a backpack. There can be npcs involved who move the cart and the convoy guards can give instructions, but there could also be players taking the delivery upon them and wearing the backpack etc. This way they can also try to run away from attackers; which most likely will happen at a point, to evade the attackers and reach the mine, so its also a kind of escape-game. 
-
-Levels are:
-* OC to EP
-* OC to OM
-* FC to NC
-* PSI to OC
-
-#### OreStrike
-
-With Nemesis we may add an additional bombing mode, where an orebomb has to be placed at one of two or three spots like in CounterStrike. 
-One level could be the whole Castle with a closed gate plus prison. One bomb could be placed in the tower, one in the prison somewhere and one in the chapel or so. As in Assassination, players can use their thief skills (hide in shadows and other abilities) to make it hard to get catched. 
-  
-
+This way we can reward the player and can give some additional incentives to play the game on higher difficulties. In the multiplayer mode they may be hidden or only hinted at by shadows, while one may see something like: "Unlock this character by ..."
 
 
 ### Multiplayer Interface
 
-In the Multiplayer Main Menu, he has the following choices:
+In the Multiplayer Main Menu, one may have the following choices:
 
 ```
-* Story Coop
-* Deathmatch
-* Scenario
+* Story
+  * Main Story
+  * Bonus Stories
+* Freeplay
+* Scenarios
 ```
 
-If he chooses Story Coop, he will immediately go into an extra Story-Coop lobby. Because for the story coop we assume that the player wants to do this with a friend and they can find each other there by sharing their data instead of being in a lobby with douzens of available coop sessions.
+If he chooses Story Mode, he will go into an extra Story Mode lobby. For the story coop we assume that the player wants to do this with a friend and they can find each other there by sharing their data instead of being in a lobby with douzens of available coop sessions.
 
-If he chooses Deathmatch or Scenario he will receive a prompt:
+If he chooses Deathmatch or Scenario he will receive a prompt like:
 
 "What do you want?"
 * Host a Session
 * Join a Session
 
 If he chooses "Host a Session", he will be led to the level/scenario selection menu. 
-Upon selection of either Deathmatch or Scenarios in the multiplayer menu, a list of all levels will appear. In Deathmatch, those who aren't unlocked yet will be greyed out and are not selectable. In the Scenarios, those who aren't unlocked yet *are* selectable but are displayed in a different colour. Upon selection of a locked scenario, a text appears on a new menu-subpage that tells the player what he has to achieve in order to unlock it. 
-When an unlocked level is selected, the player lands on a new page with an image of the chosen level in the middle. A short descriptive text of the scenario and the mode it is played in. Here he has only two choices: Go Back or "Host Scenario" or "Host Deathmatch".
 
-If he selects: Join a Session, he will be in a lobby that is a simple list of all available sessions in a frame. In the scenario he can toggle different modes on or off; so that he only sees survival, only assassinations etc. They are displayed by their respective scenario/level name, a tag behind them showing the mode and in brackets how full the server is and how many can join + the name of the host (when he hosts a session, he has to give himself a name) that will appear here, for instance:
+A list of all levels will appear in form of images or short videos of the levels, that can be switched through horizontally with ``Arrow Left/Right``. Those who aren't unlocked yet *are* selectable but are displayed in a different colour, perhaps greyed out. Upon selection of a locked scenario, a text appears on a new menu-subpage that tells the player what he has to achieve in order to unlock it. Alternatively it may immediately be displayed on top of it.  
+Under the image there is a short descriptive text of the scenario and tags of the availablr modes it is playable in. Here he has only two choices: Go Back or "Host Level". 
 
-* OC Arena (1/2) [flosha] #Deathmatch 
-* OC Arena (1/2) [logx] #Survival 
-* OC Castle (2/10) [Arbax] #Deathmatch 
-* In Flames (1/5) [Auronen] #Survival 
-* Free Mine (10/20) [Dima] #Raid
+If he selects "Join a Session" he will be in a lobby that is a simple list of all available sessions in a frame. 
 
-and so on.
+At the top he can toggle different modes on or off; so that he only sees survival, only assassinations etc. They are displayed by their respective scenario/level name, a tag behind them showing the mode and in brackets how full the server is and how many can join + the name of the host (when he hosts a session, he has to give himself a name) that will appear here, for instance:
 
-
+* Old Arena (1/2) [flosha] #Deathmatch 
+* Orc Arena (1/2) [logx] #Survival 
+* Prison Castle (5/10) [Arbax] #Deathmatch 
+* In Flames (3/5) [Auronen] #Survival 
+* Free Mine (10/20) [Avallach] #Raid
 
 
 #### Lobby
 
-Upon selection of a Deathmatch level or a scenario, the player lands in the multiplayer lobby, where other players join and the character selection happens. Ideally, the characters would be switched through by Arrow-Left and Right and rendered in 3D with an idle animation; if not possible, pre-rendered images may be used or simply text. Just as with the levels, every character can be selected, but locked characters will be named "Locked Character" with a text underneath that tells the player what he has to achieve in order to unlock it. 
+Upon selection of a running session the player lands in the multiplayer lobby, where other players join and the character selection happens. 
+
+Ideally the characters would be switched through by Arrow-Left and Right and rendered in 3D with an idle animation; alternatively, pre-rendered images may be used. Just as with the levels, every character can be selected, but locked characters will be named "Locked Character" with a text underneath that tells the player what he has to achieve in order to unlock it (or it may not, in order for players to find it out for themselves).  
+
 Ideally, the focus would be put on the character selection and on showing the characters specific stats (attributes, skills and equipment), while there would be a little chat window and an info box where the player can see if others are joining; the character selection has to happen by first switching to a character and pressing Enter. If a character is selected, this same character cannot be selected by other players anymore. 
 
-You also should be able to play with exactly your character as he is equipped at that specific point in your singleplayer game; but only one PC_HERO should be allowed to be played in each session.
+It also would be cool if one would be able to play with exactly his character as he is equipped at that specific point in the singleplayer campaign; but only one `PC_HERO` should be allowed to be played in each session.
