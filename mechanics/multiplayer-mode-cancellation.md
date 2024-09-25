@@ -1,13 +1,22 @@
 # Multiplayer
 
-``Author: Flosha``
+``Author: Flosha``  
 ``25.09.2024``
 
-From the very beginning of the development, Gothic had always been promoted as having a multiplayer. It was an essential part of the project that they wanted to realise, mentioned in every interview and several times did let it seem that they are actually proud of the design concept of their multiplayer, which was meant to be different than what players knew at the time. 
+From the very beginning of the development, Gothic had always been promoted as having a multiplayer. It was an essential part of the project that they wanted to realise, mentioned in every interview and several times did let it seem that they are actually proud of the concept behind their multiplayer, which was meant to be different than what players knew at the time. 
 
 ``Add quotes``
 
-But then, somewhen in 1999, after 3+ years already had been spend to realise it, it was announced, that the multiplayer has been cancelled by the developer. 
+It was meant to be playable by 5 to 8 players (the announced numbers always varied in course of time) and only in local networks via LAN (online was too slow at the time).  
+
+``Add quotes``
+
+But then, somewhen in 1999, after 3+ years already had been spend to realise it, it was announced that the multiplayer has been cancelled by the developer. 
+
+We will at first deal with the reasons for the cancellation which were explained in detail by Mike, before offering a critique of that reasoning from our perspective and in the context of our design philosophy. 
+
+
+## Reasons for the Cancellation
 
 ``gothic.gomp.ch, 1999``
 <!-- > **Simon Moon:** Was war der Grund, daß der Multiplayermode abgesetzt wurde?-->
@@ -18,19 +27,21 @@ But then, somewhen in 1999, after 3+ years already had been spend to realise it,
 Als wir damals mit Gothic angefangen haben, war es meine Idee, einen Multiplayer-Modus mit Story einzubauen.  
 Wir haben seitdem viele Tage und Wochen mit der Lösung von Multiplayer-Problemen verbracht, weil wir das Feature um jedem Preis einbauen wollten.  
 Relativ früh wurde uns klar, wie viele Probleme da dran hängen, vor allem was die Missionen (die bei der Entwicklung erst als letztes kommen) betrifft. -->
-> Mike Hoge: *Heavy problems with the story and the gamedesign.
-> When we started with Gothic back then, it was my idea to implememt a multiplayer mode with story. Since then we have spend many days and weeks with the solution of multiplayer problems, because we wanted to implement the feature at all costs.
-> Relatively early it became clear to us, how many problems are involved in that, especially concerning the missions (which come last in the development process).
-> Some examples:
-> Problem: The missions of Gothic, in some cases, build on each other. There are packs of 5 or 6 missions, which partially must follow each other, but can also partially run parallel. Player A accepts Mission 1a. Mission 1b can only start when Mission 1a was solved. Player B speaks with the mission giver, shortly after player A has solved
+> Mike Hoge: *Heavy problems with the story and the gamedesign.*  
+> *When we started with Gothic back then, it was my idea to implememt a multiplayer mode with story. Since then we have spend many days and weeks with the solution of multiplayer problems, because we wanted to implement the feature at all costs.*  
+> *Relatively early it became clear to us, how many problems are involved in that, especially concerning the missions (which come last in the development process).*  
 
-Einige Beispiele:  
-Problem: Die Missionen von Gothic bauen teilweise aufeinander auf. Es gibt Packs von 5 oder 6 Missionen, die teilweise aufeinander folgen müssen aber auch teilweise parallel verlaufen können. Spieler A nimmt Mission 1a an. Mission 1b kann erst losgehen, sobald Mission 1a gelöst wurde. Spieler B spricht mit dem Auftraggeber, kurz nachdem Spieler A Mission 1a gelöst hat und bekommt Mission 1b OHNE Mission 1a gemacht zu haben oder überhaupt zu kennen. Das ist Mist.
+<!-- Einige Beispiele:  
+Problem: Die Missionen von Gothic bauen teilweise aufeinander auf. Es gibt Packs von 5 oder 6 Missionen, die teilweise aufeinander folgen müssen aber auch teilweise parallel verlaufen können. Spieler A nimmt Mission 1a an. Mission 1b kann erst losgehen, sobald Mission 1a gelöst wurde. Spieler B spricht mit dem Auftraggeber, kurz nachdem Spieler A Mission 1a gelöst hat und bekommt Mission 1b OHNE Mission 1a gemacht zu haben oder überhaupt zu kennen. Das ist Mist. -->
+> *Some examples:*  
+> *Problem: The missions of Gothic, in some cases, build on each other. There are packs of 5 or 6 missions, which partially must follow each other, but can also partially run parallel. Player A accepts Mission 1a. Mission 1b can only start when Mission 1a was solved. Player B speaks with the mission giver, shortly after player A has solved mission 1a and gets mission 1b **without** having done or even to know mission 1a. That is crap.*  
 
-Mögliche Lösungen:
-1. Spieler B bekommt die Mission nicht - alle Missionen dieses Strangs müssen von Spieler A gemacht werden --> Scheißlösung, denn wir müssten uns bei 5 Spielern 5 mal so viele Missionen einfallen lassen.
-2. Einer der Spieler bekommt immer alle Missionen, und die anderen müssen ihm "unfrei" als Party folgen --> Problem: Jeder möchte gerne Missionen annehmen können.
-UND: So würden immer alle Spieler überall gemeinsam hinlaufen. (Das wiederum ist ein weiteres Problem)
+<!-- Mögliche Lösungen:
+1. Spieler B bekommt die Mission nicht - alle Missionen dieses Strangs müssen von Spieler A gemacht werden -> Scheißlösung, denn wir müssten uns bei 5 Spielern 5 mal so viele Missionen einfallen lassen.
+2. Einer der Spieler bekommt immer alle Missionen, und die anderen müssen ihm "unfrei" als Party folgen -> Problem: Jeder möchte gerne Missionen annehmen können.
+UND: So würden immer alle Spieler überall gemeinsam hinlaufen. (Das wiederum ist ein weiteres Problem)-->
+
+
 Weiteres Problem: Rennen immer alle Spieler in denselben Dungeon (was teilweise aufgrund der voranschreitenden Story nicht zu vermeiden ist, denn wenn das z.B. große Portal zum uralten Tempel aufgeht und alle NSCs rennen hin und plündern, dann wollen die Spieler natürlich alle mit von der Partie sein), dann können viele kleine feine Sachen in der Story so nicht stattfinden, weil die Herausforderung für einen Spieler einfach in einem magisch- psionischen- pfeilgespickten und blutsprizenden Inferno von 5 Spielern zunichte gemacht wird.
 Wir wollen kein Diablo machen.
 
