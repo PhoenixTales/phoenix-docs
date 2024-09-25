@@ -33,15 +33,15 @@ Most players may not know or remember much of what the Gothic multiplayer was me
 > Mike: Yes. But we plan to allow only characters of the same level to join a game, to keep the game balance intact. As we started with GOTHIC, I imagined a game where you can play several hours in single player mode, then join a game with your friend and take your character with you and finally even take the improvements you`ve made in your multiplayer session back to your single player game...  
 > Tom: Just to explain: GOTHIC is divided into six chapters, and you can only join a game, if your characters are in the same chapter. (20.06.1998)
 
-They also claimed that the way that the multiplayer would be realised in Gothic is something new that has never been done (most likely refering to the goal of letting players seemlessly take their character back and forth between Single- and Multiplayer): 
+They also claimed that the way that the multiplayer would be realised in Gothic is something new that has never been done (most likely referring to the goal of letting players seemlessly take their character back and forth between Single- and Multiplayer): 
 
 > Stefan Nyul: We figured out a very smart design for the multiplayer mode. This will be something absolutely unique, never done before. But let us finish the implementation before talking of details. 
 > Tom Putzki: What can be said right now is the fact that GOTHIC can be played in a local network with up to five players. And about this unique feature I want to say... [he didn't say more] (14.11.1998)
 
-Mike: In the multiplayer game you can play through the whole story with up to 5 players. Its no deathmatch, although you can kill the other players if they let you :). Making the multiplayer game work the same way the singleplayer game does is in my eyes a unique feature many people will hopefully enjoy (and that btw cost us hell lots of design time). Compared to Online RPGs we have small player numbers, but a complex story and many living characters to explore... 
+> Mike: In the multiplayer game you can play through the whole story with up to 5 players. Its no deathmatch, although you can kill the other players if they let you :). Making the multiplayer game work the same way the singleplayer game does is in my eyes a unique feature many people will hopefully enjoy (and that btw cost us hell lots of design time). Compared to Online RPGs we have small player numbers, but a complex story and many living characters to explore... 
 (16.10.1999)
 
-As you see, the two interview quoted above are almost a whole year apart. In October 1999 the multiplayer was still in the making, at that point since 1997. 
+As you see, the two interviews quoted above are almost a whole year apart. In October 1999 the multiplayer was still in the making, at that point since 1997. 
 
 But very shortly after this, after 2-3 years had been spend with the feature, at some point at the end of 1999, it was announced that the multiplayer mode has been cancelled by the developer.  
 
