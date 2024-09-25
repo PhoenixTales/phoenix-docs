@@ -3,7 +3,6 @@
 ``Author: Flosha``  
 ``25.09.2024``
 
-Please be aware that nothing of what will be described here below is currently worked at. It is primarily an attest of a potential future realisation; of how the multiplayer story mode could be realised and of potential other mutliplayer modes that could fit into the game - much of which - or at least the technical framework of which - have already been realised in the community.  
 
 **Content:**
 * Alpha Multiplayer
@@ -11,9 +10,9 @@ Please be aware that nothing of what will be described here below is currently w
   * Critique of Impure Reason
 * Phoenix Multiplayer
   * Story Mode
-    * Main Plot Coop
+    * Fixed Roles
+    * Multi-Storytelling
     * Short Stories
-  * Arena
   * Scenarios
     * *Arena*
     * *Survival*
@@ -22,6 +21,9 @@ Please be aware that nothing of what will be described here below is currently w
     * *Convoy*
     * *OreStrike*
 
+
+Please be aware that nothing of what will be described in this article is currently worked at. It should be seen as an attest of a potential future realisation; of how a multiplayer story mode could be realised and of potential other mutliplayer modes that could fit very well into the game - much of which - or at least the technical framework of which - have already been realised in the community, but the specifics of which are our unique concepts.  
+{: .info }
 
 
 ## Alpha Multiplayer
@@ -88,7 +90,6 @@ Ich kann euch da draußen nur bitten, eine Sache zu bedenken: Die Entwicklung ei
 > *In the last months it became obvious, that there are still many of these story- and mission-problems. When you consider how much time we have put into the solution of the first few problems, you can imagine how long it would take, to figure the rest out reasonably. I completely understand that for the fans it appears to be like this, that at the beginning we have bragged about a multiplayer-storymode and now we cannot keep our promise.*
 > *I can only ask you out there, to consider one thing: The development of a game like Gothic usually takes 2-3 years. And it is impossible there, from the start, as a newcomer team with a handful of people, to estimate perfectly from the outset what is possible in 2-3 years and what not.*
 
-----
 
 ### Critique of Impure Reason
 
@@ -102,13 +103,31 @@ In my opinion, while all of the reasoning given makes sense and is understandabl
 
 As for the problem of not being able to accept the same mission or taking missions away from each other: This is a problem that is only present under the conditions that every mission can only be accepted once. Mike describes two solutions: (1) Either not allowing the other players to get the mission, which would result in the need to have extra missions for each player, which he describes as a very bad solution. Or (2) only allowing the main player to get missions with all the other players following him in a party, as it is done in many "isometric" rpgs. But obviously there is a third solution, as it is done in many MMORPGs: (3) Just isolating the story and missions of each player from each other and enabling them to accept and solve the missions either independently from the other players *or* in a party (of e.g. two). In order for the players to not be in the way of each other by doing so, while still being in the same world, it would be needed to e.g. prevent the acceptance of a mission as long as another player or party of players are currently doing the mission. In consequence this would result in e.g. a scenario like this: Two players are accepting a mission to find the mages apprentice in the troll canyon. When the mission is solved (while the other players did something else), the same mission can be accepted by the third player which may or may not form another party with the fourth and/or fifth player, upon which the apprentice is spawned again and so on. It works. But it is the worst solution of all, that is opposed to the Immersive Sim the most.
 
-But I will argue that all of this is irrelevant, looking at the problem from a wrong perspective. 
+So, how could we implement a real multiplayer story mode? 
 
-In his answers Mike gives the impression as if in the multiplayer there would be up to 5 players which are all on the same level, all convicted together, all without a guild and class and then developing their character at will. 
+I will argue that all of the points made before are irrelevant, as it is looking at the problem from a wrong perspective. 
 
-This approach is *of course* in conflict with the story. If the story is supposed to be believable, every character has to play a different role, have its own background story and so forth. It cannot be the same character (just looking differently) that is played by five players. It must be as it is in any good story-coop, where there are separate characters to be played. Never would or should a character say the same as another character or be told the same by NPCs as another character. The first solution, that Mike describes as very bad, is the only reasonable one. It is the only one that is in accordance with the design principles and the idea of a storydriven immersive sim rpg. 
+In his reply Mike gave the impression as if in the multiplayer there would be up to 5 players which are all on the same level, all convicted together, all without a guild and class and that every player should have been able to develop their character at will; the four friends in the Alpha Multiplayer should thus be seen only as *prototypes* of what the multiplayer characters could potentially be developed *into*.
 
-And the story offered such individual characters: The five playable multiplayer characters should be the nameless hero and the four friends:
+This approach is *of course* in conflict with the story. If the story is supposed to be believable, every character has to play a different role, have its own background story and so forth. It cannot be basically the same character (looking differently, but being interacted with by NPCs all the same), that is played by five players. And in this case it is of course totally unreasonable to develop five times as many missions to enable every one of these characters to experience the story in his own way while actually meant to be the same, as Mike imagined everyone to be the hero and no one with a fixed role. It is this premise that leads to all of the problems. 
+
+While speaking of compromises they didn't want to make with the story, for which they sacrificed the multiplayer, it is almost ironical, if it wouldn't be so unfortunate, that in the end they had to made more compromises with the story than in any other regard, as it was reduced in scope and depth so much while trying to rescue the project and sparing it from cancellation as a whole, that the results were much more serious sacrifices than the cancellation of the multiplayer. 
+
+The (singleplayer) story of course has to have priority, as it is the basis of everything. But a multiplayer story can very well be realised and none of the major problems explained above exist when following a consequent approach in accordance with our principles of a storydriven immersive sim rpg. 
+
+
+## Phoenix Multiplayer
+
+The Phoenix multiplayer is divided into three sections, that can be chosen from the Multiplayer menu; notes about the [Interface (lobby)](/#lobby) are to be found at the end of the document. 
+
+There is the (1) *Story Mode* for up to 5 players, plus *"Short Stories"*, there is (2) the *Freeplay Mode* and there is what I call (3) *Scenarios* where each scenario is possible to be played in one or more different "modes". 
+
+
+### Story Mode
+
+For the story mode, as the "heart" of the multiplayer, we start by different premises. It must be as it is in any good story-coop where there are separate characters to be played. Never would or should a character say the same as another character or be told the same by NPCs as another character. The first solution, that Mike describes as very bad, we see as the only reasonable one, but only when seen in combination with pre-narrated characters. It is the only one that is in accordance with the design principles and the idea of a storydriven immersive sim rpg. 
+
+Gothic/Phoenix offers such individual characters in form of the four friends, alongside the nameless hero they are the five playable multiplayer characters:
 
 * `PC_PLAYER` (Hero)
 * `PC_FIGHTER` (Gorn)
@@ -116,9 +135,16 @@ And the story offered such individual characters: The five playable multiplayer 
 * `PC_PSIONIC` (Lester)
 * `PC_THIEF` (Diego)
 
-The four friends were convicted two years before the player, they already have a guild, a place in the prison hierarchy as well as an associated class, which solves all the problems regarding the first sixth of the game, by which Mike describes the first chapter.  
+But the friends in the multiplayer shouldn't act as mere prototypes for additional heroes in the same shoes as the main hero; they should act in accordance with their role in the story.
+
+The friends were convicted two years before the player, they already have a guild, a place in the prison hierarchy as well as an associated class, which solves all the problems regarding the first sixth of the game, by which Mike describes the first chapter.  
 There is no need whatsoever to omit the first chapter, the only need is to think of the story from the individual perspective of the five characters.  
 
+It is only consequent, that the other characters do *not* receive the same missions as the main hero (in most cases), they have to be tailored specifically to one character. In some cases the friends *may* be able to solve a mission, that otherwise the hero would fulfill. But in no case can the very *same* mission be taken by several players (they may just - at most - get an equivalent or a similar mission from the same or a different mission giver in a different context), nor can any player take a mission away from another, as it is never the very same. 
+
+It is not a compromise but a special feature that most of the dialogues and missions known from the Singleplayer remain to be exclusive missions for the Hero. The other player characters each spawn at different locations and get missions on their own; in course of the story they can accompany the main player on his missions (like on the focus search or into the temple), but in the meanwhile there will be things to do that we have written for them specifically. Each of the friends will have dialogues and missions different from the dialogues and missions that are available to the other friends. 
+
+We call these the "friend plots" and they will correspond to the events the player knows from the main plot and will fill gaps like: What did Diego do in the meanwhile? Why was he here? In some cases the Singleplayer will left the player with some unanswered questions which are to be answered in the Coop by playing with the four friends. 
 
 #### Character Selection
 
@@ -167,7 +193,7 @@ And as far as time is concerned: It is totally true that in a "player-driven" ga
 
 ---
 
-So, to summarise: It is only consequent, that the other characters do *not* receive the same missions as the main hero (in most cases), they have to be tailored specifically to one character, being influenced by his specific decisions. In some cases the friends *may* be able to solve a mission, that otherwise the hero would fulfill. For instance: If several thieves are looking for a particular artifact, Diego may do so too and get it before the player. But in no case can the very *same* mission be taken by several players (they may just  at most get an equivalent or a similar mission from the same or a different mission giver, but in a different context), nor can any player take a mission away from another, as it is never the very same. 
+So, to summarise: 
 
 Just as there are missions that are written only for the main hero, there are missions only written for one of the four friends. And while this may be a "shitty solution", to use Mikes words, due to the immense effort it takes, it is the most consequent solution. And the different multiplayer characters add a lot of replay value. Every character plot tells the story of what they have done parallel to the player, how they were involved with NPCs in the world; they reveal and deal with many aspects which in the singleplayer main plot are only hinted at, that the player only hears about or even doesn't know anything about. 
 
@@ -175,13 +201,10 @@ Just as there are missions that are written only for the main hero, there are mi
 
 ### Conclusion
 
-While speaking of compromises they didn't want to make with the story, for which they sacrificed the multiplayer, it is almost ironical, if it wouldn't be so unfortunate, that in the end they had to made more compromises with the story than in any other regard, as it was reduced in scope and depth so much while trying to rescue the project and sparing it from cancellation as a whole, that the results were much more serious sacrifices than the cancellation of the multiplayer. 
 
-The (singleplayer) story of course has to have priority, as it is the basis of everything. But a multiplayer story can very well be realised and none of the problems explained above exist when following a consequent approach in accordance with our principles of a storydriven immersive sim rpg. 
+The developers had spend years with the development of the singleplayer story. In the end just a little fracture of the story they had developed could be implemented in the game as they had planned to. At the same time they have always said that the setting and this game world that they had developed for such a long time and with so much passion and love for detail, is so rich and inspiring and that they had so many ideas left that they could have made several more games within this world. 
 
-The developers had spend years with the development of the singleplayer story. In the end just a little fracture of the story they had developed could be implemented in the game as they had planned to. At the same time they have always said that the setting and this game world that they had devloped for such a long time and with so much passion and love for detail, is so rich and inspiring and that they had so many ideas left that they could have made several more games within this world. 
-
-But instead of doing so and following such a passionate approach, instead of telling these stories (the only project going into such a direction (the Sequel) was cancelled and its developers fired), they have thrown all of these ideas out of the window and began to do something totally different in form of the official successors, into which not even half of that passion went into, as they would confirm themselves, nor were they even gothic-fantasy games. 
+But instead of doing so and following such a passionate approach, instead of telling these stories (the only project going into such a direction (the Sequel) was cancelled and its developers fired), they have thrown all of these ideas out of the window and began to do something totally different in form of the official successors, into which not even half of that passion went into (as they would confirm themselves), nor can they even be described as gothic-fantasy. 
 
 While from a historical perspective it was of course necessary to do all the cuts in the end as this was the only way that the game could be published that otherwise would have been cancelled the same way as its Sequel, - struggeling a lot already with the realisation of the singleplayer story alone - the stories of the four friends would have been ideal material for addons of the main game. 
 
@@ -223,16 +246,7 @@ These modes may be possible to be played with various multiplayer characters tha
 **Author:** Flosha
 **Dated:** 03.11.2022
 
-The Phoenix multiplayer is divided into 3 sections, that can be chosen form the Multiplayer menu.
-The *Story-Coop* for up to 5 players, regular (Team) *Deathmatch* and what we call *Scenarios*.
 
-## Story Coop
-
-The story coop with up to 5 players makes it possible to play the game with the main player character (the Hero) and one or all of the four friends (Diego, Lester, Milten & Gorn). 
-
-But the special thing is that most of the dialogues and missions known from the Singleplayer remain to be exclusive missions for the Hero. The other player characters each spawn at different locations and get missions on their own; in course of the story they can accompany the main player on his missions (like on the focus search or into the temple), but in the meanwhile there will be things to do that we have written for them specifically. Each of the friends will have dialogues and missions different from the dialogues and missions that are available to the other friends. 
-
-We call these the "friend plots" and they will correspond to the events the player knows from the main plot and will fill gaps like: What did Diego do in the meanwhile? Why was he here? In some cases the Singleplayer will left the player with some unanswered questions which are to be answered in the Coop by playing with the four friends. 
 
 For this to be realised, it has also to be possible for player characters to speak with each other; where the friends are usually saying the dialogues that are known from the singleplayer. 
 
@@ -265,7 +279,7 @@ Regular deathmatch and team deathmatch (depending on level size) in a collection
 Instead of points given for killing enemies only (or at all), we could make it more tactical and stylish and thereby create a better flow by giving points only for (1) silent kills, (2) parades, (3) evasions, (4) healing of friends, ...? 
 
 
-## Scenarios
+### Scenarios
 
 The so-called scenarios are a collection of five additional multiplayer modes: 
 *Survival*, *Raid*, *Assassination*, *Convoy* and *OreStrike*.
@@ -306,7 +320,7 @@ DISSOLVE:
  
 
 
-### Survival
+#### Survival
 
 "The goal is to survive and to escape".
 Either alone or as a team of friends against AI. The number of players (up to 5), which enemies will spawn and how many in how many waves will depend on the level and is pre-scripted. 
@@ -324,7 +338,7 @@ In this way, as in the story bonus levels, we use multiplayer maps to expand the
 Since these levels are more about the fighting, we keep it fair and fun and simplify things; instead of the need to grab an item with an animation, items will spawn as fat floating items you just have to run through as in Retro Mode. In some levels, like the *Old Arena* or *In Flames*, those items will spawn at specific points in the map like in Unreal Tournament. In other levels, like in *Orgy Madness*, the *Great Hall* and *Demon Invasion*, the enemies will drop stuff. This way the player can regenerate health during the waves and sometimes mid battle. Health immediately heals you, mana fills up immediately etc.
 
 
-### Raid
+#### Raid
 
 This mode is a mixture of survival and Team Deathmatch. In difference to Survival it doesn't only go against AI (which remains an option in lack of players); so there are two teams, both playable and both teams respawn. The difference to Team Deathmatch is, that there is an overarching goal like "raid the mine", that there are rounds, that you can only respawn in the next round and that the spawn points change with every round. A round is over as soon as all members of one team of a given round are killed or when a specific time has passed. 
 The attacking team is called "Raiders", the defending team is called "Defenders", but that can change depending on the level and the corresponding lore/background of those teams.
@@ -332,12 +346,12 @@ The attacking team is called "Raiders", the defending team is called "Defenders"
 * **FM Raid:** A fight around and within the mine leading you deeper and deeper. The more the raiders can push the miners down, the faster the respawn points are set deeper. The miners lose when they reach the natural caves, where the last survivors can escape; this ends the round (if we should also include a kind of compaign, where two teams need to fight through different raids one after another, these escapes should give bonus points inspite of loosing). They win when they can hold the enemies back long enough until some help from the New Camp arrives. 
 
 
-### Assassination
+#### Assassination
 
 One team has all the available shadow tactics and tools, the others are bodyguards. The target is an npc that goes specific routes and the bodyguards can only influence the route slightly. They can talk to the npc and convince him to go another route, which will lead to different scenarios each round. The target is the boss of the bodyguards, thus he gives instructions to the players, he will send some of them away to guard at another spot and will become angry if they keep surrounding him all alone. Here think of the Multiplayer of Splinter Cell 2. 
 
 
-### Convoy
+#### Convoy
 
 One team needs to get a convoy to the exchange place or a mine, the other team has to attack them. The interesting part is that the attacker team can chose a few different spawn points to attack from somewhere else and the convoy team, while starting as always, can decide to take a different route. the game is over when
 * the delivery reaches a mine (trigger zone) or
@@ -351,7 +365,7 @@ Levels are:
 * FC to NC
 * PSI to OC
 
-### OreStrike
+#### OreStrike
 
 With Nemesis we may add an additional bombing mode, where an orebomb has to be placed at one of two or three spots like in CounterStrike. 
 One level could be the whole Castle with a closed gate plus prison. One bomb could be placed in the tower, one in the prison somewhere and one in the chapel or so. As in Assassination, players can use their thief skills (hide in shadows and other abilities) to make it hard to get catched. 
@@ -359,7 +373,7 @@ One level could be the whole Castle with a closed gate plus prison. One bomb cou
 
 
 
-## Multiplayer Interface
+### Multiplayer Interface
 
 In the Multiplayer Main Menu, he has the following choices:
 
@@ -394,7 +408,7 @@ and so on.
 
 
 
-### Lobby
+#### Lobby
 
 Upon selection of a Deathmatch level or a scenario, the player lands in the multiplayer lobby, where other players join and the character selection happens. Ideally, the characters would be switched through by Arrow-Left and Right and rendered in 3D with an idle animation; if not possible, pre-rendered images may be used or simply text. Just as with the levels, every character can be selected, but locked characters will be named "Locked Character" with a text underneath that tells the player what he has to achieve in order to unlock it. 
 Ideally, the focus would be put on the character selection and on showing the characters specific stats (attributes, skills and equipment), while there would be a little chat window and an info box where the player can see if others are joining; the character selection has to happen by first switching to a character and pressing Enter. If a character is selected, this same character cannot be selected by other players anymore. 
