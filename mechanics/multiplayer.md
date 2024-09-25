@@ -20,7 +20,10 @@
     * *Assassination*
     * *Convoy*
     * *Ore Strike*
+  * Unlocking Content
+  * Multiplayer Interface
 
+---
 
 Please be aware that nothing of what will be described in this article is currently worked at. It should be seen as an attest of a potential future realisation; of how a multiplayer story mode could be realised and of potential other mutliplayer modes that could fit very well into the game - much of which - or at least the technical framework of which - have already been realised in the community, but the specifics of which are our unique concepts.  
 {: .info }
@@ -348,7 +351,7 @@ An examplatory scenario could be the whole castle with a closed gate plus prison
   
 ---
 
-#### Unlocking Content
+### Unlocking Content
 
 Characters and levels are unlocked by progression in the Singleplayer or the Story Coop.
 
