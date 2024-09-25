@@ -105,7 +105,12 @@ The game starts regularly with the conviction of the main hero. The story, missi
 
 The idea of enabling a friend to join a singleplayer session in the middle of a playthrough is easy from a gamedesign perspective (the technical implementation is a different question) insofar as that every one of the four friends has a clear scripted state, position in the game world etc. at any given moment of the story and can then easily be taken over at a specific point in time by another player joining the game. 
 
-Exactly because of the story and in order to not compromise it, the other player characters are of course *not* possible to shape as much as the main hero, because they already have a specific role. In the same way, as the main hero interacts with the four friends in the story, where they give specific answers, the possible dialogue options of the players controlling the friends have of course to be restricted. This is *not* a compromise, it is the opposite, it means *not* to compromise the story for the multiplayer, it means telling it consequently while allowing additional players to participate. 
+
+### Fixed Roles
+
+Exactly because of the story and in order to not compromise it, the other player characters are of course *not* possible to shape as much as the main hero, because they already have a fixed role. In the same way, as the main hero interacts with the four friends in the story, where they give specific answers, the possible dialogue options of the players controlling the friends have of course to be restricted. This is *not* a compromise, it is the opposite, it means *not* to compromise the story for the multiplayer, but to tell it consequently while allowing additional players to participate. 
+
+Examples: A session starts. One player chooses the main hero, a second player chooses Diego. The main hero is being brought to his conviction at the cliff, while the player in control of Diego spawns on the way to the Cliff. Both characters have their individual mission logs. While the main hero is convicted and it will be his first task to orient himself in the colony (the first chapter being the "orientation phase"), Diego has a mission and motives of his own. 
 
 
 
