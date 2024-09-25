@@ -1,4 +1,4 @@
-## History
+# History
 
 **Authors:** *Flosha, Ben*  
 **Created:** 12.06.24
