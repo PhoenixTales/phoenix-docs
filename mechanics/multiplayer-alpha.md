@@ -35,7 +35,8 @@ Most players may not know or remember much of what the Gothic multiplayer was me
 
 They also claimed that the way that the multiplayer would be realised in Gothic is something new that has never been done (most likely referring to the goal of letting players seemlessly take their character back and forth between Single- and Multiplayer): 
 
-> Stefan Nyul: We figured out a very smart design for the multiplayer mode. This will be something absolutely unique, never done before. But let us finish the implementation before talking of details. 
+> Stefan Nyul: We figured out a very smart design for the multiplayer mode. This will be something absolutely unique, never done before. But let us finish the implementation before talking of details.
+   
 > Tom Putzki: What can be said right now is the fact that GOTHIC can be played in a local network with up to five players. And about this unique feature I want to say... [he didn't say more] (14.11.1998)
 
 > Mike: In the multiplayer game you can play through the whole story with up to 5 players. Its no deathmatch, although you can kill the other players if they let you :). Making the multiplayer game work the same way the singleplayer game does is in my eyes a unique feature many people will hopefully enjoy (and that btw cost us hell lots of design time). Compared to Online RPGs we have small player numbers, but a complex story and many living characters to explore... 
