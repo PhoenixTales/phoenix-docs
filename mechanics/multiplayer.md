@@ -3,7 +3,7 @@
 ``Author: Flosha``  
 ``25.09.2024``
 
-From the very beginning of the development, Gothic had always been promoted as having a multiplayer. It was an essential part of the project that they wanted to realise, mentioned in every interview and several times did let it seem that they are actually proud of the concept behind their multiplayer, which was meant to be different than what players knew at the time. 
+From the very beginning of the development, Gothic had always been promoted as having a multiplayer. It was an essential part of the project that they wanted to realise, mentioned in always every single interview and several times did let it seem that they are actually proud of the concept behind their multiplayer, which was meant to be different than what players knew at the time. 
 
 ``Add quotes``
 
@@ -114,7 +114,7 @@ Examples: A session starts. One player chooses the main hero, a second player ch
 
 While the main hero is baptised by the thugs, Diego can intervene. If he chooses to do so a dialogue with the main hero will be initiated, where the player character has the same dialogue options and Diego will say the same, in a fixed manner, as in singleplayer too. The player may then choose to accompany Diego as in 0.94k or to proceed on his own. In any way, the player will have to go through the story as known, will have to join a guild and so forth, while the four friends will have to play their own story. 
 
-Just as with every other character in the game, we have to assume that the friends are *doing* something while the player character is doing his stuff. The story implies this and the original story even more so. In this way, the main hero and the four friends are confronted with each other and crossing their paths several times in course of the story, things happen simultaneously and just as the main hero fulfills his role and takes part in driving the story forward or influencing it in some way or another, the friends too play an important role in the events.  
+Just as with every other character in the game, we have to assume that the friends are *doing* their own stuff while the player character is doing his. The story implies this and the original story even more so. In this way, the main hero and the four friends are confronted with each other and crossing their paths several times in course of the story, things happen simultaneously and just as the main hero fulfills his role and takes part in driving the story forward or influencing it in some way or another, the friends too play an important role in the events.  
 
 The old story implies that the four friends are meeting several times in course of the story. In the Alpha, Gorn and Lester are at the meeting place already at the beginning of the game and after escorting the player into the valley, Diego tells the player that he still has to do something. Later in the game, in course of the mission for Thorus of getting the list from the mine (it is not given by Diego), Diego seems to follow him and meets him in front of the mine, by the following dialogue and other, similar hints in the documents it is suggested that the four friends were meant to keep an eye on the main hero from the very beginning, they are working in the background, observing the player, talking about the events taking place in the colony and eventually helping him; while the main hero would form a stronger bond with one of the friends, depending on his choosen guild and/or class.
 
