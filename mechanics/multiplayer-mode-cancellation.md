@@ -35,7 +35,6 @@ Relativ früh wurde uns klar, wie viele Probleme da dran hängen, vor allem was 
 Problem: Die Missionen von Gothic bauen teilweise aufeinander auf. Es gibt Packs von 5 oder 6 Missionen, die teilweise aufeinander folgen müssen aber auch teilweise parallel verlaufen können. Spieler A nimmt Mission 1a an. Mission 1b kann erst losgehen, sobald Mission 1a gelöst wurde. Spieler B spricht mit dem Auftraggeber, kurz nachdem Spieler A Mission 1a gelöst hat und bekommt Mission 1b OHNE Mission 1a gemacht zu haben oder überhaupt zu kennen. Das ist Mist. -->
 > *Some examples:*  
 > *Problem: The missions of Gothic, in some cases, build on each other. There are packs of 5 or 6 missions, which partially must follow each other, but can also partially run parallel. Player A accepts Mission 1a. Mission 1b can only start when Mission 1a was solved. Player B speaks with the mission giver, shortly after player A has solved mission 1a and gets mission 1b **without** having done or even to know mission 1a. That is crap.*  
-
 <!-- Mögliche Lösungen:
 1. Spieler B bekommt die Mission nicht - alle Missionen dieses Strangs müssen von Spieler A gemacht werden -> Scheißlösung, denn wir müssten uns bei 5 Spielern 5 mal so viele Missionen einfallen lassen.
 2. Einer der Spieler bekommt immer alle Missionen, und die anderen müssen ihm "unfrei" als Party folgen -> Problem: Jeder möchte gerne Missionen annehmen können.
@@ -48,6 +47,22 @@ UND: So würden immer alle Spieler überall gemeinsam hinlaufen. (Das wiederum i
 <!-- Weiteres Problem: Rennen immer alle Spieler in denselben Dungeon (was teilweise aufgrund der voranschreitenden Story nicht zu vermeiden ist, denn wenn das z.B. große Portal zum uralten Tempel aufgeht und alle NSCs rennen hin und plündern, dann wollen die Spieler natürlich alle mit von der Partie sein), dann können viele kleine feine Sachen in der Story so nicht stattfinden, weil die Herausforderung für einen Spieler einfach in einem magisch- psionischen- pfeilgespickten und blutsprizenden Inferno von 5 Spielern zunichte gemacht wird.
 Wir wollen kein Diablo machen. --> 
 > *Additional problem: When all the players always run into the same dungeon (which is partially unavoidable due to the proceeding story, because when the portal to the ancient temple opens and all the NPCs run there and plunder, the players of course want to take part in it), then many small, nice things in the story can't happen like that, because the challenge for one player will just vanish in a magic, psionic, arrow-studded and blood-splattering Inferno of 5 players. We don't want to make Diablo.*  
+
+<!-- Noch ein Problem: Im ersten Sechstel des Spiels ist der Spieler in keiner Gilde. Er entscheidet sich, wem er beitreten will und macht Aufnahmeprüfungen. Diese können auch nur einmal gemacht werden. Also schonmal dasselbe Problem wie oben, 5 mal so viele Missionen.
+Darüber hinaus gibt es hier aber noch das Problem, dass das Spiel völlig außer Balance geraten würde, wenn alle Spieler einer Gilde beitreten würden, also müssten wir die Spieler zwingem, sich artig auf die Gilden zu verteilen. Schnappen sie sich aber gegenseitig wieder die Aufträge weg, verhindern sie gegenseitig den Gildenbeitritt. -->
+> *Another problem: In the first sixth of the game, the player is not in a guild. He decides who he wants to join and makes admission tests. And these can only be made once. Which results in the same problem as above, 5 times as many missions.*  
+> *More than that there is also the problem here, that the game would get completely out of balance, when all players would join the same guild, so we would need to force them, to politely distribute over the guilds. When they snatch the missions away from each other, they hinder each other from joining the guild.*  
+<!-- Lösung: Den kompletten ersten Teil des Spiels im Multiplayer weglassen und jeden eine der Gilden über einen Auswahlscreen wählen lassen. Ihr seht worauf es hinausläuft? -->
+> *Solution: To omit the complete first part of the game in the multillayer and let everyone choose one of the guilds in a selection screen. You see what this amounts to?*  
+
+<!-- > Wir haben uns entschlossen den Multiplayer-Modus zu streichen, da wir ansonsten die Story nicht so hätten umsetzen können, wie geplant. Unser Ziel für den Multiplayer-Modus war es, die komplette Story spielbar zu machen. Doch bei der Umsetzung hätten wir leider viel zu viele Kompromisse zu Lasten der Dramaturgie und eines interessanten Storyplots machen müssen.
+Den Multiplayer-Modus statt dessen als eine Art Deathmatch einzubauen, wäre auch keine Alternative gewesen, denn GOTHIC lebt von der Interaktion mit den NPCs, deren Reaktionen auf den Spieler, eben der lebendigen Welt in der man sich bewegt und mit der man auf sehr unterschiedliche Weise interagieren kann. -->
+
+
+
+<!-- In den letzten Monaten hat sich gezeigt, daß es noch viele dieser Story- und Missions-Probleme gibt. Wenn man bedenkt, wieviel Zeit wir in die Lösung der ersten paar Probleme gesteckt haben, kann man sich ausmalen, wie lange es noch dauern würde, den Rest vernünftig hinzubekommen. Ich verstehe vollkommen, dass es für die Fans so rüberkommt, daß wir am Anfang mit Multiplayer-Storymode "geprahlt" haben und jetzt nicht halten können, was wir versprachen.  
+Ich kann euch da draußen nur bitten, eine Sache zu bedenken: Die Entwicklung eines Spiels wie Gothic dauert in der Regel 2-3 Jahre. Und da ist es unmöglich am Anfang, als Newcomer Team mit einer handvoll Leute von vorneherein perfekt abzuschätzen, was in 2-3 Jahren geht und was nicht. --> 
+
 
 ----
 
@@ -67,9 +82,8 @@ Weiter mit Mike:
 
 ---
 
-Noch ein Problem: Im ersten Sechstel des Spiels ist der Spieler in keiner Gilde. Er entscheidet sich, wem er beitreten will und macht Aufnahmeprüfungen. Diese können auch nur einmal gemacht werden. Also schonmal dasselbe Problem wie oben, 5 mal so viele Missionen.
-Darüber hinaus gibt es hier aber noch das Problem, dass das Spiel völlig außer Balance geraten würde, wenn alle Spieler einer Gilde beitreten würden, also müssten wir die Spieler zwingem, sich artig auf die Gilden zu verteilen. Schnappen sie sich aber gegenseitig wieder die Aufträge weg, verhindern sie gegenseitig den Gildenbeitritt.
-Lösung: Den kompletten ersten Teil des Spiels im Multiplayer weglassen und jeden eine der Gilden über einen Auswahlscreen wählen lassen. Ihr seht worauf es hinausläuft?
+
+
 
 ---
 
@@ -77,7 +91,3 @@ Flosha: Auch das ist kein Problem. Da im Multiplayer nur einer der namenlose Hel
 
 ---
 
-Wir haben uns entschlossen den Multiplayer-Modus zu streichen, da wir ansonsten die Story nicht so hätten umsetzen können, wie geplant. Unser Ziel für den Multiplayer-Modus war es, die komplette Story spielbar zu machen. Doch bei der Umsetzung hätten wir leider viel zu viele Kompromisse zu Lasten der Dramaturgie und eines interessanten Storyplots machen müssen.
-Den Multiplayer-Modus statt dessen als eine Art Deathmatch einzubauen, wäre auch keine Alternative gewesen, denn GOTHIC lebt von der Interaktion mit den NPCs, deren Reaktionen auf den Spieler, eben der lebendigen Welt in der man sich bewegt und mit der man auf sehr unterschiedliche Weise interagieren kann.
-In den letzten Monaten hat sich gezeigt, daß es noch viele dieser Story- und Missions-Probleme gibt. Wenn man bedenkt, wieviel Zeit wir in die Lösung der ersten paar Probleme gesteckt haben, kann man sich ausmalen, wie lange es noch dauern würde, den Rest vernünftig hinzubekommen. Ich verstehe vollkommen, dass es für die Fans so rüberkommt, daß wir am Anfang mit Multiplayer-Storymode "geprahlt" haben und jetzt nicht halten können, was wir versprachen.
-Ich kann euch da draußen nur bitten, eine Sache zu bedenken: Die Entwicklung eines Spiels wie Gothic dauert in der Regel 2-3 Jahre. Und da ist es unmöglich am Anfang, als Newcomer Team mit einer handvoll Leute von vorneherein perfekt abzuschätzen, was in 2-3 Jahren geht und was nicht.
