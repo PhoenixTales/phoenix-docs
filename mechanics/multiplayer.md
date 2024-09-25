@@ -118,7 +118,7 @@ Just as with every other character in the game, we have to assume that the frien
 
 For example, the old story implies that the four friends are meeting several times in course of the story. In the Alpha, Gorn and Lester are at the meeting place already at the beginning of the game and after escorting the player into the valley, Diego tells the player that he still has to do something. 
 
-
+---
 
 
 Darum ist die konsequenteste und zugleich die interessanteste Lösung eine Kombination von 1 und 2. Es ist nur konsequent, dass die vier Freunde in vielen Fällen NICHT die Missionen erhalten, die der Held bekommt, die sind auf ihn als Charakter zugeschnitten und abhängig von seinen Entscheidungen. In einigen Fällen KÖNNEN die vier Freunde eine Mission erfüllen, die andernfalls der Held erledigen könnte; in keinem Fall aber kann dieselbe Mission von mehreren Spielern angenommen werden. 
