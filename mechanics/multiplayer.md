@@ -28,7 +28,29 @@ Please be aware that nothing of what will be described in this article is curren
 
 ## Alpha Multiplayer
 
-From the very beginning of the development, Gothic had always been promoted as having a multiplayer story mode (which we call "Coop" today). It was an essential part of the project that they wanted to realise, mentioned in always every single interview and several times did let it seem that they are actually proud of the concept behind their multiplayer, which was meant to be different than what players knew at the time. 
+From the very beginning of the development, Gothic had always been promoted as having a multiplayer story mode (which we call "Coop" today). It was an essential part of the project that they wanted to realise, mentioned in always every single interview:
+
+> Tom Putzki: [...] we've planned to give at least 8 Multiplayers the chance to compete in Gothic. (11.06.1998)
+
+> Mike Hoge: [...] we want to make a network game. (15.06.1998)
+
+While most people may not know or remember much of what the Gothic multplayer was meant to be, and for how little of it had actually been implemented in the game, the developers promised a lot of very specific details about the multiplayer in 1998-1999.  
+
+For example, they had planned to let other players join in the middle of a singleplayer playthrough:
+
+> How is Gothic going to support Multi-player? Will you be able to adventure with your character build up in single player along with your friends favorite characters?
+
+> Mike: Yes. But we plan to allow only characters of the same level to join a game, to keep the game balance intact. As we started with GOTHIC, I imagined a game where you can play several hours in single player mode, then join a game with your friend and take your character with you and finally even take the improvements you`ve made in your multiplayer session back to your single player game...
+
+Tom: Just to explain: GOTHIC is divided into six chapters, and you can only join a game, if your characters are in the same chapter.
+
+
+
+
+and several times did let it seem that they are actually proud of the concept behind their multiplayer, which was meant to be different than what players knew at the time. 
+
+
+
 
 ``Add quotes``
 
@@ -191,6 +213,10 @@ But the reader may realise a difficulty of this approach to a multiplayer story:
 
 **Coop Missions:**  
 The answer is: In these particular cases, where two or more characters are supposed to be involved in a mission - which is the case in both the singleplayer and the multiplayer mode, the scenario has to be designed in such a way that the other characters are *needed* to solve the mission. There were missions supposed to be designed as such that one player alone cannot solve them. So a character cannot be finished here before another one is present and cooperates with him. 
+
+> Alex Brüggemann: You control only one character, but NPCs may join for particular Quests. They can be helpful in solving Quests that are especially designed for multiplayer. (15.06.1998)
+
+> Mike Hoge: In GOTHIC people can play both against and with each other. Playing together will pay, for there will be some extra puzzles that require at least 2 players. (15.06.1998)
 
 And as far as time is concerned: It is totally true that in a "player-driven" game as I called it, it would be very difficult to make sure that the story progression of two characters is in synchronicity *enough* to enable them to experience events together. But in case of an actually "[story-driven](/lore/driven-by-story)" game as I described it, it is not much of a problem. As the progress here does not depend from the players but just from the point in time within the act. Since the story is taking place on a day by day basis and most events will occur not earlier or later just because of the actions of the player character(s), the time at which an event occurs or the moment at which two or more characters are meant to meet to play together or to help each other, is clearly defined in a particular time frame, which in practice results in something like "Day 5 at Dusk". Other than that: We are speaking of a local multiplayer, meant to be played by friends who want to experience the story together, as friends within the game. So being together at the desired time is obviously not a serious problem, as they will *want* to be together for these missions in question, while also being driven to be by the narrative. 
 
