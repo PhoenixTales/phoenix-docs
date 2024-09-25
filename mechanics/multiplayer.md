@@ -34,24 +34,29 @@ From the very beginning of the development, Gothic had always been promoted as h
 
 > Mike Hoge: [...] we want to make a network game. (15.06.1998)
 
+While at first they have spoken of "at least 8" players, this was changed very soon to 5, a number with which they sticked till the end. 
+
+- Gibt es einen Multiplayer-Modus?
+Tom Putzki: Aber klar doch! Zusammen mit seinen Freunden und Kollegen ein richtig gutes Spiel zu zocken, bringt doch noch mehr Fun als alleine vor dem Rechner zu hängen. (01.05.1999)
+
+> g0mp: Gothic ist kein reines Online Spiel wie UO, kann man trotzdem mit einer Netzwerk Option oder dergleichen rechnen?  
+> Tom: Sorry, Internetversion von GOTHIC ist derzeit nicht in Planung... zumindest nicht bei der derzeitigen Anbindung in Deutschland - Lags...(( aber Multiplayer ist selbstverständlich, bis zu 5 Spieler im lokalen Netzwerk....und als besonderes Leckerchen: Die Story ist sowohl im Single- als auch im Multiplayer kontinuierlich spielbar!!!! (01.05.1999)
+
 While most people may not know or remember much of what the Gothic multplayer was meant to be, and for how little of it had actually been implemented in the game, the developers promised a lot of very specific details about the multiplayer in 1998-1999.  
-
-For example, they had planned to let other players join in the middle of a singleplayer playthrough:
-
-**20.06.1998:**  
+ 
 > How is Gothic going to support Multi-player? Will you be able to adventure with your character build up in single player along with your friends favorite characters?  
 > Mike: Yes. But we plan to allow only characters of the same level to join a game, to keep the game balance intact. As we started with GOTHIC, I imagined a game where you can play several hours in single player mode, then join a game with your friend and take your character with you and finally even take the improvements you`ve made in your multiplayer session back to your single player game...  
-> Tom: Just to explain: GOTHIC is divided into six chapters, and you can only join a game, if your characters are in the same chapter.
+> Tom: Just to explain: GOTHIC is divided into six chapters, and you can only join a game, if your characters are in the same chapter. (20.06.1998)
 
-They also claimed that the way that the multiplayer would be realised in Gothic is something new that has never been done: 
+They also claimed that the way that the multiplayer would be realised in Gothic is something new that has never been done (most likely refering to the goal of letting players seemlessly take their character back and forth between Single- and Multiplayer): 
 
-**13.11.1998:**
 > Stefan Nyul: We figured out a very smart design for the multiplayer mode. This will be something absolutely unique, never done before. But let us finish the implementation before talking of details. 
-> Tom Putzki: What can be said right now is the fact that GOTHIC can be played in a local network with up to five players. And about this unique feature I want to say... [he didn't say more]
+> Tom Putzki: What can be said right now is the fact that GOTHIC can be played in a local network with up to five players. And about this unique feature I want to say... [he didn't say more] (14.11.1998)
 
+Mike: In the multiplayer game you can play through the whole story with up to 5 players. Its no deathmatch, although you can kill the other players if they let you :). Making the multiplayer game work the same way the singleplayer game does is in my eyes a unique feature many people will hopefully enjoy (and that btw cost us hell lots of design time). Compared to Online RPGs we have small player numbers, but a complex story and many living characters to explore... 
+(16.10.1999)
 
-
-
+As you see, the two interview quoted above are almost a whole year apart. In October 1999 the multiplayer was still in the making, at that point since 1997. 
 
 ``Add quotes``
 
