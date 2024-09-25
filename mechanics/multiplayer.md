@@ -71,11 +71,43 @@ Ich kann euch da draußen nur bitten, eine Sache zu bedenken: Die Entwicklung ei
 
 **Flosha:** At first I will try to summarise the reasoning given. It boils down to the following problems:  
 
-* 
+* Players can either not receive the same missions or have to just follow the main player or otherwise may take missions away from each other. 
+* If not receiving the same missions, it would be too much work to write extra missions for each player. 
+* Theoretical balancing issues due to the choice of a guild.
+
+In my opinion, while all of the reasoning given makes sense and is understandable, it is (1) based on premises which are not in accordance with the vision of a storydriven immersive sim rpg and/or are (2) reasons which are only valid based on considerations of money (how much can be done in time while depending on funding of a publisher), which are no reasons of possibility, but only of efficiency. 
+
+As for the problem of not being able to accept the same mission or taking missions away from each other: This is a problem that is only present under the conditions that every mission can only be accepted once. Mike describes two solutions: (1) Either not allowing the other players to get the mission, which would result in the need to have extra missions for each player, which he describes as a very bad solution. Or (2) only allowing the main player to get missions with all the other players following him in a party, as it is done in many "isometric" rpgs. But obviously there is a third solution, as it is done in many MMORPGs: (3) Just isolating the story and missions of each player from each other and enabling them to accept and solve the missions either independently from the other players *or* in a party (of e.g. two). In order for the players to not be in the way of each other by doing so, while still being in the same world, it would be needed to e.g. prevent the acceptance of a mission as long as another player or party of players are currently doing the mission. In consequence this would result in e.g. a scenario like this: Two players are accepting a mission to find the mages apprentice in the troll canyon. When the mission is solved (while the other players did something else), the same mission can be accepted by the third player which may or may not form another party with the fourth and/or fifth player, upon which the apprentice is spawned again and so on. It works. But it is the worst solution of all. 
+
+But I will argue that all of this is irrelevant. It looks at the problem from a wrong perspective. 
+
+In his answers, Mike gives the impression as if in the multiplayer there would be up to 5 players which are all on the same level, all convicted together, all without a guild and class and then developing their character at will. 
+
+This approach is *of course* in conflict with the story. If the story is supposed to be believable, every character has to play a different role, have its own background story and so forth. It cannot be the same character (just looking differently) that is played by five players. It must be as it is in any good story-coop, where there are two separate characters to be played. Never would or should a character say the same as another character or be told the same by NPCs as another character. The first solution, that Mike describes as very bad, is the only reasonable one. It is the only one that is in accordance with the design principles and the idea of a storydriven immersive sim rpg. 
+
+And the story offered such individual characters: The five playable multiplayer characters should be the nameless hero and the four friends:
+
+* `PC_PLAYER` (Hero)
+* `PC_FIGHTER` (Gorn)
+* `PC_MAGE` (Milten)
+* `PC_PSIONIC` (Lester)
+* `PC_THIEF` (Diego)
+
+The four friends were convicted two years before the player, they already have a guild, a place in the prison hierarchy as well as an associated class, which solves all the problems regarding the first sixth of the game, by which Mike describes the first chapter.  
+There is no need whatsoever to omit the first chapter, the only need is to think of the story from the individual perspective of the five characters.  
 
 
-In his answers, Mike gives the impression as if in the multiplayer there would be up to 5 players which are all on the same level, probably all convicted together and then developing their character at will.  
-But the multiplayer was based on the idea of one nameless hero and the four friends. The four friends are convicted already, they already have a guild and a place in the prison hierarchy as well as an associated class. 
+### Character Selection
+
+Before a multiplayer session, there of course has to be a character selection, where one of the players chooses the main hero, while others choose one of the four friends. If only two or three players play together, just one or two of the four friends turn into player characters, while the remaining friends remain NPCs like in a singleplayer session. 
+
+The game starts regularly with the conviction of the main hero. The story, missions, dialogues and available answers for the main player are the same as in singleplayer. 
+
+The idea of enabling a friend to join a singleplayer session in the middle of a playthrough is easy from a gamedesign perspective (the technical implementation is a different question) insofar as that every one of the four friends has a clear scripted state, position in the game world etc. at any given moment of the story and can then easily be taken over at a specific point in time by another player joining the game. 
+
+Exactly because of the story and in order to not compromise it, the other player characters are of course *not* possible to shape as much as the main hero, because they already have a specific role. In the same way, as the main hero interacts with the four friends in the story, where they give specific answers, the possible dialogue options of the players controlling the friends have of course to be restricted. This is *not* a compromise, it is the opposite, it means *not* to compromise the story for the multiplayer, it means telling it consequently while allowing additional players to participate. 
+
+
 
 
 Darum ist die konsequenteste und zugleich die interessanteste Lösung eine Kombination von 1 und 2. Es ist nur konsequent, dass die vier Freunde in vielen Fällen NICHT die Missionen erhalten, die der Held bekommt, die sind auf ihn als Charakter zugeschnitten und abhängig von seinen Entscheidungen. In einigen Fällen KÖNNEN die vier Freunde eine Mission erfüllen, die andernfalls der Held erledigen könnte; in keinem Fall aber kann dieselbe Mission von mehreren Spielern angenommen werden. 
@@ -84,7 +116,6 @@ Die Lösung ist also simpel:
 Einige Missionen funktionieren wie beschrieben in seiner Lösung 2: Die vier Freunde oder einer davon wird in manchen Fällen eine Mission mit einem anderen Spieler zusammen erledigen, die dieser angenommen hat. Andere Missionen müssen aber, wie in Lösung 1 beschrieben, exklusiv auf die jeweiligen Charaktere zugeschnitten sein. Genauso wie es also Missionen gibt, die nur der Held erhalten kann, so gibt es Missionen, die nur einem der vier Freunde gegeben wird basierend auf dem jeweiligen Charakter. Es mag eine "Scheißlösung" sein aufgrund des großen Aufwands, den das bedeutet. Aber es ist die konsequenteste Lösung, die zudem durch die spezifischen Storystränge der verschiedenen Charaktere im Multiplayer zusätzlichen Wiederspielwert bedeutet.
 Ja, es ist mehr Aufwand, aber man hätte sich z.B. auf die Umsetzung der Hauptstory für den Helden konzentrieren können und dann die vier Freunde in vier kleinen Addons für den Multiplayer nachliefern können, die die vier Freunde in die Hauptstory einflechten und ermöglichen, in ihre Rolle zu schlüpfen und dem Spieler zu helfen bzw. zu erleben, was sie parallel zu dem Helden getan haben, was man im Singleplayer nur erzählt bekommt oder gar nicht weiß. 
 
-Weiter mit Mike:
 
 ---
 
@@ -96,4 +127,10 @@ Weiter mit Mike:
 Flosha: Auch das ist kein Problem. Da im Multiplayer nur einer der namenlose Held sein kann werden die anderen in die Rolle eines der Freunde schlüpfen. Die sind aber schon in einer Gilde. Aufträge, die relevant für einen Gildenbeitritt sind, können sie sich also nicht wegschnappen.
 
 ---
+
+### Summary
+
+While speaking of compromises they didn't want to make with the story, for which they sacrificed the multiplayer, it is almost ironical, if it wouldn't be so unfortunate, that in the end they had to made more compromises with the story than in any other regard, as it was reduced in scope and depth so much while trying to rescue the project and sparing it from cancellation as a whole, that the result were much more serious sacrifices than the cancellation of the multiplayer. 
+
+The (singleplayer) story has to have priority, as it is the bases of everything. A multiplayer story can very well be realised and none of the problems explained above exist when following a consequent approach in accordance with our principles of a the storydriven immersive sim rpg. 
 
