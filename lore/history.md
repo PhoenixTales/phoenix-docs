@@ -3,11 +3,11 @@
 **Authors:** *Flosha, Ben*  
 **Created:** 12.06.24
 
-> Das Königreich Myrtana, wiedervereint durch die Hand König Rhobars II. [I]
+> Das Königreich Myrtana, wiedervereint durch die Hand König Rhobars II. [G]
 
 > Im Namen seiner königlichen Hohheit König Rhobars II., dem Träger des Zepters von Varant, dem Vereiniger der vier Reiche im myrtanischen Meer, dem Verkünder des Glaubens an die drei Götter und Statthalter des obersten Gottes Ra … [C]
 
-> Im Namen König Rhobar II, Träger des Zepters von Varant, Vereiniger der vier Reiche am Myrthanischen Meer, … [I]
+> Im Namen König Rhobar II, Träger des Zepters von Varant, Vereiniger der vier Reiche am Myrthanischen Meer, … [A]
 
 
 ## Kings between Rhobar I and II
