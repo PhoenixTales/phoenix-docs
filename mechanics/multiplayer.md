@@ -196,3 +196,189 @@ It would be possible to tell specific short story episodes which aren't taking m
  
 These modes may be possible to be played with various multiplayer characters that have to be unlocked in story mode (as well as the arenas themselves). 
 
+
+
+---
+
+# Multiplayer Old
+
+**Author:** Flosha
+**Dated:** 03.11.2022
+
+The Phoenix multiplayer is divided into 3 sections, that can be chosen form the Multiplayer menu.
+The *Story-Coop* for up to 5 players, regular (Team) *Deathmatch* and what we call *Scenarios*.
+
+## Story Coop
+
+The story coop with up to 5 players makes it possible to play the game with the main player character (the Hero) and one or all of the four friends (Diego, Lester, Milten & Gorn). 
+
+But the special thing is that most of the dialogues and missions known from the Singleplayer remain to be exclusive missions for the Hero. The other player characters each spawn at different locations and get missions on their own; in course of the story they can accompany the main player on his missions (like on the focus search or into the temple), but in the meanwhile there will be things to do that we have written for them specifically. Each of the friends will have dialogues and missions different from the dialogues and missions that are available to the other friends. 
+
+We call these the "friend plots" and they will correspond to the events the player knows from the main plot and will fill gaps like: What did Diego do in the meanwhile? Why was he here? In some cases the Singleplayer will left the player with some unanswered questions which are to be answered in the Coop by playing with the four friends. 
+
+For this to be realised, it has also to be possible for player characters to speak with each other; where the friends are usually saying the dialogues that are known from the singleplayer. 
+
+### Diego
+Story...
+
+### Milten
+Story...
+
+### Lester
+Story....
+
+### Gorn
+Story.... 
+
+
+### Story Bonuslevels
+
+* **The Revolt (Rise of the Barons)**: An extra level where the prison and the castle is shown as before the revolt, the tower is intact etc. and you can play the revolt with one of the barons initiating the revolt and killing the guards, including some dialogues etc. 
+*  **Bloodnight in the New Camp**: You play Gorn in the NC fighting against the insane Orgas. Other players can join in form of Lee, Saturas, etc.)
+
+These Bonus levels function like little mods on their own; the gameplay mechanics are the same as in the main game without any specific multiplayer simplifications as they'll be described below.
+
+
+
+## Deathmatch
+
+Regular deathmatch and team deathmatch (depending on level size) in a collection of levels unlocked by playing the Singleplayer. A timer is running and players respawn with a short delay; fight is going on until the time is over, who has more points wins. 
+
+Points are given for killing enemies, healings friends and ...? 
+
+
+## Scenarios
+
+The so-called scenarios are a collection of five additional multiplayer modes: 
+*Survival*, *Raid*, *Assassination*, *Convoy* and *OreStrike*.
+
+
+Survival, Raid, Assassination, Convoy and OreStrike levels will appear on the right and will not be differentiated by their specific mode. Instead the interface will be divided by "scenarios". 
+Each scenario appears under its specific name with tags behind that tell which mode(s) are possible to play it in. Like this:
+
+
+### Unlocking Characters and Levels
+
+Characters and levels are unlocked by progression in the Singleplayer or the Story Coop.
+
+
+* The OC Arena right from the start (Deathmatch and Survival). 
+* The Castle will be available after completing CH1 as Stt, Grd or KdF (Deathmatch).
+* The Temple Tree will be available after completing CH1 as a Psionic (Deathmatch).
+* The Orgy Madness after completion of CH2. 
+* The OC Prison will be available in CH3 (Deathmatch and Survival).
+* "In Flames" when completing CH4 as a Mage. (Survival)
+* "FM Raid" when completing CH4 (Raid).
+* The Orc Arena when completing CH4 (Deathmatch and Survival).
+* The Temple LV2 Main Hall after completing CH5 (Deathmatch and Survival).
+* "Death to the Barons" when completing CH4. 
+* The Sleepers Block after completing CH6 (Deathmatch or All against Sleeper). 
+* The MST Headquarter after completing the Singleplayer as Mst.
+* The Revolt (Rise of the Barons) when completing the Singleplayer as Ebr.
+* The Bloodnight in the New Camp when completing the Story Coop with Gorn.
+* Demon Invasion when completing the game on Nightmare Difficulty.
+
+
+
+DISSOLVE:
+* Unlocking of Singleplayer Faces, Bonus Coop Levels and Multiplayer Levels/Characters
+* Some characters are unlocked when you made a quest for them in the singleplayer. For instance, Namib becomes available when you joined the Psionics. Raven becomes available when completing the feverdream mode as a OC loyalist, Lee when doing so as a NC loyalist, Angar when doing so as Psi. YBerion will only become available when you complete the whole game in the Nightmare mode. Xardas will be unlocked when completing the whole game in the Madness mode. This way you are rewarded. In the multiplayer mode they will be hidden but you will see something like: "Unlock this character by completing the game in xy mode."
+
+
+ 
+
+
+### Survival
+
+"The goal is to survive and to escape".
+Either alone or as a team of friends against AI. The number of players (up to 5), which enemies will spawn and how many in how many waves will depend on the level and is pre-scripted. 
+
+ * **OC Arena**: A fight against all kinds of human warriors becoming progressively stronger. 
+ * **Orgy Madness**: The orgy going wrong; a big fight inside the Swamp where everyone is suddenly going mad; dead novices wake up again, possessed by the Sleeper. 
+ * **In Flames**: The Firemages fight against waves of guards and shadows coming; when all the mages are dead, another level is loaded as a bonus, where you play Corristo in the prison. The player who survived the longest gets to play Corristo, the others watch. He is alone but with mightier spells, more room to move and some possibilities to interact with the environment.
+ * **Death to the Barons**: A fight in the castle, where the player can be one of the five barons and they try to survive against the waves of shadows and diggers storming the castle. 
+ * **Orc Arena**: A fight against all kinds of monsters and orcs with progressive difficulty.
+ * **The Great Hall**: A fight against waves of undead in the great temple hall.
+ * **Demon Invasion**: You are in the demon world and have to survive against all kinds of demons, illusions etc., spawning all around you. 
+   
+In this way, as in the story bonus levels, we use multiplayer maps to expand the storytelling. 
+
+Since these levels are more about the fighting, we keep it fair and fun and simplify things; instead of the need to grab an item with an animation, items will spawn as known from oldschool shooters fatty floating sprites you just have to runt through. In some levels, like the OC Arena or In Flames, those items will spawn at specific points in the map like in Unreal Tournament. In other levels, like in the Orgy Madness, the Great Hall and the Demon Invasion, the enemies will drop stuff. This way the player can regenerate health during the waves and sometimes mid battle. Health immediately heals you, mana fills up immediately etc.
+
+
+### Raid
+
+This mode is a mixture of survival and Team Deathmatch. In difference to Survival it doesn't only go against AI (which remains an option in lack of players); so there are two teams, both playable and both teams respawn. The difference to Team Deathmatch is, that there is an overarching goal like "raid the mine", that there are rounds, that you can only respawn in the next round and that the spawn points change with every round. A round is over as soon as all members of one team of a given round are killed or when a specific time has passed. 
+The attacking team is called "Raiders", the defending team is called "Defenders", but that can change depending on the level and the corresponding lore/background of those teams.
+
+* **FM Raid:** A fight around and within the mine leading you deeper and deeper. The more the raiders can push the miners down, the faster the respawn points are set deeper. The miners lose when they reach the natural caves, where the last survivors can escape; this ends the round (if we should also include a kind of compaign, where two teams need to fight through different raids one after another, these escapes should give bonus points inspite of loosing). They win when they can hold the enemies back long enough until some help from the New Camp arrives. 
+
+
+### Assassination
+
+One team has all the available shadow tactics and tools, the others are bodyguards. The target is an npc that goes specific routes and the bodyguards can only influence the route slightly. They can talk to the npc and convince him to go another route, which will lead to different scenarios each round. The target is the boss of the bodyguards, thus he gives instructions to the players, he will send some of them away to guard at another spot and will become angry if they keep surrounding him all alone. Here think of the Multiplayer of Splinter Cell 2. 
+
+
+### Convoy
+
+One team needs to get a convoy to the exchange place or a mine, the other team has to attack them. The interesting part is that the attacker team can chose a few different spawn points to attack from somewhere else and the convoy team, while starting as always, can decide to take a different route. the game is over when
+* the delivery reaches a mine (trigger zone) or
+* the attackers have acquired the delivery.
+
+The delivery can be a cart drawn by an orc slave, a message by someone who is escorted or a backpack. There can be npcs involved who move the cart and the convoy guards can give instructions, but there could also be players taking the delivery upon them and wearing the backpack etc. This way they can also try to run away from attackers; which most likely will happen at a point, to evade the attackers and reach the mine, so its also a kind of escape-game. 
+
+Levels are:
+* OC to EP
+* OC to OM
+* FC to NC
+* PSI to OC
+
+### OreStrike
+
+With Nemesis we may add an additional bombing mode, where an orebomb has to be placed at one of two or three spots like in CounterStrike. 
+One level could be the whole Castle with a closed gate plus prison. One bomb could be placed in the tower, one in the prison somewhere and one in the chapel or so. As in Assassination, players can use their thief skills (hide in shadows and other abilities) to make it hard to get catched. 
+  
+
+
+
+## Multiplayer Interface
+
+In the Multiplayer Main Menu, he has the following choices:
+
+```
+* Story Coop
+* Deathmatch
+* Scenario
+```
+
+If he chooses Story Coop, he will immediately go into an extra Story-Coop lobby. Because for the story coop we assume that the player wants to do this with a friend and they can find each other there by sharing their data instead of being in a lobby with douzens of available coop sessions.
+
+If he chooses Deathmatch or Scenario he will receive a prompt:
+
+"What do you want?"
+* Host a Session
+* Join a Session
+
+If he chooses "Host a Session", he will be led to the level/scenario selection menu. 
+Upon selection of either Deathmatch or Scenarios in the multiplayer menu, a list of all levels will appear. In Deathmatch, those who aren't unlocked yet will be greyed out and are not selectable. In the Scenarios, those who aren't unlocked yet *are* selectable but are displayed in a different colour. Upon selection of a locked scenario, a text appears on a new menu-subpage that tells the player what he has to achieve in order to unlock it. 
+When an unlocked level is selected, the player lands on a new page with an image of the chosen level in the middle. A short descriptive text of the scenario and the mode it is played in. Here he has only two choices: Go Back or "Host Scenario" or "Host Deathmatch".
+
+If he selects: Join a Session, he will be in a lobby that is a simple list of all available sessions in a frame. In the scenario he can toggle different modes on or off; so that he only sees survival, only assassinations etc. They are displayed by their respective scenario/level name, a tag behind them showing the mode and in brackets how full the server is and how many can join + the name of the host (when he hosts a session, he has to give himself a name) that will appear here, for instance:
+
+* OC Arena (1/2) [flosha] #Deathmatch 
+* OC Arena (1/2) [logx] #Survival 
+* OC Castle (2/10) [Arbax] #Deathmatch 
+* In Flames (1/5) [Auronen] #Survival 
+* Free Mine (10/20) [Dima] #Raid
+
+and so on.
+
+
+
+
+### Lobby
+
+Upon selection of a Deathmatch level or a scenario, the player lands in the multiplayer lobby, where other players join and the character selection happens. Ideally, the characters would be switched through by Arrow-Left and Right and rendered in 3D with an idle animation; if not possible, pre-rendered images may be used or simply text. Just as with the levels, every character can be selected, but locked characters will be named "Locked Character" with a text underneath that tells the player what he has to achieve in order to unlock it. 
+Ideally, the focus would be put on the character selection and on showing the characters specific stats (attributes, skills and equipment), while there would be a little chat window and an info box where the player can see if others are joining; the character selection has to happen by first switching to a character and pressing Enter. If a character is selected, this same character cannot be selected by other players anymore. 
+
+You also should be able to play with exactly your character as he is equipped at that specific point in your singleplayer game; but only one PC_HERO should be allowed to be played in each session.
