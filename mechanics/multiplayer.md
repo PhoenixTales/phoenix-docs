@@ -112,6 +112,12 @@ Exactly because of the story and in order to not compromise it, the other player
 
 Examples: A session starts. One player chooses the main hero, a second player chooses Diego. The main hero is being brought to his conviction at the cliff, while the player in control of Diego spawns on the way to the Cliff. Both characters have their individual mission logs. While the main hero is convicted and it will be his first task to orient himself in the colony (the first chapter being the "orientation phase"), Diego has a mission and motives of his own. 
 
+While the main hero is baptised by the thugs, Diego can intervene. If he chooses to do so a dialogue with the main hero will be initiated, where the player character has the same dialogue options and Diego will say the same, in a fixed manner, as in singleplayer too. The player may then choose to accompany Diego as in 0.94k or to proceed on his own. In any way, the player will have to go through the story as known, will have to join a guild and so forth, while the four friends will have to play their own story. 
+
+Just as with every other character in the game, we have to assume that the friends are *doing* something while the player character is doing his stuff. The story implies this and the original story even more so. In this way, the main hero and the four friends are confronted with each other and crossing their paths several times in course of the story, things happen simultaneously and just as the main hero fulfills his role and takes part in driving the story forward or influencing it in some way or another, the friends too play an important role in the events.  
+
+For example, the old story implies that the four friends are meeting several times in course of the story. In the Alpha, Gorn and Lester are at the meeting place already at the beginning of the game and after escorting the player into the valley, Diego tells the player that he still has to do something. 
+
 
 
 
