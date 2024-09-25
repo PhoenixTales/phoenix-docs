@@ -62,13 +62,19 @@ Den Multiplayer-Modus statt dessen als eine Art Deathmatch einzubauen, wäre auc
 
 <!-- In den letzten Monaten hat sich gezeigt, daß es noch viele dieser Story- und Missions-Probleme gibt. Wenn man bedenkt, wieviel Zeit wir in die Lösung der ersten paar Probleme gesteckt haben, kann man sich ausmalen, wie lange es noch dauern würde, den Rest vernünftig hinzubekommen. Ich verstehe vollkommen, dass es für die Fans so rüberkommt, daß wir am Anfang mit Multiplayer-Storymode "geprahlt" haben und jetzt nicht halten können, was wir versprachen.  
 Ich kann euch da draußen nur bitten, eine Sache zu bedenken: Die Entwicklung eines Spiels wie Gothic dauert in der Regel 2-3 Jahre. Und da ist es unmöglich am Anfang, als Newcomer Team mit einer handvoll Leute von vorneherein perfekt abzuschätzen, was in 2-3 Jahren geht und was nicht. --> 
-
+> *In the last months it became obvious, that there are still many of these story- and mission-problems. When you consider how much time we have put into the solution of the first few problems, you can imagine how long it would take, to figure the rest out reasonably. I completely understand that for the fans it appears to be like this, that at the beginning we have bragged about a multiplayer-storymode and now we cannot keep our promise.*
+> *I can only ask you out there, to consider one thing: The development of a game like Gothic usually takes 2-3 years. And it is impossible there, from the start, as a newcomer team with a handful of people, to estimate perfectly from the outset what is possible in 2-3 years and what not.*
 
 ----
 
 ## Critique of Impure Reason
 
-**Flosha:** In his answers, Mike gives the impression as if in the multiplayer there would be up to 5 players which are all on the same level, probably all convicted together and then developing their character at will.  
+**Flosha:** At first I will try to summarise the reasoning given. It boils down to the following problems:  
+
+* 
+
+
+In his answers, Mike gives the impression as if in the multiplayer there would be up to 5 players which are all on the same level, probably all convicted together and then developing their character at will.  
 But the multiplayer was based on the idea of one nameless hero and the four friends. The four friends are convicted already, they already have a guild and a place in the prison hierarchy as well as an associated class. 
 
 
