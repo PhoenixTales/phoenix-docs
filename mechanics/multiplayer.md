@@ -4,6 +4,8 @@
 ``Created: 03.11.2022``  
 ``Last update: 25.09.2024``  
 
+Please be aware that nothing of what will be described in this article is currently worked at. It should be seen as an attest of a potential future realisation; of how a multiplayer story mode could be realised and of potential other mutliplayer modes that could fit very well into the game - much of which - or at least the technical framework of which - have already been realised in the community, but the specifics of which are our unique concepts.  
+{: .subtext }
 
 **Content:**
 * Alpha Multiplayer
@@ -22,11 +24,6 @@
     * *Ore Strike*
   * Unlocking Content
   * Multiplayer Interface
-
----
-
-Please be aware that nothing of what will be described in this article is currently worked at. It should be seen as an attest of a potential future realisation; of how a multiplayer story mode could be realised and of potential other mutliplayer modes that could fit very well into the game - much of which - or at least the technical framework of which - have already been realised in the community, but the specifics of which are our unique concepts.  
-{: .subtext }
 
 
 ## Alpha Multiplayer
