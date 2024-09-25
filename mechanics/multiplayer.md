@@ -5,8 +5,26 @@
 
 Please be aware that nothing of what will be described here below is currently worked at. It is primarily an attest of a potential future realisation; of how the multiplayer story mode could be realised and of potential other mutliplayer modes that could fit into the game - much of which - or at least the technical framework of which - have already been realised in the community.  
 
+**Content:**
+* Alpha Multiplayer
+  * Reasons for the Cancellation
+  * Critique of Impure Reason
+* Phoenix Multiplayer
+  * Story Mode
+    * Main Plot Coop
+    * Short Stories
+  * Arena
+  * Scenarios
+    * *Arena*
+    * *Survival*
+    * *Raid*
+    * *Assassination*
+    * *Convoy*
+    * *OreStrike*
 
-## Story Mode
+
+
+## Alpha Multiplayer
 
 From the very beginning of the development, Gothic had always been promoted as having a multiplayer story mode (which we call "Coop" today). It was an essential part of the project that they wanted to realise, mentioned in always every single interview and several times did let it seem that they are actually proud of the concept behind their multiplayer, which was meant to be different than what players knew at the time. 
 
@@ -244,7 +262,7 @@ These Bonus levels function like little mods on their own; the gameplay mechanic
 
 Regular deathmatch and team deathmatch (depending on level size) in a collection of levels unlocked by playing the Singleplayer. A timer is running and players respawn with a short delay; fight is going on until the time is over, who has more points wins. 
 
-Points are given for killing enemies, healings friends and ...? 
+Instead of points given for killing enemies only (or at all), we could make it more tactical and stylish and thereby create a better flow by giving points only for (1) silent kills, (2) parades, (3) evasions, (4) healing of friends, ...? 
 
 
 ## Scenarios
@@ -293,7 +311,7 @@ DISSOLVE:
 "The goal is to survive and to escape".
 Either alone or as a team of friends against AI. The number of players (up to 5), which enemies will spawn and how many in how many waves will depend on the level and is pre-scripted. 
 
- * **OC Arena**: A fight against all kinds of human warriors becoming progressively stronger. 
+ * **Old Arena**: A fight against all kinds of human warriors becoming progressively stronger. 
  * **Orgy Madness**: The orgy going wrong; a big fight inside the Swamp where everyone is suddenly going mad; dead novices wake up again, possessed by the Sleeper. 
  * **In Flames**: The Firemages fight against waves of guards and shadows coming; when all the mages are dead, another level is loaded as a bonus, where you play Corristo in the prison. The player who survived the longest gets to play Corristo, the others watch. He is alone but with mightier spells, more room to move and some possibilities to interact with the environment.
  * **Death to the Barons**: A fight in the castle, where the player can be one of the five barons and they try to survive against the waves of shadows and diggers storming the castle. 
@@ -303,7 +321,7 @@ Either alone or as a team of friends against AI. The number of players (up to 5)
    
 In this way, as in the story bonus levels, we use multiplayer maps to expand the storytelling. 
 
-Since these levels are more about the fighting, we keep it fair and fun and simplify things; instead of the need to grab an item with an animation, items will spawn as known from oldschool shooters fatty floating sprites you just have to runt through. In some levels, like the OC Arena or In Flames, those items will spawn at specific points in the map like in Unreal Tournament. In other levels, like in the Orgy Madness, the Great Hall and the Demon Invasion, the enemies will drop stuff. This way the player can regenerate health during the waves and sometimes mid battle. Health immediately heals you, mana fills up immediately etc.
+Since these levels are more about the fighting, we keep it fair and fun and simplify things; instead of the need to grab an item with an animation, items will spawn as fat floating items you just have to run through as in Retro Mode. In some levels, like the *Old Arena* or *In Flames*, those items will spawn at specific points in the map like in Unreal Tournament. In other levels, like in *Orgy Madness*, the *Great Hall* and *Demon Invasion*, the enemies will drop stuff. This way the player can regenerate health during the waves and sometimes mid battle. Health immediately heals you, mana fills up immediately etc.
 
 
 ### Raid
