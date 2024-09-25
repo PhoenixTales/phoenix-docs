@@ -38,16 +38,17 @@ While most people may not know or remember much of what the Gothic multplayer wa
 
 For example, they had planned to let other players join in the middle of a singleplayer playthrough:
 
-> How is Gothic going to support Multi-player? Will you be able to adventure with your character build up in single player along with your friends favorite characters?
+**20.06.1998:**  
+> How is Gothic going to support Multi-player? Will you be able to adventure with your character build up in single player along with your friends favorite characters?  
+> Mike: Yes. But we plan to allow only characters of the same level to join a game, to keep the game balance intact. As we started with GOTHIC, I imagined a game where you can play several hours in single player mode, then join a game with your friend and take your character with you and finally even take the improvements you`ve made in your multiplayer session back to your single player game...  
+> Tom: Just to explain: GOTHIC is divided into six chapters, and you can only join a game, if your characters are in the same chapter.
 
-> Mike: Yes. But we plan to allow only characters of the same level to join a game, to keep the game balance intact. As we started with GOTHIC, I imagined a game where you can play several hours in single player mode, then join a game with your friend and take your character with you and finally even take the improvements you`ve made in your multiplayer session back to your single player game...
+They also claimed that the way that the multiplayer would be realised in Gothic is something new that has never been done: 
 
-Tom: Just to explain: GOTHIC is divided into six chapters, and you can only join a game, if your characters are in the same chapter.
+**13.11.1998:**
+> Stefan Nyul: We figured out a very smart design for the multiplayer mode. This will be something absolutely unique, never done before. But let us finish the implementation before talking of details. 
+> Tom Putzki: What can be said right now is the fact that GOTHIC can be played in a local network with up to five players. And about this unique feature I want to say... [he didn't say more]
 
-
-
-
-and several times did let it seem that they are actually proud of the concept behind their multiplayer, which was meant to be different than what players knew at the time. 
 
 
 
