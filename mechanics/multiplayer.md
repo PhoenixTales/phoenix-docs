@@ -1,7 +1,8 @@
 # Multiplayer
 
 ``Author: Flosha``  
-``25.09.2024``
+``Created: 03.11.2022``  
+``Last update: 25.09.2024``  
 
 
 **Content:**
@@ -10,10 +11,8 @@
   * Critique of Impure Reason
 * Phoenix Multiplayer
   * Story Mode
-    * Character Selection
-    * Fixed Roles
-    * Multi-Storytelling
     * Short Stories
+  * Freeplay Mode
   * Scenarios
     * *Arena*
     * *Survival*
@@ -211,21 +210,23 @@ And it also offers incredible incentives for the modding community. Because othe
 And if the technical side of this endeavour is solved, - and there is some work being done in that direction by programmers involved in Phoenix, among others - this is definitely the direction we would choose. Time will tell if this dream comes true. But it is clear, that the original Vision of Gothic will not be completely fulfilled without realising the Multiplayer Story Mode. 
 
 
-## Freeplay Mode
+#### Short Stories
 
-Potential freeplay mode as known from STALKER utilising the entire game world, that could be opened up to a large number of players who would then be able to play their own stories here without a pre-narrated story, only with a simulated A-life, including occasional respawns of monsters, items, trading inventory updates and so forth. 
+In addition to the main plot it would be possible to tell specific short story episodes which aren't taking more than 1-2 hours, such as replaying specific events of the past. These bonus levels or "short stories" function like little mods on their own; the gameplay mechanics are the same as in the main game without any specific multiplayer simplifications as they'll be described below in case of other multiplayer modes. 
 
-Freeplay could potentially be combined with a hardcore Permadeath Mode (the possibility of resurrection, as planned in the Alpha, which then would require help of other players, could make this more endurable); and this could *also* be combined with the idea of switching into the role of any other random character in the gameworld, when the former one dies, so that every NPC can potentially turn into a player character.  
-
-Many interesting ideas can be realised in such a mode. 
-
-
-## Story Episodes
-
-It would be possible to tell specific short story episodes which aren't taking more than 1-2 hours, like events of the past, e.g. by giving the opportunity to play two convicts helping each other during the revolt, such as later barons or Oric and Lee etc. 
+Examplatory Short Stories could be:  
+* **The Revolt (Rise of the Barons)**: An extra level where the prison and the castle is shown as before the revolt, the tower is intact etc. and you can play the revolt with one or two of the barons or other convicts in coop, initiating the revolt, killing the guards, including some dialogues etc. 
+* **Bloodnight**: You play as the friends during the Bloodnight, fighting against the insane that led to Gorns trauma meant to be dealt with in the Sequel until the escape from the colony. 
 
 
-## Additional Modes
+### Freeplay Mode
+
+Potential freeplay mode as known from STALKER utilising the entire game world, that could in theory be opened up to a significant number of players who would then be able to play their own stories here without a pre-narrated story, with a simulated A-life, including occasional respawns of monsters, items, trading inventory updates and so forth. 
+
+Freeplay could potentially be combined with a hardcore Permadeath (the possibility of resurrection, as planned in the Alpha, which then would require help of other players, could make this more endurable). This could also be combined with the idea of switching into the role of any other random character in the gameworld, when the former one dies, so that every NPC can potentially turn into a player character. Many other interesting ideas can be realised in such a mode. 
+
+
+### Scenarios
 
 * **Arena:** Battles in various smaller or larger, literal or metaphorical "arenas" from the game. Arena may be played in multiplayer in form of Deathmatch (1vs1), in form of Team Deathmach (e.g. 2vs2), in Coop against hostile NPCs or even in Singleplayer against NPCs, in which case the Arenas serve as well as practice of the combat/magic system in general.  
 
@@ -233,11 +234,6 @@ It would be possible to tell specific short story episodes which aren't taking m
  
 These modes may be possible to be played with various multiplayer characters that have to be unlocked in story mode (as well as the arenas themselves). 
 
-
-
----
-
-# Multiplayer Old
 
 **Author:** Flosha
 **Dated:** 03.11.2022
@@ -259,12 +255,7 @@ Story....
 Story.... 
 
 
-### Story Bonuslevels
 
-* **The Revolt (Rise of the Barons)**: An extra level where the prison and the castle is shown as before the revolt, the tower is intact etc. and you can play the revolt with one of the barons initiating the revolt and killing the guards, including some dialogues etc. 
-*  **Bloodnight in the New Camp**: You play Gorn in the NC fighting against the insane Orgas. Other players can join in form of Lee, Saturas, etc.)
-
-These Bonus levels function like little mods on their own; the gameplay mechanics are the same as in the main game without any specific multiplayer simplifications as they'll be described below.
 
 
 
