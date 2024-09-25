@@ -193,8 +193,9 @@ It would be possible to tell specific short story episodes which aren't taking m
 
 ## Additional Modes
 
-* **Deathmatch:** Arena battles in various smaller or larger, literal or metaphorical "arenas" from the game.  
-* **Endless/Survival:** Gameplay ala Left 4 Dead with waves of madmen to survive  (e.g. within the castle), or in form of enemies in the Arenas. 
+* **Arena:** Battles in various smaller or larger, literal or metaphorical "arenas" from the game. Arena may be played in multiplayer in form of Deathmatch (1vs1), in form of team deathmachy (e.g. 2vs2), in Coop against hostile NPCs or even in Singleplayer against NPCs, in which case the Arenas serve as well as practice of the combat/magic system in general.  
+
+* **Survival:** Fight agaimst waves of enemies to survive  (e.g. survive against human opponents or against harder and harder monsters in the Arena, survive against the Orcs in the Outside Ring, survive against the Revolt in the Castle, survive against the Madmen at the Pass etc.); the waves may have a fixed number or may be endless with the potential of player rankings by the maximum time they manage to survive.  
  
-These modes may be possible to be played with various possible multiplayer characters that have to be unlocked in story mode. 
+These modes may be possible to be played with various multiplayer characters that have to be unlocked in story mode (as well as the arenas themselves). 
 
