@@ -58,15 +58,9 @@ Mike: In the multiplayer game you can play through the whole story with up to 5 
 
 As you see, the two interview quoted above are almost a whole year apart. In October 1999 the multiplayer was still in the making, at that point since 1997. 
 
-``Add quotes``
+But very shortly after this, after 2-3 years had been spend with the feature, at some point at the end of 1999, it was announced that the multiplayer mode has been cancelled by the developer.  
 
-It was meant to be playable by 5 to 8 players (the announced numbers always varied in course of time) and only in local networks via LAN (online was too slow at the time).  
-
-``Add quotes``
-
-But then, somewhen in 1999, after 3+ years already had been spend to realise it, it was announced that the multiplayer has been cancelled by the developer. 
-
-We will at first deal with the reasons for the cancellation which were explained in detail by Mike, before offering a critique of that reasoning from our perspective and in the context of our design philosophy. 
+We will at first deal with the reasons for this cancellation which were explained in detail by Mike, before offering a critique of that reasoning from our perspective and in the context of our design philosophy. 
 
 
 ### Reasons for the Cancellation
