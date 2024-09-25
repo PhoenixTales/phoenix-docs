@@ -1,12 +1,28 @@
-gothic.gomp.ch 1999
-1999 (Month Unknown)
+# Multiplayer
 
-**Simon Moon:** Was war der Grund, daß der Multiplayermode abgesetzt wurde?
+``Author: Flosha``
+``25.09.2024``
 
-**Mike Hoge:** Schwere Probleme mit der Story und dem Game-Design.
+From the very beginning of the development, Gothic had always been promoted as having a multiplayer. It was an essential part of the project that they wanted to realise, mentioned in every interview and several times did let it seem that they are actually proud of the design concept of their multiplayer, which was meant to be different than what players knew at the time. 
+
+``Add quotes``
+
+But then, somewhen in 1999, after 3+ years already had been spend to realise it, it was announced, that the multiplayer has been cancelled by the developer. 
+
+``gothic.gomp.ch, 1999``
+<!-- > **Simon Moon:** Was war der Grund, daß der Multiplayermode abgesetzt wurde?-->
+> Simon Moon: *What was the reason for the cancellation of the multiplayer?*
+
+<!--
+> **Mike Hoge:** Schwere Probleme mit der Story und dem Game-Design.
 Als wir damals mit Gothic angefangen haben, war es meine Idee, einen Multiplayer-Modus mit Story einzubauen.  
 Wir haben seitdem viele Tage und Wochen mit der Lösung von Multiplayer-Problemen verbracht, weil wir das Feature um jedem Preis einbauen wollten.  
-Relativ früh wurde uns klar, wie viele Probleme da dran hängen, vor allem was die Missionen (die bei der Entwicklung erst als letztes kommen) betrifft.  
+Relativ früh wurde uns klar, wie viele Probleme da dran hängen, vor allem was die Missionen (die bei der Entwicklung erst als letztes kommen) betrifft. -->
+> Mike Hoge: *Heavy problems with the story and the gamedesign.
+> When we started with Gothic back then, it was my idea to implememt a multiplayer mode with story. Since then we have spend many days and weeks with the solution of multiplayer problems, because we wanted to implement the feature at all costs.
+> Relatively early it became clear to us, how many problems are involved in that, especially concerning the missions (which come last in the development process).
+> Some examples:
+> Problem: The missions of Gothic, in some cases, build on each other. There are packs of 5 or 6 missions, which partially must follow each other, but can also partially run parallel. Player A accepts Mission 1a. Mission 1b can only start when Mission 1a was solved. Player B speaks with the mission giver, shortly after player A has solved
 
 Einige Beispiele:  
 Problem: Die Missionen von Gothic bauen teilweise aufeinander auf. Es gibt Packs von 5 oder 6 Missionen, die teilweise aufeinander folgen müssen aber auch teilweise parallel verlaufen können. Spieler A nimmt Mission 1a an. Mission 1b kann erst losgehen, sobald Mission 1a gelöst wurde. Spieler B spricht mit dem Auftraggeber, kurz nachdem Spieler A Mission 1a gelöst hat und bekommt Mission 1b OHNE Mission 1a gemacht zu haben oder überhaupt zu kennen. Das ist Mist.
