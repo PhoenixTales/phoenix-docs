@@ -37,6 +37,6 @@ Tymoria could once have been the name of a realm that perhaps covered the entire
 
 * Tymoris is a city and the (former) residence of the lord of Tymoris. 
 * Tymoria was once a realm covering parts of Myrtana with Tymoris as its capital; today it is just a province in the north-east of Myrtana.
-* The city of Khorinis and the colony are a geographical part of this province, not necessarily a political part, as Khorinis, being a "closed city", might have a special status.
+* The city of Khorinis and the colony are a geographical part of this province, not a political part, as Khorinis, being a "closed city", has a special status.
 * Westfield is a part of Tymoria and lies somewhere in the West of the Colony and Khorinis, which are located in the outmost northeastern corner. 
-* Only some counter-revolutionary tymorian insurgents are still tangled up in the idea of the old Tymoria; since the weakening of Myrtana they seem to strengthen.
+* Only some counter-revolutionary tymorian insurgents are still tangled up in the idea of old Tymoria; since the weakening of Myrtana they seem to strengthen.
