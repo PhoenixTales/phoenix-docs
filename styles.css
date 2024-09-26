@@ -218,7 +218,7 @@ footer {
  
 
 .dir {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   background-color: var(--black);
@@ -725,10 +725,9 @@ and (max-width : 820px) {
   }
 
   .dir {
-    width: 100%;
     position: fixed;
     top: initial;
     right: initial;
-    bottom: 3em;
+    bottom: 0;
   }
 }
