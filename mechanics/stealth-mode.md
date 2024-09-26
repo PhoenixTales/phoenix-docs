@@ -31,3 +31,16 @@ In the Alpha there were about nine skills specifically planned for the Thief:
 (9) Assassination. 
 
 Other than, for instance, sneaking around, opening closed doors and chests (picklock), stealing from a sleeping guard (pickpocket) and killing silently (assassination) with a dagger, all while having a heightened awareness (seventhsense/darksense), there is another important ability of the gothican Thief: His agility. He has to be more agile than any other class. He must reach windows, roofs, all kinds of places inaccessible to other classes. Thus, what I want for the thief class, is to link the cross-class climbing talent to the thief-exclusive acrobatics (lev 2-3) in order to enable him to become sort of a traceur (parcour). And when he is on the run, he has to be able to use his surroundings to his advantage, be it by destroying something and blocking the way for his persecutors, by hiding in a barrell etc. 
+
+
+<style>
+
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+
+</style>

@@ -79,3 +79,17 @@ keywords: hideout(!), staying hidden
 
 
 ## Psionic: The Warped Mind
+
+
+
+<style>
+
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+
+</style>

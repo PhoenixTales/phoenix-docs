@@ -67,3 +67,15 @@ When offering a price which is too low and gets rejected by the trader, his mood
 
 Important: If the player has a very high rank, being a firemage or baron, traders in the OC, depending on their rank, in the most extreme cases, may not dare to tell you a price at all and just give it to you without question, while others (e.g. within the castle) may offer it for significantly reduced cost. Similarly, when being a priest and the like: "Für einen Mann Eures Ranges..." The player clearly has to recognise a change in behaviour and different advantages (or disadvantages) depending on his guild and rank while trading. 
 
+
+<style>
+
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+
+</style>

@@ -118,3 +118,15 @@ Examples: He is a Shadow and is told that there has been a dispute between Corri
 ```
 ToDo: Are there more aspects to it?
 ```
+
+<style>
+
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+
+</style>

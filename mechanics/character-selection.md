@@ -7,3 +7,16 @@
 
 **Mike:** You'll alway start with the same Character. He's a noname Level 1 character with no specifications at all (perhaps we'll let the player choose his facial texture). During the first hours of the game, you'll initiate your character depending on what quests you take (and succeed in!). So the game becomes the character generation. (glideunderground.com 16.10.1999)
 
+
+
+<style>
+
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+
+</style>

@@ -133,3 +133,15 @@ The (singleplayer) story of course has to have priority, as it is the basis of e
 
 * [Phoenix Multiplayer](/mechanics/multiplayer-phoenix)
 
+
+<style>
+
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+
+</style>

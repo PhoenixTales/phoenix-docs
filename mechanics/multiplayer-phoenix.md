@@ -318,3 +318,16 @@ Ideally the characters would be switched through by Arrow-Left and Right and ren
 Ideally, the focus would be put on the character selection and on showing the characters specific stats (attributes, skills and equipment), while there would be a little chat window and an info box where the player can see if others are joining; the character selection has to happen by first switching to a character and pressing Enter. If a character is selected, this same character cannot be selected by other players anymore. 
 
 It also would be cool if one would be able to play with exactly his character as he is equipped at that specific point in the singleplayer campaign; but only one `PC_HERO` should be allowed to be played in each session.
+
+
+<style>
+
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+
+</style>

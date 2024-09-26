@@ -43,3 +43,16 @@ You sneak along the edge of the abyss, feeling every tendon in your arms tensing
 Monsters can sense you approaching. Their behaviour varies whether they are hunting or fighting, weak creatures may join forces. One thing is for sure: they won't just sit around and wait for you to come along and kill them. They have a certain inbred pattern of behaviour.  
 "(...)or just fiddle about with their feet." *Michael Hoge, Art Director*
 
+
+
+<style>
+
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+
+</style>

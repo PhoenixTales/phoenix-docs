@@ -45,3 +45,15 @@ Recommended for experienced players who want a hardcore challenge.
 **Rewards:** By completing the game in *Feverdream*, *Nightmare* or *Madness* mode and depending on the faction played for, players may receive rewards in form of unlocking additional singleplayer faces, bonus coop levels and multiplayer levels and characters.
 {: .subtext }
 
+
+<style>
+
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+
+</style>

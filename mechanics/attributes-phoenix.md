@@ -524,3 +524,16 @@ And that's it. This is our solution, making for a coherent system, that is both 
         <strong>Last change:</strong> 29.10.2023
     </p>
 </div>
+
+
+<style>
+
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+
+</style>

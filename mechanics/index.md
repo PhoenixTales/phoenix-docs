@@ -72,6 +72,14 @@ Classes, Attributes, Skills, modes of interaction, experience, attitudes, interf
 
 <style>
 
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 80%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+
     .nyx-ascii {
         display: block;
         image-rendering: pixelated;
