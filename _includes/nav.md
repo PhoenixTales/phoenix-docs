@@ -20,7 +20,7 @@
 
 ## II. [Mechanics](/mechanics/)
 
-1. [Storydriven](/mechanics/driven-by-story)
+1. [Storydriven](/mechanics/storydriven)
 2. Classes
 3. Attributes
 	1. [Alpha Attributes](/mechanics/attributes-alpha)
