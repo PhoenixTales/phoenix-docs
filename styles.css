@@ -157,7 +157,7 @@ nav .header {
 /* INDEX NAVIGATION */
 
 nav .left {
-  width: 100%;
+  width: 380px;
   /* width: 400px; */
   padding: 0;
   /*box-shadow: 0 0 20px 20px rgba(0,0,0,.8);*/
@@ -668,6 +668,10 @@ and (max-width : 820px) {
     border-right: none;
     
     box-shadow: 0 30px 40px rgba(0,0,0,.1);
+  }
+
+  nav .left {
+    width: 100%;
   }
 
   /* HIDE HEADING due to inclusion in menu button */
