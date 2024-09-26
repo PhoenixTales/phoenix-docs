@@ -71,7 +71,7 @@
    1. [Phoenix Allegory](/lore/phoenix-allegory)
 
 
-### IV. [World Design](/story/world)
+### IV. [World Design](/world/)
 
 1. World Map & Layout
 	1. [Level Structure](/story/level-structure)
