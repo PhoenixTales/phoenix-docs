@@ -619,7 +619,6 @@ and (max-width : 820px) {
   
   #menu-toggle:checked ~ label[for="menu-toggle"]{
     margin-bottom: 40px;
-    overflow: auto;
   }
   
   @supports (backdrop-filter: blur(10px)) {
@@ -643,16 +642,12 @@ and (max-width : 820px) {
   }
 
   nav {
-    position: fixed;
+    position: absolute;
     width: 100%;
     font-size: 15px;
     border-right: none;
     
     box-shadow: 0 30px 40px rgba(0,0,0,.1);
-  }
-
-  nav:checked {
-    overflow: auto;
   }
 
   /* HIDE HEADING due to inclusion in menu button */
