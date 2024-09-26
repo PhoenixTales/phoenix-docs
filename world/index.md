@@ -189,7 +189,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
         1. Demonic Overlays
         2. Demon Tunnels
 6. [Faction Design](/world/factions/)
-    1. [Guilds](/world/factions/guilds-descriptions)
+    1. [Guilds](/world/factions/guilds/guilds-descriptions)
         1. Orpheus
             1. Folk
                 * Miners
