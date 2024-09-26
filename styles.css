@@ -156,6 +156,13 @@ nav .header {
 
 /* INDEX NAVIGATION */
 
+nav .left {
+  width: 100%;
+  /* width: 400px; */
+  padding: 0;
+  /*box-shadow: 0 0 20px 20px rgba(0,0,0,.8);*/
+}
+
 nav .left ol, nav .left ul {
   list-style-type: none;
   font-family: monospace;
@@ -545,14 +552,6 @@ nav {
   z-index: 2;
 
   border-right: 5px solid var(--dark);
-}
-
-
-nav .left {
-  width: 380px;
-  /* width: 400px; */
-  padding: 0;
-  /*box-shadow: 0 0 20px 20px rgba(0,0,0,.8);*/
 }
 
 

@@ -19,3 +19,14 @@ Judging from this depiction on the mal
 
 
 In this aspect, I will argue, that the level designers fucked up big time. 
+
+
+<style>
+    main {
+        background: url("/_img/bg/world2.jpg");
+        background-position: top right;
+        background-size: 75%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

@@ -321,13 +321,11 @@ It also would be cool if one would be able to play with exactly his character as
 
 
 <style>
-
     main {
         background: url("/_img/bg/code.jpg");
         background-position: top right;
-        background-size: 80%;
+        background-size: 70%;
         background-repeat: no-repeat;
         width: 100%;
     }
-
 </style>

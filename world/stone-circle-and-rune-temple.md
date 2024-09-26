@@ -34,3 +34,12 @@ This *old* temple (at the surface, not to be confused with the ancient temple) i
 So the old temple as originally designed could potentially be what Ralfs old "rune temple" idea developed into. It is not an island, but it is placed very iconically at the sea. And as we know from the alpha screenshots it was occupied by *zombies*. Where would they be if not at the place of resurrection? They must be the result of resurrections going wrong.
 
 
+<style>
+    main {
+        background: url("/_img/bg/world2.jpg");
+        background-position: top right;
+        background-size: 75%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

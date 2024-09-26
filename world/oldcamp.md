@@ -13,3 +13,13 @@ https://media.gothicarchive.org/conceptart/mikehoge/locations/path-to-city.png
 
 [TODO: Add this section from below Cavalorns hut over the bridge until the orc arena etc., this entire section, into the bigger swamp, accessible perhaps only in Act II in a mixture of G1 and what G2 did there with the swamp dragon]
 
+
+<style>
+    main {
+        background: url("/_img/bg/world2.jpg");
+        background-position: top right;
+        background-size: 75%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

@@ -51,6 +51,12 @@ Now, `RetroPrints` on the other hand is specifically embracing prints as in our 
 Between `NoPrints` and `RetroPrints` we give `SimplePrints` as a third option, to offer less obtrusive text in a smaller font at the top of the screen or at a corner.
 
 
-
-
-
+<style>
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 70%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

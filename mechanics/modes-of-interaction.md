@@ -11,3 +11,14 @@
 6. Crafting Mode
 7. Trading Mode
 
+
+
+<style>
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 70%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

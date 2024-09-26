@@ -214,3 +214,13 @@ In the original Gothic Sequel the layout of the world was obviously defined by t
 
 * World Design (wip)
 
+
+<style>
+    main {
+        background: url("/_img/bg/world2.jpg");
+        background-position: top right;
+        background-size: 75%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

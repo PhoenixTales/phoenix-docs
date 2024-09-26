@@ -468,3 +468,13 @@ In this case, at least parts of the rock faces west of the temple ruins could re
 
 Through this solution I could finally solve the puzzle of redesigning the northeastern environment without compromises. I had worked on this design, on and off, in search for a solution, for 2 years.
 
+
+<style>
+    main {
+        background: url("/_img/bg/world2.jpg");
+        background-position: top right;
+        background-size: 75%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

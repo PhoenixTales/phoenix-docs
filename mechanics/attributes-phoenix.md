@@ -527,13 +527,11 @@ And that's it. This is our solution, making for a coherent system, that is both 
 
 
 <style>
-
     main {
         background: url("/_img/bg/code.jpg");
         background-position: top right;
-        background-size: 80%;
+        background-size: 70%;
         background-repeat: no-repeat;
         width: 100%;
     }
-
 </style>

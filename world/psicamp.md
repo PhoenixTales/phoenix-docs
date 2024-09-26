@@ -20,4 +20,12 @@ Then a bigger wooden fortress around a tree was drawn, with a smaller holy stone
 Finally it was developed into seperated little islands instead of it all being one wooden temple complex; the holy stone remained, but was even more simplified; no statue or idol anymore, only the eye as the sign of awakening. The building behind the stone was kept as an idea and was developed further into the [Sanctum]() with a [Crypta]() underneath. 
 
 
-
+<style>
+    main {
+        background: url("/_img/bg/world2.jpg");
+        background-position: top right;
+        background-size: 75%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

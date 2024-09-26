@@ -201,4 +201,12 @@ It should be obvious that our solution for PHOENIX is the return to the initial 
 * [Evolution of the Map](/story/map-evolution)
 
 
-
+<style>
+    main {
+        background: url("/_img/bg/world2.jpg");
+        background-position: top right;
+        background-size: 75%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

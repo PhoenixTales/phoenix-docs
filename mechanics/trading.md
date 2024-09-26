@@ -69,13 +69,11 @@ Important: If the player has a very high rank, being a firemage or baron, trader
 
 
 <style>
-
     main {
         background: url("/_img/bg/code.jpg");
         background-position: top right;
-        background-size: 80%;
+        background-size: 70%;
         background-repeat: no-repeat;
         width: 100%;
     }
-
 </style>

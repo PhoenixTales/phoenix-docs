@@ -6,3 +6,13 @@
 *Can you tell us about the camera angles? Will you be able to set your own camera angles, or is it set automatically?*
 **Carsten Edenfeld:** There will be no need to exclusively set the camera angles as the AI will self-decide which angles and movement mode is best for a given game situation. For example, the fight camera will behave differently than the normal behind-the-player-cam in order to include most points of interest for the player. This can be useful, as for example when a monster tries to knock you down from behind, and you are exploring some other things in front of you, the camera will react accordingly and focus on those things, you really want to see. (13.07.1999, ga-rpg.com)
 
+
+<style>
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 70%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

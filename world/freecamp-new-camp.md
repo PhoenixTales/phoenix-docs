@@ -25,3 +25,13 @@ The positional change of the Free Mine cannot be seen independent from the posit
 
 -> For us, just an additional reason against the new position of the Old Mine. Since as it is now, the Old Mine is *closer* to the New Camp than it is to the Old Camp. 
 
+
+<style>
+    main {
+        background: url("/_img/bg/world2.jpg");
+        background-position: top right;
+        background-size: 75%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

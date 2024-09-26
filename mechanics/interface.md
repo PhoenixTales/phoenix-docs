@@ -33,3 +33,13 @@ Tom: The AI, the daily routines of the NPCs and the, what we call it, living wor
 Gothic will be a challenge for hard-core role playing gamers because of its game depth and its storyline. Due to the simple user interface, visualising everything and feedback for every thing you do, it will also be suitable for the mainstream player who is used to steering Lara through her world...
 29.06.1999_rpgvault.ign.com.txt
 
+
+<style>
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 70%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

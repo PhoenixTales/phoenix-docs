@@ -31,3 +31,14 @@ the mages leaving the castle. If taken literally,
 it would suggest that the mages actually left the castle
 through this water pipe. And if they can transform into water,
 this can be very well imagined. 
+
+
+<style>
+    main {
+        background: url("/_img/bg/code.jpg");
+        background-position: top right;
+        background-size: 70%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

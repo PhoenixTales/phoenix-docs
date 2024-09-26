@@ -201,3 +201,12 @@ Then the shape of the southern river was changed, as it had lost its function of
 He cannot explore it as long as the barrier is intact. Making it a huge mysterious area that the player cannot reach, just look inside from afar, wondering what may there behind the barrier and how far it may lead him. 
 
 
+<style>
+    main {
+        background: url("/_img/bg/world2.jpg");
+        background-position: top right;
+        background-size: 75%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
+</style>

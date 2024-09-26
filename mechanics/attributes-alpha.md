@@ -400,7 +400,7 @@ It was not implemented in the end, be it by lack of time or by deliberate decisi
     main {
         background: url("/_img/bg/code.jpg");
         background-position: top right;
-        background-size: 80%;
+        background-size: 70%;
         background-repeat: no-repeat;
         width: 100%;
     }
