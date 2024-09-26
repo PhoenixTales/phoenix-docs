@@ -19,7 +19,6 @@ AUTHORS
  Arbax 
  Auronen 
 ```
-{: .og-doc-bg }  
 <a href="https://phoenixtales.de"><img class="phoenixtales" src="/_img/promo/phnx-stalker2.png"></a>
 
 In the early stages of development we created what later would become the [Gothic Archive](https://gothicarchive.org) by collecting as much pre-release material as possible to research the original vision of what we summarise as the “Gothic Alpha”. In the course of this work we decided to prepare and present it in the form of a website to the community.
