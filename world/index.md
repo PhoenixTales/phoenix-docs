@@ -1,6 +1,6 @@
 # World Design
 
-<img class="world" src="/_img/world/overworld.jpg">
+<img class="world" src="/_img/world/overworld.png">
 
 ```
 Author:  Flosha
@@ -264,6 +264,14 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
 
 
 <style>
+
+    main {
+        background: url("/_img/bg/world2.jpg");
+        background-position: top right;
+        background-size: 70%;
+        background-repeat: no-repeat;
+        width: 100%;
+    }
 
     .world {
         display: block;
