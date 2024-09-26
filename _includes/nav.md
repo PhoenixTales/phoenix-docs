@@ -74,8 +74,8 @@
 ### IV. [World Design](/world/)
 
 1. World Map & Layout
-	1. [Level Structure](/story/level-structure)
-	2. [Evolution of the Map](/story/map-evolution)
+	1. [Level Structure](/world/level-structure)
+	2. [Evolution of the Map](/world/map-evolution)
 	3. Layout of the World
 2. Landscape & Climate
     1. The Valley of Mines
@@ -94,12 +94,12 @@
     5. Demons
 5. Locations
     1. Overworld
-		1. [Northeast](/story/world/northeast) 
+		1. [Northeast](/world/northeast) 
     2. Underworld
     3. Outside World
     4. Demonworld
-6. [Faction Design](/story/factions/factions)
-	1. [Guilds](/story/factions/guilds-descriptions)
+6. [Faction Design](/world/factions/)
+	1. [Guilds](/world/factions/guilds/guilds-descriptions)
 		1. Orpheus
 			1. Folk (BDL/BEG/BAU)
 			2. Mafia (EBR/GRD/STT)
@@ -112,11 +112,11 @@
 			1. Folk (WRK/BEG/BAU)
 			2. Magnates (VRT)
 			3. Clergy (KDF/KDW/KDL)
-			4. Outlaws ([DHT](/story/factions/guilds/demonhunters)/BDT)
+			4. Outlaws ([DHT](/world/factions/guilds/demonhunters)/BDT)
 			5. Royals (PAL/GRD/SLD)
 			5. Heretics (MYS/DMC/AMZ)
 			6. Revolt (MST/SLV)
-			7. Law (MGS/[INQ](/story/factions/guilds/inquisition)/[SGD](/story/factions/guilds/black-guard))
+			7. Law (MGS/[INQ](/world/factions/guilds/inquisition)/[SGD](/world/factions/guilds/black-guard))
 			8. Pariahs (POS/HLF)
 			9. Clans (BLO/DRE)
 

@@ -34,8 +34,8 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
 **Content:**
 
 1. World Map & Layout
-	1. [Level Structure](/story/level-structure)
-	2. [Evolution of the Map](/story/map-evolution)
+	1. [Level Structure](/world/level-structure)
+	2. [Evolution of the Map](/world/map-evolution)
 	3. Layout of the World
 2. Landscape & Climate
     1. The Valley of Mines
@@ -88,7 +88,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
             3. Western Plateau
             4. Eastern Grasslands
         2. Northern Environment
-            1. [Northeast](/story/world/northeast) 
+            1. [Northeast](/world/northeast) 
                 * Northern Forest
                 * Northern Lake(s)
                 * Cliff of the Damned 
@@ -96,7 +96,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
                 * Abandoned Mine Outside
                 * Hidden Bandits Hideout
                 * Old Temple Ruins
-            2. [Northwest]
+            2. Northwest
                 * Troll Canyon
                 * Old Pass to the North
                 * Old Pass to the West
@@ -188,8 +188,8 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
     4. Demonworld
         1. Demonic Overlays
         2. Demon Tunnels
-6. [Faction Design](/story/factions/factions)
-    1. [Guilds](/story/factions/guilds-descriptions)
+6. [Faction Design](/world/factions/)
+    1. [Guilds](/world/factions/guilds-descriptions)
         1. Orpheus
             1. Folk
                 * Miners
@@ -239,12 +239,12 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
                 * Royal Army
             5. Law
                 * Royal Judges
-                * [Inquisition](/story/factions/guilds/inquisition)
-                * [Black Guard](/story/factions/guilds/black-guard)
+                * [Inquisition](/world/factions/guilds/inquisition)
+                * [Black Guard](/world/factions/guilds/black-guard)
                 * Royal Shadows
             6. Outlaws
                 * Anti-Royal KdW
-                * [Demonhunters](/story/factions/guilds/demonhunters)
+                * [Demonhunters](/world/factions/guilds/demonhunters)
                 * Bandits
             7. Revolt
                 * Scrapers Union
