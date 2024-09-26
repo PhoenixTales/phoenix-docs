@@ -725,6 +725,7 @@ and (max-width : 820px) {
   }
 
   .dir {
+    width: 100%;
     position: fixed;
     top: initial;
     right: initial;
