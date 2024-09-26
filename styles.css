@@ -217,6 +217,15 @@ footer {
   }
  
 
+.dir {
+  background-color: var(--black);
+  font-family: "IBM VGA 8x16", monospace;
+  font-size: 15px;
+  padding: 1em;
+}
+
+
+
 /* ARTICLES */
 
 .article {
@@ -710,5 +719,11 @@ and (max-width : 820px) {
 
   footer {
     font-size: 13px;
+  }
+
+  .dir {
+    width: 100%;
+    position: fixed;
+    bottom: 0;
   }
 }
