@@ -8,7 +8,7 @@
 <!--About the Author-->
 
 
-## I. [Vision](/vision/vision)
+## I. [Vision](/vision/)
 
 1. [Vision of Gothic](/vision/vision-of-gothic)
 2. [Gothic defined](/vision/gothic-defined)
@@ -18,7 +18,7 @@
 6. [Reconstruction](/vision/reconstruction)
 
 
-## II. [Mechanics](/mechanics/mechanics)
+## II. [Mechanics](/mechanics/)
 
 1. [Storydriven](/mechanics/driven-by-story)
 2. Classes
@@ -53,7 +53,7 @@
 
 <!-- ### III. [Setting](/story/setting) -->
 
-## III. [Lore](/lore/lore)
+## III. [Lore](/lore/)
 
 1. Mythology
    1. [Gods & Demons](/lore/gods)
