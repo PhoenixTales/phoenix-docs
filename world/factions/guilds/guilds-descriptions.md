@@ -1,9 +1,9 @@
 # Guild Descriptions
 
 ```
-Author:  Flosha  
+Author:  Flosha
 Created: 23.10.2021
-Status: <span class="changed">wip</span>   
+Status: wip
 ```
 {: .info }
 
