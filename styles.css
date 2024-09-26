@@ -218,6 +218,9 @@ footer {
  
 
 .dir {
+  position: absolute;
+  top: 0;
+  right: 0;
   background-color: var(--black);
   font-family: "IBM VGA 8x16", monospace;
   font-size: 15px;
@@ -724,6 +727,6 @@ and (max-width : 820px) {
   .dir {
     width: 100%;
     position: fixed;
-    bottom: 0;
+    bottom: 3em;
   }
 }
