@@ -6,9 +6,9 @@
 
 
 **Content:**
-* What it should have been
-* Reasons for the Cancellation
-* Critique of Impure Reason
+* [What it should have been](#what-it-should-have-been)
+* [Reasons for the Cancellation](#reasons-for-the-cancellation)
+* [Critique of Impure Reason](#critique-of-impure-reason)
 
 
 ## What it should have been
