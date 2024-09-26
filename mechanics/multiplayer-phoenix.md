@@ -11,16 +11,16 @@ The Phoenix multiplayer - if ever realised - will be divided into three sections
 **Content:**
 * [Story Mode](#story-mode)
     * [Short Stories](#short-stories)
-  * [Freeplay Mode](#freeplay-mode)
-  * [Scenarios](#scenarios)
-    * [*Arena*](#arena)
-    * [*Survival*](#survival)
-    * [*Raid*](#raid)
-    * [*Assassination*](#assassination)
-    * [*Convoy*](#convoy)
-    * [*Ore Strike*](#ore-strike)
-  * [Unlocking Content](#unlocking-content)
-  * [Interface](#interface)
+* [Freeplay Mode](#freeplay-mode)
+* [Scenarios](#scenarios)
+   * [*Arena*](#arena)
+   * [*Survival*](#survival)
+   * [*Raid*](#raid)
+   * [*Assassination*](#assassination)
+   * [*Convoy*](#convoy)
+   * [*Ore Strike*](#ore-strike)
+* [Unlocking Content](#unlocking-content)
+* [Interface](#interface)
 
 ---
 
