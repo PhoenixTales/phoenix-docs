@@ -644,7 +644,7 @@ and (max-width : 820px) {
   }
 
   nav {
-    position: absolute;
+    position: fixed;
     width: 100%;
     font-size: 15px;
     border-right: none;
