@@ -3,9 +3,7 @@
 <img class="world" src="/_img/world/overworld.png">
 
 ```
-Author:  Flosha
-Written: 05.09.2024
-Update:  06.09.2024
+Author: Flosha / Written: 05.09.2024 / Update: 06.09.2024
 ```
 {: .info }
 
@@ -268,7 +266,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
     main {
         background: url("/_img/bg/world2.jpg");
         background-position: top right;
-        background-size: 70%;
+        background-size: 75%;
         background-repeat: no-repeat;
         width: 100%;
     }
