@@ -113,6 +113,7 @@ nav {
   position: sticky;
   height: 100vh;
   top: 0;
+  overflow: auto;
 }
 
 nav img {
@@ -680,6 +681,7 @@ and (max-width : 820px) {
 
   nav {
     height: initial;
+    overflow: initial;
     position: fixed;
     width: 100%;
     font-size: 15px;
