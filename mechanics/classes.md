@@ -7,9 +7,9 @@ Changed: 25.08.2024
 ```
 {: .info }
 
-The four classes correspond to four different playstyles by which the player can approach game situations and solve the game. They are not selected before gamestart but they are immersively choosen during gameplay via individual playstile and a sequence of ingame choices. 
+The four classes correspond to four different playstyles by which the player can approach game situations and solve the game. They are not selected before gamestart but they are immersively choosen during gameplay via individual playstyle and a sequence of ingame decisions. 
 
-The class is acquired by a joining a guild as the representative of a camp-specific class.
+The class is acquired by joining a guild as the representative of a camp-specific class.
 In the gameplay mechanics they are primary styles of interaction.
 
 
@@ -34,7 +34,7 @@ Orpheus Guilds:
 |----------|----------------------|
 | Warriors | Barons (EBR), Guards (GRD), Soldiers (SLD), Templars (TPL) |
 | Mages    | Circle of Fire (KDF), Circle of Water (KDW), Demonmage (DMB) |
-| Thieves  | Shadows (STT), Organisators (ORG), Masters (MST) |
+| Thieves  | Shadows (STT), Organisation (ORG), Masterthieves (MST) |
 | Psionics | Novices (NOV), Gurus (GUR) |
 
 
@@ -51,18 +51,27 @@ Psionic: From NOV to -> GUR
 
 ... name MAFIA as an inspiration for the barons and the warriors path about manliness, loyality, fidelity, power etc. 
 
+Weaponry is the primary Attribute associated with the Warrior Class.
+
+**Warrior Skills:**
+* Sword
+* Battleaxe
+* 
 
 
 ## Mage: The Arcane Way	14.02.2022
 
-Skills:
-Identify Magic / Detect Magic  (Orpheus Guild System V2, Battlemage/Healing Mage)
-
 magical aura. Have a sense to detect magic in objects. And see them glowing more.. That would make a lot of sense. Then the mages would be able to help the diggers to find ore.. which they also need for their runes etc. They can find magical artifacts easier, they can feel the magical power emanating from some special amulet/ring and so forth; and its visualised in some way for the player
-
 
 [to the implementation: skills doc concerning TAL_IDENTIFY or TAL_MAGIC or whatever:]
 To not be too obtrusive, the magical glowing pfx effect could be used for this talent. It was used in G2 for all kinds of objects. But honestly: I don't like it, that some potion or a spell has this magical glow around it, why should it? I mean, the potion is closed, the magic is signed/spoken into the spell; its not as if any non-mage, when a spell is lying among a bunch of others papers, could distinguish it easily by the paper somehow having glitter all around it... So we can use this exclusively, for the visualisation of the mages skill to identify magic. :)
+
+**Magic Skills:**  
+* Identify/Detect Magic  
+* Spells of diverse categories
+
+(Orpheus Guild System V2, Battlemage/Healing Mage)
+
 
 
 
@@ -76,9 +85,23 @@ The thieves game is a play with light, sound and smell. He will sneak in the dar
 
 keywords: hideout(!), staying hidden
 
+**Thief Skills:**
+* Sneaking
+* Lockpicking
+* Pickpocketing
+* Hide in Shadows
+* Sixth/Seventh Sense
+
 
 
 ## Psionic: The Warped Mind
+
+
+
+**Psionic Skills:**
+* 
+
+
 
 
 

@@ -20,57 +20,63 @@ According to these same notes, during players progression from levels 4-6, the P
 The player levels 6-7 would then be reserved for the "open fights" between the camps, the orc assault, the total chaos in the colony and the massacres that we know as Nemesis, the Chapters 5 and 6. 
 
 But at this early point in development, it was not clear when the orcs should come to the surface and as written above, chapters were not mentioned yet. In the beginning of the Phoenix concept the story was then divided into 5 chapters instead of 6; these five chapters are mentioned in the Phoenix Pitch. 
- 
-When we go with the 5 chapter solution while orienting ourselves at Mikes handwritten story notes, the relation between player levels and chapters may for instance present itself like this:
+
+When we'd go with the 5 chapter solution while orienting ourselves at Mikes handwritten story notes, the relation between player levels and chapters may for instance present itself like this:
 
 ```
-1   0-1      // Orientation. Joins a guild.
+1   0-1      // Orientation. Joins a guild.     
 2   2-3      // Can still change, then PsiRitual
 3   4-5      // First OMFull, then FMTaken at the end
 4   6-7      // Mine War, OrcAssault, Higher Guild
 5   END      // Nemesis and Showdown
-             
 ```
 
 The six chapter solution could look like this:
 
 ```
-1   0-2     // Orientation
-2   3-4     // OMFull
-3   4-5     // FMTaken 
-4   5-6     // OrcAssault
-5   6-7     // Nemesis
-6   END     // Showdown
+1   1-2     // Orientation
+2   2-3     // PrepareRitual
+3   3-4     // OMFull
+4   4-5     // FMTaken
+5   5-6     // OrcAssault
+6   6-7     // Nemesis/Showdown
 ```
 
---- 
+But there is one problem with that: We know, that level 6 or even 7 in many cases were described as a *requirement* to join one of the higher guilds. Therefore it makes no sense that the player would reach level 7 only in the last chapter, as there would be no time anymore to build any bond to the new guild. The six chapter solution must therefore look different, for instance, like this: 
 
-If it would not end with level 7 (as we assumed above), based on the five chapter solution we could also imagine that the player would reach level 1-3 in Chapter 1, level 4-5 in Chapter 2, level 6-7 in chapter 3, then join a higher guild in chapter 5, where he reaches levels 8-9 and then conclude the game in chapter 5 with a maximum level of 10. 
+```
+1   0-2     // Orientation
+2   2-4     // PrepareRitual
+3   4-5     // OMFull
+4   5-6     // FMTaken
+5   7-      // OrcAssault
+6   END     // Nemesis/Showdown
+```
+
+
 
 ---
-
-Since the maximum level is 7, allowing a switch of the guild at up to level 3 is almost half of the guild progression. But it may not be half of the class and story progression, since some additional progress will be made and parts of the story will be played as part of one of the *higher guilds*. So when we think of the six chapters, level 3 will definitely be reached already in course of Chapter 2. 
 
 Independent from the five or six chapter structure, we can assume that in general it would be up to Chapter 2 that the player should still have been able to potentially turn around his previously choosen class, while at least from Chapter 3 onwards the decision for a class would be fixed. 
 
 
-
-
-
-
 ## Guild Ranks
 
-In [Joining Conditions](/story/factions/guilds-joining-conditions) I have pointed out how in the early conception phase there was the idea of a level system within guilds and suggested that it may correspond to ranks within the guild and that it may also make sense that it is linked at least to some degree to the chapters. 
+In [Joining Conditions](/story/factions/guilds-joining-conditions) I have pointed out how in the early conception phase there was the idea of a level system within guilds and I thought that it may correspond to ranks within the guild and that it may also make sense that it is linked at least to some degree to the chapters. The original developers said so themselves, when speaking of the multiplayer mode:
 
-I also made the example that a thug of level 5 may be thrown out of the guild, then join the sect and be a novice of level 1. By this example I suggested that these levels were linked to the guild and would not persist when joining a different guild. And in this case this may be true. But a more precise and perhaps more logical explanation would be to assume that the level is primarily linked to the *class*. 
+[Add: Mike and Tom about the Multiplayer, where Tom identifies it with the chapters]
 
-It may be possible to join a totally different class throughout the story, if one has no other option. But usually, as in the example of the shadow: a thief will most likely defect to another thief guild from another camp. As we know, he can be up to level 5 for defecting to the Orgas; thus having reached quite a high rank in his guild already and alongside having reached quite some skill as a thief. Therefore I assume that in such a case the level would indeed persist and would carry-over to an equivalent or similar rank in the new guild he defects to.
+I made the example that a thug of level 5 may be thrown out of the guild, then join the sect and be a novice of level 1. By this example I suggested that these levels were linked to the guild and would not persist when joining a different guild. And in this case this may be true. But a more precise and perhaps more logical explanation would be to assume that the level is primarily linked to the *class*. 
+
+It may be possible to join a totally different class throughout the story, if one has no other option. But usually, as in the example of the shadow: a thief will most likely defect to another thief guild from another camp. As we know, he can be up to level 5 for defecting to the Orgas; thus having reached quite a high rank in his guild already and alongside having reached quite some skill as a thief. Here we have to assume that in such a case the level would persist and carry-over to an equivalent or similar rank in the new guild he defects to.
 
 As far as we know, up to 7 maximum levels were planned per guild. If that is the case, how may they relate to the chapters, which were 6? In order to clarify this, we first have to point out that the player was meant to start not with level 1, but with level 0 (being guildless and of no rank or name whatsoever inside of the prison system).
 
 Additionally, the 7 levels are linked to the 8-9 guilds that the player could join within the first chapter, but he would not (necessarily) belong to one of these guilds till the end of the game. Somewhere at the last quarter of the game (I assume probably in chapter 5) he would join one of the four so called "higher", "secret" guilds. 
 
-It is unlikely that these higher guilds were also supposed to have 7 levels that the player would progress through; not only due to their narrative meaning, where you are already of a high rank just by belonging to one of these elite groups, but also due to the point in time within the story, where the player focuses on solving the game. It does not seem plausible to me that he was supposed to go through 7 different ranks within the two final chapters. And at least in the Guild System documents it is indeed the case that the 7 levels are only ever mentioned in regard to the regular guilds, not the higher ones. We simply don't know how much they were meant to have and these levels were supposed to function. 
+It is unlikely that these higher guilds were also supposed to have 7 levels that the player would progress through; not only due to their narrative meaning, where you are already of a high rank just by belonging to one of these elite groups, but also due to the point in time within the story, where the player focuses on solving the game. It does not seem plausible to me that he was supposed to go through 7 different ranks within the two final chapters. And at least in the Guild System documents it is indeed the case that the 7 levels are only ever mentioned in regard to the regular guilds, not the higher ones. We simply don't know how much they were meant to have (or if any!) and how these levels were supposed to function. 
+
+
 
 A conclusion that stands to reason would be to choose the same number as the attribute levels, which are 10 (or 0 + 9). In this case, examplatory guild ranks throughout the story could roughly look like this:
 
@@ -131,7 +137,7 @@ If we assume 5 chapters, the guild progression would roughly be 2 levels per cha
 
 ## Exiled Mages
 
-According to Mikes Orpheus guild concepts mage of the two circles would have to remain guildless if being banned from their circle between level 4-6, as they could only defect to the other circle up to level 3, while the demon summoner only accepts mages of level 7. 
+According to Mikes Orpheus guild concepts mages of the two circles would have to remain guildless if being banned from their circle between level 4-6, as they could only defect to the other circle up to level 3, while the demon summoner only accepts mages of level 7. 
 
 We will divert from this by giving the option, similar to the release version, of at least defecting to the other mages circle at up to level 4 or 5. (Although this may only be possible if the reason for the ban is not a crime that the other circle despises just as much.)  
 
