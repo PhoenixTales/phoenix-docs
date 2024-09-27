@@ -45,7 +45,7 @@ Classes, Attributes, Skills, modes of interaction, experience, attitudes, interf
             2. Object Destruction
         5. Puzzles
     2. Combat Mode
-    3. Stealth Mode
+    3. [Stealth Mode](/mechanics/stealth)
     4. Magic Mode
     5. Dialogue Mode
     6. Crafting Mode

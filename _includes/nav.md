@@ -32,7 +32,7 @@
 		2. Inventory
 		3. Object Interaction 
 	2. Combat Mode
-	3. Stealth Mode
+	3. [Stealth Mode](/mechanics/stealth)
 	4. Magic Mode
 	5. Dialogue Mode
 	6. Crafting Mode
