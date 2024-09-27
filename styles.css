@@ -110,8 +110,6 @@ nav h1, nav h2, nav h3 {
 nav {
   /*background-color: var(--black);*/
   z-index: 2;
-  height: 100vh;
-  overflow: auto;
 }
 
 nav img {
