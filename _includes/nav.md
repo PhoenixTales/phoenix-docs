@@ -1,4 +1,4 @@
-<a href="/"><img src="/_img/phnx2.png"></a>
+<a href="/"><img src="/_img/phnx3.png"></a>
 
 # Index
 
