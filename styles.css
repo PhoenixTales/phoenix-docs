@@ -57,6 +57,7 @@ body {
   flex-wrap: wrap;
   flex-direction: row;
   min-width: 0;
+  min-height: 100vh;
 }
 
 main {
@@ -122,6 +123,7 @@ nav {
   border-right: 5px solid var(--dark);
   scrollbar-color: var(--blood) var(--black);
   scrollbar-width: thin;
+  width: 380px;
 }
 
 nav img {
@@ -168,14 +170,13 @@ nav .header {
 
 /* INDEX NAVIGATION */
 
-nav .left {
-  width: 380px;
+nav .index {
   /* width: 400px; */
   padding: 0;
   /*box-shadow: 0 0 20px 20px rgba(0,0,0,.8);*/
 }
 
-nav .left ol, nav .left ul {
+nav .index ol, nav .index ul {
   list-style-type: none;
   font-family: monospace;
   align-self: flex-start;
@@ -185,30 +186,30 @@ nav .left ol, nav .left ul {
   padding-left: 0;
 }
 
-nav .left ol>li { padding-left: 1em; }
-nav .left ul>li { padding-left: 0; }
+nav .index ol>li { padding-left: 1em; }
+nav .index ul>li { padding-left: 0; }
 
-nav .left ul>li::before {
+nav .index ul>li::before {
   content: "[";
   padding-right: 0.3em; 
   color: var(--gold);
 }
 
-nav .left ul>li::after {
+nav .index ul>li::after {
   content: "]";
   padding-left: 0.3em;
   color: var(--gold);
 }
 
-nav .left ol>li { 
+nav .index ol>li { 
   counter-increment: item;
 }
 
-nav .left li>ol>li {
+nav .index li>ol>li {
   border-left: 1px dashed var(--stone);
 }
 
-nav .left ol>li::before { 
+nav .index ol>li::before { 
   content: counters(item, '.') '. '; 
   color: #6a6a6a;
 }
@@ -245,8 +246,6 @@ nav .left ol>li::before {
 /* FOOTER */
 
 footer {
-  order: 3;
-  bottom: 0;
   background-color: var(--black);
   font-family: "IBM VGA 8x16", monospace;
   font-size: 15px;
@@ -256,6 +255,8 @@ footer {
   padding: 1em 1em;
   display: flex;
   justify-content: space-between;
+  width: calc(100% - 379px); /* 379px and not 380px (width of the nav), because for some reason the layout just breaks if setting 380px or more, some weird flexbox logic. */
+  margin-left: auto;
 }
   footer ul {
     list-style: none;
@@ -657,7 +658,7 @@ and (max-width : 820px) {
     color: var(--black);
   }
   
-  .left {
+  .index {
     display: none;
   }
   
@@ -692,7 +693,7 @@ and (max-width : 820px) {
     margin-bottom: 40px;
   }
   
-  body:has(#menu-toggle:checked) .left {
+  body:has(#menu-toggle:checked) .index {
     display: block;
   }
   
@@ -713,10 +714,6 @@ and (max-width : 820px) {
 
   nav .header ul {
     padding-left: 0;
-  }
-
-  nav .left {
-    width: 100%;
   }
 
   /* HIDE HEADING due to inclusion in menu button */
@@ -768,6 +765,7 @@ and (max-width : 820px) {
 
   footer {
     font-size: 13px;
+    width: 100%
   }
 
   .dir {
