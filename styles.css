@@ -120,6 +120,8 @@ nav {
   margin: 0;
   padding: 0;
   border-right: 5px solid var(--dark);
+  scrollbar-color: var(--blood) var(--black);
+  scrollbar-width: thin;
 }
 
 nav img {
