@@ -111,7 +111,7 @@ nav {
   /*background-color: var(--black);*/
   z-index: 2;
   height: 100vh;
-  overflow: hidden;
+  overflow: auto;
 }
 
 nav img {
