@@ -112,6 +112,7 @@ nav {
   z-index: 2;
   position: sticky;
   height: 100vh;
+  top: 0;
 }
 
 nav img {
