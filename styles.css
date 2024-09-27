@@ -110,6 +110,8 @@ nav h1, nav h2, nav h3 {
 nav {
   /*background-color: var(--black);*/
   z-index: 2;
+  position: sticky;
+  height: 100vh;
 }
 
 nav img {
@@ -676,6 +678,7 @@ and (max-width : 820px) {
   }
 
   nav {
+    height: initial;
     position: fixed;
     width: 100%;
     font-size: 15px;
