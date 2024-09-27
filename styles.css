@@ -122,6 +122,7 @@ nav {
   border-right: 5px solid var(--dark);
   scrollbar-color: var(--blood) var(--black);
   scrollbar-width: thin;
+  width: 380px;
 }
 
 nav img {
@@ -169,7 +170,6 @@ nav .header {
 /* INDEX NAVIGATION */
 
 nav .left {
-  width: 380px;
   /* width: 400px; */
   padding: 0;
   /*box-shadow: 0 0 20px 20px rgba(0,0,0,.8);*/
@@ -245,8 +245,6 @@ nav .left ol>li::before {
 /* FOOTER */
 
 footer {
-  order: 3;
-  bottom: 0;
   background-color: var(--black);
   font-family: "IBM VGA 8x16", monospace;
   font-size: 15px;
@@ -256,6 +254,8 @@ footer {
   padding: 1em 1em;
   display: flex;
   justify-content: space-between;
+  width: calc(100% - 379px); /* 379px and not 380px (width of the nav), because for some reason the layout just breaks if setting 380px or more, some weird flexbox logic. */
+  margin-left: auto;
 }
   footer ul {
     list-style: none;
@@ -715,10 +715,6 @@ and (max-width : 820px) {
     padding-left: 0;
   }
 
-  nav .left {
-    width: 100%;
-  }
-
   /* HIDE HEADING due to inclusion in menu button */
   nav .header span { display: none; }
 
@@ -768,6 +764,7 @@ and (max-width : 820px) {
 
   footer {
     font-size: 13px;
+    width: 100%
   }
 
   .dir {
