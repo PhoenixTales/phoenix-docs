@@ -1,6 +1,6 @@
 # Introduction
 
-<img class="phnx-mask" src="/_img/phnx-mask-v07-retro.png">
+<img class="phnx-mask" src="/_img/mask.png">
 <img class="logo" src="/_img/headings/designdocs2.png">
 
 [*Welcome to the desert of the ideal.*](https://www.youtube.com/watch?v=8ehHYiYrqeY)  
