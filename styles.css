@@ -211,6 +211,34 @@ nav .left ol>li::before {
   color: #6a6a6a;
 }
 
+  /*
+    nav::-webkit-scrollbar {
+      width: 2px;
+    }
+  */
+  
+  nav::-webkit-scrollbar-track {
+    background: var(--black);
+    background-size: 40px;
+  }
+
+  nav::-webkit-scrollbar-thumb {
+    background-image: url("/nyx.ico");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 35px;
+  }
+
+  /*
+  nav::-webkit-scrollbar-track {
+    background: var(--black);
+  }
+
+  nav::-webkit-scrollbar-thumb {
+    background: var(--blood);
+  }
+    */
+
 
 /* FOOTER */
 
@@ -680,34 +708,6 @@ and (max-width : 820px) {
     border-right: none;
     box-shadow: 0 30px 40px rgba(0,0,0,.1);
   }
-
-  /*
-    nav::-webkit-scrollbar {
-      width: 2px;
-    }
-  */
-  
-    nav::-webkit-scrollbar-track {
-      background: var(--black);
-      background-size: 40px;
-    }
-
-    nav::-webkit-scrollbar-thumb {
-      background-image: url("/nyx.ico");
-      background-position: center center;
-      background-repeat: no-repeat;
-      background-size: 35px;
-    }
-
-    /*
-    nav::-webkit-scrollbar-track {
-      background: var(--black);
-    }
-  
-    nav::-webkit-scrollbar-thumb {
-      background: var(--blood);
-    }
-      */
 
   nav .header ul {
     padding-left: 0;
