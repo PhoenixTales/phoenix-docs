@@ -109,11 +109,9 @@ nav h1, nav h2, nav h3 {
 
 nav {
   /*background-color: var(--black);*/
-  position: sticky;
   z-index: 2;
   height: 100vh;
-  top: 0;
-  overflow: auto;
+  overflow: hidden;
 }
 
 nav img {
@@ -162,6 +160,9 @@ nav .header {
 
 nav .left {
   width: 380px;
+  position: sticky;
+  top: 0;
+  overflow: auto;
   /* width: 400px; */
   padding: 0;
   /*box-shadow: 0 0 20px 20px rgba(0,0,0,.8);*/
