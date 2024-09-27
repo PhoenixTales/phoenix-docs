@@ -158,8 +158,6 @@ nav .header {
 
 nav .left {
   width: 380px;
-  position: sticky;
-  top: 0;
   overflow: auto;
   /* width: 400px; */
   padding: 0;
