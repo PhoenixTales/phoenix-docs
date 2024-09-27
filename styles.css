@@ -238,7 +238,7 @@ footer {
   position: fixed;
   width: 100%;
   top: 0;
-  right: 0;
+  text-align: right;
   background: linear-gradient(to bottom, rgba(0,0,0,1), rgba(0,0,0,0));
   font-family: "IBM VGA 8x16", monospace;
   font-size: 15px;
