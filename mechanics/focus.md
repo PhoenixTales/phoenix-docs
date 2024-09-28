@@ -14,10 +14,8 @@ Thus the "style" of combat becomes interactive, a process of "styling" and inten
 
 ***Thieves** have a focus which serves primarily to heighten their awareness and concentration in stealth. While the focus of warriors is filled by combat flow, the focus of thieves is filled by danger, pressure, by a raised probability to be caught. The closer the player is to a guard, the more his focus will fill. It will also fill the more alert the guards or monsters of an area are. E.g. if they know that someone is there, going into his direction, actively looking for him, that will fill his bar. The closer a guard comes to the player or the closer the player sneaks up to a guard, the fastee the focus will fill, like adrenaline that pushes him to extraordinary efforts. 
 
-Just
+Just as the focus of the warrior enables him to perform various special attacks of the different combat disciplines via combos and to use slow motion, the focus of the thief enables him to perform his "dirty daggertricks" in the same way, if he should be forced into a short melee combat encounter. But it also enables him to use his other special abilities. For instance: In that he approaches a guard from behind, the closer he comes, the more the focus bar will fill; when the thief is at a distance in reach of the NPC, he can attempt an assassination. If on the other hand an NPC approaches him and he is close to be caught, this too fills his focus and enables him to "hide in shadows", risk a frontal dagger attack or take other such last measures, such as activating his sixth/seventh sense in order to see a safe route and so forth. 
 
-
-
-So if the focus bar is activated, 
+**Mages** - how can they use the focus? 
 
 
