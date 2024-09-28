@@ -4,14 +4,12 @@
 ``Created: 25.09.2024``  
 ``Last update: 25.09.2024``  
 
----
 
 **Content:**
 * [Multiplayer Concepts](#multiplayer-concepts)
 * [Reasons for the Cancellation](#reasons-for-the-cancellation)
 * [Critique of Impure Reason](#critique-of-impure-reason)
 
----
 
 ## Multiplayer Concepts
 
