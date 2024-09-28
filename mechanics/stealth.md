@@ -76,9 +76,10 @@ In the Alpha there were nine skills specifically planned for the Thief:
 
 Entering Stealth mode toggles the Stealth Meter as well as the Focus Bar. The Stealth meter shows his visibility or how much he is hidden, while the focus bar can be seen as the thieves ability to fully concentrate, or as some sort of "luck" or as a "prayer to Beliar" to hide him in the shadows or as whatever the player may think of it; different NPCs will describe it in different ways, thereby giving an abstract game mechanics a concrete ingame background. 
 
-* **BarHUD:** Visibility is represented by a dark blue to light/golden visibility bar that appears in the right lower corner of the screen (where the mana and psi bar appear for the mage and psionic). The focus bar may appear in the lower centre of the screen, where otherwise the endurance bar appears. Colour? 
+* **BarHUD:** Visibility is represented by a visibility bar in dark blue - maybe with sprinkles of gold like stars - with a light/golden colour fade, where more ofdark blue means being more hidden, more gold means being more visible. It appears in the right lower corner of the screen (where the mana and psi bar appear for the mage and psionic).  
+The focus bar may appear in the lower centre of the screen, where otherwise the endurance bar appears. It also could be displayed in a different way than the other bars (e.g. vertical, also because it is a class-crossing idea) or may be ommitted altogether and may thus work by visualisation only. 
 
-* **IconHUD:** Instead of the bar, visibility is here represented by crescent moon icons that appear on the left bottom corner below the hitpoints (instead of the mana/psi icons for the other classes); the moons show varying degrees of light from left to right. Focus icons have to be clarified.
+* **IconHUD:** Instead of the bar, visibility is here represented by crescent moon icons that appear on the left bottom corner below the hitpoints (instead of the mana/psi icons for the other classes); the moons show varying degrees of light from left to right. The display of the Focus (if there is any) has to be clarified.
 
 * **NoHUD:** When playing with no HUD, the player needs to develop a feeling for visibility on his own and needs to use his thief skills most effectively; in lack of a visible focus bar we need to work with audio-visual cues, such as a clear, non-obtrusive sound effect that is clearly fading out when the focus is depleted. 
 
