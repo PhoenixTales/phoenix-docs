@@ -2,9 +2,12 @@
 
 *Flosha, 28.09.2024*
 
-The focus is an idea for a sort of an internal attribute which unlocks "special" abilities. Every class has its own version of "focus". 
+The focus is an idea for a sort of an internal attribute which unlocks "special" abilities for Warriors and Thieves, as an equivalent for Mana and Psi for the Mage and Psionic.  
 
-***Warriors*** have a focus which serves primarily as the requirement for special attacks. The focus has to be filled by combat "flow" in form of attacks, parades and/or evasions without being hit and enables the player to initiate special attacks in form of "combos", in the same way as done in traditional fighting games or like Special Tricks in the *Pro Skater* series. But it also can be used to activate short windows of slow motion, representing the increased concentration and awareness of the warrior, to enable him to use the correct moment to initiate the desired attack. 
+
+## Warriors
+
+Warriors have a focus which serves primarily as the requirement for special attacks. The focus has to be filled by combat "flow" in form of attacks, parades and/or evasions without being hit and enables the player to initiate special attacks in form of "combos", in the same way as done in traditional fighting games or like Special Tricks in the *Pro Skater* series. But it also can be used to activate short windows of slow motion, representing the increased concentration and awareness of the warrior, to enable him to use the correct moment to initiate the desired attack. 
 
 So in this way the focus would be filled via combat flow, but not depleted by a special attack; like in Pro Skater a successful special attack will keep the focus bar filled. it is only depleted by being hit without succesfully parading, - in which case it is fully depleted immediately - or by interruption of the combat flow, that means: If not having enemy contact for ~2-3 sec it begins to deplete in ~3-5 sec. And finally it is depleted by using slow motion. 
 
@@ -12,10 +15,21 @@ Slow motion doesn't have to be used, but it makes it easier doing combos and get
 
 Thus the "style" of combat becomes interactive, a process of "styling" and intensifying a combat encounter at will and at any given moment, since the player can choose to slow a motion down at any given time and for the desired duration as long as his focus is full. 
 
-***Thieves** have a focus which serves primarily to heighten their awareness and concentration in stealth. While the focus of warriors is filled by combat flow, the focus of thieves is filled by danger, pressure, by a raised probability to be caught. The closer the player is to a guard, the more his focus will fill. It will also fill the more alert the guards or monsters of an area are. E.g. if they know that someone is there, going into his direction, actively looking for him, that will fill his bar. The closer a guard comes to the player or the closer the player sneaks up to a guard, the fastee the focus will fill, like adrenaline that pushes him to extraordinary efforts. 
+
+## Thieves
+
+Thieves have a focus which serves primarily to heighten their awareness and concentration in stealth. While the focus of warriors is filled by combat flow, the focus of thieves is filled by danger, pressure, by a raised probability to be caught. The closer the player is to a guard, the more his focus will fill. It will also fill the more alert the guards or monsters of an area are. E.g. if they know that someone is there, going into his direction, actively looking for him, that will fill his bar. The closer a guard comes to the player or the closer the player sneaks up to a guard, the fastee the focus will fill, like adrenaline that pushes him to extraordinary efforts. 
 
 Just as the focus of the warrior enables him to perform various special attacks of the different combat disciplines via combos and to use slow motion, the focus of the thief enables him to perform his "dirty daggertricks" in the same way, if he should be forced into a short melee combat encounter. But it also enables him to use his other special abilities. For instance: In that he approaches a guard from behind, the closer he comes, the more the focus bar will fill; when the thief is at a distance in reach of the NPC, he can attempt an assassination. If on the other hand an NPC approaches him and he is close to be caught, this too fills his focus and enables him to "hide in shadows", risk a frontal dagger attack or take other such last measures, such as activating his sixth/seventh sense in order to see a safe route and so forth. 
 
-**Mages** - how can they use the focus? 
+
+## Mages and Psionics
+
+I invented the *focus* basically due to a simply discrepancy or "asymmetry" in design between the magic vs. non-magic classes. While Mage and Psionic have an Attribute (Arcane and Psionics) that scales a dynamic Status Attribute that can be filled and deplenished (Mana and Psi), the Warrior and Thief only have an Attribute (Weaponry and Thievery) that scales a Status Attribute that is static (can not be filled or deplenished). 
+
+
+In order to figure out what the focus could be used for as a mage and psionic, we have to first figure out what the "special abilities" of them are or could be. I will argue that the mages by their spells already have a plethora of special abilities and 
+
+how can they use the focus? 
 
 
