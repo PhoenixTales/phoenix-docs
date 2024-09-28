@@ -5,9 +5,9 @@
 ``Last update: 25.09.2024``  
 
 Before reading this article you should read [/alpha-multiplayer](/mechanics/multiplayer-alpha).
-The Phoenix multiplayer - if ever realised - will be divided into three sections, that can be chosen from the Multiplayer menu. There is the (1) *Story Mode* for up to 5 players, plus *"Short/Bonus Stories"*, there is (2) the *Freeplay Mode* and there is what I call (3) *Scenarios* where each scenario is possible to be played in one or more different "modes". 
+The Phoenix multiplayer - if ever realised - will be divided into three sections, that can be chosen from the Multiplayer menu. There is the (1) *Story Mode* for up to 5 players + *"Bonus Stories"*, there is (2) the *Freeplay Mode* and there is what I call (3) *Scenarios* where each scenario is playable in one or more additional "modes". 
 
-Please be aware that nothing of what will be described in this article is currently worked at. It should be seen as an attest of a potential future realisation; of how a multiplayer story mode could be realised and of potential other mutliplayer modes that could fit very well into the game - much of which - or at least the technical framework of which - have already been realised in the community, but the specifics of which are our unique concepts.  
+Please be aware that nothing of what is described here is currently worked at. It should be seen as an attest of a potential future realisation; of how a multiplayer story mode as imagined by the founders could be realised and of potential other modes that could fit Phoenix well; in many cases the technical framework has already been realised in the community, but the specifics are our unique concepts.  
 {: .subtext }
 
 
