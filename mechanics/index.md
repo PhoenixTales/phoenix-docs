@@ -23,6 +23,7 @@ Classes, Attributes, Skills, modes of interaction, experience, attitudes, interf
 3. Attributes
     1. [Alpha Attributes](/mechanics/attributes-alpha)
     2. [Phoenix Attributes](/mechanics/attributes-phoenix)
+       1. [Focus](/mechanics/focus)
 4. Skills
     1. Movement Skills
     2. Combat Skills
