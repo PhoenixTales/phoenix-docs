@@ -150,6 +150,8 @@ Mir ist auch neulich aufgefallen, dass das in Enter the Matrix auch so gelöst w
 
 Ein anderer kleiner Faktor, der mir dabei mal aufgefallen ist, ist was einen Unterschied das machen kann, wenn es unterschiedlich große Charaktere gibt. In Gothic ist ja fast jeder NPC gleich groß. Hier gibt es teilweise deutliche Unterschiede. Wenn man zB. den Kampf bei Minute 2 anschaut, Morpheus und Agent Smith, wirken die richtig groß, mal verglichen mit Niobe am Anfang. Und irgendwie gibt ihnen das auch ein ganz anderes Gefühl von Gewicht und Bedrohung. So ein bisschen mehr Größenunterschiede bei Charakteren in Gothic wär denke ich ne gute Sache. Wenn man dann mal einem menschlichen Gegner gegenübersteht, der einen Kopf größer ist oder so, wirkt das direkt viel einschüchternder.
 
+ allein die Größe schüchtert da schon ein und man meint man ist unterlegen. Auch im Gothic Comic wurde ja sowas eigentlich auch angeteasert. Da kämpft ja Orik gegen irgendnen anderen, der ist auch ein Riese und Orik ziemlich klein im Vergleich.
+
 ---
 Ist natürlich viel rudimentärer als in Tekken, aber es ist ein Beispiel für ein Spiel wo imo der Wechsel zwischen den beiden Kameraperspektiven je nach Spielsituation sehr gut funktioniert und sich auch gut angefühlt hat.
 
