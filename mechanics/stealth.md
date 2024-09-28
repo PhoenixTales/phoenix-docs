@@ -80,7 +80,7 @@ Entering Stealth mode toggles the Stealth Meter as well as the Focus Bar. The St
 
 * **IconHUD:** Instead of the bar, visibility is here represented by crescent moon icons that appear on the left bottom corner below the hitpoints (instead of the mana/psi icons for the other classes); the moons show varying degrees of light from left to right. Focus icons have to be clarified.
 
-* **NoHUD:** When playing with no HUD, the player needs to develop a feeling for visibility on his own and needs to use his thief skills most effectively and in lack of a visible focus bar, we need to work with audio-visual cues, such as a clear, non-obtrusive sound effect that is clearly fading out when the focus is depleted. 
+* **NoHUD:** When playing with no HUD, the player needs to develop a feeling for visibility on his own and needs to use his thief skills most effectively; in lack of a visible focus bar we need to work with audio-visual cues, such as a clear, non-obtrusive sound effect that is clearly fading out when the focus is depleted. 
 
 
 <style>
