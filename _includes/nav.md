@@ -23,8 +23,9 @@
 1. [Storydriven](/mechanics/storydriven)
 2. Classes
 3. Attributes
-	1. [Alpha Attributes](/mechanics/attributes-alpha)
-	2. [Phoenix Attributes](/mechanics/attributes-phoenix)
+   1. [Alpha Attributes](/mechanics/attributes-alpha)
+   2. [Phoenix Attributes](/mechanics/attributes-phoenix)
+      1. [Focus](/mechanics/focus)
 4. Skills
 5. Modes of Interaction 
 	1. Exploration Mode
