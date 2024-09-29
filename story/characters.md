@@ -57,11 +57,12 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | Scorpio  | Skorpion   |
 | Hunter   | Jäger      |
 | Snore    | Schnarcher |
-| Nek      | Nek        |
+| Nek      | ? - (Nek ist eine Anspielung auf Tod) |
 | Bloodwyn | ?          |
 | Scatty   |            |
 | Fletcher | Fiederer   |
-
+| Shabak   | Shabak     |
+| Ulbert   | Ulbert     |
 
 
 #### Shadows
@@ -104,18 +105,23 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | Lares    | Lares    |
 | Fox      | Fuchs    |
 | Wolf     | Wolf     |
-| Kirill   | Kirill   |
+| Kilian   | Kilian   |
 | Cipher   | Null (arabisch sifr = null) |
 | Quentin  | Quentin (der "Fünfte") |
 | Wedge    | "Keil", Winkel (?) |
 | Butch    | "Metz", "Schlacht" |
 | Jeremiah | Jeremia  |
 | Silas    | Silas    |
-
 | Shark(y) | ... |
+| TheEye   | das Auge (?) |
+| TheKey   | Schlüssel/Schlüssler (?) |
+| Fodder   | Zottel oder Aas |
 
 
+#### Mercenaries
 
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
 | Blade    | Klinge (?) |
 | Buster   | Fänger (?) |
 | Lefty    | Link, der Linke (?) |
@@ -130,14 +136,10 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | Nimble(finger) | Flinkhand |
 | Sleepy   | Schlafmütze (?) |
 | Grunt    | Grunt |
-| Shabak   | Shabak |
 
 
 | Swiney   | Schwein(chen)? |
 | OldMan   | der Alte |
-| TheEye   | das Auge (?) |
-| TheKey   | Schlüssel/Schlüssler (?) |
-| Fodder   | Zottel oder Aas |
 
 
 
@@ -163,7 +165,8 @@ They are all using their own or clerical names, none of them have to be translat
 #### Circle of Water
 
 * Abraxus
-* Cronos     
+* Cronos
+* Marten 
 * Merdarion 
 * Myxir
 * Nefarius
