@@ -186,6 +186,7 @@ The names of the female slaves doesn't have to be translated and are
 | TheEye   | das Auge (?) |
 | TheKey   | Schlüssel/Schlüssler (?) |
 | Fodder   | Zottel oder Aas |
+| Henry    | ?      |
 
 
 #### NC Folk
