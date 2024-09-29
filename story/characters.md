@@ -198,7 +198,12 @@ The names of the female slaves doesn't have to be translated and are
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
-| ...      | ...      |
+| Melvin   | Melvin   |
+| Horace   | ?        |
+| Phil     | ?        |
+| Poke     | ? |
+| Rufus    | ? | 
+
 
 
 #### Bandits
