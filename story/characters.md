@@ -119,10 +119,10 @@ The names of the female slaves doesn't have to be translated and are
 | Gilbert  | Gilbert  |
 | Dagger   | Messer, besser als Dolch |
 | Dusty    | Staub(fresser?)/Staubi |
-| Fisk     | ... |
+| Fisk     | ?    |
 | Grimes   | Schmuddel/Schmutz |
 | Jesse    | ?        |
-| Grim     | ?        |
+| Grim     | Grim       |
 | Canthar  | Canthar  |
 | Kyle     | ?  |
 | Mud      | Matsch(kopf)/Schlick |
@@ -139,8 +139,8 @@ The names of the female slaves doesn't have to be translated and are
 | Crumb    | Krümel/Krume |
 | Numb     | der Taube |
 | Sleepy   | Schlafmütze (?) |
-| Herek    | ?   |
-| Huno     | ?   |
+| Herek    | Herek  |
+| Huno     | Huno   |
 
 
 #### Mercenaries
