@@ -113,7 +113,7 @@ Initially, the mages were meant to be presented as idiosyncratic individuals wit
 ## What is a Magic Circle?
 
 The mages of a magic circle are literally mages around a magic circle drawn unto the floor to create a sacral/magical/ritual space.
-The mages after the fall of the barrier where for some time studying together in the old camp, around ONE magic circle they had drawn in the old chapel that they haven taken over. It is in this sense, that Nyul and the Sequel story writers may be totally right: They were ONE circle before because this should be seen completely *independent* from their religous background. In this original circle of the colony, water, fire and also some dark magic was studied before they split over disputes, but the leaders of both circles are still disciples of the DMB, their disputes were less religious than political in character. 
+The mages after the fall of the barrier were studying together in the old camp for some time, around ONE magic circle they had drawn in the old chapel that they've taken over. It is in this sense, that Nyul and the Sequel story writers may be totally right: They were one circle before, since this should be seen completely *independent* from their religous background. In this original circle of the colony, water, fire and also some dark magic was studied before they split over disputes, but the leaders of both circles are still disciples of the demon summoner; their disputes were not religious but political in character. 
 
 The mages were working together for a while as a sort of united circle and then founded the two circles. Not in the sense of *inventing the idea* of a fire or water circle, of which there might be many in the realm, but in the sense of just *forming* local ones in the colony. This history also explains that they still meet and have some common traditions, as we know from the documents. 
 
@@ -121,7 +121,7 @@ Priesthood is something that spans across the entire realm. The "house of Innos"
 
 In comparison, it is a much better understanding of the magical circles to see them as a small, local community of mages who learn, study and practice magic together. And in this sense, you would say that there may be douzens of circles in the realm.
 
-And in opposition to what the official successors were explaining, originally the mages in the colony shouldn't belong to the same magic circle before the ritual; they are told to be among the most powerful mages. They came from different corners of the realm and were commanded by the King to perform this ritual together. *After* or *in the context of* the creation of the barrier they were forming a new magical circle.
+And in opposition to what the official successors explained, originally the mages in the colony shouldn't belong to the same magic circle before the ritual; they are told to be among the most powerful mages. They came from different corners of the realm and were commanded by the King to perform this ritual together. *After* or *in the context of* the creation of the barrier they were forming a new magical circle.
 
 I think that this understanding brings us much further and enriches the lore much more. 
 
