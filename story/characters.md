@@ -41,14 +41,21 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
+| Bartholo | Bartholo |
 | Gomez    | Gomez/Sangwah |
 | Raven    | Rabe     |
-| Scar     | Narbe    |
-| Bartholo | Bartholo |
 | Santino  | Santino  |
+| Scar     | Narbe    |
 | Vasquez  | Vasquez  |
 
-The names of the female slaves doesn't have to be translated and are 
+The names of the female slaves doesn't have to be translated. 
+
+#### Slaves
+
+* Elvira
+* Seraphia
+* Syra
+* Velaya
 
 
 #### Guards
@@ -104,23 +111,22 @@ The names of the female slaves doesn't have to be translated and are
 | Ulgar    | Ulgar      |
 
 
-
 #### Shadows
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
-| Diego    | Diego    |
-| Fingers  | ?        |
 | Dark     | X, der Finstere |
 | Dexter   | ?        |
-| Reese    | ?        |
+| Diego    | Diego    |
+| Fingers  | ?        |
 | Nimble(finger) | Flinkhand |
 | Phantom  | ?        |
+| Raoul    | Raoul    |
+| Reese    | ?        |
 | Sly      | List     |
 | Snogu    | Snogu    |
 | Shad     | ?        |
 | Whistler | Pfeifer  |
-| Raoul    | Raoul    |
 | ...      | ...      |
 
 
