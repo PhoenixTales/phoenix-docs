@@ -41,18 +41,23 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
-| Bartholo | Bartholo |
+| Bartholo | Bartholo, "Außenminister" |
 | Gomez    | Gomez/Sangwah |
-| Raven    | Rabe     |
+| Raven    | Rabe, "Schattenbaron" |
 | Santino  | Santino  |
 | Scar     | Narbe    |
-| Vasquez  | Vasquez  |
+| Vasquez  | Vasquez, "grauer Baron"?  |
+| ?        | Kriegshund, "Jungbaron" | 
+| TheKeeper | (Verfluchter Baron am Steinkreis) | 
 
 The names of the female slaves doesn't have to be translated. 
 
 #### Slaves
 
+* Balam
 * Elvira
+* Joker (Name?)
+* Omid 
 * Seraphia
 * Syra
 * Velaya
@@ -115,17 +120,18 @@ The names of the female slaves doesn't have to be translated.
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
-| Dark     | X, der Finstere |
+| Dark(man) | X, der Finstere |
 | Dexter   | ?        |
 | Diego    | Diego    |
 | Fingers  | ?        |
+| Grag?    | ?        |
 | Nimble(finger) | Flinkhand |
 | Phantom  | ?        |
 | Raoul    | Raoul    |
 | Reese    | ?        |
 | Sly      | List     |
 | Snogu    | Snogu    |
-| Shad     | ?        |
+| Shad(ow) | ?        |
 | Whistler | Pfeifer  |
 | ...      | ...      |
 
@@ -311,6 +317,8 @@ They are all using their own or clerical names, none of them have to be translat
 * Corristo 
 * Damarok   
 * Drago
+* Earon
+* Hellfire 
 * Kiró
 * Lotho
 * Lusa
