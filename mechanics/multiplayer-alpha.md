@@ -53,7 +53,8 @@ We will at first deal with the reasons for this cancellation which were explaine
 
 ## Reasons for the Cancellation
 
-``Source: gothic.gomp.ch, 1999``
+The source of all of the quotes below is an interview from 1999 (month unknown) given to *gothic.gomp.ch*. All of the quotes below we have translated from German to English for the reader: 
+
 <!-- > **Simon Moon:** Was war der Grund, daß der Multiplayermode abgesetzt wurde?-->
 > **Simon Moon:** *What was the reason for the cancellation of the multiplayer?*
 
