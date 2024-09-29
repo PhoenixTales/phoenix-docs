@@ -24,14 +24,52 @@ And especially german players, who cannot speak english, such as the most who pl
 
 English names in a german game cannot convey the meaning of nicknames given by other inmates. Only by translating them into German (*Verdeutschung*) we can properly convey the idea. 
 
+Another reason why we need to translate the names is that the player too was meant to receive different nicknames, that would change in course of the story according to his deeds or the rumours about him. But this can only be communicated in a believable way when this is alsl the case for other characters in the world. It is a general custom in the colony and we have to make this clear. 
+
 Since the German version has been released with these names of the english version, players are accustomed to these names. To the german ear they are generally sounding "cooler" due to the vogueness of english and anglicisms. Replacing a name like "Raven" with "Rabe", for many players will sound strange and almost as if it is belittling the character. But long story short: We do not care. 
 
-In a translation it may be fine if something cannot fully be conveyed, but we are speaking of the german original here. So there is no question about it, the names have to be germanised. The same has to be done in every other language and lacking or suboptimal translations have to be improved. The translation doesn't have to be literal, but should be close to the desired meaning.  
+In a translation it may be fine if some of the meaning cannot fully be conveyed, but we are speaking of the german original here. So there is no question about it - the names have to be germanised. The same has to be done in every other language and lacking or suboptimal translations have to be improved. The translation doesn't have to be literal, but should be close to the desired meaning.  
 
 
 ### List of Names
 
-
+| ENGLISH | DEUTSCH |
+|---------|---------|
+| Raven   | Rabe    |
+| Scar    | Narbe   |
+| Sly     | List [?] |
+| Cutter  | Kapper  |
+| Whistler | Pfeifer |
+| Dagger | Messer |
+| Shrike | Fink (beides Sperlinge) |
+| Homer | die Taube (Homer = Brieftaube, ala der Nestbauer) oder der Biber (Erbauer der Biberburg) |
+| Fox | Fuchs |
+| Jackal | Schakal |
+| Guy | Guido |
+| Blade | Klinge (?) |
+| Buster | Fänger (?) |
+| Lefty | Link, der Linke (?) |
+| Grumpy | Grant (der Grantige) |
+| Smokie | Raucher (?) |
+| Brownie | der Braune / Brauni |
+| Scarry | Vllt. Ex-Scatty, vllt. Ex-Scar, darum raus? | 
+| Woody | Holzkopf |
+| Creep | Kriecher (?) |
+| Crumb | Krümel/Krume |
+| Numb | der Taube |
+| Nimble(finger) | Flinkhand |
+| Sleepy | Schlafmütze (?) |
+| Dusty | Staub(fresser?)/Staubi |
+| Mud | Matsch(kopf)/Schlick/Schlamm |
+| Snaf | bleibt? Schnupf(er)? |
+| Snipes | Schnäpfe(r)? |
+| Grimes | Schmuddel/Schmutz |
+| Snore | Schnarcher |
+| Swiney | Schwein(chen)? |
+| OldMan | der Alte |
+| TheEye | das Auge (?) |
+| TheKey | Schlüssel/Schlüssler (?) |
+| Fodder | Zottel oder Aas |
 
 
 
