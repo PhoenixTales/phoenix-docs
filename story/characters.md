@@ -62,14 +62,14 @@ The names of the female slaves doesn't have to be translated and are
 | Bloodwyn | ? (Original blodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?) |
 | Boric    | Borik     |
 | Brabak   | Brabak     |
-| Brandick | Brandick   |
+| Brandick | Brandrich   |
 | Bullit   | ?          |
 | Cutter   | Kapper     |
 | X, the Childkiller | X, Kindtöter |
 | Drake    | ?          |
 | Dust     | ?          |
 | Fletcher | Fiederer ?  |
-| Fright(ening) | ?     |
+| Fright(ening) | X, der Furchtbare? |
 | Garak    | Garak      |
 | Greg     | ?   |
 | Hawk(eye) | Adler(auge)  |
@@ -91,7 +91,7 @@ The names of the female slaves doesn't have to be translated and are
 | Scorpio  | Skorpion   |
 | Shabak   | Shabak     |
 | Sharp(blade) | ?      |
-| Skip     | ?          |
+| Skip     | Kipp?       |
 | ?        | Smörk      |
 | Snake    | Schlange   |
 | Snore    | Schnarcher |
@@ -100,8 +100,9 @@ The names of the female slaves doesn't have to be translated and are
 | Tack     | Tack       |
 | Talon    | Kralle     |
 | Thorus   | Thorus     |
-| Ugor     | Ugor       |
 | Ulbert   | Ulbert     |
+| Ulgar    | Ulgar      |
+
 
 
 #### Shadows
