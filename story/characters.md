@@ -60,7 +60,7 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | Nek      | Nek        |
 | Bloodwyn | ?          |
 | Scatty   |            |
-| Fletcher |            |
+| Fletcher | Fiederer   |
 
 
 
