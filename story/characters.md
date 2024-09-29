@@ -40,19 +40,30 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 #### Barons
 
 ```
-+---------------------------------------+
-| ENGLISH   | DEUTSCH | ROLE            |
-|-----------|---------|-----------------|
-| Bartholo  | "       | "Außenminister" |
-| Gomez     | Sangwah | "Big Boss"      |
-| Raven     | Rabe    | "Schattenbaron" |
-| Santino   | Santino | ?               |
-| Scar      | Narbe   | "Linke Hand"    |
-| Vasquez   | Vasquez | "Grauer Baron"  |
-| Wardog    | Kriegshund | "Jungbaron"  | 
-| TheKeeper | X, Orkjaeger | ?          |
-+---------------------------------------+
- 
++-------------------------------------+
+| ENGLISH / DEUTSCH | ROLE / ROLLE    |
+|-------------------|-----------------|
+| Bartholo          | "Außenminister" |
+|     / "           | "Schatzmeister" |
++-------------------|-----------------+
+| Gomez / Sangwah   | "Big Boss"      |
++-------------------|-----------------+
+|   Raven /         | "Schattenbaron" |
+|      Rabe         |  "Rechte Hand"  |
++-------------------|-----------------+
+| Santino  / " ?    | ?               |
+|-------------------|-----------------|
+|   Scar /          | "Söldnerbaron"  |
+|      Narbe        | "Linke Hand"    |
+|-------------------|-----------------|
+| Vasquez / " ?     | "Grauer Baron"  |
+|-------------------|-----------------|
+| Wardog /          | "Konvoiführer"  |
+|    Kriegshund     | "Jungbaron"     |
+|-------------------|-----------------|
+| TheKeeper         | ?               |
+|   / X, Orkjaeger  |                 |
++-------------------------------------+
 ```
 
 #### Slaves
