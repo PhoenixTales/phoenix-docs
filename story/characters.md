@@ -201,11 +201,14 @@ The names of the female slaves doesn't have to be translated.
 | Grumpy   | Grant (der Grantige) |
 | Jarvis   | Jarvis   |
 | Kharim   | Kharim   |
+| Klitho ?  | Klitho Kampfhand |
 | Grunt    | Grunt |
 | Skunk    | Skunk  |
+| Strider  | ?     | 
 | Gorn     | Gorn  |
 | Cole     | ?     |
 | Ransom   | ?     |
+| Roscoe   | ?        |
 | Lou      | ?     |
 | Earthquake | ?   |
 | Vlad     | ?    |
@@ -231,7 +234,7 @@ The names of the female slaves doesn't have to be translated.
 | Shark(y) | ... |
 | Henry    | ?   |
 | Okyl     | Okyl     |
-| Tark     | Tark     |
+| Tark ?    | Tark Augenwischer    |
 | Earl, the Ear | ?, das Ohr |
 | TheEye   | das Auge (?) |
 | TheKey   | Schlüssel/Schlüssler (?) |
@@ -248,7 +251,6 @@ The names of the female slaves doesn't have to be translated.
 | Lefty    | Link, der Linke (?) |
 | Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
 | Silas    | Silas    |
-| Roscoe   | ?        |
 | Miles    | ?        |
 | Lukas    | Lukas    |
 | Russel   | ?        |
@@ -281,10 +283,10 @@ The names of the female slaves doesn't have to be translated.
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
+| Jacko    | Jacko    |
 | Kilian   | Kilian   |
 | Quentin  | Quentin (der "Fünfte") |
 | Renyu    | Renyu    |
-| Jacko    | Jacko    |
 
 
 #### Rangers
@@ -342,6 +344,54 @@ The names of the female slaves doesn't have to be translated.
 ### The Sect
 
 They are all using their own names or names given by the brotherhood based on the old language; none of the names have to be translated. 
+
+#### Novices
+
+* Ka Garon
+* Ka Lib
+* Ka Limae
+* Ka Shin
+* Ka Zatiz
+* Gabriel [Change]
+* Baal Namib
+* Baal Kadash
+* Baal Taran
+* Baal Tarin
+* Baal Isidro
+* Baal Filo
+* Baal Moc
+* Baal Kagan
+* Baal Parvez
+* Baal Orun
+* Saul [Change]
+* Mace
+* Shrat
+* Raska
+* Quinn
+* Havil
+* Viran
+* Sean
+* Tondral
+* [Torlof]
+* Born
+* [Drago]
+* [Kile]
+* [Brandick]
+* [Santino]
+* [Harlok]
+* [Bartholo]
+* Santiagon
+* Salm
+* Uzul
+* Fortuno
+* Caine
+* Lester
+* Joru
+* Darrion
+* Nyras
+* Netbek
+* Talas
+
 
 
 #### Mages
