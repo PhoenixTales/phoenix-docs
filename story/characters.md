@@ -94,7 +94,7 @@ The names of the female slaves doesn't have to be translated and are
 |----------|----------|
 | Diego    | Diego    |
 | Fingers  | ?        |
-| Dark     | ?        |
+| Dark     | X, der Finstere |
 | Dexter   | ?        |
 | Reese    | ?        |
 | Nimble(finger) | Flinkhand |
@@ -104,6 +104,7 @@ The names of the female slaves doesn't have to be translated and are
 | Shad     | ?        |
 | Whistler | Pfeifer  |
 | Raoul    | Raoul    |
+| ...      | ...      |
 
 
 #### OC Folk 
@@ -120,6 +121,10 @@ The names of the female slaves doesn't have to be translated and are
 | Gilbert  | Gilbert  |
 | Dagger   | Messer, besser als Dolch |
 | Dusty    | Staub(fresser?)/Staubi |
+| Delon    | Delon    |
+| Derek    | Derek    |
+| Jug      | ?        |
+| Olon     | Olon     |
 | Fisk     | Fisch?    |
 | Grimes   | Schmuddel/Schmutz |
 | Jesse    | ?        |
@@ -127,6 +132,8 @@ The names of the female slaves doesn't have to be translated and are
 | Canthar  | Canthar  |
 | Kyle     | ?  |
 | Mud      | Matsch(kopf)/Schlick |
+| ?        | Murks |
+| Sira     | Sira |
 | Ryan     | Ryan |
 | Snaf     | bleibt? Schnupf(er)? |
 | Snipes   | Schnäpfe(r)? |
@@ -139,7 +146,7 @@ The names of the female slaves doesn't have to be translated and are
 | Creep    | Kriecher (?) |
 | Crumb    | Krümel/Krume |
 | Numb     | der Taube |
-| Sleepy   | Schlafmütze (?) |
+| Sleepy  | Schlafmütze (?) |
 | Herek    | Herek  |
 | Huno     | Huno   |
 
