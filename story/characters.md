@@ -258,6 +258,7 @@ They are all using their own or clerical names, none of them have to be translat
 
 ##### Circle of Fire
 
+###### Colony 
 * Carasco
 * Corristo 
 * Damarok   
@@ -268,6 +269,12 @@ They are all using their own or clerical names, none of them have to be translat
 * Milten
 * Rodriguez 
 * Torrez  
+
+###### Royals
+* Catmaol
+* Feoras
+* Morogh
+* Nereus
 
 
 ##### Circle of Water
@@ -287,6 +294,16 @@ They are all using their own or clerical names, none of them have to be translat
 
 * Necron
 * Xardas
+
+
+#### Royals/Paladins
+
+* Rhobar
+* Princess
+* Rigaldo
+* Hagen
+* Leomar
+* ...
 
 
 ## Character Description
