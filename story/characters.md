@@ -84,7 +84,6 @@ The names of the female slaves doesn't have to be translated and are
 | Skip     | ?          |
 | Jack     | ?        |
 | Greg     | ?   |
-|    |       |
 
 
 #### Shadows
@@ -119,7 +118,7 @@ The names of the female slaves doesn't have to be translated and are
 | Gilbert  | Gilbert  |
 | Dagger   | Messer, besser als Dolch |
 | Dusty    | Staub(fresser?)/Staubi |
-| Fisk     | ?    |
+| Fisk     | Fisch?    |
 | Grimes   | Schmuddel/Schmutz |
 | Jesse    | ?        |
 | Grim     | Grim       |
