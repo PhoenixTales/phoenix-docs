@@ -95,10 +95,12 @@ The names of the female slaves doesn't have to be translated and are
 | Fingers  | ?        |
 | Dark     | ?        |
 | Dexter   | ?        |
+| Reese    | ?        |
 | Nimble(finger) | Flinkhand |
 | Phantom  | ?        |
 | Sly      | List     |
 | Whistler | Pfeifer  |
+| Raoul    | Raoul    |
 
 
 #### OC Folk 
@@ -144,7 +146,7 @@ The names of the female slaves doesn't have to be translated and are
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
 | Lee      | Lee      |
-| Orik     |          |
+| Orik     | Orik     |
 | Torlof   | Torlof   |
 | Baloro   | Baloro   |
 | Blade    | Klinge (?) |
@@ -153,6 +155,7 @@ The names of the female slaves doesn't have to be translated and are
 | Jarvis   | Jarvis   |
 | Kharim   | Kharim   |
 | Grunt    | Grunt |
+| Skunk    | Skunk  |
 | Gorn     | Gorn  |
 
 
