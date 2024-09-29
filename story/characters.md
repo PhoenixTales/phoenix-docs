@@ -33,43 +33,53 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 
 ### List of Names
 
-| ENGLISH | DEUTSCH |
-|---------|---------|
-| Raven   | Rabe    |
-| Scar    | Narbe   |
-| Sly     | List [?] |
-| Cutter  | Kapper  |
+| ENGLISH  | DEUTSCH |
+|----------|---------|
+| Raven    | Rabe    |
+| Scar     | Narbe   |
+| Sly      | List    |
+| Cutter   | Kapper  |
 | Whistler | Pfeifer |
-| Dagger | Messer |
-| Shrike | Fink (beides Sperlinge) |
-| Homer | die Taube (Homer = Brieftaube, ala der Nestbauer) oder der Biber (Erbauer der Biberburg) |
-| Fox | Fuchs |
-| Jackal | Schakal |
-| Guy | Guido |
-| Blade | Klinge (?) |
-| Buster | Fänger (?) |
-| Lefty | Link, der Linke (?) |
-| Grumpy | Grant (der Grantige) |
-| Smokie | Raucher (?) |
-| Brownie | der Braune / Brauni |
-| Scarry | Vllt. Ex-Scatty, vllt. Ex-Scar, darum raus? | 
-| Woody | Holzkopf |
-| Creep | Kriecher (?) |
-| Crumb | Krümel/Krume |
-| Numb | der Taube |
+| Dagger   | Messer, klingt besser als Dolch |
+| Shrike   | Fink (beides Sperlinge) or " Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
+| Homer    | die Taube (Homer = Brieftaube, ala der Nestbauer) oder der Biber (weil Erbauer der "Biberburg" im NC) |
+| Fox      | Fuchs |
+| Jackal   | Schakal |
+| Wolf     | Wolf |
+| Lares    | Lares |
+| Cipher   | ? |
+| Quentin  | ? |
+| Wedges   | ?  |
+| Butch   | ?   |
+| Jeremiah | Jeremiah |
+| Silas    | Silas    |
+| Guy      | Guido |
+| Blade    | Klinge (?) |
+| Buster   | Fänger (?) |
+| Lefty    | Link, der Linke (?) |
+| Grumpy   | Grant (der Grantige) |
+| Smokie   | Raucher (?) |
+| Brownie  | der Braune / Brauni |
+| Scarry   | vllt. Ex-Scatty, vllt. Ex-Scar, darum raus | 
+| Woody    | Holzkopf |
+| Creep    | Kriecher (?) |
+| Crumb    | Krümel/Krume |
+| Numb     | der Taube |
 | Nimble(finger) | Flinkhand |
-| Sleepy | Schlafmütze (?) |
-| Dusty | Staub(fresser?)/Staubi |
-| Mud | Matsch(kopf)/Schlick/Schlamm |
-| Snaf | bleibt? Schnupf(er)? |
-| Snipes | Schnäpfe(r)? |
-| Grimes | Schmuddel/Schmutz |
-| Snore | Schnarcher |
-| Swiney | Schwein(chen)? |
-| OldMan | der Alte |
-| TheEye | das Auge (?) |
-| TheKey | Schlüssel/Schlüssler (?) |
-| Fodder | Zottel oder Aas |
+| Sleepy   | Schlafmütze (?) |
+| Grunt    | Grunt |
+| Shabak   | Shabak |
+| Dusty    | Staub(fresser?)/Staubi |
+| Mud      | Matsch(kopf)/Schlick/Schlamm |
+| Snaf     | bleibt? Schnupf(er)? |
+| Snipes   | Schnäpfe(r)? |
+| Grimes   | Schmuddel/Schmutz |
+| Snore    | Schnarcher |
+| Swiney   | Schwein(chen)? |
+| OldMan   | der Alte |
+| TheEye   | das Auge (?) |
+| TheKey   | Schlüssel/Schlüssler (?) |
+| Fodder   | Zottel oder Aas |
 
 
 
