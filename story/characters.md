@@ -35,27 +35,85 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 
 ### List of Names
 
-| ENGLISH  | DEUTSCH |
-|----------|---------|
-| Raven    | Rabe    |
-| Scar     | Narbe   |
-| Sly      | List    |
-| Cutter   | Kapper  |
-| Whistler | Pfeifer |
-| Dagger   | Messer, klingt besser als Dolch |
+#### Barons
+
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
+| Gomez    | Gomez/Sangwah |
+| Raven    | Rabe     |
+| Scar     | Narbe    |
+| Bartholo | Bartholo |
+| Santino  | Santino  |
+| Vasquez  | Vasquez  |
+
+
+#### Guards
+
+| ENGLISH  | DEUTSCH    |
+|----------|------------|
+| Cutter   | Kapper     |
+| Jackal   | Schakal    |
+| Mort     | ?          |
+| Scorpio  | Skorpion   |
+| Hunter   | Jäger      |
+| Snore    | Schnarcher |
+| Nek      | Nek        |
+| Bloodwyn | ?          |
+| Scatty   |            |
+| Fletcher |            |
+
+
+
+#### Shadows
+
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
+| Sly      | List     |
+| Whistler | Pfeifer  |
+
+
+#### OC Folk 
+
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
+| Dagger   | Messer, besser als Dolch |
+| Dusty    | Staub(fresser?)/Staubi |
+| Fisk     | ... |
+| Grimes   | Schmuddel/Schmutz |
+| Jesse    | ?        |
+| Mud      | Matsch(kopf)/Schlick |
+| Ryan     | Ryan |
+| Snaf     | bleibt? Schnupf(er)? |
+| Snipes   | Schnäpfe(r)? |
+
+
+
+#### NC Folk
+
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
 | Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
 | Homer    | die Taube (Homer = Brieftaube, ala der Nestbauer) oder der Biber (weil Erbauer der "Biberburg" im NC) |
-| Fox      | Fuchs |
-| Jackal   | Schakal |
-| Wolf     | Wolf |
-| Lares    | Lares |
+
+
+#### Organisation
+
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
+| Lares    | Lares    |
+| Fox      | Fuchs    |
+| Wolf     | Wolf     |
+| Kirill   | Kirill   |
 | Cipher   | Null (arabisch sifr = null) |
 | Quentin  | Quentin (der "Fünfte") |
-| Wedge   | "Keil", Winkel (?) |
-| Butch   | "Metz", "Schlacht" |
-| Jeremiah | Jeremia |
+| Wedge    | "Keil", Winkel (?) |
+| Butch    | "Metz", "Schlacht" |
+| Jeremiah | Jeremia  |
 | Silas    | Silas    |
-| Guy      | Guido |
+| Guy      | Guido    |
+
+
+
 | Blade    | Klinge (?) |
 | Buster   | Fänger (?) |
 | Lefty    | Link, der Linke (?) |
@@ -71,12 +129,8 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | Sleepy   | Schlafmütze (?) |
 | Grunt    | Grunt |
 | Shabak   | Shabak |
-| Dusty    | Staub(fresser?)/Staubi |
-| Mud      | Matsch(kopf)/Schlick/Schlamm |
-| Snaf     | bleibt? Schnupf(er)? |
-| Snipes   | Schnäpfe(r)? |
-| Grimes   | Schmuddel/Schmutz |
-| Snore    | Schnarcher |
+
+
 | Swiney   | Schwein(chen)? |
 | OldMan   | der Alte |
 | TheEye   | das Auge (?) |
