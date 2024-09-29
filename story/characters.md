@@ -215,6 +215,7 @@ The names of the female slaves doesn't have to be translated and are
 | Horatio | ?       |
 | Pock    | Pock    | 
 | Larp    | ?       |
+| Tom     | ?       |
 | ...     |         |
 
 
