@@ -341,11 +341,11 @@ The names of the female slaves doesn't have to be translated.
 | ?        | Zuhl     |
 
 
-### The Sect
+#### The Sect
 
 They are all using their own names or names given by the brotherhood based on the old language; none of the names have to be translated. 
 
-#### Novices
+##### Novices
 
 * Ka Garon
 * Ka Lib
@@ -391,7 +391,47 @@ They are all using their own names or names given by the brotherhood based on th
 * Nyras
 * Netbek
 * Talas
+* Viran
+* Balor
+* Ghorim
 
+
+##### Templars
+
+* Gor-Na-Go
+* Gor-Na-Vid
+* Gor-Na-Tot
+* Gor-Na-Toth
+* Gor-Na-Ba
+* Gor-Na-Bar
+* Gor-Morbio
+* Gor-Grome
+* Gor-Na-Kash
+* Gor-Na-Kosh
+* Gor-Na-Ran
+* Gor-Na-Drak
+* Gor-Hanis
+* Gor-Bugol
+* Gor-Jona
+* Gor-Jug
+* [Quentin]
+* Harun
+* [Balor]
+* Jagblade
+* [Fortuno]
+* Pat
+* Ako
+* Luke
+* [Lou]
+* [Bladwin]
+
+
+##### Gurus
+
+* Y'Berion
+* Cor Angar
+* Cor Kalom
+* ...
 
 
 #### Mages
