@@ -75,15 +75,15 @@ The names of the female slaves doesn't have to be translated and are
 | Hawk(eye) | Adler(auge)  |
 | Hunter   | Jäger      |
 | Ian      | Ian        |
-| Jack     | ?        |
+| Jack     | Jockel?    |
 | Jackal   | Schakal    |
 | Kirgo    | Kirgo      |
 | ?        | X, der Lispler    |
 | Mack     | Mack       |
 | Mort     | ?          |
 | Nek      | ? - (Nek ist eine Anspielung auf Tod) |
-| Orry     | ?    | 
-| Pacho    | Pacho      |
+| Orry     | Golder (gaelic "gold")   | 
+| Pacho    | Kurzer     |
 | Parik    | Parik      |
 | X, the Nurrba | X, der Nurrba | 
 | X Twoknife? | Rigosch, Zweimesser |
@@ -96,7 +96,7 @@ The names of the female slaves doesn't have to be translated and are
 | Snake    | Schlange   |
 | Snore    | Schnarcher |
 | Spot     | ?          |
-| Stone    | ?          |
+| Stone    | ? X, der Stein(...)  |
 | Tack     | Tack       |
 | Talon    | Kralle     |
 | Thorus   | Thorus     |
