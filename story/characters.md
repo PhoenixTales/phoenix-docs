@@ -10,6 +10,8 @@ After listening all the NPCs we offer an NPC short *description*, based on (1) w
 
 What we will not address here is how the characters will develop in course of the story; this is the topic of the "Character Plots", starting with the Character Progression. 
 
+And please note: For now we are only listing all the names to be found in the sources, in some cases there are two names that may later be identified with the same character and we have yet to decide which name to use or how to solve these conflicts.
+
 
 ## Character Names
 
@@ -299,8 +301,7 @@ They are all using their own or clerical names, none of them have to be translat
 
 ##### DMB
 
-* Necron
-* Xardas
+* Necron/Xardas
 
 
 #### Royals/Paladins
