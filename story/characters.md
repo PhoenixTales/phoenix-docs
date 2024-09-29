@@ -203,7 +203,7 @@ The names of the female slaves doesn't have to be translated and are
 | Phil     | ?        |
 | Poke     | ? |
 | Rufus    | ? | 
-
+| ...      |    |
 
 
 #### Bandits
@@ -223,7 +223,8 @@ The names of the female slaves doesn't have to be translated and are
 | Drax     | ?        |
 | Gjan     | Gjan     |
 | Ratford  | ?        |
-| ...      | ...      |
+| Benedikt | Benedikt |
+| Craven   | ?        |
 
 
 #### Scraper's Union
