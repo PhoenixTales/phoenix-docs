@@ -99,6 +99,8 @@ The names of the female slaves doesn't have to be translated and are
 | Nimble(finger) | Flinkhand |
 | Phantom  | ?        |
 | Sly      | List     |
+| Snogu    | Snogu    |
+| Shad     | ?        |
 | Whistler | Pfeifer  |
 | Raoul    | Raoul    |
 
