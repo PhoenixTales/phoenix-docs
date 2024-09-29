@@ -53,10 +53,14 @@ The names of the female slaves doesn't have to be translated and are
 
 | ENGLISH  | DEUTSCH    |
 |----------|------------|
+| Aaron    | Aaron      |
+| Asghan   | Asghan     |
 | Brabak   | Brakab     |
+| Brandick | Brandick   |
 | Bullit   | ?          |
 | Thorus   | Thorus     |
 | Cutter   | Kapper     |
+| Drake    | ?          |
 | Jackal   | Schakal    |
 | Mort     | ?          |
 | Scorpio  | Skorpion   |
@@ -70,8 +74,11 @@ The names of the female slaves doesn't have to be translated and are
 | Ulbert   | Ulbert     |
 | Ugor     | Ugor       |
 | Garak    | Garak      |
+| Orry     | ?    | 
+| Hawk(eye) | ?     |
 | Ian      | Ian        |
 | Kirgo    | Kirgo      |
+| Pacho    | Pacho      |
 | Stone    | ?          |
 | Skip     | ?          |
 | Jack     | ?        |
@@ -83,6 +90,12 @@ The names of the female slaves doesn't have to be translated and are
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
+| Diego    | Diego    |
+| Fingers  | ?        |
+| Dark     | ?        |
+| Dexter   | ?        |
+| Nimble(finger) | Flinkhand |
+| Phantom  | ?        |
 | Sly      | List     |
 | Whistler | Pfeifer  |
 
@@ -91,6 +104,9 @@ The names of the female slaves doesn't have to be translated and are
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
+| Alberto  | Alberto  |
+| Cavalorn | ?        |
+| Gilbert  | Gilbert  |
 | Dagger   | Messer, besser als Dolch |
 | Dusty    | Staub(fresser?)/Staubi |
 | Fisk     | ... |
@@ -101,6 +117,7 @@ The names of the female slaves doesn't have to be translated and are
 | Snaf     | bleibt? Schnupf(er)? |
 | Snipes   | Schnäpfe(r)? |
 | Guy      | Guido    |
+| 
 
 
 #### NC Folk
@@ -112,6 +129,7 @@ The names of the female slaves doesn't have to be translated and are
 | Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
 | Jeremiah | Jeremia  |
 | Silas    | Silas    |
+| Roscoe   | ?        |
 
 
 #### Peasants 
@@ -125,8 +143,10 @@ The names of the female slaves doesn't have to be translated and are
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
+| Bruce    | ?        |
 | Lares    | Lares    |
 | Fox      | Fuchs    |
+| Mordrag  | Mordrag  |
 | Wolf     | Wolf     |
 | Wedge    | "Keil", Winkel (?) |
 | Butch    | "Metz", "Schlacht" |
@@ -134,6 +154,7 @@ The names of the female slaves doesn't have to be translated and are
 | Buster   | Fänger (?) |
 | Shark(y) | ... |
 | Okyl     | Okyl     |
+| Tark     | Tark     |
 | TheEye   | das Auge (?) |
 | TheKey   | Schlüssel/Schlüssler (?) |
 | Fodder   | Zottel oder Aas |
@@ -146,6 +167,18 @@ The names of the female slaves doesn't have to be translated and are
 | Kilian   | Kilian   |
 | Quentin  | Quentin (der "Fünfte") |
 | Renyu    | Renyu    |
+
+
+#### Rangers
+ 
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
+| Aidan    | Aidan    |
+| Drax     | ?        |
+| Gjan     | Gjan     |
+| Ratford  | ?        |
+| 
+
 
 
 #### Mercenaries
@@ -168,7 +201,7 @@ The names of the female slaves doesn't have to be translated and are
 | Creep    | Kriecher (?) |
 | Crumb    | Krümel/Krume |
 | Numb     | der Taube |
-| Nimble(finger) | Flinkhand |
+
 | Sleepy   | Schlafmütze (?) |
 | Grunt    | Grunt |
 | Gorn     | Gorn  |
