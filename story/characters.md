@@ -41,7 +41,7 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 
 ```
 +-------------------------------------+
-| ENGLISH / DEUTSCH | ROLE / ROLLE    |
+| ENGLISH / DEUTSCH |     ROLE(S)     |
 |-------------------|-----------------|
 | Bartholo          | "Außenminister" |
 |     / "           | "Schatzmeister" |
