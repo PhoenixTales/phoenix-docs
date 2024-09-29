@@ -46,6 +46,8 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | Santino  | Santino  |
 | Vasquez  | Vasquez  |
 
+The names of the female slaves doesn't have to be translated and are 
+
 
 #### Guards
 
