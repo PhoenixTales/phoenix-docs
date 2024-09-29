@@ -241,7 +241,7 @@ The names of the female slaves doesn't have to be translated.
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
 | Homer    | die Taube (Homer = Brieftaube, ala der Nestbauer) oder der Biber (weil Erbauer der "Biberburg" im NC) |
-| Jeremiah | Jeremia  |
+| Jeremiah/Ricelord | Jeremia, ? |
 | Lefty    | Link, der Linke (?) |
 | Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
 | Silas    | Silas    |
@@ -255,15 +255,20 @@ The names of the female slaves doesn't have to be translated.
 
 | ENGLISH | DEUTSCH |
 |---------|---------|
-| Melvin  | Melvin  |
 | Horace  | ?       |
+| Horatio | ?       |
+| Larp    | ?       |
+| Melvin  | Melvin  |
+| NoBrain | ?       |
 | Phil    | ?       |
+| Pock    | Pock    |
 | Poke    | ?       |
 | Rufus   | ?       | 
-| Horatio | ?       |
-| Pock    | Pock    | 
-| Larp    | ?       |
+| Sam     | Sam     |
 | Tom     | ?       |
+| Halloran | ?      |
+| Judas   |  ?      |
+| Miles   | ?       |
 | ...     |         |
 
 
@@ -337,6 +342,7 @@ They are all using their own or clerical names, none of them have to be translat
 
 * Abraxus
 * Cronos
+* Kaskoh
 * Marten 
 * Merdarion 
 * Myxir
