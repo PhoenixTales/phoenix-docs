@@ -55,7 +55,7 @@ The names of the female slaves doesn't have to be translated and are
 |----------|------------|
 | Aaron    | Aaron      |
 | Asghan   | Asghan     |
-| Brabak   | Brakab     |
+| Brabak   | Brabak     |
 | Brandick | Brandick   |
 | Bullit   | ?          |
 | Thorus   | Thorus     |
@@ -64,18 +64,19 @@ The names of the female slaves doesn't have to be translated and are
 | Jackal   | Schakal    |
 | Mort     | ?          |
 | Scorpio  | Skorpion   |
+| Twoknife? | Zweimesser |
 | Hunter   | Jäger      |
 | Snore    | Schnarcher |
 | Nek      | ? - (Nek ist eine Anspielung auf Tod) |
 | Bloodwyn | ? (Original blodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?) |
-| Scatty   |            |
-| Fletcher | Fiederer   |
+| Scatty   | ?          |
+| Fletcher | Fiederer ?  |
 | Shabak   | Shabak     |
 | Ulbert   | Ulbert     |
 | Ugor     | Ugor       |
 | Garak    | Garak      |
 | Orry     | ?    | 
-| Hawk(eye) | ?     |
+| Hawk(eye) | Adler(auge)  |
 | Ian      | Ian        |
 | Kirgo    | Kirgo      |
 | Pacho    | Pacho      |
@@ -105,6 +106,11 @@ The names of the female slaves doesn't have to be translated and are
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
 | Alberto  | Alberto  |
+| Aleph    | ?        |
+| Garp     | ?        |
+| Glen     | ?        |
+| Graham   | ?        | 
+| Gravo    | ?        |
 | Cavalorn | ?        |
 | Gilbert  | Gilbert  |
 | Dagger   | Messer, besser als Dolch |
@@ -112,31 +118,42 @@ The names of the female slaves doesn't have to be translated and are
 | Fisk     | ... |
 | Grimes   | Schmuddel/Schmutz |
 | Jesse    | ?        |
+| Grim     | ?        |
+| Canthar  | Canthar  |
+| Kyle     | ?  |
 | Mud      | Matsch(kopf)/Schlick |
 | Ryan     | Ryan |
 | Snaf     | bleibt? Schnupf(er)? |
 | Snipes   | Schnäpfe(r)? |
 | Guy      | Guido    |
-| 
+| Viper    | ?        |
+| Smokie   | Raucher (?) |
+| Brownie  | der Braune / Brauni |
+| Scarry   | vllt. Ex-Scatty, vllt. Ex-Scar, raus? | 
+| Woody    | Holzkopf |
+| Creep    | Kriecher (?) |
+| Crumb    | Krümel/Krume |
+| Numb     | der Taube |
+| Sleepy   | Schlafmütze (?) |
+| Herek    | ?   |
+| Huno     | ?   |
 
 
-#### NC Folk
-
-| ENGLISH  | DEUTSCH  |
-|----------|----------|
-| Homer    | die Taube (Homer = Brieftaube, ala der Nestbauer) oder der Biber (weil Erbauer der "Biberburg" im NC) |
-| Lefty    | Link, der Linke (?) |
-| Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
-| Jeremiah | Jeremia  |
-| Silas    | Silas    |
-| Roscoe   | ?        |
-
-
-#### Peasants 
+#### Mercenaries
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
-| 
+| Lee      | Lee      |
+| Orik     |          |
+| Torlof   | Torlof   |
+| Baloro   | Baloro   |
+| Blade    | Klinge (?) |
+| Cord     | Strick (?) |
+| Grumpy   | Grant (der Grantige) |
+| Jarvis   | Jarvis   |
+| Kharim   | Kharim   |
+| Grunt    | Grunt |
+| Gorn     | Gorn  |
 
 
 #### Organisation
@@ -160,6 +177,25 @@ The names of the female slaves doesn't have to be translated and are
 | Fodder   | Zottel oder Aas |
 
 
+#### NC Folk
+
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
+| Homer    | die Taube (Homer = Brieftaube, ala der Nestbauer) oder der Biber (weil Erbauer der "Biberburg" im NC) |
+| Jeremiah | Jeremia  |
+| Lefty    | Link, der Linke (?) |
+| Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
+| Silas    | Silas    |
+| Roscoe   | ?        |
+
+
+#### Peasants 
+
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
+| ...      | ...      |
+
+
 #### Bandits
 
 | ENGLISH  | DEUTSCH  |
@@ -177,39 +213,17 @@ The names of the female slaves doesn't have to be translated and are
 | Drax     | ?        |
 | Gjan     | Gjan     |
 | Ratford  | ?        |
-| 
+| ...      | ...      |
 
 
-
-#### Mercenaries
+#### Scraper's Union
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
-| Lee      | Lee      |
-| Orik     |          |
-| Torlof   | Torlof   |
-| Baloro   | Baloro   |
-| Blade    | Klinge (?) |
-| Cord     | Strick (?) |
-| Grumpy   | Grant (der Grantige) |
-| Jarvis   | Jarvis   |
-| Kharim   | Kharim   |
-| Smokie   | Raucher (?) |
-| Brownie  | der Braune / Brauni |
-| Scarry   | vllt. Ex-Scatty, vllt. Ex-Scar, raus? | 
-| Woody    | Holzkopf |
-| Creep    | Kriecher (?) |
-| Crumb    | Krümel/Krume |
-| Numb     | der Taube |
-
-| Sleepy   | Schlafmütze (?) |
-| Grunt    | Grunt |
-| Gorn     | Gorn  |
-
-
+| Senyan   | Senyan   |
 | Swiney   | Schwein(chen)? |
 | OldMan   | der Alte |
-
+| Add 0.94k names |    |
 
 
 ### The Sect
@@ -224,14 +238,18 @@ They are all using their own or clerical names, none of them have to be translat
 
 ##### Circle of Fire
 
-* Corristo  
+* Corristo 
 * Damarok   
-* Drago     
+* Drago
+* Kiró
+* Lotho
+* Lusa
+* Milten
 * Rodriguez 
 * Torrez  
 
 
-#### Circle of Water
+##### Circle of Water
 
 * Abraxus
 * Cronos
@@ -244,7 +262,7 @@ They are all using their own or clerical names, none of them have to be translat
 * Torin
 
 
-#### DMB
+##### DMB
 
 * Necron
 * Xardas
