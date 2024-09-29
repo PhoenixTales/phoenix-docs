@@ -54,6 +54,7 @@ The names of the female slaves doesn't have to be translated and are
 | ENGLISH  | DEUTSCH    |
 |----------|------------|
 | Brabak   | Brakab     |
+| Bullit   | ?          |
 | Thorus   | Thorus     |
 | Cutter   | Kapper     |
 | Jackal   | Schakal    |
@@ -71,6 +72,11 @@ The names of the female slaves doesn't have to be translated and are
 | Garak    | Garak      |
 | Ian      | Ian        |
 | Kirgo    | Kirgo      |
+| Stone    | ?          |
+| Skip     | ?          |
+| Jack     | ?        |
+| Greg     | ?   |
+| ?    |       |
 
 
 #### Shadows
