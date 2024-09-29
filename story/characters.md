@@ -41,17 +41,17 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | Cutter   | Kapper  |
 | Whistler | Pfeifer |
 | Dagger   | Messer, klingt besser als Dolch |
-| Shrike   | Fink (beides Sperlinge) or " Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
+| Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
 | Homer    | die Taube (Homer = Brieftaube, ala der Nestbauer) oder der Biber (weil Erbauer der "Biberburg" im NC) |
 | Fox      | Fuchs |
 | Jackal   | Schakal |
 | Wolf     | Wolf |
 | Lares    | Lares |
-| Cipher   | ? |
-| Quentin  | ? |
-| Wedges   | ?  |
-| Butch   | ?   |
-| Jeremiah | Jeremiah |
+| Cipher   | Null (arabisch sifr = null) |
+| Quentin  | Quentin (der "Fünfte") |
+| Wedge   | "Keil", Winkel (?) |
+| Butch   | "Metz", "Schlacht" |
+| Jeremiah | Jeremia |
 | Silas    | Silas    |
 | Guy      | Guido |
 | Blade    | Klinge (?) |
@@ -80,7 +80,6 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | TheEye   | das Auge (?) |
 | TheKey   | Schlüssel/Schlüssler (?) |
 | Fodder   | Zottel oder Aas |
-
 
 
 ## Character Description
