@@ -253,6 +253,7 @@ They are all using their own or clerical names, none of them have to be translat
 
 ##### Circle of Fire
 
+* Carasco
 * Corristo 
 * Damarok   
 * Drago
