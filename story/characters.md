@@ -113,6 +113,7 @@ The names of the female slaves doesn't have to be translated and are
 |----------|----------|
 | Alberto  | Alberto  |
 | Brownie  | der Braune / Brauni |
+| ?        | Brummel  |
 | Canthar  | Canthar  |
 | Cavalorn | ?        |
 | Creep    | Kriecher (?) |
