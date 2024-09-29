@@ -171,6 +171,7 @@ The names of the female slaves doesn't have to be translated.
 | Snaf     | bleibt? Schnupf(er)? |
 | Viper    | ?        |
 | Woody    | Holzkopf |
+| ?        | Kimbahl  |
 
 
 #### OC Miners / Diggers
@@ -198,6 +199,7 @@ The names of the female slaves doesn't have to be translated.
 | Baloro   | Baloro   |
 | Blade    | Klinge (?) |
 | Cord     | Strick (?) |
+| Dailah   | Dailah   |
 | Grumpy   | Grant (der Grantige) |
 | Jarvis   | Jarvis   |
 | Kharim   | Kharim   |
@@ -371,7 +373,9 @@ They are all using their own names or names given by the brotherhood based on th
 * Havil
 * Viran
 * Sean
-* Tondral
+* [Baal] Tondral
+* Baal Tyon
+* Baal Lukor
 * [Torlof]
 * Born
 * [Drago]
@@ -425,13 +429,21 @@ They are all using their own names or names given by the brotherhood based on th
 * [Lou]
 * [Bladwin]
 
-
 ##### Gurus
 
 * Y'Berion
 * Cor Angar
 * Cor Kalom
-* ...
+* Tasman
+* [Fortuno]
+* Cor-Loran
+* Cor-Garrion
+
+##### Slaves
+
+* Chani
+* Natalia
+* ... 
 
 
 #### Mages
@@ -479,6 +491,19 @@ They are all using their own or clerical names, none of them have to be translat
 ##### DMB
 
 * Necron/Xardas
+
+
+#### Orcs of Bloodearth Clan
+
+* Uruk
+* Ur-Shak
+* Tarrok
+* Unhilqt
+* Hashor
+* Kasorg
+* Ruuushk
+* Arushat
+* ...
 
 
 #### Royals/Paladins
