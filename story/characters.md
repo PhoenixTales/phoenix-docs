@@ -219,13 +219,17 @@ The names of the female slaves doesn't have to be translated.
 | Gaist    | Gaist    |
 | Bruce    | ?        |
 | Fox      | Fuchs    |
+| Drexel   | ?        |
 | Mordrag  | Mordrag  |
 | Wolf     | Wolf     |
+| ?        | Stöberer |
+| ?        | Frosthand |
 | Wedge    | "Keil", Winkel (?) |
 | Butch    | "Metz", "Schlacht" |
 | Cipher   | Null (arabisch sifr = null) |
 | Buster   | Fänger (?) |
 | Shark(y) | ... |
+| Henry    | ?   |
 | Okyl     | Okyl     |
 | Tark     | Tark     |
 | Earl, the Ear | ?, das Ohr |
@@ -248,6 +252,8 @@ The names of the female slaves doesn't have to be translated.
 | Miles    | ?        |
 | Lukas    | Lukas    |
 | Russel   | ?        |
+| Urxai    | Urxai    |
+| Marvin   | Marvin   |
 
 
 #### Peasants 
@@ -278,6 +284,7 @@ The names of the female slaves doesn't have to be translated.
 | Kilian   | Kilian   |
 | Quentin  | Quentin (der "Fünfte") |
 | Renyu    | Renyu    |
+| Jacko    | Jacko    |
 
 
 #### Rangers
@@ -285,6 +292,7 @@ The names of the female slaves doesn't have to be translated.
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
 | Aidan    | Aidan    |
+| Calash   | ?        |
 | Dagger   | Messer, besser als Dolch? |
 | Drax     | ?        |
 | Gjan     | Gjan     |
