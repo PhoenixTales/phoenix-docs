@@ -158,6 +158,7 @@ The names of the female slaves doesn't have to be translated and are
 | Grunt    | Grunt |
 | Skunk    | Skunk  |
 | Gorn     | Gorn  |
+| Cole     | ?     |
 
 
 #### Organisation
