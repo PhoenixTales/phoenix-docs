@@ -160,6 +160,9 @@ The names of the female slaves doesn't have to be translated and are
 | Gorn     | Gorn  |
 | Cole     | ?     |
 | Ransom   | ?     |
+| Lou      | ?     |
+| Earthquake | ?   |
+| Vlad     | ?    |
 
 
 #### Organisation
