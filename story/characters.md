@@ -24,7 +24,9 @@ And especially german players, who cannot speak english, such as the most who pl
 
 English names in a german game cannot convey the meaning of nicknames given by other inmates. Only by translating them into German (*Verdeutschung*) we can properly convey the idea. 
 
-Another reason why we need to translate the names is that the player too was meant to receive different nicknames, that would change in course of the story according to his deeds or the rumours about him. But this can only be communicated in a believable way when this is alsl the case for other characters in the world. It is a general custom in the colony and we have to make this clear. 
+Another reason why we need to translate the names is that the player too was meant to receive different nicknames, that would change in course of the story according to his deeds or the rumours about him. But this can only be communicated in a believable way when this is also the case for other characters in the world. It is a general custom in the colony and we have to make this clear. 
+
+The idea of a differentiation between "newbie names", given to rookies, to the "babies" of the colony (see the original "Welcome to the Colony, Baby") and the names of those, who have already made a name for themselves, will also be impossible to convey without a translation.   
 
 Since the German version has been released with these names of the english version, players are accustomed to these names. To the german ear they are generally sounding "cooler" due to the vogueness of english and anglicisms. Replacing a name like "Raven" with "Rabe", for many players will sound strange and almost as if it is belittling the character. But long story short: We do not care. 
 
