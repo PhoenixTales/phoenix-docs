@@ -192,6 +192,8 @@ The names of the female slaves doesn't have to be translated and are
 | Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
 | Silas    | Silas    |
 | Roscoe   | ?        |
+| Miles    | ?        |
+| Lukas    | Lukas    |
 
 
 #### Peasants 
