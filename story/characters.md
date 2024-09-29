@@ -112,43 +112,51 @@ The names of the female slaves doesn't have to be translated and are
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
 | Alberto  | Alberto  |
-| Aleph    | ?        |
-| Garp     | ?        |
-| Glen     | ?        |
-| Graham   | ?        | 
-| Gravo    | ?        |
-| Cavalorn | ?        |
-| Gilbert  | Gilbert  |
-| Dagger   | Messer, besser als Dolch |
-| Dusty    | Staub(fresser?)/Staubi |
-| Delon    | Delon    |
-| Derek    | Derek    |
-| Jug      | ?        |
-| Olon     | Olon     |
-| Fisk     | Fisch?    |
-| Grimes   | Schmuddel/Schmutz |
-| Jesse    | ?        |
-| Grim     | Grim       |
-| Canthar  | Canthar  |
-| Kyle     | ?  |
-| Mud      | Matsch(kopf)/Schlick |
-| ?        | Murks |
-| Sira     | Sira |
-| Ryan     | Ryan |
-| Snaf     | bleibt? Schnupf(er)? |
-| Snipes   | Schnäpfe(r)? |
-| Guy      | Guido    |
-| Viper    | ?        |
-| Smokie   | Raucher (?) |
 | Brownie  | der Braune / Brauni |
-| Scarry   | vllt. Ex-Scatty, vllt. Ex-Scar, raus? | 
-| Woody    | Holzkopf |
+| Canthar  | Canthar  |
+| Cavalorn | ?        |
 | Creep    | Kriecher (?) |
 | Crumb    | Krümel/Krume |
-| Numb     | der Taube |
-| Sleepy  | Schlafmütze (?) |
+| Dagger   | Messer, besser als Dolch |
+| Delon    | Delon    |
+| Derek    | Derek    |
+| Fisk     | Fisch?    |
+| Graham   | ?        | 
+| Gravo    | ?        |
+| Grim     | Grim       |
+| Guy      | Guido    |
 | Herek    | Herek  |
 | Huno     | Huno   |
+| Jesse    | ?        |
+| Jug      | ?        |
+| Kyle     | ?  |
+| Marus    | Marus  |
+| Mud      | Matsch(kopf)/Schlick |
+| ?        | Murks |
+| Numb     | der Taube |
+| Olon     | Olon     |
+| Ryan     | Ryan |
+| Scarry   | vllt. Ex-Scatty, vllt. Ex Scar, raus? | 
+| Sleepy  | Schlafmütze (?) |
+| Smokie   | Raucher (?) |
+| Snaf     | bleibt? Schnupf(er)? |
+| Viper    | ?        |
+| Woody    | Holzkopf |
+
+
+#### OC Miners / Diggers
+
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
+| Aleph    | ?        |
+| Dusty    | Staub(fresser?)/Staubi |
+| Garp     | ?        |
+| Glen     | ?        |
+| Gilbert  | Gilbert  |
+| Grimes   | Schmuddel/Schmutz |
+| Melvin   | Melvin | 
+| Sira     | Sira |
+| Snipes   | Schnäpfe(r)? |
 
 
 #### Mercenaries
