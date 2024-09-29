@@ -13,6 +13,23 @@ What we will not address here is how the characters will develop in course of th
 
 ## Character Names
 
+### Translation of Names
+
+As explained in /mechanics/nicknames, many characters in the game are called by their nicknames that they were given in the prison. While this has always been planned to be so, the fact that these names *are* nicknames given by other inmates was never really addressed in the game. And while in other translations, such as the polish one, these nicknames were translated, in German they kept the English names they had used in their prototypes and demos. The result was that the majority of the german players didn't even think about them as nicknames. In this way a german player doesn't really sense a difference between e.g. such names like Gomez and Milten, to names like Snipes or Blade. But the first ones are actual names, while the last ones are prison nicknames. 
+
+And especially german players, who cannot speak english, such as the most who played it as children, are of course unable to see much of a meaning behind the names and cannot see any association to the characteristics or the history etc. of a character. When playing the game with twelve I didn't even know that a scar was a "Narbe", so how would I have been able to associate his name with his face? 
+
+*Scar* is also the Protagonist in STALKER Clear Sky, where it has obviously been translated to *Narbe*.
+{: .subtext }
+
+English names in a german game cannot convey the meaning of nicknames given by other inmates. Only by translating them into German (*Verdeutschung*) we can properly convey the idea. 
+
+Since the German version has been released with these names of the english version, players are accustomed to these names. To the german ear they are generally sounding "cooler" due to the vogueness of english and anglicisms. Replacing a name like "Raven" with "Rabe", for many players will sound strange and almost as if it is belittling the character. But long story short: We do not care. 
+
+In a translation it may be fine if something cannot fully be conveyed, but we are speaking of the german original here. So there is no question about it, the names have to be germanised. The same has to be done in every other language and lacking or suboptimal translations have to be improved. The translation doesn't have to be literal, but should be close to the desired meaning.  
+
+
+### List of Names
 
 
 
