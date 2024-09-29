@@ -165,8 +165,9 @@ The names of the female slaves doesn't have to be translated and are
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
-| Bruce    | ?        |
 | Lares    | Lares    |
+| Gaist    | Gaist    |
+| Bruce    | ?        |
 | Fox      | Fuchs    |
 | Mordrag  | Mordrag  |
 | Wolf     | Wolf     |
@@ -237,9 +238,11 @@ The names of the female slaves doesn't have to be translated and are
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
+| Tito ?   | Tito Tunnelspuerer |
 | Senyan   | Senyan   |
 | Swiney   | Schwein(chen)? |
 | OldMan   | der Alte |
+| Jojo     | Jojo     |
 | Add 0.94k names |    |
 
 
