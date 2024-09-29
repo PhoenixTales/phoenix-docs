@@ -57,35 +57,41 @@ The names of the female slaves doesn't have to be translated and are
 |----------|------------|
 | Aaron    | Aaron      |
 | Asghan   | Asghan     |
+| Belvo    | Belvo      |
+| Bloodwyn | ? (Original blodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?) |
 | Brabak   | Brabak     |
 | Brandick | Brandick   |
 | Bullit   | ?          |
-| Thorus   | Thorus     |
 | Cutter   | Kapper     |
 | Drake    | ?          |
-| Jackal   | Schakal    |
-| Mort     | ?          |
-| Scorpio  | Skorpion   |
-| Twoknife? | Zweimesser |
-| Hunter   | Jäger      |
-| Snore    | Schnarcher |
-| Nek      | ? - (Nek ist eine Anspielung auf Tod) |
-| Bloodwyn | ? (Original blodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?) |
-| Scatty   | ?          |
+| Dust     | ?          |
 | Fletcher | Fiederer ?  |
-| Shabak   | Shabak     |
-| Ulbert   | Ulbert     |
-| Ugor     | Ugor       |
 | Garak    | Garak      |
-| Orry     | ?    | 
-| Hawk(eye) | Adler(auge)  |
-| Ian      | Ian        |
-| Kirgo    | Kirgo      |
-| Pacho    | Pacho      |
-| Stone    | ?          |
-| Skip     | ?          |
-| Jack     | ?        |
 | Greg     | ?   |
+| Hawk(eye) | Adler(auge)  |
+| Hunter   | Jäger      |
+| Ian      | Ian        |
+| Jack     | ?        |
+| Jackal   | Schakal    |
+| Kirgo    | Kirgo      |
+| Mack     | Mack       |
+| Mort     | ?          |
+| Nek      | ? - (Nek ist eine Anspielung auf Tod) |
+| Orry     | ?    | 
+| Pacho    | Pacho      |
+| Scatty   | ?          |
+| Scorpio  | Skorpion   |
+| Shabak   | Shabak     |
+| Sharp(blade) | ?      |
+| Skip     | ?          |
+| Snore    | Schnarcher |
+| Spot     | ?          |
+| Stone    | ?          |
+| Tack     | Tack       |
+| Thorus   | Thorus     |
+| Twoknife? | Zweimesser |
+| Ugor     | Ugor       |
+| Ulbert   | Ulbert     |
 
 
 #### Shadows
@@ -124,7 +130,7 @@ The names of the female slaves doesn't have to be translated and are
 | Fisk     | Fisch?    |
 | Graham   | ?        | 
 | Gravo    | ?        |
-| Grim     | Grim       |
+| Grim(face) | ?       |
 | Guy      | Guido    |
 | Herek    | Herek  |
 | Huno     | Huno   |
