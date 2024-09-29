@@ -60,11 +60,14 @@ The names of the female slaves doesn't have to be translated and are
 | Hunter   | Jäger      |
 | Snore    | Schnarcher |
 | Nek      | ? - (Nek ist eine Anspielung auf Tod) |
-| Bloodwyn | ?          |
+| Bloodwyn | ? (Original blodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?) |
 | Scatty   |            |
 | Fletcher | Fiederer   |
 | Shabak   | Shabak     |
 | Ulbert   | Ulbert     |
+| Ugor     | Ugor       |
+| Garak    | Garak      |
+| Ian      | Ian        |
 
 
 #### Shadows
@@ -91,13 +94,21 @@ The names of the female slaves doesn't have to be translated and are
 | Guy      | Guido    |
 
 
-
 #### NC Folk
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
-| Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
 | Homer    | die Taube (Homer = Brieftaube, ala der Nestbauer) oder der Biber (weil Erbauer der "Biberburg" im NC) |
+| Lefty    | Link, der Linke (?) |
+| Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
+
+
+#### Peasants 
+
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
+| 
+
 
 
 #### Organisation
@@ -124,13 +135,16 @@ The names of the female slaves doesn't have to be translated and are
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
+| Lee      | Lee      |
+| Orik     |          |
+| Torlof   | Torlof   |
 | Blade    | Klinge (?) |
 | Buster   | Fänger (?) |
-| Lefty    | Link, der Linke (?) |
+| Cord     | Strick (?) |
 | Grumpy   | Grant (der Grantige) |
 | Smokie   | Raucher (?) |
 | Brownie  | der Braune / Brauni |
-| Scarry   | vllt. Ex-Scatty, vllt. Ex-Scar, darum raus | 
+| Scarry   | vllt. Ex-Scatty, vllt. Ex-Scar, raus? | 
 | Woody    | Holzkopf |
 | Creep    | Kriecher (?) |
 | Crumb    | Krümel/Krume |
@@ -138,6 +152,7 @@ The names of the female slaves doesn't have to be translated and are
 | Nimble(finger) | Flinkhand |
 | Sleepy   | Schlafmütze (?) |
 | Grunt    | Grunt |
+| Gorn     | Gorn  |
 
 
 | Swiney   | Schwein(chen)? |
