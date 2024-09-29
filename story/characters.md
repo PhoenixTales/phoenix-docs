@@ -57,15 +57,19 @@ The names of the female slaves doesn't have to be translated and are
 |----------|------------|
 | Aaron    | Aaron      |
 | Asghan   | Asghan     |
+| Baldhead | Glatzkopf  |
 | Belvo    | Belvo      |
 | Bloodwyn | ? (Original blodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?) |
+| Boric    | Borik     |
 | Brabak   | Brabak     |
 | Brandick | Brandick   |
 | Bullit   | ?          |
 | Cutter   | Kapper     |
+| X, the Childkiller | X, Kindtöter |
 | Drake    | ?          |
 | Dust     | ?          |
 | Fletcher | Fiederer ?  |
+| Fright(ening) | ?     |
 | Garak    | Garak      |
 | Greg     | ?   |
 | Hawk(eye) | Adler(auge)  |
@@ -74,23 +78,28 @@ The names of the female slaves doesn't have to be translated and are
 | Jack     | ?        |
 | Jackal   | Schakal    |
 | Kirgo    | Kirgo      |
+| ?        | X, der Lispler    |
 | Mack     | Mack       |
 | Mort     | ?          |
 | Nek      | ? - (Nek ist eine Anspielung auf Tod) |
 | Orry     | ?    | 
 | Pacho    | Pacho      |
+| Parik    | Parik      |
+| X, the Nurrba | X, der Nurrba | 
+| X Twoknife? | Rigosch, Zweimesser |
 | Scatty   | ?          |
 | Scorpio  | Skorpion   |
 | Shabak   | Shabak     |
 | Sharp(blade) | ?      |
 | Skip     | ?          |
 | ?        | Smörk      |
+| Snake    | Schlange   |
 | Snore    | Schnarcher |
 | Spot     | ?          |
 | Stone    | ?          |
 | Tack     | Tack       |
+| Talon    | Kralle     |
 | Thorus   | Thorus     |
-| Twoknife? | Zweimesser |
 | Ugor     | Ugor       |
 | Ulbert   | Ulbert     |
 
