@@ -85,6 +85,7 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | Ryan     | Ryan |
 | Snaf     | bleibt? Schnupf(er)? |
 | Snipes   | Schnäpfe(r)? |
+| Guy      | Guido    |
 
 
 
@@ -110,7 +111,8 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | Butch    | "Metz", "Schlacht" |
 | Jeremiah | Jeremia  |
 | Silas    | Silas    |
-| Guy      | Guido    |
+
+| Shark(y) | ... |
 
 
 
@@ -136,6 +138,44 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | TheEye   | das Auge (?) |
 | TheKey   | Schlüssel/Schlüssler (?) |
 | Fodder   | Zottel oder Aas |
+
+
+
+### The Sect
+
+They are all using their own names or names given by the brotherhood based on the old language; none of the names have to be translated. 
+
+
+#### Mages
+
+They are all using their own or clerical names, none of them have to be translated. 
+
+
+##### Circle of Fire
+
+* Corristo  
+* Damarok   
+* Drago     
+* Rodriguez 
+* Torrez  
+
+
+#### Circle of Water
+
+* Abraxus
+* Cronos     
+* Merdarion 
+* Myxir
+* Nefarius
+* Riordian
+* Saturas
+* Torin
+
+
+#### DMB
+
+* Necron
+* Xardas
 
 
 ## Character Description
