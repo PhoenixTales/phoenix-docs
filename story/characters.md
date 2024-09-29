@@ -39,24 +39,30 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 
 #### Barons
 
-| ENGLISH  | DEUTSCH  |
-|----------|----------|
-| Bartholo | Bartholo, "Außenminister" |
-| Gomez    | Gomez/Sangwah |
-| Raven    | Rabe, "Schattenbaron" |
-| Santino  | Santino  |
-| Scar     | Narbe    |
-| Vasquez  | Vasquez, "grauer Baron"?  |
-| Wardog?  | Kriegshund, "Jungbaron" | 
-| TheKeeper | (Verfluchter Baron am Steinkreis) | 
-
-The names of the female slaves doesn't have to be translated. 
+```
++---------------------------------------+
+| ENGLISH   | DEUTSCH | ROLE            |
+|-----------|---------|-----------------|
+| Bartholo  | "       | "Außenminister" |
+| Gomez     | Sangwah | "Big Boss"      |
+| Raven     | Rabe    | "Schattenbaron" |
+| Santino   | Santino | ?               |
+| Scar      | Narbe   | "Linke Hand"    |
+| Vasquez   | Vasquez | "Grauer Baron"  |
+| Wardog    | Kriegshund | "Jungbaron"  | 
+| TheKeeper | X, Orkjaeger | ?          |
++---------------------------------------+
+ 
+```
 
 #### Slaves
 
+The names of the female slaves doesn't have to be translated. 
+
 * Balam
 * Elvira
-* Joker (Name?)
+* [Servant]
+* [Joker] 
 * Omid 
 * Seraphia
 * Syra
