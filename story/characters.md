@@ -101,6 +101,8 @@ The names of the female slaves doesn't have to be translated and are
 | Homer    | die Taube (Homer = Brieftaube, ala der Nestbauer) oder der Biber (weil Erbauer der "Biberburg" im NC) |
 | Lefty    | Link, der Linke (?) |
 | Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
+| Jeremiah | Jeremia  |
+| Silas    | Silas    |
 
 
 #### Peasants 
@@ -110,7 +112,6 @@ The names of the female slaves doesn't have to be translated and are
 | 
 
 
-
 #### Organisation
 
 | ENGLISH  | DEUTSCH  |
@@ -118,17 +119,25 @@ The names of the female slaves doesn't have to be translated and are
 | Lares    | Lares    |
 | Fox      | Fuchs    |
 | Wolf     | Wolf     |
-| Kilian   | Kilian   |
-| Cipher   | Null (arabisch sifr = null) |
-| Quentin  | Quentin (der "Fünfte") |
 | Wedge    | "Keil", Winkel (?) |
 | Butch    | "Metz", "Schlacht" |
-| Jeremiah | Jeremia  |
-| Silas    | Silas    |
+| Cipher   | Null (arabisch sifr = null) |
+| Buster   | Fänger (?) |
 | Shark(y) | ... |
 | TheEye   | das Auge (?) |
 | TheKey   | Schlüssel/Schlüssler (?) |
 | Fodder   | Zottel oder Aas |
+
+
+#### Bandits
+
+| ENGLISH  | DEUTSCH  |
+|----------|----------|
+| Kilian   | Kilian   |
+| Quentin  | Quentin (der "Fünfte") |
+| Renyu    | Renyu    |
+
+
 
 
 #### Mercenaries
@@ -138,8 +147,8 @@ The names of the female slaves doesn't have to be translated and are
 | Lee      | Lee      |
 | Orik     |          |
 | Torlof   | Torlof   |
+| Baloro   | Baloro   |
 | Blade    | Klinge (?) |
-| Buster   | Fänger (?) |
 | Cord     | Strick (?) |
 | Grumpy   | Grant (der Grantige) |
 | Smokie   | Raucher (?) |
