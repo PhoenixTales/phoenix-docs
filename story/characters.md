@@ -47,7 +47,7 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 | Santino  | Santino  |
 | Scar     | Narbe    |
 | Vasquez  | Vasquez, "grauer Baron"?  |
-| ?        | Kriegshund, "Jungbaron" | 
+| Wardog?  | Kriegshund, "Jungbaron" | 
 | TheKeeper | (Verfluchter Baron am Steinkreis) | 
 
 The names of the female slaves doesn't have to be translated. 
@@ -147,7 +147,6 @@ The names of the female slaves doesn't have to be translated.
 | Cavalorn | ?        |
 | Creep    | Kriecher (?) |
 | Crumb    | Krümel/Krume |
-| Dagger   | Messer, besser als Dolch |
 | Delon    | Delon    |
 | Derek    | Derek    |
 | Fisk     | Fisch?    |
@@ -286,8 +285,10 @@ The names of the female slaves doesn't have to be translated.
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
 | Aidan    | Aidan    |
+| Dagger   | Messer, besser als Dolch? |
 | Drax     | ?        |
 | Gjan     | Gjan     |
+| Lurik    | Lurik    |
 | Ratford  | ?        |
 | Benedikt | Benedikt |
 | Craven   | ?        |
@@ -297,12 +298,37 @@ The names of the female slaves doesn't have to be translated.
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
-| Tito ?   | Tito Tunnelspuerer |
+| Aiko     | Aiko     |
+| ?        | Alfie, Einhand |
+| Arto     | Arto     | 
+| Azzo     | ?        |
+| Caer     | ?        |
+| Carris   | ?        | 
+| Cyrl     | ?        |
+| Garbar   | Garbar   |
+| Gornios  | Gornios  |
+| Herek    | Herek    |
+| Ishka?   | Ischka   |
+| Jan, Orenose? | Jan, Erznase |
+| Jojo     | Jojo     |
+| Kilan    | Kilan    |
+| Laars    | Laars    |
+| Ley?      | Lej     | 
+| Mihai    |        | 
+| OldMan   | der Alte |
+| Pieto, Orefinder? | Pieto, Erzfinder |
+| Ragna    | Ragna    |
+| Renyu    | Renyu    |
+| ?        | Schlangengräber | 
+| ?        | Schondar |
+| ?        | Rigupp   |
 | Senyan   | Senyan   |
 | Swiney   | Schwein(chen)? |
-| OldMan   | der Alte |
-| Jojo     | Jojo     |
-| Add 0.94k names |    |
+| Threp    | ?        |
+| Tito ?   | Tito Tunnelspūhrer |
+| Vlukk    | Vlukk    |
+| Weeze    | ?        |
+| ?        | Zuhl     |
 
 
 ### The Sect
