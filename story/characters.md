@@ -53,6 +53,8 @@ The names of the female slaves doesn't have to be translated and are
 
 | ENGLISH  | DEUTSCH    |
 |----------|------------|
+| Brabak   | Brakab     |
+| Thorus   | Thorus     |
 | Cutter   | Kapper     |
 | Jackal   | Schakal    |
 | Mort     | ?          |
@@ -68,6 +70,7 @@ The names of the female slaves doesn't have to be translated and are
 | Ugor     | Ugor       |
 | Garak    | Garak      |
 | Ian      | Ian        |
+| Kirgo    | Kirgo      |
 
 
 #### Shadows
@@ -124,6 +127,7 @@ The names of the female slaves doesn't have to be translated and are
 | Cipher   | Null (arabisch sifr = null) |
 | Buster   | Fänger (?) |
 | Shark(y) | ... |
+| Okyl     | Okyl     |
 | TheEye   | das Auge (?) |
 | TheKey   | Schlüssel/Schlüssler (?) |
 | Fodder   | Zottel oder Aas |
@@ -138,8 +142,6 @@ The names of the female slaves doesn't have to be translated and are
 | Renyu    | Renyu    |
 
 
-
-
 #### Mercenaries
 
 | ENGLISH  | DEUTSCH  |
@@ -151,6 +153,8 @@ The names of the female slaves doesn't have to be translated and are
 | Blade    | Klinge (?) |
 | Cord     | Strick (?) |
 | Grumpy   | Grant (der Grantige) |
+| Jarvis   | Jarvis   |
+| Kharim   | Kharim   |
 | Smokie   | Raucher (?) |
 | Brownie  | der Braune / Brauni |
 | Scarry   | vllt. Ex-Scatty, vllt. Ex-Scar, raus? | 
