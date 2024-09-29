@@ -177,6 +177,7 @@ The names of the female slaves doesn't have to be translated and are
 | Shark(y) | ... |
 | Okyl     | Okyl     |
 | Tark     | Tark     |
+| Earl, the Ear | ?, das Ohr |
 | TheEye   | das Auge (?) |
 | TheKey   | Schlüssel/Schlüssler (?) |
 | Fodder   | Zottel oder Aas |
