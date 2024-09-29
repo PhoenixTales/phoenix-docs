@@ -200,14 +200,16 @@ The names of the female slaves doesn't have to be translated and are
 
 #### Peasants 
 
-| ENGLISH  | DEUTSCH  |
-|----------|----------|
-| Melvin   | Melvin   |
-| Horace   | ?        |
-| Phil     | ?        |
-| Poke     | ? |
-| Rufus    | ? | 
-| ...      |    |
+| ENGLISH | DEUTSCH |
+|---------|---------|
+| Melvin  | Melvin  |
+| Horace  | ?       |
+| Phil    | ?       |
+| Poke    | ?       |
+| Rufus   | ?       | 
+| Horatio | ?       |
+| Pock    | Pock    | 
+| ...     |         |
 
 
 #### Bandits
