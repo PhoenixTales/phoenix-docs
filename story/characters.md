@@ -13,6 +13,8 @@ And please note: For now we are only listing all the names to be found in the so
 ## Character Names
 
 
+### Old Camp
+
 #### Barons
 
 ```
@@ -177,6 +179,9 @@ ENGLISH / DEUTSCH // ROLE(S)
 * Snipes / Schnäpfe(r)? // ?
 ```
 
+
+### New Camp
+
 #### Mercenaries
 
 ```
@@ -270,7 +275,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 | ...     |         |
 
 
-#### Bandits
+#### Bandits / Renegades
 
 | ENGLISH  | DEUTSCH  |
 |----------|----------|
@@ -279,6 +284,8 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Quentin  | Quentin (der "Fünfte") |
 | Renyu    | Renyu    |
 
+
+### Freedom
 
 #### Rangers
  
@@ -332,11 +339,11 @@ ENGLISH / DEUTSCH // ROLE(S)
 | ?        | Zuhl     |
 
 
-#### The Sect
+### The Sect
 
 They are all using their own names or names given by the brotherhood based on the old language; none of the names have to be translated. 
 
-##### Novices
+#### Novices
 
 * Ka Garon
 * Ka Lib
@@ -389,7 +396,7 @@ They are all using their own names or names given by the brotherhood based on th
 * Ghorim
 
 
-##### Templars
+#### Templars
 
 * Gor-Na-Go
 * Gor-Na-Vid
@@ -418,7 +425,7 @@ They are all using their own names or names given by the brotherhood based on th
 * [Lou]
 * [Bladwin]
 
-##### Gurus
+#### Gurus
 
 * Y'Berion
 * Cor Angar
@@ -428,21 +435,21 @@ They are all using their own names or names given by the brotherhood based on th
 * Cor-Loran
 * Cor-Garrion
 
-##### Slaves
+#### Slaves
 
 * Chani
 * Natalia
 * ... 
 
 
-#### Mages
+### Mages
 
 They are all using their own or clerical names, none of them have to be translated. 
 
 
-##### Circle of Fire
+#### Circle of Fire
 
-###### Colony 
+##### Colony 
 * Carasco
 * Corristo 
 * Damarok   
@@ -456,14 +463,14 @@ They are all using their own or clerical names, none of them have to be translat
 * Rodriguez 
 * Torrez  
 
-###### Royals
+##### Royals
 * Catmaol
 * Feoras
 * Morogh
 * Nereus
 
 
-##### Circle of Water
+#### Circle of Water
 
 * Abraxus
 * Cronos
@@ -477,12 +484,12 @@ They are all using their own or clerical names, none of them have to be translat
 * Torin
 
 
-##### DMB
+#### DMB
 
 * Necron/Xardas
 
 
-#### Orcs of Bloodearth Clan
+### Orcs of Bloodearth Clan
 
 * Uruk
 * Ur-Shak
@@ -495,7 +502,7 @@ They are all using their own or clerical names, none of them have to be translat
 * ...
 
 
-#### Royals/Paladins
+### Royals/Paladins
 
 * Rhobar
 * Princess
@@ -507,7 +514,7 @@ They are all using their own or clerical names, none of them have to be translat
 * ...
 
 
-### Free Potential Nicknames
+## Free Potential Nicknames
 
 Just list all that comes to mind and would make sense to use.
 
