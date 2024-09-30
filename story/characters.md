@@ -476,7 +476,7 @@ They are all using their own or clerical names, none of them have to be translat
 * Damarok   
 * Drago
 * Earon
-* Hellfire 
+* Hellfire / Höllenfeuer
 * Kiró
 * Lotho
 * Lusa
@@ -531,6 +531,31 @@ They are all using their own or clerical names, none of them have to be translat
 * Hagen
 * Leomar
 * ...
+
+
+
+### Free Potential Nicknames
+
+Just list all that comes to mind and would make sense to use.
+
+* Eule
+* Katze
+* Schinder
+* Maulwurf
+* Maus
+* Beule
+* Falke
+* Krächzer
+* Bluthund
+* Trolltöter
+* Buckel
+* Aal
+* Mader
+* Spinne
+* Natter
+* Kröte
+* ...
+
 
 
 ## Character Description
