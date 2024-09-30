@@ -156,25 +156,26 @@ The names of the female slaves doesn't have to be translated.
 
 #### OC Miners / Diggers
 
-| ENGLISH  | DEUTSCH  |
-|----------|----------|
-| Aleph    | ?        |
-| Dusty    | Staub(fresser?)/Staubi |
-| Garp     | ?        |
-| Glen     | ?        |
-| Gilbert  | Gilbert  |
-| Grimes   | Schmuddel/Schmutz |
-| Melvin   | Melvin | 
-| Sira     | Sira |
-| Snipes   | Schnäpfe(r)? |
+```
+ENGLISH / DEUTSCH // ROLE(S)
 
+* Sira                  // "Buddlerchef"
+* Aleph                 // ?
+* Dusty / Staub(fresser?)/Staubi // ?
+* Garp / ?              // ?
+* Glen / ?              // ?
+* Gilbert               // ?
+* Grimes / Schmuddel/Schmutz // ?
+* Melvin                // ?
+* Snipes / Schnäpfe(r)? // ?
+```
 
 #### Mercenaries
 
 ```
-ENGLISH / DEUTSCH // Role(s)
+ENGLISH / DEUTSCH // ROLE(S)
 
-* Lee, Bonzo          // Lord-Protektor
+* Lee, Bonzo          // "Lord-Protektor"
 * Orik                // 
 * Torlof   
 * Baloro              // 
