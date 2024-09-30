@@ -16,30 +16,16 @@ And please note: For now we are only listing all the names to be found in the so
 #### Barons
 
 ```
-+-------------------------------------+
-| ENGLISH / DEUTSCH |     ROLE(S)     |
-|-------------------|-----------------|
-| Bartholo          | "Außenminister" |
-|     / "           | "Schatzmeister" |
-+-------------------|-----------------+
-| Gomez / Sangwah   | "Big Boss"      |
-+-------------------|-----------------+
-|   Raven /         | "Schattenbaron" |
-|      Rabe         |  "Rechte Hand"  |
-+-------------------|-----------------+
-| Santino  / " ?    | ?               |
-|-------------------|-----------------|
-|   Scar /          | "Söldnerbaron"  |
-|      Narbe        | "Linke Hand"    |
-|-------------------|-----------------|
-| Vasquez / " ?     | "Grauer Baron"  |
-|-------------------|-----------------|
-| Wardog /          | "Konvoiführer"  |
-|    Kriegshund     | "Jungbaron"     |
-|-------------------|-----------------|
-| TheKeeper         | ?               |
-|   / X, Orkjaeger  |                 |
-+-------------------------------------+
+// ENGLISH / DEUTSCH (ROLE(S))
+
+* Bartholo / "    // "Außenminister", "Schatzmeister"
+* Gomez / Sangwah // "Big Boss"
+* Raven / Rabe    // "Schattenbaron", "Rechte Hand"
+* Santino / " ?   // ?  
+* Scar / Narbe    // "Söldnerbaron", "Linke Hand"
+* Vasquez / " ?   // "Grauer Baron"
+* Wardog / Kriegshund // "Konvoiführer", "Jungbaron"
+* TheKeeper ? / X, Orkjaeger
 ```
 
 #### Slaves
