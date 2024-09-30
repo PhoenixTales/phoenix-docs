@@ -21,9 +21,9 @@ And please note: For now we are only listing all the names to be found in the so
 ENGLISH / DEUTSCH  // ROLE(S)
 
 * Bartholo / "     // "Außenminister", "Schatzmeister"
-* Gomez / Sangwah  // "Big Boss"
+* Gomez            // "Big Boss"
 * Raven / Rabe     // "Schattenbaron", "Rechte Hand"
-* Santino / " ?    // ?  
+* Santino / Sangwah // ?  
 * Scar / Narbe     // "Söldnerbaron", "Linke Hand"
 * Vasquez / " ?    // "Grauer Baron"
 * Wardog / Kriegshund // "Konvoiführer", "Jungbaron"
