@@ -132,6 +132,7 @@ The names of the female slaves doesn't have to be translated.
 | Graham   | ?        | 
 | Gravo    | ?        |
 | Grim(face) | ?       |
+| Grumpy   | Grant (der Grantige) |
 | Guy      | Guido    |
 | Herek    | Herek  |
 | Huno     | Huno   |
@@ -170,29 +171,30 @@ The names of the female slaves doesn't have to be translated.
 
 #### Mercenaries
 
-| ENGLISH  | DEUTSCH  |
-|----------|----------|
-| Lee      | Lee      |
-| Orik     | Orik     |
-| Torlof   | Torlof   |
-| Baloro   | Baloro   |
-| Blade    | Klinge (?) |
-| Cord     | Strick (?) |
-| Dailah   | Dailah   |
-| Grumpy   | Grant (der Grantige) |
-| Jarvis   | Jarvis   |
-| Kharim   | Kharim   |
-| Klitho ?  | Klitho Kampfhand |
-| Grunt    | Grunt |
-| Skunk    | Skunk  |
-| Strider  | ?     | 
-| Gorn     | Gorn  |
-| Cole     | ?     |
-| Ransom   | ?     |
-| Roscoe   | ?        |
-| Lou      | ?     |
-| Earthquake | ?   |
-| Vlad     | ?    |
+```
+ENGLISH / DEUTSCH // Role(s)
+
+* Lee, Bonzo          // Lord-Protektor
+* Orik                // 
+* Torlof   
+* Baloro              // 
+* Blade / Klinge      // 
+* Cord  / Strick?     //
+* Dailah              //
+* Jarvis              // 
+* Kharim              //
+* Klitho              // Kampfhand
+* Grunt               // Half-Orc
+* Skunk               // Half-Orc
+* Strider / Schneider // 
+* Gorn                // Murderer
+* Cole / Kren         // Deputy
+* Ransom / ?          // 
+* Roscoe / ?          // 
+* Lou / ?             //
+* Earthquake / ?      // 
+* Vlad / ?            //
+```
 
 
 #### Organisation
