@@ -103,26 +103,22 @@ The names of the female slaves doesn't have to be translated.
 ENGLISH / DEUTSCH // ROLE(S)
 
 SECRET             // "Der Unsichtbare", Leader
-Dark(man) / Finster // "Der Assassine"
+Dark / Finster     // "Der Assassine"
 Viper / ?          // Meuchler 1
 Snogu / ?          // Meuchler 2
 ?                  // Meuchler 3
 Earl / Jarl?       // "Das Ohr", Masterspy
-Fingers? / ?       // "...", Masterthief
-Sly / List         // Snitch 1
-Whistler / Pfeifer // Snitch 2
-Raoul / ?          // Snitch 3
-?                  // Snitch 4
-Phantom            // Spy 1
+Phantom / ?        // Spy 1
 Nimble(finger)     // Spy 2, "Flinkhand"
 Reese / Rhys       // Spy 3
+Fingers? / ?       // "...", Masterthief
+Dexter / ?         // "Der Hehler"
+Sly / List         // Snitch 1
+Whistler / Pfeifer // Snitch 2
+Raoul / Ralf?      // Snitch 3
+Grag / Greo        // Snitch 4
 Diego?             // Bote, Laufbursche
 Shad(ow) / ?       // "Kontakter"
-```
-
-```
-Dexter?
-Grag? 
 ```
 
 
@@ -505,6 +501,8 @@ They are all using their own or clerical names, none of them have to be translat
 * Rigaldo
 * Hagen
 * Leomar
+* Radulf
+* Ingmar
 * ...
 
 
