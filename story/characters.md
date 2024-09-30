@@ -102,36 +102,27 @@ The names of the female slaves doesn't have to be translated.
 ```
 ENGLISH / DEUTSCH // ROLE(S)
 
-SECRET             // "Der Unsichtbare"
-Fingers? / ?       // "Der Assassine"
+SECRET             // "Der Unsichtbare", Leader
+Dark(man) / Finster // "Der Assassine"
 Viper / ?          // Meuchler 1
-?   // Meuchler 2
-?   // Meuchler 3
+Snogu / ?          // Meuchler 2
+?                  // Meuchler 3
 Earl / Graf?       // "Das Ohr", Masterspy
+Fingers? / ?       // "...", Masterthief
 Sly / List         // Snitch 1
 Whistler / Pfeifer // Snitch 2
-
-?   // Snitch 3
-?   // Snitch 4
-Phantom           // Spy 1
-?   // Spy 2
-?   // Spy 3
-Diego?            // Bote
-Shad(ow) / ?      // "Kontakter"
+Raoul / ?          // Snitch 3
+?                  // Snitch 4
+Phantom            // Spy 1
+Nimble(finger)     // Spy 2, "Flinkhand"
+Reese / Rhys       // Spy 3
+Diego?             // Bote, Laufbursche
+Shad(ow) / ?       // "Kontakter"
 ```
 
 ```
-| Dark(man) | X, der Finstere |
-| Dexter   | ?        |
-| Grag?    | ?        |
-| Nimble(finger) | Flinkhand |
-
-| Raoul    | Raoul    |
-| Reese    | ?        |
-| Sly      | List     |
-| Snogu    | Snogu    |
-
-| ...      | ...      |
+Dexter?
+Grag? 
 ```
 
 
