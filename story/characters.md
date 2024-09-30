@@ -26,6 +26,7 @@ ENGLISH / DEUTSCH  // ROLE(S)
 * Vasquez / " ?    // "Grauer Baron"
 * Wardog / Kriegshund // "Konvoiführer", "Jungbaron"
 * TheKeeper ?      // X, Orkjaeger
+* Garcia / Garxa?  // ...
 ```
 
 #### Slaves
