@@ -27,7 +27,7 @@ The "Shadowbeast" is a "Schattenläufer", which would be translated more literal
 * Minesprayer - *Felssprüher* [N]
 * Lurker - *Luger*
 * Mushgroomer - *Pilzschinder*, *Pilzfresser*
-* Blooddog - *Bluthund*
+* Bloodhound - *Bluthund*
 * Wolf - "
 * Goblin/Gobbo - "
 * Troll - "
