@@ -21,4 +21,4 @@ Since the German version has been released with the names of the English version
 
 In a translation it may be fine if some of the meaning cannot fully be conveyed, but we are speaking of the german original here. So there is no question about it - the names have to be germanised. The same has to be done in every other language and lacking or suboptimal translations have to be improved. The translation doesn't have to be literal, but should be close to the desired meaning.  
 
-The names and how we germanised them (or anglicised in the opposite case) are to be found in /story/characters.
+The names and how we germanised them (or anglicised in the opposite case) are to be found in [/story/characters](/story/characters).
