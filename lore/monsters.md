@@ -21,7 +21,7 @@ The "Shadowbeast" is a "Schattenläufer", which would be translated more literal
 * Black Wolf - *Schwarzer Wolf*
 * Molerat ("Scavenger2") - *Maulratte, Mullratte, Erzratte, Erzmull, Aasmull*?
 * Snapper - *Reißer* (w) or original in 0.56-0.64: *Grapper*
-* (Alpha) Razor - *Reißer* (m), "Leitsnapper" (analogue to the "Leitwolf"
+* (Alpha) Razor - *Reißer* (m), "Leitsnapper" (analogue to the "Leitwolf")
 * Minecrawler - *Felsfresser* (original)
 * Minecrawler Warrior - ...
 * Minesprayer - *Felssprüher* [N]
