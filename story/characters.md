@@ -97,7 +97,7 @@ The names of the female slaves doesn't have to be translated.
 
 #### Shadows
 
-*15 persons**
+*15 persons*
 
 ```
 ENGLISH / DEUTSCH // ROLE(S)
