@@ -107,7 +107,7 @@ Dark(man) / Finster // "Der Assassine"
 Viper / ?          // Meuchler 1
 Snogu / ?          // Meuchler 2
 ?                  // Meuchler 3
-Earl / Graf?       // "Das Ohr", Masterspy
+Earl / Jarl?       // "Das Ohr", Masterspy
 Fingers? / ?       // "...", Masterthief
 Sly / List         // Snitch 1
 Whistler / Pfeifer // Snitch 2
