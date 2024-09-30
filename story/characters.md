@@ -2,7 +2,7 @@
 
 *flosha, 29.09.2024*
 
-Here we want to give an overview of all the characters of our gothic drama. We list all names in their english and their german version, according to the principle of translation of names as discussed in [/lore/nicknames]. They're structured in factions and guilds. More languages may be added later or will be appended at the end. 
+Here we want to give an overview of all the characters of our gothic drama. We list all names in their english and their german version, according to the principle of translation of names as discussed in [/lore/nicknames](/lore/nicknames/). They're structured in factions and guilds. More languages may be added later or will be appended at the end. 
 
 "Characters" is the story-equivalent to "NPCs" in the game mechanics section. While in NPCs we have described how NPCs function internally in an abstract way, here they are in their concrete expression as characters in the game. 
 
@@ -218,7 +218,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Gaist    | Gaist    |
 | Bruce    | ?        |
 | Fox      | Fuchs    |
-| Drexel   | ?        |
+| Drexel   | Maybe earlier name for Drax - delete?       |
 | Mordrag  | Mordrag  |
 | Wolf     | Wolf     |
 | ?        | Stöberer |
