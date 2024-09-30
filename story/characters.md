@@ -525,6 +525,7 @@ Just list all that comes to mind and would make sense to use.
 * Maulwurf
 * Maus
 * Beule
+* Sidian
 * Falke
 * Krächzer
 * Bluthund
