@@ -97,8 +97,29 @@ The names of the female slaves doesn't have to be translated.
 
 #### Shadows
 
-| ENGLISH  | DEUTSCH  |
-|----------|----------|
+*15 persons**
+
+```
+ENGLISH / DEUTSCH // ROLE(S)
+
+?   // "Der Unsichtbare"
+?   // "Der Assassine"
+?   // Meuchler 1
+?   // Meuchler 2
+?   // Meuchler 3
+Earl / ?   // "Das Ohr", Masterspy
+?   // Snitch 1
+?   // Snitch 2
+?   // Snitch 3
+?   // Snitch 4
+?   // Spy 1
+?   // Spy 2
+?   // Spy 3
+?   // Messenger
+?   // "Kontakter", Lehrmeister
+```
+
+```
 | Dark(man) | X, der Finstere |
 | Dexter   | ?        |
 | Diego    | Diego    |
@@ -113,6 +134,7 @@ The names of the female slaves doesn't have to be translated.
 | Shad(ow) | ?        |
 | Whistler | Pfeifer  |
 | ...      | ...      |
+```
 
 
 #### OC Folk 
