@@ -24,6 +24,7 @@ The "Shadowbeast" is a "Schattenläufer", which would be translated more literal
 * (Alpha) Razor - *Reißer* (m), "Leitsnapper" (analogue to the "Leitwolf"
 * Minecrawler - *Felsfresser* (original)
 * Minecrawler Warrior - ...
+* Minesprayer - *Felssprüher* [N]
 * Lurker - *Luger*
 * Mushgroomer - *Pilzschinder*, *Pilzfresser*
 * Blooddog - *Bluthund*
