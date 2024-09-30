@@ -519,8 +519,9 @@ They are all using their own or clerical names, none of them have to be translat
 Just list all that comes to mind and would make sense to use.
 
 * Eule
-* Katze
-* Schinder
+* Finch / Fink
+* Katze / Koshka
+* Schinder 
 * Maulwurf
 * Maus
 * Beule
