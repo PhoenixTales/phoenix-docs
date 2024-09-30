@@ -535,7 +535,9 @@ Just list all that comes to mind and would make sense to use.
 * Spinne
 * Natter
 * Kröte
-* ...
+* Kosa
+* Hare / Sayas
+* Bug / Shug / Assel
 
 
 ## Character Descriptions
