@@ -103,10 +103,10 @@ Could be solved just like this or via a more interesting interaction, if one com
 
 #### Sixth Sense
 
-Also an alpha skill, where it is described as *"a sort of extrasensory perception"* by which one can *"recognise things, which one usually cannot perceive". An *"automatic discovery of traps, secret doors, invisibile stuff and disguise*" that was meant to work *"in a 3m radius"*.  
-So by acquiring the sixth sense, the player should recognise *traps* (as described above), secret doors (e.g. hidden entries designed for the Thief), invisible stuff (for instance other thieves hiding in shadows?) and even "disguise" (that means he would have been able to recognise if an NPC or another player is just another spy in disguise).  
-In the sources it is sometimes referred to as the "Sixth" sense, sometimes as a "Seventh" sense too. Due to both of these terms appearing in the Alpha we could use this by having a "seventh" sense as an upgrade to the "sixth" sense skill.  
-As with hide in shadows we may require to activate the Sixth sense instead of it being turned on automatically all the time, to facilitate the playing particularly thinking of it during exploration.  
+Also an alpha skill, where it is described as *"a sort of extrasensory perception"* by which one can *"recognise things, which one usually cannot perceive"*. An *"automatic discovery of traps, secret doors, invisibile stuff and disguise"* that was meant to work *"in a 3m radius"*.  
+So by acquiring the sixth sense, the player should recognise *traps* (as described above), secret doors (e.g. hidden entries designed for the thief), invisible stuff (for instance other thieves hiding in shadows?) and even "disguise" (that means he would be able to recognise if an NPC or another player is a spy in disguise).  
+In the sources it is sometimes referred to as the "Sixth" sense and sometimes as a "Seventh" sense. Due to both of these terms appearing in the Alpha (most likely just a mistake) we could use this by having a "seventh" sense as an upgrade to the "sixth" sense skill.  
+As with hide in shadows we may require to activate the sixth sense instead of it being turned on automatically all the time, to facilitate the player to particularly think of it during exploration.  
 Seventh sense may work in a similar way as "thermal imaging" in Splinter Cell, so that with the activation of this sense, the gamma may increase and there's a red, bloody silhouette or a similar visual effect around organisms, with a bit of a wall hack, so that the thief can anticipate the potential pathways of NPCs. 
 
 
