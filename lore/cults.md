@@ -87,6 +87,11 @@ By acquiring the Sceptre of Varant, claiming himself to be the governor of the h
 Rhobar II. later established the Inquisition as another measure, as a representation of Beliars justice.
 
 
+### The Cults in Everyday Life
+
+``TODO: Write here how the cults find expressing in everyday life based on the ideas developed in /gods-in-relation-to-men; also: add the thoughts from our server about triage etc. from 24.09.2024.``
+
+
 ## Sect of the Sleeper
 
 We will deal with the sect in the faction documentation. For here it has to suffice to note, that the entrance into the sect is accompanied by a radical and conscious renunciation of the three gods, that they also call the "old gods". 
