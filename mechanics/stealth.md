@@ -44,14 +44,14 @@ We may either do it accordingly, or depending on our light system we may do it m
 In the Alpha there were nine skills specifically planned for the thief. Nine skills in the art of thievery (Diebeskunst). They were also summarised in skill overview tables as "List-Talente" (Cunning-Skills, opposed to e.g. *Kampf-Talente* - Combat-Skills):
 
 (1) Sneaking   
-(2) Pickpocketing (I-III)
-(3) Lockpicking (I-III)  
+(2) Pickpocketing (I-III)  
+(3) Lockpicking (I-III)   
 (4) Hide in Shadows   
-(5) Disarm Traps
-(6) Acrobatics [+ II-III]  
+(5) Disarm Traps  
+(6) Acrobatics [+ II-III]   
 (7) Dirty Daggertricks (I-III)  
 (8) Sixth/Seventh Sense  
-(9) Dark Sense (Nightsight)    
+(9) Dark Sense (Nightsight)  
 
 
 ### Skill Description
