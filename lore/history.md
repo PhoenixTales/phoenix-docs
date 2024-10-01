@@ -1,6 +1,6 @@
 # History
 
-**Authors:** *Flosha, Ben*  
+**Authors:** *Flosha, Ben, Hagen*  
 **Created:** 12.06.24
 
 > Das Königreich Myrtana, wiedervereint durch die Hand König Rhobars II. [G]
@@ -91,11 +91,11 @@ Old introduction to the story:
 
 * 100-200 years ago. Rhotbar comes from the North, unites the 4 divided lands of the old Empire and founds Myrtana. Crowned by the priests to Rhobar I. Three-God/Trinity Cult under the highest God Ra.
 
-* The creation of the myth of Rhobar is complete when he seizes Tymoria and takes the sceptre of Varant from the Temple of Fire in Khorinis, that had been brought here by Khorin a few centuries ago. [Also here: He establishes a colony in the mining area at Khorinis?]
+* The creation of the myth of Rhobar is complete when he seizes Tymoria and takes the sceptre of Varant from the Temple of Fire in Khorinis, that had been brought here by Khorin a few centuries ago. He establishes a colony in the mining area at Khorinis [at this point?].
 
 * Varant attacks the myrtanian occupying forces and crosses the border to Myrtana, Myrtana is in defense (onset of the handbook history until the death of the king). 
 
-* "Crusade" (find different term for ingame use) to Varant with the sceptre. → Proclamation of the "Second Empire" in allusion to the ancient first empire.  
+* "Crusade" (ingame: "Marsh of Fire") to Varant with the sceptre. → Proclamation of the "Second Empire" in allusion to the ancient first empire.
 
 * "First" Orc War. The prison castle in the colony is getting errected and the mines, now known as the royal ore mines, become more and more important.  
 
@@ -106,6 +106,12 @@ Old introduction to the story:
 * The kingdom is slowly dividing into the four realms again after the reign of Rhobar I: After the death of the king the empire slowly declines under the following rulers (undefined kings/princes) in constant succession disputes; first there is an Interregnum, but more and more Intrigue and corruption begins to spread. Local Warlords, clerical forces, dukes, princes and partisans start to control the provinces. [Potentially: After an assassination of a duke the sceptre is rescued by a monk - what does he do with it?]
 
 * Rhobar II. appears and re-unites the four realms of Myrtana in his unification wars by *Blood and Iron*. Claiming the title of Rhobar (if his father or not - to be clarified), he is crowned to Rhobar II; official end of the Interregnum. His military campaign is fast and brutal, but his successes will not endure for long. Founding of the Inquisition and aggressive spread of the Three-God Cult. He reigns for many years over what would from then on be called the "New Empire", the "Myrtanian Renaissance" or in allusion to the ancient civilisation: the "third empire". The kingdom of Rhobar I. would from then on be referred to as the "Old Empire". Now, in course of the great second orc war, the new empire is also falling apart.
+
+In the course of mythologyzing Rhobar II.'s reunification of the realm, the invasion into the cardinal directions received symbolic names connected to Innos.
+
+- (Second?) March of Fire (South?)
+- March of the Ashes (North?)
+- March of the Sun (Western Realm)
 
 * Reuniting the Realms:  
 (1) Seizing Power in the Center, uniting the provinces of Myrtana → Unifiying the Western Realm.  
@@ -133,7 +139,8 @@ Old introduction to the story:
 − Chronist Kodama vom Hofe König Rhobars dem II. [G3M]
 -->
 
-* <!-- Erneute Unterwerfung der Westlichen Provinzen. --> Re-Submission of the western provinces. 
+* <!-- Erneute Unterwerfung der Westlichen Provinzen. -->
+* Re-Submission of the western provinces, called the "March of the Sun" as it happened from the East moving towards the West, like the course of the sun. 
 * <!-- Zweiter Krieg um Varant unter Lee -> then he serves in the royal guard at the court of the king. --> Second war with Varant under Lee; he then serves in the royal guard at the court of the king (0.94k).
 * 17 v. Gothic: <!-- Königliche Truppen besetzen die Nordlande für fünf Jahre vor dem Angriff der Orks --> Royal troops occupy the northern lands for five years before the attack of the orcs. 
 * 12 v. Gothic: <!-- Die Orks kommen aus dem Norden. Krieg auf den großen Nordebenen im Südosten der Nordlande und im Norden von Myrtana (als Folge des Orkkrieges werden mehr und mehr Kriminelle zur Arbeit in den Erzminen verurteilt). --> The Orcs come from the North. War on the big northern plains in the southeast of the northern lands and in the north of Myrtana (as a consequence of the orc war, more and more criminals are convicted to work in the royal ore mines).
