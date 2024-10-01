@@ -43,54 +43,97 @@ We may either do it accordingly, or depending on our light system we may do it m
 
 In the Alpha there were nine skills specifically planned for the thief. Nine skills in the art of thievery (Diebeskunst). They were also summarised in skill overview tables as "List-Talente" (Cunning-Skills, opposed to e.g. *Kampf-Talente* - Combat-Skills):
 
-(1) Sneaking  
-(2) Hide in Shadows  
+(1) Sneaking   
+(2) Pickpocketing (I-III)
 (3) Lockpicking (I-III)  
-(4) Pickpocketing (I-III)  
-(5) Sixth/Seventh Sense  
+(4) Hide in Shadows   
+(5) Disarm Traps
 (6) Acrobatics [+ II-III]  
 (7) Dirty Daggertricks (I-III)  
-(8) Dark Sense (Nightsight) &    
-(9) Assassination  
+(8) Sixth/Seventh Sense  
+(9) Dark Sense (Nightsight)    
 
 
 ### Skill Description
 
 *06.09.2024 - 27.09.2024*
 
-* **Sneaking** means moving without causing sound or causing significantly less sound, accompanied by custom sneaking animations. It is possible while being upright as well as being crouched or lying/crawling and thus independent from position. This is not only done because it is more believable - since it is easy to move silently while upright and surely does not require a crouched position, but it also helps to lay more emphasis on the new, primary audio-visual changes of the stealth mode. Toggling stealth mode does not mean crouching down, it just means starting to move carefully, more silently and raising the awareness of the surroundings. The player needs to be able to crouch down independently of the sneaking to hide behind objects.  
+
+#### Sneaking 
+
+Sneaking means moving without causing sound or causing significantly less sound, accompanied by custom sneaking animations. It is possible while being upright as well as being crouched or lying/crawling and thus independent from position. This is not only done because it is more believable - since it is easy to move silently while upright and surely does not require a crouched position, but it also helps to lay more emphasis on the new, primary audio-visual changes of the stealth mode. Toggling stealth mode does not mean crouching down, it just means starting to move carefully, more silently and raising the awareness of the surroundings. The player needs to be able to crouch down independently of the sneaking to hide behind objects.  
 Some surfaces are harder to move silently on then others. Therefore, depending on the skill of the character, he can move fast silently on some surfaces, while being forced to move very slowly on other surfaces in order to remain silent.  
 
-* **Stealing** is possible by approaching an npc from behind or by approaching a sleeping or unconscious NPC, while in stealth mode; initiated by the `ACTION` key instead of speaking to him as in exploration mode (while NPCs in FollowMode are still regularly speakable to during stealth). *Only* when the NPC is sleeping or unconscious the inventory of the NPC opens, signifying that the player searches through the pouches of the NPC; the player can *never* access the inventory of a conscious NPC, he can only steal an item directly that the NPC e.g. carries at his belt (for instance he may carry a key or a pouch with silver directly, it can be stolen from him in the same way as in Thief).
 
-* **Lockpicking**, mostly related to crates and doors. Different locks may require different tools. In the Alpha it was planned to let lockpicking always be successful. Later a more interactive system was implemented in which the player needed to move the lockpick left or right by a strict sequence that he had to memorise by trial & error.  
+#### Stealing 
+
+Stealing is possible by approaching an npc from behind or by approaching a sleeping or unconscious NPC, while in stealth mode; initiated by the `ACTION` key instead of speaking to him as in exploration mode (while NPCs in FollowMode are still regularly speakable to during stealth). *Only* when the NPC is sleeping or unconscious the inventory of the NPC opens, signifying that the player searches through the pouches of the NPC; the player can *never* access the inventory of a conscious NPC, he can only steal an item directly that the NPC e.g. carries at his belt (for instance he may carry a key or a pouch with silver directly, it can be stolen from him in the same way as in Thief).
+
+
+#### Lockpicking
+
+Mostly related to crates/chests and doors. Different locks may require different tools. In the Alpha it was planned to let lockpicking always be successful. Later a more interactive system was implemented in which the player needed to move the lockpick left or right by a strict sequence that he had to memorise by trial & error.  
 In Phoenix, we solve it as follows: The camera focuses closer to the lock and the lockpicks, the lockpicking does then occur by moving into *four* directions (instead of the original two) and not by trial & error but by *sensing* (including *hearing*) which direction can be pushed into: Can it be moved or is there resistance? This requires some sort of careful movement (easier to do on the gamepad). No direct minigame where the internal lock is seen, but an indirect and more realistic approach.  
 The concept can be developed further after some research of different ancient and medieval locks has been done; since they may function very differently they may require different techniques and tools. 
 
-* **Hide in Shadows** is a skill from the alpha, where it was meant to function as follows (translated from *Attributes, Talents, Actions* from 21.07.1999):  
-> *Figure that sneaks in semi-darkness becomes invisible*
-> *This skill becomes active automatically. Every lightsource has two ranges. The first range is illuminated by the full light intensity, the second range lies in semi-darkness. Everything beyond that does not contain light of the lightsource.*  
-> *A figure in semi-darkness is still seen by NPCs. In ones own viewport and that of other players the figure in semi-darkness is just displayed in a darkened way (shade).*  
-> *If the figure in semi-darkness has mastered "Hide in Shadows", it has the following effect:*  
-> * *NPCs see a sneaking figure in semi-darkness not at all anymore.*  
-> * *In the viewport of other players the figure is no longer displayed.*  
-> * *In ones own viewport, ones own figure is not only displayed with a shade, but completely black (optical feedback of the talent).*  
+
+#### Hide in Shadows
+
+A skill from the alpha, where it was meant to function as follows (translated from *Attributes, Talents, Actions* from 21.07.1999):  
+
+*Figure that sneaks in semi-darkness becomes invisible.*  
+*This skill becomes active automatically. Every lightsource has two ranges. The first range is illuminated by the full light intensity, the second range lies in semi-darkness. Everything beyond that does not contain light of the lightsource.*    
+*A figure in semi-darkness is still seen by NPCs. In ones own viewport and that of other players the figure in semi-darkness is just displayed in a darkened way (shade).*    
+*If the figure in semi-darkness has mastered "Hide in Shadows", it has the following effect:*  
+* *NPCs see a sneaking figure in semi-darkness not at all anymore.*  
+* *In the viewport of other players the figure is no longer displayed.*  
+* *In ones own viewport, ones own figure is not only displayed with a shade, but completely black (optical feedback of the talent).*  
 
 We divert from this concept by requiring it to be activated (not active automatically when learned). Otherwise it functions more or less as described. Without this ability it is still useful for the character to stay in shadows and keep the visibility meter low, but NPCs will not be as short sighted as they are in Splinter Cell or Thief, it will not be possible to remain invisible while staying even in a very dark corner with no light whatsoever while an NPC walks directly past you; no matter how dark the corner, if an NPC reaches a specific distance of like e.g. 5 meters while directly looking into the players direction, he *will* sense him. Therefore it is important to stay behind them or properly *hide*, e.g. in a barrell, behind a cover etc. The shadows alone do not suffice, unless one activates *Hide in Shadows* which works like a short magically induced invisibility; only this way one can remain actually invisible as long as being in darkness even if a guard comes close, but only for a short time; otherwise this is not the kind of stealth we aim for.  
 Ideally, instead of displaying the character "completely black", thereby having no ingame explanation for this skill that seems to be magical, we would visualise it by the character wrapping himself into a black cloak, that he would get alongside learning the skill. This way it is not a magical talent of the thief who doesn't have access to magic, but explained by a specific (perhaps magically influenced) fabric. 
 
-* **Sixth/Seventh Sense**, also an Alpha skill, where it is described as *"a sort of extrasensory perception"* by which one can *"recognise things, which one usually cannot perceive". An *"automatic discovery of traps, secret doors, invisibile stuff and disguise*" that was meant to work *"in a 3m radius"*.  
-So by acquiring the sixth sense, the player should recognise *traps* (which could be placed at crates, chests or doors and in most cases it should have been a *"simple and spectacular explosion trap"*), secret doors (e.g. hidden entries designed for the Thief), invisible stuff (for instance other thieves hiding in shadows?) and even "disguise" (that means he would have been able to recognise if an NPC or another player is just another spy in disguise).  
+
+#### Disarm Traps 
+
+Was described in the internal design documentation as follows: 
+> If the PC opens a crate, chest or door, they may be trapped (usually a simple and spectacular explosion trap). If the PC has mastered this skill, one will just hear a clear "click" when opening the object and the trap will be automatically disarmed.
+
+Could be solved just like this or via a more interesting interaction, if one comes to mind. 
+
+
+#### Sixth Sense
+
+Also an alpha skill, where it is described as *"a sort of extrasensory perception"* by which one can *"recognise things, which one usually cannot perceive". An *"automatic discovery of traps, secret doors, invisibile stuff and disguise*" that was meant to work *"in a 3m radius"*.  
+So by acquiring the sixth sense, the player should recognise *traps* (as described above), secret doors (e.g. hidden entries designed for the Thief), invisible stuff (for instance other thieves hiding in shadows?) and even "disguise" (that means he would have been able to recognise if an NPC or another player is just another spy in disguise).  
 In the sources it is sometimes referred to as the "Sixth" sense, sometimes as a "Seventh" sense too. Due to both of these terms appearing in the Alpha we could use this by having a "seventh" sense as an upgrade to the "sixth" sense skill.  
-As with hide in shadows we may require to activate the Sixth sense instead of it being turned on automatically all the time, to facilitate the playing particularly thinking of it during exploration. 
+As with hide in shadows we may require to activate the Sixth sense instead of it being turned on automatically all the time, to facilitate the playing particularly thinking of it during exploration.  
 Seventh sense may work in a similar way as "thermal imaging" in Splinter Cell, so that with the activation of this sense, the gamma may increase and there's a red, bloody silhouette or a similar visual effect around organisms, with a bit of a wall hack, so that the thief can anticipate the potential pathways of NPCs. 
 
-* **Dark Sense** is also a skill from the Alpha and serves a similar purpose as the night vision in Splinter Cell. It was described to work as follows:  
+
+#### Dark Sense
+
+Also a skill from the alpha, it serves a similar purpose as the night vision in Splinter Cell. It was described to work as follows:  
 > *A player character with this talent simply receives an additional illumination by which he can look into dark corridors much simpler. The effectiveness in case of an absolutely dark dungeon should clearly exceed the brightness of the brightest lamp.*  
 
 At another place they mentioned another important detail, it *"works like a strong torch, but only for the viewport of the talented"*. It is like the equivalent of a light spell for the thief, but only visible to the thief himself, not to any other NPC, as it is no external light source but just his "dark sense". This too was meant to work automatically (without activation), which - again - we change, since having a strong illumination (brighter than any lamp) around ones player character all the time does not sound very pleasant. In case of Phoenix, just as *Sixth Sense* and *Hide in Shadows* it is an ability that can be activated by the player and is limited by the focus bar. 
 
-* **Acrobatics**: Other than sneaking around, opening closed doors and chests (picklock), stealing from a sleeping guard (pickpocket) and killing silently (assassination) with a dagger, all while having a heightened awareness (seventhsense/darksense), there is another important ability of the gothican Thief: his agility. He has to be more agile than any other class. He must reach windows, roofs, all kinds of places inaccessible to other classes. Thus, what we want for the thief class is to link the cross-class *Climbing* skill (it was meant to be learnable in the Alpha) to the thief-exclusive Acrobatics (in form of Lev 2-3) in order to enable him to become sort of a traceur (parcour). This is a crucial aspect of a thief, in German called "Fassadenkletterer" (which in English is called *cat burglar* - in the Comic Diego is seen doing just that). And when he is on the run, he has to be able to use his surroundings to his advantage, be it by destroying something and blocking the way for his persecutors, by fleeing over the roofs, by hiding in a barrell etc. 
+
+#### Dirty Daggertricks I-III
+
+``TODO``
+
+
+##### Assassination
+
+``TODO``
+
+A "subskill" among the Dirty Daggertricks.  
+Requirements: Sneaking, Daggertricks Level 1  
+
+
+#### Acrobatics
+
+Other than sneaking around, opening closed doors and chests (picklock), stealing from a sleeping guard (pickpocket) and killing silently (assassination) with a dagger, all while having a heightened awareness (sixthsense/darksense), there is another important ability of the gothican Thief: his agility. He has to be more agile than any other class. He must reach windows, roofs, all kinds of places inaccessible to other classes. Thus, what we want for the thief class is to link the cross-class *Climbing* skill (it was meant to be learnable in the Alpha) to the thief-exclusive Acrobatics (in form of Lev 2-3) in order to enable him to become sort of a traceur (parcour). This is a crucial aspect of a thief, in German called "Fassadenkletterer" (which in English is called *cat burglar* - in the Comic Diego is seen doing just that). And when he is on the run, he has to be able to use his surroundings to his advantage, be it by destroying something and blocking the way for his persecutors, by fleeing over the roofs, by hiding in a barrell etc. 
 
 
 ## Stealth Hud
