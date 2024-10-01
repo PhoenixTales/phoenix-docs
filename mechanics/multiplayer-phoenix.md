@@ -196,17 +196,17 @@ Since these levels are more about the fighting, we keep it fair and fun and simp
 
 #### Raid
 
-This mode is a mixture of survival and Team Deathmatch. In difference to Survival it doesn't only go against AI (which remains an option in lack of players); so there are two teams, both playable and both teams respawn. The difference to Team Deathmatch is, that there is an overarching goal like "raid the mine", that there are rounds, that you can only respawn in the next round and that the spawn points change with every round. A round is over as soon as all members of one team of a given round are killed or when a specific time has passed. 
+This mode is a mixture of survival and Team Deathmatch. In difference to Survival it doesn't only go against AI (which remains an option in lack of players); so there are two teams, both playable and both teams respawn. The difference to Team Deathmatch is, that there is an overarching goal like "take (or defend) the mine", that there are rounds, that you can only respawn in the next round and that the spawn points change with every round. A round is over as soon as all members of one team of a given round are killed or when a specific time has passed. 
 
 The attacking team is called "Raiders", the defending team is called "Defenders", but that can change depending on the level and the corresponding lore or background of those teams.
 
 Examplatory Scenario:
-* **FM Raid:** A fight around and within the mine leading you deeper and deeper. The more the raiders can push the miners down, the faster the respawn points are set deeper. The miners lose when they reach the natural caves, where the last survivors can escape; this ends the round (if we should also include a kind of campaign, where two teams need to fight through different raids one after another, these escapes should give bonus points inspite of loosing). They win when they can hold the enemies back long enough until some help from the New Camp arrives. 
+* **Free Minr Raid:** A fight around and within the mine leading you deeper and deeper. The more the raiders can push the miners down, the faster the respawn points are set deeper. The defenders lose when the Free Mine is "taken" and the raiders reach the natural caves, where the last survivors can escape into (if we should also include a kind of campaign, where two teams need to fight through different raids one after another, these escapes should give bonus points inspite of loosing). The defenders win when they can hold the enemies back long enough until some help from the New Camp arrives. 
 
 
 #### Assassination
 
-One team has all the available shadow tactics and tools, the others are bodyguards. The target is an npc that goes specific routes and the bodyguards can only influence the route slightly. They can talk to the npc and convince him to go another route, which will lead to different scenarios each round. The target is the boss of the bodyguards, thus he gives instructions to the players, he will send some of them away to guard at another spot and will become angry if they keep surrounding him all alone. Here think of the Multiplayer of Splinter Cell 2, which should inspire us. 
+One team has all the available shadow tactics and tools, the others are bodyguards. The target is an NPC that goes specific routes and the bodyguards can only influence the route slightly. They can talk to the NPC and convince him to go another route, which will lead to different scenarios each round. The target is the boss of the bodyguards, which gives instructions to his guards, he will send some of them away to guard at another spot and will become angry if they keep surrounding him all alone. Here think of the Multiplayer of Splinter Cell 2, which should inspire us. 
 
 
 #### Convoy
@@ -215,7 +215,7 @@ One team needs to get a convoy from A to B, the other team has to attack them. T
 * the convoy reaches the destination (trigger zone) or
 * the attackers have acquired the delivery before that
 
-The delivery can be a cart drawn by an orc slave, a message by someone who is escorted or a backpack. There can be npcs involved who move the cart and the convoy guards can give instructions, but there could also be players taking the delivery upon them and wearing the backpack etc. This way they can also try to run away from attackers; which most likely will happen at a point, to evade the attackers and reach the mine, so its also a kind of escape-game. 
+The delivery can be a cart drawn by an Orc Slave, a message by someone who is escorted or a backpack. There can be NPCs involved who move the cart and the convoy guards can give instructions or players may carry the delivery, wearing the backpack etc. This way they can also try to run away from attackers; which most likely will happen at a point, to evade the attackers and reach the mine, so its also a kind of escape-game. But who carries the backpack will be slower and cannot sprint as fast, so he always has to be protected or needs to hide. 
 
 Exemplatory Scenarios (in the Colony) are:
 * OC to EP

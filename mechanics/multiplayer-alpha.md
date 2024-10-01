@@ -53,7 +53,8 @@ We will at first deal with the reasons for this cancellation which were explaine
 
 ## Reasons for the Cancellation
 
-``Source: gothic.gomp.ch, 1999``
+The source of all of the quotes below is an interview from 1999 (month unknown) given to *gothic.gomp.ch*. All of the quotes below we have translated from German to English for the reader: 
+
 <!-- > **Simon Moon:** Was war der Grund, daß der Multiplayermode abgesetzt wurde?-->
 > **Simon Moon:** *What was the reason for the cancellation of the multiplayer?*
 
@@ -104,8 +105,9 @@ Ich kann euch da draußen nur bitten, eine Sache zu bedenken: Die Entwicklung ei
 
 ## Critique of Impure Reason
 
-**Flosha:** At first I will try to summarise the reasoning given. It boils down to the following problems:  
+**Flosha:** At first I will try to summarise the reasoning given. It boils down to the following points:  
 
+* The story would have to be compromised.
 * Players can either not receive the same missions, have to just follow the main player or otherwise may take missions away from each other. 
 * If not receiving the same missions, it would be too much work to write extra missions for each player. 
 * Theoretical balancing issues due to the choice of a guild.
