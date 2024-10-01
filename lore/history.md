@@ -91,6 +91,8 @@ Old introduction to the story:
 
 * 100-200 years ago. Rhotbar comes from the North, unites the 4 divided lands of the old Empire and founds Myrtana. Crowned by the priests to Rhobar I. Three-God/Trinity Cult under the highest God Ra.
 
+* Rhobar is the myrtanised form of Rhotbar, given to him by the priests when making him king. Similar to how Napoleon changed his original name Buonaparte (italian) to Bonaparte, to appeal more to the french ear. Thereby we explain a mistake done in the official Manuals, where Rhohar was always called Rhotbar, and include it into the lore. 
+
 * The creation of the myth of Rhobar is complete when he seizes Tymoria and takes the sceptre of Varant from the Temple of Fire in Khorinis, that had been brought here by Khorin a few centuries ago. He establishes a colony in the mining area at Khorinis [at this point?].
 
 * Varant attacks the myrtanian occupying forces and crosses the border to Myrtana, Myrtana is in defense (onset of the handbook history until the death of the king). 
