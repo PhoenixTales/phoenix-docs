@@ -104,10 +104,16 @@ Could be solved just like this or via a more interesting interaction, if one com
 #### Sixth Sense
 
 Also an alpha skill, where it is described as *"a sort of extrasensory perception"* by which one can *"recognise things, which one usually cannot perceive"*. An *"automatic discovery of traps, secret doors, invisibile stuff and disguise"* that was meant to work *"in a 3m radius"*.  
-So by acquiring the sixth sense, the player should recognise *traps* (as described above), secret doors (e.g. hidden entries designed for the thief), invisible stuff (for instance other thieves hiding in shadows?) and even "disguise" (that means he would be able to recognise if an NPC or another player is a spy in disguise).  
-In the sources it is sometimes referred to as the "Sixth" sense and sometimes as a "Seventh" sense. Due to both of these terms appearing in the Alpha (most likely just a mistake) we could use this by having a "seventh" sense as an upgrade to the "sixth" sense skill.  
-As with hide in shadows we may require to activate the sixth sense instead of it being turned on automatically all the time, to facilitate the player to particularly think of it during exploration.  
-Seventh sense may work in a similar way as "thermal imaging" in Splinter Cell, so that with the activation of this sense, the gamma may increase and there's a red, bloody silhouette or a similar visual effect around organisms, with a bit of a wall hack, so that the thief can anticipate the potential pathways of NPCs. 
+So by acquiring the sixth sense, the player should recognise *traps* (as described above), secret doors (e.g. hidden entries designed for the thief), invisible stuff (for instance other thieves hiding in shadows?) and even "disguise" (that means he would be able to recognise if an NPC or another player is a spy in disguise). The Alpha documents do not describe in which way these things he recognises would look like in the viewport. It could be a sort of aura or red silhouettes.   
+As with hide in shadows we require to activate the sixth sense instead of it being turned on automatically all the time, to facilitate the player to particularly think of it and apply it during exploration.  
+
+
+##### Seventh Sense
+
+In the sources the same skill is sometimes referred to as the "Sixth" sense and sometimes as a "Seventh" sense, which most likely was just a mkstake. But due to both of these terms appearing in the Alpha we could use this by adding a "seventh" sense as an upgrade to the "sixth" sense.  
+While the sixth sense is focused on sight and enables the player to *see* what usually cannot be seen, the seventh sense may enable the player to *hear* what usually cannot be heard. In this way it could develop the regular sound perception of the stealth mode further in that it amplifies NPC noices, making them lowder and much more recognisable, while  dampening ambient sounds even more than it is the case in stealth mode, while music turns completely off; the player would then be able to hear rustling grass, sniffing animals and monsters even when they are more or less far away.
+
+By increasing the Gamma, the seventh sense with its audio advantage could come with a visual disadvantage. It makes sense to only use it for a specific purpose and thereby we show how in order to use his seventh sense and focus on the sounds, his other senses have to be suppressed to some degree. 
 
 
 #### Dark Sense
