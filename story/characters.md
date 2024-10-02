@@ -204,7 +204,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 * Cole / Kren         // Deputy
 * Ransom / ?          // 
 * Roscoe / ?          // 
-* Lou / ?             //
+* Lou(is) / Lud(wig)? //
 * Earthquake / ?      // 
 * Vlad / ?            //
 ```
