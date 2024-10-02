@@ -228,14 +228,13 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Cipher   | Null (arabisch sifr = null) |
 | Buster   | Fänger (?) |
 | Shark(y) | ... |
-| Henry    | ?   |
 | Okyl     | Okyl     |
 | Tark ?    | Tark Augenwischer    |
 | Earl, the Ear | ?, das Ohr |
 | TheEye   | das Auge (?) |
 | TheKey   | Schlüssel/Schlüssler (?) |
 | Fodder   | Zottel oder Aas |
-| Henry    | ?      |
+| Henry    | Heinrich, Heinz? |
 
 
 #### NC Folk
