@@ -120,7 +120,7 @@ Sly / List         // Snitch 1
 Whistler / Pfeifer // Snitch 2
 Raoul / Ralf?      // Snitch 3
 Grag / Greo        // Snitch 4
-Diego?             // Bote, Laufbursche
+Diego?             // Bote, "der Dieb"
 Shad(ow) / ?       // "Kontakter"
 ```
 
@@ -257,19 +257,18 @@ ENGLISH / DEUTSCH // ROLE(S)
 
 | ENGLISH | DEUTSCH |
 |---------|---------|
-| Horace  | ?       |
-| Horatio | ?       |
+| Horace? | Horatio? |
 | Larp    | ?       |
 | Melvin  | Melvin  |
 | NoBrain | ?       |
 | Phil    | ?       |
 | Pock    | Pock    |
-| Poke    | ?       |
+| Poke    | = Pock? |
 | Rufus   | ?       | 
 | Sam     | Sam     |
 | Tom     | ?       |
 | Halloran | ?      |
-| Judas   |  ?      |
+| Judas   | ?       |
 | Miles   | ?       |
 | ...     |         |
 
@@ -320,7 +319,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Jojo     | Jojo     |
 | Kilan    | Kilan    |
 | Laars    | Laars    |
-| Ley?      | Lej     | 
+| Ley?     | Lej      | 
 | Mihai    |        | 
 | OldMan   | der Alte |
 | Pieto, Orefinder? | Pieto, Erzfinder |
@@ -384,7 +383,7 @@ They are all using their own names or names given by the brotherhood based on th
 * Uzul
 * Fortuno
 * Caine
-* Lester
+* Lester // "der Ketzer"
 * Joru
 * Darrion
 * Nyras
@@ -426,9 +425,9 @@ They are all using their own names or names given by the brotherhood based on th
 
 #### Gurus
 
-* Y'Berion
-* Cor Angar
-* Cor Kalom
+* Y'Berion // "der Erleuchtete"
+* Cor Angar // "der Rächer"
+* Cor Kalom // "Mastermind"
 * Tasman
 * [Fortuno]
 * Cor-Loran
@@ -449,21 +448,21 @@ They are all using their own or clerical names, none of them have to be translat
 #### Circle of Fire
 
 ##### Colony 
-* Carasco
+* Carasco // Milten Clone in ~0.7
 * Corristo 
 * Damarok   
-* Drago
-* Earon
-* Hellfire / Höllenfeuer
-* Kiró
-* Lotho
-* Lusa
-* Milten
+* Drago 
+* Earon // Only KDF in 0.64b
+* Hellfire // Only KDF in 0.56c
+* Kiró // KdF Leader in Story 3.3
+* Lotho // Only KDF in the Novel
+* Lusa // changed from "Looser", dead Apprentice in 0.56c
+* Milten // "der Deserteur"
 * Rodriguez 
-* Torrez  
+* Torrez // we equate him with Hellfire
 
 ##### Royals
-* Catmaol
+* Catmaol // Leader
 * Feoras
 * Morogh
 * Nereus
@@ -471,21 +470,21 @@ They are all using their own or clerical names, none of them have to be translat
 
 #### Circle of Water
 
-* Abraxus
+* Abraxus // Story 3.3
 * Cronos
-* Kaskoh
-* Marten 
+* Kaskoh // KDW in the Novel
+* Marten // Story 3.3
 * Merdarion 
 * Myxir
 * Nefarius
 * Riordian
-* Saturas
-* Torin
+* Saturas // Leader of KDW since at least Story 3.3
+* Torin // Story 3.3
 
 
 #### DMB
 
-* Necron/Xardas
+* Xardas / Necron (in Story 3.3)
 
 
 ### Orcs of Bloodearth Clan
@@ -503,10 +502,10 @@ They are all using their own or clerical names, none of them have to be translat
 
 ### Royals/Paladins
 
-* Rhobar
+* Rhobar (II.)
 * Princess
-* Rigaldo
-* Hagen
+* Rigaldo // "der Hofmarschall"
+* Hagen // General
 * Leomar
 * Radulf
 * Ingmar
