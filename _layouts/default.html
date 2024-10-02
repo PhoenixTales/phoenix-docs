@@ -1,44 +1,47 @@
 <!doctype html>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{{site.title}} | {{page.title}}</title>
-<link rel="stylesheet" href="/styles.css">
-<link rel="icon" type="image/x-icon" href="/nyx.ico" />
-
-<body>
-
-  <nav>
-    <div class="menu-wrapper">
-        <input type="checkbox" id="menu-toggle">
-        <label for="menu-toggle">
-            <span class="menu-icon">&#8801;</span>
-            <p class="menu-title">Phoenix Concept</p>
-        </label>
-
-        <section class="header">
-          <span><a href="https://phoenixthegame.com">/</a>Phoenix.doc</span>
-          <ul>
-            <li><a href="https://github.com/PhoenixTales" target="_blank">Git</a></li>
-            <li><a href="https://phoenixthegame.com/contrib" target="_blank">Contrib</a></li>
-            <li><a href="https://phoenixthegame.com" target="_blank">Main</a></li>
-          </ul>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>{{site.title}} | {{page.title}}</title>
+        <link rel="stylesheet" href="/styles.css">
+        <link rel="icon" type="image/x-icon" href="/nyx.ico" />
+    </head>
+    
+    <body>
+      <nav>
+        <div class="menu-wrapper">
+            <input type="checkbox" id="menu-toggle">
+            <label for="menu-toggle">
+                <span class="menu-icon">&#8801;</span>
+                <p class="menu-title">Phoenix Concept</p>
+            </label>
+    
+            <section class="header">
+              <span><a href="https://phoenixthegame.com">/</a>Phoenix.doc</span>
+              <ul>
+                <li><a href="https://github.com/PhoenixTales" target="_blank">Git</a></li>
+                <li><a href="https://phoenixthegame.com/contrib" target="_blank">Contrib</a></li>
+                <li><a href="https://phoenixthegame.com" target="_blank">Main</a></li>
+              </ul>
+            </section>
+        </div>
+    
+        <section class="index">
+          {% capture nav %}{% include nav.md %}{% endcapture %}
+          {{ nav | markdownify }}
         </section>
-    </div>
-
-    <section class="index">
-      {% capture nav %}{% include nav.md %}{% endcapture %}
-      {{ nav | markdownify }}
-    </section>
-  </nav>
-  
-  <main>
-    <section class="article">
-      {{ content }}
-    </section>
-  </main>
-  
-  <div class="dir">
-    <a href="{{page.dir}}">{{page.dir}}</a><span>{{page.name}}</span>
-  </div>
-  {% include footer.html %}
-</body>
+      </nav>
+      
+      <main>
+        <section class="article">
+          {{ content }}
+        </section>
+      </main>
+      
+      <div class="dir">
+        <a href="{{page.dir}}">{{page.dir}}</a><span>{{page.name}}</span>
+      </div>
+      {% include footer.html %}
+    </body>
+</html>
