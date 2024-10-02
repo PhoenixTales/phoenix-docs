@@ -110,10 +110,7 @@ As with hide in shadows we require to activate the sixth sense instead of it bei
 
 ##### Seventh Sense
 
-In the sources the same skill is sometimes referred to as the "Sixth" sense and sometimes as a "Seventh" sense, which most likely was just a mistake. But due to both of these terms appearing in the Alpha we could use this by adding a "seventh" sense as an upgrade to the "sixth" sense.  
-While the sixth sense is focused on sight and enables the player to *see* what usually cannot be seen, the seventh sense may enable the player to *hear* what usually cannot be heard. In this way it could develop the regular sound perception of the stealth mode further in that it amplifies NPC noices, making them louder and much more recognisable, while  dampening ambient sounds even more than it is the case in stealth mode, while music turns completely off; the player would then be able to hear rustling grass, sniffing animals and monsters even when they are more or less far away.
-
-By increasing the Gamma, the seventh sense with its audio advantage could come with a visual disadvantage. It makes sense to only use it for a specific purpose and thereby we show how in order to use his seventh sense and focus on the sounds, his other senses have to be suppressed to some degree. 
+In the sources the same skill is sometimes referred to as the "Sixth" sense and sometimes as a "Seventh" sense, which most likely was just done by accidents, as these two terms are often mixed up. But due to both of these terms appearing in the Alpha we could use this by adding a "seventh" sense as an additional skill.  
 
 
 #### Dark Sense
@@ -122,6 +119,13 @@ Also a skill from the alpha, it serves a similar purpose as the night vision in 
 > *A player character with this talent simply receives an additional illumination by which he can look into dark corridors much simpler. The effectiveness in case of an absolutely dark dungeon should clearly exceed the brightness of the brightest lamp.*  
 
 At another place they mentioned another important detail, it *"works like a strong torch, but only for the viewport of the talented"*. It is like the equivalent of a light spell for the thief, but only visible to the thief himself, not to any other NPC, as it is no external light source but just his "dark sense". This too was meant to work automatically (without activation), which - again - we change, since having a strong illumination (brighter than any lamp) around ones player character all the time does not sound very pleasant. In case of Phoenix, just as *Sixth Sense* and *Hide in Shadows* it is an ability that can be activated by the player and is limited by the focus bar. 
+
+Due to the nature of the skill as basically an improvement of the characters vision (as if being able to see like some animals), we could divide the Dark Sense into two levels. Level 1 is described above, while level 2 would be focused on an improvement of the characters sense of hearing. 
+Dark Sense Level 1 enables him to see what usually cannot be seen due to darkness; it lightens up his sense of sight. Level 2 enables him to hear what usually cannot be heard; it lightens up his sense of hearing. 
+
+It develops the regular sound perception of the stealth mode further in that it amplifies NPC noices, making them louder and much more recognisable, while  dampening ambient sounds even more than it is the case in stealth mode, while music turns completely off; the player would then be able to hear rustling grass, sniffing animals and monsters even when they are more or less far away.
+
+By increasing the Gamma, the improved hearing could come with a visual disadvantage. It makes sense to only use it for a specific purpose and thereby we show how in order to use his Ear and focus on the sounds, his other senses have to be suppressed to some degree. 
 
 
 #### Dirty Daggertricks I-III
