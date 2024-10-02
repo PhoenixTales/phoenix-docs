@@ -110,7 +110,7 @@ Dark / Finster     // "Der Assassine"
 Viper / ?          // Meuchler 1
 Snogu / ?          // Meuchler 2
 ?                  // Meuchler 3
-Earl / Jarl?       // "Das Ohr", Masterspy
+Earl / Eule        // "Das Ohr", Masterspy
 Phantom / ?        // Spy 1
 Nimble(finger)     // Spy 2, "Flinkhand"
 Reese / Rhys       // Spy 3
