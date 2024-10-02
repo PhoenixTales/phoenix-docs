@@ -12,24 +12,28 @@ Just as the names of characters we also have to translate the names of monsters.
 The "Shadowbeast" is a "Schattenläufer", which would be translated more literally as "Shadowstrider". But for something like the "Scavenger" they just kept the english term. A bloodfly was translated into a "Blutfliege"; while an original term like "Felsfresser", as which it was even called in dialogues of design documents, in the end did only appear under the english term "Minecrawler". Just as with the names of NPCs we can only assume that it was done since they thought that the english terms sounded cooler. But it is inconsistent and has to be changed. 
 
 * Scavenger - *Fledderer* (Aasfresser)
-* Shadowbeast - *Schattenläufer*
-* Meatbug - *Fleischwanze*
-* Swampshark - *Sumpfhai*
 * Bloodfly (f) - *Blutfliege*
-* Alpha Bloodfly (m) - *Blutdrohne*
-* Orcdog/biter - *Orkhund*
-* Black Wolf - *Schwarzer Wolf*
-* Molerat ("Scavenger2") - *Maulratte, Mullratte, Erzratte, Erzmull, Aasmull*?
-* Snapper - *Reißer* (w) or original in 0.56-0.64: *Grapper*
-* (Alpha) Razor - *Reißer* (m), "Leitsnapper" (analogue to the "Leitwolf")
-* Minecrawler - *Felsfresser* (original), alternatively: *Minenkreucher*
-* Minecrawler Warrior - ...
-* Crawler Queen - *Kreuch(er)königin*
-* Minesprayer - *Felssprüher* [N]
-* Lurker - *Luger*
-* Mushgroomer - *Pilzschinder*, *Pilzfresser*
+   * Blooddrone (m) [A] - *Blutdrohne*
 * Bloodhound - *Bluthund*
-* Wolf - "
+* Meatbug - *Fleischwanze*
 * Goblin/Gobbo - "
+* Harpy - *Harpyie*
+* Lurker - *Luger*
+* Minecrawler - *Felsfresser* (original), alternatively: *Minenkreucher*
+   * Minecrawler Warrior - ...
+   * Crawler Queen - *Kreuch(er)königin*
+* Minesprayer - *Felssprüher* [N]
+* Molerat ("Scavenger2") - *Maulratte, Mullratte, Minenratte, Riesenmull, Aasmull*?
+* Mushgroomer - *Pilzschinder*, *Pilzfresser*
+* Orcdog/biter - *Orkhund*
+* Razor [A] - *Reißer* (m), "Leitsnapper" (analogue to the "Leitwolf")
+   * Snapper - *Reißer* (w) or original in 0.56-0.64: *Grapper*
+* Shadowbeast - *Schattenläufer*
+* Swampshark - *Sumpfhai*
 * Troll - "
-* ...
+* Vulture - *Geier*
+* Wolf - "
+   * Black Wolf - *Schwarzer Wolf*
+
+
+
