@@ -248,7 +248,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Silas    | Silas    |
 | Miles    | ?        |
 | Lukas    | Lukas    |
-| Russel   | ?        |
+| Russel   | Rotger   |
 | Urxai    | Urxai    |
 | Marvin   | Marvin   |
 
@@ -552,3 +552,8 @@ What we will not address here is how the characters will develop in course of th
 ### X
 
 *work in progress*
+
+
+### Russel / Rotger
+
+We choose Rotger as his german equivalent, which is an old german name, nowadays most often spelled Roettger, with spelling variations like Ruder, Rodger, Rotheger, Rotoga, Reutter and *Russer*. 
