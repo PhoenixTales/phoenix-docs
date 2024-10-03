@@ -47,55 +47,150 @@ The names of the female slaves doesn't have to be translated.
 
 #### Guards
 
-| ENGLISH  | DEUTSCH    |
-|----------|------------|
-| Aaron    | Aaron      |
-| Asghan   | Asghan     |
-| Baldhead | Glatzkopf  |
-| Belvo    | Belvo      |
-| Bloodwyn | ? (Original blodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?) |
-| Boric    | Borik     |
-| Brabak   | Brabak     |
-| Brandick | Brandrich   |
-| Bullit   | ?          |
-| Cutter   | Kapper     |
-| X, the Childkiller | X, Kindtöter |
-| Drake    | ?          |
-| Dust     | ?          |
-| Fletcher | Fiederer ?  |
-| Fright(ening) | X, der Furchtbare? |
-| Garak    | Garak      |
-| Greg     | ?   |
-| Hawk(eye) | Adler(auge)  |
-| Hunter   | Jäger      |
-| Ian      | Ian        |
-| Jack     | Jockel?    |
-| Jackal   | Schakal    |
-| Kirgo    | Kirgo      |
-| ?        | X, der Lispler    |
-| Mack     | Mack       |
-| Mort     | ?          |
-| Nek      | ? - (Nek ist eine Anspielung auf Tod) |
-| Orry     | Golder (gaelic "gold")   | 
-| Pacho    | Kurzer     |
-| Parik    | Parik      |
-| X, the Nurrba | X, der Nurrba | 
-| X Twoknife? | Rigosch, Zweimesser |
-| Scatty   | ?          |
-| Scorpio  | Skorpion   |
-| Shabak   | Shabak     |
-| Sharp(blade) | ?      |
-| Skip     | Kipp?       |
-| ?        | Smörk      |
-| Snake    | Schlange   |
-| Snore    | Schnarcher |
-| Spot     | ?          |
-| Stone    | ? X, der Stein(...)  |
-| Tack     | Tack       |
-| Talon    | Kralle     |
-| Thorus   | Thorus     |
-| Ulbert   | Ulbert     |
-| Ulgar    | Ulgar      |
+##### Leaders & Teachers
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| Arto     | "          | Kriegshund    | Wardog      | Söldnerhauptmann |   6   |
+| Brabak   | "          | ?             | ?           | Ex-Sld-Hauptmann |   X   |
+| ?        | ?          | ?             | Scatty      | Arenameister     |   5   |
+| ?        | ?          | der Einäugige | ?           | Außeneinsätze    |   ?   |
+| Thorus   | "          | Leutnant      | ?           | Wachorganisation |   ?   |
+| ?        | ?          | der Schleifer | the Grinder | Sadis. Ausbilder |   5   |
+| Scorpio  | ?          | ?             | ?           | Nahkampflehrer   |   ?   |
+| ?        | ?          | Jäger         | Hunter      | Fernkampflehrer  |   ?   |
+| Ian      | ?          | ?             | ?           | Minen Chef       |   5   |
+
+
+##### Castle 
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| Mort     | ?          | ?             | ?           | Gefängniswache 1 |   ?   |
+| Bullit   | ?          | ?             | Bullit      | ?                |   ?   |
+| ?        | ?          | Kipp?         | Skip        | Waffenausgabe    |   ?   |
+| Garak    | "          | ?             | ?           | Hofwache/Mauer   |   ?   |
+| ?        | ?          | der Stein     | Stone       | Schmied          |   ?   |
+
+
+##### Outside Ring 
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| ?        | ?          | Fiederer?     | Fletcher    | Nordviertel      |   ?   |
+| ?        | ?          | Schakal       | Jackal      | Arenaviertel     |   ?   |
+| Bloodwyn | ?          | ?             | ?           | Marktviertel     |   ?   |
+| Nek      | ?          | ?             | ?           | Ex-Nordviertel   |   ?   |
+| Rigosh?  | Rigosch    | Zweimesser    | Twoknife?   | ?                |   ?   |
+| ?        | ?          | Schnarcher    | Snore       | ?                |   ?   |
+
+
+##### Arena 
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| ?        | ?          | ?             | Scatty      | Arenameister     |   5   |
+| ?        | ?          | Narbe         | Scar        | [Gladiator]      |   6   |
+| ?        | ?          | Kapper?       | Cutter?     | Gladiator 1      |   5   |
+| Benwick  | "          | ?             | ?           | Gladiator 2      |  4-5  |
+| Kirgo    | "          | ?             | ?           | Gladiator 3      |  3-4  |
+
+
+##### North Gate
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| Jack     | Jockel?    | ?             | ?           | Nordtorwache 1   |   ?   |
+| Greg     | ?          | ?             | ?           | Nordtorwache 2   |   ?   |
+| ?        | Borik      | ?             | ?           | Nordtorwache 3   |   ?   |
+| Bloodwyn | ?          | ?             | ?           | Nordtorwache 4   |   ?   |
+| ?        | ?          | ?             | Dust        | Nordtorwache 5   |   ?   |
+| ?        | ?          | ?             | Spot        | Nordtorwache 6   |   ?   |
+
+
+##### South Gate
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| Mack     | "          | ?             | ?           | Südtorwache 1    |   ?   |
+| Tack     | "          | ?             | ?           | Südtorwache 2    |   ?   |
+| Belvo    | "          | ?             | ?           | Südtorwache 3    |   ?   |
+| ?        | "          | ?             | ?           | Südtorwache 4    |   ?   |
+| ?        | "          | ?             | ?           | Südtorwache 5    |   ?   |
+| ?        | "          | ?             | ?           | Südtorwache 6    |   ?   |
+
+
+##### Palace Guards
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| ?        | ?          | ?             | ?           | Palastwache 1    |   ?   |
+| ?        | ?          | ?             | ?           | Palastwache 2    |   ?   |
+| ?        | ?          | ?             | ?           | Palastwache 3    |   ?   |
+| ?        | ?          | ?             | ?           | Palastwache 4    |   ?   |
+| ?        | ?          | ?             | ?           | Palastwache 5    |   ?   |
+| ?        | ?          | ?             | ?           | Palastwache 6    |   ?   |
+
+
+##### Kornkammer
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| ?        | ?          | ?             | ?           | Portalwache 1    |   ?   |
+| ?        | ?          | ?             | ?           | Portalwache 2    |   ?   |
+| ?        | ?          | ?             | ?           | Portalwache 3    |   ?   |
+| ?        | ?          | ?             | ?           | Portalwache 4    |   ?   |
+| ?        | ?          | ?             | ?           | Portalwache 5    |   ?   |
+| ?        | ?          | ?             | ?           | Portalwache 6    |   ?   |
+
+
+##### Alte Mine
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| Ian      | ?          | ?             | ?           | Minen Chef       |   5   |
+| Aaron    | "          | ?             | ?           | ?                |   ?   |
+| Asghan   | "          | ?             | ?           | ?                |   ?   |
+| Brandick | Brandrich  | ?             | ?           | ?                |   ?   |
+| Drake    | ?          | ?             | ?           | Minenwache Eing. |   ?   |
+| Ulbert   | Ulbert     | ?             | ?           | Lagerhauswache   |   ?   |
+
+
+##### Täufer
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| Parik    | "          | ?             | ?           | Täufer 1         |   ?   |
+| ?        | ?          | Glatzkopf     | Baldhead    | Täufer 1         |   ?   |
+| ?        | ?          | der Lispler   | ?           | Täufer 3         |   ?   |
+| ?        | ?          | der Nurrba    | the Nurrba  | ?                |   ?   | 
+| ?        | ?          | der Huegoth   | the Huegoth | ?                |   ?   | 
+
+
+##### Convoy
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| ?        | "          | ?             | ?           | Convoiwache 1    |   ?   |
+| Ulgar    | "          | ?             | ?           | Convoiwache 2    |   ?   |
+| ?        | "          | ?             | ?           | Convoiwache 3    |   ?   |
+| Shabak   | "          | -             | -           | Halbork (Träger?) |   ?  |
+
+
+##### Unsure
+
+| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
+|----------|------------|---------------|-------------|------------------|-------|
+| ?        | ?          | Kindtöter     | Childkiller | ?                |   ?   |
+| ?        | ?          | ?             | Fright(ening) | ?              |   ?   |
+| Orry     | Golder     | ?             | ?           | ?                |   ?   |
+| Pacho    | Kurzer     | ?             | ?           | ?                |   ?   |
+| ?        | ?          | Adler(auge)   | Hawk(eye)   | ?                |   ?   |
+| ?        | ?          | ?             | Sharp(blade) | ?               |   ?   |
+| ?        | Smörk      | -             | -           | ?, Halbork       |   ?   |
+| ?        | ?          | Schlange      | Snake       | ?                |   ?   |
+| ?        | ?          | Kralle        | Talon       | ?                |   ?   |
+
 
 
 #### Shadows
@@ -110,7 +205,7 @@ Dark / Finster     // "Der Assassine"
 Viper / ?          // Meuchler 1
 Snogu / ?          // Meuchler 2
 ?                  // Meuchler 3
-Earl / Eule        // "Das Ohr", Masterspy
+Earl / Orel        // "Das Ohr", Masterspy
 Phantom / ?        // Spy 1
 Nimble(finger)     // Spy 2, "Flinkhand"
 Reese / Rhys       // Spy 3
@@ -230,7 +325,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Shark(y) | ... |
 | Okyl     | Okyl     |
 | Tark ?    | Tark Augenwischer    |
-| Earl, the Ear | ?, das Ohr |
+| Earl, the Ear | Orel, das Ohr |
 | TheEye   | das Auge (?) |
 | TheKey   | Schlüssel/Schlüssler (?) |
 | Fodder   | Zottel oder Aas |
@@ -516,7 +611,7 @@ They are all using their own or clerical names, none of them have to be translat
 
 Just list all that comes to mind and would make sense to use.
 
-* Eule
+* Owl / Eule
 * Finch / Fink
 * Katze / Koshka
 * Schinder 
@@ -553,18 +648,27 @@ What we will not address here is how the characters will develop in course of th
 *work in progress*
 
 
+### Bloodwyn / ?
+
+* Original blodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?
 
 
-### Balam
+### Earl / Orel
 
-* Cook of the barons, besides Omid.
-* The name may be based on the biblical *Balaam*.
+* Earl, nickname "the Ear". 
+* A literal translation would be "Jarl" or "Graf", but *Earl* contains "ear" and thereby seems to remind of his role (of being the "ear" of the barons in the sense of their most important spy); we therefore choose a name that contains the german "Ohr" in a similar way to "Earl" containing "ear". This let us think of "Orell" or "Orel" from Aurelius, "Orl" or "Oran". 
 
 
-### Omid
+### Nek 
 
-* Cook of the barons, besides Balam.
-* A persian/kurdish name meaning "hope".
+* "Nek" ist eine Anspielung auf Tod.
+
+
+### Balam & Omid
+
+* Cooks of the barons.
+* *Balaam* is a biblical name of a prophet.
+* *Omid* is a persian/kurdish name meaning "hope".
 
 
 ### Russel / Rotger
