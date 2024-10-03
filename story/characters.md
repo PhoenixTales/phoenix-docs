@@ -659,6 +659,12 @@ What we will not address here is how the characters will develop in course of th
 * A literal translation would be "Jarl" or "Graf", but *Earl* contains "ear" and thereby seems to remind of his role (of being the "ear" of the barons in the sense of their most important spy); we therefore choose a name that contains the german "Ohr" in a similar way to "Earl" containing "ear". This let us think of "Orell" or "Orel" from Aurelius, "Orl" or "Oran". 
 
 
+### Fletcher
+
+* To fletch means "befiedern"; Fletcher could thus be translated as "Fiederer".
+* On the other hand it reminds of the German "(Zähne) fletschen", which in English means "to bare ones teeth"; he could thus be translated as "Fletscher", which fully preserves the sound and may fit in meaning better than his english name. 
+
+
 ### Nek 
 
 * "Nek" ist eine Anspielung auf Tod.
