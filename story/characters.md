@@ -553,6 +553,20 @@ What we will not address here is how the characters will develop in course of th
 *work in progress*
 
 
+
+
+### Balam
+
+* Cook of the barons, besides Omid.
+* The name may be based on the biblical *Balaam*.
+
+
+### Omid
+
+* Cook of the barons, besides Balam.
+* A persian/kurdish name meaning "hope".
+
+
 ### Russel / Rotger
 
 We choose Rotger as his german equivalent, which is an old german name, nowadays most often spelled Roettger, with spelling variations like Ruder, Rodger, Rotheger, Rotoga, Reutter and *Russer*. 
