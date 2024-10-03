@@ -311,7 +311,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 |----------|----------|
 | Lares    | Lares    |
 | Gaist    | Gaist    |
-| Bruce    | ?        |
+| Bruce    | Brus     |
 | Fox      | Fuchs    |
 | Drexel   | Maybe earlier name for Drax - delete?       |
 | Mordrag  | Mordrag  |
@@ -655,8 +655,8 @@ What we will not address here is how the characters will develop in course of th
 
 ### Bruce 
 
-* The name comes from *Robert the Bruce* (Scottish Gaelic: *Raibeart am Brusach*), based on this we could germanise him as Brusach or simplify it to Brusa. 
-* In french: Bruis or Brix.
+* The name comes from *Robert the Bruce* (Scottish Gaelic: *Raibeart am Brusach*), based on this we could germanise him as Brusach or simplify it to just Brus or Brusa. 
+* In french: Brus.
 
 * He is an Organiser, which in CH1 hangs around at the marketplace of the Old Camp. 
 
@@ -671,6 +671,13 @@ What we will not address here is how the characters will develop in course of th
 
 * To fletch means "befiedern"; Fletcher could thus be translated as "Fiederer".
 * On the other hand it reminds of the German "(Zähne) fletschen", which in English means "to bare ones teeth"; he could thus be translated as "Fletscher", which fully preserves the sound and may fit in meaning better than his english name. 
+
+
+### Gaist
+
+* Sounds identical to the german "Geist" (ghost), based on which we could identify him with the alpha NPC "Phantom", but Gaist is an organiser in the novel, while Phantom most likely was a shadow.
+* When still holding on to this possible identity, he would have to be a double agent, but this does not fit the character description and style of Gaist; therefore we prefer to conceptualise them as different characters, but this makes it difficult to translate both of them.
+* Gaist can be translated into English as "Ghost", but there is no equivalent to Phantom, other than *Fantom*, which isn't really german. 
 
 
 ### Nek 
