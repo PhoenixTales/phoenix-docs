@@ -653,6 +653,14 @@ What we will not address here is how the characters will develop in course of th
 * Original blodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?
 
 
+### Bruce 
+
+* The name comes from *Robert the Bruce* (Scottish Gaelic: *Raibeart am Brusach*), based on this we could germanise him as Brusach or simplify it to Brusa. 
+* In french: Bruis or Brix.
+
+* He is an Organiser, which in CH1 hangs around at the marketplace of the Old Camp. 
+
+
 ### Earl / Orel
 
 * Earl, nickname "the Ear". 
