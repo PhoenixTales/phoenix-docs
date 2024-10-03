@@ -677,7 +677,13 @@ What we will not address here is how the characters will develop in course of th
 
 * Sounds identical to the german "Geist" (ghost), based on which we could identify him with the alpha NPC "Phantom", but Gaist is an organiser in the novel, while Phantom most likely was a shadow.
 * When still holding on to this possible identity, he would have to be a double agent, but this does not fit the character description and style of Gaist; therefore we prefer to conceptualise them as different characters, but this makes it difficult to translate both of them.
-* Gaist can be translated into English as "Ghost", but there is no equivalent to Phantom, other than *Fantom*, which isn't really german. 
+* Gaist can be translated into English as "Ghost". 
+
+
+### Phantom 
+
+* It is related to "fantasy", from latin phantasia (“imagination”), which in turn comes from from ancient Greek φαντασία (phantasía, “apparition”), from φαντάζω (phantázō, “to render visible”), from φαντός (phantós, “visible”), from φαίνω (phaínō, “to make visible”); from the same root as φάος (pháos, “light”); ultimately from Proto-Indo-European *bʰh₂nyéti, from the root *bʰeh₂- (“to shine”). 
+* It is funny how something that means "to make visible" has ultimately turned into an illusion in form of "phantom", it is apparently visible, but not to the eyes; this ambivalent kind of meaning is the very same as in the german "Schein". Something that "erscheint" is something that is obviously seen, just as the english "shine", but it is at the same time what in english is described as "to seem" to be - it may as well be an illusion. But as a nickname, "Schein" doesn't seem like a good solution. 
 
 
 ### Nek 
