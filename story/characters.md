@@ -708,4 +708,4 @@ We choose Rotger as his german equivalent, which is an old german name, nowadays
 
 ### Snogu
 
-* To "snog" is slang and means as much as "to kiss" and to hold someone sexually. Based on this idea Snogu could be something like "Küsser", but "Snogger" would be a more fitting nickname in that case... What could Snogu mean?
+* To "snog" is slang and means as much as "to kiss" and to hold someone sexually. Based on this idea Snogu could be something like "Küsser", "Necker", but "Snogger" would be a more fitting nickname in that case... What could Snogu mean other than that?
