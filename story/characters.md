@@ -545,22 +545,22 @@ They are all using their own or clerical names, none of them have to be translat
 ##### Colony 
 * Carasco // Milten Clone in ~0.7
 * Corristo 
-* Damarok   
-* Drago 
+* Damarok // Alchemist?   
+* Drago // ...
 * Earon // Only KDF in 0.64b
 * Hellfire // Only KDF in 0.56c
 * Kiró // KdF Leader in Story 3.3
 * Lotho // Only KDF in the Novel
 * Lusa // changed from "Looser", dead Apprentice in 0.56c
 * Milten // "der Deserteur"
-* Rodriguez 
+* Rodriguez // ...
 * Torrez // we equate him with Hellfire
 
 ##### Royals
 * Catmaol // Leader
-* Feoras
-* Morogh
-* Nereus
+* Feoras // Runemaker 
+* Morogh // Alchemist
+* Nereus // ...
 
 
 #### Circle of Water
