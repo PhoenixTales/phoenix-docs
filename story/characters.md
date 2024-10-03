@@ -704,3 +704,8 @@ What we will not address here is how the characters will develop in course of th
 ### Russel / Rotger
 
 We choose Rotger as his german equivalent, which is an old german name, nowadays most often spelled Roettger, with spelling variations like Ruder, Rodger, Rotheger, Rotoga, Reutter and *Russer*. 
+
+
+### Snogu
+
+* To "snog" is slang and means as much as "to kiss" and to hold someone sexually. Based on this idea Snogu could be something like "Küsser", but "Snogger" would be a more fitting nickname in that case... What could Snogu mean?
