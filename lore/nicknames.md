@@ -24,17 +24,17 @@ In a translation it may be fine if some of the meaning cannot fully be conveyed,
 The names and how we germanised them (or anglicised in the opposite case) are to be found in [/story/characters](/story/characters).
 
 
-## Name Structure
+## Prison Names vs. Birth Names
 
-Many inmates have nicknames and the Alpha documents apparently suggested it to be basically *all* of them. But several of them have none and this makes sense. 
+Many inmates have nicknames and the Alpha documents apparently suggested it to be basically *all* of them. But several of them have none and it makes sense. 
 
 For one, all (or almost all) of the mages are not participating in this tradition, they use their regular names (or clerical names if we assume that to be a factor, as we do) and are powerful enough to demand them to be used. 
 
-The same can be said for several of the barons and other high level characters. If they are at the top of the prison hierarchy - or at least high enough - they can enforce this respect of being called by their real name. Especially in case of someone like Gomez, who may have had a name already outside of the prison, they might want to be called by their real name. While others, such as Raven and Scar, may consciously choose to completely get rid of their former identity and forget about their past. Their new name carries more meaning to them and evokes more respect by others than whatever they may have been called before in a life they do not miss. They may not only not ever be called by their real name, but it may also be unknown and they prefer to keep it like that.
+The same can be said for several of the barons and other high level characters. If they are at the top of the prison hierarchy - or at least high enough - they can enforce this respect of being called by their birth name. Especially in case of someone like Gomez, who may have had a name already outside of the prison, they might want to be called by this name. Others, such as Raven and Scar, may consciously choose to completely get rid of their former identity and forget about their past. Their new name carries more meaning to them and evokes more respect by others than whatever they may have been called before in a life they do not miss. They may not only not ever be called by their birth name, it may also be unknown to others and they prefer to keep it that way.
 
 > Es gab einmal ein anderes Leben. Unter einem anderen Namen. Aber jener Name ist tot. Jenes Leben ist vorüber. DAS ist jetzt unser Leben. 
 
-The brotherhood usually doesn't use prison nicknames either. If someone had one before, he will receive a new name in the brotherhood. These names are often very short (e.g. see all the Templars with names comprised of not more than three letters) and just as the titles that they use (Y, Cor, Ka, Gor-Na, Gor, Baal) their names have a different style and sound to them, which we interpret as originating from the older language. 
+The Sect usually doesn't use prison nicknames either. If someone had one before, he will receive a new name in the Sect. These names are often very short (e.g. see all the Templars with names comprised of not more than three letters) and just as the titles that they use (Y, Cor, Ka, Gor-Na, Gor, Baal) their names have a different style and sound to them, which we interpret as originating from the older language. 
 
 Thus, only characters in the Old Camp, New Camp and Free Camp are using prison nicknames. 
 
