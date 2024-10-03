@@ -201,7 +201,7 @@ The names of the female slaves doesn't have to be translated.
 ENGLISH / DEUTSCH // ROLE(S)
 
 SECRET             // "Der Unsichtbare", Leader
-Dark / Finster     // "Der Assassine"
+Dark(man) / Finster   // "Der Assassine"
 Viper / ?          // Meuchler 1
 Snogu / ?          // Meuchler 2
 ?                  // Meuchler 3
@@ -683,7 +683,10 @@ What we will not address here is how the characters will develop in course of th
 ### Phantom 
 
 * It is related to "fantasy", from latin phantasia (“imagination”), which in turn comes from from ancient Greek φαντασία (phantasía, “apparition”), from φαντάζω (phantázō, “to render visible”), from φαντός (phantós, “visible”), from φαίνω (phaínō, “to make visible”); from the same root as φάος (pháos, “light”); ultimately from Proto-Indo-European *bʰh₂nyéti, from the root *bʰeh₂- (“to shine”). 
-* It is funny how something that means "to make visible" has ultimately turned into an illusion in form of "phantom", it is apparently visible, but not to the eyes; this ambivalent kind of meaning is the very same as in the german "Schein". Something that "erscheint" is something that is obviously seen, just as the english "shine", but it is at the same time what in english is described as "to seem" to be - it may as well be an illusion. But as a nickname, "Schein" doesn't seem like a good solution. 
+* It is funny how something that means "to make visible" has ultimately turned into an illusion in form of "phantom", it is apparently visible, but not to the eyes; this ambivalent kind of meaning is the very same as in the german "Schein". Something that "erscheint" is something that is obviously seen, just as the english "shine", but it is at the same time what in english is described as "to seem" - it may as well be an illusion.
+* But as a nickname, "Schein" doesn't seem like a good solution. 
+* *Schein* comes from Middle High German schīn, Old High German scīn, skīn (“shine, brightness, light, ray”), from Proto-West Germanic *skīn, from Proto-Germanic *skīną. Cognate with Old Norse skína, Old Saxon scīnan, Old English sċīn (“phantom, ghost”), Dutch schijn, English shine, Gothic 𐍃𐌺𐌴𐌹𐌽𐌰𐌽 (skeinan).
+* Skeinar, das Fantom?
 
 
 ### Nek 
