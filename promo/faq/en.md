@@ -323,7 +323,7 @@ They are mere fragments. Phoenix is the mosaic.
 <a id="features"></a>
 <summary>Welche Features bietet PHOENIX?</summary>
 
-<ul class="features"><h3>ORPHEUS</h3>
+<ul class="features">ORPHEUS
   <li>Gothic im Stil der Alpha(s): Interface, Menüs, Artworks, Schriftarten, Texturen, Farbgebung etc.</li>
   <li>Alpha (Cut-)Content rekonstruiert/re-implementiert: NPCs, Monster, Rüstungen, Items, Vegetation, Attribute und Skills, die gesamte Alpha Spielwelt und ihre Dungeons (Orkstadt und Verlassene Mine)</li>
   <li>Umsetzung (Modellierung und Texturierung) sämtlicher Konzeptzeichnungen von Ralf Marczinczik, Mike Hoge und Frank Ziemlinski</li>
@@ -373,7 +373,7 @@ They are mere fragments. Phoenix is the mosaic.
 * New Soundtrack with samples from KaiRo, based on the drafts of Marco Rademacher for the Sequel and our own ideas.
 
 <!--
-  <ul class="features"><h3>NEMESIS</h3>
+  <ul class="features">NEMESIS
   <li>"Alpha-Sequel"; eine Rekonstruktion des Sequels auf Basis von Orpheus (Alphastil, Spielwelt usw.), mit allen vier für das Sequel geplanten Kapiteln und mehr</li>
   <li>Rekonstruktion der überarbeiteten Sequel Spielwelt (Altes Lager und Bergfeste) und tiefgreifende Überarbeitung der übrigen Spielwelt (Neues Lager, Altes Kastell, Freie Mine, Sumpflager, die Oberwelt und neue Gebiete)</li>
   <li>Intelligente und tiefgreifende Weiterentwicklung der für das Sequel geplanten Geschichte mit mehreren Enden</li>

@@ -3,11 +3,6 @@ description: Phoenix Design Concept by PhoenixTales
 author: PhoenixTales
 include:
   - "_img"
-  - "vision"
-  - "mechanics"
-  - "story"
-  - "promo"
-  - "sound"
 theme: null
 
 livereload: true # Rebuilds the site and reloads the page.

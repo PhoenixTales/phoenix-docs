@@ -9,7 +9,7 @@
     </head>
     
     <body>
-      <nav>
+      <nav class="main-nav">
         <div class="menu-wrapper">
             <input type="checkbox" id="menu-toggle">
             <label for="menu-toggle">
@@ -38,6 +38,12 @@
           {{ content }}
         </section>
       </main>
+
+      {% if page.name != "index.md" %}
+        <nav class="toc">
+          {% include toc.html html=content sanitize=true ordered=true h_min=2 %}
+        </nav>
+      {% endif %}
       
       <div class="dir">
         <a href="{{page.dir}}">{{page.dir}}</a><span>{{page.name}}</span>

@@ -229,40 +229,39 @@ Apart from working on Phoenix I work on other Gothic related things. I translate
 {: .first-comment }
 
 <!--
-    <h2>
+    
       <img class="dev" src="team/jonas2.png" alt="Jonas">
 <pre>
 +----------------+
 | <span class="green">admafi (Jonas)</span> |
 +----------------+
 <span class="ore">// Composer</span></pre>
-    </h2>
   
-    <h4>Who are you?
+    Who are you?
     
 
-    <h4>How did you come to Phoenix Tales?
+    How did you come to Phoenix Tales?
     
 
-    <h4>Why do you love Gothic so much?
+    Why do you love Gothic so much?
     
 
-    <h4>What do you do in the project?
+    What do you do in the project?
     
     
-    <h4>Which programmes do you use for your tasks?
-    
-
-    <h4>What are your favourite camps and guilds in Gothic/Phoenix?
+    Which programmes do you use for your tasks?
     
 
-    <h4>What are your favourite games?
+    What are your favourite camps and guilds in Gothic/Phoenix?
     
 
-    <h4>What is your favourite music?
+    What are your favourite games?
     
 
-    <h4>What do you do other than that?
+    What is your favourite music?
+    
+
+    What do you do other than that?
     
   -->
 
@@ -465,7 +464,7 @@ Florian, July 2 2022  [last update: 25-10-2023]
 If you want to support me and Phoenix Tales, you can do so on [Ko-Fi](https://ko-fi.com/flosha).
 
 <!--   
-    <h3><span class="red">CONTACT</span></h3>
+    ><span class="red">CONTACT</span>
 
     <ul>
       <li>Email:   <span class="clink"><a href="mailto:mail@phoenixtales.de">mail@phoenixtales.de</a></span></li>
