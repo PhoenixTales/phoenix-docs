@@ -9,14 +9,6 @@ Update:  21.08.2024
 
 Similarly to how the level structure document has given an abstract overview of the levels without actually dealing with the appearance or story of these levels, this document is supposed to give an abstract overview of the population in the colony; how many belong to which guild, how many belong to which camp, how many are mere "background actors" ("ambient npcs") in the drama and how many play an actual role and carry an "individual name", as well as how these numbers changed in course of development and what we can deduce from these changes, without dealing with the design of these camps, guilds and characters themselves. 
 
-
-**Content:**
-1. [Numbers by Guilds](#numbers-by-guilds)
-2. [Numbers by Camps](#numbers-by-camps)
-3. [Numbers of Individual Names](#numbers-of-individual-names)
-4. [Miscellaneous Numbers](#miscellaneous-numbers)
-5. [Conclusions](#conclusions)
-
 ---
 
 

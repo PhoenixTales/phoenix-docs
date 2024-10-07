@@ -20,33 +20,6 @@ Definition: As the *Northeast* we define everything north of the northern river 
 Some of the background story of these locations may be mentioned in course of this document in so far as they are of importance for design decisions; but the locations will be dealt with in regard to their lore or their relevance for the story mainly in the other, respective sections of the documentation.  
 {: .subtext }
 
-**Content:**  
-1. Alpha Research
-   1. [Origins of the Cliff](#origins-of-the-cliff)
-   2. [Maps of the Artdirector](#maps-of-the-art-director)
-   3. [Concept Art](#concept-art)
-   4. [3D Models](#3d-models)
-      1. [Pre-Alpha World Models](#pre-alpha-world-models)
-      2. [Alpha World Models](#alpha-world-models)
-         1. [A Hole in the Mesh](#a-hole-in-the-mesh)
-         2. [AM in 0.7 to 0.9](#am-in-07-09)
-         3. [Alpha Path into the Valley](#alpha-path-into-the-valley)
-         4. [Old Temple Ruins](#old-temple-ruins)
-      3. [Final World Model](#final-world-model)
-   5. [Summary](#summary)
-2. Phoenix Design
-   1. [Exchange Place](#exchange-place)
-   2. [Northern Forest](#northern-forest)
-      1. [First Approach](#first-approach) (2022)
-      2. [Second Approach](#second-approach) (Nov 2023)
-      3. [Final Solution](#final-solution) (Sep 2024)
-   3. [The Cliff](#the-cliff)
-   4. [Northern Lake(s)](#northern-lakes)
-   5. [Abandoned Mine](#abandoned-mine) 
-   6. [Quentins Camp](#quentins-camp) 
-   7. [The Old Temple](#the-old-temple)
-
-
 
 ## Alpha Research
 
@@ -327,11 +300,15 @@ And especially: How I could realise all of this inspite of the Old Temple (Monas
 
 #### First Approach
 
+[modeled in 2022]
+
 The northern forest I had first implemented in a smaller form by changing the terrain in the north of the river but almost without touching (or relocating) the mountain terrain leading to the AM, which I thought was way too much work to pull off. This way the forest was not connected to the Abandoned Mine - I tried to solve this by including a second, lower entrance at the bottom of the mountain instead. And in order to make this forest more special I came up with a tricky hack by which I could let a side stream of the river flow "through" the forest - or at least create the illusion that it does -, which is very problematic from a technical side.  
 This way I realised a forest in the north without any need to change much of the mountain terrain leading to the exchange place. I did spend at least 50 hours on this solution. But the forest was much smaller than the one known from v0.56c and v0.64b *and* there was no lake. I had a forest in the north now, but had realised almost nothing of the initially conceived progression of the player that should arrive here from the lake. In the end, the work was mostly in vain.
 
 
 #### Second Approach
+
+[modeled in ~Nov 2023]
 
 There simply was no space for the northern forest and the lake, as the mountain range began immediately behind the river. But when compared with the release version, in the pre-alpha models of the world the northern environment did stretch further into the north. 
 
@@ -373,6 +350,8 @@ All of my problems with the Old Temple Ruins I had could have been avoided when 
 
 
 #### Final Solution
+
+[modeled in ~Sep-Oct 2024]
 
 Now I had implemented the forest already *twice*, in two different approaches and a lot of this work has been in vain. 
 

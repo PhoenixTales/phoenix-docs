@@ -4,19 +4,6 @@
 **Author:** Flosha  
 
 
-**Content:**  
-1. [What is Gothic?](#what-is-gothic)
-2. [Gothic Aesthetics](#gothic-aesthetics)
-    1. [Gothic Fiction](#gothic-fiction)
-    2. [Gothic in Other Media](#gothic-in-other-media)
-    3. [Gothic Subculture](#gothic-subculture)
-3. [Gothic Fantasy](#gothic-fantasy)
-    1. [High Fantasy vs. Low Fantasy](#high-fantasy-vs-low-fantasy)
-    2. [Gothic Horror & the target audience](#gothic-horror--the-target-audience)
-4. [Gothic as an Immersive Sim](#gothic-as-an-immersive-sim)
-5. [Gothic (re)defined](#gothic-redefined)
-
-
 ## What is Gothic?
 
 In order to create a gothic drama we have to define what “Gothic” is.  

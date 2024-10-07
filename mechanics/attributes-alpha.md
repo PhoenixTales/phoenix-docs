@@ -7,21 +7,6 @@
 At first we'll analyse the attributes as imagined in the concept phase by analysing all the available design documents. Then we look at the attributes as they were implemented in the actual builds of the game and how they changed in course of development. 
 
 
-**Content:**
-
-1. [Primary & Secondary Attributes](#primary--secondary-attributes)
-2. [Attribute Progression](#attribute-progression)
-    1. [Default Attribute Values for NPCs](#default-attribute-values-for-npcs)
-3. [Attributes & Classes](#attributes--classes)
-4. [Cut Attributes](#cut-attributes)
-5. [Function of Attributes](#function-of-attributes)
-    1. [Mana, Will & Madness](#mana-will--madness)
-6. [Visualisation of Attributes](#visualisation-of-attributes)
-    1. [Visualisation vs. Representation](#visualisation-vs-representation)
-        1. [Simplifying the HUD](#simplifying-the-hud)
-        2. [Overcoming the HUD](#overcoming-the-hud)
-
-
 ## Primary & Secondary Attributes
 
 Based on the high number of items we assume that the very first list of attributes, that Mike put together in his handwritten notes, is to be found among his ideas on spells (p.8 of the spells.pdf where we have published all of Mikes spells notes combined). It is the oldest mentioning of attributes we know of and perhaps the oldest source there is.  

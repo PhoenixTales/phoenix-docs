@@ -10,22 +10,6 @@
 
 **Author:** Flosha
 
-**Content:**
-
-1. [Preface](#preface)
-2. [What is Gothic?](#what-is-gothic-working-title-phoenix)
-    1. [Story and Setting](#story-and-setting)
-    2. [Direct Interaction](#direct-interaction---essence-of-roleplaying)
-    3. [Key Elements](#key-elements)
-3. [1. Key Element: Visualisation](#1-key-element-visualisation)
-4. [2. Key Element: A Living world](#2-key-element-a-living-world-npc-behaviour-and-immersion)
-    1. [World Design](#world-design)
-    2. [Sound Design](#sound-design)
-5. [3. Key Element: Classes and Playstyles](#3-key-element-classes-and-playstyles)
-6. [Multiplayer](#multiplayer)
-7. [Making of a fantasy RPG](#making-of-a-fantasy-rpg)
-8. [Summary](#summary)
-
 
 ## Preface
 

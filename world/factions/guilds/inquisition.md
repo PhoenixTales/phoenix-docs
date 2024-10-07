@@ -31,12 +31,12 @@ Last change: 07.09.2024
 * They have special defenses against specific magic and psionic attacks and are experts at identifying magic.
 
 
-### Inq vs. Mage
+## Inq vs. Mage
 
 * In a 1 vs 1 fight, an Inquisitor would probably win against a mage, because their entire training is to fight demons, heretics and witches, who are magic users. They have special defenses against specific kinds of magic, are good at noticing and recognizing magic, and are trained in dagger fight. But they cannot for example cast magic missiles themselves like mages can. When fighting with enemies other than mages, the firemage is more powerful than almost anyone else including inquisitors. But when fighting mages, witches and demons, there's no one better than inquisitors.
 
 
-### Hierarchy 
+## Hierarchy 
 
 * Both the Inquisition and the Circle Of Fire are part of the royal council.
 * The Circle Of Fire is the clerical elite. They stand above the royal judges ("immunity of mundane matters") and roughly equal Inquisitors in rank (and they're in a mutual disagreement about their authority and who has more). 

@@ -2,32 +2,6 @@
 
 **Author:** Flosha
 
-**Content:**
-
-1. [Who were the Mad Scientists?](#who-were-the-mad-scientists)
-2. [Who was Piranha Bytes?](#who-was-piranha-bytes)
-3. [Who is Phoenix Tales?](#who-is-phoenix-tales)
-4. [What is GOTHIC?](#what-is-gothic)
-5. [What is the Gothic Sequel?](#what-is-the-gothic-sequel)
-6. [What is PHOENIX?](#what-is-phoenix)
-    1. [What is Orpheus (Act I)?](#what-is-orpheus-act-i)
-    2. [What is Nemesis (Act II)?](#what-is-nemesis-act-ii)
-    3. [What about the official successors?](#what-about-the-official-successors)
-7. [What is GOTHIC/PHOENIX Canon?](#what-is-gothicphoenix-canon)
-8. [Legal Issues](#legal-issues)
-9. [Why is X different than in Demo Y?](#why-is-x-different-than-in-demo-y)
-10. [What are the features of PHOENIX?](#what-are-the-features-of-phoenix)
-    1. [Orpheus](#orpheus)
-    2. [Nemesis](#nemesis)
-11. [Which engine is PHOENIX driven by?](#which-engine-is-phoenix-driven-by)
-12. [Will there be voice acting?](#will-there-be-voice-acting)
-13. [Is there new music?](#is-there-new-music)
-14. [Is Phoenix a modification?](#is-phoenix-a-modification)
-15. [System requirements](#system-requirements)
-16. [Release date?](#release-date)
-17. [How to support? ](#how-to-support)
-
-
 ## Who were the Mad Scientists?
 
 The Mad Scientists were the three programmers Dieter Hildebrandt, Ulf Wohlers and Bert Speckels. Inspired by games like Ultima Underworld (1992) and System Shock (1994) they wanted to make their own game (3D Realtime RPG, first person) with influences both from fantasy and science-fiction and without unnecessary interface elements and statistics. They wrote their own DOS Engine ('Space and Time') and prepared a demo named [Finster](https://gothicarchive.org/demos/finster/) in 1996 (released by us in 2022) that they'd send to various publishers to find a team to develop the game they dreamed of. 

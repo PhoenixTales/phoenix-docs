@@ -5,12 +5,6 @@
 ``Last update: 25.09.2024``  
 
 
-**Content:**
-* [Multiplayer Concepts](#multiplayer-concepts)
-* [Reasons for the Cancellation](#reasons-for-the-cancellation)
-* [Critique of Impure Reason](#critique-of-impure-reason)
-
-
 ## Multiplayer Concepts
 
 From the very beginning of the development, Gothic had always been promoted as having a multiplayer story mode (which we call "Coop" today). It was an essential part of the project that they wanted to realise, mentioned all the time in interviews:

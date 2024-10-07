@@ -125,4 +125,4 @@ Update: At the 15th anniversary of STALKER I came up with a new STALKER variant 
 
  
 **Read next:**
-* [Behind the ASCII Art](/Appendix/behind-the-scenes/behind-the-ascii)
+* [Behind the ASCII Art](/Appendix/behind-the-scenes/ascii)

@@ -11,21 +11,6 @@ Please be aware that nothing of what is described here is currently worked at. I
 {: .subtext }
 
 
-**Content:**
-* [Story Mode](#story-mode)
-    * [Short Stories](#short-stories)
-* [Freeplay Mode](#freeplay-mode)
-* [Scenarios](#scenarios)
-   * [*Arena*](#arena)
-   * [*Survival*](#survival)
-   * [*Raid*](#raid)
-   * [*Assassination*](#assassination)
-   * [*Convoy*](#convoy)
-   * [*Ore Strike*](#ore-strike)
-* [Unlocking Content](#unlocking-content)
-* [Interface](#interface)
-
-
 ### Story Mode
 
 For the story mode, as the "heart" of the multiplayer, we start by different premises. It must be as it is in any good story-coop where there are separate characters to be played. Never would or should a character say the same as another character or be told the same by NPCs as another character. The first solution, that Mike describes as very bad, we see as the only reasonable one, but only when seen in combination with pre-narrated characters. It is the only one that is in accordance with the design principles and the idea of a storydriven immersive sim rpg. 
