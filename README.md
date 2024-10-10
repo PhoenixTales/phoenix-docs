@@ -37,7 +37,7 @@ The docs are work in progress, they are currently rewritten and will be unlocked
 
 3. From the root directory of the project, run this command to install the required gems `bundle install`.
 
-4. Then run the development server `bundle exec jekyll serve`, then open http://127.0.0.1:4000 in your browser. If not needed anymore, to stop the server press `ctrl/command + c`.
+4. Then run the development server `bundle exec jekyll serve`, or `bundle exec jekyll serve --force_polling` if you see that Jekyll does not rebuild the site on change, which is an issue on Windows, then open http://127.0.0.1:4000 in your browser. If not needed anymore, to stop the server press `ctrl/command + c`.
 
 #### How it works
 
