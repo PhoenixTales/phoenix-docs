@@ -13,6 +13,7 @@ These questions are related, according to my current understanding, to a conflic
 
 These misunderstandings become clear in the question of how the split of the mages in the colony occured. Nyul described the events as such, that the mages split after the creation of the barrier and seemed to suggest, that they were *one* circle before. He has written it as such in the dialogue with Saturas and he (or Filler) has also written a book in the Sequel that suggested the same (see [/phoenix-allegory](/lore/phoenix-allegory)).
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Mages vs. Priests
 

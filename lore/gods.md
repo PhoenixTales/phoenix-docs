@@ -7,6 +7,8 @@ Last update: 24.09.2024
 ```
 {: .info }
 
+<!-- TOC_PLACEHOLDER -->
+
 ## Gods of Myrtana
 
 *Flosha, 09.09.2024 - 10.09.2024*

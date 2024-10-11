@@ -6,6 +6,7 @@
 
 Based on our research of the [Alpha Attributes](/mechanics/attributes-alpha), in this second part, we will present our own solution for Phoenix, how we reconstruct the old attributes and how we develop the relevant concepts further.  
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Reconstructing the Attributes
 

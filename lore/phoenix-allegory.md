@@ -12,6 +12,7 @@ As the Phoenix Allegory we are describing a riddle from the Sequel (authored by 
 It is very surprising, that the radical implications of these writings for the background story have not yet been dealt with by anyone in the Gothic Community I would be aware of; they rather keep speculating and spreading false theories about these aspects of the lore, inspite of the fact, that there is an actual explanation given for these events by one of the three main story authors. 
 {: .subtext }
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Book 1 - The Trail of the Phoenix
 
@@ -172,7 +173,7 @@ At the end of the trail, when returning back to where it began, the player disco
 
 ---
 
-### Original Text
+## Original Text
 
 **1. Die Spur des Phoenix:**
 > *Der Sturm zieht auf. Ich weiss es und kann doch nicht dagegen ankämpfen. Ich selbst verhalf einst dem Sturm zu seiner Macht und sonnte mich in seinem Glanz. Doch nun ist der Bund mit dem Sturm zum Pakt mit dem Teufel geworden und meine Seele ist verloren.*  

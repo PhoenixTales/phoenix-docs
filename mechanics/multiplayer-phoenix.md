@@ -10,6 +10,7 @@ The Phoenix multiplayer - if ever realised - will be divided into three sections
 Please be aware that nothing of what is described here is currently worked at. It should be seen as an attest of a potential future realisation; of how a multiplayer story mode as imagined by the founders could be realised and of potential other modes that could fit Phoenix well; in many cases the technical framework has already been realised in the community, but the specifics are our unique concepts.  
 {: .subtext }
 
+<!-- TOC_PLACEHOLDER -->
 
 ### Story Mode
 

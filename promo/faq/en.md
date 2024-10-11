@@ -2,6 +2,8 @@
 
 **Author:** Flosha
 
+<!-- TOC_PLACEHOLDER -->
+
 ## Who were the Mad Scientists?
 
 The Mad Scientists were the three programmers Dieter Hildebrandt, Ulf Wohlers and Bert Speckels. Inspired by games like Ultima Underworld (1992) and System Shock (1994) they wanted to make their own game (3D Realtime RPG, first person) with influences both from fantasy and science-fiction and without unnecessary interface elements and statistics. They wrote their own DOS Engine ('Space and Time') and prepared a demo named [Finster](https://gothicarchive.org/demos/finster/) in 1996 (released by us in 2022) that they'd send to various publishers to find a team to develop the game they dreamed of. 

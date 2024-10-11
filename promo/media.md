@@ -6,6 +6,7 @@ Created: 19.05.2023
 Changed: 19.05.2023
 ```
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Screenshots
 

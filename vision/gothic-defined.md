@@ -3,6 +3,7 @@
 
 **Author:** Flosha  
 
+<!-- TOC_PLACEHOLDER -->
 
 ## What is Gothic?
 

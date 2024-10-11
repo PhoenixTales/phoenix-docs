@@ -307,7 +307,6 @@ footer {
 }
 
 .article ol {
-  font-family: monospace;
   font-size: 14px;
 
   counter-reset: item;
@@ -320,10 +319,6 @@ footer {
 .article ol>li { 
   counter-increment: item;
   padding-left: 1em;
-}
-
-.article li>ol>li {
-  border-left: 1px dashed var(--stone);
 }
 
 .article ol>li::before { 

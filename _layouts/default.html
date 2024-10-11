@@ -35,15 +35,28 @@
       
       <main>
         <section class="article">
-          {{ content }}
+          {% capture page_content %}
+            {{ content }}
+          {% endcapture %}
+          
+          {% capture toc_content %}
+            {% include toc-mobile.html %}
+          {% endcapture %}
+
+          {% assign toc_placeholder = '<!-- TOC_PLACEHOLDER -->' %}
+        
+          <!-- Replace the placeholder with the TOC include -->
+          {% assign page_content = page_content | replace: toc_placeholder, toc_content %}
+        
+          {{ page_content }}
         </section>
       </main>
 
-      {% if page.name != "index.md" %}
+      <!-- {% if page.name != "index.md" %}
         <nav class="toc">
           {% include toc.html html=content sanitize=true ordered=true h_min=2 %}
         </nav>
-      {% endif %}
+      {% endif %} -->
       
       <div class="dir">
         <a href="{{page.dir}}">{{page.dir}}</a><span>{{page.name}}</span>

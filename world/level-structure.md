@@ -11,6 +11,7 @@ In this document we are dealing with the abstract level structure. We list every
 
 What we do not deal with here are the positions of these levels in the game world or how these positions changed (for this read "Evolution of the Map") unless it is about a change in the structure of dungeons which were thereby connected or disconnected, nor do we deal with how those levels were changed in their particular design (which we do in "World Design"). 
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Initial Level Structure (1996-1997)
 

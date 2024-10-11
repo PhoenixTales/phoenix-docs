@@ -17,6 +17,7 @@ Updated: 08.09.2024
 * Groups of black guardsmen are sometimes seen on their own under the command of a commander, when doing regular jobs. But at more complex operations they are always accompanied by one or two Inquisitors and work under their command.
 * Based on the *Imperial Demonhunters* from the Sequel
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Background
 

@@ -15,6 +15,7 @@ In the World Design documentation we will "meta-analyse" this evolution of the m
 Our findings here will also be important in order to deal with the layout of the underworld in relation to the overworld; or in other words - for the expected position of dungeons in relation to the world above and the interconnection of these dungeons. While this is not of importance in GOTHIC, where there is no interconnection left whatsoever, it will be of importance in PHOENIX, where this interconnection finally finds its way into the game and requires a layout of the dungeons underneath the surface that makes these connections believable. 
 {: .subtext}
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Mikes Concepts
 

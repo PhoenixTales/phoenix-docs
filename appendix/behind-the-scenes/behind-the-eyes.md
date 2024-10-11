@@ -149,14 +149,14 @@ Florian aka flosha - March 30, 2021
 
 <a href="https://gothicarchive.org/postrelease/AJourneyToMike/index.html">Go to our Anniversary Special</a> 
 
-### Links
+## Links
 
 * [phoenixthegame.com](https://phoenixthegame.com)
 * [gothicarchive.org](https://gothicarchive.org)
 * [phoenixtales.de](https://phoenixtales.de) 
   
 
-### Support
+## Support
 
 If you want to support me and PhoenixTales and give something in return for the work on Phoenix, the Gothic Archive, our Phoenix Documentation or Essays like this one, you can do so [via ko-fi](https://ko-fi.com/flosha). 
 

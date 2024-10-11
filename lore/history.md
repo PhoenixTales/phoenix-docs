@@ -9,6 +9,7 @@
 
 > Im Namen König Rhobar II, Träger des Zepters von Varant, Vereiniger der vier Reiche am Myrthanischen Meer, … [A]
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Kings between Rhobar I and II
 

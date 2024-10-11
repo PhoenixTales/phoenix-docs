@@ -12,6 +12,8 @@ These different play modes or challenges are not to be misunderstood with common
 **Note:** Both the names and the specifics of those modes are *work in progress*, they have to be balanced later in development and are open to debate. 
 {: .subtext }
 
+<!-- TOC_PLACEHOLDER -->
+
 ## Asleep 
 Regeneration is always activated and you can safe whenever you want. Time to get wet, pussy. 
 ```

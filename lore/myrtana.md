@@ -8,6 +8,8 @@ A "gothic kingdom", "in a distant land" ruled by Rhobar II., who re-united four 
 
 The gameworld is a location within Myrtana.
 
+<!-- TOC_PLACEHOLDER -->
+
 ## Etymology
 
 * ***mýrr*** - old norse for: moor, swamp, bog, german "Moor", also see myrmark (“marshland, bogland”)

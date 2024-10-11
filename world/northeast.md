@@ -20,6 +20,7 @@ Definition: As the *Northeast* we define everything north of the northern river 
 Some of the background story of these locations may be mentioned in course of this document in so far as they are of importance for design decisions; but the locations will be dealt with in regard to their lore or their relevance for the story mainly in the other, respective sections of the documentation.  
 {: .subtext }
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Alpha Research
 
