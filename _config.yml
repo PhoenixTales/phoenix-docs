@@ -7,6 +7,12 @@ theme: null
 
 livereload: true # Rebuilds the site and reloads the page.
 
-# By default the original markdown files will be included as static pages in the output. To remove them from the output, set the remove_originals key to true. https://github.com/benbalter/jekyll-optional-front-matter?tab=readme-ov-file#configuration
+# Here only plugins are included, which will be used during local development, GitHub Pages itself uses some plugins that are enabled by default and cannot be disabled - https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins.
+plugins:
+ - jekyll-default-layout
+ - jekyll-optional-front-matter
+ - jekyll-titles-from-headings
+
+# Remove original markdown files from the output.
 optional_front_matter:
   remove_originals: true
