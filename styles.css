@@ -264,8 +264,6 @@ footer {
   padding: 1em 1em;
   display: flex;
   justify-content: space-between;
-  grid-column-start: 2;
-  grid-row-start: 2;
   grid-area: footer;
 }
   footer ul {
