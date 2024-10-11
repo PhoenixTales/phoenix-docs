@@ -1,6 +1,8 @@
 /* by flosha */
 
-* {
+*,
+::before,
+::after {
   box-sizing: border-box;
   /* overflow-x: hidden; */
   margin: 0;
@@ -129,7 +131,7 @@ h4::before, h5::before, h6::before {
   grid-area: nav;
 }
 
-.main-nav, .toc {
+.main-nav, .toc-desktop {
   scrollbar-width: thin;
   scrollbar-color: var(--dark) var(--black);
 }
@@ -228,12 +230,12 @@ h4::before, h5::before, h6::before {
     }
   */
   
-  .main-nav::-webkit-scrollbar-track, .toc::-webkit-scrollbar-track {
+  .main-nav::-webkit-scrollbar-track, .toc-desktop::-webkit-scrollbar-track {
     background: var(--black);
     background-size: 40px;
   }
 
-  .main-nav::-webkit-scrollbar-thumb, .toc::-webkit-scrollbar-thumb {
+  .main-nav::-webkit-scrollbar-thumb, .toc-desktop::-webkit-scrollbar-thumb {
     background-image: url("/nyx.ico");
     background-position: center center;
     background-repeat: no-repeat;
@@ -304,26 +306,6 @@ footer {
 
 .article p {
   margin: 1em 0;
-}
-
-.article ol {
-  font-size: 14px;
-
-  counter-reset: item;
-  list-style-type: none;
-
-  padding-left: 0;
-  padding-bottom: 0.5em;
-}
-
-.article ol>li { 
-  counter-increment: item;
-  padding-left: 1em;
-}
-
-.article ol>li::before { 
-  content: counters(item, '.') '. '; 
-  color: #6a6a6a;
 }
 
 .article ul.list-small {
@@ -615,9 +597,34 @@ label[for="menu-toggle"]  {
 
 /* TOC */
 
-.toc {
+.toc ol {
+  counter-reset: item;
+  list-style-type: none;
+
+  padding-left: 0;
+  padding-bottom: 0.5em;
+}
+
+.toc ol > li { 
+  counter-increment: item;
+  padding-left: 1em;
+}
+
+.toc ol > li::before { 
+  content: counters(item, '.') '. '; 
+  color: #6a6a6a;
+}
+
+.toc-mobile {
+  font-size: 14px;
+  /* TODO: when the desktop ToC will be used, hide the mobile one, and make it visible on the mobile screen. */
+  /* display: none; */
+}
+
+/* Just experimental styles, which should be reconsidered. */
+.toc-desktop {
   --top-offset: 70px;
-  --bottom-offset: 65px;
+  --bottom-offset: 85px;
   position: sticky;
   top: var(--top-offset);
   display: grid;
@@ -626,40 +633,21 @@ label[for="menu-toggle"]  {
   padding-right: 10px;
   max-width: 300px;
   overflow: auto;
-  max-height: calc(100dvh - var(--top-offset) - 20px - var(--bottom-offset));
+  max-height: calc(100dvh - var(--top-offset) - var(--bottom-offset));
   grid-column-start: 2;
   grid-row: 1 / 2;
   justify-self: end;
   font-size: 12px;
 }
 
-.toc:empty {
+.toc-desktop:empty {
   display: none;
-}
-
-.toc ol {
-  counter-reset: item;
-  list-style-type: none;
-  
-  padding-left: 0;
-  padding-bottom: 0.5em;
-}
-  
-.toc ol>li {
-  counter-increment: item;
-  padding-left: 1em;
-}
-
-.toc ol>li::before { 
-  content: counters(item, '.') '. '; 
-  font-size: 12px;
-  color: #6a6a6a;
 }
 
 
 @media only screen
 and (max-width : 1380px) {
-    .toc {
+    .toc-desktop {
         display: none;
     }
 }

@@ -473,3 +473,9 @@ If you want to support me and Phoenix Tales, you can do so on [Ko-Fi](https://ko
       <li>Discord: <span class="clink"><a href="https://discord.gg/CK4VAR7fpH">discord.gg/CK4VAR7fpH</a></span></li>
     </ul>
 -->
+
+<style>
+ .toc > ol > li > ol > li > ol {
+    display: none;
+  }
+</style>
