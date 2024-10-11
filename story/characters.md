@@ -288,6 +288,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 * Baloro              // 
 * Blade / Klinge      // 
 * Cord  / Strick?     //
+* Damos / ?           // Friend of Gorn?
 * Dailah              //
 * Jarvis              // 
 * Kharim              //
@@ -582,6 +583,13 @@ They are all using their own or clerical names, none of them have to be translat
 * Xardas / Necron (in Story 3.3)
 
 
+#### Druids
+
+* Gygax [F]
+* Elmore [F]
+
+
+
 ### Orcs of Bloodearth Clan
 
 * Uruk
@@ -689,6 +697,69 @@ What we will not address here is how the characters will develop in course of th
 * Skeinar, das Fantom?
 
 
+### Gorn
+
+NPC from Finster that found its way into Gothic. In Finster he is a guard of the "Tolben" people from Tolbenland, like *Damos*.
+Etymology: ...
+
+### Damos
+
+NPC from Finster, see Gorn.
+
+
+### Gygax
+
+NPC from Finsterr. Being the most powerful druid in Tolbenland, he lives at royal court of Cranwater.
+
+### Elmore
+
+Mage/alchemist, assistant of Gygax.
+
+
+### Fenwick
+
+A mage in Finster. Lives in a cave accessible by underwater tunnel leading from Cranwater moat.
+
+
+### Verne
+
+Who is he?
+Sent scroll for Fenwick.
+"embittered old Cran".
+
+### Mahr 
+
+Priest in Finster.
+
+
+### Oruc 
+
+A king in Finster, father of Lyra. He is taken by the Mad Scientists from the novel *Wyrms* (1987). 
+
+> King Oruc, fearing Patience or Peace could be a danger to his reign, keeps them under control by allowing only one of them to leave the castle at a time. However, this delicate hostage situation falls apart when Peace becomes ill. Before he dies, Patience cuts into Peace's shoulder to retrieve a crystal globe hidden under his skin. "The scepter of the Heptarchs," he says. "Never let a gebling know you have it."
+
+> Only moments after Peace dies, King Oruc sends an assassin after Patience. She easily dispatches him and leaves the castle, stopping to visit her father's preserved head in Slaves' Hall, where the heads of the wisest people are kept alive by headworms. Since the heads are coerced to speak only the truth, Patience forces her father to divulge his darkest secrets.
+
+> Peace reveals that since Patience's birth, he had been fighting a powerful compulsion to bring her to Cranning, home of the geblings. The "Cranning Call," as it was known, drew the world's greatest thinkers and achievers to make a pilgrimage to Cranning, never to be seen or heard from again. Peace says the source of the Call is the Unwyrm, attempting to summon Patience to his lair.
+
+The Mad Scientists also used Cranwater as a location, "Cran" as a folk/race and Unwyrn too, being heavily inspired by the novel. 
+
+> She relives the moment when the Starship Captain, lured through lust to the surface, mates with the Wyrm in its lair beneath a glacier that would later become Cranwater.
+
+
+
+
+### Lyra
+
+(Lyre?) sick daughter of the king Oruc.
+From Finster.
+
+
+### Gargravarr 
+
+Someone who cursed some people to be ghosts? From Finster.
+
+
 ### Nek 
 
 * "Nek" ist eine Anspielung auf Tod.
@@ -704,3 +775,8 @@ What we will not address here is how the characters will develop in course of th
 ### Russel / Rotger
 
 We choose Rotger as his german equivalent, which is an old german name, nowadays most often spelled Roettger, with spelling variations like Ruder, Rodger, Rotheger, Rotoga, Reutter and *Russer*. 
+
+
+### Snogu
+
+* To "snog" is slang and means as much as "to kiss" and to hold someone sexually. Based on this idea Snogu could be something like "Küsser", "Necker", but "Snogger" would be a more fitting nickname in that case... What could Snogu mean other than that?
