@@ -9,6 +9,7 @@ Last update: 20.09.2024
 
 Phoenix is promoted by us as a "story-driven rpg" and so was Gothic. But what does this even mean? 
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Interactivity vs. Player-Dependency
 

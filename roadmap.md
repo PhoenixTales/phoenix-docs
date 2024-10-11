@@ -11,6 +11,7 @@ TLDR: Right now Flosha is working alone on the documentation and on the Phoenix 
 
 There is no one else currently at work. A few long-term contributors support us occasionally. 
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Short-term Goal
 

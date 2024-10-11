@@ -24,6 +24,8 @@
 PhoenixTales was founded in 2017 by me and logx as an independent team of developers around the creation of PHOENIX. In "[Making of Phoenix Tales](https://docs.phoenixthegame.com/appendix/behind-the-scenes/logo)", I have described how I designed the bird and the logo, which represent our team.  
 In this one I want to give you some insight into our organisation, how it functions, what we do and who we are.
 
+<!-- TOC_PLACEHOLDER -->
+
 Since we work from home with everyone of us being in a different country, we organise our work via chats and meetings, currently on a private Discord Server. While we would prefer a free and open source alternative, we are using it for convenience purposes and because of how strongly our internal work is associated with the community and the public research on our official Phoenix Server. We can't deny that Discord provides a very useful and convenient platform for gaming communities and we use it for this purpose, but we have to strongly advise against using it for any kind of private communication.
 
 Our code and ressources are managed by GitHub, including our assets. We don't just use Git to manage our current build of Phoenix, but we have all our websites hosted there too, which enables others to contribute and help us fixing stuff (in theory; it doesn't really happen :P).
@@ -229,40 +231,39 @@ Apart from working on Phoenix I work on other Gothic related things. I translate
 {: .first-comment }
 
 <!--
-    <h2>
+    
       <img class="dev" src="team/jonas2.png" alt="Jonas">
 <pre>
 +----------------+
 | <span class="green">admafi (Jonas)</span> |
 +----------------+
 <span class="ore">// Composer</span></pre>
-    </h2>
   
-    <h4>Who are you?
+    Who are you?
     
 
-    <h4>How did you come to Phoenix Tales?
+    How did you come to Phoenix Tales?
     
 
-    <h4>Why do you love Gothic so much?
+    Why do you love Gothic so much?
     
 
-    <h4>What do you do in the project?
+    What do you do in the project?
     
     
-    <h4>Which programmes do you use for your tasks?
-    
-
-    <h4>What are your favourite camps and guilds in Gothic/Phoenix?
+    Which programmes do you use for your tasks?
     
 
-    <h4>What are your favourite games?
+    What are your favourite camps and guilds in Gothic/Phoenix?
     
 
-    <h4>What is your favourite music?
+    What are your favourite games?
     
 
-    <h4>What do you do other than that?
+    What is your favourite music?
+    
+
+    What do you do other than that?
     
   -->
 
@@ -465,10 +466,16 @@ Florian, July 2 2022  [last update: 25-10-2023]
 If you want to support me and Phoenix Tales, you can do so on [Ko-Fi](https://ko-fi.com/flosha).
 
 <!--   
-    <h3><span class="red">CONTACT</span></h3>
+    ><span class="red">CONTACT</span>
 
     <ul>
       <li>Email:   <span class="clink"><a href="mailto:mail@phoenixtales.de">mail@phoenixtales.de</a></span></li>
       <li>Discord: <span class="clink"><a href="https://discord.gg/CK4VAR7fpH">discord.gg/CK4VAR7fpH</a></span></li>
     </ul>
 -->
+
+<style>
+ .toc > ol > li > ol > li > ol {
+    display: none;
+  }
+</style>

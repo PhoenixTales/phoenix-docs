@@ -2,31 +2,7 @@
 
 **Author:** Flosha
 
-**Content:**
-
-1. [Who were the Mad Scientists?](#who-were-the-mad-scientists)
-2. [Who was Piranha Bytes?](#who-was-piranha-bytes)
-3. [Who is Phoenix Tales?](#who-is-phoenix-tales)
-4. [What is GOTHIC?](#what-is-gothic)
-5. [What is the Gothic Sequel?](#what-is-the-gothic-sequel)
-6. [What is PHOENIX?](#what-is-phoenix)
-    1. [What is Orpheus (Act I)?](#what-is-orpheus-act-i)
-    2. [What is Nemesis (Act II)?](#what-is-nemesis-act-ii)
-    3. [What about the official successors?](#what-about-the-official-successors)
-7. [What is GOTHIC/PHOENIX Canon?](#what-is-gothicphoenix-canon)
-8. [Legal Issues](#legal-issues)
-9. [Why is X different than in Demo Y?](#why-is-x-different-than-in-demo-y)
-10. [What are the features of PHOENIX?](#what-are-the-features-of-phoenix)
-    1. [Orpheus](#orpheus)
-    2. [Nemesis](#nemesis)
-11. [Which engine is PHOENIX driven by?](#which-engine-is-phoenix-driven-by)
-12. [Will there be voice acting?](#will-there-be-voice-acting)
-13. [Is there new music?](#is-there-new-music)
-14. [Is Phoenix a modification?](#is-phoenix-a-modification)
-15. [System requirements](#system-requirements)
-16. [Release date?](#release-date)
-17. [How to support? ](#how-to-support)
-
+<!-- TOC_PLACEHOLDER -->
 
 ## Who were the Mad Scientists?
 
@@ -323,7 +299,7 @@ They are mere fragments. Phoenix is the mosaic.
 <a id="features"></a>
 <summary>Welche Features bietet PHOENIX?</summary>
 
-<ul class="features"><h3>ORPHEUS</h3>
+<ul class="features">ORPHEUS
   <li>Gothic im Stil der Alpha(s): Interface, Menüs, Artworks, Schriftarten, Texturen, Farbgebung etc.</li>
   <li>Alpha (Cut-)Content rekonstruiert/re-implementiert: NPCs, Monster, Rüstungen, Items, Vegetation, Attribute und Skills, die gesamte Alpha Spielwelt und ihre Dungeons (Orkstadt und Verlassene Mine)</li>
   <li>Umsetzung (Modellierung und Texturierung) sämtlicher Konzeptzeichnungen von Ralf Marczinczik, Mike Hoge und Frank Ziemlinski</li>
@@ -373,7 +349,7 @@ They are mere fragments. Phoenix is the mosaic.
 * New Soundtrack with samples from KaiRo, based on the drafts of Marco Rademacher for the Sequel and our own ideas.
 
 <!--
-  <ul class="features"><h3>NEMESIS</h3>
+  <ul class="features">NEMESIS
   <li>"Alpha-Sequel"; eine Rekonstruktion des Sequels auf Basis von Orpheus (Alphastil, Spielwelt usw.), mit allen vier für das Sequel geplanten Kapiteln und mehr</li>
   <li>Rekonstruktion der überarbeiteten Sequel Spielwelt (Altes Lager und Bergfeste) und tiefgreifende Überarbeitung der übrigen Spielwelt (Neues Lager, Altes Kastell, Freie Mine, Sumpflager, die Oberwelt und neue Gebiete)</li>
   <li>Intelligente und tiefgreifende Weiterentwicklung der für das Sequel geplanten Geschichte mit mehreren Enden</li>

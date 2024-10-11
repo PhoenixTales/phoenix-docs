@@ -22,6 +22,7 @@ The sound design in THIEF is very similar to this, just that there it is always 
 **Slow vs. Fast Stealth:**  
 Similar to Splinter Cell the movement speed needs to be seemlessly scalable from sneaking very slowly to running fast. Stealth characters can both be versatile in slow stealth (which means gameplay in the style of *Thief*) as well as in fast stealth, e.g. for evasion (which would be gameplay in the style of *Assassins*).
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Stealth Perceptions
 

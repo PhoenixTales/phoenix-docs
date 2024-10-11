@@ -9,7 +9,7 @@ Rewrite: 08.06.2024 - 16.09.2024
 First we list all the geographic names from our [sources](/lore/lore) and what we know about them from said sources. Then we summarise our own interpretation in short terms: What they are, what they mean, climatic and cultural characreristics and a short summary of their historic implications and relevance for the drama. 
 
 
-## Locations mentioned in the sources
+**Locations mentioned in the sources:**
 
 * [Myrtana](#locations-of-myrtana) [G]
   * [Tymoris](#locations-of-myrtana) [G]
@@ -26,7 +26,7 @@ First we list all the geographic names from our [sources](/lore/lore) and what w
   * [Land of the Shirtakkihn](#land-of-the-shirtakkihn) [N]
 * [Varant](#varant) [G]
   * [Thyria](#thyria) [S]
-* [Far South](#far-south) [N]
+* [Far South](#the-far-south) [N]
 
 * [Laran](#laran) [G]
 * [Syriana](#syriana) [G]

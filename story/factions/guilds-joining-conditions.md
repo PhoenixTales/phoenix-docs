@@ -31,7 +31,7 @@ Mike first described "joining conditions" (such as a minimum level you had to ha
 
 We are using the guild system v1 and v2, the Phoenix Main Mission doc, the Story v3.3 and all kinds of smaller notes and scribbles as our sources here.
 
----
+<!-- TOC_PLACEHOLDER -->
 
 ## Joinable Guilds
 

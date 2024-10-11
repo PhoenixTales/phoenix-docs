@@ -10,21 +10,7 @@ The Phoenix multiplayer - if ever realised - will be divided into three sections
 Please be aware that nothing of what is described here is currently worked at. It should be seen as an attest of a potential future realisation; of how a multiplayer story mode as imagined by the founders could be realised and of potential other modes that could fit Phoenix well; in many cases the technical framework has already been realised in the community, but the specifics are our unique concepts.  
 {: .subtext }
 
-
-**Content:**
-* [Story Mode](#story-mode)
-    * [Short Stories](#short-stories)
-* [Freeplay Mode](#freeplay-mode)
-* [Scenarios](#scenarios)
-   * [*Arena*](#arena)
-   * [*Survival*](#survival)
-   * [*Raid*](#raid)
-   * [*Assassination*](#assassination)
-   * [*Convoy*](#convoy)
-   * [*Ore Strike*](#ore-strike)
-* [Unlocking Content](#unlocking-content)
-* [Interface](#interface)
-
+<!-- TOC_PLACEHOLDER -->
 
 ### Story Mode
 

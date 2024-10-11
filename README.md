@@ -37,11 +37,11 @@ The docs are work in progress, they are currently rewritten and will be unlocked
 
 3. From the root directory of the project, run this command to install the required gems `bundle install`.
 
-4. Then run the development server `bundle exec jekyll serve`, then open http://127.0.0.1:4000 in your browser. If not needed anymore, to stop the server press `ctrl/command + c`.
+4. Then run the development server `bundle exec jekyll serve`, or `bundle exec jekyll serve --force_polling` if you see that Jekyll does not rebuild the site on change, which is an issue on Windows, then open http://127.0.0.1:4000 in your browser. If not needed anymore, to stop the server press `ctrl/command + c`.
 
 #### How it works
 
-GitHub has a built in support for Jekyll sites, but it is very restrictive, since it only supports these [gems/plugins/etc](https://pages.github.com/versions/). To be able to enforce those versions while testing the site locally, [github-pages](https://github.com/github/pages-gem) gem is used to match GitHub Pages build environment as close as possible. Also this gem already includes most of the jekyll plugins and jekyll itself with the supported versions, and automatically includes them in `_config.yml` so they could be used to test the site locally. More info about GitHub Pages and Jekyll [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
+GitHub has a built in support for Jekyll sites, but it is very restrictive, since it only supports these [gems/plugins/etc](https://pages.github.com/versions/). To be able to enforce those versions while testing the site locally, [github-pages](https://github.com/github/pages-gem) gem is used to match GitHub Pages build environment as close as possible. Also this gem already includes most of the jekyll plugins and jekyll itself with the supported versions, those just have to be included in the `_config.yml`, so they could be used to test the site locally. More info about GitHub Pages and Jekyll [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll).
 
 Also, despite this built in support of GitHub Pages uses a specific version of ruby, it doesn't mean that this exact version have to be used when testing the site locally, the only requirement is that all of the installed gems supported your locally installed version of ruby (See the first step in Local testing/development).
 

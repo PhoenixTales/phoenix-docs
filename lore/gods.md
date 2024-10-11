@@ -7,24 +7,7 @@ Last update: 24.09.2024
 ```
 {: .info }
 
-
-**Content:**
-
-* [Gods of Myrtana](#gods-of-myrtana)
-  * [Innos and Ra](#innos-and-ra)
-    * [Identification of Innos with Ra](#identification-of-innos-with-ra)
-    * [Ancient Symbols of the Gods](#ancient-symbols-of-the-gods)
-  * [Beliar, Vandras, Gotha or Kasakk](#beliar-vandras-gotha-or-kasakk)
-  * [Adanos, Adrastos or Cyvanis](#adanos-adrastos-or-cyvanis)
-  * [Relation of the Gods](#relation-of-the-gods)
-    * [Will of the Gods](#will-of-the-gods)
-    * [Divine Justice](#divine-justice)
-    * [Time & Change](#time--change)
-    * [Beyond Good & Evil](#beyond-good--evil)
-  * [Gods in Relation to Men](#gods-in-relation-to-men)   
-* Demons
-  * Demons in Relation to Men
-
+<!-- TOC_PLACEHOLDER -->
 
 ## Gods of Myrtana
 

@@ -6,30 +6,7 @@
 
 Based on our research of the [Alpha Attributes](/mechanics/attributes-alpha), in this second part, we will present our own solution for Phoenix, how we reconstruct the old attributes and how we develop the relevant concepts further.  
 
-
-**Content:**
-
-1. [Reconstructing the Attributes](#reconstructing-the-attributes)
-    1. [Primary & Secondary Attributes](#primary--secondary-attributes)
-        1. [Strength, Constitution, Hitpoints](#strength-constitution-hitpoints)
-        2. [Dexterity, Hitchance & Risk](#dexterity-hitchance--risk)
-        3. [Will, Psi & Madness](#will-psi--madness)
-    2. [The Arts](#the-arts)
-        1. [Psionics](#psionics)
-        2. [Arcanery](#arcanery)
-        3. [Weaponry](#weaponry)
-        4. [Thievery](#thievery)
-    3. [Arts <> Attributes Correlation](#arts--attributes-correlation)
-        1. [Attribute Scaling](#attribute-scaling)
-2. [Attribute Progression](#attribute-progression)
-    1. [Phoenix' Default Values](#phoenix-default-values)
-3. [Phoenix HUDs](#phoenix-huds)
-    1. [Enhanced Symbol HUD](#enhanced-symbol-hud)
-    2. [Enhanced Bar HUD](#enhanced-bar-hud)
-4. [Beyond the HUD](#beyond-the-hud)
-    1. [Possession](#possession)    
-5. [Summary](#summary)
-
+<!-- TOC_PLACEHOLDER -->
 
 ## Reconstructing the Attributes
 

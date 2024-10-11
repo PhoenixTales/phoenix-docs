@@ -10,6 +10,10 @@ DE | [EN](AJourneyToMike_en) | [PL](AJourneyToMike_pl) | [RO](AJourneyToMike_ro)
 ## Eine Reise zu Mike Hoge zum 20. Jubiläum von Gothic
 ```
 
+<!-- TOC_PLACEHOLDER -->
+
+## Einsame Weihnacht
+
 24.12.2020 - Neuer Eintrag im Tagebuch
 {: .new-entry }
     

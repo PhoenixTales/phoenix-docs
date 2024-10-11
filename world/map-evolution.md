@@ -8,24 +8,14 @@ Update:  07.04.2024
 ```
 {: .info }
 
-In the [Level Structure](/story/level-structure) document we analysed the abstract structure of the levels that were supposed to be in the game. Here we deal with the layout of these levels, of the surface or the "overworld" to be more specific (world.zen). We deal with (1) the scope of the barrier (2) the position of camps, forests, rivers, the ocean and important landmarks and (3) how they were moved around in course of development all the way to the final layout.
+In the [Level Structure](/world/level-structure) document we analysed the abstract structure of the levels that were supposed to be in the game. Here we deal with the layout of these levels, of the surface or the "overworld" to be more specific (world.zen). We deal with (1) the scope of the barrier (2) the position of camps, forests, rivers, the ocean and important landmarks and (3) how they were moved around in course of development all the way to the final layout.
 
 In the World Design documentation we will "meta-analyse" this evolution of the map, not by analysing one layout of the world after another, as we do here, but by looking at the individual locations specificially as they changed throughout development and speculating about the reasoning behind these changes, before we draw conclusions for our implementation of the overworld in PHOENIX. 
 
 Our findings here will also be important in order to deal with the layout of the underworld in relation to the overworld; or in other words - for the expected position of dungeons in relation to the world above and the interconnection of these dungeons. While this is not of importance in GOTHIC, where there is no interconnection left whatsoever, it will be of importance in PHOENIX, where this interconnection finally finds its way into the game and requires a layout of the dungeons underneath the surface that makes these connections believable. 
 {: .subtext}
 
-
-**Content:**  
-1. [Mikes Concepts](#mikes-concepts)
-    1. [First Map Sketch](#first-map-sketch)
-    2. [Orpheus Map V1](#orpheus-map-v1)
-    3. [Last Map Sketch](#last-map-sketch)
-2. [Ralfs Concepts](#ralfs-concepts)
-3. [V0.7 - V0.9](#v07---v09)
-4. [~v0.94 - 1.00](#v094---100)
-5. [Sequel Concepts](#sequel-concepts)
-
+<!-- TOC_PLACEHOLDER -->
 
 ## Mikes Concepts
 

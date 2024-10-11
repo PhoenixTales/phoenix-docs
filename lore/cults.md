@@ -4,16 +4,7 @@
 ``25.03.2024 - 13.06.2024``  
 ``Last update: 24.09.2024``  
 
-**Content:**
-* [Religion of Myrtana](#religion-of-myrtana)
-* [Cultic Wars & the Decline of Faith](#cultic-wars--the-decline-of-faith)
-* [Cult of the three Gods](#cult-of-the-three-gods)
-  * [Origins of the Cult](#origins-of-the-cult)
-* [Sect of the Sleeper](#sect-of-the-sleeper)
-* [Demon Sect](#demon-sect)
-* [Orcish Shamanism](#orcish-shamanism)
-* [Cultic Practices](#cultic-practices)
-
+<!-- TOC_PLACEHOLDER -->
 
 ## Religion of Myrtana
 

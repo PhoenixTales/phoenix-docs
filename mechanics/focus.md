@@ -6,6 +6,7 @@ The focus is an idea for a sort of an internal attribute which unlocks "special"
 
 I invented the *focus* basically due to a sort of "asymmetry" in design between the magic vs. non-magic classes. While Mage and Psionic have an Attribute (Arcane and Psionics) that scales a dynamic Status Attribute that can be filled and deplenished (Mana and Psi), the Warrior and Thief have an Attribute (Weaponry and Thievery) that scales a Status Attribute that is static (can not be filled or deplenished). But since they too have special attacks or abilities (equivalent to the plethora of special abilities in form of spells of the magic classes), the usage of these abilities had also to be limited in some kind of way; "focus" serves as their equivalent to Mana and Psi. 
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Warriors
 

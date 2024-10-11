@@ -8,6 +8,7 @@ Last update: 09.09.2024
 
 Here we are primarily focusing on the definition and role of Khorinis as a location in the grand scheme of the history of Myrtana, while the more elaborated history of the *City* in particular will be dealt with in the city design documentation. 
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Etymology
 

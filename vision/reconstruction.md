@@ -12,7 +12,6 @@ What we want to do is to realise the original vision of Gothic as PHOENIX withou
 And in order to do so, our primariy directive is to take into account *everything* (regarding the pre-release material of Gothic and its Sequel). Everything that was included, as well as everything that was not included, but announced, planned and promised, everything that couldn't be realised or was discarded for whatever reason. We are taking into account every iteration of the story, every idea for a quest, every concept art and every sketch.  
 But by taking all of this into account, we have to decide what to do with it. We have to differentiate different cases in order to clarify how to deal with a specific idea or content on a case by case basis. For this purpose we have "Criteria of Reconstruction" as described below (translated from German to English and slightly updated at 27.03.2024).
 
-
 ## Criteria of Reconstruction
 
 We differentiate nine different cases of content to clarify.

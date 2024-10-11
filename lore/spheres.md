@@ -13,6 +13,7 @@
 
 In the World of Gothic there is the concept of different spheres. The here and now, the sphere of the living, is described as *Morgrad* in the book *Astronomie* [G]. The Demonworld was an early concept which in the alpha plot was supposed to appear in form of a couple of explorable level sections but had no dedicated name, although at times it has been associated with the "realm of Beliar". To add the 'astral' as a third sphere concept was an idea by Dmitriy based on hints found in books like the "sphere of heaven" or the "ethereal sphere" as well as handwritten design documents. The names, other than Morgrad, come from me and are based on my writings about the old language. 
 
+<!-- TOC_PLACEHOLDER -->
 
 ## Spheres in Phoenix
 

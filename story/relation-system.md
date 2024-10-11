@@ -7,6 +7,8 @@ Last Update: 17.09.2024
 ```
 {: .info }
 
+<!-- TOC_PLACEHOLDER -->
+
 *29.09.2021*
 
 When confronted with the complexity of the story that we had reconstructed according to all of the early ideas and shaped according to our own, the questdesign became a struggle and we were in need of order in this chaos. It was too complex to keep an overview. We needed a system, a scheme.

@@ -16,27 +16,32 @@ Last change: 07.09.2024
 * there is no right to appeal after the verdict of an Inquisitor
 * together with the royal guard and the secret "shadows" they form the special services of the kingdom
 
-**Attire:**  
+<!-- TOC_PLACEHOLDER -->
+
+## Attire
+
 * their robes are black (natural black / ashen wool and dark leather), optionally with crimson details (such as amulets).
 * may cover all or a part of their face with a mask (some may wear a Vidocq styled mirror mask - can only be made by highly experienced clerical goldsmiths/glassblowers of the order from a yet undefined crystal-like material).
 
-**Royal Judges vs. Inquisitors:**
+## Royal Judges vs. Inquisitors
+
 * *Jurisdictional Responsibility:* Royal judges are responsible exclusively for worldly matters and crimes, Inquisitors are responsible exclusively for hereticism ("religious crimes" of non-initiated alchemists, witches, sects etc.) This is the main distinction that defines them jurisdictionally.
 * *Clerical Background:* Royal judges are never clerics. Inquisitors are always clerics.
 
-**Training:**
+## Training
+
 * Just like priests they start as monks in an order. A few selected ones get the honour to be initiated into the circle of fire. While a few others are selected to be trained by the order of the Inquisition.
 * Just like priests they have to study religious law, and everything about the not so mundane matters, all about heretics, magic, paranormal occurences etc.
 * The inquisitors are trained in their order by other inquisitors and clerical scholars in law and in both anti-magic and dagger and/or sword fighting skills.
 * They have special defenses against specific magic and psionic attacks and are experts at identifying magic.
 
 
-### Inq vs. Mage
+## Inq vs. Mage
 
 * In a 1 vs 1 fight, an Inquisitor would probably win against a mage, because their entire training is to fight demons, heretics and witches, who are magic users. They have special defenses against specific kinds of magic, are good at noticing and recognizing magic, and are trained in dagger fight. But they cannot for example cast magic missiles themselves like mages can. When fighting with enemies other than mages, the firemage is more powerful than almost anyone else including inquisitors. But when fighting mages, witches and demons, there's no one better than inquisitors.
 
 
-### Hierarchy 
+## Hierarchy 
 
 * Both the Inquisition and the Circle Of Fire are part of the royal council.
 * The Circle Of Fire is the clerical elite. They stand above the royal judges ("immunity of mundane matters") and roughly equal Inquisitors in rank (and they're in a mutual disagreement about their authority and who has more). 
