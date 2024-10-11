@@ -288,6 +288,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 * Baloro              // 
 * Blade / Klinge      // 
 * Cord  / Strick?     //
+* Damos / ?           // Friend of Gorn?
 * Dailah              //
 * Jarvis              // 
 * Kharim              //
@@ -582,6 +583,13 @@ They are all using their own or clerical names, none of them have to be translat
 * Xardas / Necron (in Story 3.3)
 
 
+#### Druids
+
+* Gygax [F]
+* Elmore [F]
+
+
+
 ### Orcs of Bloodearth Clan
 
 * Uruk
@@ -687,6 +695,57 @@ What we will not address here is how the characters will develop in course of th
 * But as a nickname, "Schein" doesn't seem like a good solution. 
 * *Schein* comes from Middle High German schīn, Old High German scīn, skīn (“shine, brightness, light, ray”), from Proto-West Germanic *skīn, from Proto-Germanic *skīną. Cognate with Old Norse skína, Old Saxon scīnan, Old English sċīn (“phantom, ghost”), Dutch schijn, English shine, Gothic 𐍃𐌺𐌴𐌹𐌽𐌰𐌽 (skeinan).
 * Skeinar, das Fantom?
+
+
+### Gorn
+
+NPC from Finster that found its way into Gothic. In Finster he is a guard of the "Tolben" people from Tolbenland, like *Damos*.
+Etymology: ...
+
+### Damos
+
+NPC from Finster, see Gorn.
+
+
+### Gygax
+
+NPC from Finsterr. Being the most powerful druid in Tolbenland, he lives at royal court of Cranwater.
+
+### Elmore
+
+Mage/alchemist, assistant of Gygax.
+
+
+### Fenwick
+
+A mage in Finster. Lives in a cave accessible by underwater tunnel leading from Cranwater moat.
+
+
+### Verne
+
+Who is he?
+Sent scroll for Fenwick.
+"embittered old Cran".
+
+### Mahr 
+
+Priest in Finster.
+
+
+### Oruc 
+
+A king in Finster, father of Lyra.
+
+
+### Lyra
+
+(Lyre?) sick daughter of the king Oruc.
+From Finster.
+
+
+### Gargravarr 
+
+Someone who cursed some people to be ghosts? From Finster.
 
 
 ### Nek 
