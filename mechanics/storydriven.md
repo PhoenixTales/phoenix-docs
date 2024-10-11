@@ -9,6 +9,9 @@ Last update: 20.09.2024
 
 Phoenix is promoted by us as a "story-driven rpg" and so was Gothic. But what does this even mean? 
 
+
+## Interactivity vs. Player-Dependency
+
 A game driven by story is *not* a film with passages of interactivity, but a game with a simulated story in a simulated world with simulated A-life that the player can constantly interact and interfere with. 
 
 This interactivity should be consistent in the game logic, which we may call "interaction consistency": What NPCs can do, the player character in theory must also be able to do and vice versa.
@@ -20,7 +23,7 @@ What is not interactive is not *played*. The more a game is playable the more ga
 
 This understanding of what a game should be forms the basis to several design decisions regarding our gameplay. But what makes this gameplay *story-driven*?
 
-In consequence of a believable simulated stage of this gothic drama we want to make, the story and the world as the stage of the story should evolve on their own, if the player interferes with it or not.
+In consequence of a believable simulated stage of this gothic drama we want to make, the story and the world as the stage of the story should evolve on their own, if the player interferes with it or not. Making everything player-dependent, so that he has full control about everything, is not what we mean by interactivity. On the contrary, he should *not* have control about the story, but he should be able to interact with everything that happens in a believable way according to his chosen role. 
 
 In that it is story driven, it is of course pre-narrated to a high degree, but not in a linear way, but in what we may call a multi-dynamic-simultaneous narrative. It is...
 
