@@ -744,6 +744,10 @@ A king in Finster, father of Lyra. He is taken by the Mad Scientists from the no
 
 The Mad Scientists also used Cranwater as a location, "Cran" as a folk/race and Unwyrn too, being heavily inspired by the novel. 
 
+> She relives the moment when the Starship Captain, lured through lust to the surface, mates with the Wyrm in its lair beneath a glacier that would later become Cranwater.
+
+
+
 
 ### Lyra
 
