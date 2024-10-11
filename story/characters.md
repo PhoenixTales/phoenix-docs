@@ -734,7 +734,15 @@ Priest in Finster.
 
 ### Oruc 
 
-A king in Finster, father of Lyra.
+A king in Finster, father of Lyra. He is taken by the Mad Scientists from the novel *Wyrms* (1987). 
+
+> King Oruc, fearing Patience or Peace could be a danger to his reign, keeps them under control by allowing only one of them to leave the castle at a time. However, this delicate hostage situation falls apart when Peace becomes ill. Before he dies, Patience cuts into Peace's shoulder to retrieve a crystal globe hidden under his skin. "The scepter of the Heptarchs," he says. "Never let a gebling know you have it."
+
+> Only moments after Peace dies, King Oruc sends an assassin after Patience. She easily dispatches him and leaves the castle, stopping to visit her father's preserved head in Slaves' Hall, where the heads of the wisest people are kept alive by headworms. Since the heads are coerced to speak only the truth, Patience forces her father to divulge his darkest secrets.
+
+> Peace reveals that since Patience's birth, he had been fighting a powerful compulsion to bring her to Cranning, home of the geblings. The "Cranning Call," as it was known, drew the world's greatest thinkers and achievers to make a pilgrimage to Cranning, never to be seen or heard from again. Peace says the source of the Call is the Unwyrm, attempting to summon Patience to his lair.
+
+The Mad Scientists also used Cranwater as a location, "Cran" as a folk/race and Unwyrn too, being heavily inspired by the novel. 
 
 
 ### Lyra
