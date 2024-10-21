@@ -760,6 +760,11 @@ From Finster.
 Someone who cursed some people to be ghosts? From Finster.
 
 
+### Judas
+
+Maybe rename into Judex, based on the character of the same name. 
+
+
 ### Nek 
 
 * "Nek" ist eine Anspielung auf Tod.
