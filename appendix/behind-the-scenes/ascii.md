@@ -1340,8 +1340,6 @@ Avallach put the colourised ASCII into a .svg in order to prevent having all tha
   }
 
   main > img {
-    display: block;
-    max-width: 100%;
     margin: inherit auto;
     width: 50%;
   }

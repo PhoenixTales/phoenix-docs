@@ -1,3 +1,18 @@
+{% capture page_content %}
+  {{ content }}
+{% endcapture %}
+
+{% capture toc_content %}
+  {% include toc-mobile.html %}
+{% endcapture %}
+
+{% assign toc_placeholder = '<!-- TOC_PLACEHOLDER -->' %}
+
+<!-- Replace the placeholder with the TOC include -->
+{% assign page_content = page_content | replace: toc_placeholder, toc_content %}
+
+{% include content-without-style-tag.liquid pageContent=page_content %}
+
 <!doctype html>
 <html lang="en">
     <head>
@@ -6,11 +21,12 @@
         <title>{{site.title}} | {{page.title}}</title>
         <link rel="stylesheet" href="/styles.css">
         <link rel="icon" type="image/x-icon" href="/nyx.ico" />
+        {% include page-style-tag.liquid pageContent=page_content %}
     </head>
     
     <body>
       <nav class="main-nav">
-        <div class="menu-wrapper">
+        <div class="menu-bar">
             <input type="checkbox" id="menu-toggle">
             <label for="menu-toggle">
                 <span class="menu-icon">&#8801;</span>
@@ -35,20 +51,7 @@
       
       <main>
         <section class="article">
-          {% capture page_content %}
-            {{ content }}
-          {% endcapture %}
-          
-          {% capture toc_content %}
-            {% include toc-mobile.html %}
-          {% endcapture %}
-
-          {% assign toc_placeholder = '<!-- TOC_PLACEHOLDER -->' %}
-        
-          <!-- Replace the placeholder with the TOC include -->
-          {% assign page_content = page_content | replace: toc_placeholder, toc_content %}
-        
-          {{ page_content }}
+          {{ contentWithoutStyleTag }}
         </section>
       </main>
 

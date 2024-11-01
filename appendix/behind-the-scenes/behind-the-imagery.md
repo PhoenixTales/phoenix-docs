@@ -31,8 +31,6 @@ In course of the years of development, I created different kinds of imagery for 
 <style>
 
     .article img {
-        max-width: 100%;
-        display: block;
         margin-left: auto;
         margin-right: auto;
         min-width: 400px;
