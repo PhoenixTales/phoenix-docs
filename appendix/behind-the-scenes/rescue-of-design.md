@@ -422,8 +422,6 @@ Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, d
     }
 
     .article img {
-        display: block;
-        max-width: 100%;
         margin-left: auto;
         margin-right: auto;
     }
