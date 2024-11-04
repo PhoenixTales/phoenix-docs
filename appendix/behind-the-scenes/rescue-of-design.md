@@ -48,7 +48,7 @@ Ab und zu schaute ich ins Forum unter [worldofgothic.de](https://worldofgothic.d
 Und es kamen weitere Geschenke.
 
 
-### Ich will bei euch mitmachen
+## Ich will bei euch mitmachen
 
 <!-- 01.01.2021 -->  
 Neuer Eintrag im Tagebuch
@@ -84,7 +84,7 @@ Sie haben uns nicht enttäuscht. So wurde Phoenix Tales zu einem Team von Mensch
 
 
 
-### Die Vision der Alpha
+## Die Vision der Alpha
 
 Neuer Eintrag im Tagebuch
 {: .new-entry }
@@ -151,7 +151,7 @@ Indem ich darauf meinen Fokus lege, zeige ich, dass GOTHIC so viel mehr war, als
 Viva la (Re)Vision!
 
 
-### Besuch von Mike
+## Besuch von Mike
 
 30.12.2020 - Neuer Eintrag im Tagebuch
 {: .new-entry }
@@ -200,7 +200,7 @@ Nach über 20 Jahren verbanden sich zwei Spieler im LAN per Hamachi und liefen z
 Gothic begeistert. Auch noch nach 20 Jahren.
 
 
-### Besuch bei Mike
+## Besuch bei Mike
 
 Neuer Eintrag im Tagebuch
 {: .new-entry }
@@ -263,7 +263,7 @@ Seit Corona liegt die Akrobatik auf Eis. Der Zirkus, der Sport - am Boden, all d
 Als ich endlich im Zug war, sah ich mir die Dokumente an und konnte der Community vom Treffen erzählen. Mit kalten, zittrigen Händen packte ich die Ordner aus und nahm zum ersten mal die Schätze in den Blick, die ich bei mir hatte.
 
 
-#### Die Design Konzepte
+### Die Design Konzepte
     
 31.01.2021 - Neuer Eintrag im Tagebuch  
 {: .new-entry }
@@ -306,7 +306,7 @@ Süßer Schlaf, bittere Träume... Gothic lebt zwar, aber schläft. An seinem Gr
 ---
 
 
-### Die Digitalisierung
+## Die Digitalisierung
 
 01.02.2021 - Neuer Eintrag im Tagebuch 
 {: .new-entry }
@@ -349,7 +349,7 @@ Jedenfalls konnte ich so ein weiteres Interview mit ihm für das Jubiläum organ
 Nun sind nicht nur Gothic Alpha Fans aus aller Welt, sondern auch immer mehr Gothic Entwickler in unserem Channel versammelt. Wir hoffen, dass es noch ein paar mehr werden, wenn auch nicht alle dem Spiel noch so verbunden sind wie Mike und Tom. Doch die Motivation, über die ich mich an Weihnachten gefreut hätte - hier ist sie. Ein Dank an all unsere Supporter, die uns im Channel motivieren.
 
 
-### Was wir hier tun 
+## Was wir hier tun 
  
 Gothic entstand unter der Prämisse, dass das Design der Spiele jener Zeit grundlegende Probleme habe, die man lösen wollte. Man wollte sich nicht einfach nur einreihen in das Erfolgskonzept anderer Spiele ihrer Zeit (wenn es auch im Hinblick auf Spielmechaniken viele Inspirationen gab), sondern abweichen. Weil man von den eigenen Ideen überzeugt war, die man an anderer Stelle nicht fand. Ihre Vision war getrieben nicht nur von der Idee, etwas eigenes zu tun, sondern etwas anders zu tun. Der Grundsatz war: *Other games suck, we make our own.*
 
@@ -392,14 +392,14 @@ Florian aka flosha
 ```
 {: .center }
 
-### Links
+## Links
 
 * [phoenixthegame.com](https://phoenixthegame.com)
 * [gothicarchive.org](https://gothicarchive.org)
 * [phoenixtales.de](https://phoenixtales.de) 
   
 
-### Unterstützung
+## Unterstützung
 
 Wenn du mich und PhoenixTales unterstützen willst für die Arbeit an Phoenix, dem Gothic Archive, unserer Dokumentation oder Essays wie diesem, kannst du das [über ko-fi tun](https://ko-fi.com/flosha). 
 

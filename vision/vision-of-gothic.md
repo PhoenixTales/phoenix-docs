@@ -277,6 +277,7 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
         width: 100%;
     }
         main .article h1 {
+            margin-top: 120px;
             font-size: 20px;
         }
 

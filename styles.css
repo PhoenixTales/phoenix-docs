@@ -61,13 +61,15 @@ body {
   font-size: 16px;
   line-height: 1.6;
   min-height: 100dvh;
-
+  
   display: grid;
   grid-template-columns: 380px 1fr;
   grid-template-rows: 1fr;
   grid-template-areas:
     'nav main'
-    'nav footer';
+    'nav dir'
+    'nav footer'
+  ;
 }
 
 ::selection {
@@ -78,6 +80,10 @@ body {
 img {
   display: block;
   max-width: 100%;
+}
+
+img + img {
+  margin-top: 10px;
 }
 
 /* BASE HEADINGS */
@@ -211,20 +217,20 @@ hr {
 /* SCROLLBARS */
 
 .main-nav,
-.toc-desktop {
+.toc-desktop > ol {
   scrollbar-width: thin;
   scrollbar-color: var(--dark) var(--black);
 }
 
 /* These styles do not work since when the "scrollbar-width" and "scrollbar-color" styles are used they override the these prefixed styles. */
 .main-nav::-webkit-scrollbar-track,
-.toc-desktop::-webkit-scrollbar-track {
+.toc-desktop > ol::-webkit-scrollbar-track {
   background: var(--black);
   background-size: 40px;
 }
 
 .main-nav::-webkit-scrollbar-thumb,
-.toc-desktop::-webkit-scrollbar-thumb {
+.toc-desktop > ol::-webkit-scrollbar-thumb {
   background-image: url('/nyx.ico');
   background-position: center center;
   background-repeat: no-repeat;
@@ -238,6 +244,7 @@ hr {
   position: sticky;
   top: 0;
   height: 100dvh;
+  flex-shrink: 0;
   overflow-y: auto;
   overflow-x: hidden;
   font-size: 15px;
@@ -366,8 +373,7 @@ label[for='menu-toggle'] {
 
 main {
   padding: 0;
-  overflow: hidden;
-  height: 100%;
+  overflow-x: hidden;
   grid-area: main;
 }
 
@@ -585,30 +591,35 @@ main {
 
 .toc-mobile {
   font-size: 14px;
-  /* TODO: when the desktop ToC will be used, hide the mobile one, and make it visible on the mobile screen. */
-  /* display: none; */
+  display: none;
 }
 
-/* Just experimental styles, which should be reconsidered. */
 .toc-desktop {
-  --top-offset: 70px;
-  --bottom-offset: 85px;
   position: sticky;
-  top: var(--top-offset);
+  top: 0;
   display: grid;
   align-items: center;
-  margin: var(--top-offset) 30px 0px;
-  padding-right: 10px;
-  max-width: 300px;
-  overflow: auto;
-  max-height: calc(100dvh - var(--top-offset) - var(--bottom-offset));
-  grid-column-start: 2;
-  grid-row: 1 / 2;
-  justify-self: end;
+  padding: 10px 10px 60px;
+  width: 400px;
+  flex-shrink: 0;
+  height: 100dvh;
   font-size: 12px;
+  border-left: 5px solid var(--dark);
+  grid-column-start: 3;
+  grid-row: 1 / span 3;
 }
 
-.toc-desktop:empty {
+.toc-desktop > ol {
+  max-height: 100%;
+  overflow: auto;
+}
+
+.toc-desktop li {
+  max-width: 320px;
+  text-wrap: pretty;
+}
+
+.toc-desktop:not(:has(li)) {
   display: none;
 }
 
@@ -616,15 +627,27 @@ main {
 
 .dir {
   position: fixed;
-  width: 100%;
-  top: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: end;
+  z-index: 1;
+  /* Width is based on the ToC - ToC's left border. */
+  width: 395px;
   right: 0;
+  bottom: 0;
+  padding: 1em;
   text-align: right;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+  background: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
   font-family: 'IBM VGA 8x16', monospace;
   font-size: 15px;
-  padding: 1em 1em 2em;
   grid-area: dir;
+}
+
+body:not(:has(.toc-desktop)) .dir,
+body:has(.toc-desktop > ol:empty) .dir {
+  position: sticky;
+  padding-top: 2em;
+  width: initial;
 }
 
 /* FOOTER */
@@ -635,6 +658,7 @@ footer {
   font-size: 15px;
   text-transform: uppercase;
   border-top: 5px solid var(--dark);
+  /* To push the footer down if there is space. */
   padding: 1em 1em;
   display: flex;
   justify-content: space-between;
@@ -647,8 +671,18 @@ footer ul {
 }
 
 @media only screen and (max-width: 1380px) {
+  .toc-mobile:has(li) {
+    display: initial;
+  }
+  
   .toc-desktop {
     display: none;
+  }
+
+  .dir {
+    position: sticky;
+    padding-top: 2em;
+    width: initial;
   }
 }
 
@@ -657,10 +691,11 @@ footer ul {
 
   body {
     grid-template-columns: 1fr;
-    grid-template-areas:
+    grid-template-areas: 
       'main'
       'dir'
-      'footer';
+      'footer'
+    ;
   }
 
   body:has(#menu-toggle:checked) {
@@ -806,16 +841,6 @@ footer ul {
 
   .authorship img {
     max-width: 150px;
-  }
-
-  /* DIR */
-
-  .dir {
-    position: sticky;
-    top: initial;
-    bottom: 0;
-    background: linear-gradient(to top, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
-    padding: 2em 1em 1em;
   }
 
   /* FOOTER */

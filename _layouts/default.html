@@ -8,6 +8,14 @@
 
 {% assign toc_placeholder = '<!-- TOC_PLACEHOLDER -->' %}
 
+{% capture toc_desktop %}
+  {% if page_content contains toc_placeholder %}
+    <nav class="toc toc-desktop">
+      {% include toc.html html=page_content sanitize=true ordered=true h_min=2 %}
+    </nav>
+  {% endif %}
+{% endcapture %}
+
 <!-- Replace the placeholder with the TOC include -->
 {% assign page_content = page_content | replace: toc_placeholder, toc_content %}
 
@@ -55,15 +63,11 @@
         </section>
       </main>
 
-      <!-- {% if page.name != "index.md" %}
-        <nav class="toc toc-desktop">
-          {% include toc.html html=content sanitize=true ordered=true h_min=2 %}
-        </nav>
-      {% endif %} -->
-      
       <div class="dir">
         <a href="{{page.dir}}">{{page.dir}}</a><span>{{page.name}}</span>
       </div>
       {% include footer.html %}
+
+      {{ toc_desktop }}
     </body>
 </html>
