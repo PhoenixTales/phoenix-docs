@@ -298,9 +298,8 @@ As Mike said in 1998: "Fortunately, no one came too close to our vision of a 3D-
 </div>
 
 <!--
-## Read next
-
 * [A Clash of Dreams](/vision/clash-of-dreams.html)
+{: .readnext }
 -->
 
 <style>

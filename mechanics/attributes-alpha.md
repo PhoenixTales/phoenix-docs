@@ -376,9 +376,9 @@ It was not implemented in the end, be it by lack of time or by deliberate decisi
     </p>
 </div>
 
-## Read next 
 
 * [Phoenix Attributes](/mechanics/attributes-phoenix)
+{: .readnext }
 
 
 <style>

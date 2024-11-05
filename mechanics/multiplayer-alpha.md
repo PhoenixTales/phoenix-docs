@@ -125,9 +125,8 @@ While speaking of compromises they didn't want to make with the story, for which
 The (singleplayer) story of course has to have priority, as it is the basis of everything. But a multiplayer story can very well be realised and none of the major problems explained above exist when following a consequent approach in accordance with our principles of a storydriven immersive sim rpg. 
 
 
-## Read next
-
 * [Phoenix Multiplayer](/mechanics/multiplayer-phoenix)
+{: .readnext }
 
 
 <style>

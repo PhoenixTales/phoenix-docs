@@ -189,9 +189,8 @@ Now to the release version. Long story short, alongside the extremely simplified
 It should be obvious that our solution for PHOENIX is the return to the initial level structure as it found its most elaborated expression in the early Phoenix Concept shown above. How we will implement this structure in the actual level design and how the game world will change in course of it will be explained in the "World Design" docs. Nothing to change or to add here. 
 
 
-## Read next
-
 * [Evolution of the Map](/world/map-evolution)
+{: .readnext }
 
 
 <style>

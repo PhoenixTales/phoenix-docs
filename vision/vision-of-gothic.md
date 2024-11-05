@@ -262,9 +262,8 @@ There are, of course, also "straight" classes like fighter or combat mage. If yo
 </div>
 
 
-## Read next 
-
 * [Gothic defined](/vision/gothic-defined)
+{: .readnext }
 
 
 <style>
