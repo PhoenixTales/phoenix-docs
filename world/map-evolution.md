@@ -200,9 +200,8 @@ There is still a lot that has changed from the map above towards the final map. 
 In the original Gothic Sequel the layout of the world was obviously defined by the release version of Gothic and wasn't supposed to be changed. The world would still have been limited to the colony. Inspite of the destruction of the barrier that would allow them to display parts of the outside world, they did not plan to add additional terrain. Not because they didn't want to, but because they weren't able to in lack of time and level designers in the Sequel team.
 
 
-## Read next
-
 * World Design (wip)
+{: .readnext }
 
 
 <style>

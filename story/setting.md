@@ -3,29 +3,7 @@
 **Author:** Flosha  
 **Status:** wip  
 
-**Content:**
-
-1. [Preface](#preface)
-2. [Evolution of the Setting](#evolution-of-the-setting)
-    1. [Orpheus Concept (1995-1997)](#orpheus-concept-1995-1997)
-         1. [History](#history)
-         2. [Maps & Locations](#maps--locations)
-         3. [The Sleeper](#the-sleeper)
-         4. [The Four Crystals of Trazere](#the-four-crystals-of-trazere)
-    2. [Phoenix Concept (1998-2000)](#phoenix-concept-1998-2000)
-         1. [War against the Orcs](#war-against-the-orcs)
-         2. [The Mages](#the-mages)
-         3. [The Kings](#the-kings)
-         4. [The Four Realms](#the-four-realms)
-         5. [Island or Mainland](#island-or-mainland)
-         6. [Size of the Barrier](#size-of-the-barrier)
-3. [Decline of the Setting](#decline-of-the-setting)
-   1. [The Revolt](#the-revolt)
-   2. [Realms & Kings](#realms--kings)
-   3. [Halforcs & Orcs](#halforcs--orcs)
-   4. [Camps & Factions](#camps--factions)
-   5. [Summary](#summary)
-
+<!-- TOC_PLACEHOLDER -->
 
 
 ## Preface
@@ -308,6 +286,5 @@ It is hard to separate "setting" from story, in so far as the circumstances in w
 </div>
 
 
-## Read next 
-
 * Mythology (wip)
+{: .readnext }

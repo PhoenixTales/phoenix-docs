@@ -69,16 +69,16 @@ Author: Flosha   Written: 14.05.2023   Changed: 11.09.2024
 Please note that [Phoenix](https://phoenixthegame.com), the Phoenix Concept at hand and the entire [Gothic Archive](https://gothicarchive.org) created alongside the project are being developed non-commercially and primarily by one person at his free time. Domains and backup storage have to be paid too. If you want to support us or just give something in return for all the work and passion put into the project, you can do so [via ko-fi](https://ko-fi.com/flosha).
 
 
-## Read next 
-
-* [Vision](/vision/vision)
-
-
 ## Links
 
 * [phoenixtales.de](https://phoenixtales.de)
 * [phoenixthegame.com](https://phoenixthegame.com)
 * [gothicarchive.org](https://gothicarchive.org)
+
+<!-- This comment just separates two lists for them to not merge into one. -->
+
+* [Vision](/vision/vision-of-gothic.md)
+{: .readnext }
 
 
 <style>

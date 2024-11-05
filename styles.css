@@ -569,6 +569,38 @@ main {
   padding: 2em;
 }
 
+/* READNEXT */
+
+.readnext {
+  border-top: 3px solid var(--dark);
+  margin-top: 3em;
+  padding: 2em 2em 0 2em;
+  list-style: none;
+  width: fit-content;
+}
+
+.readnext:has(li:nth-child(2)) {
+  display: flex;
+  flex-direction: column;
+}
+
+.readnext::before {
+  content: 'Read next: ';
+  font-weight: 700;
+}
+
+.readnext:has(li:nth-child(2))::before {
+  margin-bottom: 1em;
+}
+
+.readnext li {
+  display: inline-block;
+}
+
+.readnext:has(li:nth-child(2)) li {
+  padding-left: 1em;
+}
+
 /* TOC */
 
 .toc ol {
