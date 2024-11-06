@@ -82,10 +82,6 @@ img {
   max-width: 100%;
 }
 
-img + img {
-  margin-top: 10px;
-}
-
 /* BASE HEADINGS */
 
 h1,
@@ -408,6 +404,10 @@ main {
 .article h6::before {
   content: '######';
   color: var(--demonic);
+}
+
+.article img + img {
+  margin-top: 10px;
 }
 
 .article p {
