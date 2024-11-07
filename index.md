@@ -77,7 +77,7 @@ Please note that [Phoenix](https://phoenixthegame.com), the Phoenix Concept at h
 
 <!-- This comment just separates two lists for them to not merge into one. -->
 
-* [Vision](/vision/vision-of-gothic.md)
+* [Vision](/vision/vision-of-gothic)
 {: .readnext }
 
 
