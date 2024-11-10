@@ -376,7 +376,6 @@ label[for='menu-toggle'] {
 }
 
 .index > ol > li > span {
-  /* margin-bottom: 0.3em; */
   display: block;
   width: fit-content;
   font-size: 15px;
