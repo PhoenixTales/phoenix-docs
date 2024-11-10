@@ -313,52 +313,141 @@ label[for='menu-toggle'] {
 /* INDEX NAVIGATION */
 
 .index {
-  /* width: 400px; */
-  padding: 0;
-  /*box-shadow: 0 0 20px 20px rgba(0,0,0,.8);*/
+  padding: 0 0.5em;
+}
+
+.nav-index-title {
+  text-transform: uppercase;
+  margin: 2em 0;
+  padding-left: 1.5em;
+  letter-spacing: 0.5em;
+}
+
+.index > ol {
+  --heading-half-size: 12px;
+  --counter: main;
+  counter-reset: var(--counter);
+}
+
+.index > ol > li:first-child {
+  --counter: preface;
+}
+
+.index > ol > li:last-child {
+  --counter: appendix;
+}
+
+.index > ol > li {
+  margin-bottom: 1.5px;
+  padding-left: 1.5em;
+  padding-bottom: 2em;
+  position: relative;
+}
+
+.index > ol > li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  border-left: 1px dashed var(--stone);
+}
+
+.index > ol > li:first-child::before {
+  top: var(--heading-half-size);
+  height: calc(100% - var(--heading-half-size));
+}
+
+.index > ol > li:last-child::before {
+  height: var(--heading-half-size);
+}
+
+.index > ol ol {
+  counter-reset: var(--counter);
 }
 
 .index ol,
 .index ul {
   list-style-type: none;
   font-family: monospace;
-  align-self: flex-start;
   font-size: 14px;
-  counter-reset: item;
-  padding-bottom: 0.5em;
+  padding-bottom: 0.3em;
   padding-left: 0;
 }
 
-.index ol > li {
+.index > ol > li > span {
+  /* margin-bottom: 0.3em; */
+  display: block;
+  width: fit-content;
+  font-size: 15px;
+}
+
+.index > ol > li:not(:first-child, :last-child) > span::before {
+  counter-increment: var(--counter);
+  content: counter(var(--counter), upper-roman) '. ';
+}
+
+.index > ol > li > span::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: var(--heading-half-size);
+  width: 0.8em;
+  border-top: 1px dashed var(--stone);
+}
+
+.index ol > li ol > li:not(:has(> details)):before {
+  counter-increment: var(--counter);
+  content: counters(var(--counter), '.') '. ';
+  color: #6a6a6a;
+}
+
+.index li > ol > li li {
+  /* The left margin is to align the border with the triangle better. The length is roughly the half width of the triangle. */
+  margin: 1.5px 0 1.5px 4px;
+  border-left: 1px dashed var(--stone);
   padding-left: 1em;
 }
-.index ul > li {
-  padding-left: 0;
+
+.index summary {
+  display: block;
+  position: relative;
+  width: fit-content;
+  cursor: pointer;
+  padding-left: 2ch;
 }
 
-.index ul > li::before {
+.index ol > li > details > summary:before {
+  counter-increment: var(--counter);
+  content: counters(var(--counter), '.') '. ';
+  color: #6a6a6a;
+}
+
+.index ul > li:not(:has(> details)):before {
   content: '[';
   padding-right: 0.3em;
   color: var(--gold);
 }
 
-.index ul > li::after {
+.index ul > li:not(:has(> details)):after {
   content: ']';
   padding-left: 0.3em;
   color: var(--gold);
 }
 
-.index ol > li {
-  counter-increment: item;
+.index summary::after {
+  position: absolute;
+  content: '▼';
+  left: 0;
+  top: 50%;
+  translate: 0 -50%;
+  rotate: 180deg;
+  font-size: 16px;
 }
 
-.index li > ol > li {
-  border-left: 1px dashed var(--stone);
-}
-
-.index ol > li::before {
-  content: counters(item, '.') '. ';
-  color: #6a6a6a;
+.index details[open] > summary::after {
+  color: var(--blood);
+  rotate: 0deg;
 }
 
 .doc-pdf {
