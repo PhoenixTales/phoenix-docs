@@ -865,6 +865,7 @@ footer ul {
   body:has(#menu-toggle:checked) .menu-bar {
     position: sticky;
     top: 0;
+    z-index: 1;
     margin-bottom: 40px;
     box-shadow: 0 30px 40px rgba(0, 0, 0, 0.1);
     backdrop-filter: blur(10px);
