@@ -324,6 +324,7 @@ label[for='menu-toggle'] {
 }
 
 .index > ol {
+  --triangle-size: 10px;
   --heading-half-size: 12px;
   --counter: main;
   counter-reset: var(--counter);
@@ -402,8 +403,7 @@ label[for='menu-toggle'] {
 }
 
 .index li > ol > li li {
-  /* The left margin is to align the border with the triangle better. The length is roughly the half width of the triangle. */
-  margin: 1.5px 0 1.5px 4px;
+  margin: 1.5px 0 1.5px calc(var(--triangle-size) / 2 - 0.5px);
   border-left: 1px dashed var(--stone);
   padding-left: 1em;
 }
@@ -413,7 +413,7 @@ label[for='menu-toggle'] {
   position: relative;
   width: fit-content;
   cursor: pointer;
-  padding-left: 2ch;
+  padding-left: calc(var(--triangle-size) + 1ch);
 }
 
 .index ol > li > details > summary:before {
@@ -436,17 +436,23 @@ label[for='menu-toggle'] {
 
 .index summary::after {
   position: absolute;
-  content: '▼';
+  content: '';
+  width: var(--triangle-size);
+  height: var(--triangle-size);
+  background-image: url("_img/triangle.svg");
+  background-repeat: no-repeat;
+  background-size: contain;
   left: 0;
   top: 50%;
   translate: 0 -50%;
   rotate: 180deg;
   font-size: 16px;
+  filter: brightness(0) invert(0.8);
 }
 
 .index details[open] > summary::after {
-  color: var(--blood);
   rotate: 0deg;
+  filter: none;
 }
 
 .doc-pdf {
