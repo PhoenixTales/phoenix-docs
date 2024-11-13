@@ -884,9 +884,17 @@ footer ul {
     user-select: none;
     cursor: pointer;
   }
-  label[for='menu-toggle']:hover {
+  
+  body:has(#menu-toggle:checked) label[for='menu-toggle'] {
     background-color: var(--blood);
     color: var(--black);
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    label[for='menu-toggle']:hover {
+      background-color: var(--blood);
+      color: var(--black);
+    }
   }
 
   label[for='menu-toggle'] > .menu-icon {
@@ -895,8 +903,14 @@ footer ul {
     color: var(--blood);
   }
 
-  label[for='menu-toggle']:hover > .menu-icon {
+  body:has(#menu-toggle:checked) label[for='menu-toggle'] > .menu-icon {
     color: var(--black);
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    label[for='menu-toggle']:hover > .menu-icon {
+      color: var(--black);
+    }
   }
 
   .header ul {
