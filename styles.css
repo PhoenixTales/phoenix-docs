@@ -212,25 +212,28 @@ hr {
 
 /* SCROLLBARS */
 
-.main-nav,
-.toc-desktop > ol {
-  scrollbar-width: thin;
+* {
   scrollbar-color: var(--dark) var(--black);
 }
 
-/* These styles do not work since when the "scrollbar-width" and "scrollbar-color" styles are used they override the these prefixed styles. */
-.main-nav::-webkit-scrollbar-track,
-.toc-desktop > ol::-webkit-scrollbar-track {
-  background: var(--black);
-  background-size: 40px;
+.main-nav,
+.toc-desktop > ol {
+  scrollbar-width: thin;
 }
 
-.main-nav::-webkit-scrollbar-thumb,
-.toc-desktop > ol::-webkit-scrollbar-thumb {
-  background-image: url('/nyx.ico');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: 35px;
+/* These styles will work only if "scrollbar-width" and "scrollbar-color" properties are not supported, since they override these prefixed pseudo elements. */
+
+::-webkit-scrollbar {
+  background-color: var(--black); /* or add it to the track */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--dark);
+}
+
+.main-nav::-webkit-scrollbar,
+.toc-desktop > ol::-webkit-scrollbar {
+  width: 8px;
 }
 
 /* TOP NAVIGATION */
