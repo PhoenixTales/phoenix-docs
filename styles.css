@@ -339,7 +339,6 @@ label[for='menu-toggle'] {
 }
 
 .index > ol > li {
-  margin-bottom: 1.5px;
   padding-left: 1.5em;
   padding-bottom: 2em;
   position: relative;
@@ -351,7 +350,7 @@ label[for='menu-toggle'] {
   left: 0;
   top: 0;
   height: 100%;
-  border-left: 1px dashed var(--stone);
+  border-left: 1px solid var(--dark);
 }
 
 .index > ol > li:first-child::before {
@@ -393,18 +392,18 @@ label[for='menu-toggle'] {
   left: 0;
   top: var(--heading-half-size);
   width: 0.8em;
-  border-top: 1px dashed var(--stone);
+  border-top: 1px solid var(--dark);
 }
 
-.index ol > li ol > li:not(:has(> details)):before {
+.index ol > li ol > li:not(:has(> details))::before {
   counter-increment: var(--counter);
   content: counters(var(--counter), '.') '. ';
   color: #6a6a6a;
 }
 
 .index li > ol > li li {
-  margin: 1.5px 0 1.5px calc(var(--triangle-size) / 2 - 0.5px);
-  border-left: 1px dashed var(--stone);
+  margin-left: calc(var(--triangle-size) / 2 - 0.5px);
+  border-left: 1px solid var(--dark);
   padding-left: 1em;
 }
 
@@ -416,22 +415,10 @@ label[for='menu-toggle'] {
   padding-left: calc(var(--triangle-size) + 1ch);
 }
 
-.index ol > li > details > summary:before {
+.index ol > li > details > summary::before {
   counter-increment: var(--counter);
   content: counters(var(--counter), '.') '. ';
   color: #6a6a6a;
-}
-
-.index ul > li:not(:has(> details)):before {
-  content: '[';
-  padding-right: 0.3em;
-  color: var(--gold);
-}
-
-.index ul > li:not(:has(> details)):after {
-  content: ']';
-  padding-left: 0.3em;
-  color: var(--gold);
 }
 
 .index summary::after {
