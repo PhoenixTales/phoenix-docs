@@ -212,25 +212,28 @@ hr {
 
 /* SCROLLBARS */
 
-.main-nav,
-.toc-desktop > ol {
-  scrollbar-width: thin;
+* {
   scrollbar-color: var(--dark) var(--black);
 }
 
-/* These styles do not work since when the "scrollbar-width" and "scrollbar-color" styles are used they override the these prefixed styles. */
-.main-nav::-webkit-scrollbar-track,
-.toc-desktop > ol::-webkit-scrollbar-track {
-  background: var(--black);
-  background-size: 40px;
+.main-nav,
+.toc-desktop > ol {
+  scrollbar-width: thin;
 }
 
-.main-nav::-webkit-scrollbar-thumb,
-.toc-desktop > ol::-webkit-scrollbar-thumb {
-  background-image: url('/nyx.ico');
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: 35px;
+/* These styles will work only if "scrollbar-width" and "scrollbar-color" properties are not supported, since they override these prefixed pseudo elements. */
+
+::-webkit-scrollbar {
+  background-color: var(--black);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: var(--dark);
+}
+
+.main-nav::-webkit-scrollbar,
+.toc-desktop > ol::-webkit-scrollbar {
+  width: 8px;
 }
 
 /* TOP NAVIGATION */
@@ -339,7 +342,6 @@ label[for='menu-toggle'] {
 }
 
 .index > ol > li {
-  margin-bottom: 1.5px;
   padding-left: 1.5em;
   padding-bottom: 2em;
   position: relative;
@@ -351,7 +353,7 @@ label[for='menu-toggle'] {
   left: 0;
   top: 0;
   height: 100%;
-  border-left: 1px dashed var(--stone);
+  border-left: 1px solid var(--dark);
 }
 
 .index > ol > li:first-child::before {
@@ -393,18 +395,18 @@ label[for='menu-toggle'] {
   left: 0;
   top: var(--heading-half-size);
   width: 0.8em;
-  border-top: 1px dashed var(--stone);
+  border-top: 1px solid var(--dark);
 }
 
-.index ol > li ol > li:not(:has(> details)):before {
+.index ol > li ol > li:not(:has(> details))::before {
   counter-increment: var(--counter);
   content: counters(var(--counter), '.') '. ';
   color: #6a6a6a;
 }
 
 .index li > ol > li li {
-  margin: 1.5px 0 1.5px calc(var(--triangle-size) / 2 - 0.5px);
-  border-left: 1px dashed var(--stone);
+  margin-left: calc(var(--triangle-size) / 2 - 0.5px);
+  border-left: 1px solid var(--dark);
   padding-left: 1em;
 }
 
@@ -416,22 +418,10 @@ label[for='menu-toggle'] {
   padding-left: calc(var(--triangle-size) + 1ch);
 }
 
-.index ol > li > details > summary:before {
+.index ol > li > details > summary::before {
   counter-increment: var(--counter);
   content: counters(var(--counter), '.') '. ';
   color: #6a6a6a;
-}
-
-.index ul > li:not(:has(> details)):before {
-  content: '[';
-  padding-right: 0.3em;
-  color: var(--gold);
-}
-
-.index ul > li:not(:has(> details)):after {
-  content: ']';
-  padding-left: 0.3em;
-  color: var(--gold);
 }
 
 .index summary::after {
@@ -894,9 +884,17 @@ footer ul {
     user-select: none;
     cursor: pointer;
   }
-  label[for='menu-toggle']:hover {
+  
+  body:has(#menu-toggle:checked) label[for='menu-toggle'] {
     background-color: var(--blood);
     color: var(--black);
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    label[for='menu-toggle']:hover {
+      background-color: var(--blood);
+      color: var(--black);
+    }
   }
 
   label[for='menu-toggle'] > .menu-icon {
@@ -905,8 +903,14 @@ footer ul {
     color: var(--blood);
   }
 
-  label[for='menu-toggle']:hover > .menu-icon {
+  body:has(#menu-toggle:checked) label[for='menu-toggle'] > .menu-icon {
     color: var(--black);
+  }
+
+  @media (hover: hover) and (pointer: fine) {
+    label[for='menu-toggle']:hover > .menu-icon {
+      color: var(--black);
+    }
   }
 
   .header ul {
