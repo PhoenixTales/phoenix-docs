@@ -224,7 +224,7 @@ hr {
 /* These styles will work only if "scrollbar-width" and "scrollbar-color" properties are not supported, since they override these prefixed pseudo elements. */
 
 ::-webkit-scrollbar {
-  background-color: var(--black); /* or add it to the track */
+  background-color: var(--black);
 }
 
 ::-webkit-scrollbar-thumb {
