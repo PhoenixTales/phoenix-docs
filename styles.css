@@ -435,14 +435,11 @@ label[for='menu-toggle'] {
   left: 0;
   top: 50%;
   translate: 0 -50%;
-  rotate: 180deg;
   font-size: 16px;
-  filter: brightness(0) invert(0.8);
 }
 
 .index details[open] > summary::after {
-  rotate: 0deg;
-  filter: none;
+  rotate: 180deg;
 }
 
 .doc-pdf {
