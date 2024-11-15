@@ -9,6 +9,8 @@ Here we want to give an overview of all the characters of our gothic drama. We l
 And please note: For now we are only listing all the names to be found in the sources, in some cases there are two names that may later be identified with the same character and we have yet to decide which name to use or how to solve these conflicts.
 {: .subtext }
 
+<!-- TOC_PLACEHOLDER -->
+
 
 ## Character Names
 
