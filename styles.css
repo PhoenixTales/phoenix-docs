@@ -50,7 +50,7 @@
 
 html {
   scroll-behavior: smooth;
-  scroll-padding-top: 65px;
+  scroll-padding-top: 15px;
 }
 
 body {
@@ -165,6 +165,8 @@ table {
   font-size: 12px;
   margin: 2em 0;
   overflow: auto;
+  display: block;
+  width: fit-content;
 }
 
 table,
@@ -172,6 +174,10 @@ th,
 td {
   border: 2px solid #4a4843;
   border-collapse: collapse;
+}
+
+th {
+  text-wrap: nowrap;
 }
 
 th,
@@ -801,6 +807,10 @@ footer ul {
 
 @media only screen and (max-width: 820px) {
   /* BASE */
+
+  html {
+    scroll-padding-top: 65px;
+  }
 
   body {
     grid-template-columns: 1fr;
