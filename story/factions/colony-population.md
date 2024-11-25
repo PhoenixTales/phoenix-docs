@@ -16,7 +16,7 @@ Similarly to how the level structure document has given an abstract overview of 
 
 ## Numbers by Guilds
 
-Some people claimed that the character structure presented in the "[NPCs per Guild](https://media.gothicarchive.org/documents/phoenix/PhoenixNSCsPerGuild.pdf)" document, as going back to the Orpheus Concept phase, would be wildly different from the later implementation in the game, because, as they say, there were so much less characters supposed to be there. While there is truth to this statement, it is an overestimation. At least the Old Camp and the New Camp come still close to the early concept ideas in many regards.
+Some people claimed that the character structure presented in the "[NPCs per Guild](https://bin.gothicarchive.org/documents/orpheus/OrpheusNSCsPerGuild.pdf)" document, as going back to the Orpheus Concept phase, would be wildly different from the later implementation in the game, because, as they say, there were so much less characters supposed to be there. While there is truth to this statement, it is an overestimation. At least the Old Camp and the New Camp come still close to the early concept ideas in many regards.
 
 ---
 
