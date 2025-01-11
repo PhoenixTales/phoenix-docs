@@ -316,6 +316,43 @@ Spending time with my family, renovating the house, chopping firewood, doing som
 
 ---
 
+### Mr. Vincent (Vincenzo)
+
+// 2D/3D Art
+{: .second-comment }
+
+#### Who are you?
+I am an Italian teacher of Italian, Latin and Greek literature. 
+
+#### How did you come to Phoenix Tales?
+I discovered the project in the first half of 2023. I probably saw the thread on the WOG forum. 
+
+#### Why do you love Gothic so much?
+When I played Gothic for the first time, I was almost still a child. I immediately fell in love with the atmosphere and all of the unique elements of this game. After playing it over and over again, I thought there was nothing more to learn about it. Then, in 2017 I found an article about the lost Gothic Sequel addon. I became more and more curious about this matter overtime. The deal-breaker was when I found the Gothic Archive and discovered this project. The great classics of Latin and Greek literature risked getting lost if it wasn’t for the monks who copied and preserved them. The Archive felt the exact same way for me. I think all the alpha material related to Gothic has a great value and needs to be preserved. It may be personal of course, but I also love how Zengin looks even if many people today would find its graphic outdated. 
+
+#### What do you do in the project?
+I translate material in Italian and create new models and textures based on original concepts, sometimes I also create new combinations on my own. I’ve translated in Italian the Comic, the Okyl screenshot story and the Sleeper's Ban by Alex Wittmann.
+
+#### Which programmes do you use for your tasks?
+I use Blender for modelling and Gimp to create new textures. For my translation process I’ve been using different tools to combine the result, Deepl, Google translate and even Chatgpt. I also checked the English translation when I was unsure about the meaning. I’m not afraid of trying new things I’m not supposed to be able to do, translation from German was one of these things. The same way I started creating small mods for gothic (just replacing a few armours and textures).  
+
+#### What are your favourite camps and guilds in Gothic/Phoenix?
+I tend to choose the Old Camp in my Gothic playthroughs, but the more I got into Alpha Research the more I started to prefer the New Camp. I guess my first choice for Phoenix will be the New Camp. I aways liked playing as a mage in general. The psionic class also seems extremely interesting…
+
+#### What are your favourite games?
+Gothic has always been my favourite game, but Phoenix is even better. I mostly like fantasy and science fiction games. I like The Witcher and The Elder Scrolls series, my favourite of those series are The Witcher 2 and Oblivion. I like the Dragon Age series (with Origin as my favourite) and The Mass Effect series (Mass effect 2 is my favourite). For the science fiction games, the Kotor series (hard to say if I like the first or the second more), and the Deus ex series (the first one is absolutely my favourite). There is also a graphic adventure game series that casually got my attention and that’s Sam & Max, there is something very interesting and unique about this series as well. I’m not very into any recent game. There was a point in my life where I decided I don’t just want to play games, I want to actually make one so this is what got me into modding.
+
+#### What is your favourite music?
+More than a specific musical genre I like to listen music because I can remember something and for the meaning it has to me. So, I usually listen to soundtracks of videogames I played. Sometimes I listen something else, but it can be just everything. For example, a band I like is Starset. 
+
+#### Any books you would like to recommend?
+Other than the Sleeper’s Ban I’m mostly into Latin and Greek classics. I’d suggest the Enchiridion of Epictetus. I’m into stoic philosophy and I think much of it can be a great source of inspiration for life. Seneca’s letters are also a great reading. I also like Terry Pratchett’s comic-fantasy books and Karpyshyn’s books on Mass Effect. 
+
+#### What do you do other than that?
+One day I’d like to write a story on my own and maybe even create a game based on it. I don’t know if it’s going to be fantasy or science fiction, but I have a few ideas.
+
+---
+
 ![David](/appendix/behind-the-scenes/team/link2.png)
 
 ### LongJohnson (David)
