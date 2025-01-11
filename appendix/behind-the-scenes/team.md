@@ -21,7 +21,7 @@
 > from the industrial ashes.
 {: .intro-quote}
 
-PhoenixTales was founded in 2017 by me and logx as an independent team of developers around the creation of PHOENIX. In "[Making of Phoenix Tales](https://docs.phoenixthegame.com/appendix/behind-the-scenes/logo)", I have described how I designed the bird and the logo, which represent our team.  
+PhoenixTales was founded in 2017 by me and logx as an independent team of developers around the creation of PHOENIX. In "[Making of Phoenix Tales](https://docs.phoenixthegame.com/appendix/behind-the-scenes/team-branding)", I have described how I designed the bird and the logo, which represent our team.  
 In this one I want to give you some insight into our organisation, how it functions, what we do and who we are.
 
 <!-- TOC_PLACEHOLDER -->
