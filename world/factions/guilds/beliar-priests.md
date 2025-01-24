@@ -16,7 +16,7 @@ The Beliar priests are wearing simple hats that are covering their ears, sheer b
 * Beliar stands for justice: Madame Justitia wears a blindfold too, as she is not allowed to judge based on superficial grounds.
 * In the same way the black guard of the Inquisition, (seeing themselves as earthly executors of beliars justice) cover their eyes with a metal visor.
 
-Therefore, it is crucial for the Beliar priests to be presented accordingly.
+Therefore, it is crucial for the Beliar priests to be presented accordingly. Basically, they do not have a face. 
 
 But there is more to it: 
 * It is a stance against individualism, and individualism in the sense of a fear of loosing ones self can be associated with the fear of the people from the night and the neglect of Beliar and his principles that led to Beliar creating death to force them to accept his truth.
