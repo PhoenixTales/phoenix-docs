@@ -4,6 +4,7 @@
 14.01.2025 - 24.01.2025  
 
 * Called Priests of Beliar, Beliar priests, priests of Vandras (older name of Beliar), Beliari or "Vandrani".
+* There is a significant percentage of female Beliar priests.
 
 
 ## Visuals
