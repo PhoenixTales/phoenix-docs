@@ -26,6 +26,9 @@ But there is more to it:
 * Relation to others: Some people are afraid and aversed from them due to this, because they do not want to be reminded of death and of whats going on deep inside of them. They run away from it. Others are attracted to them as they find no sense and meaning in the outside.
 
 
+### Character Visuals
+
+* Act I priest: More or less naked upper body, bald head, dark blindfold, dirty, dark, skirt decorated with symbols and additional accessoires, a leather cap covering the ears when being outside. 
 
 
 
