@@ -7,6 +7,15 @@
 
 **Female Priests:** There is a significant percentage of female priests within the Beliar cult (few in the Adanos cult, none in the Innos cult), which tells something about the perception of woman and man in Myrtana (at least in tradition). The woman as bound more to the earth, as pointing downwards to the acknowledgement of our material nature, grounded in that nature; man as oriented towards heaven, pointing upwards to the sky, to the acknowledgement of our spiritual or transcendental nature; grounded in ideals. Obviously both is needed in union in order to materialise the spirit, in order to spiritualise the materia, to realise ideals and to "idealise" reality. But as one has been considered higher than the other and there was an exaggerated focus and identification of the physical male and female form with these internal principles, men started to look down upon women in course of the tides. 
 
+**Restriction under Rhobar:** 
+
+In the Comic it is said "bei Gotha" - at first I imagined it to refer to a saint, but it may as well be one of the early names of Mike for the gods besides Ra. In this case his names may have been Ra, Gotha and Adanos.  
+That said, Gotha would be equated with Beliar and as such it would be like the ideal god of the "Goths" (in an archetypical sense), an archetypical gothic class that worships a dark god. 
+
+As the worship of Beliar has been tried to be strictly controlled since the rule of Rhobar in order to limit the anarchic, anti-authoritarian currents within the cult, the Goths (in the before mentioned archetypical sense, not in a historical sense) - those people who may have worshipped Gotha, Beliar, primarily and didn't want to let themselves be restricted in their practice - were then forced to practice in secret and may seen as Pariahs by parts of society. 
+
+These parts of the cult and these priests have often chosen forests as their refuge. Banned from society like the ones they ought to protect, excluded and looked down upon and feared like half-orcs, many live in solitude and basically form a sort of druid class in the phoenix universe. 
+
 
 ## Visual Design
 
