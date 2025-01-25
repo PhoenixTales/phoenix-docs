@@ -3,8 +3,9 @@
 **Author:** *Flosha*  
 14.01.2025 - 24.01.2025  
 
-* Called Priests of Beliar, Beliar priests, priests of Vandras (older name of Beliar), alternatively "Beliari" or "Vandrani". In the german original we may refer to them as "Beliarpriester", "Vandranische Priester" etc.
-* There is a significant percentage of female priests within the Beliar cult.
+**Name:** Called Priests of Beliar, Beliar priests, priests of Vandras (older name of Beliar), alternatively "Beliari" or "Vandrani". In the german original we may refer to them as "Beliarpriester", "Vandranische Priester" etc.
+
+**Female Priests:** There is a significant percentage of female priests within the Beliar cult (few in the Adanos cult, none in the Innos cult), which tells something about the perception of woman and man in Myrtana (at least in tradition). The woman as bound more to the earth, as pointing downwards to the acknowledgement of our material nature, grounded in that nature; man as oriented towards heaven, pointing upwards to the sky, to the acknowledgement of our spiritual or transcendental nature; grounded in ideals. Obviously both is needed in union in order to materialise the spirit, in order to spiritualise the materia, to realise ideals and to "idealise" reality. But as one has been considered higher than the other and there was an exaggerated focus and identification of the physical male and female form with these internal principles, men started to look down upon women in course of the tides. 
 
 
 ## Visual Design
