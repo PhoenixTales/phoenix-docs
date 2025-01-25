@@ -28,11 +28,10 @@ Thus the Beliar priests often will wear dark earthen-coloured robes, sometimes m
 Additional reasoning: 
 
 * On the earliest concept by Ralf the demon summoner is shown with a blindfold.
-* Beliar stands for justice: Madame Justitia wears a blindfold too, as she is not allowed to judge based on superficial grounds.
-* In the same way the black guard of the Inquisition, (seeing themselves as earthly executors of beliars justice) cover their eyes with a metal visor.
+* Beliar stands for justice: The priests of Beliar wear a blindfold just like Justitia and for the same twofold reasons: Both in the original sense as being blind to injustice, in the sense that they use to help especially those in hiding and in crime, under persecution etc., which can bring them into conflict with authority who seeks to get hold of and punish them (in earlier times they may have send to these priests consciously in order for them to lead them inside, into remorse and purification through spiritual attacks against their (criminal) persona - they may have the idea that if someone does evil deeds it is due to his evil persona, which is an acquired mask that has to be torn off his face. But also in the sense of impartiality, that they do not judge on superficial grounds and do not look for their position in society nor their past, they just look into what is facing them now and work on the effacement and renewal of their pain-stricken persona through facing the darkness within them.   
+* In the same way the black guard of the Inquisition (seeing themselves as earthly executors of beliars justice) cover their eyes with a metal visor.
 
-Therefore, it is crucial for the Beliar priests to be presented accordingly. Basically, they do "not have a face", they are radically rejecting their personality, at least it is this where their traditional clothing is coming from (obviously there will as well be many priests just dressed in pride).  
-Thus...
+Therefore, it is crucial for the Beliar priests to be presented accordingly. Basically, they do "not have a face", they are radically rejecting their persona, at least it is this where their traditional clothing is coming from (obviously there will as well be many priests just dressed in pride). Thus...
 
 * It is a stance against individualism, and individualism in the sense of a fear of loosing ones self (and identification with the persona) can be associated with the fear of the people from the night and the neglect of Beliar and his principles that led to Beliar creating death to force them to accept his truth.
 * The beliar cult is arguing that much suffering is caused by the peoples neglect of this crucial second side of life; they appreciate the bright side, the outside, the light, but not the dark, the inside, the night.
@@ -40,10 +39,12 @@ Thus...
 * Relation to others: Some people are afraid and aversed from them due to this, because they do not want to be reminded of death and of whats going on deep inside of them. They run away from it. Others are attracted to them as they find no sense and meaning anymore in the outside or as they are banned from the world and forced into hiding due to their crimes or their difference, for which they receive hatred and exclusion from society.
 
 
+<!---
+
 ### Character Visuals
 
 * Act I priest: More or less naked upper body, bald head, dark blindfold, dirty, dark, skirt decorated with symbols and additional accessoires, a leather cap covering the ears when being outside. 
 
-
+-->
 
 
