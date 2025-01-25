@@ -26,8 +26,8 @@ Thus...
 
 * It is a stance against individualism, and individualism in the sense of a fear of loosing ones self (and identification with the persona) can be associated with the fear of the people from the night and the neglect of Beliar and his principles that led to Beliar creating death to force them to accept his truth.
 * The beliar cult is arguing that much suffering is caused by the peoples neglect of this crucial second side of life; they appreciate the bright side, the outside, the light, but not the dark, the inside, the night.
-* Thereby a beliar priest is acting as a living example of this rejection and in resistance against this "fault" of the others, as they see it. His looks is a slap into the face of ordinary people who always reminds them of death, of the possibility of ending, of the need to also explore their internal life and so on. 
-* Relation to others: Some people are afraid and aversed from them due to this, because they do not want to be reminded of death and of whats going on deep inside of them. They run away from it. Others are attracted to them as they find no sense and meaning in the outside or are banned from the world and forced into hiding due to their crimes or their difference and the hatred and exclusion from society.
+* Thereby a beliar priest is acting as a living example of this rejection and in resistance against this general "fault" the sin against the dark, as they see it. His looks is a slap into the face of ordinary people who always reminds them of death, of a possible and inevitable end, of the need to explore the internal life instead or alongside of conquering the outside world and so on. 
+* Relation to others: Some people are afraid and aversed from them due to this, because they do not want to be reminded of death and of whats going on deep inside of them. They run away from it. Others are attracted to them as they find no sense and meaning anymore in the outside or as they are banned from the world and forced into hiding due to their crimes or their difference, for which they receive hatred and exclusion from society.
 
 
 ### Character Visuals
