@@ -3,15 +3,15 @@
 **Author:** *Flosha*  
 14.01.2025 - 24.01.2025  
 
-* Called Priests of Beliar, Beliar priests, priests of Vandras (older name of Beliar), Beliari or "Vandrani".
-* There is a significant percentage of female Beliar priests.
+* Called Priests of Beliar, Beliar priests, priests of Vandras (older name of Beliar), alternatively "Beliari" or "Vandrani". In the german original we may refer to them as "Beliarpriester", "Vandranische Priester" etc.
+* There is a significant percentage of female priests within the Beliar cult.
 
 
-## Visuals
+## Visual Design
 
 Just as Innos is associated with sound and in general with the "light of the senses", so is Beliar associated with silence and darkness, with the withdrawal of the senses. The withdrawal of the senses will be the essential characteristic of the design of the beliar priests.
 
-Therefore in the visual design of the priests we will put emphasis on these aspects of silence, of darkness, of earth, of going down and inside/retract instead of rising above and outside/unfold. 
+Therefore in their visual design we will put emphasis on these aspects of silence, of darkness, of earth, of going down and inside/retract instead of rising above and outside/unfold. 
 
 Thus the Beliar priests often will wear dark earthen-coloured robes, sometimes made from archaic materials like unusually rough plant fibers, wood, bones and often fur. Most of the time they are wearing simple hats that are covering their ears, sheer blindfolds, veils or masks covering their eyes and sometimes their whole face.
 
@@ -21,7 +21,7 @@ Additional reasoning:
 * Beliar stands for justice: Madame Justitia wears a blindfold too, as she is not allowed to judge based on superficial grounds.
 * In the same way the black guard of the Inquisition, (seeing themselves as earthly executors of beliars justice) cover their eyes with a metal visor.
 
-Therefore, it is crucial for the Beliar priests to be presented accordingly. Basically, they do not "have" a face, they are radically rejecting their personality, at least it is this where their traditional clothing is coming from (obviously there will as well be many priests just dressed in pride).  
+Therefore, it is crucial for the Beliar priests to be presented accordingly. Basically, they do "not have a face", they are radically rejecting their personality, at least it is this where their traditional clothing is coming from (obviously there will as well be many priests just dressed in pride).  
 Thus...
 
 * It is a stance against individualism, and individualism in the sense of a fear of loosing ones self (and identification with the persona) can be associated with the fear of the people from the night and the neglect of Beliar and his principles that led to Beliar creating death to force them to accept his truth.
