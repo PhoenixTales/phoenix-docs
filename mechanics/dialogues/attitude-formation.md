@@ -53,8 +53,8 @@ If we do not differentiate these options and do not take this into account, we w
 
 Therefore we have to add the additional complexity to dialogues, that we have to tell the player, alongside some specific answers, if they are meant to be true and consistent with his actual opinion or if something is only said to please, while his position is different. In one example, the situation may look like this:
 
-"I am for the king (true statement <> provocative lie)"
-"I am for the rebels (true statement <> opportunistic lie)"
+* "I am for the king (true statement <> provocative lie)"
+* "I am for the rebels (true statement <> opportunistic lie)"
 
 Sometimes the player would have different options to express such different modes. In other cases, like here, the very same answers may be possible to give in two different modes, that the player can select (with arrows left/right).
 
