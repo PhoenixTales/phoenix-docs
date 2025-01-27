@@ -20,7 +20,7 @@ Relevant dialogue snippets:
 
 *a mission missed due to time*
 > Where the fuck have you been?!  
-> "I..." 
+> "I..."  
 > Did you think we will wait for you? Do you think THEY will wait for you? We had a job to do! Now it's done and you were NOT here.  
 > Every death of our men that were killed today is your fault! Gomez will get to know about this, you can bet on that.. 
 
