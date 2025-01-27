@@ -1,4 +1,4 @@
-### Attitude Formation
+# Attitude Formation
 
 **Author:** *Flosha*  
 *26.01.2025 - 27.01.2025*
@@ -18,7 +18,7 @@ In fact there are no attitude forming decisions at all that would have any conse
 The same kind of question also could have been asked later in the story when the player actually has been confronted with these factions and has an idea about their positions, what they do, what they want. Here it could have been asked in a way that it has meaning and consequence. The player then would not just choose an answer of which he hopes that it pleases the other; he would actually express his opinion and thereby make a decision which would then develop his character into a specific direction; which could thwn open up new dialogues and block others. But something like that did not exist. 
 
 
-#### Formable Attitudes
+## Formable Attitudes
 
 In order to change that, we have at first to decide and to formulate specific positions or attitudes that we want the player to be able to choose. 
 
@@ -43,7 +43,7 @@ It is only in this way, that in course of these attitude formative decisions one
 But there is another aspect we have to consider... 
 
 
-#### Intention of Replies
+## Intention of Replies
 
 In order to do that it must be clear to the player whether the answer he is about to give is the true position of his character or if it is a lie, e.g. a mere opportunistic reply due to an attempt to fulfill the expectations of others. The intention of the reply must be clear to the player in order to take an informed decision when choosing a dialogue option.
 
