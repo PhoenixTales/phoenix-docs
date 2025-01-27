@@ -15,7 +15,7 @@ It was a surprising outcome and served as a neat ambient dialogue and there is n
 
 In fact there are no attitude forming decisions at all that would have any consequences on how the hero evolves and expresses himself in future dialogues.
 
-The same kind of question also could have been asked later in the story when the player actually has been confronted with these factions and has an idea about their positions, what they do, what they want. Here it could have been asked in a way that it has meaning and consequence. The player then would not just choose an answer of which he hopes that it pleases the other; he would actually express his opinion and thereby make a decision which would then develop his character into a specific direction; which could thwn open up new dialogues and block others. But something like that did not exist. 
+The same kind of question also could have been asked later in the story when the player actually has been confronted with these factions and has an idea about their positions, what they do, what they want. Here it could have been asked in a way that it has meaning and consequence. The player then would not just choose an answer of which he hopes that it pleases the other; he would actually express his opinion and thereby make a decision which would then develop his character into a specific direction; which could then open up new dialogues and block others. Something like that did not exist. 
 
 
 ## Formable Attitudes
