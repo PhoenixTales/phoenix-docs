@@ -18,7 +18,7 @@ Relevant dialogue snippets:
 *some random question*
 > Do you think everything depends on you? 
 
-* a mission missed due to time*
+*a mission missed due to time*
 > Where the fuck have you been?! 
 > I... 
 > Did you think we will wait for you? Do you think THEY will wait for you? We had a job to do! Now it's done and you were NOT here. 
