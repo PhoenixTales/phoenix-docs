@@ -12,17 +12,19 @@ We make a roleplaying (anti-)game and failure is part of the game logic. You wil
 
 Relevant dialogue snippets:
 
-*in the Mine...*
+*in the mine...*
 > Who do you think you are? Who has told you that *you* are the hero? Know your place or get lost!
 
+*some random question*
 > Do you think everything depends on you? 
 
-*Mission missed due to time*
+* a mission missed due to time*
 > Where the fuck have you been?! 
 > I... 
 > Did you think we will wait for you? Do you think THEY will wait for you? We had a job to do! Now it's done and you were NOT here. 
 > Every death of our men that were killed today is your fault! Gomez will get to know about this, you can bet on that.. 
 
+*the player critizised for his acts*
 > You keep acting as if you are alone in this world. And as if everything depends on you. No! YOU depend on everything. We do not need you. YOU need us. You better realise this. 
 
 --- 
