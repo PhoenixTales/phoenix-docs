@@ -33,7 +33,7 @@ The player should not just be able to influence specific aspects of a mission th
 
 Other characters may ask him simple questions: What do you think? Are you for this or for that? Do you prefer this or that? And these decisions will have influence on the direction that his role will develop into. That is what I see comes much closer to the core of roleplaying, because it actually relates to the role, it plays with the role. 
 
-Tldr: Roleplaying is not identical with interactive storyplaying. For actual "roleplaying" to happen one must be able to either choose different characters as representatives of specific roles one can play (classical rpgs) or one must be able to play one specicic character with which he can choose different roles by character forming decisions during gameplay. And it is not enough to play as a different class or for a different guild to have a different "role", it must go along different opinions and positions; it is about how one relates to the class, the guild he has chosen, how he relates to the events in the game world and in the story. 
+Tldr: Roleplaying is not identical with interactive storyplaying. For actual "roleplaying" to happen one must be able to either choose different characters as representatives of specific roles one can play (classical rpgs) or one must be able to play one specific character with which he can choose different roles by character forming decisions during gameplay (the new Phoenix approach). And it is not enough to play as a different class or for a different guild to have a different "role", it must go along different opinions and positions; it is about how one relates to the class, the guild he has chosen, how he relates to the events in the game world and in the story. 
 
 
 
