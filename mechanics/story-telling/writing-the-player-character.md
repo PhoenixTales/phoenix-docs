@@ -1,6 +1,6 @@
 # Writing the Player Character
 
-Author: Flosha  
+**Author:** *Flosha*   
 04.10.2024 - 27.01.2025
 
 Mike and PB have chosen a simple and pragmatical solution to create a player character that everyone (or many) can easily identify with, in that they made him a nobody and do not let him talk much. He talks and expresses so little of actual meaning or personality, that he keeps being like a canvas that every player can project his own thoughts on, but cannot express them. 
