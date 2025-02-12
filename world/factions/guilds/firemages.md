@@ -65,14 +65,14 @@ ToDo: More specific stuff like archmages, the rank of those mages who created th
 
 ## Inspirations
 
-![orthodoxsaints](img/cm2.jpg)
-![orthodoxmonk1](img/_20240606_092108.JPG)
-![orthodoxmonks](img/_20240606_092543.JPG)
+![orthodoxsaints](/_img/factions/guilds/orthodoxsaints.jpg)
+![orthodoxmonk1](/_img/factions/guilds/orthodoxmonk1.JPG)
+![orthodoxmonks](/_img/factions/guilds/orthodoxmonks.JPG)
 
-![earlymagegothicconcept1](img/_20240603_234932.JPG)
-![earlymagegothicconcept2](img/_20240603_235216.JPG)
-![earlymageconcept3](img/31e.jpg)
-![earlymageconcept4](img/31g.jpg)
+![earlymagegothicconcept1](/_img/factions/guilds/earlymagegothicconcept1.JPG)
+![earlymagegothicconcept2](/_img/factions/guilds/earlymagegothicconcept2.JPG)
+![earlymageconcept3](/_img/factions/guilds/earlymageconcept3.jpg)
+![earlymageconcept4](/_img/factions/guilds/earlymageconcept4.jpg)
 
 
 

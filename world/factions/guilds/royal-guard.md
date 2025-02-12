@@ -109,28 +109,28 @@ Links:
 
 ### City Watch
 
-![city-watch-sallet-front](/_img/factions/guilds/_20240606_082941.JPG)
+![city-watch-sallet-front](/_img/factions/guilds/city-watch-sallet-front.JPG)
 
-![city-watch-with-y-strap](/_img/factions/guilds/_20240606_082853.JPG)
-![german-soldier-with-y-strap](/_img/factions/guilds/_20240606_082538.JPG)
+![city-watch-with-y-strap](/_img/factions/guilds/city-watch-with-y-strap.JPG)
+![german-soldier-with-y-strap](/_img/factions/guilds/german-soldier-with-y-strap.JPG)
 
-![city-watch-central-plate](/_img/factions/guilds/_20240606_083050.JPG)
+![city-watch-central-plate](/_img/factions/guilds/city-watch-central-plate.JPG)
 
-![city-watch-back-and-spears](/_img/factions/guilds/_20240606_083239.JPG)
+![city-watch-back-and-spears](/_img/factions/guilds/city-watch-back-and-spears.JPG)
 
 
 ### Royal Guard
 
-![comic-inspiration](/_img/factions/guilds/_20240606_085021.JPG)
+![comic-inspiration](/_img/factions/guilds/comic-inspiration.JPG)
 ![varangian-guard-1](/_img/factions/guilds/The_body_of_Leo_V_is_dragged_to_the_Hippodrome_through_the_Skyla_Gate.jpg)
-![varangian-guard-3](/_img/factions/guilds/_20240606_084832.JPG)
+![varangian-guard-3](/_img/factions/guilds/varangian-guard-3.JPG)
 
 
 #### Throne Guard
 
-![varangian-guard-blue](/_img/factions/guilds/_20240606_084848.JPG)
+![varangian-guard-blue](/_img/factions/guilds/varangian-guard-blue.JPG)
 
 
 #### Shields
 
-![teardropshield-golden](/_img/factions/guilds/_20240606_084904.JPG)
+![teardropshield-golden](/_img/factions/guilds/teardropshield-golden.JPG)
