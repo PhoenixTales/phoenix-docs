@@ -4,13 +4,13 @@
 
 In the release version of Gothic, Lurker and Snapper are two different creatures with no relation to each other. Originally they were one and the same.
 
-> Mike Hoge: [...] one cool monster is the snapper. It can swim and dive as well as walk on the land. Like in Ultima Underworld, there is much water in our dungeons. Sometimes, if you come too close to the shore, it could happen to you, that suddenly a snapper leaps out of the dark water and eats you (what a pity) but you can do somethign about it: a) become better (which won't help you in the first place) and b) kill a goblin (snappers like them for breakfast) and throw it in the lake - if there's a snapper in it, it will be preoccupied and you can swim through the lake, if not, a goblin dies senseless (again, what a pity). [[src]](https://gothicarchive.org/interviews/1999/16.10.1999_glideunderground.com.txt)
+> **Mike Hoge:** [...] one cool monster is the snapper. It can swim and dive as well as walk on the land. Like in Ultima Underworld, there is much water in our dungeons. Sometimes, if you come too close to the shore, it could happen to you, that suddenly a snapper leaps out of the dark water and eats you (what a pity) but you can do something about it: a) become better (which won't help you in the first place) and b) kill a goblin (snappers like them for breakfast) and throw it in the lake - if there's a snapper in it, it will be preoccupied and you can swim through the lake, if not, a goblin dies senseless (again, what a pity). [[src]](https://gothicarchive.org/interviews/1999/16.10.1999_glideunderground.com.txt)
 
 In order to understand our design decisions in regard to these two monsters, we have to go back to the beginning and explain how they came to being.
 
 The original idea was to have a water monster, such as a crocodile. But just as with almost all the other monster designs, the idea was to divert from common fantasy universes as well as from reality by a more unique design.
 
-In this context, some relevant quotes from the [Monsters document]([from](https://gothicarchive.org/documents/phoenix-docs) of the original Phoenix Concept:
+In this context, some relevant quotes from the [Monsters document](https://gothicarchive.org/documents/phoenix-docs) of the original Phoenix Concept:
 
 > Der Snapper lebt größtenteils im Wasser. Kann an Land springen und angreifen. Im Wasser praktisch unbesiegbar, muß vom Land aus bekämpft werden. Wassermonster verstecken sich auf dem dunklen Grund eines Gebirgssees oder unter Felsvorsprüngen unter Wasser. Schlägt etwas auf die Wasseroberfläche, greifen sie blitzschnell an. Ein ins Wasser geworfener Stein lockt sie an. 
 
