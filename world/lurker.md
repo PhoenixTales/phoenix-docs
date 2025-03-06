@@ -32,7 +32,7 @@ But this approach was discarded too, instead a new monster was designed: the Lur
 
 ![0.6 Lurker](https://images.gothicarchive.org/research/064b-monsters/Snapper_Perspective.png)
 
-While the Lurker replaced the Snapper as the water monster, they didn't want to ommit their former Snapper idea and developed it into what is known from the release version (where the snappers, while not *in* the water, are still hanging around *at* the water, e.g. at the pond below the Demontower). Since he was not in the water anymore the blue colour didn't fit and so the design was basically changed into that of a regular (to not say boring) dinosaur (as imagined at the time and as presented e.g. in Jurassic Park - today we know thay dinosaurs looked much different). In this aspect they diverted for the first time from their own goal of having no common real creatures nor conventional fantasy monsters. 
+While the Lurker replaced the Snapper as the water monster, they didn't want to ommit their former Snapper idea and developed it into what is known from the release version (where the snappers, while not *in* the water, are still hanging around *at* the water, e.g. at the pond below the Demontower). Since he was not in the water anymore the blue colour didn't fit and so the design was basically changed into that of a regular (to not say boring) dinosaur (as imagined at the time and as presented e.g. in Jurassic Park - today it is said that dinosaurs looked quite different). In this aspect they diverted for the first time from their own goal of having no common real creatures nor conventional fantasy monsters in the colony. 
 
 ![0.7 Snapper](https://images.gothicarchive.org/artworks/monsters/der_neue_Snapper.jpg)
 
