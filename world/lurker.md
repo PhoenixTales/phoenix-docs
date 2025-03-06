@@ -42,7 +42,12 @@ In consequence the Lurker too was put on the land, at the edges of water, oppose
 
 To summarise: The very idea of a water monster inspired both the Snapper and the Lurker, but in the end none of them fulfilled what they were meant to do. Due to this development, whatever the reasons may be, we ended up with two monsters that did not fulfill their purpose. Neither did we end up with a monster that would *snap* out of the water like a frog, nor did we end up with a monster that would silently *lurk* in the water like a crocodile. 
 
-We got two very different monsters instead, one a stereotypical dinosaur, one a halfway unique creature that doesn't know if it wants to be a crocodile or a frog and sounds like a dragon. To make it short: I am not convinced. 
+We got two very different monsters instead, one a stereotypical dinosaur, one a halfway unique creature that doesn't know if it wants to be a crocodile or a frog and sounds like a dragon when it attacks. To make it short: I am not convinced. 
 
+In the attempt to design a water monster and to preserve different interesting monster designs, the original idea and purpose that every monster should have in the world, has been lost. And by the combination of the different characteristics (frog/croc) and the inability to realise the required AI for the monster to function as imagined, the potential and meaning of both ideas was reduced instead of highlighted.
 
+Therefore we approach it in the opposite way. Due to our projects goal of realising the old ideas we have to include the water monster as originally announced. And instead of trying to combine the two inspirations and ending up with no water monster at all, we may keep them seperate and design two:
+* The Snapper, inspired by a frog, inhabiting ponds and more shallow water, snapping out of the water with a jump attack with the necessarily powerful legs. 
+* The Lurker, inspired by a crocodile, inhabiting rivers and deeper waters, lurking in the water to silently approach its prey on all fours, with shorter legs - which also requires a different sound design.
 
+These two monsters replace the Lurker and Snapper as presented in the release version, as they aren't serving the desired purpose, are too stereotypical in appearance (in case of the Snapper) and just add an unnecessary and less believable (to not say chaotic) complexity to the wildlife of the small colony. 
