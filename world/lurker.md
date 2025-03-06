@@ -25,4 +25,10 @@ The snapper was blue, as he was in the water. He had big hind legs to jump and o
 
 But this approach was discarded too and a new monster was designed: the Lurker. Like the Snapper, the Lurker was meant to be blue and only come at land to attack. He had similarly large hind legs, but bigger front legs too, walking on all fours, the head and mouth was given a more elongated shape. Overall, the Lurker brought the design a bit closer to a crocodile, the "regular" water monster that they wanted to divert from in form of a unique fantasy design, but with longer legs due to the jumping idea - a crocodile cannot jump. 
 
-[0.6 Lurker]
+![0.6 Lurker](https://images.gothicarchive.org/research/064b-monsters/Snapper_Perspective.png)
+
+
+
+
+
+
