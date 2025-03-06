@@ -51,8 +51,12 @@ We got two very different monsters instead, one a stereotypical dinosaur, one a 
 
 In the attempt to design a water monster and to preserve different interesting monster designs, the original idea and purpose that every monster should have in the world, has been lost (as in other cases too). And by the combination of the different characteristics (frog/croc) and the inability to realise the required AI for the monster to function as imagined, the potential and meaning of both ideas was reduced instead of highlighted.
 
-Therefore we approach it in the opposite way. Due to the goal of our project of realising the old ideas, we have to include the water monster as originally announced. And instead of trying to combine the two inspirations and ending up with no water monster at all, we may keep them seperate and design two:
+Therefore we approach it in the opposite way. Due to the goal of our project of realising the old ideas, we have to include the water monster as originally announced. 
+
+We either have to find a solution to combine the two inspirations, by combining (again) the Snapper and Lurker of v0.5 and 0.6 into a more believable version, or alternatively we may keep them seperate and design two monsters: 
 * The Snapper, inspired by a frog, inhabiting ponds and more shallow water, snapping out of the water with a jump attack with the necessarily powerful legs. 
 * The Lurker, inspired by a crocodile, inhabiting rivers and deeper waters, lurking in the water to silently approach its prey on all fours, with shorter legs - which also requires a different sound design.
 
-These two monsters replace the Lurker and Snapper as presented in the release version, as they aren't serving the desired purpose, are too stereotypical in appearance (in case of the Snapper) and just add an unnecessary and less believable (to not say chaotic) complexity to the wildlife of the small colony, which will become more clear when you read our notes about the other monsters in the world of Gothic. 
+We haven't decided yet.
+
+In any way, this one or these two monsters replace the Lurker and Snapper as presented in the release version, as they aren't serving the desired purpose, are too stereotypical in appearance (in case of the Snapper) and just add an unnecessary and less believable (to not say chaotic) complexity to the wildlife of the small colony, which will become more clear when you read our notes about the other monsters in the world of Gothic. 
