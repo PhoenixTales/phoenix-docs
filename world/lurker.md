@@ -2,7 +2,7 @@
 
 *flosha*, 06.03.2025
 
-> Mike Hoge: [...] one cool monster is the snapper. It can swim and dive as well as walk on the land. Like in Ultima Underworld, there is much water in our dungeons. Sometimes, if you come too close to the shore, it could happen to you, that suddenly a snapper leaps out of the dark water and eats you (what a pity) but you can do somethign about it: a) become better (which won't help you in the first place) and b) kill a goblin (snappers like them for breakfast) and throw it in the lake - if there's a snapper in it, it will be preoccupied and you can swim through the lake, if not, a goblin dies senseless (again, what a pity).
+> Mike Hoge: [...] one cool monster is the snapper. It can swim and dive as well as walk on the land. Like in Ultima Underworld, there is much water in our dungeons. Sometimes, if you come too close to the shore, it could happen to you, that suddenly a snapper leaps out of the dark water and eats you (what a pity) but you can do somethign about it: a) become better (which won't help you in the first place) and b) kill a goblin (snappers like them for breakfast) and throw it in the lake - if there's a snapper in it, it will be preoccupied and you can swim through the lake, if not, a goblin dies senseless (again, what a pity). [[src]](https://gothicarchive.org/interviews/1999/16.10.1999_glideunderground.com.txt)
 
 
 
