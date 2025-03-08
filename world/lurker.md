@@ -42,19 +42,31 @@ Other than that they have chosen to make his skin less green and more blue. Both
 
 ---
 
-It was a good approach. But they seem not to have been quite confident with it and were going to develop it further into what was later to be called "the Lurker", which first appeared in v0.6. 
+It was a good approach. But they seem not to have been quite confident with it and were going to develop it further. A new snapper design appeared in v0.6. 
 
 ![0.6 Lurker](https://images.gothicarchive.org/research/064b-monsters/Snapper_Perspective.png)
 
+This model shows what was later to be renamed into a new monster called "Lurker". But at that time it was still called Snapper and was simply what the former design was developed into (please be aware that of course the texture above was most likely a placeholder).
 
-k (please be aware that of course this texture below was a placeholder). He too has still a bit of resemblance to the frog concept, but overall diverts from the idea. He had similarly large hind legs, and like the Frog and first Snapper design before, he also has these spikes or bumps on his back. But he has larger front legs too and a different posture. And he doesn't walk like a frog or like the former Snapper on his back legs only, but on all four. And the head and mouth was given a more elongated shape. Overall, the Lurker brought the design a bit closer to the crocodile, the "regular" water monster that they wanted to divert from in form of a more unique fantasy design, but with longer legs due to the jumping idea - a crocodile cannot really jump - not as the Snapper was meant to at least. It was hard to combine these two ideas.
+Again, on first sight he looks very different to the former Snapper design, but actually he isn't that much. The form of the head was changed, which just brought it even closer to the lizard/salamander idea and a bit away from the frog. But the large hind legs are almost identical and so is the tail. The overall shape of the body didn't change much. The blue glossy parts are also still there in the model, just appear black in the placeholder texture. 
 
+He was still blue, but with more green mixed in, which appears like the attempt to find a new balanced colour between the former blue Snapper and the green frog.
 
-While the Lurker replaced the Snapper as the water monster, they didn't want to ommit their former Snapper idea and developed it into what is known from the release version (where the snappers, while not *in* the water, are still hanging around *at* the water, e.g. at the pond below the Demontower). Since he was not in the water anymore the blue colour didn't fit and so the design was basically changed into that of a regular (to not say boring) dinosaur (as imagined at the time and as presented e.g. in Jurassic Park - today it is said that dinosaurs looked quite different). In this aspect they diverted for the first time from their own goal of having no common real creatures nor conventional fantasy monsters in the colony. 
+The biggest difference was that they elongated the arms into very strange, thin front legs to let him walk on all fours when on land, instead of on two legs only, like the old Snapper was moving. This made sense when we speculate that they wanted to bring it closer to a Salamander in appearance, but I would argue that this reasonable intention was badly executed.
+
+Instead of elongating the arms, first and foremost they should have changed the posture of the monster and let it move much closer to the ground, which would fit much better to a water monster and let it seem more dangerous too. Similar to a crocodile it would run towards the player from this low, lurking position and for the jump attack it would thighten together and prepare for a jump similar to a cat before jumping on its prey. 
+
+In this case the walking animation would have had to be different too, more akin to how salamandars or frogs are walking instead of almost like a dog without "elbows" as the Snapper (later "Lurker") from v0.6 onwards. 
+
+---
+
+It seems that they didn't want to give up on the older Snapper design though and thus renamed the Snapper into "Lurker" and a new Snapper appeared, as known from the release version (where the snappers, while not *in* the water, are still hanging around *at* the water, e.g. at the pond below the Demontower). 
+
+Since he was not in the water anymore the blue colour didn't fit and so the design was basically changed into that of a regular (to not say boring) dinosaur (as imagined at the time and as presented e.g. in Jurassic Park - today it is said that dinosaurs looked quite different). In this aspect they diverted for the first time from their own goal of having no common real creatures nor conventional fantasy monsters in the colony. 
 
 ![0.7 Snapper](https://images.gothicarchive.org/artworks/monsters/der_neue_Snapper.jpg)
 
-But then, in course of development, the idea of a monster diving and attacking the player inside of the water as well as the idea of jumping/snapping out of the water couldn't be realised, be it due to technical complications or lack of time or both. This was basically the end of the whole idea of the water monster. 
+But then, in course of development, the idea of a monster diving and attacking the player inside of the water as well as the idea of jumping/snapping out of the water couldn't be realised, be it due to technical complications or lack of time or both, which marked the end of the whole idea of the water monster. 
 
 In consequence the Lurker too was put on the land, at the edges of water, opposed to the very idea inspiring his name of "lurking" inside of the water. And like the Snapper his skin was also changed in colour to a tone more akin to the beaches at which he would hang around. 
 
@@ -65,16 +77,18 @@ In consequence the Lurker too was put on the land, at the edges of water, oppose
 
 The very idea of a water monster inspired both the Snapper and the Lurker, but in the end none of them fulfilled what they were meant to do. Due to this development, whatever the reasons may be, we ended up with two monsters that did not fulfill their purpose. Neither did we end up with a monster that would *snap* out of the water like a frog, nor did we end up with a monster that would silently *lurk* in the water like a crocodile. 
 
-We got two very different monsters instead, one a stereotypical dinosaur, one a halfway unique creature that doesn't know if it wants to be a crocodile or a frog and sounds like a dragon when it attacks. To make it short: I am not convinced. 
+We got two very different monsters instead, one a stereotypical dinosaur, one a halfway unique creature with unconvincing features.
 
-In the attempt to design a water monster and to preserve different interesting monster designs, the original idea and purpose that every monster should have in the world, has been lost (as in other cases too). And by the combination of the different characteristics (frog/croc) and the inability to realise the required AI for the monster to function as imagined, the potential and meaning of both ideas was reduced instead of highlighted.
+The idea of a water monster as a mix of giant frog and salamander would have been in accordance with the design principles and Mikes philosophy of a good/new idea consisting of the combination of two elements that were not combined before. It would have presented us with a really unique monster design. The final design did not fulfill this ideal. 
 
-Therefore we approach it in the opposite way. Due to the goal of our project of realising the old ideas, we have to include the water monster as originally announced. 
+In the attempt to design a water monster and to preserve different interesting monster designs, the original idea and purpose that every monster should have in the world, has been lost (as in other cases too). And by the combination of the different characteristics (frog/croc/lizard) and the inability to realise the required AI for the monster to function as imagined, the potential and meaning of both ideas was reduced instead of highlighted.
 
-We either have to find a solution to combine the two inspirations, by combining (again) the Snapper and Lurker of v0.5 and 0.6 into a more believable version, or alternatively we may keep them seperate and design two monsters: 
-* The Snapper, inspired by a frog, inhabiting ponds and more shallow water, snapping out of the water with a jump attack with the necessarily powerful legs. 
-* The Lurker, inspired by a crocodile, inhabiting rivers and deeper waters, lurking in the water to silently approach its prey on all fours, with shorter legs - which also requires a different sound design.
+Due to the goal of our project of realising the old ideas, we have to include the water monster as originally announced. 
 
-We haven't decided yet.
+We have to go back to the Snapper design from 0.5 and 0.6, harmonise and improve upon them, in order to execute the idea in a more unique and reasonable way, by following the salamander-frog idea. 
 
-In any way, this one or these two monsters replace the Lurker and Snapper as presented in the release version, as they aren't serving the desired purpose, are too stereotypical in appearance (in case of the Snapper) and just add an unnecessary and less believable (to not say chaotic) complexity to the wildlife of the small colony, which will become more clear when you read our notes about the other monsters in the world of Gothic. 
+This Snapper/Lurker haa to be able to both snap out of the water with a jump attack with the necessarily powerful legs as well as lurk in the water to silently approach its prey on all fours, with shorter legs (which requires different walking animations and a different sound design), as well as attack during diving at lightning speed. 
+
+This monster replaces both the Lurker and the Snapper as presented in the release version, as they aren't serving the desired purpose, are too stereotypical in appearance (in case of the Snapper) and just add an unnecessary and less believable (to not say chaotic) complexity to the wildlife of the small colony, which will become more clear when you read our notes about the other monsters in the world of Gothic. 
+
+[Todo: Add our Snapper design]
