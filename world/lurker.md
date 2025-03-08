@@ -25,20 +25,22 @@ It would swim and dive in the water and attack the player when swimming and divi
 
 ![Vadims Frog](https://images.gothicarchive.org/conceptart/vadim/old/snapper01a.jpg)
 
-Based on this idea of a monster, as being deep in the water, but also lurking close to the water's edge and as being able to jump, they tried to come up with a visual design. Vadim, who was initially responsible for the monster design, came up with the idea of a giant frog with sharp teeth. The frog made sense because he can jump and his legs have developed accordingly. This was just a draft. But the first model of the Snapper that we know of, appeared in v0.5: 
+Based on this idea of a monster, as being deep in the water, but also lurking close to the water's edge and as being able to jump, they tried to come up with a visual design. Vadim, who was initially responsible for the monster design, came up with the idea of a giant frog with sharp teeth. But the first model of the Snapper that we know of, appeared in v0.5: 
 
 ![0.5 snapper](https://images.gothicarchive.org/research/056c-monsters/Snapper_P1.png)
 
-On first sight it doesn't seem to have too much resemblance to the frog idea, because the proportions are so different. The head is much smaller, the body longer. In this regard it comes closer to the crocodile than the frog.
+On first sight it doesn't seem to have too much resemblance to the frog idea, because the proportions are so different. The head is much smaller, the body longer. And in this regard it comes closer to the crocodile than the frog, or, to be more precise, to a salamander.
+
+The frog made sense because he can jump and his legs have developed accordingly, but he wouldn't be able to swim as fast and to attack as suddenly during diving. For this a longer spine was needed. In this senese we can say that the frog idea was developed further into the idea of a mixture of Salamander and frog. He would move underwater as fast as a crocodile, like a Salamander at land, and at the same time be able to jump like a frog or toad.
 
 The initial idea of a giant frog may have found expression (proportion-wise) in form of the Orc Dog from the Alpha, basically a "mouth on legs" (see Orc Dog). 
 {: .subtext }
 
-But the texture of this first known Snapper model seems actually to be inspired by and trying to replicate the frog idea to some degree, even if it may be hard to see on these old and small textures. In difference to a crocodile, it does not come with scales, but the overall dark skin (ignoring the blue shiny parts) remind most of the uneven skin of a toad. With the blue parts, which to be honest, appear a bit like some harder, crystal like material, they've designed them as such to let the skin there appear to be wet and glossy like that of a frog or diverse lizards.  
+The texture of this first known Snapper model seems actually to be inspired by and trying to replicate the frog idea to some degree, even if it may be hard to see on these old and small textures. In difference to a crocodile, it does not come with scales, but the overall dark skin (ignoring the blue shiny parts) remind most of the uneven skin of a toad or specific types of lizards or salamanders. With the blue parts, which to be honest, appear a bit like some harder, crystal like material, they've designed them as such to let the skin there appear to be wet and glossy like that of a frog or again, salamanders.  
 
-Other than that they have chosen to make his skin less green and more blue. Both was fine for a water monster. But leaning more towards dark blue than green with some lighter, glossy accents to me seems to be a good decision for a monster that was meant to hide in dark blue lakes (as the Alpha water texture was at the time). 
+Other than that they have chosen to make his skin less green and more blue. Both was fine for a water monster. But leaning more towards dark blue than green with some lighter, glossy accents to me seems to be a good decision for a monster that was meant to hide in dark blue lakes (in accordance with the dark blue water texture that was used in the Alpha). 
 
-Overall he appears like a mixture of the Snapper of the release version (into which he was going to be developed later), and a lizard.
+---
 
 But they weren't quite happy with this design and developed it further into what was later to be called "the Lurker". 
 
