@@ -1,6 +1,7 @@
 # Snapper & Lurker
 
-*flosha*, 06.03.2025
+*flosha*, 06.03.2025  
+last update: 08.03.2025
 
 In the release version of Gothic, Lurker and Snapper are two different creatures with no relation to each other. Originally they were one and the same.
 
@@ -8,11 +9,13 @@ In the release version of Gothic, Lurker and Snapper are two different creatures
 
 In order to understand our design decisions in regard to these two monsters, we have to go back to the beginning and explain how they came to being.
 
-The original idea was to have a water monster, such as a crocodile. But just as with almost all the other monster designs, the idea was to divert from common fantasy universes as well as from reality by a more unique design.
+The original idea was to have a water monster, e.g. something comparable to a crocodile. But just as with almost all the other monster designs, the idea was to divert from common fantasy universes as well as from reality by a more unique design.
 
-In this context, some relevant quotes from the [Monsters document](https://gothicarchive.org/documents/phoenix-docs) of the original Phoenix Concept:
+In this context, some relevant quotes from the [Monsters document](https://gothicarchive.org/documents/phoenix-docs) of the original Phoenix Concept (I translate them from german:
 
 > Der Snapper lebt größtenteils im Wasser. Kann an Land springen und angreifen. Im Wasser praktisch unbesiegbar, muß vom Land aus bekämpft werden. Wassermonster verstecken sich auf dem dunklen Grund eines Gebirgssees oder unter Felsvorsprüngen unter Wasser. Schlägt etwas auf die Wasseroberfläche, greifen sie blitzschnell an. Ein ins Wasser geworfener Stein lockt sie an. 
+
+> EN: The Snapper lives mostly in the water. At land he can jump and attack. In the water he is practically undefeatable, must be fighted on land. Water monsters hide on the dark ground of a mountain lake or below rock spurs under water. If something hits the water surface, they attack at lightning speed. A stone thrown into the water can allure them. 
 
 > Snapper schwimmen ähnlich wie ein Krokodil. Meist tauchen sie aber. Erst wenn sie durch etwas angelockt werden (z.B. Steinwurf), schwimmen sie kurze Zeit an der Stelle des Auftreffens im Kreis, bevor sie wieder Abtauchen. / Snapper können unbegrenzt tauchen. Sie tauchen wesentlich schneller als alle anderen Spezies. Sie können auch während des Tauchens angreifen. Dazu schnellen sie vor und beißen das Opfer. 
 
