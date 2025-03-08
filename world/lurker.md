@@ -11,14 +11,16 @@ In order to understand our design decisions in regard to these two monsters, we 
 
 The original idea was to have a water monster, e.g. something comparable to a crocodile. But just as with almost all the other monster designs, the idea was to divert from common fantasy universes as well as from reality by a more unique design.
 
-In this context, some relevant quotes from the [Monsters document](https://gothicarchive.org/documents/phoenix-docs) of the original Phoenix Concept (I translate them from german:
+In this context, some relevant quotes from the [Monsters document](https://gothicarchive.org/documents/phoenix-docs) of the original Phoenix Concept (I translate them from german):
 
 > Der Snapper lebt größtenteils im Wasser. Kann an Land springen und angreifen. Im Wasser praktisch unbesiegbar, muß vom Land aus bekämpft werden. Wassermonster verstecken sich auf dem dunklen Grund eines Gebirgssees oder unter Felsvorsprüngen unter Wasser. Schlägt etwas auf die Wasseroberfläche, greifen sie blitzschnell an. Ein ins Wasser geworfener Stein lockt sie an. 
 
-> EN: The Snapper lives mostly in the water. At land he can jump and attack. In the water he is practically undefeatable, must be fighted on land. Water monsters hide on the dark ground of a mountain lake or below rock spurs under water. If something hits the water surface, they attack at lightning speed. A stone thrown into the water can allure them. 
+> EN: The Snapper lives mostly in the water. At land he can jump and attack. In the water he is practically undefeatable, must be fighted on land. Water monsters hide on the dark ground of a mountain lake or below rock spurs under water. If something hits the water surface, they attack at lightning speed. A stone thrown into the water allures them. 
 
 > Snapper schwimmen ähnlich wie ein Krokodil. Meist tauchen sie aber. Erst wenn sie durch etwas angelockt werden (z.B. Steinwurf), schwimmen sie kurze Zeit an der Stelle des Auftreffens im Kreis, bevor sie wieder Abtauchen. / Snapper können unbegrenzt tauchen. Sie tauchen wesentlich schneller als alle anderen Spezies. Sie können auch während des Tauchens angreifen. Dazu schnellen sie vor und beißen das Opfer. 
 
+> EN: Snappers swim similarly as a crocodile. But most of the time they are diving. Just when they are lured by something (e.g. stone throw), they swim for a short time in a circle around the position where the water was hit, before they dive down again. / Snappers can dive indefinitely. They dive much faster than every other species. They can also attack during diving. For this they spring out and bite the victim. 
+ 
 It would swim and dive in the water and attack the player when swimming and diving. And when the player would walk by some pond, he would suddenly "snap" out of the water with a jump attack to get him and pull him into the water. Therefore, this monster was called "Snapper". 
 
 ![Vadims Frog](https://images.gothicarchive.org/conceptart/vadim/old/snapper01a.jpg)
