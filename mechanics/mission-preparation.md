@@ -1,4 +1,4 @@
-# Mission Preperation
+# Mission Preparation
 
 **Author:** *Flosha*  
 **Created:** 03.01.2024  
