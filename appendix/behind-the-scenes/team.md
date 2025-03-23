@@ -230,6 +230,48 @@ Apart from working on Phoenix I work on other Gothic related things. I translate
 // Outer Circle 
 {: .first-comment }
 
+
+### Bloody (Piotr)
+
+// The Shadow Gobbo
+{: .second-comment }
+
+#### Who are you?
+I'm basically a person with way too many hobbies and way too much free time, which... as you can imagine, only leads to problems.
+
+#### How did you come to Phoenix Tales?
+I'm not entirely sure if I remember this right, but I think it was 2017 or 2018. Somehow I stumbled across a thread on World of Gothic that was talking about the project. I kept an eye on it for a really long time, following all the updates. Then, sometime around December 2020, probably right before Christmas, Florian decided to launch a Discord server. I joined right away, started chatting with people, and that's how it all began.
+
+#### Why do you love Gothic so much?
+To be honest... I have no idea how to answer that. I've been asking myself the same question for three, maybe four years now (possibly even longer) and I still don't have a clear answer. I guess it might have something to do with my childhood, which was basically filled with Gothic. Or maybe it's the game's unique visual style, the incredible soundtrack by Kai Rosenkranz, or something else entirely. Who knows? If I ever figure it out, I'll be sure to let you know.
+
+#### What do you do in the project?
+Pretty much whatever Florian needs at the moment. I'm not assigned to any specific role. I can work on music, handle textures, do some modeling, or take care of UV mapping. I just adapt to whatever the project requires. On top of that, I also help with expanding the [Archive](https://gothicarchive.org/), making sure more early materials from Gothic get documented. 
+
+#### Which programmes do you use for your tasks?
+Hmm... that really depends on what I'm working on at the time. For music, I almost always use [Microsoft DirectMusic Producer](https://en.wikipedia.org/wiki/DirectMusic/) to manage the overall composition, while [FL Studio](https://www.image-line.com/) or [Cubase](https://www.steinberg.net/cubase/) come in handy for editing and recording specific samples. When it comes to textures, I primarily use [Photoshop](https://www.adobe.com/products/photoshop.html/). I've tried working with [GIMP](https://www.gimp.org/), but I just can't see myself using it long-term. As for 3D graphics, I switch between [Blender 2.79b](https://download.blender.org/release/) and [Blender 4.0](https://download.blender.org/release/), depending on what I need.
+
+#### What are your favourite camps and guilds in Gothic/Phoenix?
+The Old Camp, I'll always stick with the Old Camp. Especially in Phoenix! I can't wait to see my blue shadow fully brought to life; ”NPCs everywhere, the world all fleshed out; it's going to be awesome!
+
+#### What are your favourite games?
+I doubt this will surprise anyone since I bring it up pretty often, but my all-time favorite has to be the [Final Fantasy](https://na.finalfantasy.com/) series. Those games completely shaped the way I look at video games. I stopped seeing them as just a fun pastime and started appreciating them as a true form of art. That shift in perspective got me really interested in game development, the entire creative process, and just how much effort (and sacrifice) goes into making a game. So while I have the chance, I just want to say, whether you're making a masterpiece or something that's a little rough, I respect it. The dedication alone is something I admire.
+Aside from that, [The Walking Dead](https://www.skybound.com/the-walking-dead/games) series from [Telltale](https://telltale.com/) and [Detroit: Become Human](https://www.quanticdream.com/en/detroit-become-human); absolutely stunning games. Some of the best character-driven storytelling I've ever experienced in gaming. Hmm.. what else? [Hype: The Time Quest](https://en.wikipedia.org/wiki/Hype:_The_Time_Quest), [Far Cry 1](https://en.wikipedia.org/wiki/Far_Cry_(video_game)), [Die by the Sword](https://en.wikipedia.org/wiki/Die_by_the_Sword), [The Witcher](https://www.thewitcher.com/pl/en/) trilogy, and the first part of [The Last of Us](https://www.thelastofus.playstation.com/). All incredible.
+
+#### Any books you would like to recommend?
+Bible. I just started reading it and it's pretty cool.
+
+#### What is your favourite music?
+Oh, man... That's one of the craziest questions anyone could ask me! I'm the kind of person who listens to literally everything and loves every genre with the same level of passion. If I were to list everything, there wouldn't be enough space left for the rest of the text. But... well, I'll do my best to name a few bands and artists I listen to the most. I absolutely adore [conTIKI](https://www.youtube.com/live/iChn4s6OWfM?t=3691s), the band founded by [Nobuo Uematsu](https://en.wikipedia.org/wiki/Nobuo_Uematsu). I'm also a huge fan of [Poppy's](https://www.youtube.com/@poppy) work (yes, the girl who made those [weird videos](https://youtu.be/fpCXxqiTjqE?feature=shared) with the white background) - I really appreciate the diversity in her music. Then there's [Azusa Tadokoro](https://www.youtube.com/@tadokoro_azusa), whose music introduced me to the Japanese take on rock in 2017/18, [Erutan](https://www.youtube.com/@katethegreat19), her interpretation of [Jabberwocky](https://youtu.be/TlyrweRsILk?feature=shared) and [Who Stole the Tarts](https://youtu.be/ExGE6X7PHjI?feature=shared) is just beautiful! [Sachi Gomez](https://www.youtube.com/@SachiGomez), I've probably listened to every cover on her channel, even though I didn't know most of the movies and shows she covered, but I love her voice. There's also [Maaya Uchida](https://www.youtube.com/@UCHIDA-MAAYA), Polish rapper [SÅ‚oÅ„](https://www.youtube.com/@BrainDeadSlon), [Sayuri](https://www.youtube.com/@sayuriSME) (rest in peace, thank you for everything ðŸ™), [Kito Akari](https://www.youtube.com/@KitoAkari_Official), [t.A.T.u.](https://www.youtube.com/@tatu), Polish guitarist [Marcin PatrzaÅ‚ek](https://www.youtube.com/@MarcinGuitar), [HINA](https://www.youtube.com/@hinatube/videos), Igor Stravinsky, [Bad Omens](https://www.youtube.com/@badomens666/), [Ryoko Shiraishi](https://www.youtube.com/@ChiffonRecords)... And of course, [Faye Wong](https://www.youtube.com/@fayewongofficialchannel560). [Eyes on Me](https://youtu.be/l6Mg0mWMUs0?feature=shared) will always have a special place in my heart.
+
+#### What do you do other than that?
+Right now, I'm working on three different projects related to Gothic. The first and most important one is GOTHIC 2 Reboot, which is basically me and my buddy Doic's own take on Gothic 2. Our goal is to adapt the game to match the original vision and the unfinished Gothic Sequel, while also throwing in a ton of new stuff.
+The second project is something I'm calling "Sci-Fi on ZenGin". It's my attempt at making an original sci-fi game on the same engine. I'm blending steampunk, cyberpunk, dieselpunk, medieval elements, and a whole bunch of other stuff into one cohesive world. It's gonna be... well... one crazy hybrid!
+And there's also the third project, GOTHIC 2 Pre-Alpha. As you can probably guess from the name, it's an attempt to recreate the original Gothic 2 before they changed its direction around May 2002. Originally, GOTHIC 2 Reboot was supposed to be something similar - bringing the game closer to that version, but we figured that wasn't ambitious enough to really grab people's attention. I also didn't want fans of the original vision to feel like they got cheated, so... yeah, here we are.  
+As for what I do outside of Gothic... I'm a religious and cultural explorer - I love learning about different histories and perspectives. I find it fascinating to understand how various societies have shaped their beliefs and traditions over time. I'm also currently studying two languages - Japanese and still working on improving my English. Oh, and I just started learning music theory. I know my way around production software, but I've got zero actual music background, which kinda sucks. Gotta fix that.
+
+---
+
 <!--
     
       <img class="dev" src="team/jonas2.png" alt="Jonas">
