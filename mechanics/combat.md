@@ -37,7 +37,11 @@ Based on the document by Alex Brüggemann, we know that while they always have s
 
 At the same time the combat system was described as being tactical. But the only tactical considerations in the Alpha (till release) was which weapon to use against which monster (and even this did not find much expression in the end) or how else to get rid of it, if not by means of combat (e.g. distraction, which was also cut).  
 
-They wanted it to be very simple and fun, but at the same time did not want it to rely on any reflexes. It should primarily depend on stats (attributes). I think that this a wrong premise. The combat system of Morrowind relies entirely on stats and it is the opposite of fun. 
+They wanted it to be very simple and fun, but at the same time did not want it to rely on any reflexes. It was meant to primarily depend on stats (attributes). I think that this a wrong premise. The combat system of Morrowind relies entirely on stats and to me was the opposite of fun. Requiring reflexes in combat at least to some degree to me seems like an inevitable component in a real-time action rpg. 
+
+The combat system as it was realised in the end was also not in accordance with their promise, that the game is simple to learn and to do, but hard to master. At least from todays perspective there is nothing hard nor tactical about the combat system of Gothic.
+
+Requiring reflexes cannot be avoided, but it can be done in a motivating way and we can try to avoid it being frustrating. If one doesn't like fighting in this way at all, one can still choose a different class and solve situations in other ways. 
 
 The combat related Attributes in PHOENIX make it *possible* to use a weapon (effectively) and the combat skills give the character additional movement options or more speed etc. to use in combat, but being an *action-rpg* there should still be a system in place that actually requires the player to learn and improve alongside his character. Requiring some reflexes is not a bad thing; "easy to learn and hard to master" was a goal that they themselves had originally for the gameplay in general, but in how they implemented their combat system this never really became a reality. 
 
