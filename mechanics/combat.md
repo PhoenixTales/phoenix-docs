@@ -37,27 +37,30 @@ Based on the document by Alex Brüggemann, we know that while they always have s
 
 At the same time the combat system was described as being tactical. But the only tactical considerations in the Alpha (till release) was which weapon to use against which monster (and even this did not find much expression in the end) or how else to get rid of it, if not by means of combat (e.g. distraction, which was also cut).  
 
-They wanted it to be very simple and fun, but at the same time did not want it to rely on any reflexes. It was meant to primarily depend on stats (attributes). I think that this a wrong premise. The combat system of Morrowind relies entirely on stats and to me was the opposite of fun. Requiring reflexes in combat at least to some degree to me seems like an inevitable component in a real-time action rpg. 
+They wanted it to be very simple and fun, but at the same time did not want it to rely on any reflexes. It was meant to primarily depend on stats (attributes). I think that this a wrong premise. The combat system of Morrowind relies entirely on stats and to me was the opposite of fun. Requiring reflexes in combat at least to some degree to me seems like an inevitable component in a real-time action rpg. It cannot be avoided, but it can be done in a motivating way and we can try to avoid it being frustrating. If one doesn't like fighting in this way at all, one can still choose a different class and solve situations in other ways. 
 
-The combat system as it was realised in the end was also not in accordance with their promise, that the game is simple to learn and to do, but hard to master. At least from todays perspective there is nothing hard nor tactical about the combat system of Gothic.
+The combat related Attributes in PHOENIX make it *possible* to use a weapon (effectively) and the combat Skills give the character additional movement options or more speed etc. to use in combat, but being an *action-rpg* there should still be a system in place that actually requires the player to learn and improve alongside his character. Requiring some reflexes is not a bad thing; "easy to learn and hard to master" was a goal that they themselves had originally for the gameplay in general, but in how they implemented their combat system this never really became a reality. At least from todays perspective there is nothing hard nor tactical about the combat system of Gothic. 
 
-Requiring reflexes cannot be avoided, but it can be done in a motivating way and we can try to avoid it being frustrating. If one doesn't like fighting in this way at all, one can still choose a different class and solve situations in other ways. 
-
-The combat related Attributes in PHOENIX make it *possible* to use a weapon (effectively) and the combat skills give the character additional movement options or more speed etc. to use in combat, but being an *action-rpg* there should still be a system in place that actually requires the player to learn and improve alongside his character. Requiring some reflexes is not a bad thing; "easy to learn and hard to master" was a goal that they themselves had originally for the gameplay in general, but in how they implemented their combat system this never really became a reality. 
-
-Unless one considers constant backing off or running around enemies in circles as tactical, fun and "hard to master", a technique that is used by some players in the official successor, where there is a minimum damage (that was consciously avoided in Gothic), but that almost only works well by playing with the mouse and not by playing as intended via keyboard. It is indeed something that has to be learned, but it wasn't meant to , it makes blocks/parades unnecessary and allows to win against almost any opponent independent of attributes or skills and in this sense it is glitching more than "mastering" of the fighting system.
+Unless one considers constant backing off or running around enemies in circles as tactical, fun and "hard to master", a technique that is used by some players in the official successor, where there is a minimum damage (that was consciously avoided in Gothic), but that almost only works well by playing with the mouse and not by playing as intended via keyboard. It is indeed something that has to be learned, but it wasn't meant to, it makes blocks/parades unnecessary and allows to win against almost any opponent independent of attributes or skills and in this sense it is glitching more than "mastering" of the fighting system.
 {: .subtext }
 
 But in Mikes original concepts there was more to it and the available unused alpha animations can help us understand these concepts better.
- 
-We want more tactics here. But we stick to the idea of limiting ourselves to the ~10 keys they planned having due to the number of keys of gamepads at the time, for which Gothic has been optimized from the very beginning, while not being meant to be played with a mouse. 
 
-Therefore we will start by considering the direction keys and what the Alpha is offering animationHwise. Among the unused Animations we clearly can differentiate that there was not only a "basic" hit and then a blow from left to right and right to left, but there were essentially four kinds of attacks based on directions: Left to right, right to left, from a raised position downwards and from a lowered position upwards. These four "directions of attack", as we may call it, we can link with the direction keys.  
 
-The later fighting skills will always consist of these basic directions of attack, they will just be faster and animated differently, apart from a few turns and special attacks. But these we will preserve for "Combos" (these combos one can apply upon a successful parade).
+## Phoenix
 
+We want more tactics. But we stick to the idea of limiting ourselves to the ~10 keys they planned having due to the number of keys of gamepads at the time, for which Gothic has been optimized from the very beginning. It was not meant to be played with a mouse. 
+
+Therefore we will start by considering the direction keys and what the Alpha is offering animation-wise. Among the unused animations we can clearly differentiate that there was not only a "basic" hit and then a blow from left to right and right to left, but there were essentially four kinds of attacks based on directions: Left to right, right to left, from a raised position downwards and from a lowered position upwards. These four "directions of attack", as we may call it, we can link with the direction keys.  
+
+The later fighting skills will always consist of these basic directions of attack, they will just be faster and animated differently, apart from a few turns and special attacks. These we will preserve for "Combos" (that one can apply upon a successful parade).
+
+Every NPC and the player thus has these four directions of attack (in case of one-handed weapons) and parades have to work in the same way. Thus, if the enemy stands in front of you and hits from left to right (from your perspective), then you have to swing your sword from right to left, into the direction from which he is attacking you, to parry his attack.  
+When he hits down from above, you have to hit from a lowered position upwards to parry the hit. If he hits from a lowered position upwards, you swing from the top downwards. 
+
+<!--
 Jeder NPC und der Spieler hat demnach mit 1H Waffen diese vier möglichen Angriffsrichtungen und genau so muss auch die Parade passieren. Also wenn der Gegner dir gegenüber steht und von rechts nach links schlägt, dann musst du im richtigen Moment einen Schlag nach links ausführen, also in die Richtung, aus der er von dir aus gesehen kommt, um seine Attacke zu parieren.
-Wenn er von oben runter schlägt, musst du von unten nach oben ausholen um den Hieb zu parieren. Wenn er von unten hoch schlägt musst du von oben runter.
+Wenn er von oben runter schlägt, musst du von unten nach oben ausholen um den Hieb zu parieren. Wenn er von unten hoch schlägt musst du von oben runter.-->
 
 
 David: Wie stellst du dir dann die Steuerung dafür vor von oben nach unten und von unten nach oben zu schlagen?
