@@ -9,6 +9,9 @@
   * Swordfighting (1H/2H)
   * Battle Axes
   * Spears
+  * Battlestaff
+  * (Dagger)
+  * Other Weapons
 * Combat HUD
 
 
