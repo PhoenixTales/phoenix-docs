@@ -150,7 +150,7 @@ The names of the female slaves doesn't have to be translated.
 
 | ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
 |----------|------------|---------------|-------------|------------------|-------|
-| Ian      | ?          | ?             | ?           | Minen Chef       |   5   |
+| Ian      | Jan        | ?             | ?           | Minen Chef       |   5   |
 | Aaron    | "          | ?             | ?           | ?                |   ?   |
 | Asghan   | "          | ?             | ?           | ?                |   ?   |
 | Brandick | Brandrich  | ?             | ?           | ?                |   ?   |
