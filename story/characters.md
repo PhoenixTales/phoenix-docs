@@ -61,7 +61,7 @@ The names of the female slaves doesn't have to be translated.
 | ?        | ?          | der Schleifer | the Grinder | Sadis. Ausbilder |   5   |
 | Scorpio  | ?          | ?             | ?           | Nahkampflehrer   |   ?   |
 | ?        | ?          | Jäger         | Hunter      | Fernkampflehrer  |   ?   |
-| Ian      | ?          | ?             | ?           | Minen Chef       |   5   |
+| Ian      | Jan        | ?             | ?           | Minen Chef       |   5   |
 
 
 ##### Castle 
@@ -69,7 +69,7 @@ The names of the female slaves doesn't have to be translated.
 | ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
 |----------|------------|---------------|-------------|------------------|-------|
 | Mort     | ?          | ?             | ?           | Gefängniswache 1 |   ?   |
-| Bullit   | ?          | ?             | Bullit      | ?                |   ?   |
+| ?        | ?          | Drücker       | Bullit      | ?                |   ?   |
 | ?        | ?          | Kipp?         | Skip        | Waffenausgabe    |   ?   |
 | Garak    | "          | ?             | ?           | Hofwache/Mauer   |   ?   |
 | ?        | ?          | der Stein     | Stone       | Schmied          |   ?   |
@@ -81,7 +81,7 @@ The names of the female slaves doesn't have to be translated.
 |----------|------------|---------------|-------------|------------------|-------|
 | ?        | ?          | Fiederer?     | Fletcher    | Nordviertel      |   ?   |
 | ?        | ?          | Schakal       | Jackal      | Arenaviertel     |   ?   |
-| Bloodwyn | ?          | ?             | ?           | Marktviertel     |   ?   |
+| ?        | ?          | Bluter        | Bloodwyn    | Marktviertel     |   ?   |
 | Nek      | ?          | ?             | ?           | Ex-Nordviertel   |   ?   |
 | Rigosh?  | Rigosch    | Zweimesser    | Twoknife?   | ?                |   ?   |
 | ?        | ?          | Schnarcher    | Snore       | ?                |   ?   |
