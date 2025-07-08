@@ -32,8 +32,8 @@ Phoenix' Sources:
     2. Gift of Magic
     3. [The Arcane](/lore/arcane)
     4. Language
-	1. Mora Language
-	2. Orcish Language
+	1. Moraic
+	2. [Orcish](/lore/orcish)
     5. Racism
     6. Slavery
 3. MetaPhysics
