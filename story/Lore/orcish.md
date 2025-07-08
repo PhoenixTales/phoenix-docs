@@ -243,7 +243,15 @@ bzw. ein herabfallender Fels, in der Mehrzahl Geröll (Brokk).
 * **Lug** - Tunnel, “Wühler”, Sucher
 
 
-### Noch zu erfindende Wörter
+### P
+
+* **Pach** - Schnabel, Hacke
+* **Poch** - Klaue/Kralle? (wie ein Schnabel geformt, aber o -> hat mit der Erde zu tun)
+* **Pak** - Maul
+* **Pak-Hu** - Maul halten, Halts maul!, siehe auch *Hu* (still)
+
+
+### Yet to be made-up words
 
 * ??? - Mond
 * ??? - hoch
@@ -257,13 +265,6 @@ Ala: Orak-Sorg, oder einen Bezug auf ihr Maul, also sowas wie "Beinmaul".
 Oder ein Wort für Dieb? Goblins bestehlen Orks vllt. genauso wie Menschen.
 
 
-### P
-
-* **Pach** - Schnabel, Hacke
-* **Poch** - Klaue/Kralle? (wie ein Schnabel geformt, aber o -> hat mit der Erde zu tun)
-* **Pak** - Maul
-* **Pak-Hu** - Maul halten, Halts maul!, siehe auch *Hu* (still)
-
 
 ### EXAMPLES OF ORCISH SENTENCES
 
@@ -271,7 +272,7 @@ With the help of "-ak" and "-ka" everything combined with it can be described as
 
 For instance: "Ur-Shak ak Varak-Ulor" would mean: Ur-Shak comes from the Bloodearth Clan. If you say: "Ur-Shak ka Varak-Ulor", it would mean: Ur-Shak goes to the Bloodearth Clan. 
 
-ToDo: Add more examples for sentences and how to form them. 
+ToDo: Add more examples for sentences and how to form them based on our system.
 
 
 
