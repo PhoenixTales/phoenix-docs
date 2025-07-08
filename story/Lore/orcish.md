@@ -208,7 +208,7 @@ Oder ein Wort für Dieb? Goblins bestehlen Orks vllt. genauso wie Menschen.
 
 ### EXAMPLES OF ORCISH SENTENCES
 
-With the help of "-ak" and "-ka" everything combined with it can be described as coming from that orgoing towards that, thus *ak-ka-ka-ak*, is a saying like "from to, to from..."
+With the help of "-ak" and "-ka" everything combined with it can be described as coming from that or going towards that, thus *ak-ka-ka-ak*, is a saying like "from to, to from..."
 
 
 * NEMROK KA VARROK = Nemrok wird die Rache der Ahnen sein / Nemrok wird die Ahnen rächen
