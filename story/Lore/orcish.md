@@ -4,7 +4,7 @@
 **Created:** 12.01.2021  
 **Changed:** 01.12.2021  
 
-Info: Everything about the orcish language and runes.
+Info: Everything about the orcish language and runes as used in Phoenix.
 
 
 ## Orcish Runes
@@ -16,11 +16,15 @@ to be added from the old docs.
 
 Flosha: <!--Ich habe bezüglich der orkischen Sprache eine gewisse Logik entwickelt, mit der die Begriffe der Orks einen Sinn ergeben und mit der man einfache Sätze bilden kann. Es fehlen noch einige Wörter. Alles wurde entwickelt anhand der Wortfetzen, die es im Spiel schon gibt.
 Grau hinterlegt sind alle Begriffe, die in Gothic selbst vorkamen; alle Übersetzungen und Beschreibungen sind von Florian, mit Ausnahme der wenigen, die im Spiel selbst bereits gegeben werden (sowie Krushak = Schläfer, Ur-Shak = Sohn von Geist).--> 
-In regard to the orcish language I have developed a certain logique, by which the orcish terms that we know make sense and from which I deduced specific "roots" through which we can form additional words and form simple sentences. Everything has been developed through the few words and fragments present in the game version(s) and documents. 
+In have developed an (incomplete) orcish language and a certain logique, by which the orcish terms that we know make sense and from which I deduced various "roots" through which we can form additional words and simple sentences. Everything has been developed through the few words and fragments present in the game version(s) and documents. 
 
 All the translations or "meanings" and explanations of the words are by me with an exception of the few explanations that are already given in the game (such as Ur-Shak = "Son of Ghost").
 
+<!-- Anmerkung: Die Orks scheinen keine Vergangenheit zu kennen; es gibt nur was ist und was wird und woher etwas kommt; alles hat einen Ursprung, aber es ist sprachlich nicht als etwas “Vergangenes” gefasst. -->
+
 When he heard that I wanted to do it this way and to have an actual, more or less reasonable "language" for the orcs, Mike told me: "I would have wanted to do the same, if I would have had the time for it."
+
+As an additional note: The orcs do not know a past tense. There is only what is, what becomes and where it comes from, everything has a source, but it is never grasped as something "past" in the language; they have no concept of any kind of absolute, finite disappearance, as they consider everything to be there all the time and simultaneously to everything else, that ever was, even if it may not be visible anymore. 
 
 For now, the words and explanations are still presented in my original German. I may translate them later.
 
@@ -28,14 +32,14 @@ For now, the words and explanations are still presented in my original German. I
 ### U
 
 * **U** - Ur-Laut der Orks, wird oft gesungen (siehe auch “Huh” bei den Sufis), auch als Zahlwort "eins"
-* **Uk** - ?? (sagen sie dauernd, auch beim Laufen, Uk, uk etc.) (evtl. Los, Los!)
+* **Uk** - Jetzt, aber auch "los!", etwa beim Laufen: "uk, uk" - "los, los!"
 * **Ur** - Geist, Macht, siehe *UrRok* (Geisterschütterer), siehe auch *Ru*
 * **Uru** - ur+ru, aus dem Geist, von Geist gezeugt, Sohn von Geist = Schamane, wird als Ehrentitel dem Namen vorangestellt, siehe *Ur-Shak* (in der älteren Sprache Uru-Shak)
 * **Ur-Shak** - Schamane *Shak*, der Sohn von Geist namens *Shak* (Träumer), siehe auch *Kru-Shak*
 * **Usha** - Sonne, wörtlich Ur-Erscheinung, erste Erscheinung
-* **Ushat** - Finsternis, Dunkelheit
-* **Ursha** - geistiges, inneres Licht
-* **Urshat** - geistige Finsternis, innere Dunkelheit
+* **Ushat** - Ohne Sonne, Schatten
+* **Ursha** - geistiges, inneres Licht, innere Einsicht
+* **Urshat** - geistiger Schatten, Verlust der inneren Sonne, Verblendung
 * **Ul** - Blut
 * **Ulor** - Bluterde, siehe auch *Or*, siehe auch *Varak-Ulor*
 * **Ulu** - aus dem Blut, Kraft, Ehre, siehe *Ulu-Mulu* (Zeichen der Kraft/Ehre)
@@ -56,11 +60,13 @@ For now, the words and explanations are still presented in my original German. I
 * **Ak** - Abstammen, davon stammt es ab, kommt her, daraus ist es geworden,
 siehe auch *Orak* (Ork, ‘von der Erde stammend’) oder *Varak* (Stamm)
 * **Akmu** - "etwas das von Innen herauskommt", also auch zB. ein Geräusch innerhalb der Höhle, in der man sich befindet
+* **as** - von unten hoch, herauf, siehe auch sa (herab)
 * **Akma** - "etwas das von Außen eindringt", auch zB. ein Geräusch das von außen hereinkommt.
 * **-ag** or **"ag-"** - Form der Verniedlichung
 * **Ach** - der Rachen, die Kehle, das was im Hals steckt
 * **Akach** - das aus dem Rachen kommende
 * **At** - nein
+* **Ara** - Diener, siehe auch *Ra* (Herr)
 * **Atnu** - Nacht, wörtlich "nein licht", siehe auch *tanu*
 * **ad** - "hinter", siehe auch da ("vor")
 * **An** - in
@@ -73,6 +79,7 @@ siehe auch *Orak* (Ork, ‘von der Erde stammend’) oder *Varak* (Stamm)
 * **Arushat** - wörtlich der "Vogel des Schattens", der "unsichtbare Vogel", Name des obersten Hohepriesters des Bluterde-Clans, siehe auch *Arusha*
 * **Arusha** - der Geistvogel, der Wundervogel, der Sonnenvogel, mystischer Vogel
 * **Aru** - der Vogel, der Falke, der Adler, wörtlich "der im Winde", "der im Himmel"
+* **Arba** - ar(a)+ba, dienen, Dienst
 
 
 ### G
@@ -109,7 +116,8 @@ siehe auch *Orak* (Ork, ‘von der Erde stammend’) oder *Varak* (Stamm)
 * **Kar** - Zahn, Spitz, (Karr = Mehrzahl), “das Spitz-Zugelaufene”,
 siehe auch *Dwachkarr* (Sumpfhaizähne) oder
 Krush Karrok (‘Zahnzerschmetterer aus Bluterz’)
-* **Karras** - ???
+* **Karras** - kann gelesen werden entweder als Kurzform von Kararas, ka + ar + ara + as, dann: "Der zum Diener Gewordene/Aufgestiegene" (also keine Herabsetzung); vorher mag es ihm schlechter ergangen sein, oder als kar+ra+as, dann: "Der zum Zahn-Herr-Aufgestiegene",
+* *Karrok Ur Shak Tos Karras Da Gach*, ein Satz im Spiel, der gemäß unseres Systems soviel bedeutet wie: "Ur-Shak's Zahnzerschmetterer (Waffe) warf Karras vor den Beißer (Crawler)" oder warf er "dem Beißer vor". 
 * **Karrok** - Zahnzerschmetterer, Spitzer Zerschmetterer
 * **Kru** - Erz (Bluterz)
 * **Krush** - Erzen, aus rotem, magischem Erz bzw. Bluterz, vllt. auch “erzgeschmolzen” oder “aus Erz gemacht”
@@ -140,7 +148,8 @@ es eine etymologische Verbindung zwischen Leben und Schlamm/Lehm etc.)
 * **Nakk** - Stock oder Stab, siehe *Shabanakk*, *Grachtnakk*
 * **Nem** - (siehe griechisch nem-: nehmen, zuweisen)
 * **Nemrok** - Rache/Zerstörung nehmen, zuweisen, beenden, "Ende der Rache";
-Urahne vieler orkischer Stämme, großer Krieger
+Urahne vieler orkischer Stämme, großer Krieger, “Der Rachenehmer” oder auch “Der die Rache/Erschütterung/Zerstörung nimmt/zuweist/beendet”, siehe auch *Nemrok ka Varrok*
+* **Nemrok ka Varrok** - Nemrok wird die Rache der Ahnen sein / Nemrok wird die Ahnen rächen. Wird von den Orks oft als Kampfruf gebraucht.
 * **Norg** - ???, Feind, evtl. Bezug zwischen “Sorg” und “Norg” herstellen,
 es gibt den Hohepriester Kasorg und den  Begriff “Ganorg”. Norg der Feind und Sorg der Freund? (der eine nörgelt, der andere sorgt sich :P)
 * **Nu** - Licht, der Geist erstrahlt, leuchtet, siehe auch *un* (dunkel)
@@ -151,14 +160,17 @@ es gibt den Hohepriester Kasorg und den  Begriff “Ganorg”. Norg der Feind un
 ### O
 
 * **Or** - Erde
-* **Orak** - aus Erde, Lehm, von der Erde stammend, daher "Ork" als Bezeichnung der Menschen (siehe auch *Ak*)
-* **Oran** - Erdinneres
+* **Ok** - Stein, versteinerte Erde
+* **Og** - harter Lehm/verformbarer Stein, weicher Stein, verfestigte Erde
+* **Orak** - aus Erde, Lehm, von der Erde stammend, daher "Ork" als Bezeichnung dutch die Menschen (siehe auch *Ak*)
+* **Oran** - Erd-Inneres
 * **Orth** - Hauer, siehe auch *Orth-Antak* (Hauer von Troll); Orth ist auch ein historischer Nachname und könnte sich z.B. vom mittelalterlichen Wort für “Spitze”, “Ecke” ableiten)
 * **Orth-Antak** - Trollhauer
 
 
 ### S
 
+* **sa** - von oben runter, herab, siehe auch as (herauf)
 * **Sha** - Erscheinung, Phänomen, Wunder, Manifestation
 * **Shak** - Träumer, Schläfer, etymologisch, philosophisch “dem Über-Phänomenalen entstammend”, von Sha + ak (von der Sonne, von dem Übernatürlichen kommend)
 * **Shat** - von sha + at, wörtlich "nicht sichtbar" = Schatten, *Sath* ist das moraische Äquivalent
@@ -169,8 +181,9 @@ es gibt den Hohepriester Kasorg und den  Begriff “Ganorg”. Norg der Feind un
 * **Shaba-Mori** - weiblicher Zauberer, Hexe (falls die Orks in orkisch etwa von der Hexe im Sumpf reden in Akt II)
 * **Sorg** - Freund, der, der sich sorgt, siehe *Kasorg* (Name eines orkischen Hohepriesters)
 * **Shor** - “Erde berühren, betreten?” siehe Hashor (orkischer Name)
-* **Shugul** - "das Gespenst des Blutes" ???
-* **Shu** - Gespenst?
+* **Shugul-Shat**, wörtlich soviel wie "das sich verbergende Blutgespenst(lein)"(Menschen sagen Shugul *Sath*)
+* **Shugul** - "das Blutgespenst(lein)" oder "Blutgespenstchen"
+* **Shu** - Gespenst
 
 
 ### B
@@ -189,15 +202,12 @@ bzw. ein herabfallender Fels, in der Mehrzahl Geröll (Brokk).
 
 * **Ru** - zu Geist (geworden, werdend), siehe auch Ur = von Geist (kommend), im übertragenen Sinne die Zeugung, das Zeugen, und das Ausatmen, aber auch Himmel und Wind, siehe auch Aru (Vogel, der im Wind, im Himmel)
 * **Ruuushk** womöglich “der, dess’ Blut zu Geist gewordenes Erz ist” (*Ru + u + ush-k*), Name eines Hohepriesters des Bluterde-Clans
-* **Rok** - Erschütterer, Zerschmetterer, Zerstörer bzw. Erschütterung, auch Rache; eigenständig als Adjektiv und Verb, zerschmettert/n, zerstört/en, getötet/töten etc.
-
-[Anmerkung: Die Orks scheinen keine Vergangenheit zu kennen; es gibt nur was ist und was wird und woher etwas kommt; alles hat einen Ursprung, aber es ist sprachlich nicht als etwas “Vergangenes” gefasst.]
-
-* **Rog** - ???, Wo steht das? Streicheln?
+* **Rok** - Erschütterer, Zerschmetterer, Zerstörer bzw. Erschütterung, auch Rache; eigenständig als Adjektiv und Verb, zerschmettert/n, zerstört/en, getötet/töten etc., siehe auch *ok* (Stein)
+* **Rog** - ???, Wo steht das? Streicheln?, siehe auch *og* (Lehm)
 * **Ras** - ???, siehe auch *“Karrok Ur Shak Tos Kar**ras** Da Gach”*
 * **Rag** - Führer, siehe *Varrag* (Ahnenführer)
 * **Raga** - Führerschaft, Herrschaft, Kontrolle
-* **Ra** - Herr, Gott, Götze (der Menschen)
+* **Ra** - Herr, Gott, Götze (der Menschen), siehe auch *arba* (dienen, dienst), siehe auch *ras* 
 
 
 ### T
@@ -235,7 +245,6 @@ bzw. ein herabfallender Fels, in der Mehrzahl Geröll (Brokk).
 
 ### Noch zu erfindende Wörter
 
-* ??? - Tag
 * ??? - Mond
 * ??? - hoch
 * ??? - runter
@@ -256,20 +265,17 @@ Oder ein Wort für Dieb? Goblins bestehlen Orks vllt. genauso wie Menschen.
 * **Pak-Hu** - Maul halten, Halts maul!, siehe auch *Hu* (still)
 
 
-
 ### EXAMPLES OF ORCISH SENTENCES
 
 With the help of "-ak" and "-ka" everything combined with it can be described as coming from that or going towards that, thus *ak-ka-ka-ak*, is a saying like "from to, to from..."
 
 For instance: "Ur-Shak ak Varak-Ulor" would mean: Ur-Shak comes from the Bloodearth Clan. If you say: "Ur-Shak ka Varak-Ulor", it would mean: Ur-Shak goes to the Bloodearth Clan. 
 
+ToDo: Add more examples for sentences and how to form them. 
 
-* NEMROK KA VARROK = Nemrok wird die Rache der Ahnen sein / Nemrok wird die Ahnen rächen
-* Nemrok = Eigenname eines großen Führers der Vergangenheit, mit der Bedeutung:
-“Der Rachenehmer” oder “Der die Rache/Erschütterung/Zerstörung nimmt/zuweist/beendet”.
-Wird von den Orks oft als Kampfruf gebraucht.
 
-Was hier auch noch hin muss sind typische Ausrufe der Orks im Spiel. Zum Beispiel wenn sie dich verfolgen. Wir sollten versuchen da gut hinzuhören und aufzuschreiben was die da rufen.
+
+<!-- Was hier auch noch hin muss sind typische Ausrufe der Orks im Spiel. Zum Beispiel wenn sie dich verfolgen. Wir sollten versuchen da gut hinzuhören und aufzuschreiben was die da rufen. -->
 
 
 
