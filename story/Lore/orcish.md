@@ -2,7 +2,7 @@
 
 **Author:** Flosha  
 **Created:** 12.01.2021  
-**Changed:** 01.12.2021  
+**Last change:** 08.07.2025 
 
 Info: Everything about the orcish language and runes as used in Phoenix.
 
