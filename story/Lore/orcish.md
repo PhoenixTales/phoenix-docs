@@ -13,7 +13,7 @@ to be added from the old docs.
 
 ## ORCISH SYLLABLES & ROOTS
 
-Info: Ich habe bezüglich der orkischen Sprache eine gewisse Logik entwickelt, mit der die Begriffe der Orks einen Sinn ergeben und mit der man einfache Sätze bilden kann. Es fehlen noch einige Wörter. Alles wurde entwickelt anhand der Wortfetzen, die es im Spiel schon gibt.
+Flosha: Ich habe bezüglich der orkischen Sprache eine gewisse Logik entwickelt, mit der die Begriffe der Orks einen Sinn ergeben und mit der man einfache Sätze bilden kann. Es fehlen noch einige Wörter. Alles wurde entwickelt anhand der Wortfetzen, die es im Spiel schon gibt.
 Grau hinterlegt sind alle Begriffe, die in Gothic selbst vorkamen; alle Übersetzungen und Beschreibungen sind von Florian, mit Ausnahme der wenigen, die im Spiel selbst bereits gegeben werden (sowie Krushak = Schläfer, Ur-Shak = Sohn von Geist).
 
 
@@ -207,6 +207,9 @@ Oder ein Wort für Dieb? Goblins bestehlen Orks vllt. genauso wie Menschen.
 
 
 ### EXAMPLES OF ORCISH SENTENCES
+
+With the help of "-ak" and "-ka" everything combined with it can be described as coming from that orgoing towards that, thus *ak-ka-ka-ak*, is a saying like "from to, to from..."
+
 
 * NEMROK KA VARROK = Nemrok wird die Rache der Ahnen sein / Nemrok wird die Ahnen rächen
 * Nemrok = Eigenname eines großen Führers der Vergangenheit, mit der Bedeutung:
