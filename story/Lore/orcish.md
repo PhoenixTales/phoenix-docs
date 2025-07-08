@@ -53,5 +53,22 @@ Höhle/Tunnel?, siehe *Gach Lug* (Minecrawler), siehe auch *“Karrok Ur Shak To
 * **Hu** - ???, “Still!”
 * **Hosh-Pak** - ??? Schrei-Maul? Könnte eine Beschimpfung sein, siehe auch *Pak*.
 
+* **Ka** - wird, wird werden, darauf wird es hinauslaufen, siehe auch *ak* (da kommt es her, daraus ist es geworden), siehe *Kar* (Zahn = Spitz-Zugelaufener), siehe orkischer Kampfruf *Nemrok Ka Varrok!* (“Nemrok wird der Ahnen Rache sein!”)
+* **Kasorg** - ???, Name eines Hohepriesters des Bluterde-Clans
+* **Kar** - Zahn, Spitz, (Karr = Mehrzahl), “das Spitz-Zugelaufene”,
+siehe auch *Dwachkarr* (Sumpfhaizähne) oder
+Krush Karrok (‘Zahnzerschmetterer aus Bluterz’)
+* **Karras** - ???
+* **Karrok** - Zahnzerschmetterer, Spitzer Zerschmetterer
+* **Kru** - Erz (Bluterz)
+* **Krush** - Erzen, aus rotem, magischem Erz bzw. Bluterz, vllt. auch “erzgeschmolzen” oder “aus Erz gemacht”
+* **Krushak** - der Schläfer, kann gelesen werden als *Kru-Shak* = Erzträumer, Erzschläfer, oder als *Krush-Ak*, “vom Erz abstammend”
+* **Khaz** - ???, Schattenläufer (vllt. heißt es soviel wie “Schnaufer”?)
+* **Khaz-Tak** - (wörtlich???), Horn eines Schattenläufers
+* **Kor** ???, siehe *“Rok Krushak Kor Ganorg”*
+* **Kro** - Feuer, Flammen
+* **Krotahk** - Flammenzunge, die Zunge eines Feuerwarans
+* **Mora** - Mensch, mo = sterblich, ra = Gott/Götze.
+* 
 
 
