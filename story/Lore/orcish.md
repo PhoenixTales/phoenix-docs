@@ -117,4 +117,60 @@ es gibt den Hohepriester Kasorg und den  Begriff “Ganorg”. Norg der Feind un
 * **Orth-Antak** - Trollhauer, wörtlich ???
 
 
+### S
+
+* **Sha** - Erscheinung, übernatürl. Phänomen, Wunder, Manifestation, Sonne
+* **Shak** - Träumer, Schläfer, etymologisch, philosophisch “dem Über-Phänomenalen entstammend”, von Sha + ak (von der Sonne, von dem Übernatürlichen kommend)
+* **ShaBa** - Wunder wirken, Magie, Zauber, Manifestieren
+* **ShaBaNakk** - Zauberstab, Wunderstab, Name eines Schamanenstabs
+* **Shaba-Mora** - wörtlich Zaubermensch = Magier, Zauberer.
+* **Shaba-Mori** - weiblicher Zauberer, Hexe (falls die Orks in orkisch von der Hexe im Sumpf reden in Akt II)
+* **Sorg** - ???, siehe *Kasorg* (Name eines orkischen Hohepriesters)
+* **Shor** - “Erde berühren, betreten?” siehe Hashor (orkischer Name)
+
+
+### B
+
+* **Ba** - Machen, Wirken, Tun, siehe *ShaBa* (Wunder wirken, Magie)
+* **Brok** - Berg??? Da in dem Wort Brok auch wieder “Rok” drinsteckt,
+könnte es auch soetwas wie ein Meteor sein oder eine “Sternschnuppe”.
+Das ist wie ein Berg/Stein, aber es erschüttert die Erde zugleich,
+bzw. ein herabfallender Fels, in der Mehrzahl Geröll (Brokk).
+* **BrokDar** - vllt. Steinbrecher? Steinschlitzer? Oder Brok = Berg.
+(Sternschnuppenbrecher ist amüsant)
+
+
+### R
+
+* **Ru** - zu Geist (geworden, werdend), siehe auch Ur = von Geist (kommend)
+* **Ruuushk** womöglich “der, dess’ Blut zu Geist gewordenes Erz ist” (*Ru + u + ush-k*), Name eines Hohepriesters des Bluterde-Clans
+* **Rok** - Als Endung: Erschütterer, Zerschmetterer, Zerstörer bzw. Erschütterung, auch Rache; eigenständig als Adjektiv und Verb, zerschmettert/n, zerstört/en, getötet/töten etc.
+
+[Anmerkung: Die Orks scheinen keine Vergangenheit zu kennen; es gibt nur was ist und was wird; alles hat einen Ursprung, aber es ist sprachlich nicht als etwas “Vergangenes” gefasst.]
+
+* **Rog** - ???, Wo steht das? Streicheln?
+* **Ras** - ???, siehe auch *“Karrok Ur Shak Tos Kar**ras** Da Gach”*
+* **Rag** - Führer, siehe *Varrag* (Ahnenführer)
+* **Raga** - Führerschaft, Herrschaft, Kontrolle
+* **Ra** - Herr, Gott, Götze (der Menschen)
+
+
+### T
+
+* **Tak** - Horn, siehe Khaz-Tak (Schattenläuferhorn)
+* **-tak** - stark, fest, hart, siehe Antak (Troll)
+* **Tahk** - Zunge, siehe *Krotahk* (Flammenzunge)
+* **- tahk** - weich, zart
+* **Tos** - ???, siehe *“Karrok Ur Shak **Tos** Karras Da Gach”*
+* **Tar** - ???, siehe Tarrok
+* **Tarrok** - ???, Name eines Orks
+
+
+### D
+
+* **Da** - ???, siehe *“Karrok Ur Shak Tos Karras Da Gach”*
+* **Dar** - ???, siehe BrokDar (???)
+* **Dwach** - wörtlich: ??? = Sumpfhai (irgendwas für den Sumpfha
+
+
 
