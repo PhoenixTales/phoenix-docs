@@ -129,12 +129,13 @@ es gibt den Hohepriester Kasorg und den  Begriff “Ganorg”. Norg der Feind un
 
 * **Sha** - Erscheinung, übernatürl. Phänomen, Wunder, Manifestation, Sonne
 * **Shak** - Träumer, Schläfer, etymologisch, philosophisch “dem Über-Phänomenalen entstammend”, von Sha + ak (von der Sonne, von dem Übernatürlichen kommend)
-* **Shat** - sha + at, ... 
+* **Shat** - sha + at, wörtlich "nach unten tasten" ... 
 * **Sath** - ???
+* **Shaor** - die übernatürliche Erde, die 
 * **ShaBa** - Wunder wirken, Magie, Zauber, Manifestieren
 * **ShaBaNakk** - Zauberstab, Wunderstab, Name eines Schamanenstabs
 * **Shaba-Mora** - wörtlich Zaubermensch = Magier, Zauberer.
-* **Shaba-Mori** - weiblicher Zauberer, Hexe (falls die Orks in orkisch von der Hexe im Sumpf reden in Akt II)
+* **Shaba-Mori** - weiblicher Zauberer, Hexe (falls die Orks in orkisch etwa von der Hexe im Sumpf reden in Akt II)
 * **Sorg** - ???, siehe *Kasorg* (Name eines orkischen Hohepriesters)
 * **Shor** - “Erde berühren, betreten?” siehe Hashor (orkischer Name)
 * **Shugul** - ???
@@ -143,6 +144,7 @@ es gibt den Hohepriester Kasorg und den  Begriff “Ganorg”. Norg der Feind un
 ### B
 
 * **Ba** - Machen, Wirken, Tun, siehe *ShaBa* (Wunder wirken, Magie)
+* **Bu** - Ruhe, entspannen
 * **Brok** - Berg??? Da in dem Wort Brok auch wieder “Rok” drinsteckt,
 könnte es auch soetwas wie ein Meteor sein oder eine “Sternschnuppe”.
 Das ist wie ein Berg/Stein, aber es erschüttert die Erde zugleich,
@@ -197,13 +199,21 @@ der mit den drei Mäulern oder so.
 * **Varrok** - “Rache der Ahnen”, Name einer orkischen Waffe
 * **Lug** - Tunnel, “Wühler”, Sucher
 
+
+### Noch zu erfindende Wörter
+
+* ??? - Nacht
+* ??? - Tag
+* ??? - Mond
+* ??? - Sonne
+* ??? - hoch
+* ??? - runter
 * ??? - Echse/Waran
 * ??? - Molerat
-* ??? - Orkbeisser, da hätte ich gerne eine Bedeutung ala “Beinmaul”, weils im
-Wesentlichen ein Maul auf zwei Beinen ist (besonders der Alpha Beisser)
 * ??? - Orkhund, da könnte ich mir was wie “Orkfreund” vorstellen als Bedeutung.
-Ala: Orak-Sorg, oder einen Fellbezug. Fellfreund. Was heißt Fell?
-* **?-Pach** - Scavenger (wir hätten schon ein Wort für Schnabel…; evtl. noch was zu seinem lauten “Schrei”, ein Schreiender Schnabel, Schreischnabel)- Hash-Pach?
+Ala: Orak-Sorg, oder einen Bezug auf ihr Maul, also sowas wie "Beinmaul".
+* ??? - Wolf; hier vielleicht einen Fellbezug. Soetwas wie Fellhund. 
+* **Hash-Pach** - Aasgeier (Scavenger), wörtlich Schreiender Schnabel, Schreischnabel.
 * ??? - Goblin, vllt. sowas wie “kleiner Troll”, auch weil die ja viel mit den Trollen abhängen oder sowas wie “Trollfreund”. Wenn Sorg = Freund, dann Antak-Sorg? Oder: Antaki (kleiner Troll?)
 Oder ein Wort für Dieb? Goblins bestehlen Orks vllt. genauso wie Menschen.
 
@@ -220,6 +230,8 @@ Oder ein Wort für Dieb? Goblins bestehlen Orks vllt. genauso wie Menschen.
 ### EXAMPLES OF ORCISH SENTENCES
 
 With the help of "-ak" and "-ka" everything combined with it can be described as coming from that or going towards that, thus *ak-ka-ka-ak*, is a saying like "from to, to from..."
+
+For instance: "Ur-Shak ak Varak-Ulor" would mean: Ur-Shak comes from the Bloodearth Clan. If you say: "Ur-Shak ka Varak-Ulor", it would mean: Ur-Shak goes to the Bloodearth Clan. 
 
 
 * NEMROK KA VARROK = Nemrok wird die Rache der Ahnen sein / Nemrok wird die Ahnen rächen
