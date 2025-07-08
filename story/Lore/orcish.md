@@ -29,25 +29,43 @@ For now, the words and explanations are still in my original German. I may trans
 
 * **U** - Ur-Laut der Orks, wird oft gesungen (siehe auch “Huh” bei den Sufis)
 * **Uk** - ?? (sagen sie dauernd, auch beim Laufen, Uk, uk etc.) (evtl. Los, Los!)
-* **Ur** - Geist, Macht, siehe *UrRok* (Geisterschütterer)
-* **Uru** - aus dem Geist, von Geist, Sohn von Geist = Schamane, wird als Ehrentitel dem Namen vorangestellt, siehe *Ur-Shak* (in der älteren Sprache Uru-Shak)
+* **Ur** - Geist, Macht, siehe *UrRok* (Geisterschütterer), siehe auch *Ru*
+* **Uru** - ur+ru, aus dem Geist, von Geist gezeugt, Sohn von Geist = Schamane, wird als Ehrentitel dem Namen vorangestellt, siehe *Ur-Shak* (in der älteren Sprache Uru-Shak)
+* **Ur-Shak** - Schamane *Shak*, der Sohn von Geist namens *Shak* (Träumer), siehe auch *Kru-Shak*
+* **Usha** - Licht
+* **Ushat** Finsternis, Dunkelheit
+* **Ursha** - geistiges, inneres Licht
+* **Urshat** - geistige Finsternis, innere Dunkelheit
 * **Ul** - Blut
 * **Ulor** - Bluterde, siehe auch *Or*, siehe auch *Varak-Ulor*
 * **Ulu** - aus dem Blut, Kraft, Ehre, siehe *Ulu-Mulu* (Zeichen der Kraft/Ehre)
 * **Ulu-Mulu** - Zeichen der Kraft, Zeichen der Ehre
+* **Ulan** - wörtlich das "Blutinnere", etwas das einem ganz nah ist, im übertragenen Sinne das Herz selbst.
 * **Unhilqt** - ???, Name eines Hohepriesters des Bluterde-Klans
 * **Un** - ???
-* **Unak** - the  
+* **Unak** - the
+* **Urak** - der vom Geist abstammende
 
 
 ### A
 
 * **Ak** - Abstammen, davon stammt es ab, kommt her, daraus ist es geworden,
 siehe auch *Orak* (Ork, ‘von der Erde stammend’) oder *Varak* (Stamm)
-* **An** - ???
+* **Akmu** - "etwas das von Innen herauskommt", also auch zB. ein Geräusch innerhalb der Höhle, in der man sich befindet
+* **Akma** - "etwas das von Außen eindringt", auch zB. ein Geräusch das von außen hereinkommt.
+* **Ach** - der Rachen, die Kehle, das was im Hals steckt
+* **Akach** - das aus dem Rachen kommende
+* **At** - nein
+* **An** - in
+* **Anul** - an+ul, im Blute
+* **Anat** - Zweifel, Absage, wörtlich "in nein"
+* **Anta** - Gewissheit, Bestätigung, wörtlich "in ja"
+* **Anor** - an+or, in der Erde, siehe auch *Oran*
 * **Antak** - Troll, wörtlich “Stark-…”, An+tak // oder sind das die Hauer?
 * **Agash** - Name einer Waffe (das A vllt. als Negation; also gäbe es auch Gash)
-* **Arushat** - ???, Name des obersten Hohepriesters des Bluterde-Clans
+* **Arushat** - wörtlich der "Vogel der Nacht", Name des obersten Hohepriesters des Bluterde-Clans
+* Arusha - der Geistvogel, der Wundervogel, der Sonnenvogel
+* **Aru** - der Vogel, der Falke, der Adler
 
 
 ### G
@@ -56,12 +74,11 @@ siehe auch *Orak* (Ork, ‘von der Erde stammend’) oder *Varak* (Stamm)
 * **Ganorg** - Heiliger Feind
 * **Ga** - Heilig, Gut, auch Ausruf des Erstaunens
 * **Grash** - "Großer", "Gewaltiger", "Oberster", höchster Titel eines obersten Schamanen eines orkischen Clans (siehe *Grash-Varrag-Arushat*)
-* **Grash-Varrag-Arushat** - wörtlich etwa "Groß-Ahnenführer, Name des obersten untoten Schamanen im versiegelten Orktempel
-* **Gach** - vllt. sowas wie Stein? Oder Gach = Beißer und Lug Gestein oder Lug =
-Höhle/Tunnel?, siehe *Gach Lug* (Minecrawler), siehe auch *“Karrok Ur Shak Tos Karras Da **Gach**”*; Beißer würde passen, wenn Ach = Spaltung dann Gach = Zerbeißen/Spalten?
-* **Gach Lug** - “Tunnelbeißer” = Minecrawler
+* **Grash-Varrag-Arushat** - wörtlich etwa "Groß-Ahnenführer Arushat", Name des obersten untoten Schamanen im versiegelten Orktempel
+* **Gach** - Verschlinger, Beißer, siehe *Gach Lug* (Minecrawler), siehe auch *“Karrok Ur Shak Tos Karras Da **Gach**
+* **Gach Lug** - “Tunnelbeißer” oder "Verschlingender Sucher" = Minecrawler
 * **Grachtnakk** - wörtlich "Gewitterstab", Name eines Schamanenstabs
-* **Gracht** - Gewitter, auch Blitz
+* **Gracht** - Gewitter, wörtlich "großer Rachen", die Orks sehen das Gewitter als das "Ächzen" des Himmels, wie ein Laut aus dem Rachen des großen Geistes
 * **Gash** - ???, siehe auch Agash (Negation von Gash)
 
 
@@ -69,6 +86,7 @@ Höhle/Tunnel?, siehe *Gach Lug* (Minecrawler), siehe auch *“Karrok Ur Shak To
 
 * **Hashor** - kann gelesen werden als *Hash-or* oder als *Ha-Shor*. Hash-or = “Erdflüsterer”, “Flüsternde Erde”, Ha-Shor = “der leise auf die Erde tritt”; Name eines Hohepriesters des Bluterde-Clans. 
 * **Hash** - ??? Flüstern?
+* **Hosh-Pach** - Aasgeier (Scavenger), wörtlich Schreiender Schnabel, Schreischnabel.
 * **Ha** - ??? leise, Stimme nach unten, Stimme senken.
 * **Hilqt** - ???, siehe Unhilqt
 * **Hosh** - ???, Schreien, rufen?
@@ -92,6 +110,8 @@ Krush Karrok (‘Zahnzerschmetterer aus Bluterz’)
 * **Khaz** - ???, Schattenläufer (vllt. heißt es soviel wie “Schnaufer”?)
 * **Khaz-Tak** - (wörtlich???), Horn eines Schattenläufers
 * **Kor** ???, siehe *“Rok Krushak Kor Ganorg”*
+* **Kra** - Rabe, Krähe
+* **Krach** - "Krähenkrächzen", Krähenrachen
 * **Kro** - Feuer, Flammen
 * **Krotahk** - Flammenzunge, die Zunge eines Feuerwarans
 
@@ -102,6 +122,7 @@ Krush Karrok (‘Zahnzerschmetterer aus Bluterz’)
 es eine etymologische Verbindung zwischen Leben und Schlamm/Lehm etc.)
 * **Mulu** - Zeichen, Symbol, etymologisch etwa “Ausdruck des Blutes”
 * **Mu** - Ausdruck, ausdrücken, ausschöpfen
+* **Ma** - Eindruck, eindrücken, einnehmen
 * **Mo**, sterblich, gestorben, sterbend, * **Mor** - zur Erde, Lehm, Schlamm; darum nannten die Menschen sich “Mo-Ra” (sterblicher Gott), während die Orks sie als Mor-Ra beschimpfen, als die "Drecksgötter" sozusagen.
 * **Morok** - Tod?
 * **Ma** - ???
@@ -121,6 +142,7 @@ es gibt den Hohepriester Kasorg und den  Begriff “Ganorg”. Norg der Feind un
 
 * **Or** - Erde
 * **Orak** - aus Erde, Lehm, von der Erde stammend, daher "Ork" als Bezeichnung der Menschen (siehe auch *Ak*)
+* **Oran** - Erdinneres
 * **Orth** - Hauer, siehe auch *Orth-Antak* (Hauer von Troll); Orth ist auch ein historischer Nachname und könnte sich z.B. vom mittelalterlichen Wort für “Spitze”, “Ecke” ableiten)
 * **Orth-Antak** - Trollhauer, wörtlich ???
 
@@ -129,16 +151,16 @@ es gibt den Hohepriester Kasorg und den  Begriff “Ganorg”. Norg der Feind un
 
 * **Sha** - Erscheinung, übernatürl. Phänomen, Wunder, Manifestation, Sonne
 * **Shak** - Träumer, Schläfer, etymologisch, philosophisch “dem Über-Phänomenalen entstammend”, von Sha + ak (von der Sonne, von dem Übernatürlichen kommend)
-* **Shat** - sha + at, wörtlich "nach unten tasten" ... 
-* **Sath** - ???
-* **Shaor** - die übernatürliche Erde, die 
+* **Shat** - von sha + at, wörtlich "nicht Sonne", "nicht sichtbar", "Nacht"; *Sath* ist das moraische Äquivalent
+* **Shaor** - die übernatürliche Erde, die Sonnenerde
 * **ShaBa** - Wunder wirken, Magie, Zauber, Manifestieren
 * **ShaBaNakk** - Zauberstab, Wunderstab, Name eines Schamanenstabs
 * **Shaba-Mora** - wörtlich Zaubermensch = Magier, Zauberer.
 * **Shaba-Mori** - weiblicher Zauberer, Hexe (falls die Orks in orkisch etwa von der Hexe im Sumpf reden in Akt II)
 * **Sorg** - ???, siehe *Kasorg* (Name eines orkischen Hohepriesters)
 * **Shor** - “Erde berühren, betreten?” siehe Hashor (orkischer Name)
-* **Shugul** - ???
+* **Shugul** - "das Gespenst des Blutes" ???
+* **Shu** - Gespenst
 
 
 ### B
@@ -155,11 +177,11 @@ bzw. ein herabfallender Fels, in der Mehrzahl Geröll (Brokk).
 
 ### R
 
-* **Ru** - zu Geist (geworden, werdend), siehe auch Ur = von Geist (kommend)
+* **Ru** - zu Geist (geworden, werdend), siehe auch Ur = von Geist (kommend), im übertragenen Sinne die Zeugung, das Zeugen. 
 * **Ruuushk** womöglich “der, dess’ Blut zu Geist gewordenes Erz ist” (*Ru + u + ush-k*), Name eines Hohepriesters des Bluterde-Clans
-* **Rok** - Als Endung: Erschütterer, Zerschmetterer, Zerstörer bzw. Erschütterung, auch Rache; eigenständig als Adjektiv und Verb, zerschmettert/n, zerstört/en, getötet/töten etc.
+* **Rok** - Erschütterer, Zerschmetterer, Zerstörer bzw. Erschütterung, auch Rache; eigenständig als Adjektiv und Verb, zerschmettert/n, zerstört/en, getötet/töten etc.
 
-[Anmerkung: Die Orks scheinen keine Vergangenheit zu kennen; es gibt nur was ist und was wird; alles hat einen Ursprung, aber es ist sprachlich nicht als etwas “Vergangenes” gefasst.]
+[Anmerkung: Die Orks scheinen keine Vergangenheit zu kennen; es gibt nur was ist und was wird und woher etwas kommt; alles hat einen Ursprung, aber es ist sprachlich nicht als etwas “Vergangenes” gefasst.]
 
 * **Rog** - ???, Wo steht das? Streicheln?
 * **Ras** - ???, siehe auch *“Karrok Ur Shak Tos Kar**ras** Da Gach”*
@@ -177,15 +199,16 @@ bzw. ein herabfallender Fels, in der Mehrzahl Geröll (Brokk).
 * **Tos** - ???, siehe *“Karrok Ur Shak **Tos** Karras Da Gach”*
 * **Tar** - ???, siehe Tarrok
 * **Tarrok** - ???, Name eines Orks
+* **ti** - hier
+* **to** - dort
+* **ta** - ja, siehe auch *at* (nein)
 
 
 ### D
 
 * **Da** - ???, siehe *“Karrok Ur Shak Tos Karras Da Gach”*
 * **Dar** - ???, siehe BrokDar (???)
-* **Dwach** - wörtlich: ??? = Sumpfhai (irgendwas für den Sumpfhai charakteristisches; am charakteristischsten ist wohl sein Maul, das so drei Teile hat...) also sollte Dwa sowas wie “drei” heißen und was ist Ach?
-Vielleicht analog zu AK = abstammen, ACH = verteilen/verzweigen; damit ist der Sumpfhai der “in drei verzweigte”? Oder aber “ach” = Rachen/Maul,
-der mit den drei Mäulern oder so.
+* **Dwach** - wörtlich: der Verzweigte, oder der Zweirachige = Sumpfhai
 * **Dwachkarr** - Zähne eines Sumpfhais
 
 
@@ -202,10 +225,8 @@ der mit den drei Mäulern oder so.
 
 ### Noch zu erfindende Wörter
 
-* ??? - Nacht
 * ??? - Tag
 * ??? - Mond
-* ??? - Sonne
 * ??? - hoch
 * ??? - runter
 * ??? - Echse/Waran
@@ -213,7 +234,6 @@ der mit den drei Mäulern oder so.
 * ??? - Orkhund, da könnte ich mir was wie “Orkfreund” vorstellen als Bedeutung.
 Ala: Orak-Sorg, oder einen Bezug auf ihr Maul, also sowas wie "Beinmaul".
 * ??? - Wolf; hier vielleicht einen Fellbezug. Soetwas wie Fellhund. 
-* **Hash-Pach** - Aasgeier (Scavenger), wörtlich Schreiender Schnabel, Schreischnabel.
 * ??? - Goblin, vllt. sowas wie “kleiner Troll”, auch weil die ja viel mit den Trollen abhängen oder sowas wie “Trollfreund”. Wenn Sorg = Freund, dann Antak-Sorg? Oder: Antaki (kleiner Troll?)
 Oder ein Wort für Dieb? Goblins bestehlen Orks vllt. genauso wie Menschen.
 
@@ -222,7 +242,7 @@ Oder ein Wort für Dieb? Goblins bestehlen Orks vllt. genauso wie Menschen.
 
 * **Pach** - Schnabel, Hacke
 * **Poch** - Klaue/Kralle? (wie ein Schnabel geformt, aber o -> hat mit der Erde zu tun)
-* **Pak** - Maul?
+* **Pak** - Maul
 * **Pak-Hu** - Maul halten, Halts maul!, siehe auch *Hu* (still)
 
 
