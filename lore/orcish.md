@@ -18,7 +18,7 @@ Flosha: <!--Ich habe bezüglich der orkischen Sprache eine gewisse Logik entwick
 Grau hinterlegt sind alle Begriffe, die in Gothic selbst vorkamen; alle Übersetzungen und Beschreibungen sind von Florian, mit Ausnahme der wenigen, die im Spiel selbst bereits gegeben werden (sowie Krushak = Schläfer, Ur-Shak = Sohn von Geist).--> 
 I have developed an (incomplete) orcish language and a certain logique, by which the orcish terms that we know make sense and from which I deduced various "roots" through which we can form additional words and simple sentences. Everything has been developed through the few words and fragments present in the game version(s) and documents. 
 
-All the translations or "meanings" and explanations of the words are by me with an exception of the few explanations that are already given in the game (such as Ur-Shak = "Son of Ghost").
+All the translations or "meanings" and explanations of the words are by me with an exception of the few explanations that are already given in the game.
 
 <!-- Anmerkung: Die Orks scheinen keine Vergangenheit zu kennen; es gibt nur was ist und was wird und woher etwas kommt; alles hat einen Ursprung, aber es ist sprachlich nicht als etwas “Vergangenes” gefasst. -->
 
