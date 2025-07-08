@@ -170,7 +170,51 @@ bzw. ein herabfallender Fels, in der Mehrzahl Geröll (Brokk).
 
 * **Da** - ???, siehe *“Karrok Ur Shak Tos Karras Da Gach”*
 * **Dar** - ???, siehe BrokDar (???)
-* **Dwach** - wörtlich: ??? = Sumpfhai (irgendwas für den Sumpfha
+* **Dwach** - wörtlich: ??? = Sumpfhai (irgendwas für den Sumpfhai charakteristisches; am charakteristischsten ist wohl sein Maul, das so drei Teile hat...) also sollte Dwa sowas wie “drei” heißen und was ist Ach?
+Vielleicht analog zu AK = abstammen, ACH = verteilen/verzweigen; damit ist der Sumpfhai der “in drei verzweigte”? Oder aber “ach” = Rachen/Maul,
+der mit den drei Mäulern oder so.
+* **Dwachkarr** - Zähne eines Sumpfhais
+
+
+### V
+
+* **Va** - Ahne
+* **Var** - Ahnen, siehe Varrok (‘Rache der Ahnen’)
+* **Varrag** - Ahnenführer, Führer der Ahnen, Titel der orkischen ‘Hohepriester’
+* **Varak** - wörtlich ‘Ahnenabstammung’, Stamm, Clan, siehe auch *Ak* (abstammen)
+* **Varak-Ulor** - Clan der Bluterde, Bluterde-Clan
+* **Varrok** - “Rache der Ahnen”, Name einer orkischen Waffe
+* **Lug** - Tunnel, “Wühler”, Sucher
+
+* ??? - Echse/Waran
+* ??? - Molerat
+* ??? - Orkbeisser, da hätte ich gerne eine Bedeutung ala “Beinmaul”, weils im
+Wesentlichen ein Maul auf zwei Beinen ist (besonders der Alpha Beisser)
+* ??? - Orkhund, da könnte ich mir was wie “Orkfreund” vorstellen als Bedeutung.
+Ala: Orak-Sorg, oder einen Fellbezug. Fellfreund. Was heißt Fell?
+* **?-Pach** - Scavenger (wir hätten schon ein Wort für Schnabel…; evtl. noch was zu seinem lauten “Schrei”, ein Schreiender Schnabel, Schreischnabel)- Hash-Pach?
+* ??? - Goblin, vllt. sowas wie “kleiner Troll”, auch weil die ja viel mit den Trollen abhängen oder sowas wie “Trollfreund”. Wenn Sorg = Freund, dann Antak-Sorg? Oder: Antaki (kleiner Troll?)
+Oder ein Wort für Dieb? Goblins bestehlen Orks vllt. genauso wie Menschen.
+
+
+### P
+
+* **Pach** - Schnabel, Hacke
+* **Poch** - Klaue/Kralle? (wie ein Schnabel geformt, aber o -> hat mit der Erde zu tun)
+* **Pak** - Maul?
+* **Pak-Hu** - Maul halten, Halts maul!, siehe auch *Hu* (still)
+
+
+
+### EXAMPLES OF ORCISH SENTENCES
+
+* NEMROK KA VARROK = Nemrok wird die Rache der Ahnen sein / Nemrok wird die Ahnen rächen
+* Nemrok = Eigenname eines großen Führers der Vergangenheit, mit der Bedeutung:
+“Der Rachenehmer” oder “Der die Rache/Erschütterung/Zerstörung nimmt/zuweist/beendet”.
+Wird von den Orks oft als Kampfruf gebraucht.
+
+Was hier auch noch hin muss sind typische Ausrufe der Orks im Spiel. Zum Beispiel wenn sie dich verfolgen. Wir sollten versuchen da gut hinzuhören und aufzuschreiben was die da rufen.
+
 
 
 
