@@ -16,6 +16,9 @@ to be added from the old docs.
 Info: Ich habe bezüglich der orkischen Sprache eine gewisse Logik entwickelt, mit der die Begriffe der Orks einen Sinn ergeben und mit der man einfache Sätze bilden kann. Es fehlen noch einige Wörter. Alles wurde entwickelt anhand der Wortfetzen, die es im Spiel schon gibt.
 Grau hinterlegt sind alle Begriffe, die in Gothic selbst vorkamen; alle Übersetzungen und Beschreibungen sind von Florian, mit Ausnahme der wenigen, die im Spiel selbst bereits gegeben werden (sowie Krushak = Schläfer, Ur-Shak = Sohn von Geist).
 
+
+### U
+
 * **U** - Ur-Laut der Orks, wird gesungen etc. (siehe auch “Huh” bei den Sufis)
 * **Uk** - ?? (sagen sie dauernd, auch beim Laufen, Uk, uk etc.) (evtl. Los, Los!)
 * **Ur** - Geist, Macht, siehe *UrRok* (Geisterschütterer)
@@ -27,12 +30,20 @@ dem Namen vorangestellt, siehe *Ur-Shak* (in der älteren Sprache Uru-Shak)
 * **Ulu-Mulu** - Zeichen der Kraft, Zeichen der Ehre
 * **Unhilqt** - ???, Name eines Hohepriesters des Bluterde-Klans
 * **Un** - ??? 
+
+
+### A
+
 * **Ak** - Abstammen, davon stammt es ab, kommt her, daraus ist es geworden,
 siehe auch *Orak* (Ork, ‘von der Erde stammend’) oder *Varak* (Stamm)
 * **An** - ???
 * **Antak** - Troll, wörtlich “Stark-…”, An+tak // oder sind das die Hauer?
 * **Agash** - Name einer Waffe (das A vllt. als Negation; also gäbe es auch Gash)
 * **Arushat** - ???, Name des obersten Hohepriesters des Bluterde-Clans
+
+
+### G
+
 * **Grash-Ur** - Der große Geist (Gottesvorstellung der Orks)
 * **Ganorg** - Heiliger Feind
 * **Ga** - Heilig, Gut, auch Ausruf des Erstaunens
@@ -44,6 +55,10 @@ Höhle/Tunnel?, siehe *Gach Lug* (Minecrawler), siehe auch *“Karrok Ur Shak To
 * **Grachtnakk** - ???, Name eines Schamanenstabs
 * **Gracht** - ???, vllt. Gewitter/Blitz?
 * **Gash** - ???, siehe auch Agash (Agash Negation von Gash?)
+
+
+### H
+
 * **Hashor** - kann gelesen werden als *Hash-or* oder als *Ha-Shor*. Hash-or = “Erdflüsterer”, “Flüsternde Erde”, Ha-Shor = “der leise auf die Erde tritt”; Name eines Hohepriesters des Bluterde-Clans. 
 * **Hash** - ??? Flüstern?
 * **Ha** - ??? leise, Stimme nach unten, Stimme senken.
@@ -52,6 +67,9 @@ Höhle/Tunnel?, siehe *Gach Lug* (Minecrawler), siehe auch *“Karrok Ur Shak To
 * **Ho** - ??? laut, Stimme nach oben, Stimme erheben.
 * **Hu** - ???, “Still!”
 * **Hosh-Pak** - ??? Schrei-Maul? Könnte eine Beschimpfung sein, siehe auch *Pak*.
+
+
+### K
 
 * **Ka** - wird, wird werden, darauf wird es hinauslaufen, siehe auch *ak* (da kommt es her, daraus ist es geworden), siehe *Kar* (Zahn = Spitz-Zugelaufener), siehe orkischer Kampfruf *Nemrok Ka Varrok!* (“Nemrok wird der Ahnen Rache sein!”)
 * **Kasorg** - ???, Name eines Hohepriesters des Bluterde-Clans
@@ -68,7 +86,35 @@ Krush Karrok (‘Zahnzerschmetterer aus Bluterz’)
 * **Kor** ???, siehe *“Rok Krushak Kor Ganorg”*
 * **Kro** - Feuer, Flammen
 * **Krotahk** - Flammenzunge, die Zunge eines Feuerwarans
-* **Mora** - Mensch, mo = sterblich, ra = Gott/Götze.
-* 
+
+
+### M
+
+* **Mora** - Mensch, mo = sterblich, ra = Gott/Götze. (*Mo* = sterblich, *mor* ist der Schlamm; im indogermanischen gibt
+es eine etymologische Verbindung zwischen Leben und Schlamm/Lehm etc.)
+* **Mulu** - Zeichen, Symbol, etymologisch etwa “Ausdruck des Blutes”
+* **Mu** - Ausdruck, ausdrücken, ausschöpfen
+* **Mo**, sterblich, gestorben, sterbend, * **Mor** - zur Erde, Lehm, Schlamm; darum nannten die Menschen sich “Mo-Ra” (sterblicher Gott), während die Orks sie als Mor-Ra beschimpfen, als die "Drecksgötter" sozusagen.
+* **Morok** - Tod?
+* **Ma** - ???
+
+
+### N
+
+* **Nakk** - Stock oder Stab, siehe *Shabanakk*, *Grachtnakk*
+* **Nem** - (siehe griechisch nem-: nehmen, zuweisen)
+* **Nemrok** - Rache/Zerstörung nehmen, zuweisen, beenden, "Ende der Rache";
+Urahne vieler orkischer Stämme, großer Krieger
+* **Norg** - ???, Feind, evtl. Bezug zwischen “Sorg” und “Norg” herstellen,
+es gibt den Hohepriester Kasorg und den  Begriff “Ganorg”. Norg der Feind und Sorg der Freund? (der eine nörgelt, der andere sorgt sich :P)
+
+
+### O
+
+* **Or** - Erde
+* **Orak** - aus Erde, Lehm, von der Erde stammend, Ork (siehe Ak)
+* **Orth** - Hauer, siehe auch *Orth-Antak* (Hauer von Troll); Orth ist auch ein historischer Nachname und könnte sich z.B. vom mittelalterlichen Wort für “Spitze”, “Ecke” ableiten)
+* **Orth-Antak** - Trollhauer, wörtlich ???
+
 
 
