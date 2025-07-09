@@ -44,7 +44,8 @@ Before developing the language any further, below is a list of all the words or 
 **Speculation:**
 
 * Grunt
-* ...
+* Shabak
+* Smörk
 * Shugul Sath
 * Gharak
 * Lifrun
