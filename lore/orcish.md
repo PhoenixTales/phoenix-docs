@@ -12,6 +12,55 @@ Info: Everything about the orcish language and runes as used in Phoenix.
 to be added from the old docs.
 
 
+## Orcish Words
+
+Before developing the language any further, below is a list of all the words or sentences found in the game that either are known to be orcish or can at least be speculated to be orcish.
+
+[wip, add the remaining sentences from the scripts]
+
+* Ur-
+* Ur-Shak
+* Tarrok
+* Krushak
+* Nemrok ka Varrok
+* Karrok Ur Shak Tos Karras Da Gach
+* Arushat
+* Unhilqt
+* Orth-Antak
+* Ulu-Mulu
+* Ganorg
+* Kasorg
+* ShaBaNakk
+* Grachtnakk
+* Varrag-
+* Grash-
+* Krotahk
+* BrokDar
+* Ruuushk
+* Dwachkarr
+* Gach Lug
+  
+
+**Speculation:**
+
+* Grunt
+* ...
+* Shugul Sath
+* Gharak
+* Lifrun
+* Or
+* Nach
+* bin
+* thu
+* mar
+* Orag
+* chtah
+* Shrunk
+* esp
+* Horinth
+
+
+
 ## Orcish Syllables & Roots
 
 Flosha: <!--Ich habe bezüglich der orkischen Sprache eine gewisse Logik entwickelt, mit der die Begriffe der Orks einen Sinn ergeben und mit der man einfache Sätze bilden kann. Es fehlen noch einige Wörter. Alles wurde entwickelt anhand der Wortfetzen, die es im Spiel schon gibt.
