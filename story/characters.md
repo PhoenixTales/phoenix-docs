@@ -189,6 +189,7 @@ The names of the female slaves doesn't have to be translated.
 | Pacho    | Kurzer     | ?             | ?           | ?                |   ?   |
 | ?        | ?          | Adler(auge)   | Hawk(eye)   | ?                |   ?   |
 | ?        | ?          | ?             | Sharp(blade) | ?               |   ?   |
+| ?        | ?          | Stinker       | Skunk       | ?                |   ?   |
 | ?        | Smörk      | -             | -           | ?, Halbork       |   ?   |
 | ?        | ?          | Schlange      | Snake       | ?                |   ?   |
 | ?        | ?          | Kralle        | Talon       | ?                |   ?   |
