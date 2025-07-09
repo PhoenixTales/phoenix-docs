@@ -18,6 +18,7 @@ Before developing the language any further, below is a list of all the words or 
 
 [wip, add the remaining sentences from the scripts]
 
+**Sure:**  
 * Ur-
 * Ur-Shak
 * Tarrok
@@ -40,9 +41,7 @@ Before developing the language any further, below is a list of all the words or 
 * Dwachkarr
 * Gach Lug
   
-
 **Speculation:**
-
 * Grunt
 * Shabak
 * Smörk
@@ -62,7 +61,6 @@ Before developing the language any further, below is a list of all the words or 
 * Horinth
 
 
-
 ## Orcish Syllables & Roots
 
 Flosha: <!--Ich habe bezüglich der orkischen Sprache eine gewisse Logik entwickelt, mit der die Begriffe der Orks einen Sinn ergeben und mit der man einfache Sätze bilden kann. Es fehlen noch einige Wörter. Alles wurde entwickelt anhand der Wortfetzen, die es im Spiel schon gibt.
@@ -73,7 +71,7 @@ All the translations or "meanings" and explanations of the words are by me with 
 
 <!-- Anmerkung: Die Orks scheinen keine Vergangenheit zu kennen; es gibt nur was ist und was wird und woher etwas kommt; alles hat einen Ursprung, aber es ist sprachlich nicht als etwas “Vergangenes” gefasst. -->
 
-When he heard that I wanted to do it this way and to have an actual, more or less reasonable "language" for the orcs, Mike told me: "I would have wanted to do the same, if I would have had the time for it."
+When he heard that we want to do it this way and to have an actual, more or less reasonable "language" for the orcs, Mike told me: "I would have wanted to do the same, if I would have had the time for it."
 
 As an additional note: The orcs do not know a past tense. There is only what is, what becomes and where it comes from, everything has a source, but it is never grasped as something "past" in the language; they have no concept of any kind of absolute, finite disappearance, as they consider everything to be there all the time and simultaneously to everything else, that ever was, even if it may not be visible anymore. 
 
