@@ -46,6 +46,7 @@ Before developing the language any further, below is a list of all the words or 
 * Grunt
 * Shabak
 * Smörk
+* Urxai
 * Shugul Sath
 * Gharak
 * Lifrun
