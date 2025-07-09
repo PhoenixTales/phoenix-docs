@@ -67,12 +67,12 @@ siehe auch *Orak* (Ork, ‘von der Erde stammend’) oder *Varak* (Stamm)
 * **Akach** - das aus dem Rachen kommende
 * **At** - nein
 * **Ara** - Diener, siehe auch *Ra* (Herr)
-* **Atnu** - Nacht, wörtlich "nein licht", siehe auch *tanu*
+* **Atnu** - Nacht, wörtlich "nein licht" oder "(wenn) nicht licht (ist)", siehe auch *tanu*
 * **ad** - "hinter", siehe auch da ("vor")
 * **An** - in
 * **Anul** - an+ul, im Blute
-* **Anat** - Zweifel, Absage, wörtlich "in nein"
-* **Anta** - Gewissheit, Bestätigung, wörtlich "in ja"
+* **Anat** - Zweifel, Absage, wörtlich "in nein" oder "(wenn) es nicht (so) ist"
+* **Anta** - Bestätigung, Zusage, wörtlich "in ja" oder "(wenn) es (so) ist"
 * **Anor** - an+or, in der Erde, siehe auch *Oran*
 * **Antak** - Troll, wörtlich “der aus Horn gemachte", "der im Horn lebende”, im übertragenen Sinn, weil seine ganze Haut, der ganze Körper hart wie Horn ist; siehe auch *Orth-Antak*
 * **Agash** - Zerkleinerer, zerkleinern, Name einer Waffe, siehe auch *gash*
@@ -153,7 +153,6 @@ Urahne vieler orkischer Stämme, großer Krieger, “Der Rachenehmer” oder auc
 * **Norg** - ???, Feind, evtl. Bezug zwischen “Sorg” und “Norg” herstellen,
 es gibt den Hohepriester Kasorg und den  Begriff “Ganorg”. Norg der Feind und Sorg der Freund? (der eine nörgelt, der andere sorgt sich :P)
 * **Nu** - Licht, der Geist erstrahlt, leuchtet, siehe auch *un* (dunkel)
-* **Tanu** - Tag, wörtlich "ja licht", siehe auch *atnu*
 * **Nuba** - lichtmachen, hell machen
 
 
@@ -217,11 +216,12 @@ bzw. ein herabfallender Fels, in der Mehrzahl Geröll (Brokk).
 * **Tahk** - Zunge, siehe *Krotahk* (Flammenzunge)
 * **- tahk** - weich, zart
 * **Tos** - werfen, siehe *“Karrok Ur Shak **Tos** Karras Da Gach”*
-* **Tar** - ???, siehe Tarrok
-* **Tarrok** - ???, Name eines Orks
+* **Tar** - Plural bzw. Verstärkung von *ta* (ja oder ist/sein), dadurch Gewissheit, Unerschütterlichkeit, Wissen, siehe auch *Tarrok*
+* **Tarrok** - wörtlich etwa "Unerschütterlicher Erschütterer" oder "Wissen vom Zerschmettern" oder abstrakter daher vielleicht "Meister des Hämmerns", Name eines Orkschmiedes; Schmiede hämmern auf Material, erschüttern Gestein und Eisen usw.
 * **ti** - hier
 * **to** - dort
-* **ta** - ja, siehe auch *at* (nein)
+* **ta** - "ja" oder "ist/sein", siehe auch *at* ("nein" oder "nicht ist/sein")
+* **Tanu** - Tag, wörtlich "ja licht" oder "(wenn) Licht ist", siehe auch *atnu*
 
 
 ### D
@@ -271,6 +271,9 @@ Oder ein Wort für Dieb? Goblins bestehlen Orks vllt. genauso wie Menschen.
 With the help of "-ak" and "-ka" everything combined with it can be described as coming from that or going towards that, thus *ak-ka-ka-ak*, is a saying like "from to, to from..."
 
 For instance: "Ur-Shak ak Varak-Ulor" would mean: Ur-Shak comes from the Bloodearth Clan. If you say: "Ur-Shak ka Varak-Ulor", it would mean: Ur-Shak goes to the Bloodearth Clan. 
+
+* Ur-Shak unba Ul: Ur-Shak darkens the Blood.
+* 
 
 ToDo: Add more examples for sentences and how to form them based on our system.
 
