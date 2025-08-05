@@ -76,7 +76,7 @@ Prio 3:
 * FM Taken -> CH4
 
   
-## CH4
+### CH4
 
 * War: NC closed for OC characters, OC closed for NC characters.
 * Exploring the rest of the OrcCaves and open the closed Gate towards the Temple in the Orc City
@@ -90,12 +90,12 @@ Prio 3:
 OrcCity and temple entrance area with artefact for the portal in the surface temple
 
 
-## CH5
+### CH5
 
 * Main Goal: Explore Temple Level 1 and get access to/explore Temple Level 2; find a way to open the portal to Temple Level 3 (Halls of the Sleeper).
 
 
-## CH6
+### CH6
 
 * Main Goal: Open Portal to Temple Level 3 and 4 and explore + Demonworld sections.
 * Ban the Sleeper.
