@@ -19,9 +19,9 @@ Relevant dialogue snippets:
 > Do you think everything depends on you? 
 
 *a mission missed due to time*
-> Where the fuck have you been?!
-> "I..."
-> Did you think we will wait for you? Do you think THEY will wait for you? We had a job to do! Now it's done and you were NOT here.
+> Where the fuck have you been?!  
+> "I..."  
+> Did you think we will wait for you? Do you think THEY will wait for you? We had a job to do! Now it's done and you were NOT here.  
 > Every death of our men that were killed today is your fault! Gomez will get to know about this, you can bet on that.. 
 
 *the player critizised for his acts*
@@ -47,7 +47,7 @@ One may see in him the only one who knows what is going on in this world, making
 
 Or it may not. Because there is also the even greater puppeteer, the one who wrote the story, the one who gives the player the ability to choose, who sets him limits to what he can choose, what he can do and say. What is his role in the story? And in how far can one liberate oneself from him? In how far one can liberate oneself from us, the storywriters? And will we try to capture the player? Or will we let him go, let go of him? What is freedom in this regard? 
 
-The question is: Will he let go of the prison he let us trap him in or in which he trapped himself in? Will he get lost in it or will he find more in it than a game stealing some time of his life? Because if he doesn't, the project will have failed, at least in this regard.
+The question is: Will he let go of the prison he let us trap him in or in which he trapped himself in? Will he get lost in it or will he find more in it than a game stealing some time of his life? Because if he doesn't, the project will have failed, at least in this regard.  
 
 The philosophical reflections inside of the game transcend themselves, in that they reflect beyond the game about the one behind the screen, hero or not. 
 

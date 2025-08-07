@@ -31,7 +31,7 @@ We want to release a first tech demo focused on Item Handling, our Inventory Sys
 
 ### Priority I
 
-Finishing the documentation of our world design, gameplay mechanics and features, animations and music is of the highest priority in order to support and accelerate (or even just enable) the work on these areas and do so most effectively and according to plan.
+Finishing the documentation of our world design, gameplay mechanics and features, animations and music is of the highest priority in order to support and accelerate (or even just enable) the work on these areas and do so most effectively and according to plan.  
 
 
 ### Priority II
@@ -53,7 +53,7 @@ and heavier electronic, industrial music in the style of oldschool shooters like
 
 ### Priority III
 
-**Writing:** Story writing in regard to the main plot is currently not needed. It has been written by Flosha and logx and is mostly done.
+**Writing:** Story writing in regard to the main plot is currently not needed. It has been written by Flosha and logx and is mostly done.  
 Supportive writing such as for ingame books, ambient dialogues, preachings as well as mission/quest ideas are always welcome. In order to contribute in this regard in a way consistent with the Phoenix universe, you should read all of our [/vision](/vision/vision), [/lore](/lore/lore) and [/world](/story/world) documentation first. 
 
 **Scripting:** For the above mentioned reasons, no scripting is currently done and scripters are not needed at the moment. 
@@ -97,7 +97,7 @@ We will list our priorities split into different areas.
 
 * **Documentation:** We try to rewrite, translate (from German to English) and bring over all the design documents written since 2016 into our public Phoenix Concept as well as finishing all the required additional research that we have to do due to the plethora of design documents we received; the study and documentation and especially harmonisation of which is taking a lot of time. This work is done by Flosha. 
 
-* **Modeling:** In the modeling the colony has priority over the outside world and the city. The main focus of the modeling in the colony is now the northern environment, where we aim to harmonise a lot of contradictory ideas. Then we will go back to the southern environment where we need to fix and improve upon a few things. The rock cemetery and the area around the Free Camp is almost finished, but also requires tweaking and more details. At the end we will approach the overhaul of the East with the new swamp as imagined in the Alpha concepts. As for the camps: The Old Camp is almost finished except for details at the Barons house and the three additional prison levels. The New Camp model is almost done but mapping remains. The Free Camp may be done 50%. The Psi Camp is at the stage of the 0.64b Alpha, but requires additional work based on Ralfs concept arts. The outline of the city and the basic locations are set, but due to all the planned verticality, due to the necessity of making every single building theoretically accessible and so on, the remaining work load is still immense. Most work went into the Varantinian quarter (maybe done to 30%) and the Slums so far which may be done to 60-70%. The ghost district and the older parts of the city are still very barebones. The Abandoned Factory is done to ~80%. The forest modeling has not been started other than its vast outside shape. The ricefields at the city are at 10%. This work is also done by Flosha. 
+* **Modeling:** In the modeling the Colony has priority over the Outside World and the city. The main focus of the modeling in the Colony is now the northern environment, where we aim to harmonise a lot of contradictory ideas. Then we will go back to the southern environment where we need to fix and improve upon a few things. The rock cemetery and the area around the Free Camp is almost finished, but also requires tweaking and more details. At the end we will approach the overhaul of the East with the new swamp as imagined in the Alpha concepts. As for the camps: The Old Camp is almost finished except for details at the Barons house and the three additional prison levels. The New Camp model is almost done but mapping remains. The Free Camp may be done 50%. The Psi Camp is at the stage of the 0.64b Alpha, but requires additional work based on Ralfs concept arts. The outline of the city and the basic locations are set, but due to all the planned verticality, due to the necessity of making every single building theoretically accessible and so on, the remaining work load is still immense. Most work went into the Varantinian quarter (maybe done to 30%) and the Slums so far which may be done to 60-70%. The ghost district and the older parts of the city are still very barebones. The Abandoned Factory is done to ~80%. The forest modeling has not been started other than its vast outside shape. The ricefields at the city are at 10%. This work is also done by Flosha. 
 
 * **Programming:** We want to release a first Pre-Alpha Demo focused on Item Handling, Inventory, our Modular Armour Illusion System and general movement controls in a testlevel. Auronen is working on this. But due to lack of time help of additional passionate programmers may be needed.
 

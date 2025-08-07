@@ -1,9 +1,9 @@
 # Trading
 
 ```
-Author:  Flosha
-Created: 28.08.2024
-Updated: 01.09.2024
+Author:  Flosha  
+Created: 28.08.2024  
+Updated: 01.09.2024  
 ```
 {: .info }
 
@@ -13,9 +13,9 @@ How to make trading more immersive, simpler and more intuitive.
 **28.08.2024**
 
 Every trader has to have a stand, if not a complete shop. And everything he sells, apart of very small items, have to be actually placed in the world. Traders present their goods by actual items on the table in front of them.
-In case of a dealer or other NPCs who want to give the player a choice between a few items, - e.g. the dealer of a guild providing a "loadout" for a mission - he may actually place the items in front of him first, like the weapons dealer in *Mafia: The City of Lost Heaven*. 
+In case of a dealer or other NPCs who want to give the player a choice between a few items, - e.g. the dealer of a guild providing a "loadout" for a mission - he may actually place the items in front of him first, like the weapons dealer in *Mafia: The City of Lost Heaven*.  
 
-This way we improve the non-immersive default of the base game, where traders do not even have a stand (not even in a fake way by e.g. a stand with a texture showing the goods he sells), and seem to just pull weapons and armours out of their pockets. In our system, every item the trader sells should correspond to an actual item in his shop.
+This way we improve the non-immersive default of the base game, where traders do not even have a stand (not even in a fake way by e.g. a stand with a texture showing the goods he sells), and seem to just pull weapons and armours out of their pockets. In our system, every item the trader sells should correspond to an actual item in his shop.  
 Obviously the player can try to steal such items, but the irreversible consequences when caught will most often make it more trouble than it's worth, shops with very valuable items are always guarded etc. 
 
 When the player walks to the table the camera focuses on it at a top-down angle. Now the player can switch left and right, up and down between highlighting the items. (They are literally highlighted, lightened up as in Gothic - or if choosen (default in `RetroStyle`) by white brackets in the style of Deus Ex or System Shock 2). 
@@ -51,7 +51,7 @@ Instead of navigating through a traders inventory, you will move your character 
 
 This system is both simple as well as immersive and lets the player feel more in control at any time; whatever happens, he can immediately just release a button and is again in full control of his character, can turn around and leave. 
 
-Obviously, this behaviour changes when the player is in `StealthMode`; here no trading interface opens and the item is just taken instead like any other regular item.
+Obviously, this behaviour changes when the player is in `StealthMode`; here no trading interface opens and the item is just taken instead like any other regular item.  
 
 This solution causes another problem: It is unproblematic where there are items placed on shelves or tables around the room at the walls. But if the trader stands directly behind a stand full of items the player will have trouble to focus the NPC to initiate a dialogue with him, if he wants to do so, as the items are in the way. Should the items in front of the trader not be focusable then? This would mean to handle these items different than others, which would be inconsequent and confusing to the player. We can solve it by automatically entering the dialogue with a trader when really getting close to the table and facing into the traders direction, because it is just logical that the trader will speak to the player in that case and that the player is thereby seeking to talk to the trader. In the dialogue with the trader we can then initiate the trading camera as described in the first section above, where the trader is presenting to the player the items in front of him, which will work great for all those traders with just a stand and a few items to sell. 
 

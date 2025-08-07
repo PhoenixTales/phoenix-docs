@@ -1,7 +1,7 @@
 # Snapper & Lurker
 
-*flosha*, 06.03.2025
-last update: 08.03.2025
+*flosha*, 06.03.2025  
+last update: 08.03.2025  
 
 In the release version of Gothic, Lurker and Snapper are two different creatures with no relation to each other. Originally they were one and the same.
 
@@ -36,7 +36,7 @@ The frog made sense because he can jump and his legs have developed accordingly,
 The initial idea of a giant frog may have found expression (proportion-wise) in form of the Orc Dog from the Alpha, basically a "mouth on legs" (see Orc Dog). 
 {: .subtext }
 
-The texture of this first known Snapper model seems actually to be inspired by and trying to replicate the frog idea to some degree, even if it may be hard to see on these old and small textures. In difference to a crocodile, it does not come with visible scales, but the overall dark skin (ignoring the blue shiny parts) remind most of the uneven skin of a toad or specific types of salamanders. With the blue parts, which to be honest, appear a bit like some harder, crystal like material, it seems that they've designed them as such to let the skin there appear to be wet and glossy like that of a frog or again, a salamander.
+The texture of this first known Snapper model seems actually to be inspired by and trying to replicate the frog idea to some degree, even if it may be hard to see on these old and small textures. In difference to a crocodile, it does not come with visible scales, but the overall dark skin (ignoring the blue shiny parts) remind most of the uneven skin of a toad or specific types of salamanders. With the blue parts, which to be honest, appear a bit like some harder, crystal like material, it seems that they've designed them as such to let the skin there appear to be wet and glossy like that of a frog or again, a salamander.  
 
 Other than that they have chosen to make his skin less green and more blue. Both was fine for a water monster. But leaning more towards dark blue than green with some lighter, glossy accents to me seems to be a good decision for a monster that was meant to hide in dark blue lakes (in accordance with the dark blue water texture that was used in the Alpha).
 

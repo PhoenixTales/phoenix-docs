@@ -1,6 +1,6 @@
 # Combat Mode
 
-*Flosha, 28.09.2024*
+*Flosha, 28.09.2024*  
 
 * Critique of the Combat System
 * Controls
@@ -22,7 +22,7 @@
 
 At the beginning we will quote everything of relevance about what the fighting system was meant to be according to interviews and design documentation. Then we analyse how this compares to the actual implementation in the game. In the end we present our own solutions. 
 
-> Alex: *Gothic is a real-time game. Combat will also be real-time, but for the biggest part it won't depend on your trigger finger if you succeed or fail in a fight. For example there will be no way for you to kill an enemy with a full plate armor and a battle-axe if you are bare-handed, except sneaking from behind and pushing him over the ledge. Fighting in Gothic will have strong tactical elements. Do I attack, step back, or parry the enemy's blow and start a counter-attack?*
+> Alex: *Gothic is a real-time game. Combat will also be real-time, but for the biggest part it won't depend on your trigger finger if you succeed or fail in a fight. For example there will be no way for you to kill an enemy with a full plate armor and a battle-axe if you are bare-handed, except sneaking from behind and pushing him over the ledge. Fighting in Gothic will have strong tactical elements. Do I attack, step back, or parry the enemy's blow and start a counter-attack?*  
 > *You can actually plan your next moves because our combat system doesn't rely on fast reflexes. If you want to be totally defensive, then you can keep your weapon up by pressing a key, and you will parry every blow that your opponent does. You just have to take into consideration that if the attacking force is much stronger than you - you can't parry a two-handed weapon with a dagger - you will be pushed back or even can fall to the ground. If you're more into fighting from a distance, you could use bows or crossbows. Depending on your talent, you will be able to aim at fast moving targets or you can try to do a critical hit by aiming at your enemy longer.* - [rpgvault.ign.com 06/1999](https://gothicarchive.org/interviews/1999/29.06.1999_rpgvault.ign.com.txt)
 
 
@@ -35,7 +35,7 @@ Based on the document by Alex Brüggemann, we know that while they always have s
 
 > *If you want to be totally defensive, then you can keep your weapon up by pressing a key, and you will parry every blow that your opponent does.* [I]
 
-At the same time the combat system was described as being tactical. But the only tactical considerations in the Alpha (till release) was which weapon to use against which monster (and even this did not find much expression in the end) or how else to get rid of it, if not by means of combat (e.g. distraction, which was also cut).
+At the same time the combat system was described as being tactical. But the only tactical considerations in the Alpha (till release) was which weapon to use against which monster (and even this did not find much expression in the end) or how else to get rid of it, if not by means of combat (e.g. distraction, which was also cut).  
 
 They wanted it to be very simple and fun, but at the same time did not want it to rely on any reflexes. It was meant to primarily depend on stats (attributes). I think that this a wrong premise. The combat system of Morrowind relies entirely on stats and to me was the opposite of fun. Requiring reflexes in combat at least to some degree to me seems like an inevitable component in a real-time action RPG. It cannot be avoided, but it can be done in a motivating way and we can try to avoid it being frustrating. If one doesn't like fighting in this way at all, one can still choose a different class and solve situations in other ways. 
 
@@ -51,11 +51,11 @@ But in Mikes original concepts there was more to it and the available unused alp
 
 We want more tactics. But we stick to the idea of limiting ourselves to the ~10 keys they planned having due to the number of keys of gamepads at the time, for which Gothic has been optimized from the very beginning. It was not meant to be played with a mouse. 
 
-Therefore we will start by considering the direction keys and what the Alpha is offering animation-wise. Among the unused animations we can clearly differentiate that there was not only a "basic" hit and then a blow from left to right and right to left, but there were essentially four kinds of attacks based on directions: Left to right, right to left, from a raised position downwards and from a lowered position upwards. These four "directions of attack", as we may call it, we can link with the direction keys.
+Therefore we will start by considering the direction keys and what the Alpha is offering animation-wise. Among the unused animations we can clearly differentiate that there was not only a "basic" hit and then a blow from left to right and right to left, but there were essentially four kinds of attacks based on directions: Left to right, right to left, from a raised position downwards and from a lowered position upwards. These four "directions of attack", as we may call it, we can link with the direction keys.  
 
 The later fighting skills will always consist of these basic directions of attack, they will just be faster and animated differently, apart from a few turns and special attacks. These we will preserve for "Combos" (that one can apply upon a successful parade).
 
-Every NPC and the player thus has these four directions of attack (in case of one-handed weapons) and parades have to work in the same way. Thus, if the enemy stands in front of you and hits from left to right (from your perspective), then you have to swing your sword from right to left, into the direction from which he is attacking you, to parry his attack.
+Every NPC and the player thus has these four directions of attack (in case of one-handed weapons) and parades have to work in the same way. Thus, if the enemy stands in front of you and hits from left to right (from your perspective), then you have to swing your sword from right to left, into the direction from which he is attacking you, to parry his attack.  
 When he hits down from above, you have to hit from a lowered position upwards to parry the hit. If he hits from a lowered position upwards, you swing from the top downwards. 
 
 <!--

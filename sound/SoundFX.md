@@ -1,14 +1,14 @@
 # Sound Effects 
 
-**Author:**     Flosha
-**Written:**    10.09.2023
+**Author:**     Flosha  
+**Written:**    10.09.2023  
 
 
 ## Specific Motifs
 
-As researched by Dmitriy, in early 1999 specific music motifs were introduced, at least one of which was implemented as early as in version 0.56c, which plays a sound when an item is found. The only sounds of that kind who remained in the release version of the game were the sounds for diary entries, level ups and chapter changes.
+As researched by Dmitriy, in early 1999 specific music motifs were introduced, at least one of which was implemented as early as in version 0.56c, which plays a sound when an item is found. The only sounds of that kind who remained in the release version of the game were the sounds for diary entries, level ups and chapter changes.  
 
-The following music motifs represented by sound effects were planned:
+The following music motifs represented by sound effects were planned:  
 
 * Death
 * Resurrection

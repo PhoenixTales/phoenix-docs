@@ -44,7 +44,7 @@ Mercenaries of the Mages, former Gladiators in the Prison Castle who gained thei
 Gang with single leader, corsairs of the Mages, organising the camps daily life and stealing ore for the escape plan, link between all guilds of the camp, they set scouts, messengers, robbers and assassins, perceived by Mafia as "Ore Pirates".
            
 #### Peasants (BAU)
-...
+...  
 
 
 ### (FC)

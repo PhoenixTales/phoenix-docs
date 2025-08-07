@@ -1,9 +1,9 @@
 # RetroStyle
 
 ```
-Author:  Flosha
-Created: 21.08.2024
-Update:  01.09.2024
+Author:  Flosha  
+Created: 21.08.2024  
+Update:  01.09.2024  
 ```
 {: .info }
 
@@ -36,11 +36,11 @@ The standard option is `ImmersiveLoot`, where all items remain carefully placed 
 
 In general, we aim to ideally omit prints if possible, we do so via the HUD. 
 * In the `IconHUD`, when acquiring a bonus, the HUD will pop-up (if not there already) and show how an additional icon appears and slightly flashes up, accompanied by a sfx; this way the player is informed of all increases in strength, protection, mana, psi-energy etc.
-* In the `BarHUD` the same should happen with the bar, as described by Mike in an early handwritten document, the bar flashes up and shows a new maximal increase in width.
+* In the `BarHUD` the same should happen with the bar, as described by Mike in an early handwritten document, the bar flashes up and shows a new maximal increase in width.  
 
 With the `NoPrints` option (standard in `HardcoreImmersion`) we try to visualise everything. But when playing with `NoPrints` *and* without the HUD, the question arises how and if to inform the player of particular events or changes in the game. 
 Which we solve differently depending on the case: 
-* When a secret is found, an sfx suffices.
+* When a secret is found, an sfx suffices.  
 * What if a new Chapter starts?
 * When getting a Boni: A specific boni sfx? 
 * Game Over does not have to be shown, as death makes it obvious.

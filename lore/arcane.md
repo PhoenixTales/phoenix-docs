@@ -40,8 +40,8 @@ So, they are priests, teachers and judges? In a sort of "holy office"? Let us lo
 
 The Mages in the Colony do not do any kind of religious or cultic service as a Priest would do, nor do they teach in the Old Camp, nor judge.
 
-The Mages in the Colony are not residing in the chapel in the *function* of Priests. They are not even using it as a chapel. On the contrary, based on the design concepts the building has been a chapel *before*; when the wardens were still living in the castle there may have been a priest here and wardens and prisoners came here to pray or listen to preachings. But this is no longer the case.
-The Mages have taken the chapel and actually desecrated it in order to use it as their residence and their laboratory. According to the concept arts they have barricaded the windows to create a darker environment and remain undisturbed in their magical studies and practices by anyone outside. No one is allowed to enter the chapel, no one is going here to pray or to bring sacrifices to the gods. It makes sense, because the fire mages in the colony are just not acting like priests, they are almost purely focused on the Arcane.
+The Mages in the Colony are not residing in the chapel in the *function* of Priests. They are not even using it as a chapel. On the contrary, based on the design concepts the building has been a chapel *before*; when the wardens were still living in the castle there may have been a priest here and wardens and prisoners came here to pray or listen to preachings. But this is no longer the case.  
+The Mages have taken the chapel and actually desecrated it in order to use it as their residence and their laboratory. According to the concept arts they have barricaded the windows to create a darker environment and remain undisturbed in their magical studies and practices by anyone outside. No one is allowed to enter the chapel, no one is going here to pray or to bring sacrifices to the gods. It makes sense, because the fire mages in the colony are just not acting like priests, they are almost purely focused on the Arcane.  
 Perhaps other Mages *may* work as Priests and/or take this role more serious, they may preach and fulfill other cultic duties. But the Circle of Fire in the Colony is obviously not interested much in this regard. Although based on our research, according to which we can assume that most of the convicts may primarily pray to Beliar, they have not much business doing so anyway.
 
 
@@ -66,9 +66,9 @@ Every men can potentially acquire this knowledge - or even steal it - from the g
 
 The *Arcane Gift* is bestowed upon the worthy, according to the priests of Innos, it must only be given to the *elected* ones. 
 
-The Innos Cult calls it a *Spark* igniting the Fire.
-The Adanos Cult calls it the *Blessing of Water* in the game.
-The Beliar Cult may call it a *Kiss of the Night* or a similar metaphor.
+The Innos Cult calls it a *Spark* igniting the Fire.  
+The Adanos Cult calls it the *Blessing of Water* in the game.  
+The Beliar Cult may call it a *Kiss of the Night* or a similar metaphor.  
 
 But this dictate is not followed. Corristo is taking Milten as an apprentice, a deserteur, not a cleric. He does not make him a "Priest", he simply admits him to enter their circle and teaches him the magic arts. Same with the player. While claiming the Mages are equalling Priests, the game doesn't suggest the player or Milten to be initiated into any kind of Priesthood, they do nothing to support such an idea; they just become Mages. 
 
@@ -82,13 +82,13 @@ Additionally, in our lore, by telling stories about the fall of the old civilisa
 
 ## Magic over Everything
 
-The Mages in the Colony are greeting each other *not* by saying "For Innos" or "Innos zum Gruße", what they are saying is: "Magie zu Ehren", which translates to "In honour of magic". The arcane magic is their primary interest.
+The Mages in the Colony are greeting each other *not* by saying "For Innos" or "Innos zum Gruße", what they are saying is: "Magie zu Ehren", which translates to "In honour of magic". The arcane magic is their primary interest.  
 
 As they are living in an early medieval inspired world infused by the idea of gods, the gods are always playing a role in their understanding of the happenings in the world, and the very term of the "Arcane Gift", the idea of magic as thought to be given by the gods, shows this relationship and also shows how Gothic went for a more realistic presentation instead of the clear distinction between "arcane" and "divine" magic in that the mages think and the priests preach that there is a secret knowledge of the arcane, which is thought to be divine in nature and originate from the gods. But it can both be given as well as it can be "taken", with or without the approval of the gods (in the sense of the priests interpretation and communication of the divine will).
 
 In this universe there is always the possibility - and as story authors we should never give a definitive answer on this - that the magic is not really coming from the gods, but is just this hidden force in the world that some have access to due to alchemical processes, due to work with their body and mind. We do not know if magic comes from the gods, but we know that most people in Myrtana believe so. 
 
-Only the official successors started to establish the gods and magic as being given by them as blunt *facts*, thereby destroying any possibility of different interpretation. It was a blunt and superficial solution for their blunt and superficial stories.
+Only the official successors started to establish the gods and magic as being given by them as blunt *facts*, thereby destroying any possibility of different interpretation. It was a blunt and superficial solution for their blunt and superficial stories.  
 
 Magic is described as an Art. In the sense of the old greek "techne", like aesthetics, ethics or logic. In an early medieval inspired world, there is no differentiation or understanding of a difference between magic and science. Mages represent science. Some things that they do would also be seen as science in a modern understanding, while other things they do would be seen by a modern understanding as either wizardry or illusion or whatever. What today is hypnosis, back then is just magic. What today is physics, back then was just magic. The mages are involved in all of these different aspects of magic and they are involved in this more than in any kind of religious practice.
 
@@ -99,7 +99,7 @@ In the Novel, the only occurrence of a Firemage, there still called a Fire Alche
 
 ![Early Mage concept by Mike](/_img/lore/4friends.jpg)
 
-Consider how dark the mages were shown on the early sketches by Mike and Ralf alike, clearly more "occult", less clerical in character.
+Consider how dark the mages were shown on the early sketches by Mike and Ralf alike, clearly more "occult", less clerical in character.  
 And what is the fire mage in the Novel doing? He is torturing a member of the Organisation for the Barons in front of the people, clearly serving as an instrument of the *Storm*, dedicating his magic power to the regime. 
 
 ![Early Mage concept by Ralf](/_img/lore/magier-ralf.jpg)

@@ -1,7 +1,7 @@
 # Westfield
 
-``Authors: Flosha, Ben``
-``Created: 09.06.2024``
+``Authors: Flosha, Ben``  
+``Created: 09.06.2024``  
 
 Like Tymoris it is only known from a document (Urkunde) that Lester seeks. The original says:
 
@@ -10,7 +10,7 @@ Like Tymoris it is only known from a document (Urkunde) that Lester seeks. The o
 Translated to English by us:
 > I, Bergmar Burgrave to Westfield and my Lord to Tymoris' judge of the property seated in the area around Khorinis, ... proclaim, ... that I ... have relinquished and sold the fiefdom on the Mountain Fortress (along with other tithes and all mines residing there) to the owner of this document ... and the house of Innos thereat, to 400 pounds of gold.
 
-Bergmar describes himself as the "Burggraf zu Westfeld" (Burgrave to Westfield); which is the same case as with the "Herr zu Tymoris". It is not "Burggraf von Westfeld", as if it is a castle within an area called Westfeld, but Westfield *itself* is the castle, the "Burg" he is a "Graf" (count) of (which does not mean that there cannot also be an area of the same name that is surrounding it).
+Bergmar describes himself as the "Burggraf zu Westfeld" (Burgrave to Westfield); which is the same case as with the "Herr zu Tymoris". It is not "Burggraf von Westfeld", as if it is a castle within an area called Westfeld, but Westfield *itself* is the castle, the "Burg" he is a "Graf" (count) of (which does not mean that there cannot also be an area of the same name that is surrounding it).  
 
 Bergmar is the count of *Burg Westfeld*; which also means, that the Mountain Fortress, the fief of which he sells, is not the said castle. He keeps being the burgrave to Westfield, in which he may still reside to this day.
 

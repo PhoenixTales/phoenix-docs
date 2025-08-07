@@ -1,8 +1,8 @@
 # Alpha Multiplayer
 
-``Author: Flosha``
-``Created: 25.09.2024``
-``Last update: 25.09.2024``
+``Author: Flosha``  
+``Created: 25.09.2024``  
+``Last update: 25.09.2024``  
 
 <!-- TOC_PLACEHOLDER -->
 
@@ -17,16 +17,16 @@ From the very beginning of the development, Gothic had always been promoted as h
 
 While at first they have spoken of "at least 8" players, this was changed very soon to 5, a number with which they sticked till the end. 
 
-> Gibt es einen Multiplayer-Modus?
+> Gibt es einen Multiplayer-Modus?  
 > Tom Putzki: Aber klar doch! Zusammen mit seinen Freunden und Kollegen ein richtig gutes Spiel zu zocken, bringt doch noch mehr Fun als alleine vor dem Rechner zu hängen. (01.05.1999)
 
-> g0mp: Gothic ist kein reines Online Spiel wie UO, kann man trotzdem mit einer Netzwerk Option oder dergleichen rechnen?
+> g0mp: Gothic ist kein reines Online Spiel wie UO, kann man trotzdem mit einer Netzwerk Option oder dergleichen rechnen?  
 > Tom: Sorry, Internetversion von GOTHIC ist derzeit nicht in Planung... zumindest nicht bei der derzeitigen Anbindung in Deutschland - Lags...(( aber Multiplayer ist selbstverständlich, bis zu 5 Spieler im lokalen Netzwerk....und als besonderes Leckerchen: Die Story ist sowohl im Single- als auch im Multiplayer kontinuierlich spielbar!!!! (01.05.1999)
 
-Most players may not know or remember much of what the Gothic multiplayer was meant to be, but for how little of it had actually been implemented in the game the developers promised a lot of specific details about the multiplayer in 1998-1999.
+Most players may not know or remember much of what the Gothic multiplayer was meant to be, but for how little of it had actually been implemented in the game the developers promised a lot of specific details about the multiplayer in 1998-1999.  
  
-> How is Gothic going to support Multi-player? Will you be able to adventure with your character build up in single player along with your friends favorite characters?
-> Mike: Yes. But we plan to allow only characters of the same level to join a game, to keep the game balance intact. As we started with GOTHIC, I imagined a game where you can play several hours in single player mode, then join a game with your friend and take your character with you and finally even take the improvements you`ve made in your multiplayer session back to your single player game...
+> How is Gothic going to support Multi-player? Will you be able to adventure with your character build up in single player along with your friends favorite characters?  
+> Mike: Yes. But we plan to allow only characters of the same level to join a game, to keep the game balance intact. As we started with GOTHIC, I imagined a game where you can play several hours in single player mode, then join a game with your friend and take your character with you and finally even take the improvements you`ve made in your multiplayer session back to your single player game...  
 > Tom: Just to explain: GOTHIC is divided into six chapters, and you can only join a game, if your characters are in the same chapter. (20.06.1998)
 
 They also claimed that the way that the multiplayer would be realised in Gothic is something new that has never been done (most likely referring to the goal of letting players seemlessly take their character back and forth between Single- and Multiplayer): 
@@ -40,7 +40,7 @@ They also claimed that the way that the multiplayer would be realised in Gothic 
 
 As you see, the two interviews quoted above are almost a whole year apart. In October 1999 the multiplayer was still in the making, at that point since 1997. 
 
-But very shortly after this, after 2-3 years had been spend with the feature, at some point at the end of 1999, it was announced that the multiplayer mode has been cancelled by the developer.
+But very shortly after this, after 2-3 years had been spend with the feature, at some point at the end of 1999, it was announced that the multiplayer mode has been cancelled by the developer.  
 
 We will at first deal with the reasons for this cancellation which were explained in detail by Mike, before offering a critique of that reasoning from our perspective and in the context of our design philosophy. 
 
@@ -59,39 +59,39 @@ The source of all of the quotes below is an interview from 1999 (month unknown) 
 Als wir damals mit Gothic angefangen haben, war es meine Idee, einen Multiplayer-Modus mit Story einzubauen.  
 Wir haben seitdem viele Tage und Wochen mit der Lösung von Multiplayer-Problemen verbracht, weil wir das Feature um jedem Preis einbauen wollten.  
 Relativ früh wurde uns klar, wie viele Probleme da dran hängen, vor allem was die Missionen (die bei der Entwicklung erst als letztes kommen) betrifft. -->
-> **Mike Hoge:** *Heavy problems with the story and the gamedesign.*
-> *When we started with Gothic back then, it was my idea to implement a multiplayer mode with story. Since then we have spend many days and weeks with the solution of multiplayer problems, because we wanted to implement the feature at all costs.*
-> *Relatively early it became clear to us, how many problems are involved in that, especially concerning the missions (which come last in the development process).*
+> **Mike Hoge:** *Heavy problems with the story and the gamedesign.*  
+> *When we started with Gothic back then, it was my idea to implement a multiplayer mode with story. Since then we have spend many days and weeks with the solution of multiplayer problems, because we wanted to implement the feature at all costs.*  
+> *Relatively early it became clear to us, how many problems are involved in that, especially concerning the missions (which come last in the development process).*  
 <!-- Einige Beispiele:  
 Problem: Die Missionen von Gothic bauen teilweise aufeinander auf. Es gibt Packs von 5 oder 6 Missionen, die teilweise aufeinander folgen müssen aber auch teilweise parallel verlaufen können. Spieler A nimmt Mission 1a an. Mission 1b kann erst losgehen, sobald Mission 1a gelöst wurde. Spieler B spricht mit dem Auftraggeber, kurz nachdem Spieler A Mission 1a gelöst hat und bekommt Mission 1b OHNE Mission 1a gemacht zu haben oder überhaupt zu kennen. Das ist Mist. -->
-> *Some examples:*
-> *Problem: The missions of Gothic, in some cases, build on each other. There are packs of 5 or 6 missions, which partially must follow each other, but can also partially run parallel. Player A accepts Mission 1a. Mission 1b can only start when Mission 1a was solved. Player B speaks with the mission giver, shortly after player A has solved mission 1a and gets mission 1b **without** having done or even to know mission 1a. That is crap.*
+> *Some examples:*  
+> *Problem: The missions of Gothic, in some cases, build on each other. There are packs of 5 or 6 missions, which partially must follow each other, but can also partially run parallel. Player A accepts Mission 1a. Mission 1b can only start when Mission 1a was solved. Player B speaks with the mission giver, shortly after player A has solved mission 1a and gets mission 1b **without** having done or even to know mission 1a. That is crap.*  
 
 <!-- Mögliche Lösungen:
 1. Spieler B bekommt die Mission nicht - alle Missionen dieses Strangs müssen von Spieler A gemacht werden - Scheißlösung, denn wir müssten uns bei 5 Spielern 5 mal so viele Missionen einfallen lassen.
 2. Einer der Spieler bekommt immer alle Missionen, und die anderen müssen ihm "unfrei" als Party folgen -> Problem: Jeder möchte gerne Missionen annehmen können.
 UND: So würden immer alle Spieler überall gemeinsam hinlaufen. (Das wiederum ist ein weiteres Problem) -->
 
-> *Possible solutions:*
+> *Possible solutions:*  
 > *1. Player B doesn't get the mission - all the missions of this string must be done by player A -> shitty solution, because in case of 5 players we would need to come up with 5 times as many missions.*
-> *2. One of the players always gets all the missions and the others need to follow him "unfree" as a party -> Problem: Everyone wants to be able to accept missions.*
-> *AND: This way, all the players would then run everywhere together (which in turn is another problem).*
+> *2. One of the players always gets all the missions and the others need to follow him "unfree" as a party -> Problem: Everyone wants to be able to accept missions.*  
+> *AND: This way, all the players would then run everywhere together (which in turn is another problem).*  
 
 <!-- Weiteres Problem: Rennen immer alle Spieler in denselben Dungeon (was teilweise aufgrund der voranschreitenden Story nicht zu vermeiden ist, denn wenn das z.B. große Portal zum uralten Tempel aufgeht und alle NSCs rennen hin und plündern, dann wollen die Spieler natürlich alle mit von der Partie sein), dann können viele kleine feine Sachen in der Story so nicht stattfinden, weil die Herausforderung für einen Spieler einfach in einem magischen- psionischen- pfeilgespickten- und blutspritzenden Inferno von 5 Spielern zunichte gemacht wird.
 Wir wollen kein Diablo machen. --> 
-> *Additional problem: When all the players always run into the same dungeon (which is partially unavoidable due to the proceeding story, because when the portal to the ancient temple opens and all the NPCs run there and plunder, the players of course want to take part in it), then many small, nice things in the story can't happen like that, because the challenge for one player will just vanish in a magic, psionic, arrow-studded and blood-splattering Inferno of 5 players. We don't want to make Diablo.*
+> *Additional problem: When all the players always run into the same dungeon (which is partially unavoidable due to the proceeding story, because when the portal to the ancient temple opens and all the NPCs run there and plunder, the players of course want to take part in it), then many small, nice things in the story can't happen like that, because the challenge for one player will just vanish in a magic, psionic, arrow-studded and blood-splattering Inferno of 5 players. We don't want to make Diablo.*  
 
 <!-- Noch ein Problem: Im ersten Sechstel des Spiels ist der Spieler in keiner Gilde. Er entscheidet sich, wem er beitreten will und macht Aufnahmeprüfungen. Diese können auch nur einmal gemacht werden. Also schonmal dasselbe Problem wie oben, 5 mal so viele Missionen.
 Darüber hinaus gibt es hier aber noch das Problem, dass das Spiel völlig außer Balance geraten würde, wenn alle Spieler einer Gilde beitreten würden, also müssten wir die Spieler zwingem, sich artig auf die Gilden zu verteilen. Schnappen sie sich aber gegenseitig wieder die Aufträge weg, verhindern sie gegenseitig den Gildenbeitritt. -->
-> *Another problem: In the first sixth of the game, the player is not in a guild. He decides who he wants to join and makes admission tests. And these can only be made once. Which results in the same problem as above, 5 times as many missions.*
-> *More than that there is also the problem here, that the game would get completely out of balance, when all players would join the same guild, so we would need to force them, to politely distribute over the guilds. When they snatch the missions away from each other, they hinder each other from joining the guild.*
+> *Another problem: In the first sixth of the game, the player is not in a guild. He decides who he wants to join and makes admission tests. And these can only be made once. Which results in the same problem as above, 5 times as many missions.*  
+> *More than that there is also the problem here, that the game would get completely out of balance, when all players would join the same guild, so we would need to force them, to politely distribute over the guilds. When they snatch the missions away from each other, they hinder each other from joining the guild.*  
 <!-- Lösung: Den kompletten ersten Teil des Spiels im Multiplayer weglassen und jeden eine der Gilden über einen Auswahlscreen wählen lassen. Ihr seht worauf es hinausläuft? -->
-> *Solution: To omit the complete first part of the game in the multiplayer and let everyone choose one of the guilds in a selection screen. You see what this amounts to?*
+> *Solution: To omit the complete first part of the game in the multiplayer and let everyone choose one of the guilds in a selection screen. You see what this amounts to?*  
 
 <!-- > Wir haben uns entschlossen den Multiplayer-Modus zu streichen, da wir ansonsten die Story nicht so hätten umsetzen können, wie geplant. Unser Ziel für den Multiplayer-Modus war es, die komplette Story spielbar zu machen. Doch bei der Umsetzung hätten wir leider viel zu viele Kompromisse zu Lasten der Dramaturgie und eines interessanten Storyplots machen müssen.
 Den Multiplayer-Modus statt dessen als eine Art Deathmatch einzubauen, wäre auch keine Alternative gewesen, denn GOTHIC lebt von der Interaktion mit den NPCs, deren Reaktionen auf den Spieler, eben der lebendigen Welt in der man sich bewegt und mit der man auf sehr unterschiedliche Weise interagieren kann. -->
-> *We have decided to cancel the multiplayer mode, because otherwise we wouldn't have been able to realise the story as planned. Our goal for the multiplayer mode was to make the complete story playable. But in the implementation we - sadly - would have to make way too many compromises at the expense of the dramaturgy and an interesting story plot.*
-> *To implement the multiplayer mode as a sort of Deathmatch instead also wouldn't have been an alternative, because GOTHIC lives from the interaction with the NPCs, their reactions to the player, just the living world through which one moves and with which one can interact in many different ways.*
+> *We have decided to cancel the multiplayer mode, because otherwise we wouldn't have been able to realise the story as planned. Our goal for the multiplayer mode was to make the complete story playable. But in the implementation we - sadly - would have to make way too many compromises at the expense of the dramaturgy and an interesting story plot.*  
+> *To implement the multiplayer mode as a sort of Deathmatch instead also wouldn't have been an alternative, because GOTHIC lives from the interaction with the NPCs, their reactions to the player, just the living world through which one moves and with which one can interact in many different ways.*  
 
 <!-- In den letzten Monaten hat sich gezeigt, daß es noch viele dieser Story- und Missions-Probleme gibt. Wenn man bedenkt, wieviel Zeit wir in die Lösung der ersten paar Probleme gesteckt haben, kann man sich ausmalen, wie lange es noch dauern würde, den Rest vernünftig hinzubekommen. Ich verstehe vollkommen, dass es für die Fans so rüberkommt, daß wir am Anfang mit Multiplayer-Storymode "geprahlt" haben und jetzt nicht halten können, was wir versprachen.  
 Ich kann euch da draußen nur bitten, eine Sache zu bedenken: Die Entwicklung eines Spiels wie Gothic dauert in der Regel 2-3 Jahre. Und da ist es unmöglich am Anfang, als Newcomer Team mit einer handvoll Leute von vorneherein perfekt abzuschätzen, was in 2-3 Jahren geht und was nicht. --> 
@@ -101,7 +101,7 @@ Ich kann euch da draußen nur bitten, eine Sache zu bedenken: Die Entwicklung ei
 
 ## Critique of Impure Reason
 
-**Flosha:** At first I will try to summarise the reasoning given. It boils down to the following points:
+**Flosha:** At first I will try to summarise the reasoning given. It boils down to the following points:  
 
 * The story would have to be compromised.
 * Players can either not receive the same missions, have to just follow the main player or otherwise may take missions away from each other. 

@@ -1,7 +1,7 @@
 # Writing the Player Character
 
-**Author:** *Flosha*
-04.10.2024 - 27.01.2025
+**Author:** *Flosha*  
+04.10.2024 - 27.01.2025  
 
 Mike and PB have chosen a simple and pragmatical solution to create a player character that everyone (or many) can easily identify with, in that they made him a nobody and do not let him talk much. He talks and expresses so little of actual meaning or personality, that he keeps being like a canvas that every player can project his own thoughts on, but cannot express them. 
 
@@ -11,7 +11,7 @@ In Gothic, the story is there for the player, the player is needed for the story
 
 But this wouldn't have been in accordance with Gothic's approach to immersion. He has to talk, he has to have a voice. After all, this is a roleplaying game. 
 
-In Phoenix, which is story-driven, the function of the player character is different. The story is there for itself and the player is not needed. The story is told if he listens to it or not and if he influences it or not. But he wants to listen and wants to influence events; here is the difference and we have to enable him to do that in a believable way.
+In Phoenix, which is story-driven, the function of the player character is different. The story is there for itself and the player is not needed. The story is told if he listens to it or not and if he influences it or not. But he wants to listen and wants to influence events; here is the difference and we have to enable him to do that in a believable way.  
 
 
 ## Storyinteraction vs. Roleplaying
@@ -20,10 +20,10 @@ One way is a solution like in the Witcher, where the character *has* a strong pe
 
 How can it be roleplaying, if you have no influence on the role that you play? For it to be roleplaying you either have to be able to choose one of several roles, then play it accordingly (as in the old, traditional RPGs) and/or you have to be able to play a character which role you can influence and choose in course of the game (which Gothic/Phoenix ought to be). If you just play with one character with one fixed role, then there is no roleplaying here. Otherwise every simple shooter would be a RPG.
 
-In some so-called RPGs you have lots of decisions to make. Decisions such as how you skill. But these are tactical decisions, its like: "Which weapon do I choose?" in a shooter. That is not what makes an RPG.
+In some so-called RPGs you have lots of decisions to make. Decisions such as how you skill. But these are tactical decisions, its like: "Which weapon do I choose?" in a shooter. That is not what makes an RPG.  
 You can also make a lot of decisions in the story within dialogues, but these dialogues do not seem to influence your character, how he relates to the world or how he sees himself, they only influence specific consequences in the story, the outcome of missions, at most his attitude towards one of two factions etc. This, for me, is not at the core of roleplaying either; it is interactive story-playing, not interactive role-playing. 
 
-Gothic went a different way, in that it gives the player a character that almost remains free of personality in order to let the player project their own ideas unto him. But where is the roleplaying in that?
+Gothic went a different way, in that it gives the player a character that almost remains free of personality in order to let the player project their own ideas unto him. But where is the roleplaying in that?  
 
 Why instead do we not give the player the ability (through decisions in dialogues) to form attitudes and personality, to express actual thoughts, so that he can shape his character to his own preferences and inclinations? 
 

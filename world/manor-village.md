@@ -1,6 +1,6 @@
 # Manor Village
 
-**Author:** *Flosha*
+**Author:** *Flosha*  
 
 
 Historische Begriffe: Praedium, Villa, Vikus.

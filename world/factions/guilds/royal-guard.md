@@ -1,8 +1,8 @@
 # Royal Guard
 
-**Author:** *Flosha*
-Created: 21.03.2024
-Last change: 27.05.2024
+**Author:** *Flosha*  
+Created: 21.03.2024  
+Last change: 27.05.2024  
 
 ## Analysis
 
@@ -58,10 +58,10 @@ Having been established in every big Myrtanian city does not mean that all the g
 * A tunic cannot be seen at all, so we cannot say what colour it would be. Everything there is covered by leather. We could make the tunic visible at least at the arms and a bit at the legs, although that may raise stylistic questions, see below. 
 * The brigandine parts do appear like leather too, material-wise, but they are yellow. This is not implausible, as leather was possible to be dyed in a yellow tone in medieval times. But a yellow brigandine plus more of an orange/brown beige toned tunic may or may not look a bit off or like a colour overkill. In any way, brigandines should be a newer, advanced form of armour, therefore it is only used by parts of the royal guard (and by the black guard). Not every member will have one and not everyone who has one will have it in yellow. It may more often be covered by neutral brown leather (or even blue fabric in case of the palace guard). 
 * The yellow tone of the armour of the intro guard goes alongside the yellow tone of the robe of the judge; it is more yellow than orange in always the very same way. While in the Comic it was the City Watch that had a tunic with the very same brown beige / orange tone as the robe of the judge there. Thus it would be a possible solution to just (1) change the colour of the intro armour and the intro judge into the more brown tone from the Comic. Another solution would be to just (2) assume that the royal guard as well as the judges do obviously not have all consistently coloured fabrics, but they are just sharing different golden tones; some tunics and robes may appear more like light, yellowish gold and others more as brown-beige. 
-* Based on this idea, as a third solution (3) the few guardsmen from the Intro could be explained as the personal guards of the specific Royal Judge that convicted the player (it doesn't have to be the same who convicted the four friends) and these guards may have this particular equipment. This could be a nice solution in so far, as it makes them more unique and identifiable - especially so when the player meets them in Act 2; he will then know very well that it were these guys who have thrown him into the barrier. 
+* Based on this idea, as a third solution (3) the few guardsmen from the Intro could be explained as the personal guards of the specific Royal Judge that convicted the player (it doesn't have to be the same who convicted the four friends) and these guards may have this particular equipment. This could be a nice solution in so far, as it makes them more unique and identifiable - especially so when the player meets them in Act 2; he will then know very well that it were these guys who have thrown him into the Barrier. 
 * Other Royal Guards may either do not have brigandines or they have them only covering their torso; and not dyed yellow but more often from regular brown leather.
 * Most are either shown with mail plus tunic, brigandines or scale armour or with a combination of those. In some rare cases they may also have a chest plate in greek style (see the Comic). 
-* The smallest and most special unit are the Imperial Throne Guards, they have lighter armour and are mostly specialised in protecting the King. They are wearing ancle-long royal blue coats adorned with golden crescent moons instead of little fleur-de-lys. Their face is always fully covered for anonymity and they do not have crests (or smaller and different ones).
+* The smallest and most special unit are the Imperial Throne Guards, they have lighter armour and are mostly specialised in protecting the King. They are wearing ancle-long royal blue coats adorned with golden crescent moons instead of little fleurs-de-lys. Their face is always fully covered for anonymity and they do not have crests (or smaller and different ones).
 
 * **Weapons:** Based on the Varangian Guard and in order to give them a more unique identity and fighting style, their weapon of choice is a two handed axe or a romphaia, which was also used - and it makes sense as these larger, two-handed weapons seem to have been typical for such body- and palace guards. They have swords as backup weapons. When attacking in groups, one or two guards use the two-handed weapon to break through and others use sword and shield [-> The two-handed axe fighting requires new animations; those were planned for the Alpha anyway - here we can use them]. 
 

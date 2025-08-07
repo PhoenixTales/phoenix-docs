@@ -16,7 +16,7 @@
 ```
 Surface (OW - Oberwelt):
 
- 1. "Der große Wald und der uralte Steinkreis"                     |   "The big Forest and the ancient Stone Cirlce"
+ 1. "Der große Wald und der uralte Steinkreis"                     |   "The big Forest and the ancient Stone Circle"
  2. "Die anderen Wälder"                                           |   "The other forests"     
  3. "Der Sumpf und die Umgebung des Sektentempels"                 |   "The Swamp and the environment of the Sect Temple"
  4. "Die Klippen im Südosten und der Turm des Dämonenbeschwörers"  |   "The Cliffs in the Southeast and the Tower of the Demon Invocator"
@@ -176,7 +176,7 @@ But this was changed early on for unknown reasons. Thus on the concepts by Ralf 
 
 [include reconstructed map showing this]
 
-According to the earlier concept, the New Camp was always supposed to be close to the Old Fort; at first there were supposed to be fields at the bottom of the Fort with peasants who would work for the Lord (later General Lee) of the New Camp. And the Fort was meant to be close to the barrier, very far southwest, not as close to the Old Camp.
+According to the earlier concept, the New Camp was always supposed to be close to the Old Fort; at first there were supposed to be fields at the bottom of the Fort with peasants who would work for the Lord (later General Lee) of the New Camp. And the Fort was meant to be close to the Barrier, very far southwest, not as close to the Old Camp.
 
 [include image of the Fort position]
 
@@ -191,13 +191,13 @@ To summarise:
 
 At first there was only one river in the world in the south of the Old Camp which was supposed to be close to the Old Fort and relatively close to the New Camp, with fields between the New Camp and the Fort. Then a second river was added in the north without any direct connection to a camp. The lake in the south was then conceptualised not only as being close to the New Camp, but as coming from a waterfall from within the camp, in which a dam was build that would water the rice terraces which replaced the former idea of the fields. Next the position of the camp was changed from southwest to northwest and the New Camp was from now on thought to be connected with the northern instead of the southern river. It was modeled in connection with the northern river in all versions of the game we know of. 
 
-Then the shape of the southern river was changed, as it had lost its function of being related with watering the fields. It would no longer run from the left (southwest) to the right (southeast), but rather from the middle of the south to the middle of the east. Under the waterfall it came from there was drawn a lake (with a second, more hidden lake connected to it), underneath the cliff, where the Demontower was thought to be. This shape was roughly kept till release, but additional complexity was added by splitting it to form two rivers running along both sides of the Great Forest in the east.
+Then the shape of the southern river was changed, as it had lost its function of being related with watering the fields. It would no longer run from the left (southwest) to the right (southeast), but rather from the middle of the south to the middle of the east. Under the waterfall it came from there was drawn a lake (with a second, more hidden lake connected to it), underneath the cliff, where the Demontower was thought to be. This shape was roughly kept till release, but additional complexity was added by splitting it to form two rivers running along both sides of the Great Forest in the east.  
 
 
 
 #### The Swamp in the east
 
-He cannot explore it as long as the barrier is intact. Making it a huge mysterious area that the player cannot reach, just look inside from afar, wondering what may there behind the barrier and how far it may lead him. 
+He cannot explore it as long as the Barrier is intact. Making it a huge mysterious area that the player cannot reach, just look inside from afar, wondering what may there behind the Barrier and how far it may lead him. 
 
 
 <style>

@@ -1,8 +1,8 @@
 # Cults & Sects
 
-``Author: Flosha``
-``25.03.2024 - 13.06.2024``
-``Last update: 24.09.2024``
+``Author: Flosha``  
+``25.03.2024 - 13.06.2024``  
+``Last update: 24.09.2024``  
 
 <!-- TOC_PLACEHOLDER -->
 
@@ -24,8 +24,8 @@ There are also other local deities, believes and cults in different corners of t
 
 > ... wurden Priester genannt. Doch auch unter ihnen gab es viele, die bald unzufrieden waren. Und so kam es, dass sie zu Adanos beteten und ihren Ursprung vergaßen. Die Riege der Priester war gespalten. Kriege wurden entfesselt und auch der Glaube an die göttliche Allmacht war bald schon nur noch Mythos. So teilten sich die Priester. Die dem Adanos folgten nannte man nun Magier des Wassers, die Geweihten des Innos hießen aber die Magier des Feuers. [G]
 
-The scripture informs us that cultic wars were started in course of the split of the priests and that apparently the belief in the allmightiness of god became a myth.
-We can interpret this to suggest that atheism and other faiths gained popularity.
+The scripture informs us that cultic wars were started in course of the split of the priests and that apparently the belief in the allmightiness of god became a myth.  
+We can interpret this to suggest that atheism and other faiths gained popularity.  
 
 
 ## Cult of the Three Gods
@@ -73,7 +73,7 @@ Rhobar I. took measures against the decline of faith and end the cultic wars by 
 
 Rhobars cult can be seen as something like an ecumenical movement of Myrtana (although less peaceful, but a brutal, a gothic one).
 
-By acquiring the Sceptre of Varant, claiming himself to be the governor of the highest god RA, identified with Innos he set himself into a lineage of the old realm.
+By acquiring the Sceptre of Varant, claiming himself to be the governor of the highest god Ra, identified with Innos he set himself into a lineage of the old realm.  
 
 Rhobar II. later established the Inquisition as another measure, as a representation of Beliars justice.
 

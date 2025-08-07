@@ -1,12 +1,12 @@
 # Sceptre of Varant
 
 
-**Author:** *Flosha*
-**Created:** 07.09.2024
+**Author:** *Flosha*  
+**Created:** 07.09.2024  
 
 [Add image of it from the intro? Or sketch?]
 
-* The Sceptre of Varant is an old artifact that is assumed to have been created in the First Realm, belonging to the first Priest King, with the ability to take control over the *spheres*.
+* The Sceptre of Varant is an old artifact that is assumed to have been created in the First Realm, belonging to the first Priest King, with the ability to take control over the *spheres*.  
 
 * In the older language the lance may be called *Korin-Ak-Ra*, the lance from Ra, god of the sun. 
 

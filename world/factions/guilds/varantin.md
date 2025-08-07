@@ -1,7 +1,7 @@
 # Varantin
 
-**Author:** *Flosha*
-**Created:** 28.05.2024
+**Author:** *Flosha*  
+**Created:** 28.05.2024  
 
 * Loosely inspired by the Khazars, or in general Turkic people of the steppe, their traders are shown in respective clothing of that period and their mercenaries in respective armour.
 * In order to show their "foreign" character, they should be speaking in their own language, use their own script and speak German/English with an accent.
@@ -24,5 +24,5 @@ Links:
 ![heavykhazar](https://i.pinimg.com/originals/ad/ef/06/adef063b1c289596673316cca980ee25.jpg)
 * Heavy warriors (above) wear a longer tunic with their lamellar armour reaching further down, their face hidden by a mail cover. They're often wearing a coat with discreet Varantian adornment. -> These heavy warriors are rare and are guarding the leaders of the Varantian Trader Guild. 
 
-**24.05.2024:**
+**24.05.2024:**  
 * The Varantin have very skilled archers, as mounted archery is part of their cultural tradition. Some archers are patrolling the roofs of the Varantian Quarters. Many are guarding the outside of the trading center as well as the balconies inside. 

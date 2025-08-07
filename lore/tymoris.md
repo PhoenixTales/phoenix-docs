@@ -1,7 +1,7 @@
 # Tymoris
 
-``Authors: Flosha, Ben``
-``Written: 09.06.2024``
+``Authors: Flosha, Ben``  
+``Written: 09.06.2024``  
 
 Like the Westfield it is only known from an ingame text in the document (Urkunde) that Lester seeks. The original says:
 
@@ -31,7 +31,7 @@ Our ingame etymology of Tymoria is that it is comprised of *Tyr* and *Mor* and w
 
 TODO: Analyse the words more. Also analyse Tymor/Timor etc. 
 
-Tymoria could once have been the name of a realm that perhaps covered the entire east of what we now know as Myrtana. In course of time this realm was succeeded by Myrtana, which partially reminds of the old name just with a different connotation and today only a province of the same name remains, with Tymoris as the former capital of the fallen Tymoria, which some of the old Tymorians are not accepting, still holding on to the old idea of their realm that they would like to reestablish.
+Tymoria could once have been the name of a realm that perhaps covered the entire east of what we now know as Myrtana. In course of time this realm was succeeded by Myrtana, which partially reminds of the old name just with a different connotation and today only a province of the same name remains, with Tymoris as the former capital of the fallen Tymoria, which some of the old Tymorians are not accepting, still holding on to the old idea of their realm that they would like to reestablish.  
 
 ## Summary
 

@@ -25,7 +25,7 @@ In the early stages of development we created what later would become the [Gothi
 
 All the research of said material and our own game design derived from it are extensively documented in the design concept at hand. In the same way as we have made our Archive public source we have also decided to release our design docs in the form of a website. It is our own minimal online documentation solution, where the index serves as the navigation. Documents are written in markdown and are automatically formatted as HTML, often complemented by spreadsheets appended. It is easy to contribute [via git](https://github.com/PhoenixTales/phoenix-docs), so everyone can collaborate with us in our research. Since we target an international audience and are an international team <!--(from Germany, Poland, Romania, Czechia and with associations to Ukraine, Russia and Slovakia)--> we write the documentation in English.
 
-A long-term goal is a physical publication of the concept after the release of the game.
+A long-term goal is a physical publication of the concept after the release of the game.  
 
 
 ## Document Structure
@@ -35,7 +35,7 @@ While working on our design docs we had to come up with a way to structure the d
 Please note that the Design Concept is an ongoing documentation of the project since 2016. It is <span class="demonic">work in progress</span>. Many documents are currently rewritten and will be unlocked over time. Due to the current work on the order and internal structure of the documents, regular changes to the index are to be expected.
 {: .subtext .darkbg }
 
-Current structure:
+Current structure:  
 
 ```
 DESIGN CONCEPT

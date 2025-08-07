@@ -10,14 +10,14 @@ When Ralf started to draw his concepts for the Psi Camp, it was already based on
 [Include image]
 First it was just a small wooden temple among the trees, connected to the holy stone with a statue of the Enlightened with the third eye on his forehead hewn from the stone.
 
-Hence the name "Sect Temple" that the developers always used as a description of the whole camp, not as a description of a mere building within the camp, since everyone was in the "temple". The actual temple-like building was just the "sanctum", the holiest place of the temple, but the entire camp was conceptualised as this "temple" of the sect. They kept using this term throughout all the different concept phases of the camp until the new term "Psi Camp" came up at some point.
+Hence the name "Sect Temple" that the developers always used as a description of the whole camp, not as a description of a mere building within the camp, since everyone was in the "Temple". The actual temple-like building was just the "Sanctum", the holiest place of the temple, but the entire camp was conceptualised as this "temple" of the Sect. They kept using this term throughout all the different concept phases of the camp until the new term "Psi Camp" came up at some point.
 {: .subtext}
 
 [include image]
 Then a bigger wooden fortress around a tree was drawn, with a smaller holy stone. Now with a Sleeper idol instead of the Enlightened, also with the third eye on his forehead. A separate building was added behind the stone, which would later be described as the "Sanctum" ("das Allerheiligste").
 
 [include image]
-Finally it was developed into seperated little islands instead of it all being one wooden temple complex; the holy stone remained, but was even more simplified; no statue or idol anymore, only the eye as the sign of awakening. The building behind the stone was kept as an idea and was developed further into the [Sanctum]() with a [Crypta]() underneath.
+Finally it was developed into separated little islands instead of it all being one wooden temple complex; the holy stone remained, but was even more simplified; no statue or idol anymore, only the eye as the sign of awakening. The building behind the stone was kept as an idea and was developed further into the [Sanctum]() with a [Crypta]() underneath.
 
 
 <style>

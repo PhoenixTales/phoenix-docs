@@ -1,15 +1,15 @@
 # Principles of Reconstruction 
 
-**Author:** Flosha
-**Created:** 21.09.2019
-**Updated:** 03.12.2022
+**Author:** Flosha  
+**Created:** 21.09.2019  
+**Updated:** 03.12.2022  
 
-**Status:** <span class="changed">Work in progress</span>
+**Status:** <span class="changed">Work in progress</span>  
 
 
 What we want to do is to realise the original vision of Gothic as PHOENIX without compromises (and to go beyond this vision by developing it further). 
 
-And in order to do so, our primarily directive is to take into account *everything* (regarding the pre-release material of Gothic and its Sequel). Everything that was included, as well as everything that was not included, but announced, planned and promised, everything that couldn't be realised or was discarded for whatever reason. We are taking into account every iteration of the story, every idea for a quest, every concept art and every sketch.
+And in order to do so, our primarily directive is to take into account *everything* (regarding the pre-release material of Gothic and its Sequel). Everything that was included, as well as everything that was not included, but announced, planned and promised, everything that couldn't be realised or was discarded for whatever reason. We are taking into account every iteration of the story, every idea for a quest, every concept art and every sketch.  
 But by taking all of this into account, we have to decide what to do with it. We have to differentiate different cases in order to clarify how to deal with a specific idea or content on a case by case basis. For this purpose we have "Criteria of Reconstruction" as described below (translated from German to English and slightly updated at 27.03.2024).
 
 <!-- TOC_PLACEHOLDER -->
@@ -72,7 +72,7 @@ There are bugs due to mistakes in scripts, grammatical mistakes, wrong uv-mappin
 
 ### 8. Case: Content is unbelievable or illogical
 
-In some cases there are rough logical discrepancies in dialogues (e.g. "13. Mage"). A different example: A former stable, that is now used as a blacksmith's shop in the castle, has a chimney, but the smith stands directly in the opposite corner of the room at a forge. And on concept art the forge is shown in a believable way directly integrated into the chimney. Then of course we model this forge accordingly and change the position of the smith.
+In some cases there are rough logical discrepancies in dialogues (e.g. "13. Mage"). A different example: A former stable, that is now used as a blacksmith's shop in the castle, has a chimney, but the smith stands directly in the opposite corner of the room at a forge. And on concept art the forge is shown in a believable way directly integrated into the chimney. Then of course we model this forge accordingly and change the position of the smith.  
 
 
 ### 9. Case: Content is "lacking" and added by ourselves

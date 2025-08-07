@@ -9,6 +9,6 @@
 * **Sword:** The army carries short swords. 
 
 
-Sfx:
+Sfx:  
 * When a soldier (royal army, pal) is walking, he always has to be heard by the sound of the jingling belts they wear and depending on the floor by the sound of his nailed boots; both may be solved by extra footstep sounds for soldiers. 
 * ...

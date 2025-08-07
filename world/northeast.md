@@ -17,7 +17,7 @@ This document contains an analysis of the development history of the entire nort
 
 Definition: As the *Northeast* we define everything north of the northern river and east of the troll canyon. We are doing so because all of these locations are in some way connected and the design of one of these can not be dealt with in isolation to the others, as will become clear. 
 
-Some of the background story of these locations may be mentioned in course of this document in so far as they are of importance for design decisions; but the locations will be dealt with in regard to their lore or their relevance for the story mainly in the other, respective sections of the documentation.
+Some of the background story of these locations may be mentioned in course of this document in so far as they are of importance for design decisions; but the locations will be dealt with in regard to their lore or their relevance for the story mainly in the other, respective sections of the documentation.  
 {: .subtext }
 
 <!-- TOC_PLACEHOLDER -->
@@ -66,7 +66,7 @@ In his next and the last known map sketch, Mike elaborated his former Orpheus Ma
 The cliff marked in red, the forest in green; the arrows in the forest mean to connote a rise in the terrain; it was meant to go upwards here - next to it the marketplace. The Abandoned Mine (VM) more south behind the bridge. In the east the originally imagined position of the stone circle is seen.
 {: .caption }
 
-As already noted above, Mike had signified the marketplace on both of these maps by this scribble of a ropeway, which would be interpreted differently by Ralf, the concept artist.
+As already noted above, Mike had signified the marketplace on both of these maps by this scribble of a ropeway, which would be interpreted differently by Ralf, the concept artist.  
 
 The Old Temple ruins (Monastery) and the Bandits camp were not yet part of the concept at this point in time and are thus not appearing on Mikes maps. 
 
@@ -78,7 +78,7 @@ When Ralf Marczinczik started to draw concepts of the surface for review by Mike
 ![Starting location](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Oberwelt_Anfang-V2_1.jpg)
 
 Obviously, this is his version of the cliff. You can see a lake and he thought of an influx of water in the east, which was the opposite of Mikes idea, where this water would run towards the east into the ocean and was not drawn as a separate lake. Ralf thereby removed the water directly in the north of the northern forest that the player was meant to arrive at. Instead of the water there was now a thick mountain wall between the forest and a smaller, separated lake within this starting area with the cliff surrounded by vast rock faces.
-But he also did draw this:
+But he also did draw this:  
 
 ![Beginning of the Game in Ralfs Concepts](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Oberwelt_Anfang-V1_1.jpg)
 
@@ -109,7 +109,7 @@ But if we assume that Ralf has seen Mikes Orpheus Map before and that he based h
 
 In this case the two concepts above may indeed belong to the same time and show two separate locations; the first concept would show the cliff, which you would exit through a crack in the mountains somewhere behind the forest (red), while the second concept(s) would show the marketplace, with the sceneric view towards the Old Camp (blue) and the exit from the lift (green). But if so and if the player would arrive via the cliff, the player would never have been able to take the lift and see the top; he would never walk over the tree and so forth. Therefore it remains most likely, that these two sketches show two different approaches to the cliff/marketplace; in which case the one that I showed first, may be the later one. 
 
-We also have a concept by Ralf of a *Gondola*. This could as well have been attached to the lift he came up with as to the actually planned ropeway.
+We also have a concept by Ralf of a *Gondola*. This could as well have been attached to the lift he came up with as to the actually planned ropeway.  
 
 ![Gondola](https://media.gothicarchive.org/conceptart/ralfmarczinczik/surface/Oberwelt_Fahrstuhlgondel.jpg)
 
@@ -117,7 +117,7 @@ It should be obvious how much these concepts deviated from Mikes conception. And
 
 Interpreting what Mike had [drawn unto the draft by Ralf](/_img/world/mikes-feedback-to-ralfs-concept-1.jpg), he basically repeated what he had drawn in his Orpheus map and his final map sketch. It seems clear that he did not want the cliff to be hidden in a deep circular valley, as Ralf had imagined it, as thereby the player would have no view of the colony anymore when standing on the cliff. He also seemed to insist on a position of the cliff in the east of the marketplace and to keep the water between the cliff and the northern forest. 
 
-In the first world models in the pre-alpha versions of the game, it would roughly be implemented accordingly.
+In the first world models in the pre-alpha versions of the game, it would roughly be implemented accordingly.  
 
 As for the Old Temple ruins and the bandits camp, they were still no part of the concept. It may be that concept art of the Temple ruins exist, but if so, they haven't been seen by us yet. 
 
@@ -165,7 +165,7 @@ Accordingly there also was no gate to protect the exchange place, as there was n
 The other side, view from the exchange place towards the Abandoned Mine area.
 {: .caption }
 
-There would be no gate here till around v0.94k.
+There would be no gate here till around v0.94k.  
 In screenshots of v0.8 to 0.9 it is still not included.
 
 ![Exchange Place to AM v0.8 - v0.9](/_img/world/ep-08-09.jpg)
@@ -265,13 +265,13 @@ It was just quite "open" and the player would have been able to enter it early (
 
 ### Summary
 
-The Northeast has changed a lot in course of development. The ingame implementation lost several of the early ideas:
+The Northeast has changed a lot in course of development. The ingame implementation lost several of the early ideas:  
 
 * There was no longer a connection of the water/lake below the cliff to the sea, nor was there any waterfall or any other  influx or outflow of the water. This affected the overall atmosphere as well as the believability of the terrain, giving it a less organic and less "wild" appearance than it could have had.
 * The connection to the northern forest was lost - and the northern forest itself has been removed, inspite of its dominant role in all map concepts, pre-alpha models and the novel, where the Abandoned Mine has always been imagined close to a forest; and an early forest exploration (of course a less dangerous one for the start of the game, which makes sense due to how highly frequented it is) would have served the gothic atmosphere well. 
 * The player could not see the colony from the cliff, as it was initially planned and described in the Comic and the Novel; although a similar sceneric view was offered later on the bridge, the original view from the cliff itself, from where even lights from the Psi Camp should have been seen, was lost.
 * The later implemented cliff at the exchange place was very low in comparison to the originally imagined cliff, which was meant to be higher and induce more fear of the fall.
-* Another aspect connected to that which also has been lost and which follows from the inability to overlook the colony from the cliff, was that the cliff could hover menacingly over the valley like a memorial to remember everyone of their brutal conviction.
+* Another aspect connected to that which also has been lost and which follows from the inability to overlook the colony from the cliff, was that the cliff could hover menacingly over the valley like a memorial to remember everyone of their brutal conviction.  
 * The ropeway that has always been planned by Mike - and was implemented well in v0.7 - has been removed in the release version; and while the ropeway may have been a more believable solution for the exchange place than the lift by Ralf, the idea of the lift was thereby also lost.
 * This also affected the design of the Abandoned Mine, which was discarded in the form that Ralf had imagined it.
 
@@ -282,7 +282,7 @@ Flosha, 12.09.2024 - 14.09.2024
 
 I want to clarify at first, that I did not want to get rid of the general design of the terrain of the exchange place and the Abandoned Mine from the Alpha versions, as the design of this terrain is both very good and it is the *only* and thereby the *first and last* ingame implementation of the exchange place and the Abandoned Mine.
 
-And it is a viable question to ask, as to *why* the cliff should be separated at all and in which sense that would make it any better. Apart from the dominance of the idea in the concepts and design documents, that give it a high priority according to our *principles of reconstruction*, one should keep in mind that a seperate implementation of the cliff was meant to go along a seperate section of exploration at the gamestart; the player would enter the valley via a different path through the northern forest, with different things to explore, different perspectives to discover and additional stories to be told, as they are mentioned in the Gothic Novel, while the path to the exchange place wouldn't be lost, but still be there and explorable in addition to it. It is in this way that it would be an improvement. Apart from all the interesting interconnections, possible interactions with the convoy and so on. Other than that, in the old story the player would have a reason to visit both the cliff (arrival of new convict(s)) and the exchange place (new convoy) and the AM again in course of the story, thereby approaching the paths from the other direction; all of which did not play a role in the heavily trimmed story of the release version. 
+And it is a viable question to ask, as to *why* the cliff should be separated at all and in which sense that would make it any better. Apart from the dominance of the idea in the concepts and design documents, that give it a high priority according to our *principles of reconstruction*, one should keep in mind that a separate implementation of the cliff was meant to go along a separate section of exploration at the gamestart; the player would enter the valley via a different path through the northern forest, with different things to explore, different perspectives to discover and additional stories to be told, as they are mentioned in the Gothic Novel, while the path to the exchange place wouldn't be lost, but still be there and explorable in addition to it. It is in this way that it would be an improvement. Apart from all the interesting interconnections, possible interactions with the convoy and so on. Other than that, in the old story the player would have a reason to visit both the cliff (arrival of new convict(s)) and the exchange place (new convoy) and the AM again in course of the story, thereby approaching the paths from the other direction; all of which did not play a role in the heavily trimmed story of the release version. 
 
 
 ### Exchange Place
@@ -292,9 +292,9 @@ At first I reconstructed the iconic ropeway from v0.7, which Mike had envisioned
 I then thought about how, while preserving the above mentioned terrain and setup, I could at the same time include...
   * a potential separate cliff with another, connected lake and how this lake could have a connection to the sea.
   * the northern forest (connected to that lake at the cliff) and...
-  * the ore lift in combination with the Abandoned Mine Concept Arts.
+  * the ore lift in combination with the Abandoned Mine Concept Arts.  
 
-And especially: How I could realise all of this inspite of the Old Temple (Monastery) Ruins which - at first - seemed to be very much in the way of these intended changes.
+And especially: How I could realise all of this inspite of the Old Temple (Monastery) Ruins which - at first - seemed to be very much in the way of these intended changes.  
 
 
 ### Northern Forest
@@ -303,7 +303,7 @@ And especially: How I could realise all of this inspite of the Old Temple (Monas
 
 [modeled in 2022]
 
-The northern forest I had first implemented in a smaller form by changing the terrain in the north of the river but almost without touching (or relocating) the mountain terrain leading to the AM, which I thought was way too much work to pull off. This way the forest was not connected to the Abandoned Mine - I tried to solve this by including a second, lower entrance at the bottom of the mountain instead. And in order to make this forest more special I came up with a tricky hack by which I could let a side stream of the river flow "through" the forest - or at least create the illusion that it does -, which is very problematic from a technical side.
+The northern forest I had first implemented in a smaller form by changing the terrain in the north of the river but almost without touching (or relocating) the mountain terrain leading to the AM, which I thought was way too much work to pull off. This way the forest was not connected to the Abandoned Mine - I tried to solve this by including a second, lower entrance at the bottom of the mountain instead. And in order to make this forest more special I came up with a tricky hack by which I could let a side stream of the river flow "through" the forest - or at least create the illusion that it does -, which is very problematic from a technical side.  
 This way I realised a forest in the north without any need to change much of the mountain terrain leading to the exchange place. I did spend at least 50 hours on this solution. But the forest was much smaller than the one known from v0.56c and v0.64b *and* there was no lake. I had a forest in the north now, but had realised almost nothing of the initially conceived progression of the player that should arrive here from the lake. In the end, the work was mostly in vain.
 
 
@@ -375,14 +375,14 @@ We should imagine the path alongside the AM towards the EP and the path through 
 
 As originally imagined by Mike in all of his sketches, we could now have a Cliff seperated from the Exchange Place (EP) and in the west of it, while the terrain would still be connected to it via the lake and the mountains. The cliff could be placed high enough to have a view over the entire valley including the Psi Camp (and the EP too); it would be higher than it has been realised at the EP later, but not as extreme as I had done it in my second approach based on the pre-alpha dummies. 
 
-With the Cliff and EP separated and when the people come from the west (which the early maps and the dummy path in 0.94k is suggesting), bringing a convict to the Cliff means going a slightly longer way. While not being of relevance for our first act, it becomes relevant in the second, when the player can reach this terrain outside of the former barrier. The path to the Cliff should thus be connected organically with the path to the ropeway and should really emphasize the impression of an official path to conviction. This impression can potentially be improved by including a set of stairs. 
+With the Cliff and EP separated and when the people come from the west (which the early maps and the dummy path in 0.94k is suggesting), bringing a convict to the Cliff means going a slightly longer way. While not being of relevance for our first act, it becomes relevant in the second, when the player can reach this terrain outside of the former Barrier. The path to the Cliff should thus be connected organically with the path to the ropeway and should really emphasize the impression of an official path to conviction. This impression can potentially be improved by including a set of stairs. 
 
 By implementing the Cliff behind the hole above the AM, the view from the EP would be the same as known and its position preserved; from the EP you could see the cliff and vice versa. 
 
 
 ### Northern Lake(s)
 
-There would have to be a waterfall here, perhaps higher up in the mountains east of it, because based on the height of the hole in the mesh, the water level at the seperate Cliff would have to be higher than the one at the Exchange Place (EP); thus the waterfall had to be east of the EP, flowing into the northern lake at the cliff and from there into two directions - east into the lake at the EP and west, organically in form of several steps and waterfalls, down towards the sea. 
+There would have to be a waterfall here, perhaps higher up in the mountains east of it, because based on the height of the hole in the mesh, the water level at the separate Cliff would have to be higher than the one at the Exchange Place (EP); thus the waterfall had to be east of the EP, flowing into the northern lake at the cliff and from there into two directions - east into the lake at the EP and west, organically in form of several steps and waterfalls, down towards the sea. 
 
 That this water cannot be at the exact same height as the ocean itself and has to flow down in some way and at some point or another, we can consider as something that Mike had to have already in mind (not in the Orpheus map, but in his final map sketch, where he marked the rise in the terrain), because as the forest terrain was supposed to rise north, it would rise quite a bit up compared to the ocean and the river south of it (that also flows into the ocean), while the water north of it was meant to be not too much lower than the forest, since the convicts should arrive here at the shore.
 
@@ -403,10 +403,10 @@ That said, the area from Ralfs concepts can very well co-exist to the area as it
 
 According to the concept the lift would be placed close to the EP. While the lift may be Ralfs (wrong) interpretation of the ropeway, which serves this concept of exchange already, the lift didn't really have a reason to exist. But as I just liked the idea and do not want to get rid of the concept, I still decided to include it. And since it doesn't have to and shouldn't be used in the same context as the ropeway, it just could be used in a different context.
 
-And by the way, something akin to this ore lift by Ralf, with a counterbalance as a mechanism, is also mentioned a few times in the Gothic novel, by which the protagonist can leave from a dungeon deep down very fast - an idea which we should absolutely utilise in the game at several locations in order to make the backtraveling from all the dungeons easier. Since according to the original concept the orc caves will only be accessible by first going through the mines, the temple again would be below the orc caves and so on. The player needs to go through all of these dungeons to reach the deeper levels, and Alex Wittmann in the novel, knowingly or unknowingly, has provided us with an actual useful gameplay mechanic to deal with this. An important puzzle piece in the Metroidvania like underground design I am going for.
+And by the way, something akin to this ore lift by Ralf, with a counterbalance as a mechanism, is also mentioned a few times in the Gothic novel, by which the protagonist can leave from a dungeon deep down very fast - an idea which we should absolutely utilise in the game at several locations in order to make the backtraveling from all the dungeons easier. Since according to the original concept the Orc Caves will only be accessible by first going through the mines, the temple again would be below the Orc Caves and so on. The player needs to go through all of these dungeons to reach the deeper levels, and Alex Wittmann in the novel, knowingly or unknowingly, has provided us with an actual useful gameplay mechanic to deal with this. An important puzzle piece in the metroidvania-like underground design I am going for.
 {: .subtext}
 
-It may not connect the outside world to the colony, as the ropeway is doing so, but it can still be a sort of ore lift and it can even appear at the "same" location, or to be more precise rather the "equivalent" location in the layout as implemented from 0.7 onwards.
+It may not connect the Outside World to the Colony, as the ropeway is doing so, but it can still be a sort of ore lift and it can even appear at the "same" location, or to be more precise rather the "equivalent" location in the layout as implemented from 0.7 onwards.
 
 Since, as mentioned further above, we can interpret the bridge that leads to the other mining sites in the west of the Abandoned Mine, as being a later version and realisation of the concept art of the tree in front of the waterfall that would lead to the lift, we ought to implement the lift somewhere behind this bridge. 
 
@@ -415,7 +415,7 @@ Such as behind one of the blocked mine entrances (one of which may as well be ju
 
 ### Quentins Camp
 
-Quentins camp was a highly underdeveloped location, which was implemented late, did not serve any purpose in the story and had almost no environmental storytelling attached to it either. Why shouldn't it be just another, more secluded part of the AM? A very obvious solution. Hidden due to the abandonment of the area; all the entrances to it have long been blocked and in order to make it even more secluded, I removed the regular "path" from the release version that is leading towards it and has no basis in the concepts or earlier ideas anyway; this way this northern path is exclusively leading to the troll canyon again, as it originally was; by transforming it into this very wide terrain that would lead both to the canyon as well as to the bandits, did not serve either of them well, nor did it make the camp as a "hidden" location very believable. But by seperating it like this and connecting it to the Abandoned Mine it becomes actually inaccessible and no one knows where they are hiding, which obiously should be the goal for the bandits hideout. 
+Quentins Camp was a highly underdeveloped location, which was implemented late, did not serve any purpose in the story and had almost no environmental storytelling attached to it either. Why shouldn't it be just another, more secluded part of the AM? A very obvious solution. Hidden due to the abandonment of the area; all the entrances to it have long been blocked and in order to make it even more secluded, I removed the regular "path" from the release version that is leading towards it and has no basis in the concepts or earlier ideas anyway; this way this northern path is exclusively leading to the troll canyon again, as it originally was; by transforming it into this very wide terrain that would lead both to the canyon as well as to the bandits, did not serve either of them well, nor did it make the camp as a "hidden" location very believable. But by separating it like this and connecting it to the Abandoned Mine it becomes actually inaccessible and no one knows where they are hiding, which obviously should be the goal for the bandits hideout. 
 
 The concept of the Abandoned Mine itself by Ralf, with the broken down huts, can fit somewhere inbetween the mountains here or even into the bandit camp area itself. 
 
@@ -432,7 +432,7 @@ In my second approach to the northern forest and the northern lake, I had tried 
 
 While the mountain massives north of the Old Temple that also can be seen in the old gameplay videos and screenshots from afar, would become part of the new cliff. Alternatively, at this point in time, I thought, the Old Temple and its entire area would have to be relocated to a different position in the Colony. 
 
-The temple did not have any sources in the design documents we retrieved, the location was not mentioned and its role in the (old) story was not really bound to a specific place. Therefore I considered a relocation as a possible solution, but a solution that I would highly prefer to avoid, as it was presented here as early as in v0.7.
+The temple did not have any sources in the design documents we retrieved, the location was not mentioned and its role in the (old) story was not really bound to a specific place. Therefore I considered a relocation as a possible solution, but a solution that I would highly prefer to avoid, as it was presented here as early as in v0.7.  
 Another reason to not relocate the cliff was the view from the beach, as it was presented in the Gameplay Trailer 2000. The Old Temple could be seen from here. This was a scene that I wanted to preserve. Therefore I even went so far to imagine how I could relocate them together; preserving the exact ratio and perspective. At times during the design process and the many experiments with this area I thought I wouldn't be able to avoid it.
 
 ![The Old Temple Ruins seen from the beach](/_img/world/temple-ruins-from-the-beach.jpg)

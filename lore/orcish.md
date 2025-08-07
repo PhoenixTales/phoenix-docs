@@ -1,8 +1,8 @@
 # Orcish
 
-**Author:** Flosha
-**Created:** 12.01.2021
-**Last change:** 08.07.2025 
+**Author:** Flosha  
+**Created:** 12.01.2021  
+**Last change:** 08.07.2025  
 
 Info: Everything about the orcish language and runes as used in Phoenix.
 
@@ -18,7 +18,7 @@ Before developing the language any further, below is a list of all the words or 
 
 [wip, add the remaining sentences from the scripts]
 
-**Sure:**
+**Sure:**  
 * Ur-
 * Ur-Shak
 * Tarrok

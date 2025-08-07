@@ -2,7 +2,7 @@
 
 ```
 Author: Flosha  
-Created: 12.06.2024   
+Created: 12.06.2024  
 Last update: 09.09.2024  
 ```
 
@@ -12,7 +12,7 @@ Here we are primarily focusing on the definition and role of Khorinis as a locat
 
 ## Etymology
 
-We can either assume that the word is comprised of two words such as "Khor+Inis", as suggested by Avallach, or we can assume it to be "Khorin" with a suffix "-is" as it appears in words such as basis or polaris, which I suggested.
+We can either assume that the word is comprised of two words such as "Khor+Inis", as suggested by Avallach, or we can assume it to be "Khorin" with a suffix "-is" as it appears in words such as basis or polaris, which I suggested.  
 
 * **Korin** is a name and an alternate form of *Corin*, which, as Ben (one of our contributors) found, may come from *Quirinus*, an epithet of Mars, the god of war, which according to Ovid could originate from a language related to latin with a potential meaning of the *"lance (bearer)"*. (Interestingly we became aware of this just *after* I had the idea that Khorin once brought the Sceptre of Varant to Khorinis.) Additionally, when *Quirinus* is pronounced in a latin manner, it sounds almost like "Khorinis" already.
 
@@ -95,7 +95,7 @@ At the same time, he clarified to us [in 2020](https://gothicarchive.org/postrel
 
 They *had* the *idea* of an island at first, because of *Escape from New York*, *the* essential inspiration to Gothic, which is taking place in Manhatten, but the idea was discarded in favour of the magical barrier (which was an idea by Stefan Nyul) and at that point there was no concept of the world around it, only fragments. 
 
-When then the Sequel was being developed by Nyul and Brüggemann (the other two of the four founders of the team apart from Mike Hoge and Tom Putzki) and when they decided to let their project take place in the colony only, - which they were forced to do since they didn't have enough level designers to do more than an overhaul of the colony, as all the former level designers decided to help Mike with his shooter project *Unplugged* instead, that sadly never came to fruition - there was still no reason to clarify the position of the colony within the world of Gothic. But as the idea had been discarded during the conception phase of Gothic, they did not imagine it being situated on an island.
+When then the Sequel was being developed by Nyul and Brüggemann (the other two of the four founders of the team apart from Mike Hoge and Tom Putzki) and when they decided to let their project take place in the colony only, - which they were forced to do since they didn't have enough level designers to do more than an overhaul of the colony, as all the former level designers decided to help Mike with his shooter project *Unplugged* instead, that sadly never came to fruition - there was still no reason to clarify the position of the colony within the world of Gothic. But as the idea had been discarded during the conception phase of Gothic, they did not imagine it being situated on an island.  
 And the Comic, that was considered canonical and showed the city of Khorinis (that Milten travelled to *by foot* from the northern plains (in the north of Myrtana), with Khorinis being the "*next* city" from there, as the official website informed us) - and thus showing us a part of the outside world - surrounded by huge mountain massives, has thus obviously given no reason to imagine an island either. While the barrier was gone, the game world of the Sequel was meant to be limited by the inability to swim out of the world (due to monsters in the sea) and orcs (for reasons related to the story) being placed around all the exits of the valley. 
 
 There is *one* mentioning of an island though, as quoted above. In the design documentation of story version 3, there is written a dialogue of Ka-Garon, one of the "higher" novices: 
@@ -117,7 +117,7 @@ But *if* Khorinis is an *actual* island, based on all the findings before and th
 
 * Khorinis is also the only place in the Kingdom where all these strange creatures and mutations occur or are initially coming from - they are in many cases not *known* or very rarely seen in other areas of the realm (due to reasons also explained in our /lore; you may want to read [Gothic defined](/vision/gothic-defined) in this context). 
 
-* Khorinis is the home of the orcish Bloodearth Clan, which is hated by most other orcish clans and considered to be cursed by all - including themselves. The orcish prophecies of the awakening of the demon are common knowledge among the Orcs and feared by everyone. The nature of the Prison Colony on the other hand is not even commonly known among the Royal Army, not to speak of the Orcs. No Orc has thus any reason to go to Khorinis among all places (although the story may give them reason...) For them Khorinis is the least attractive place to go. For the orcs, going to Khorinis is like for the Israelites to go back to Egypt.
+* Khorinis is the home of the orcish Bloodearth Clan, which is hated by most other orcish clans and considered to be cursed by all - including themselves. The orcish prophecies of the awakening of the demon are common knowledge among the Orcs and feared by everyone. The nature of the Prison Colony on the other hand is not even commonly known among the Royal Army, not to speak of the Orcs. No Orc has thus any reason to go to Khorinis among all places (although the story may give them reason...) For them Khorinis is the least attractive place to go. For the orcs, going to Khorinis is like for the Israelites to go back to Egypt.  
 
 * As the orcs of the Bloodearth Clan live exclusively underground deep below the mines in their city since at least one thousand years, the humans are *not* aware of their existence. They assume that most orcs in the region went extinct in course of the ancient war fought against the orcs in the valley that took place a thousand years ago, which is a well known legend in the empire, but is greatly misunderstood.
 
