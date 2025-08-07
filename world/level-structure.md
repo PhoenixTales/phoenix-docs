@@ -26,7 +26,7 @@ One of the earliest summaries of the levels of the game world were written on an
 ```
 
 We can summarise this list as follows:  
-The first line lists the four camps at the *overworld*. The second and third line summarise the *underworld*; where the second are the underground mines and (orc) caves, while the third are the ancient temple and the *demonworld*. The fourth is the *overworld* surrounding the camps. Beyond it all, not mentioned here, the *outside world*.   
+The first line lists the four camps at the *Overworld*. The second and third line summarise the *Underworld*; where the second are the underground mines and (orc) caves, while the third are the ancient temple and the *Demonworld*. The fourth is the *Overworld* surrounding the camps. Beyond it all, not mentioned here, the *Outside World*.  
 
 The shortcuts mean and translate as follows:
 
@@ -48,13 +48,13 @@ OW | Oberwelt         -- | Surface
 AW | Außenwelt        OW | Outside World
 ```
 
-These shortcuts sometimes led to some confusion even among the original team, as in the beginning only the german shortcuts were used and the english shortcuts were introduced much later. Some earlier levels did never receive an english shortcut. For instance, "AM" is the Old Mine in German, but the Abandoned Mine in English. "OW" is the "Surface" in German, but may be interpreted as the "Outside World" (beyond the barrier) in English. 
+These shortcuts sometimes led to some confusion even among the original team, as in the beginning only the German shortcuts were used and the English shortcuts were introduced much later. Some earlier levels did never receive an English shortcut. For instance, "AM" is the Old Mine in German, but the Abandoned Mine in English. "OW" is the "Surface" in German, but may be interpreted as the "Outside World" (beyond the Barrier) in English.
 
-Please take into account, that the Free Mine, even if called "Mine" here, is listed as one of the camps. This is not a mistake. It was also called "Freies Lager" (Free Camp) in the earliest concepts (short FL, or in english FC) and the level (.zen) is still called "Free Mine Camp" (with waypoints named "FMC") to seperate it from the "Free Mine" dungeon. 
+Please take into account, that the Free Mine, even if called "Mine" here, is listed as one of the camps. This is not a mistake. It was also called "Freies Lager" (Free Camp) in the earliest concepts (short FL, or in english FC) and the level (.zen) is still called "Free Mine Camp" (with waypoints named "FMC") to separate it from the "Free Mine" dungeon. 
 
 All the other locations known from the game, such as the Old Fort and other landmarks like this are not conceptualised as levels on their own, as they are part of the general "surface" (therefore we will not deal with them here, where it is about the abstract level structure only). 
 
-This is consistent with the structure in the game data, where all the camps, mines, dungeons and the surface are seperate .zen files that are edited independently; although in the end the surface is merged with the four camps to a "world.zen".
+This is consistent with the structure in the game data, where all the camps, mines, dungeons and the surface are separate .zen files that are edited independently; although in the end the surface is merged with the four camps to a "world.zen".
 
 
 ## Early Phoenix Level Structure (1998-1999)
@@ -74,7 +74,7 @@ _||_||_||_||___|__|___|___|__|_|____/_(_)_\___|_____(|)_____|______/_(_)_\______
       .                              __|                       _______|               Free
       .                             |                         |                        Mine               Rock Clefts
       .                             |                         |                         |                  ↑       ↑
-      .                       --------------          -----------------          ---------------           .       .  
+      .                       --------------          -----------------          ---------------           .       .
       .                       | Old Mine I |          | Aband. Mine I |          | Free Mine I |           .       .
       .                       --------------          -----------------          ---------------           .       .
       .                             |                         |                         |                  .       .
@@ -123,11 +123,11 @@ As you can see, the basic structure remained the same. No part of the level as i
 
 At the surface we have the *Old Camp*, *Free Camp*, *New Camp* and the *Psi Camp* (called *Sect Temple* back then) as technically separate levels, while the *Stone Circle* is also specifically mentioned, inspite of technically not being separated from the surface, due to its importance in the story, where it was supposed to serve as the hub of the portals to the different temple areas (which had to be unlocked inside of the temple first, then the corresponding portal had to be activated in the stone circle). 
 
-The *Demontower* turned out to become a separate .zen in the final version, but is not mentioned here; this may either be due to it being conceived as significantly smaller in the Alpha (the later "sunken tower" is just re-using an older model of the Demontower) and thus unproblematic to include directly into the surface; it might as well be due to the idea of the story authors that the Demontower shouldn't be there at all in the beginning and would only have been erected in Chapter 2; or it might be due to the fact that the role of the demon evocator was very unclear and vague in the first story drafts. 
+The *Demontower* turned out to become a separate .zen in the final version, but is not mentioned here; this may either be due to it being conceived as significantly smaller in the Alpha (the later "sunken tower" is just reusing an older model of the Demontower) and thus unproblematic to include directly into the surface; it might as well be due to the idea of the story authors that the Demontower shouldn't be there at all in the beginning and would only have been erected in Chapter 2; or it might be due to the fact that the role of the demon evocator was very unclear and vague in the first story drafts. 
 {: .subtext }
 
 Underground & beyond we have the three mines: *Abandoned Mine*, *Old Mine* & *Free Mine* (the latter of which was also sometimes referred to as the "New Mine"). While it was not yet shown on the original abstract above, it is still a very early idea, that the mines should be connected (thus I have added this connection in red). The Abandoned Mine and the Free Mine were always supposed to be linked by a tunnel, which even plays an important role in Alex Wittmann's (once supposed to become official) gothic novel "[Sleeper's Ban](https://gothicarchive.org/documents/SleepersBan.html)".  
-But in later documents a connection between the Old Mine and the Orc Caves (perhaps through a connection with the Abandoned Mine) is also hinted at, making them all interconnected. Although the connection from the Old Mine is only ever mentioned in the context of the "lost mine" - e.g. after the mine runs full of water due to the earthquakes during the *Final Prayer*, from which we could deduce, as Dmitriy suggested, that this connection might only open up at this point in course of the (partial) collapse of the mine.
+But in later documents a connection between the Old Mine and the Orc Caves (perhaps through a connection with the Abandoned Mine) is also hinted at, making them all interconnected. Although the connection from the Old Mine is only ever mentioned in the context of the "Lost Mine" - e.g. after the mine runs full of water due to the earthquakes during the *Final Prayer*, from which we could deduce, as Dmitriy suggested, that this connection might only open up at this point in course of the (partial) collapse of the mine.
 
 While imagining such a tunnel the reader has to keep in mind that the Free Mine and the Abandoned Mine were originally supposed to be much closer together (much closer even than the Old Mine and the Abandoned Mine in the release version), as one can see on [Mikes Orpheus map](https://media.gothicarchive.org/conceptart/mikehoge/maps/map3.jpg). 
 {: .subtext }
@@ -180,13 +180,13 @@ Now to the release version. Long story short, alongside the extremely simplified
 * The Free Mine (which once was playing the biggest part in the story of all the mines) was still there, but narratively it only played a fracture of the role it was supposed to have (which also led them to change the models between Old Mine and Free Mine; the dungeon that players know from the release version as the Old Mine was actually meant to be the Free Mine and vice versa).
 * No connection could be realised anymore between any of the mines as well as there was no longer any connection between the mines and the Orc Caves/City.
 * The Orc City was completely removed alongside all the story that was supposed to take place there; while little parts of it were recycled in form of a smaller village at the surface, which was by far the biggest of all the cuts in the level structure.
-* The Temple could only be made about half as big as imagined (no four levels) with many ideas of both Mike and Ralf being lost and instead of having to open the ancient portal to the temple inside of the underground Orc City, now the access was a dumb gate in the recycled surface village of the orcs.
+* The Temple could only be made about half as big as imagined (no four levels) with many ideas of both Mike and Ralf being lost and instead of having to open the ancient portal to the temple inside of the underground Orc City, now the access was a dumb gate in the recycled surface village of the Orcs.
 * The Demonworld could not be realised anymore at all. 
 
 
 ## Conclusion
 
-It should be obvious that our solution for PHOENIX is the return to the initial level structure as it found its most elaborated expression in the early Phoenix Concept shown above. How we will implement this structure in the actual level design and how the game world will change in course of it will be explained in the "World Design" docs. Nothing to change or to add here. 
+It should be obvious that our solution for PHOENIX is the return to the initial level structure as it found its most elaborated expression in the early Phoenix Concept shown above. How we will implement this structure in the actual level design and how the game world will change in course of it will be explained in the "World Design" docs. Nothing to change or to add here.
 
 
 * [Evolution of the Map](/world/map-evolution)

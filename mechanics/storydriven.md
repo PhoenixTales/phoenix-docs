@@ -1,13 +1,13 @@
 # Storydriven
 
 ```
-Author:  Flosha
-Written: 04.09.2024
-Last update: 20.09.2024
+Author:  Flosha  
+Written: 04.09.2024  
+Last update: 20.09.2024  
 ```
 {: .info }
 
-Phoenix is promoted by us as a "story-driven rpg" and so was Gothic. But what does this even mean? 
+Phoenix is promoted by us as a "story-driven RPG" and so was Gothic. But what does this even mean? 
 
 <!-- TOC_PLACEHOLDER -->
 
@@ -44,7 +44,7 @@ In telling a story in or through a game, there are two diametrically opposed app
 
 It is one approach, as used most often, including in Gothic itself, that the game world and story are waiting for the player to trigger specific conditions and thereby initiate story events. 
 
-And then there is the possibility of a completely opposite approach: Events unfold on their own. They are also, but not *only* driven by the actions of the player, which serves as only one small factor among the actions of all the other (non-player) main characters in the game. Thus there are events that occur completely disconnected from the player's presence and influence. He can react to it, but he cannot (in many cases) force an event to occur earlier or later nor prevent it from occuring.
+And then there is the possibility of a completely opposite approach: Events unfold on their own. They are also, but not *only* driven by the actions of the player, which serves as only one small factor among the actions of all the other (non-player) main characters in the game. Thus there are events that occur completely disconnected from the player's presence and influence. He can react to it, but he cannot (in many cases) force an event to occur earlier or later nor prevent it from occurring.
 
 In one case the game scenario, the game world, the game's story can only progress as much as the player. In the other case the player can only progress as much as the game world and story.
 
@@ -64,21 +64,21 @@ In a storydriven game, the player may influence events, react to events, initiat
 
 ## The Immersive Sim RPG
 
-It is also in regard to the Immersive Sim that orienting ourselves at the early Vision of Gothic requires such bold decisions in design. The Immersive Sims it was inspired by were not story-driven either in the sense described above.  
-They were mostly driven by exploration, we may say, such as System Shock 2 or Thief, and this is an absolutely crucial aspect for Gothic too. But they were not much of "RPGs". 
+It is also in regard to the Immersive Sim that orienting ourselves at the early vision of Gothic requires such bold decisions in design. The Immersive Sims it was inspired by were not story-driven either in the sense described above.  
+They were mostly driven by exploration, we may say, such as System Shock 2 or Thief, and this is an absolutely crucial aspect for Gothic too. But they were not much of "RPGs".
 
-Yes, most of them had skills, attributes and stuff, they had an inventory and so on. But all of these are just superficial aspects of roleplaying, mechanical aspects, comparable to the underlying rules of a table top RPG.  
+Yes, most of them had skills, attributes and stuff, they had an inventory and so on. But all of these are just superficial aspects of roleplaying, mechanical aspects, comparable to the underlying rules of a tabletop RPG.  
 
 They are not the essence of the RPG; the essence is the story told by the narrator and the role played within this frame and in reaction to or in dialogue with the events of the narration.  
-In table top rpgs it is this what is underlying and driving the experience. It is the narrator that is *leading* the game, not the players. In CRPGs there is of course an underlying story too, but so far they have put the players agency over consequent narration. 
+In tabletop RPGs it is this what is underlying and driving the experience. It is the narrator that is *leading* the game, not the players. In CRPGs there is of course an underlying story too, but so far they have put the players agency over consequent narration. 
 
 CRPGs have just not been able yet to transfer this story-driven approach from the tables unto the screen. Instead of the story being given the highest priority the player is given priority and thereby "roleplaying" is destroyed.
 
 In that Gothic according to the early vision wants to be a real RPG and an Immersive Sim at the same time, it requires a different approach, it requires gameplay driven by story. 
 
-I think that this is a necessary aspect of immersive sim-rpg design if we want to follow it consequently and develop it further. Because when playing in an immersively simulated game world, the "simulation" is as non-immersive as it gets, when the story of the roleplay does not move forward in any way independent from the player. 
+I think that this is a necessary aspect of immersive sim RPG design if we want to follow it consequently and develop it further. Because when playing in an immersively simulated game world, the "simulation" is as non-immersive as it gets, when the story of the roleplay does not move forward in any way independent from the player.
 
-Speaking of concrete examples: It was only in form of the collapse of the old mine and the attack on the free mine (which were supposed to be two different events originally, besides diverse other similar story twists) that in the release version something at least *seemed* to happen behind the back of the player - at every other point in the story we could say that the world of the release version of Gothic was completely *static*, not dynamic. And so it was not even close to the "living" world that was promised in the Phoenix Pitch.
+Speaking of concrete examples: It was only in form of the collapse of the Old Mine and the attack on the Free Mine (which were supposed to be two different events originally, besides diverse other similar story twists) that in the release version something at least *seemed* to happen behind the back of the player - at every other point in the story we could say that the world of the release version of Gothic was completely *static*, not dynamic. And so it was not even close to the "living" world that was promised in the Phoenix Pitch.
 
 They even said so themselves when describing how the "story chapters" work in a design document (Attributes, Talents, Actions) from 21.07.1999 (translated by us):  
 > While the Player Character wanders through the Gameworld, explores the dungeons and comes ever closer to the escape from the prison, the gameworld changes. This is realised via different chapters of the story line. Within one chapters the gameworld is *always static* ["stets statisch"]. That means the same NPCs, the same dialogues, the same missions and the same structure of levels.
@@ -88,13 +88,13 @@ By this particular story twist at least the illusion was conveyed that something
 
 ## Realtime RPG
 
-Being "story-driven" in this sense of the term is also a necessary consequence of the idea of a "realtime" rpg, as which Gothic has always been promoted.  
+Being "story-driven" in this sense of the term is also a necessary consequence of the idea of a "realtime" RPG, as which Gothic has always been promoted.  
 In a game where everything happens "in real time", but only if the player is ready for it to happen, realtime is a mere illusion; it is realtime only in a mechanical, gameplay related sense as opposed to "round-based". But the *story* is *not* realtime, because instead of the story unfolding in "real" (play) time, it unfolds by the player "unlocking" every bit of story one single bit at a time at will. 
 
 Why should any of the other characters in the story wait for the player before doing what he wants to do?  
 Whether or not he is witnessing the events depends on whether or not he is at the right place at the right time. A factor which is heavily influenced by which guild he belongs to and so on.
 
-Neither the story nor we as the story-authors, nor the other characters nor the demonic threat lurking deep below do care nor should care for the will and convenience of the player. We neither do ask the question, if it is convenient for him right now that an assassin is send against him nor that the camp is being attacked. Gomez doesn't ask the player for permission. Nor does any other guild wait with the search for the ancient temple, while the player may be wasting time looting and farming the forests. 
+Neither the story nor we as the story authors, nor the other characters nor the demonic threat lurking deep below do care nor should care for the will and convenience of the player. We neither do ask the question, if it is convenient for him right now that an assassin is send against him nor that the camp is being attacked. Gomez doesn't ask the player for permission. Nor does any other guild wait with the search for the ancient temple, while the player may be wasting time looting and farming the forests. 
 
 It is only by actually letting the game being story-driven, that we can bring the player to experience the urgency of action and force him to do what is believable to do for his character in a given moment in time. 
 
@@ -120,7 +120,7 @@ The News system was supposed to spread news around the game world via contact of
 
 The player is part of a group (guild) and of friend circles too (such as the four friends). Whenever an important event has happened or whenever there are rumours of something that is *supposed* or *planned* to happen, there are various NPCs in the game who want to tell him about it. This way the player is meant to receive all the relevant information on time and can then decide to react accordingly. Obviously depending on his guild he will sometimes not be informed of some events and will not be able to be involved in them, as they are exclusive to a chosen path (guild, faction or camp); in some cases he may only be informed about them when they are over, while in a different playthrough he may witness them first-hand.
 
-Examples: He is a Shadow and is told that there has been a dispute between Corristo and Gomez. He can now go to investigate and get involved. Or: He is an Orga and receives the information that the Sect has send out men to find a focus stone. Or he is in the Free Camp and is told that Y'Berion has announced that all necessary preparation has been finished and that they will hold another Mass Meditation at dusk, which is meant to be more powerful than ever before; now the player has reason to go there to witness the event. If he doesn't, the Meditation will still happen at dusk, the earth will still shake, the Mine will still collapse; the player is not needed. 
+Examples: He is a Shadow and is told that there has been a dispute between Corristo and Gomez. He can now go to investigate and get involved. Or: He is an Orga and receives the information that the Sect has send out men to find a Focus Stone. Or he is in the Free Camp and is told that Y'Berion has announced that all necessary preparation has been finished and that they will hold another Mass Meditation at dusk, which is meant to be more powerful than ever before; now the player has reason to go there to witness the event. If he doesn't, the Meditation will still happen at dusk, the earth will still shake, the Old Mine will still collapse; the player is not needed. 
 
 ```
 ToDo: Are there more aspects to it?

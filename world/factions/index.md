@@ -1,10 +1,10 @@
 # Factions
 
 ```
-Author:  Flosha
-Created: 02.11.2022
-Update:  27.08.2024
-Status:  wip
+Author:  Flosha  
+Created: 02.11.2022  
+Update:  27.08.2024  
+Status:  wip  
 ```
 {: .info }
 
@@ -31,7 +31,7 @@ Currently we distinguish between the following factions:
 [Mgt] Magnaten (Magnates)  
 [Prs] Priester (Priests)  
 [Kng] Königliche (Royals)  
-[Rch] Richter (Judges/Law)   
+[Rch] Richter (Judges/Law)  
 [Vgf] Vogelfreie (Outlaws)  
 [Fre] Freie (Freedom/Revolt)  
 [Ktz] Ketzer (Heretics)  

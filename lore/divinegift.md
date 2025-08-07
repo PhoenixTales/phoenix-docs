@@ -1,14 +1,14 @@
 # Magic as the Divine Gift
 
-In the Myths of Myrtana, magic is conceived of as a Gift from the Gods ("Göttergabe"), that was originally given to all of mankind but then taken away from all of those who proved to be unworthy of it; from then on it would only be given to the elected ones, the priests. A myth similar to the biblical one of man in paradise, taking part in gods creation and his immortality until being banned from the garden of Eden. 
+In the Myths of Myrtana, magic is conceived of as a Gift from the Gods ("Göttergabe"), that was originally given to all of mankind but then taken away from all of those who proved to be unworthy of it; from then on it would only be given to the elected ones, the Priests. A myth similar to the biblical one of man in paradise, taking part in gods creation and his immortality until being banned from the garden of Eden. 
 
 
 ## The first Appropriation of Magic
-or: The Great Disentchantment
+or: The Great Disenchantment
 
 *Flosha & logx, 28.07.2020*
 
-> Innos gab den Menschen die Macht ihn zu hören und zu ihm zu sprechen. Er gab ihnen die Macht große Wunder zu vollbringen. Und er nannte sie Magie. Mit dieser Macht konnten die Menschen die Welt frei nach ihrem Willen gestalten. Es gab keine Grenzen, die Innos ihnen aufzeigte. Und so hatten die Menschen Teil an der göttlichen Schöpferkraft. Aber die Menschen waren sich alle gleich und das gefiel ihnen nicht. Also nahm er denen die unzufrieden waren, die Kraft. Die wenigen, die sich dankbar zeigten, stellte Innos über alle anderen.    
+> Innos gab den Menschen die Macht ihn zu hören und zu ihm zu sprechen. Er gab ihnen die Macht große Wunder zu vollbringen. Und er nannte sie Magie. Mit dieser Macht konnten die Menschen die Welt frei nach ihrem Willen gestalten. Es gab keine Grenzen, die Innos ihnen aufzeigte. Und so hatten die Menschen Teil an der göttlichen Schöpferkraft. Aber die Menschen waren sich alle gleich und das gefiel ihnen nicht. Also nahm er denen die unzufrieden waren, die Kraft. Die wenigen, die sich dankbar zeigten, stellte Innos über alle anderen.  
 > Diese Menschen wurden alsbald verehrt und gefürchtet und wurden Priester genannt. [G]
 
 [TODO: Translate the section below]

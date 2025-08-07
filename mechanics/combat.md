@@ -1,6 +1,6 @@
 # Combat Mode
 
-*Flosha, 28.09.2024*
+*Flosha, 28.09.2024*  
 
 * Critique of the Combat System
 * Controls
@@ -37,9 +37,9 @@ Based on the document by Alex Brüggemann, we know that while they always have s
 
 At the same time the combat system was described as being tactical. But the only tactical considerations in the Alpha (till release) was which weapon to use against which monster (and even this did not find much expression in the end) or how else to get rid of it, if not by means of combat (e.g. distraction, which was also cut).  
 
-They wanted it to be very simple and fun, but at the same time did not want it to rely on any reflexes. It was meant to primarily depend on stats (attributes). I think that this a wrong premise. The combat system of Morrowind relies entirely on stats and to me was the opposite of fun. Requiring reflexes in combat at least to some degree to me seems like an inevitable component in a real-time action rpg. It cannot be avoided, but it can be done in a motivating way and we can try to avoid it being frustrating. If one doesn't like fighting in this way at all, one can still choose a different class and solve situations in other ways. 
+They wanted it to be very simple and fun, but at the same time did not want it to rely on any reflexes. It was meant to primarily depend on stats (attributes). I think that this a wrong premise. The combat system of Morrowind relies entirely on stats and to me was the opposite of fun. Requiring reflexes in combat at least to some degree to me seems like an inevitable component in a real-time action RPG. It cannot be avoided, but it can be done in a motivating way and we can try to avoid it being frustrating. If one doesn't like fighting in this way at all, one can still choose a different class and solve situations in other ways. 
 
-The combat related Attributes in PHOENIX make it *possible* to use a weapon (effectively) and the combat Skills give the character additional movement options or more speed etc. to use in combat, but being an *action-rpg* there should still be a system in place that actually requires the player to learn and improve alongside his character. Requiring some reflexes is not a bad thing; "easy to learn and hard to master" was a goal that they themselves had originally for the gameplay in general, but in how they implemented their combat system this never really became a reality. At least from todays perspective there is nothing hard nor tactical about the combat system of Gothic. 
+The combat related Attributes in PHOENIX make it *possible* to use a weapon (effectively) and the combat skills give the character additional movement options or more speed etc. to use in combat, but being an *action RPG* there should still be a system in place that actually requires the player to learn and improve alongside his character. Requiring some reflexes is not a bad thing; "easy to learn and hard to master" was a goal that they themselves had originally for the gameplay in general, but in how they implemented their combat system this never really became a reality. At least from todays perspective there is nothing hard nor tactical about the combat system of Gothic. 
 
 Unless one considers constant backing off or running around enemies in circles as tactical, fun and "hard to master", a technique that is used by some players in the official successor, where there is a minimum damage (that was consciously avoided in Gothic), but that almost only works well by playing with the mouse and not by playing as intended via keyboard. It is indeed something that has to be learned, but it wasn't meant to, it makes blocks/parades unnecessary and allows to win against almost any opponent independent of attributes or skills and in this sense it is glitching more than "mastering" of the fighting system.
 {: .subtext }

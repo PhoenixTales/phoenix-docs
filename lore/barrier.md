@@ -10,7 +10,7 @@ Last update: ...
 * Magical barrier
 
 * Creation of the barrier
-    * German Manual description
+    * German manual description
     * English manual description
 
 
@@ -25,8 +25,8 @@ Structure:
 ## Quotes
 
 > The bright winter sky grew gray and dark as thick black clouds obscured the
-sun. Lightning flashed across the sky darting through a whirlwind of energy as the mages cast the spell using the foci. A blue-hazed sheet drove across the mine, passing the boundaries of will (...) / And so it came to pass that fleeing from greed itself brought greed and thus
-tribulations upon King Rhotbar. [M]
+sun. Lightning flashed across the sky darting through a whirlwind of energy as the Mages cast the spell using the Foci. A blue-hazed sheet drove across the mine, passing the boundaries of will (...) / And so it came to pass that fleeing from greed itself brought greed and thus
+tribulations upon King Rhobar. [M]
 
 
 WHY:

@@ -1,7 +1,7 @@
 # Sound Effects 
 
-**Author:**     Flosha
-**Written:**    10.09.2023
+**Author:**     Flosha  
+**Written:**    10.09.2023  
 
 
 ## Specific Motifs
@@ -25,7 +25,7 @@ The following music motifs represented by sound effects were planned:
 
 ### Phoenix' Motifs
 
-In Phoenix, some of the sound effects mentioned above will only be played under specific conditions, since it might be annoying if the same sound would play with, e.g. every killed enemy. But we also have a few additional ones like "found secret" (inspired by the secrets in retro shooters) or "Low Mana" and "Low Psi" (suggested by Dmitriy) to supplement our enhanced visualisation. Thus we will go with the following effects: 
+In Phoenix, some of the sound effects mentioned above will only be played under specific conditions, since it might be annoying if the same sound would play with, e.g. every killed enemy. But we also have a few additional ones like "found secret" (inspired by the secrets in retro shooters) or "Low Mana" and "Low Psi" (suggested by Dmitriy) to supplement our enhanced visualisation. Thus we will go with the following effects:
 
 * Death / Resurrection
 * Found Artefact / Found Secret
@@ -36,5 +36,5 @@ In Phoenix, some of the sound effects mentioned above will only be played under 
 * Attitude Increase / Decrease
 * Trap Activate
 * Steal Fail
-* Refresh Health / Mana / Psi 
+* Refresh Health / Mana / Psi
 * Low Health / Mana / Psi

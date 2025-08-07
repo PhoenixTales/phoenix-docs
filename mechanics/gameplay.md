@@ -1,7 +1,7 @@
 # Gameplay
 
 **Author:** *Flosha*  
-**Created:** 12.06.2024
+**Created:** 12.06.2024  
 
 
 
@@ -16,7 +16,7 @@
 
 ### The Forces of Fate
 
-Condemned and banished into a strange world, the road ahead is yours to choose. Pick one of eight guilds in three different camps, make friends and enemies, learn to fight with a double-bladed axe or choose the fine art of magic and sorcery instead. Learn to move about without making a sound or practise hitting the bulls-eye from 100 feet. Whichever path you choose, your abilities shall determine what adventures you encounter and what challenges you must face up to. Last but not least, your behaviour will decide whether that path will be a long one - or whether you shall end your days being devoured by meat-bugs ...    
+Condemned and banished into a strange world, the road ahead is yours to choose. Pick one of eight guilds in three different camps, make friends and enemies, learn to fight with a double-bladed axe or choose the fine art of magic and sorcery instead. Learn to move about without making a sound or practise hitting the bulls-eye from 100 feet. Whichever path you choose, your abilities shall determine what adventures you encounter and what challenges you must face up to. Last but not least, your behaviour will decide whether that path will be a long one - or whether you shall end your days being devoured by meatbugs...  
 "Well, no-one said it would be easy." *Alex Brüggemann, demon conjurer*
 
 
@@ -39,7 +39,7 @@ They work in mines, sleep, stand on guard, make fun of new arrivals, test their 
 
 ### The Beasts
 
-You sneak along the edge of the abyss, feeling every tendon in your arms tensing, sweat running down your muscles. On the other side of the dark canyon a huge troll has reared up, a bundle of muscles twice the size of any human being, but not even he can cross the gap between you. You take aim carefully, the deadly arrow shoots from the string and a moment later the gigantic creature's agonized cry pervades you. You prepare the next arrow, the monster's red eyes seem to pierce you. Just as you have your arrow perfectly placed, he flings something at you with a powerful sweep of his mighty arms. You duck. You are about to turn back to face the monster when you hear the fearce growl of a Gobbo right beside you! Even as you draw your sword to deal with this fiend, the troll takes aim again ...  
+You sneak along the edge of the abyss, feeling every tendon in your arms tensing, sweat running down your muscles. On the other side of the dark canyon a huge troll has reared up, a bundle of muscles twice the size of any human being, but not even he can cross the gap between you. You take aim carefully, the deadly arrow shoots from the string and a moment later the gigantic creature's agonized cry pervades you. You prepare the next arrow, the monster's red eyes seem to pierce you. Just as you have your arrow perfectly placed, he flings something at you with a powerful sweep of his mighty arms. You duck. You are about to turn back to face the monster when you hear the fierce growl of a Gobbo right beside you! Even as you draw your sword to deal with this fiend, the troll takes aim again...  
 Monsters can sense you approaching. Their behaviour varies whether they are hunting or fighting, weak creatures may join forces. One thing is for sure: they won't just sit around and wait for you to come along and kill them. They have a certain inbred pattern of behaviour.  
 "(...)or just fiddle about with their feet." *Michael Hoge, Art Director*
 

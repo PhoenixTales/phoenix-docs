@@ -10,24 +10,24 @@ Created: 08.09.2024
 ## Initiation
 
 * Members of the Circles are (in regular cases) former monks being initiated into some of the [magic arts](). Only a small percentage of monks are allowed initiation. But sometimes a master may also initiate worthy laymen without a clerical background at his own discretion. 
-* Every initiated mage both of the circle of fire and water - at least formally - is also a priest in the ancient sense (not so much in the christian sense). But not every mage is actively involved in religious service in the temples of the realm. 
-* [There are no priests of Beliar] 
+* Every initiated Mage both of the Circle of Fire and Water - at least formally - is also a Priest in the ancient sense (not so much in the christian sense). But not every Mage is actively involved in religious service in the temples of the realm. 
+* [There are no Priests of Beliar] 
 
 
 ## Livelihood & Lifestyle
 
-* Some mages are serving as priests in a temple. 
-* Some mages are completely focused on their magic art(s) under the grace of a lord which they serve as healers or battlemages, sometimes even as illusionists for entertainment at the court, or as scientists/alchemists; those mages are often very famous and wealthy.
-* Some mages are working as technologists who use their knowledge and their magic skills and abilities to design machinery to serve manufacturing processes in the pre-industrial context (as in the ore factory); some may design war machinery and so on (think of Da Vinci).
-* Some mages are living in monasteries among the monks.  
-* Some mages live secluded on their own (think of the mage in a tower).
+* Some Mages are serving as priests in a temple. 
+* Some Mages are completely focused on their magic art(s) under the grace of a lord which they serve as healers or battlemages, sometimes even as illusionists for entertainment at the court, or as scientists/alchemists; those mages are often very famous and wealthy.
+* Some Mages are working as technologists who use their knowledge and their magic skills and abilities to design machinery to serve manufacturing processes in the pre-industrial context (as in the ore factory); some may design war machinery and so on (think of Da Vinci).
+* Some Mages are living in monasteries among the monks.  
+* Some Mages live secluded on their own (think of the mage in a tower).
 * Some are just living in villages or cities among the people, making their livelihood as healers or priests (without a temple).
-* Some mages live a very ascetic lifestyle, while others live in luxury. 
+* Some Mages live a very ascetic lifestyle, while others live in luxury. 
 
 
 ## Ranks and Circles
 
-ToDo: More specific stuff like archmages, the rank of those mages who created the colony, the royal mages accompanying Rhobar and so on.
+ToDo: More specific stuff like Archmages, the rank of those mages who created the colony, the royal mages accompanying Rhobar and so on.
 
 * Eingeweihter (kreisübergreifend)
 * Novize des Feuers / Wassers
@@ -46,15 +46,15 @@ ToDo: More specific stuff like archmages, the rank of those mages who created th
 ### Attire
 
 * It is the sash that connotes said magical initiation (and to be in the process of becoming a priest, like Milten). 
-* In difference to the simplistic uniform monk robes, the robes of mages are highly individualistic, sometimes using their former woolen monk robe as a basis (which is almost always the case for the renegade mages of Khorinis, emphasizing their explicitly ascetic nature) with a sash from leather (see Milten), wool or jute, at other occasions (as is the case with some arch mages in the colony or the mages of the king) being made from silk and sashes adorned with golden threads, showing off their wealth and status
+* In difference to the simplistic uniform monk robes, the robes of mages are highly individualistic, sometimes using their former woolen monk robe as a basis (which is almost always the case for the renegade mages of Khorinis, emphasizing their explicitly ascetic nature) with a sash from leather (see Milten), wool or jute, at other occasions (as is the case with some arch mages in the colony or the mages of the king) being made from silk and sashes adorned with golden threads, showing off their wealth and status.
 * Sashes are connoting the rank of a priest and his magical specialisation in form of the runes on the sash, which in case of the renegade order [a placeholder name] is air magic.
-* All mage robes, but especially those of the renegade mages, are roughly based on the robes of higher ranked medieval east european monks
-* Some mages have their hood up, others down and some wear additional hats
+* All mage robes, but especially those of the renegade mages, are roughly based on the robes of higher ranked medieval east european monks.
+* Some mages have their hood up, others down and some wear additional hats.
 
 
 ### Equipment Mages of the Order of Khorin
 
-* Linnen undergarment
+* Linen undergarment
 * Monks tunic of varied colour
 * Mage Cowl and sash combined with runic inscriptions referring to the magic specialisation (air magic in this case) and the orders history and tradition
 * Hat (just two mages, one with the hood up, one with the hood down)
@@ -106,9 +106,9 @@ As a fire alchemist then, you get additional adornments and the
 colours may turn around. 
 As a novice and apprentice you wore a red robe + dark/black sash. 
 Now, Drago wears the opposite: Black/brown robe and red sash. 
-Same as the general high firerobe, which the "firemage" may wear.
+Same as the general High Firerobe, which the "Firemage" may wear.
 Then Corristo is wearing a fully red robe again. 
-Which would be the one of a master of fire. 
+Which would be the one of a Master of Fire. 
 
 We can follow this scheme and design the robes individuality
 around these principles; apart from these colours etc. we are

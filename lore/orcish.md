@@ -2,7 +2,7 @@
 
 **Author:** Flosha  
 **Created:** 12.01.2021  
-**Last change:** 08.07.2025 
+**Last change:** 08.07.2025  
 
 Info: Everything about the orcish language and runes as used in Phoenix.
 
@@ -64,16 +64,16 @@ Before developing the language any further, below is a list of all the words or 
 ## Orcish Syllables & Roots
 
 Flosha: <!--Ich habe bezüglich der orkischen Sprache eine gewisse Logik entwickelt, mit der die Begriffe der Orks einen Sinn ergeben und mit der man einfache Sätze bilden kann. Es fehlen noch einige Wörter. Alles wurde entwickelt anhand der Wortfetzen, die es im Spiel schon gibt.
-Grau hinterlegt sind alle Begriffe, die in Gothic selbst vorkamen; alle Übersetzungen und Beschreibungen sind von Florian, mit Ausnahme der wenigen, die im Spiel selbst bereits gegeben werden (sowie Krushak = Schläfer, Ur-Shak = Sohn von Geist).--> 
+Grau hinterlegt sind alle Begriffe, die in Gothic selbst vorkamen; alle Übersetzungen und Beschreibungen sind von Florian, mit Ausnahme der wenigen, die im Spiel selbst bereits gegeben werden (sowie Krushak = Schläfer, Ur-Shak = Sohn von Geist).-->
 I have developed an (obviously incomplete) orcish wordbook and a certain logic, by which the orcish terms that we know make sense and from which I deduced various "roots" through which we can form additional words and simple sentences. Everything has been developed through the few words and fragments present in the game version(s) and documents. 
 
 All the translations or "meanings" and explanations of the words are by me with an exception of the few explanations that are already given in the game.
 
 <!-- Anmerkung: Die Orks scheinen keine Vergangenheit zu kennen; es gibt nur was ist und was wird und woher etwas kommt; alles hat einen Ursprung, aber es ist sprachlich nicht als etwas “Vergangenes” gefasst. -->
 
-When he heard that we want to do it this way and to have an actual, more or less reasonable "language" for the orcs, Mike told me: "I would have wanted to do the same, if I would have had the time for it."
+When he heard that we want to do it this way and to have an actual, more or less reasonable "language" for the Orcs, Mike told me: "I would have wanted to do the same, if I would have had the time for it."
 
-As an additional note: The orcs do not know a past tense. There is only what is, what becomes and where it comes from, everything has a source, but it is never grasped as something "past" in the language; they have no concept of any kind of absolute, finite disappearance, as they consider everything to be there all the time and simultaneously to everything else, that ever was, even if it may not be visible anymore. 
+As an additional note: The Orcs do not know a past tense. There is only what is, what becomes and where it comes from, everything has a source, but it is never grasped as something "past" in the language; they have no concept of any kind of absolute, finite disappearance, as they consider everything to be there all the time and simultaneously to everything else, that ever was, even if it may not be visible anymore.
 
 For now, the words and explanations are still presented in my original German. I may translate them later.
 

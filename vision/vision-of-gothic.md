@@ -8,7 +8,7 @@
     in the words of the Devs (1998)
 </p>
 
-**Author:** Flosha
+**Author:** Flosha  
 
 <!-- TOC_PLACEHOLDER -->
 
@@ -41,7 +41,7 @@ Potential buyers: mainstream players that like 3D world exploration / action / R
 
 Phoenix is <span class="demonic">no typical</span> role playing game. We've eliminated the disturbing, old-fashioned elements of RPGs, such as long player statistics and difficult handling and only kept the fun-factors [...]. ([Phoenix Pitch](https://media.gothicarchive.org/documents/phoenix/PhoenixPitch.pdf))
 
-**Stefan:** [...] Having fun is the "prime directive".   
+**Stefan:** [...] Having fun is the "prime directive".  
 ([voodooextreme.com, 14.11.1998](https://gothicarchive.org/interviews/1998/14.11.1998_voodooextreme.com.txt))
 
 The game is <span class="demonic">self-explanatory</span> [...] ([Promo Booklet](https://media.gothicarchive.org/documents/press/Gothic_PromoBooklet.pdf))
@@ -83,7 +83,7 @@ You will soon realize that something is wrong with the magic barrier. The mages 
 
 *You claim that you have made the game "easy" to use reducing the amount of statistics, menus etc, but keeping the role-playing elements intact. How will hard-core role-playing fans react to this?*  
 
-**Tom:** I call myself a hard-core role-playing fan, especially for Pen&Paper-RPGs.; But the reason why I like this kind of gaming so much is not because I can't live without statistics and menus and stuff like that. I just love to play, to slip into another character, to forget the world around me, to have the brain full of new impressions and images, to interact with my friends and comrades in fantastic surroundings and pass through dangerous situations. That's what I call role-playing! All these points mentioned are possible by stepping into the world of GOTHIC. If you define hard-core role-playing fan like I did above - no problems at all can be expected. If not - I hope these guys will like it, too. ([gagames.com 20.06.1998](https://gothicarchive.org/interviews/1998/20.06.1998_gagames.com.txt))   
+**Tom:** I call myself a hard-core role-playing fan, especially for Pen&Paper-RPGs.; But the reason why I like this kind of gaming so much is not because I can't live without statistics and menus and stuff like that. I just love to play, to slip into another character, to forget the world around me, to have the brain full of new impressions and images, to interact with my friends and comrades in fantastic surroundings and pass through dangerous situations. That's what I call role-playing! All these points mentioned are possible by stepping into the world of GOTHIC. If you define hard-core role-playing fan like I did above - no problems at all can be expected. If not - I hope these guys will like it, too. ([gagames.com 20.06.1998](https://gothicarchive.org/interviews/1998/20.06.1998_gagames.com.txt))  
 
 *Will you be using non-interactive "movies" anywhere in the game?*  
 
@@ -180,13 +180,13 @@ There are 8 minor profession classes for the player to join, leading to 4 major 
 **Assassin** - the mean and cunning way - hide in the shadows and get them from behind.  
 **Wizard** - discover the mysteries and power of magic.  
 **Psionic** - Let your spirit gain control of other creatures.  
-You'll have to become an expert of these classes to be able to complete the game. If you're through the game, you can try it again and master one of the other classes.    
+You'll have to become an expert of these classes to be able to complete the game. If you're through the game, you can try it again and master one of the other classes.  
 
 The profession classes differ in many ways:  
 - new abilities which will let you see the same problem from a different point of view  
 - each class has its own character animations  
 - new parts of the dungeon, to which you could not gain access in your former class  
-- many new missions to complete with new riddles to solve  
+- many new missions to complete with new riddles to solve   
 - complete new dialogues - your former friends will now be your enemies!
 
 ([Phoenix Pitch](https://media.gothicarchive.org/documents/phoenix/PhoenixPitch.pdf))

@@ -17,8 +17,8 @@ Novices:
 3. Schüler von Guru X
 4. Bote/Anwerber der Bruderschaft
 5. .
-6. Niederer Baal ala Parvez
-7. Baal ala Namib
+6. Niederer Baal a la Parvez
+7. Baal a la Namib
 7+ Hoher Baal, Guru
 
 

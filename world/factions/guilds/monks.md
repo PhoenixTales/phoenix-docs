@@ -14,7 +14,7 @@ Updated: 08.09.2024
 
 ### Attire
 
-* Before ordination a new monk is clad in a simple ascetic robe which differs from order to order. Some give their initiates a naturally coloured linnen tunic (reaching to the middle of the calves) that also remains his undergarment, signifying his new, clean life. Others clad them in just an old skirt from faded fabric with more focus on asceticism and humility. 
+* Before ordination a new monk is clad in a simple ascetic robe which differs from order to order. Some give their initiates a naturally coloured linen tunic (reaching to the middle of the calves) that also remains his undergarment, signifying his new, clean life. Others clad them in just an old skirt from faded fabric with more focus on asceticism and humility. 
 
 * Upon full ordination he receives a simple, long, hooded robe (such as the 0.56c Alpha Mage Robe or the robes seen in the intro to THIEF) with no adornment whatsoever.
 
@@ -26,7 +26,7 @@ Updated: 08.09.2024
 
 ### Equipment
 
-* Linnen undergarment (3/4 tunic)
+* Linen undergarment (3/4 tunic)
 * Long woolen tunic of varied colour
 * Cowl (hooded wrap covering most of the tunic like medieval benedictians or medieval eastern robes; in case of the monks of Khorinis it is red)
 * Sandals

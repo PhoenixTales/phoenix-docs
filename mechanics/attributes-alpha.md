@@ -10,7 +10,7 @@ At first we'll analyse the attributes as imagined in the concept phase by analys
 
 ## Primary & Secondary Attributes
 
-Based on the high number of items we assume that the very first list of attributes, that Mike put together in his handwritten notes, is to be found among his ideas on spells (p.8 of the spells.pdf where we have published all of Mikes spells notes combined). It is the oldest mentioning of attributes we know of and perhaps the oldest source there is.  
+Based on the high number of items we assume that the very first list of attributes, that Mike put together in his handwritten notes, is to be found among his ideas on spells (p. 8 of the spells.pdf where we have published all of Mikes spells notes combined). It is the oldest mentioning of attributes we know of and perhaps the oldest source there is.  
 
 Mike wrote down the abbreviations on the left *only*; the meaning on the right is based on our research. The list is not really to be seen as a specific plan to implement the attributes as such, but more as a list of potential attributes that may or may not be useable for the game to be made.  
 
@@ -31,7 +31,7 @@ Wa         Wa  = Wahnsinn (Madness)
 The meaning of most of these abbreviations is clear and can be confirmed by comparison with the same terms used at other places as we will show below.  
 
 `We` as *Weisheit* (Wisdom) and `Wa` as *Wahnsinn* (Madness) remain speculative but likely. `SK` on the other hand was hard to make sense of. We thought of *Schnelligkeit* (speed), *Sprachkunst* (philology) and *Streitkunst* (disputation). They all seemed unlikely for different reasons.  
-Then I had the idea of it refering to *Schwarze Kunst* ("Black Art"), in the sense of the *Dark Arts* (a term as it is used in the description of the robe of Xardas (*Robe der Dunklen Künste*  = Robe of the Dark Arts)), that refers to such things as necromancy and invocation. But then Wunddorn came up with the idea of *Schießkunst* (marksmanship). Although I am fond of my *Dark Arts* idea, Marksmanship seems most likely to be the meaning of `SK`. 
+Then I had the idea of it referring to *Schwarze Kunst* ("Black Art"), in the sense of the *Dark Arts* (a term as it is used in the description of the robe of Xardas (*Robe der Dunklen Künste*  = Robe of the Dark Arts)), that refers to such things as necromancy and invocation. But then Wunddorn came up with the idea of *Schießkunst* (marksmanship). Although I am fond of my *Dark Arts* idea, Marksmanship seems most likely to be the meaning of `SK`. 
 
 Note that there is no mentioning of healthpoints or mana in the list.  
 
@@ -52,9 +52,9 @@ We've got two more handwritten lists of attributes (both to be found next to eac
 
 What this initial structure suggests is a correlation of the attributes as they are listed here on the two columns of each table.  
 
-The first table points at a correlation between Strength `STR` and Constitution `CON`, the second at a correlation between Strength and Hitpoints `TP` (*Trefferpunkte*, which in this context should be the damage points you deal), while Constitution is here related to Healthpoints `LP` (*Lebenspunkte*, refering to the hitpoints of your character; the damage you can endure).  
+The first table points at a correlation between Strength `STR` and Constitution `CON`, the second at a correlation between Strength and Hitpoints `TP` (*Trefferpunkte*, which in this context should be the damage points you deal), while Constitution is here related to Healthpoints `LP` (*Lebenspunkte*, referring to the hitpoints of your character; the damage you can endure).  
 
-Arcane Gift `AGa` (*Arkane Gabe*) is correlated to Mana. Will `WIL` (*Wille*, the psi-energy) is at first correlated to an identical attribute name, then to `WS`, which may either stand for *Willensstärke* (Willpower) or *Wahnsinn* (Madness); both terms were used inside the game at different points.  
+Arcane Gift `AGa` (*Arkane Gabe*) is correlated to Mana. Will `WIL` (*Wille*, the Psi-Energy) is at first correlated to an identical attribute name, then to `WS`, which may either stand for *Willensstärke* (Willpower) or *Wahnsinn* (Madness); both terms were used inside the game at different points.  
 This search for a name and differentiation between Psi/Will, Willpower, Madness and Sanity continues during development and will also be seen inside the builds we will analyse further below.  
 
 The abbreviations `KaGe` and `DiGe` have to stand for *Kampfgeschick* ("combat skill") and *Diebesgeschick* ("thief skill") respectively. Otherwise they were named `WK` (*Waffenkunst* = Weaponry, which in the builds was called `Swordsmanship`) and `DK` (*Diebeskunst* = Thievery). While on the second table they were not put into correlation with another attribute, in the first one they were. Thievery was most likely associated with Dexterity `GE` (= *Geschicklichkeit*) and Weaponry with `AT`, which, as far as we know, simply stands for Attack.  
@@ -81,7 +81,7 @@ This structure remained almost unchanged for a long time in development. The sam
 +--------------+--------------+
 ```
 
-While in a document written by Alex Brüggemann - `Phoenix_B1_AttributesTalentsActions.doc`, changed last at 21.07.99 - only five attributes were listed. Constitution, Thievery, Weaponry and Arcane Gift are not mentioned at all.   
+While in a document written by Alex Brüggemann - `Phoenix_B1_AttributesTalentsActions.doc`, changed last at 21.07.99 - only five attributes were listed. Constitution, Thievery, Weaponry and Arcane Gift are not mentioned at all.  
 
 ```
 +-------------+----------------+
@@ -235,7 +235,7 @@ In the `text.d` of v0.56c there is another case like that in form of "*Tarnung*"
 <p class="subtext">In 0.56c-0.64b the maximum attribute index was 18.<br> 
 In 0.94k it was 10. In 1.00b onwards it was 8.</p>
 
-When we blend out these attributes that were only handled as such for technical reasons (usually just temporary), we end up with the following comparison of attribute constants throughout the available builds, as they were continueously reduced:  
+When we blend out these attributes that were only handled as such for technical reasons (usually just temporary), we end up with the following comparison of attribute constants throughout the available builds, as they were continuously reduced:  
 
 ```
 +----+-------------------+--------------------+--------------------+
@@ -257,7 +257,7 @@ When we blend out these attributes that were only handled as such for technical 
 +----+-------------------+
 ```
 
-They were reduced from 10 (6 primary, 4 secondary), to 5 in 0.94k and finally to 4 in the release version. Somewhere between 0.64b and 0.94k all the old "first order" attributes except of Strength were removed; only the "second order" attributes remained. And somewhere between 0.94k and 1.00b `ATR_WILL` was cut and with it the initial and already highly promoted idea of psionics as an independent magic system and of Madness and Sanity as factors in the gameplay; they had been crucial before, both regarding gameplay mechanics as well as regarding the Story (in the context of *Madness Waves* ("Psi Emissions")). 
+They were reduced from 10 (6 primary, 4 secondary), to 5 in 0.94k and finally to 4 in the release version. Somewhere between 0.64b and 0.94k all the old "first order" attributes except of Strength were removed; only the "second order" attributes remained. And somewhere between 0.94k and 1.00b `ATR_WILL` was cut and with it the initial and already highly promoted idea of Psionics as an independent magic system and of Madness and Sanity as factors in the gameplay; they had been crucial before, both regarding gameplay mechanics as well as regarding the Story (in the context of *Madness Waves* ("Psi Emissions")). 
 
 
 ## Function of Attributes
@@ -268,12 +268,12 @@ Another reason may have been the additional workload: When characters should com
 Hence we cannot say anything about the possible function of attributes such as the arts, namely thievery, weaponry, arcane and will (which shouldn't be confused with the associated "willpower").  
 
 But concerning the secondary attributes, we have a short description of their "application" by Alex according to which...  
-Strength is responsible for damage dealt in melee combat, for handling 2H weapons and for carrying, moving or using heavy objects. Dexterity is responsible for damage dealt in ranged combat and thief skills. Mana is the energy for magic (or "alchemical") spells and is also responsible for the resistance against magic. Will(power) is the energy for Psi-Spells and is responsible for the resistance against psi powers. Health, self-explanatory, represents the characters "life" in form of hitpoints.  
+Strength is responsible for damage dealt in melee combat, for handling 2H weapons and for carrying, moving or using heavy objects. Dexterity is responsible for damage dealt in ranged combat and thief skills. Mana is the energy for magic (or "alchemical") spells and is also responsible for the resistance against magic. Will(power) is the energy for Psi-Spells and is responsible for the resistance against Psi powers. Health, self-explanatory, represents the characters "life" in form of hitpoints.  
 
 
 ### Mana, Will & Madness
 
-We know that *Psi* and *Alchemy* were supposed to be two completely independent and "mutually exclusive" forms of magic. Mike referred to *Alchemy* as the magic form of the two circles of fire and water. This explains why they were also called "Feueralchemisten" and "Wasseralchemisten" in [Sleeper's Ban](https://gothicarchive.org/documents/SleepersBan.html) by Alex Wittmann (but more on that in the lore related Alchemical magic doc). This mutual exclusiveness was planned right from the start, as can be seen on a note by Mike on p.1 of the spells document collection. Since then this idea was repeated over and over in various interviews and on all kinds of promotional texts.  
+We know that *Psi* and *Alchemy* were supposed to be two completely independent and "mutually exclusive" forms of magic. Mike referred to *Alchemy* as the magic form of the two circles of fire and water. This explains why they were also called "Feueralchemisten" and "Wasseralchemisten" in [Sleeper's Ban](https://gothicarchive.org/documents/SleepersBan.html) by Alex Wittmann (but more on that in the lore related Alchemical magic doc). This mutual exclusiveness was planned right from the start, as can be seen on a note by Mike on p. 1 of the spells document collection. Since then this idea was repeated over and over in various interviews and on all kinds of promotional texts.  
 
 On the same page we find a relevant idea of a potential magical overload:  
 
@@ -283,7 +283,7 @@ PSI = automatic deactivation
 ```
 
 What he may have imagined by this overload remains speculation.  
-On p.6, the correlation between Will and Madness appears first time:  
+On p. 6, the correlation between Will and Madness appears first time:  
 
 ```
 Black Soul Bar -> 100%
@@ -300,7 +300,7 @@ There is also the following mentioning (in the `pChanges.txt` of v0.56c):
 What was named Willpower before (with `ATR_MADNESS` as its constant) was here described as *Sanity*, as the absence of madness, to put it into positive terms. The idea was always that Willpower protects from Madness. The changelog was written in the context of an engine update (v0.77) that also introduced the first version of the Symbol-HUD.  
 
 Accordingly there where two contrasting approaches:  
-Casting psi spells would increase Madness (= decrease Sanity); but while the original idea was to have this displayed by filling the "Black Soul Bar" representing that madness, the later idea and actual implementation was to display the slow loss of Sanity by a reduction of the stone symbols representing the characters sanity (or, more precisely: representing the "Willpower" as the protection against Madness). Thus, will and madness were not seperated in the game. There was no seperate increase of madness in any version of the game.  
+Casting psi spells would increase Madness (= decrease Sanity); but while the original idea was to have this displayed by filling the "Black Soul Bar" representing that madness, the later idea and actual implementation was to display the slow loss of Sanity by a reduction of the stone symbols representing the characters sanity (or, more precisely: representing the "Willpower" as the protection against Madness). Thus, will and madness were not separated in the game. There was no separate increase of madness in any version of the game.  
 
 While Mana was supposed to regenerate automatically it was made clear in interviews that the "Willpower" does not regenerate and has to be recharged by prayer (to the sleeper idols) or by meditation.  
 The early note on the "black soul bar" by Mike on the other hand speaks of a need to take drugs in order to reduce the Madness. It is not clear how (and if) those two ideas relate to each other.  
@@ -308,7 +308,7 @@ The early note on the "black soul bar" by Mike on the other hand speaks of a nee
 
 ## Visualisation of Attributes
 
-Inititally, not only skills, but also attributes should have been visualised.  
+Initially, not only skills, but also attributes should have been visualised.  
 
 >  The character development is based on visualization. Every enhancement of your characters skills **and attributes** will be shown in graphical effects like changing character animations, there are no more character stats. (Mike Hoge, [11.06.1998, interview with IGN](https://gothicarchive.org/interviews/1998/11.06.1998_rpgvaultarchive.txt))
 
@@ -331,10 +331,10 @@ In 1997, when they began to work on the interface, including the HUD, the minima
 At first the six attributes (later five) were represented as symbols (hearts, stars, fists etc.). Experience points were included too. A specific number of Exps would be represented by little Exp coin symbols, that were to be invested to learn from teachers.  
 Here this was made clear by Alex, translated by us:  
 
-> Attributes are controlled by integers between 1 and 20. The attribute values are displayed via an equivalent number of symbols. This has the purpose, that all processes in the entire game can be summed up with simple symbol quantities. This does not only apply to attributes, but also for weapon damage, armor protection, spell costs, spell damage, experience and so on.   
+> Attributes are controlled by integers between 1 and 20. The attribute values are displayed via an equivalent number of symbols. This has the purpose, that all processes in the entire game can be summed up with simple symbol quantities. This does not only apply to attributes, but also for weapon damage, armor protection, spell costs, spell damage, experience and so on.  
 `Phoenix_B1_AttributesTalentsActions.doc`
 
-Later (in ~v0.8) a brutalist bar design was implemented to represent the attributes instead. The red health bar for instance could now be seen as representing the amount of (healthy) blood in the player character that he looses in battle when bleeding.   
+Later (in ~v0.8) a brutalist bar design was implemented to represent the attributes instead. The red health bar for instance could now be seen as representing the amount of (healthy) blood in the player character that he looses in battle when bleeding.  
 Strength and Dexterity were no longer represented; the psionic system and the Will(power) attribute was no longer in use (we don't know if deliberately discarded or cut due to time restrictions).  
 
 This first bar design should not be confused with the one used in the release version. It followed the same idea as the initial symbol design, where NPCs with less HP / MP / WP would have less corresponding symbols. Here they would have a smaller bar.
@@ -343,14 +343,14 @@ This first bar design should not be confused with the one used in the release ve
 
 <p class="subtext">Note the darker, inside part in the Mana bar as the actual maximum degree of Mana this specific character can recharge; the outside bar represents the maximum degree to which the character could level his Mana in course of the game. In the release version the bar would be stretched instead, in order to always cover the background texture.</p>
 
-This way the bars - potentially - could have been providing more information, because the player could recognise how much HP an enemy had. We say "potentially" because actually both in the symbol hud as in the bar hud the HP of NPCs in focus was displayed differently than the stats of the player himself. Simply by a narrow, stretched out bar. They used a smaller version of the HP bar above with the Bar-HUD, while they used the one below to display enemy health with the Symbol-HUD:
+This way the bars - potentially - could have been providing more information, because the player could recognise how much HP an enemy had. We say "potentially" because actually both in the symbol hud as in the Bar-HUD the HP of NPCs in focus was displayed differently than the stats of the player himself. Simply by a narrow, stretched out bar. They used a smaller version of the HP bar above with the Bar-HUD, while they used the one below to display enemy health with the Symbol-HUD:
 
 ![HP of NPCs in Focus](/_img/mechanics/HUD/hp-of-npc-in-focus.jpg)
 
 The HUD was additionally simplified by hiding all the bars that were not currently in use; in the symbol HUD, strength and dexterity would only appear when in the melee or ranged fighting mode. Mana and Psi Power would only appear when in the respective magic casting mode. 
 Just the Health was decided to be displayed at all times for reasons unknown. Thus, other than the Health Symbols / Bar, the HUD was hidden completely and only shown when needed.  
 
-The inventory was also hidden by default and could be toggled on or off; which, while being a standard today, was not the default in classical rpgs. By displaying items in the inventory as 3D models just as they are actually found in the game - instead of using abstract pictograms as most games do - another step was done to reduce unnecessary abstractions.  
+The inventory was also hidden by default and could be toggled on or off; which, while being a standard today, was not the default in classical RPGs. By displaying items in the inventory as 3D models just as they are actually found in the game - instead of using abstract pictograms as most games do - another step was done to reduce unnecessary abstractions.  
 
 While both HUD designs managed to *represent* those stats of the player and to simplify this representation to the bare minimum, they remained abstract and reveal a lack of visualisation.  
 

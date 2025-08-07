@@ -3,9 +3,9 @@
 <img class="nyx-ascii" src="/_img/nyxascii.png">
 
 ```
-Author:  Flosha
-Created: 22.11.2022
-Changed: 25.08.2024
+Author:  Flosha  
+Created: 22.11.2022  
+Changed: 25.08.2024  
 ```
 {: .info }
 

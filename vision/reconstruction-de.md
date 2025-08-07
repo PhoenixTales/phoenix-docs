@@ -1,9 +1,9 @@
 # Grundsätze der Rekonstruktion 
 
-**Autor:** Flosha
+**Autor:** Flosha  
 **Erstellt:** 21.09.2019  
 **Geändert:** 03.12.2022  
-**Translated:** 27.03.2024 
+**Translated:** 27.03.2024  
 
 **Status:** <span class="changed">Work in progress</span>  
 
