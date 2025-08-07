@@ -7,7 +7,7 @@ Author: Flosha / Written: 05.09.2024 / Update: 06.09.2024
 ```
 {: .info }
 
-In this part of the documentation we are dealing with the design of the game world, starting with its level structure, the evolution of the world map and layout (the gothic kingdom as a whole is dealt with in the /lore). We proceed with the landscape of the colony and the explorable sections of the outside world and the climate as well as the vegetation inside and outside of the barrier, then continue with the monsters inhabitating the world and how they evolved under the influence of the barrier. 
+In this part of the documentation we are dealing with the design of the game world, starting with its level structure, the evolution of the world map and layout (the Gothic Kingdom as a whole is dealt with in the /lore). We proceed with the landscape of the colony and the explorable sections of the outside world and the climate as well as the vegetation inside and outside of the barrier, then continue with the monsters inhabitating the world and how they evolved under the influence of the barrier. 
 
 In the main part we will analyse the evolution of all the locations; the camps and the city in particular - including their layout, artstyle, architecture, their pattern or possibilities of exploration and their historic background. This section is divided into overworld, underworld, outside world and demon world. The locations within the colony are first dealt with in relation to our first act, then in "Colony Revisited" in relation to our second act (after the fall of the barrier). 
 
@@ -15,7 +15,7 @@ Finally we will deal with the different factions and guilds as they live in and 
  
 At the end of the analyses of each of these topics within the before mentioned categories (landscape, vegetation, monsters, locations, guilds and character visuals), we will summarise our findings, before presenting our solution for Phoenix. As in the other sections of the documentation, "Alpha Research" and Phoenix Gamedesign are thereby clearly discernible.
 
-<!-- In the Act II section we will deal with what the Sequel team wanted to do with the colony in their project, with the limitations they were facing and also, in parts, with what went wrong with the level design of the official sucessor - arising in a critique against the Sequel, while falling far behind it in its artdirection and loosing any gothic themes and aesthetics - before dealing with our own world design for act 2. We will then elaborate how we approach the design of the outside world (Khorinis surroundings); but the majority of this section will cover the design of the *City*. -->
+<!-- In the Act II section we will deal with what the Sequel team wanted to do with the colony in their project, with the limitations they were facing and also, in parts, with what went wrong with the level design of the official successor - arising in a critique against the Sequel, while falling far behind it in its artdirection and loosing any gothic themes and aesthetics - before dealing with our own world design for Act II. We will then elaborate how we approach the design of the outside world (Khorinis surroundings); but the majority of this section will cover the design of the *City*. -->
 
 <!--In this context we will also have to deal with the NPCs and their initial placement ("start routine") in the world (the "setup" that the player will be confronted with).--> 
 

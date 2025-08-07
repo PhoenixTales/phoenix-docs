@@ -20,7 +20,7 @@ A commentary on the "Lore of the Gods".
 > Vom Anbeginn der Zeit: Es ward noch kein Tag oder Nacht und kein Wesen zog über die Welt. Da erschien der Welt Innos und sein Licht erhellte alles. Und Innos schenkte der Welt das Leben. Da aber kein Wesen im Licht des Innos leben kann, schuf er die Sonne. Das Licht war aber noch zu stark. Da teilte sich Innos und schuf Beliar. Beliar brachte die Nacht. Nun konnten die Menschen sein. Da teilte sich Innos erneut und schuf Adanos. Adanos gab den Menschen die Vielseitigkeit, Wissen, Neugier und Mut. Innos war sehr zufrieden mit sich und seinem Werk. 
 > Und er beschloss die Menschen Adanos ganz zu überlassen, um zu ruhen. [G] 
 
-As the scripture is most likely written by a priest of Innos (see [/lore/gods](/lore/gods)), Ra does not appear as a name, but based on our analysis of the gods, we can as well imagine Ra as the creator god here instead. 
+As the scripture is most likely written by a Priest of Innos (see [/lore/gods](/lore/gods)), Ra does not appear as a name, but based on our analysis of the gods, we can as well imagine Ra as the creator god here instead. 
 
 > "There was no day yet nor night and no being wandered on the world."
 
@@ -38,7 +38,7 @@ This we can interpret to mean, that the light was bundled, focused, concentrated
 
 The underlying unity of existence had to create duality to enable reality, to enable realisation; nothing could realise the light without darkness; duality was a necessity for life. According to the lore, humans came only in existence after Beliar originated from Innos or Ra. 
 
-So Beliar, formerly called *Vandras*, described as the "God of Darkness", "the dark God", originated or emanated from Ra as a necessity, as life could not be in the light of Ra without darkness, he "who brought the night"; it is due to him that man could be and realise god on earth/in himself, due to the God of justice and death, in the realm of the "Shadows" in which everyone ends.
+So Beliar, formerly called *Vandras*, described as the "God of Darkness", "the Dark God", originated or emanated from Ra as a necessity, as life could not be in the light of Ra without darkness, he "who brought the night"; it is due to him that man could be and realise god on earth/in himself, due to the God of justice and death, in the realm of the "Shadows" in which everyone ends.
 
 > "There Innos divided himself again and created Adanos. Adanos gave men diversity, knowledge, curiosity and courage."
 

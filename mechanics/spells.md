@@ -6,7 +6,7 @@ Idea for a water spell:
 
 * Water travel
 
-The water mage can form into and travel with water.
+The Watermage can form into and travel with water.
 The spell can be used everywhere, where water is flowing.
 In rivers, but also in small rivulets in dungeons, so that
 by using the spell he could overcome and pass through specific

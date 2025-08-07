@@ -1,11 +1,11 @@
 # Grundsätze der Rekonstruktion 
 
 **Autor:** Flosha
-**Erstellt:** 21.09.2019  
-**Geändert:** 03.12.2022  
+**Erstellt:** 21.09.2019
+**Geändert:** 03.12.2022
 **Translated:** 27.03.2024 
 
-**Status:** <span class="changed">Work in progress</span>  
+**Status:** <span class="changed">Work in progress</span>
 
 
 
@@ -57,7 +57,7 @@ In Fällen, in denen Inhalte verworfen wurden, fragen wir zuerst nach den Gründ
 
 ### 6. Fall: Es war ein Inhalt geplant, der aus zeitlichen oder technischen Gründen nicht mehr umgesetzt werden konnte. 
 
-Zum Beispiel Story Events oder Missionen. Im Gegensatz zum alten Piranha Bytes haben wir keine zeitlichen Limitierungen und vorausgesetzt, dass uns auch technische Limitierungen nicht behindern setzen wir in solchen Fällen grundsätzlich um, was vermeintlich nicht mehr umgesetzt werden *konnte*. Ein ähnlicher, seltenerer Fall liegt vor, wenn schon bestehende Inhalte anstelle von eigentlich geplanten Inhalten eingesetzt wurden, um die eigentlich geplanten Inhalte nicht extra erstellen zu müssen. In solchen Fällen erstellen wir die fehlenden und eigentlich geplanten Inhalte.  
+Zum Beispiel Story Events oder Missionen. Im Gegensatz zum alten Piranha Bytes haben wir keine zeitlichen Limitierungen und vorausgesetzt, dass uns auch technische Limitierungen nicht behindern setzen wir in solchen Fällen grundsätzlich um, was vermeintlich nicht mehr umgesetzt werden *konnte*. Ein ähnlicher, seltenerer Fall liegt vor, wenn schon bestehende Inhalte anstelle von eigentlich geplanten Inhalten eingesetzt wurden, um die eigentlich geplanten Inhalte nicht extra erstellen zu müssen. In solchen Fällen erstellen wir die fehlenden und eigentlich geplanten Inhalte.
 
 
 ### 7. Fall: Ein Inhalt ist fehlerhaft. 

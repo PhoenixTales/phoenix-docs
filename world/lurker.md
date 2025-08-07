@@ -1,6 +1,6 @@
 # Snapper & Lurker
 
-*flosha*, 06.03.2025  
+*flosha*, 06.03.2025
 last update: 08.03.2025
 
 In the release version of Gothic, Lurker and Snapper are two different creatures with no relation to each other. Originally they were one and the same.
@@ -13,15 +13,15 @@ The original idea was to have a water monster, e.g. something comparable to a cr
 
 In this context, some relevant quotes from the [Monsters document](https://gothicarchive.org/documents/phoenix-docs) of the original Phoenix Concept (I translate them from german):
 
-> Der Snapper lebt größtenteils im Wasser. Kann an Land springen und angreifen. Im Wasser praktisch unbesiegbar, muß vom Land aus bekämpft werden. Wassermonster verstecken sich auf dem dunklen Grund eines Gebirgssees oder unter Felsvorsprüngen unter Wasser. Schlägt etwas auf die Wasseroberfläche, greifen sie blitzschnell an. Ein ins Wasser geworfener Stein lockt sie an. 
+> Der Snapper lebt größtenteils im Wasser. Kann an Land springen und angreifen. Im Wasser praktisch unbesiegbar, muß vom Land aus bekämpft werden. Wassermonster verstecken sich auf dem dunklen Grund eines Gebirgssees oder unter Felsvorsprüngen unter Wasser. Schlägt etwas auf die Wasseroberfläche, greifen sie blitzschnell an. Ein ins Wasser geworfener Stein lockt sie an.
 
-> EN: The Snapper lives mostly in the water. At land he can jump and attack. In the water he is practically undefeatable, must be fighted on land. Water monsters hide on the dark ground of a mountain lake or below rock spurs under water. If something hits the water surface, they attack at lightning speed. A stone thrown into the water allures them. 
+> EN: The Snapper lives mostly in the water. At land he can jump and attack. In the water he is practically undefeatable, must be fighted on land. Water monsters hide on the dark ground of a mountain lake or below rock spurs under water. If something hits the water surface, they attack at lightning speed. A stone thrown into the water allures them.
 
-> Snapper schwimmen ähnlich wie ein Krokodil. Meist tauchen sie aber. Erst wenn sie durch etwas angelockt werden (z.B. Steinwurf), schwimmen sie kurze Zeit an der Stelle des Auftreffens im Kreis, bevor sie wieder Abtauchen. / Snapper können unbegrenzt tauchen. Sie tauchen wesentlich schneller als alle anderen Spezies. Sie können auch während des Tauchens angreifen. Dazu schnellen sie vor und beißen das Opfer. 
+> Snapper schwimmen ähnlich wie ein Krokodil. Meist tauchen sie aber. Erst wenn sie durch etwas angelockt werden (z.B. Steinwurf), schwimmen sie kurze Zeit an der Stelle des Auftreffens im Kreis, bevor sie wieder Abtauchen. / Snapper können unbegrenzt tauchen. Sie tauchen wesentlich schneller als alle anderen Spezies. Sie können auch während des Tauchens angreifen. Dazu schnellen sie vor und beißen das Opfer.
 
 > EN: Snappers swim similarly as a crocodile. But most of the time they are diving. Just when they are lured by something (e.g. stone throw), they swim for a short time in a circle around the position where the water was hit, before they dive down again. / Snappers can dive indefinitely. They dive much faster than every other species. They can also attack during diving. For this they spring out and bite the victim. 
  
-It would swim and dive in the water and attack the player when swimming and diving. And when the player would walk by some pond, he would suddenly "snap" out of the water with a jump attack to get him and pull him into the water. Therefore, this monster was called "Snapper". 
+It would swim and dive in the water and attack the player when swimming and diving. And when the player would walk by some pond, he would suddenly "snap" out of the water with a jump attack to get him and pull him into the water. Therefore, this monster was called "Snapper".
 
 ![Vadims Frog](https://images.gothicarchive.org/conceptart/vadim/old/snapper01a.jpg)
 
@@ -36,9 +36,9 @@ The frog made sense because he can jump and his legs have developed accordingly,
 The initial idea of a giant frog may have found expression (proportion-wise) in form of the Orc Dog from the Alpha, basically a "mouth on legs" (see Orc Dog). 
 {: .subtext }
 
-The texture of this first known Snapper model seems actually to be inspired by and trying to replicate the frog idea to some degree, even if it may be hard to see on these old and small textures. In difference to a crocodile, it does not come with visible scales, but the overall dark skin (ignoring the blue shiny parts) remind most of the uneven skin of a toad or specific types of salamanders. With the blue parts, which to be honest, appear a bit like some harder, crystal like material, it seems that they've designed them as such to let the skin there appear to be wet and glossy like that of a frog or again, a salamander.  
+The texture of this first known Snapper model seems actually to be inspired by and trying to replicate the frog idea to some degree, even if it may be hard to see on these old and small textures. In difference to a crocodile, it does not come with visible scales, but the overall dark skin (ignoring the blue shiny parts) remind most of the uneven skin of a toad or specific types of salamanders. With the blue parts, which to be honest, appear a bit like some harder, crystal like material, it seems that they've designed them as such to let the skin there appear to be wet and glossy like that of a frog or again, a salamander.
 
-Other than that they have chosen to make his skin less green and more blue. Both was fine for a water monster. But leaning more towards dark blue than green with some lighter, glossy accents to me seems to be a good decision for a monster that was meant to hide in dark blue lakes (in accordance with the dark blue water texture that was used in the Alpha). 
+Other than that they have chosen to make his skin less green and more blue. Both was fine for a water monster. But leaning more towards dark blue than green with some lighter, glossy accents to me seems to be a good decision for a monster that was meant to hide in dark blue lakes (in accordance with the dark blue water texture that was used in the Alpha).
 
 ---
 

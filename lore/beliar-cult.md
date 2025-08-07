@@ -24,11 +24,11 @@ Just a social thing. Nothing in the law.
 
 ---
 
-Regarding this question. The more I think about it, the more I become convinced that it would be good to include Beliar priests in some form. The lore of the gods does not mention beliar priests, but also does not say that they do not exist. Only the manual said so (which has to be seen critical in several regards; we also deviate from it in some other regards because it is in conflict with some essential ideas by Mike regarding succession to the throne and everything). So when going with what just the other sources tell us, like the lore of the gods, we could just say that it simply keeps quiet about the beliar priests.
+Regarding this question. The more I think about it, the more I become convinced that it would be good to include Beliar priests in some form. The lore of the gods does not mention Beliar Priests, but also does not say that they do not exist. Only the manual said so (which has to be seen critical in several regards; we also deviate from it in some other regards because it is in conflict with some essential ideas by Mike regarding succession to the throne and everything). So when going with what just the other sources tell us, like the lore of the gods, we could just say that it simply keeps quiet about the beliar priests.
 
-The arcane gift, the access to magic, which is associated with being "elected", receiving this gift, this has to be the primary distinction.
-Not this "priest" term.
-So there can be beliar priests in the universe, in the sense we discussed it before, just excluded from or very restricted in magic, which ofc some are practicing nonetheless underhand.
+The Arcane Gift, the access to magic, which is associated with being "elected", receiving this gift, this has to be the primary distinction.
+Not this "Priest" term.
+So there can be Beliar Priests in the universe, in the sense we discussed it before, just excluded from or very restricted in magic, which ofc some are practicing nonetheless underhand.
 And so either them would be responsible for the burial, or perhaps a different priest depending on which kind of burial someone wanted.
 
 ---
@@ -48,20 +48,3 @@ So the Beliar cult being the only cult responsible for burial and rememberance w
 So I tend to say that beliar-only burials are more interesting and more "gothic" than a potpourri of death and burial cults.
 
 Maybe we could bring in diversity regarding cult practice through rather small adjustment. Brainwave: Maybe everyone would go to a Beliar priest to bury his loved ones. But maybe the follower of one god would want to put coins on the corpse's eyes, the other one would put a candle, blessed by a priest of Innos, in the grave (so Innos' light may guide the dead through Beliar's darkness) etc.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

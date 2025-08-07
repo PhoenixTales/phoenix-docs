@@ -15,13 +15,13 @@ These different play modes or challenges are not to be misunderstood with common
 <!-- TOC_PLACEHOLDER -->
 
 ## Asleep 
-Regeneration is always activated and you can safe whenever you want. Time to get wet, pussy. 
+Regeneration is always activated and you can save whenever you want. Time to get wet, pussy. 
 ```
-Not recommmended, unless you're afraid from a battle against meatbugs.
+Not recommended, unless you're afraid from a battle against meatbugs.
 ```
 
 ## Dream
-Regeneration is always activated, but requires energy (from food) to regenerate from. But food is plenty and energy consumption is low. You can safe whenever you want. 
+Regeneration is always activated, but requires energy (from food) to regenerate from. But food is plenty and energy consumption is low. You can save whenever you want. 
 ```
 Recommended for regular players who just want to play without much of a challenge or those who haven't played Gothic before.
 ```

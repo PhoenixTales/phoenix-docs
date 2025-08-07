@@ -1,6 +1,6 @@
 # Healers
 
-Author: Flosha  
+Author: Flosha
 
 22.03.2024
 

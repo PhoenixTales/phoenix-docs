@@ -1,8 +1,8 @@
 # Cults & Sects
 
-``Author: Flosha``  
-``25.03.2024 - 13.06.2024``  
-``Last update: 24.09.2024``  
+``Author: Flosha``
+``25.03.2024 - 13.06.2024``
+``Last update: 24.09.2024``
 
 <!-- TOC_PLACEHOLDER -->
 
@@ -13,7 +13,7 @@ Within Myrtana, "religion" (a word that should not appear anywhere ingame) is pr
 We may mention though that "cathedrals" are mentioned in the context of Gothic. A cathedral was among the very first things that were designed when the Mad Scientists and the founders of the later Piranha Bytes joined to work on what would later become Gothic and there is an associating music track too. But we should not confuse this internal (or even in-universe) term as to connote something very christian; the "cathedral" is primarily used because it is such an important gothic trope; it is of threatening, awe-inspiring and iconic character and when thinking of gothic fiction, a dark, gothic cathedral is among the first things that come to mind. So it was obvious to imagine and work on a cathedral. 
 {: .subtext }
 
-There is a cult of Innos, a cult of Adanos and a cult of Beliar. There may be other cults too, but these are the prevailing ones. Myrtana under the rule of Rhobar II. propagates the *Cult of the Three Gods*. The myrtanian people believe in the three gods and in their role in the grand scheme of life, at some places the worship of Innos may prevail, while at other places, more followers of Adanos are to be found. But no devotee of one of the gods would negate the existence of another. 
+There is a cult of Innos, a cult of Adanos and a cult of Beliar. There may be other cults too, but these are the prevailing ones. Myrtana under the rule of Rhobar II. propagates the *Cult of the Three Gods*. The Myrtanian People believe in the three gods and in their role in the grand scheme of life, at some places the worship of Innos may prevail, while at other places, more followers of Adanos are to be found. But no devotee of one of the gods would negate the existence of another. 
 
 There are also other local deities, believes and cults in different corners of the realm, such as the shamanism of the orcs and specific movements considered as heretical by the priests, such as the *Brotherhood of the Sleeper*. 
 
@@ -24,8 +24,8 @@ There are also other local deities, believes and cults in different corners of t
 
 > ... wurden Priester genannt. Doch auch unter ihnen gab es viele, die bald unzufrieden waren. Und so kam es, dass sie zu Adanos beteten und ihren Ursprung vergaßen. Die Riege der Priester war gespalten. Kriege wurden entfesselt und auch der Glaube an die göttliche Allmacht war bald schon nur noch Mythos. So teilten sich die Priester. Die dem Adanos folgten nannte man nun Magier des Wassers, die Geweihten des Innos hießen aber die Magier des Feuers. [G]
 
-The scripture informs us that cultic wars were started in course of the split of the priests and that apparently the belief in the allmightiness of god became a myth.  
-We can interpret this to suggest that atheism and other faiths gained popularity.  
+The scripture informs us that cultic wars were started in course of the split of the priests and that apparently the belief in the allmightiness of god became a myth.
+We can interpret this to suggest that atheism and other faiths gained popularity.
 
 
 ## Cult of the Three Gods
@@ -42,7 +42,7 @@ Just as Innos and Adanos, Beliar has dedicated followers too, but according to t
 Priester des Gottes *Adanos* [...] waren die Magier des Wasserkreises, nur dem
 Gott der Dunkelheit und des Todes, *Beliar*, waren keine Priester geweiht, denn seine Mächte waren von finsterer Natur. [M]
 
-Also the *Lore of the Gods* at least implies, that no priests may be consecrated to Beliar, as they are not mentioned. According to the sources there may indeed be no priests of beliar - at least not anymore at the time during which the story takes place. And at least not where the myrtanian regime is in control - in the colony they aren't...
+Also the *Lore of the Gods* at least implies, that no priests may be consecrated to Beliar, as they are not mentioned. According to the sources there may indeed be no Priests of Beliar - at least not anymore at the time during which the story takes place. And at least not where the Myrtanian Regime is in control - in the Colony they aren't...
 
 The "clergy" of Myrtana is thus divided into the priests of fire and the priests of water (which in the sources were identified with the *circles*), while as a whole, as the communities of followers, they are described as the "House of Innos" and the "House of Adanos". Similar to what in Christianity would be described as the Roman-Catholic or Protestant or Orthodox Church etc. Just that here they were reconciled in form of the faith into the three Gods. 
 
@@ -69,11 +69,11 @@ The belief in the gods, while it may be in decline (and the reverence especially
 
 In the Phoenix lore, we explain the origins of the Cult based on the Comic in association with the founding of the empire. 
 
-Rhobar I. took measures against the decline of faith and end the cultic wars by the proclamation of the faith in the three gods and in order to reconcile the houses of Innos and Adanos (and the associated disputes of the priests). The cults of Innos, Adanos and Beliar were prevailing since a long time, but since Rhobar I. the *Cult of the Three Gods* is "states religion". 
+Rhobar I. took measures against the decline of faith and end the cultic wars by the proclamation of the faith in the three gods and in order to reconcile the Houses of Innos and Adanos (and the associated disputes of the priests). The cults of Innos, Adanos and Beliar were prevailing since a long time, but since Rhobar I. the *Cult of the Three Gods* is "state religion". 
 
-Rhobars cult can be seen as something like an ecumenical movement of Myrtana (although less peaceful, but a brutal, a gothic one). 
+Rhobars cult can be seen as something like an ecumenical movement of Myrtana (although less peaceful, but a brutal, a gothic one).
 
-By acquiring the Sceptre of Varant, claiming himself to be the governor of the highest god RA, identified with Innos he set himself into a lineage of the old realm.  
+By acquiring the Sceptre of Varant, claiming himself to be the governor of the highest god RA, identified with Innos he set himself into a lineage of the old realm.
 
 Rhobar II. later established the Inquisition as another measure, as a representation of Beliars justice.
 
@@ -103,9 +103,9 @@ The priests of the cult still assume that their magical (psionic) power has to h
 
 ## Orcish Shamanism
 
-``TODO: Write on shamanism and Vodoo here.``
+``TODO: Write on shamanism and voodoo here.``
 
 
 ## Cultic Practices
 
-``TODO: Describe how the cults are practiced and how they find concrete expression in the everyday life of the peopls based on the findings in /gods``
+``TODO: Describe how the cults are practised and how they find concrete expression in the everyday life of the people based on the findings in /gods``

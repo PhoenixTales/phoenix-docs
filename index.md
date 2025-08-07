@@ -3,13 +3,13 @@
 <img class="phnx-mask" src="/_img/mask2.png">
 <img class="logo" src="/_img/headings/designdocs2.png">
 
-[*Welcome to the desert of the ideal.*](https://www.youtube.com/watch?v=8ehHYiYrqeY)  
+[*Welcome to the desert of the ideal.*](https://www.youtube.com/watch?v=8ehHYiYrqeY)
 
-These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working title "Project Nyx"), a radically immersive action rpg developed by Phoenix Tales, based on GOTHIC (2001) by Piranha Bytes which had "Phoenix" as its working title, which was supposed to be very different in 1996-1999. The release version was a mere fracture of what the four founders and other story writers had initially dreamed of. The vision was severely compromised. PHOENIX is an attempt to realise this dream. 
+These are the Design Documents of [PHOENIX](https://phoenixthegame.com) (working title "Project Nyx"), a radically immersive action RPG developed by Phoenix Tales, based on GOTHIC (2001) by Piranha Bytes which had "Phoenix" as its working title, which was supposed to be very different in 1996-1999. The release version was a mere fracture of what the four founders and other story writers had initially dreamed of. The vision was severely compromised. PHOENIX is an attempt to realise this dream. 
 
 ```
 PHOENIX DESIGN CONCEPT
- © 2016-2024 PhoenixTales
+ © 2016-2025 PhoenixTales
 
 AUTHORS 
  Flosha 
@@ -23,9 +23,9 @@ AUTHORS
 
 In the early stages of development we created what later would become the [Gothic Archive](https://gothicarchive.org) by collecting as much pre-release material as possible to research the original vision of what we summarise as the “Gothic Alpha”. In the course of this work we decided to prepare and present it in the form of a website to the community.
 
-All the research of said material and our own game design derived from it are extensively documented in the design concept at hand. In the same way as we have made our Archive public source we have also decided to release our design docs in the form of a website. It is our own minimal online documentation solution, where the index serves as the navigation. Documents are written in markdown and are automatically formatted as HTML, often complemented by spreadsheets appended. It is easy to contribute [via git](https://github.com/PhoenixTales/phoenix-docs), so everyone can collaborate with us in our research. Since we target an international audience and are an international team <!--(from Germany, Poland, Romania, Czechia and with associations to Ukraine, Russia and Slovakia)--> we write the documentation in english.  
+All the research of said material and our own game design derived from it are extensively documented in the design concept at hand. In the same way as we have made our Archive public source we have also decided to release our design docs in the form of a website. It is our own minimal online documentation solution, where the index serves as the navigation. Documents are written in markdown and are automatically formatted as HTML, often complemented by spreadsheets appended. It is easy to contribute [via git](https://github.com/PhoenixTales/phoenix-docs), so everyone can collaborate with us in our research. Since we target an international audience and are an international team <!--(from Germany, Poland, Romania, Czechia and with associations to Ukraine, Russia and Slovakia)--> we write the documentation in English.
 
-A long-term goal is a physical publication of the concept after the release of the game.   
+A long-term goal is a physical publication of the concept after the release of the game.
 
 
 ## Document Structure
@@ -35,7 +35,7 @@ While working on our design docs we had to come up with a way to structure the d
 Please note that the Design Concept is an ongoing documentation of the project since 2016. It is <span class="demonic">work in progress</span>. Many documents are currently rewritten and will be unlocked over time. Due to the current work on the order and internal structure of the documents, regular changes to the index are to be expected.
 {: .subtext .darkbg }
 
-Current structure:  
+Current structure:
 
 ```
 DESIGN CONCEPT

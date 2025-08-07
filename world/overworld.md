@@ -100,7 +100,7 @@ What was not yet part of the concept:
 * Old Pass
 
 * Prison Castle
-* Miners Fort
+* Miner's Fort
 
 **Mines:**
 * Old Mine
@@ -125,13 +125,12 @@ What was not yet part of the concept:
 * Great Forest  ("GWood" - OC to PSI)
 * High Forest   ("HWood" - OC to OCY)
 * Demon Forest  ("DWood" - DT to PSI)
-* 
 
 
 * Old Stonehenge
 * Cliffs of the Southeast
 * Demontower
-* Big lake and the island
+* Big Lake and the Island
 * Swamp
 
 
@@ -161,23 +160,23 @@ As mentioned above, the size of the barrier was defined by Mike as 1 km in diame
 
 ### Rivers and Camp Positions
 
-In Mikes "Orpheus Overview Map V1", there was only one river flowing south of the Old Camp, from the southwest into the east, into the ocean in the eastern middle of the map. 
+In Mikes "Orpheus Overview Map V1", there was only one river flowing south of the Old Camp, from the southwest into the east, into the ocean in the eastern middle of the map.
 
 [include image]
 
-In his next, untitled map sketch, he added a second river north of the Old Camp, flowing from the northwest straight to the northeast into the ocean. 
+In his next, untitled map sketch, he added a second river north of the Old Camp, flowing from the northwest straight to the northeast into the ocean.
 
 [include image]
 
-In all the builds of the game, as early as v0.56c, it was this river who originated in the waterfall at the New Camp. But in Mikes original concepts, it was the first river in the south that would be connected with the New Camp. In all three of Mike's early map sketches, the New Camp was drawn in the southwest and the Free Mine in the northwest. 
+In all the builds of the game, as early as v0.56c, it was this river who originated in the waterfall at the New Camp. But in Mikes original concepts, it was the first river in the south that would be connected with the New Camp. In all three of Mike's early map sketches, the New Camp was drawn in the southwest and the Free Mine in the northwest.
 
 [include images]
 
-But this was changed early on for unknown reasons. Thus on the concepts by Ralf and also in the earliest world models we know of, it was already reversed. The New Camp was from now on in the northwest, and the Free Mine in the southwest. And it was not a mere cosmetic change. 
+But this was changed early on for unknown reasons. Thus on the concepts by Ralf and also in the earliest world models we know of, it was already reversed. The New Camp was from now on in the northwest, and the Free Mine in the southwest. And it was not a mere cosmetic change.
 
 [include reconstructed map showing this]
 
-According to the earlier concept, the New Camp was always supposed to be close to the Old Fort; at first there were supposed to be fields at the bottom of the Fort with peasants who would work for the Lord (later General Lee) of the New Camp. And the Fort was meant to be close to the barrier, very far southwest, not as close to the Old Camp. 
+According to the earlier concept, the New Camp was always supposed to be close to the Old Fort; at first there were supposed to be fields at the bottom of the Fort with peasants who would work for the Lord (later General Lee) of the New Camp. And the Fort was meant to be close to the barrier, very far southwest, not as close to the Old Camp.
 
 [include image of the Fort position]
 
@@ -185,14 +184,14 @@ A river was flowing through the middle of the fields and this river was ending i
 
 [include image with the river and ocean blue]
 
-In Mikes third map sketch the former fields at the foot of the Old Fort have changed to be rice terraces at the foot of the New Camp, but they were still north of the Old Fort, from which you could look down upon them. The water from the terraces would already lead to a waterfall, which would form a small lake and then flow further, again into where the Psi Camp was supposed to be. But originally, as hinted at above, the Psi Camp was situated in the ocean; it had nothing to do with a swamp. But now the swamp was introduced, in Mikes third map sketch. He decided to disconnect the ocean from this new idea of the swamp, drawing a long coast line in the east, north of the Psi Camp. 
+In Mikes third map sketch the former fields at the foot of the Old Fort have changed to be rice terraces at the foot of the New Camp, but they were still north of the Old Fort, from which you could look down upon them. The water from the terraces would already lead to a waterfall, which would form a small lake and then flow further, again into where the Psi Camp was supposed to be. But originally, as hinted at above, the Psi Camp was situated in the ocean; it had nothing to do with a swamp. But now the Swamp was introduced, in Mikes third map sketch. He decided to disconnect the ocean from this new idea of the swamp, drawing a long coast line in the east, north of the Psi Camp.
 
 
 To summarise:
 
 At first there was only one river in the world in the south of the Old Camp which was supposed to be close to the Old Fort and relatively close to the New Camp, with fields between the New Camp and the Fort. Then a second river was added in the north without any direct connection to a camp. The lake in the south was then conceptualised not only as being close to the New Camp, but as coming from a waterfall from within the camp, in which a dam was build that would water the rice terraces which replaced the former idea of the fields. Next the position of the camp was changed from southwest to northwest and the New Camp was from now on thought to be connected with the northern instead of the southern river. It was modeled in connection with the northern river in all versions of the game we know of. 
 
-Then the shape of the southern river was changed, as it had lost its function of being related with watering the fields. It would no longer run from the left (southwest) to the right (southeast), but rather from the middle of the south to the middle of the east. Under the waterfall it came from there was drawn a lake (with a second, more hidden lake connected to it), underneath the cliff, where the Demontower was thought to be. This shape was roughly kept till release, but additional complexity was added by splitting it to form two rivers running along both sides of the Great Forest in the east.  
+Then the shape of the southern river was changed, as it had lost its function of being related with watering the fields. It would no longer run from the left (southwest) to the right (southeast), but rather from the middle of the south to the middle of the east. Under the waterfall it came from there was drawn a lake (with a second, more hidden lake connected to it), underneath the cliff, where the Demontower was thought to be. This shape was roughly kept till release, but additional complexity was added by splitting it to form two rivers running along both sides of the Great Forest in the east.
 
 
 

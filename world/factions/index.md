@@ -27,16 +27,16 @@ Currently we distinguish between the following factions:
 
 ## Internal Shortcuts
 
-[Vlk] Volk (Folk)  
-[Mgt] Magnaten (Magnates)  
-[Prs] Priester (Priests)  
-[Kng] Königliche (Royals)  
-[Rch] Richter (Judges/Law)   
-[Vgf] Vogelfreie (Outlaws)  
-[Fre] Freie (Freedom/Revolt)  
-[Ktz] Ketzer (Heretics)  
-[Slv] Sklaven (Slaves)  
-[Exi] Verstoßene (Exiles)  
+[Vlk] Volk (Folk)
+[Mgt] Magnaten (Magnates)
+[Prs] Priester (Priests)
+[Kng] Königliche (Royals)
+[Rch] Richter (Judges/Law)
+[Vgf] Vogelfreie (Outlaws)
+[Fre] Freie (Freedom/Revolt)
+[Ktz] Ketzer (Heretics)
+[Slv] Sklaven (Slaves)
+[Exi] Verstoßene (Exiles)
 
 
 ## Guilds per Faction
@@ -62,7 +62,7 @@ Currently we distinguish between the following factions:
 
 #### Examples
 
-Past LastPrayer Psi is split into Moderates & Fanatics (Mad).  
+Past LastPrayer Psi is split into Moderates & Fanatics (Mad).
 In Nemesis, the remnants of Psi form the Mystics (Psi → Mys).
 While the outlasting Fanatics form the DemonCult (Mad → Dmc).
 They are all considered as Heretics by Law, Royals & Priests.
