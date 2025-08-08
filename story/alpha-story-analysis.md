@@ -75,6 +75,15 @@ Story 3.3 consists of the following chapters (the english translation is from us
 
 The very different chapter names compared to the release version of the story are not a mere stylistic difference, but a reflection of the very different story that was developed at the time.
 
+---
+
+In this version of the story (maybe in version 2 already) the story writers, now consisting of [add names], introduced a system of dividing missions into priority 1, priority 2 and priority 3 missions. 
+
+* Priority 1 are main missions, that bring the story forward. 
+* Priority 2 are guild specific missions that often have some relation to the main mission. 
+* Priority 3 are side missions with no relation to the main missions. 
+
+
 [Add: Here summary of the Story 3.3 + comparison to the Orpheus story, how it evolved from there, what remained, what changed, what was removed]
 
 
