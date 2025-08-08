@@ -73,33 +73,39 @@ Story 3.3 consists of the following chapters (the english translation is from us
 | Chapter 5 | Orc Assault          | Orksturm            |
 | Chapter 6 | Nemesis              | Nemesis             |
 
-The very different chapter names compared to the release version of the story are not a mere stylistic difference, but a reflection of the very different story that was developed at the time.
+The very different chapter names compared to the release version of the story are not a mere stylistic difference, but a reflection of the very different story that was developed at the time. 
+
+Alongside the chapters and the story progression, the player character progresses through six corresponding levels of his character. So that in a normal playthrough the player is on level 2 in chapter 2, on level 4 in chapter 4 and so on, with a maximum level of either 6 or 7, based on the earliest documents. 
+
+---
+
+Another crucial aspects of the story, by which we can roughly structure it, is by which parts of the world are going to be explored in which chapter, which we can summarise as the "level progression". The progression through the levels of the game world goes along the story progression. The player has to access specific levels in order to progress in the story and has to progress in the story in order to access specific levels, as we have described them in /levelstructure. This version of the story corresponds exactly to the early Phoenix levelstructure with the four temple levels, as described in said document. 
+
+In v3.3 of the story, the level progression correlates with the chapters in the following way:
+
+| CH | Accessible Locations  |
+|----|-----------------------|
+| 1  | OC (but no castle), NC (but no KDW area), PSI (but no Temple), Mines Lvl 1 |
+| 2  | OC castle, NC KDW area, PSI Temple, Mines Lvl 2, Natural Caves | 
+| 3 | Orc Caves Lvl 1 |
+| 4 | Orc Caves Lvl 2 | 
+| 5 | Ancient Temple Lvl 1-2 |
+| 6 | Ancient Temple Lvl 3-4 |
 
 ---
 
 In this version of the story (maybe in version 2 already) the story writers, now consisting of [add names], introduced a system of dividing missions into priority 1 and priority 2 missions. 
 
 * Priority 1 are main missions, that bring the story forward. 
-* Priority 2 are guild related missions that often have some relation to the main missions. 
+* Priority 2 are guild related missions that often have some relation to the main missions.
+
+There should have been no missions at all that have no kind of relation to the story and thus no kind of relevance and urgency in relation to the main missions; they are all connected to it in some kind of way. If an NPC may want something from the player that has no relation to the players goals, then it is only being done and justified by this NPC standing in the way of these goals or his approval being required to progress and so forth. 
 
 At first I will only list the Priority 1 missions (short Prio1). The first chapter doesn't contain any Prio1 missions, it serves the orientation of the player in the world and the goal is to join a guild. That initiates chapter 2, in which the preparation of the Psi ritual begins (PrepareRitual). 
 
-But one shouldn't deduce that there isn't much written about the first chapter. On the contrary, the first chapter takes up about a third of the entire story 3.3 document with its 6 chapters. 
+One shouldn't deduce from the above that there isn't much written about the first chapter. On the contrary, the first chapter takes up about a third of the entire story 3.3 document with its 6 chapters. 
+{: .subtext }
 
----
-
-One of the crucial aspects of the story, by which we can roughly structure it, is by which parts of the world are going to be explored in which chapter, which we can summarise as the "level progression". The progression through the levels of the game world goes along the story progression. The player has to access specific levels in order to progress in the story and has to progress in the story in order to access specific levels, as we have described them in /levelstructure.
-
-In v3.3 of the story, the level progression correlates with the chapters in the following way:
-
-| CH | Accessible Locations  |
-|----|-----------------------|
-| 1  | Public Parts of the Camps (no OC castle, KDW area & Psi Temple), Mines Lvl 1 |
-| 2  |  | 
-| Chapter 3 | Orcs and Ore Pirates | Orks und Erzpiraten |
-| Chapter 4 | Mining War           | Minenkrieg          |
-| Chapter 5 | Orc Assault          | Orksturm            |
-| Chapter 6 | Nemesis              | Nemesis             |
 
 
 
