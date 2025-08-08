@@ -77,11 +77,30 @@ The very different chapter names compared to the release version of the story ar
 
 ---
 
-In this version of the story (maybe in version 2 already) the story writers, now consisting of [add names], introduced a system of dividing missions into priority 1, priority 2 and priority 3 missions. 
+In this version of the story (maybe in version 2 already) the story writers, now consisting of [add names], introduced a system of dividing missions into priority 1 and priority 2 missions. 
 
 * Priority 1 are main missions, that bring the story forward. 
-* Priority 2 are guild specific missions that often have some relation to the main mission. 
-* Priority 3 are side missions with no relation to the main missions. 
+* Priority 2 are guild related missions that often have some relation to the main missions. 
+
+At first I will only list the Priority 1 missions (short Prio1). The first chapter doesn't contain any Prio1 missions, it serves the orientation of the player in the world and the goal is to join a guild. That initiates chapter 2, in which the preparation of the Psi ritual begins (PrepareRitual). 
+
+But one shouldn't deduce that there isn't much written about the first chapter. On the contrary, the first chapter takes up about a third of the entire story 3.3 document with its 6 chapters. 
+
+---
+
+One of the crucial aspects of the story, by which we can roughly structure it, is by which parts of the world are going to be explored in which chapter, which we can summarise as the "level progression". The progression through the levels of the game world goes along the story progression. The player has to access specific levels in order to progress in the story and has to progress in the story in order to access specific levels, as we have described them in /levelstructure.
+
+In v3.3 of the story, the level progression correlates with the chapters in the following way:
+
+| CH | Accessible Locations  |
+|----|-----------------------|
+| 1  | Public Parts of the Camps (no OC castle, KDW area & Psi Temple), Mines Lvl 1 |
+| 2  |  | 
+| Chapter 3 | Orcs and Ore Pirates | Orks und Erzpiraten |
+| Chapter 4 | Mining War           | Minenkrieg          |
+| Chapter 5 | Orc Assault          | Orksturm            |
+| Chapter 6 | Nemesis              | Nemesis             |
+
 
 
 [Add: Here summary of the Story 3.3 + comparison to the Orpheus story, how it evolved from there, what remained, what changed, what was removed]
