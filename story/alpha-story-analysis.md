@@ -28,7 +28,7 @@ What was there from the very first concept:
 * The player experiences horrific visions of the Sleeper throughout the game and has a vision in a dream.
 * He is lured into the camp of the psionics early on in the story to be involved in their plans (later "PrepareRitual" event). 
 * The psi mages cause a madness wave in a mass ritual to awaken the Sleeper; earthquakes accompany the madness waves, resulting in the Old Mine being flooded (later "OmFull" event).
-* A vision in the fire during the ritual: A dead paladin is seen in the ancient temple behind a door, that was besieged by the Undead, he has a weapon against the Sleeper with him. 
+* A vision in the fire during the ritual: A dead paladin is seen in the ancient temple behind a door, that was besieged by the Undead, he has a weapon with him that can harm the Sleeper (later Uriziel). 
 * In consequence of the ritual the Old Mine cannot deliver Ore anymore; thus at some point the Old Camp raids the Free Camp. New Camp and Old Camp turn hostile (later "FmTaken" event).
 * The magic barrier is in disorder; according to the Demon evocator everyone is in danger.
 * There is a magic amulet that has to be acquired to help against Madness, to come closer than ten meters to the (psychic) barrier without becoming mad (not defined why; perhaps to research the barrier and what is going on).
