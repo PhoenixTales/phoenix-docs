@@ -101,11 +101,19 @@ In this version of the story (maybe in version 2 already) the story writers, now
 
 There should have been no missions at all that have no kind of relation to the story and thus no kind of relevance and urgency in relation to the main missions; they are all connected to it in some kind of way. If an NPC may want something from the player that has no relation to the players goals, then it is only being done and justified by this NPC standing in the way of these goals or his approval being required to progress and so forth. 
 
-At first I will only list the Priority 1 missions (short Prio1). The first chapter doesn't contain any Prio1 missions, it serves the orientation of the player in the world and the goal is to join a guild. That initiates chapter 2, in which the preparation of the Psi ritual begins (PrepareRitual). 
+At first I will only list the Priority 1 missions (short Prio1). The first and second chapters doesn't contain any Prio1 missions. The first one serves the orientation of the player in the world and the goal is to join a guild. That initiates chapter 2, in which the preparation of the Psi ritual begins (PrepareRitual). 
 
 One shouldn't deduce from the above that there isn't much written about the first chapter. On the contrary, the first chapter takes up about a third of the entire story 3.3 document with its 6 chapters. 
 {: .subtext }
 
+
+### Story 3.3 Story Summary in as short terms as possible
+
+1. "Orientation phase": Player can explore the camps and mines, only side missions (priority 2). Goal: JoinGuild = Player Lvl 2 & Initiation of Chapter 2.
+
+2. "Waves of Madness": Preparation of the Ritual. First Mass Meditations by the Enlightened leading to light eartquakes in the colony; do not affect the Psi Camp due to Psi Protection from the Holy Stone. One Week later: Second Mass Meditation, heavier earthquakes: 3 Novices unconscious. One Week later: Third Mass Meditation, even heavier earthquakes, Madness Waves throughout the colony, 3 novices die, five novices went insanse, temple vision, OM collapses; madness affects the psionics too (temporary), since NC has stolen the Holy Stone. Player Missions are still only side missions (priority 2), depending on his guild. As a PSI-Player he helps with the preperation of the Meditations. As a NC Player he has to free the Peasants from the tyranny of Jeremiah, the rice lord and steal the holy stone from PSI. As an OC Player he works as a PSI Spy or works with the information of the PSI Spy if he is a Merc or Mage as well as being involved in some PSI Sabotage. The Fokus Stones and the Crawler Queen are not mentioned yet in this version of the story. The collapse of the Old Mine caused by the third ritual (OM Full) initiates Chapter 3.
+
+3. ..
 
 
 
