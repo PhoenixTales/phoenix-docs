@@ -40,24 +40,29 @@ What was there from the very first concept:
 * Open fights between the camps; the relationships go down resulting in chaos and overarching mutual killing sprees, secretly driven by the progressively more intense psi waves of the Sleeper that drives the whole colony insane (later "Nemesis" event).
 * In some way the player enters the temple and tries to reach the deepest levels.
 * There is a hood of a high priest (undefined whether orcish or human, but most likely orcish) to protect from the wrath of the Sleeper, which would be given as a reward (undefined by whom, but apparently by the priest himself as a reward for killing a specific powerful undead creature, such as the dragon below).
-* But an Undead Dragon blocks the way in a defile on the path to the Sleeper. 
+* But an Undead Dragon or a dragon-like creature (it was not decided) blocks the way in a defile on the path to the Sleeper. 
 * Thus a weapon has to be found that enables to destroy the Undead.
 * The player acquires the weapon from the vision in the paladin's cave in the temple, kills the dragon and somehow banishes the Sleeper.
 
 This was all part of the earliest iteration of the story. What was not yet included at this point or at least not yet mentioned in the documents available to us are the Minecrawler Queen (MCQ); the specifics of the player's involvement in the plans of the Sect and their internal struggle for power; the specifics of the player's involvement in the plan of the Watermages; the specifics of the involvement with the Demon Evocator and his role (it is also not clear if he was supposed to be part of the battlemages at the start (as was the case in a later iteration) or if he was living in his demontower right from the beginning of the game, which is more likely); the specifics of how the player would get into the Orc Caves and the temple and what he would do there; and diverse connections of these different threads. 
 
-While the most important story arcs were defined (and some of these most imporant story arcs were cut or heavily condensed), it was not yet sure what would lead to what and for which reason. Chapters were not yet introduced. 
+While the most important story arcs were defined (and some of these most imporant story arcs were either not realised at all (to the regret of the developers, not because they rejected them) or heavily condensed), it was not yet sure what would lead to what and for which reason. Chapters were not yet introduced. 
 
 
 ## Phoenix (1997-1999)
 
 The story described here is based on the earliest available story document, described as "Story 3.3", given to us in 2022. The Orpheus story outlined before can roughly be described as the "Story Version 1". That said, there was a story version 2 inbetween and we don't know anything about that. Perhaps it was just a transitional stage between the two without much or any additional information. But there is at least one difference we know of. In this stage the story was divided into chapters and at first there were supposed to be five. Thus we assume that the Story V2 can be identified with the story hinted at in the [Phoenix Pitch](), which mentions five chapters, while Story 3.3 has already six. 
 
-The document is internally described as "Zusammenfassung Story-Meeting 27", that means, it is a summary of the 27th story meeting. The document was created in November 21th of 1995(!) and was updated last in May 24th of 1999. It is a document that was updated and evolved in the course of many years. Earlier iterations are most likely lost (unless some dev may still have an older backup), as the document was just overwritten. A version control system was not yet in use. 
+The document is internally described as "Zusammenfassung Story-Meeting 27", that means, it is a summary of the 27th story meeting. The document was created in November 21th of 1995(!) and was updated last in May 24th of 1999[*]. 
 
-We cannot say for sure whether or not the addition of a sixth chapter was accompanied by the addition of any actual story content or if - and we assume so - it was mostly a structural change. As seen above, we can already find all the important story arcs in the Orpheus concept (and even more - like the rebellion against the barons which was either discarded, neglected or forgotten in later iterations); thus we do not think that there were any major changes in the story between Story V2 and Story V3. 
+[*] People keep saying that Gothic was in development for about 3 or so years, because it was 1998 that the ZenGin was started to be developed and the actual production, in a technical sense, went from 1998 to 2001 or the end of 1997, to be precise. But this only refers to the stage of development under the working title *Phoenix*. If the whole conception phase and the *Orpheus* stage is taken into account, then the development has started as early as 1995 and in this sense Gothic was in development for at least 5 years.
+{: .subtext }
 
-Story 3.3 consists of the following chapters: 
+It is a document that was updated and evolved in the course of many years. Earlier iterations are most likely lost (unless some dev may still have an older backup), because the document was just constantly overwritten for years. A version control system was not yet in use. 
+
+We cannot say for sure whether or not the addition of a sixth chapter was accompanied by the addition of any actual story content or if - and we assume so - it was mostly a structural change. As seen above, we can already find all the important story arcs in the Orpheus concept (and even more - like the rebellion against the barons which was either discarded, neglected or forgotten in later iterations); thus we do not think that there were any major changes in the story between Story V2 and Story V3. It seems that it was not much about what would happen, but why, about motivations, pacing and so on, because the Orpheus fragments raised many open questions in this regard. 
+
+Story 3.3 consists of the following chapters (the english translation is from us): 
 
 | CH        | Translation          | Original            |
 |-----------|----------------------|---------------------|
@@ -67,6 +72,13 @@ Story 3.3 consists of the following chapters:
 | Chapter 4 | Mining War           | Minenkrieg          |
 | Chapter 5 | Orc Assault          | Orksturm            |
 | Chapter 6 | Nemesis              | Nemesis             |
+
+The very different chapter names compared to the release version of the story are not a mere stylistic difference, but a reflection of the very different story that was developed at the time.
+
+
+
+
+
 
 
 ### Story Abstract as of May 1999
