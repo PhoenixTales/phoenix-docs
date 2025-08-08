@@ -75,16 +75,12 @@ Story 3.3 consists of the following chapters (the english translation is from us
 
 The very different chapter names compared to the release version of the story are not a mere stylistic difference, but a reflection of the very different story that was developed at the time.
 
-
-
-
-
+[Add: Here summary of the Story 3.3 + comparison to the Orpheus story, how it evolved from there, what remained, what changed, what was removed]
 
 
 ### Story Abstract as of May 1999
 
-
-
+[Add here the story from the table in the Main Mission doc?]
 
 
 ## Phoenix (1999-2000)
