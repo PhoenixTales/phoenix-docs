@@ -1,4 +1,9 @@
-# Story Comparison
+# Story Summary
+
+In this article I will only summarise the most essential missions and the logic behind the story as it was planned in different story conceptions. Side quests with no direct relation to the story progress are not contained. This way the reader gets a general idea of how the story was meant to be. 
+
+As of now only the Story 3.3 is summarised. We will add the Orpheus story fragments and the Phoenix Main Mission story later and make a comparison of them all. 
+
 
 ## Story 3.3
 
