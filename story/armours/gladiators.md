@@ -6,7 +6,9 @@
 **Sources:** Guild System V1 & V2, NSCS per Guild, Sequel Design Docs  
 **Status:** *work in progress*
 
-In this article we will at first only deal with the facts about the guild and its design known from the different concept sources and builds, with both the relevant background story of the guild as well as the general appearance of members of the guild (in form of the armour design). At the end of each section we will put all of it together to summarise how we will present the guild in PHOENIX. What we will not consider here are the individual characters of the guild and their role; this will be done in a character section. 
+![Heavy Gladiator Artwork](https://images.gothicarchive.org/artworks/uwemeier/refinedmodels/Garde_hard.jpg)
+
+In this article we will at first deal with the facts about the guild and its design known from the different concept sources and builds, with both the relevant background story of the guild as well as the general appearance of members of the guild (in form of the armour design). At the end of each section we will put all of it together to summarise how we will present the guild in PHOENIX. What we will not consider here are the individual characters of the guild and their role; this will be done in the character section in /story. 
 
 
 ## Name
@@ -112,7 +114,7 @@ Orik on the SLD (0.94k): "I am Orik, head of the mercenaries. My guys here are a
 Kharim about the independence of the New Camp (1.06): "[...] You know nothing about us! The New Camp is INDEPENDENT of all this shit!"
 
 
-### Summary
+### Conclusion
 
 * Almost all of the mercenaries/guards of the New Camp were former soldiers in the royal army, mercenaries and deserteurs. Their leader (Lee) was a general during the *War of Varant* under Rhobar II. and later a bodyguard of the king [ADDQUOTE!]. Lee (and some others, such as Cord) were already thrown into the colony before the creation of the barrier, that much is known. 
 * Thus based on them being originally described as gladiators, it is a logical consequence that when being thrown into the colony, these former soldiers were forced to fight for life in the arena to the amusement of the wardens; this is the root of their gladiator background and their armours. 
@@ -134,13 +136,19 @@ The armours will have to be a direct representation of the above summarised char
 
 Todo: Add here the early and later concepts by Ralf and scribbles by Mike that may be related and analyse them. 
 
+![Ralfs first known concept for a member of the NC Guard guild](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist1.jpg)
+
+![Ralfs first known concept for a member of the NC Guard guild with the rank of an Officer](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist-offizier.jpg)
+
+The first concept here was a first draft by Ralf for an examplatory, regular member of the guild, the second one for an officer of the guild. The second also exists in a [colorised version here](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist-offizier-coloured.jpg). The coat that he wears is made in the very same style as his early [watermage concept here](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/later/NLMagierMitt.jpg), which shows that his original idea was to present both guilds in a very similar style. It was one faction with two strongly linked guilds, one being specialised in fighting, one being specialised in magic (healing mostly, as they are opposed to the battlemages of the Old Camp). Even if these concrete concepts can surely be critizised in several regards (Ralf himself is not too proud of these early ideas), I see some value in the general idea which, based on the individualisation of armours and robes, can still be fulfilled in case of a few NPCs in at least a similar style, mixed with the general design direction of the later concepts. 
+
 <!--[AddSCreenshotofCharacterstandingwithSLD-LinArenaETC]
 [AddLaterGladiatorlikeconcepts]-->
 
 
-## Concept Differences
+## Concept vs. Ingame Discrepancies
 
-Todo: Add here Ralfs final concept arts and describe all the differences between concept and ingame realisation and how we can improve the armours based on the concepts.
+Todo: Add Ralfs final concept arts in comparison to the Alpha versions below and describe all the differences between concept and ingame realisation and how we can improve the armours based on the concepts.
 
 
 ### SldL
