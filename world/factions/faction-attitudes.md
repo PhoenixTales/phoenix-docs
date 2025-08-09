@@ -6,3 +6,21 @@ In Act 2, we have to develop the same, in order to get a condensed overview of t
 
 The guild attitudes will then show more elaborared differences between the guilds of these factions, to dive a bit deeper.
 
+Folk       // BDL, ARB, BTL, AUX
+Magnates   // MAF, VAG
+Mafia      // EBR, GRD, STT
+Priests    // KDF, KDW, KDL
+Royals     // KNG, PAL, KGD
+Law        // INQ, SGD
+Outlaws    // SLD, KDW, ORG, BAU, BDT
+Revolt     // MST, SFB, FLL
+Heretics   // PSI, AMZ, DMC, DMB
+    Psionics   // NOV, TPL, GUR
+Slaves     // BAU, BAB, ORC, DEM
+Pariahs    // POS, HLF
+
+
+
+
+dndhsshyh
+
