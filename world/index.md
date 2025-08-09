@@ -203,7 +203,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
                 * Circle of Fire
                 * Circle of Water
             4. Anti-Royal 
-                * Mercenaries
+                * [Gladiators/Mercenaries](/world/factions/guilds/demonhunters)
                 * Organisation
                 * Rogues
             5. Heretics 
