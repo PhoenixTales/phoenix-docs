@@ -1,7 +1,7 @@
 # Relations
 
 ```
-Author: Flosha, 23.09.2024
+Author: Flosha, 23.09.2024  
 ```
 {: .info }
 
