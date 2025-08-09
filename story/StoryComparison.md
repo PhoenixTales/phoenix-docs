@@ -33,50 +33,49 @@ As of now only the Story 3.3 is summarised. We will add the Orpheus story fragme
 * Ancient Temple: -
 
 **Chapter Content Summary:**
-* First Mass Meditations by the Enlightened leading to light eartquakes in the colony; do not affect the Psi Camp due to Psi Protection from the Holy Stone.
-* One Week later: Second Mass Meditation, heavier earthquakes: 3 novices unconscious
-* One Week later: Third Mass Meditation, even heavier earthquakes, Madness Waves throughout the colony, 3 novices die, five novices went insanse, temple vision, OM collapses; madness affects the psionics too (temporary), since NC has stolen the Holy Stone.
-* Player Missions: Only side missions (priority 2)
-* PSI-Player: Helping with the preperation of the Meditations
-* NC Player: Free the Peasants from Tyranny, Steal Holy Stone from PSI
-* OC Player: PSI Spy, PSI Sabotage
-* Fokus Stones and Crawler Queen not mentioned yet
-* OM Full -> CH3
+* First Mass Meditations by the Enlightened leading to light earthquakes in the Colony; do not affect the Psi Camp due to Psi Protection from the Holy Stone.
+* One Week later: Second Mass Meditation, heavier earthquakes: 3 novices unconscious.
+* One Week later: Third Mass Meditation, even heavier earthquakes, Madness Waves throughout the Colony, 3 novices die, five novices went insane, temple vision, OM collapses; madness affects the Psionics too (temporary), since NC has stolen the Holy Stone.
+* Player Missions: Only side missions (Priority 2).
+* PSI-Player: Helping with the preperation of the Meditations.
+* NC Player: Free the Peasants from Tyranny, Steal Holy Stone from PSI.
+* OC Player: PSI Spy, PSI Sabotage.
+* Fokus Stones and Crawler Queen not mentioned yet.
+* OMFull -> CH3
 
 
 ### CH3
 
 **Accessible Locations:**
 * OrcCaves (main territory of CH3)
-* Accessible via: Brute force through the narrow passage close to the FM in the Natural Caves, finding the Exile-Orcs to learn orcish and to find secret ways through the City
+* Accessible via: Brute force through the narrow passage close to the FM in the Natural Caves, finding the Exile-Orcs to learn orcish and to find secret ways through the City.
 * Secret Path with an Orc Collaborateur in the Natural Caves closer to the AM -> Orc Companion bringing him into the City
--> Goal: Liberate Craven (Benedict in the Gothic Novel) in the orc prison, which is a friend of the DMB, [Flosha: e.g. he may have been send by him to the Orcs to find out stuff; a spy for the DMB] that brings you into contact with him.
+-> Goal: Liberate Craven (Benedict in the Gothic Novel) in the Orc Prison, which is a friend of the DMB, [Flosha: e.g. he may have been send by him to the Orcs to find out stuff; a spy for the DMB] that brings you into contact with him.
 
 **Chapter Content Summary:**
-* Priority 2: Assassinate or rescue the Enlightened
-* OC Stt: Assassinate the Enlightened
-* OC Grd: Not decided yet, but most apparently related to the FMTaken Plan
+* Priority 2: Assassinate or rescue the Enlightened.
+* OC STT: Assassinate the Enlightened.
+* OC GRD: Not decided yet, but most apparently related to the FMTaken Plan.
 * OC KDF: Was not decided yet.
-* NC ORG: Assassinate the Enlightened instead of the Shadow to get the reward
-* NC KDW/GRD: Rescue the Enlightened, kill Asssassin ->
-Y'Berion realises his illusion -> suicide
-* PSI TPL: Protect the Enlightened/Temple
+* NC ORG: Assassinate the Enlightened instead of the Shadow to get the reward.
+* NC KDW/GRD: Rescue the Enlightened, kill Assassin -> Y'Berion realises his illusion -> suicide
+* PSI TPL: Protect the Enlightened/Temple.
 * PSI Nov: Was not decided yet.
 
 * Priority 1: Exploring OrcCaves
-* PSI: Power struggle between Angar and Kalom -> Kalom new leader after his DrugBaron plot against Y'Berion with OC, Angar wants revenge. Extreme drug shortage, no deliveries to other camps -> therefore: PSI: Player is send to the OrcCaves with a PSI expedition to find the Temple, Main Mission
-(Priority 1); as Tpl additionally: Search Minecrawler Queen in Orc Caves due to drug shortage (Priority 2); the expedition dies soon; player has to continue alone or with his friends
+* PSI: Power struggle between Angar and Kalom -> Kalom new leader after his DrugBaron plot against Y'Berion with OC, Angar wants revenge. Extreme drug shortage, no deliveries to other camps -> therefore: PSI: Player is send to the OrcCaves with a PSI expedition to find the Temple, Main Mission.
+(Priority 1); as Tpl additionally: Search Minecrawler Queen in Orc Caves due to drug shortage (Priority 2); the expedition dies soon; player has to continue alone or with his friends.
 * OC/NC: Player is send to the OrcCaves for other reasons and to lookout for the temple while he's on it (essentially the same Priority 1 mission disguised as a Priority 2 mission); the reasons for NC/OC characters to be send to the OrcCaves were not yet defined (with the exception of the thief characters, see below). 
-* OC Stt: Find the leader of the OC Mercs (later Thorus) in the collapsed OM to get his key to the weapon-chamber of the OC [Flosha: can probably have survived depending on what?] -> the collapse opened up a passage to the natural Caves;
+* OC STT: Find the leader of the OC Mercs (later Thorus) in the collapsed OM to get his key to the armoury of the OC [Flosha: can probably have survived depending on what?] -> the collapse opened up a passage to the natural Caves;
 the search for the leader leads Stt into the OrcCaves -> his body close to the Orc Prison. 
-* OC Grd: Grd was not defined, but he could have a similar reason; instead of looking for the leader due to his key, as the Shadow does, he may look for his leader to rescue him. 
+* OC GRD: GRD was not defined, but he could have a similar reason; instead of looking for the leader due to his key, as the Shadow does, he may look for his leader to rescue him. 
 * NC Org: Plundering the remnants of the OM [Flosha: Das nutzen, um von da bei einer Flucht in den Natural Caves der FM zu enden?]; finding the OC Merc leader to get his key before the shadows find him -> same path as the shadow, different reasoning and course. 
-* NC Guard: Help the Scrapers in the FM (protection against Orc Attacks; NC Guards and Templars are already there at the narrow passage to the Orc Caves -> asked to help the Guards and Templars against the Orcs. -> find the MST
-* NC KDW: Find the MST for Saturas because the MST is a friend of the DMB
+* NC Guard: Help the Scrapers in the FM (Protection against Orc Attacks; NC Guards and Templars are already there at the narrow passage to the Orc Caves -> asked to help the Guards and Templars against the Orcs. -> find the MST
+* NC KDW: Find the MST for Saturas because the MST is a friend of the DMB.
 
 Prio 3:
-* OC Grd: Attack a Convoy from FM to NC
-* PSI Tpl: Send to the OC Arena Battles
+* OC GRD: Attack a Convoy from FM to NC.
+* PSI TPL: Send to the OC Arena Battles.
 
 * FM Taken -> CH4
 
@@ -84,15 +83,15 @@ Prio 3:
 ### CH4
 
 * War: NC closed for OC characters, OC closed for NC characters.
-* Exploring the rest of the OrcCaves and open the closed Gate towards the Temple in the Orc City
+* Exploring the rest of the OrcCaves and open the closed Gate towards the Temple in the Orc City.
 * KDW/KDF: DMB sends to you; Saturas sends you to him.
-* ORG: Craven sends you to DMB
-* STT: Find what the Brotherhood looks for (Temple entrance)
-* NC/FM SÖ: Kill the Orc Boss
+* ORG: Craven sends you to DMB.
+* STT: Find what the Brotherhood looks for (Temple entrance).
+* NC/FM SÖ: Kill the Orc Boss.
 * OC SÖ/GRD: What do the brotherhood and new camp look for in the caves? Find out.
-* TPL/NOV: Find the temple, refuge of the sleeper!
+* TPL/NOV: Find the Temple, refuge of the Sleeper!
 * Player can explore:
-OrcCity and temple entrance area with artefact for the portal in the surface temple
+OrcCity and Temple entrance area with artefact for the portal in the Surface Temple.
 
 
 ### CH5

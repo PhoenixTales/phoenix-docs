@@ -6,7 +6,7 @@
 
 After the analyses of the abstract level structure and the evolution of the map, alongside the layout of the main level, that contains all the camps (the *surface*) - we will "meta-analyse" the development of individual level sections in comparison. We look at specific sections of the world both in isolation and in relation to other relevant level sections in order to draw conclusions for the level design in PHOENIX. 
 
-The terrain of the surface and the position of camps, the design of the camps (and the city) themselves and the design of the "dungeons" or everything below the surface (always addressing concepts, the modeling, the mapping as well as object/item and character placement). We will make some words about the climate within the colony and the outside world as well as about vegetation and the placement of plants in particular (conditions necessary for growth). We will deal with the placement of enemies (guards, monsters etc.) as well as with the sound design in those levels. 
+The terrain of the surface and the position of Camps, the design of the Camps (and the City) themselves and the design of the "dungeons" or everything below the surface (always addressing concepts, the modeling, the mapping as well as object/item and character placement). We will make some words about the climate within the Colony and the Outside World as well as about vegetation and the placement of plants in particular (conditions necessary for growth). We will deal with the placement of enemies (guards, monsters etc.) as well as with the sound design in those levels. 
 
 
 1. Act I (The Colony)

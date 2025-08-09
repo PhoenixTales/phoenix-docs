@@ -1,9 +1,9 @@
 # Relation System
 
 ```
-Author: Flosha
-Written: 29.09.2021
-Last Update: 17.09.2024
+Author: Flosha  
+Written: 29.09.2021  
+Last Update: 17.09.2024  
 ```
 {: .info }
 
@@ -13,13 +13,13 @@ Last Update: 17.09.2024
 
 When confronted with the complexity of the story that we had reconstructed according to all of the early ideas and shaped according to our own, the questdesign became a struggle and we were in need of order in this chaos. It was too complex to keep an overview. We needed a system, a scheme.
 
-Thus, I came up with a scheme of relations both as a system of ordering quests and keeping an overview of them, as well as a method or a tool of designing them. All the missions in the game, which, in a rpg basically mean: all the things the player is supposed to do in a given playthrough, had now a specific *function*. 
+Thus, I came up with a scheme of relations both as a system of ordering quests and keeping an overview of them, as well as a method or a tool of designing them. All the missions in the game, which, in a RPG basically mean: All the things the player is supposed to do in a given playthrough, had now a specific *function*. 
 
 By this system we knew which kind of quest we would need to have at which point of the story just in order to fulfill a specific *function* without even knowing anything about the content of that quest.
 
 That made the complexity as simple as it could be. It is something we may have been inspired to by Alex Brüggemanns approach to gamedesign: If you want a strong story with convincing motivations and so forth, you need to simplify. Thinking of functions instead of actual content made that easy and inspired the content by itself. 
 
-We knew what is the purpose of a quest and at which point and between which camps, guilds or npcs will it take place. As a designer we could now look at the scheme and see which kind of missions were still needed to be done and fill in the details, by following a scheme.
+We knew what is the purpose of a quest and at which point and between which camps, guilds or NPCs will it take place. As a designer we could now look at the scheme and see which kind of missions were still needed to be done and fill in the details, by following a scheme.
 
 But how does that work?
 
@@ -63,7 +63,7 @@ FINAL: PSI ⇆ OC ⇆ NC ⇆ FC
 ```
 
 I call this structure the "InterCamp Relations".  
-This is the logic and the low level decision-tree (the basic level of the "Entscheidungsbaum") I mean, in the first chapter. First comes the decision between a camp. But I thought: We should proceed in that same manner. So after the decision between a camp, there comes the second level of the decision tree, looking like this:
+This is the logic and the low level decision tree (the basic level of the "Entscheidungsbaum") I mean, in the first chapter. First comes the decision between a camp. But I thought: We should proceed in that same manner. So after the decision between a camp, there comes the second level of the decision tree, looking like this:
 
 ```
 OC:  STT ⇆ GRD ⇆ KDF
@@ -129,14 +129,14 @@ So there should be such missions that give you points for joining a guild before
 
 And because the missions decide between this or that guild, the missions need to be structured in a way that they show a *relation* between the respective guilds, how they relate to each other and how the player relates to them. 
 
-The *Stt ⇆ Kdf* mission either needs to show a relationships between Mages and Shadows where you play for or help either STT or KDF, and/or it needs to be a mission where you decide between the usage of magic or thief skills or between mages and thieves virtues.
+The *STT ⇆ KDF* mission either needs to show a relationships between Mages and Shadows where you play for or help either STT or KDF, and/or it needs to be a mission where you decide between the usage of magic or thief skills or between mages and thieves virtues.
 
 The same with KDF ⇆ GRD and GRD ⇆ STT.
 This offers at the same time the perfect opportunity to show these different relationships - and nothing gives the world more depth than more pronounced/developed relations.
 
 ---
 
-Concretely, in order to develop these missions the best, we need to create inter- and intra guild relationships. For this we look at the CH1 Guild Attitudes and what the guilds say about each other in Mikes Guild docs and the 0.56c info pool. Then we write short descriptions summarising the relations of each guild to each other, one camp at a time. 
+Concretely, in order to develop these missions the best, we need to create inter- and intra-guild relationships. For this we look at the CH1 Guild Attitudes and what the guilds say about each other in Mikes Guild docs and the 0.56c info pool. Then we write short descriptions summarising the relations of each guild to each other, one camp at a time. 
 
 ---
 
@@ -148,7 +148,7 @@ This can and should serve as the basic outline and principle of quest relations:
 
 This way we can get a really nice overview of the missions we need to do, while *everything* is deduced from the main plot and its correlation of the guild attitudes. Every mission can then be seen in the context of the story; everything is connected and nothing is out of place. And this gives rise to an actual system of quest writing.
 
-Via inter-camp, inter-guild (which means intra camp) and even inter-character (which often means intra-guild) relations. 
+Via inter-camp, inter-guild (which means intra-camp) and even inter-character (which often means intra-guild) relations. 
 
 Thus, at every new situation in the course of the story we ask the question: How did the relation between Camp X and Camp Y evolve? How to reflect upon, display, represent and/or show this in dialogues, missions and texts? 
 
@@ -159,7 +159,7 @@ Starting with the big stuff:
 
 * Relation between Gods
 * Relation between Gods and Men 
-* Relaton between the Realms
+* Relation between the Realms
 * Relation between Colony and Outside World
 * Relation between Humans, Orcs and Half-Orcs
 * Relation between Camps
@@ -168,13 +168,13 @@ Starting with the big stuff:
 
 This will rule and guide our quest writing.
 
-For instance: Conflict of outside world and colony: The king doesn't send enough stuff anymore because the prisoners didn't send enough ore! - Problem! So talk about it in the game, send a messenger to the exchange place to bring the king a message of what happened and why not enough ore can be delivered and so on. 
+For instance: Conflict of Outside World and Colony: The King doesn't send enough stuff anymore because the prisoners didn't send enough ore! - Problem! So talk about it in the game, send a messenger to the exchange place to bring the king a message of what happened and why not enough ore can be delivered and so on. 
 
-Conflict between humans and orcs: At the beginning there is not much, but it is mentioned, the orc war is going on in the background, there are the orc slaves in the mines. But this evolves: From the beginning, being totally in the background, to Chapter 5 with it being totally in the foreground.
+Conflict between humans and orcs: At the beginning there is not much, but it is mentioned, the Orc War is going on in the background, there are the Orc Slaves in the mines. But this evolves: From the beginning, being totally in the background, to Chapter 5 with it being totally in the foreground.
 
 Conflict between camps: E.g. the war between OC and NC.
 
-Conflict between guilds: Like the VLK being fed up with the barons more and more over time. 
+Conflict between guilds: Like the VLK being fed up with the Barons more and more over time. 
 
 Conflict between individuals: How mages think about each other, how the barons try to get at the top, how shadows are jealous of each other and so on, and so on.
 
@@ -188,12 +188,12 @@ But we at least have no trouble anymore thinking: Which kind of quest may we nee
 
 And I want to make this in table form.
 
-We need an inter-guild relation table, an intra-guild-relation table,
+We need an inter-guild relation table, an intra-guild relation table,
 an inter-camp relation table and so on, each with a short description,
 while the so-called "guild attitudes" give hints about the latter, but they are the AI side of it, while we will make a table showing the story side of it. 
 
 
-So for example we create a table of the barons.
+So for example we create a table of the Barons.
 
 That shows the relation of  
 Gomez to Arto  
@@ -203,9 +203,9 @@ Gomez to Scar
 and so on.  
 
 And how it changes from event to event.   
-The same for all other npcs inside every guild.  
+The same for all other NPCs inside every guild.  
 The same for all guilds inside each camp.  
-For example, the brotherhood inter-guild relations will be the simplest (in CH1), because there will be no or not much of a conflict between the guilds. But there may come a intra-camp conflict where people are split independent from their guild (as some follow Kalom while other follow Angar and so on). Different for the New Camp. Where there are conflicts between Mercs and Orgas, between Free Camp and New Camp, between Mages and Mercs, between Mercs and Peasants and so on.
+For example, the Brotherhood inter-guild relations will be the simplest (in CH1), because there will be no or not much of a conflict between the guilds. But there may come a intra-camp conflict where people are split independent from their guild (as some follow Kalom while other follow Angar and so on). Different for the New Camp. Where there are conflicts between Mercs and Orgas, between Free Camp and New Camp, between Mages and Mercs, between Mercs and Peasants and so on.
 
 ---
 
@@ -214,9 +214,9 @@ For example, the brotherhood inter-guild relations will be the simplest (in CH1)
 Create a table that shows the development of the relations in the course of the chapters (or the main events: beginning, convoy, omfull, fmtaken, orcassault, nemesis), we need a table like that for the relations of:
 
 * Colony ⇆ Outside World
-* Inter-Camp [Oldcamp ⇆ Newcamp ⇆ Psicamp]
-* IntraCamp/InterGuild [Kdf ⇆ Stt ⇆ Grd etc.]
-* IntraGuild/InterNpcs [Gomez ⇆ Raven etc.]
+* Inter-Camp [Old Camp ⇆ New Camp ⇆ Psi Camp]
+* Intra-Camp/Inter-Guild [KDF ⇆ STT ⇆ GRD etc.]
+* Intra-Guild/Inter-NPC [Gomez ⇆ Raven etc.]
 
 Additionally, we need to create a big table, seperated in guilds, that gives a short description of every NPC with a name which: Includes a summary of etymological meanings of the name, what we make that mean in the story and how this NPC develops over the chapters; just his basic characteristics and quests involved etc.
 This is what needs to be done now with the highest priority in the story-department.
@@ -228,7 +228,7 @@ And before we think about any specific quest now (unless someone has an inspirat
 
 ---
 
-In the descriptive tables, the InterGuild Relations are often identical to the IntraCamp Relations. In most cases, all the guilds of one specific camp have more or less the same opinion about all guilds from another camp and have no specific relation. For example, no digger, no guard, no spy has anything to do in specific with a Guru and nothing more with them as with templars or novices. And in general they think that they are addicted freaks and so forth, so that is something for the InterCamp Relation Matrix. 
+In the descriptive tables, the Inter-Guild Relations are often identical to the Intra-Camp Relations. In most cases, all the guilds of one specific camp have more or less the same opinion about all guilds from another camp and have no specific relation. For example, no digger, no guard, no spy has anything to do in specific with a Guru and nothing more with them as with Templars or Novices. And in general they think that they are addicted freaks and so forth, so that is something for the Inter-Camp Relation Matrix. 
 
 Only in rare cases some guilds may have a specific meaning about another specific guild of another camp, for example the mages which are allies. But they keep being so till the end basically. What really changes a bit and what needs to be addressed throughout the game, are relations of the camps to each other and relations of guilds inside the same camp. 
 It would be easier to keep the overview like that.
@@ -244,9 +244,9 @@ CH3
 
 But it may still be useful to have one big table where all the relations to each other are formulated in a short term like Mike did in his lists.
 
-InterCamp Relations = IntraColony  
-InterGuild Relations = IntraCamp  
-InterNPC Relations = IntraGuild  
+Inter-Camp Relations = Intra-Colony  
+Inter-Guild Relations = Intra-Camp  
+Inter-NPC Relations = Intra-Guild  
 
 ---
 
@@ -292,11 +292,11 @@ CH3
 CH4
 ```
 
-What is written on the right side of the table and what is written at the top of the table depends on what will probably have more columns. The section that has more columns/rows will be on the left. There are definitely more npcs than 6 (as the chapters), and so the npcs are written on the left. In other cases that may be different, but not sure.
+What is written on the right side of the table and what is written at the top of the table depends on what will probably have more columns. The section that has more columns/rows will be on the left. There are definitely more NPCs than 6 (as the chapters), and so the NPCs are written on the left. In other cases that may be different, but not sure.
 
 This structure is also simple enough that all the relation-tables can be in one document. The complete relations of the camps, for instance in all 6 chapters fit on only one page.
 
-The complete intracamp relations (inter-guild per camp) fit on one page too. With four camps that means 4 pages. What will take more room are the npc relations per guild. That may require one or two pages per guild, with about 12 guilds.  
+The complete intra-camp relations (inter-guild per camp) fit on one page too. With four camps that means 4 pages. What will take more room are the npc relations per guild. That may require one or two pages per guild, with about 12 guilds.  
 But we will stay under 20 pages with just descriptions of all relationships between instances of all sorts. I assume.  
 And this will be our info pool from which missions can be easily deduced.  
 
@@ -307,16 +307,17 @@ And this will be our info pool from which missions can be easily deduced.
 
 I want that the descriptions follow some method. The tables describe relation(ships). While inside the world document what is important is to:
 
-* describe the general atmosphere of a place
-* name and shortly describe the most important locations in a place (for example inside the OC: Marketplace, Arena District, Chapel and so forth)
-* link specific places to the guilds/people to be found there
-* add a short summary of the most important basic facts about the history of the given location 
-* add a short summary of how the location is supposed to change/evolve in the course of the story
+* describe the general atmosphere of a place.
+* name and shortly describe the most important locations in a place (for example inside the OC: Marketplace, Arena District, Chapel and so forth).
+* link specific places to the guilds/people to be found there.
+* add a short summary of the most important basic facts about the history of the given location .
+* add a short summary of how the location is supposed to change/evolve in the course of the story.
 
 We may seperate these descriptive sections into music zones.
 If some area has a specific music zone of its own then that is a clear sign that we perceive it as a place that deserves to be looked at independently, because change in music indicates change in atmosphere and meaning.
 Thus, I would seperately describe outside ring and castle, because they are supposed to be a bit of two worlds.  
-So we need such very short descriptions of the following places, which in all cases should not exceed one page per section:
+So we need such very short descriptions of the following places, which in all cases should not exceed one page per section:  
+
 * Outside Ring
 * Castle
 * Abandoned Mine 
@@ -324,7 +325,7 @@ So we need such very short descriptions of the following places, which in all ca
 * New Camp
 * Psi Camp
 * Swamp
-* Surface (general atmosphere and naming of most important places which have NOT a music zone of their own, like the forests, the citadell etc.)
+* Surface (general atmosphere and naming of most important places which have NOT a music zone of their own, like the forests, the citadel etc.)
 * Mountain Fortress (should have extra music)
 * Stonehenge (this too)
 * Monastery Ruins (this too)
@@ -340,7 +341,7 @@ So we need such very short descriptions of the following places, which in all ca
 ### NPC Tables
 
 I would like you to begin creating the NPC docs just as I showed you above how to make the table of NPCs
-concerning the npcs the table looks like this
+concerning the NPCs the table looks like this:  
 
 ```
 VLK         CH1   CH2   CH3   CH4   ...
@@ -351,8 +352,8 @@ Jesse
 ...
 ```
 
-So one table per guild, listing all the npcs therein and then adding etymological descriptions shortly. Or actually, no.. the table above is for character development in the course of the story.
-The etymological and general character/background description should be listed in a document on its own like this:
+So one table per guild, listing all the NPCs therein and then adding etymological descriptions shortly. Or actually, no.. the table above is for character development in the course of the story.
+The etymological and general character/background description should be listed in a document on its own like this:  
 
 ```
         Name/Etymology    Background/Crime/Profession
@@ -381,7 +382,7 @@ And its one of the (or maybe the) most complex guild(s). Therefore I would say t
 
 ### 27.04.2023
 
-This I think is an extremely valuable tool for story writing because it cannot be underestimated how much guidance it gives. Just by having a big scheme of relations and having these relations between all kinds of factions, realms, entities, npcs, monsters, gods, camps, subfactions etc. as themes to deal with in dialogues or missions, we have a very clear plan of what to write about, what to deal with in dialogues. We don't have to get topics from nowhere, this big scheme is providing hundreds of possible topics to deal with and we can always take the scheme and see what we have to address.
+This I think is an extremely valuable tool for story writing because it cannot be underestimated how much guidance it gives. Just by having a big scheme of relations and having these relations between all kinds of factions, realms, entities, NPCs, monsters, gods, camps, subfactions etc. as themes to deal with in dialogues or missions, we have a very clear plan of what to write about, what to deal with in dialogues. We don't have to get topics from nowhere, this big scheme is providing hundreds of possible topics to deal with and we can always take the scheme and see what we have to address.
 
 
 ## Relation Systems
@@ -445,9 +446,9 @@ We list the themes below in a rough structure. Many themes can and should be loo
 
 #### Themes
 
-* Freedom is the main goal of the game and thus also the main theme; at first it is a simple understanding: Be free by getting out of the prison that holds you captive. But Freedom has to be addressed from all kinds of angles: External freedom (breaking out of the prison) and internal freedom (free will?), freedom of choice, control or discipline as requirements for freedom, responsibility as a consequence of freedom; freedom in thought and feeling, freedom vs. imprisonment and all the different possible layers of imprisonment (in the colony, the city, in the realm, in society, in the war, in the body, in ones mind, in ones own conditioning and how to break free; freedom in relation to economic and political power, freedom by non-identification (with everything that can be enslaved), freedom in the sense of spiritual liberation and what it requires (action, belief, grace?), freedom of the gods, and how all of that correlates with, is presented alongside or in contrast to freedom and restriction in the gameplay and exploration. 
+* Freedom is the main goal of the game and thus also the main theme; at first it is a simple understanding: Be free by getting out of the prison that holds you captive. But Freedom has to be addressed from all kinds of angles: External freedom (breaking out of the prison) and internal freedom (free will?), freedom of choice, control or discipline as requirements for freedom, responsibility as a consequence of freedom; freedom in thought and feeling, freedom vs. imprisonment and all the different possible layers of imprisonment (in the Colony, the City, in the Realm, in society, in the war, in the body, in ones mind, in ones own conditioning and how to break free; freedom in relation to economic and political power, freedom by non-identification (with everything that can be enslaved), freedom in the sense of spiritual liberation and what it requires (action, belief, grace?), freedom of the gods, and how all of that correlates with, is presented alongside or in contrast to freedom and restriction in the gameplay and exploration. 
 
-* Hierarchy & Bond: loyalty to X (king, kingdom, ...), rank, status, prestige, leadership & servitude, honour, sincerity, duty, responsibiliy, determination, blood & descent, family, clan, tribe, caste, class, guild, group, community - and can one be free in a hierarchical society? 
+* Hierarchy & Bond: loyalty to X (king, kingdom, ...), rank, status, prestige, leadership & servitude, honour, sincerity, duty, responsibility, determination, blood & descent, family, clan, tribe, caste, class, guild, group, community - and can one be free in a hierarchical society? 
 
 * Economical Themes: (Right) livelihood, labour, working conditions, exploitation, sharing, poverty/misery & wealth, greed, currency, property & stealing, the ore business, means of production, tools, food, hunger, harvest, lack & superfluity, free time and art, imprisonment by the constant struggle for survival. 
 
@@ -457,7 +458,7 @@ We list the themes below in a rough structure. Many themes can and should be loo
 * Imprisonment & Freedom
 * Crime & Criminals
 
-Modes, Qualities & Conditions of Mutual Relationships: trust & betrayal, truthfulness & lies, affection, friendship & loneliness, love, partnership & desire, jealousy, dependence & independence, awe, admiration, disgust, disdain, respect, recognition, revenge, atonement & forgiveness
+Modes, Qualities & Conditions of Mutual Relationships: trust & betrayal, truthfulness & lies, affection, friendship & loneliness, love, partnership & desire, jealousy, dependence & independence, awe, admiration, disgust, disdain, respect, recognition, revenge, atonement & forgiveness.
 
 
 * Self-Image & Self-Reflection
@@ -476,8 +477,8 @@ Modes, Qualities & Conditions of Mutual Relationships: trust & betrayal, truthfu
 * Philosophical: (Free) will vs. Fate, Identity Formation, Violence vs. Non-Violence, Virtues & Vices, Role of the Gods, 
 * Dreams
 * Demons
-* Health & Sickness: Disease, Wounds, Healing, Care, Medicin, Immunity, Vulnerability, Resistance, Possessiveness, the Plague, ...
-* Ecological: psi-waves, psi-knots, magical rain, weather, vegetation, mutations, ...
+* Health & Sickness: Disease, Wounds, Healing, Care, Medicine, Immunity, Vulnerability, Resistance, Possessiveness, the Plague, ...
+* Ecological: Psi-Waves, Psi-Knots, Magical Rain, Weather, Vegetation, Mutations, ...
 
 <!--
 
@@ -485,7 +486,7 @@ Modes, Qualities & Conditions of Mutual Relationships: trust & betrayal, truthfu
 
 07.12.2023
 
-These missions or dialogues serve the purpose to show how the different factions relate to each other in CH7. In brackets the number of missions and/or the minimum number of dialogues so that at least the relation is adressed on both sides.
+These missions or dialogues serve the purpose to show how the different factions relate to each other in CH7. In brackets the number of missions and/or the minimum number of dialogues so that at least the relation is addressed on both sides.
 
 Refugee Camp <-> Inquisition (2)
 Refugee Camp <-> Demoncult (2)
