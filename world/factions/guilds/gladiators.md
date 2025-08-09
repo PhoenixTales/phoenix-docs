@@ -3,12 +3,11 @@
 **Author:** *Flosha*  
 **Written:** 14.04.2024  
 
-**Sources:** Guild System V1 & V2, NSCS per Guild, Sequel Design Docs  
-**Status:** *work in progress*
+**Status:** *work in progress* (Todo: Add an equipment section; which weapons do they prefer, how do they fight etc.)
 
 ![Heavy Gladiator Artwork](https://images.gothicarchive.org/artworks/uwemeier/refinedmodels/Garde_hard.jpg)
 
-In this article we will at first deal with the facts about the guild and its design known from the different concept sources and builds, with both the relevant background story of the guild as well as the general appearance of members of the guild (in form of the armour design). At the end of each section we will put all of it together to summarise how we will present the guild in PHOENIX. What we will not consider here are the individual characters of the guild and their role; this will be done in the character section in /story. 
+In this article we will at first deal with the facts about the guild and its design known from the different concept sources and builds, with both the relevant background story of the guild as well as the general appearance of members of the guild (in form of the armour design). At the end of each section we will put all of it together to summarise how we will present the guild in PHOENIX. What we will not consider here are the individual characters of the guild and their role; this will be done in the character section in /story. Sources: Guild System V1 & V2, NSCS per Guild, Sequel Design Docs.
 
 
 ## Name
