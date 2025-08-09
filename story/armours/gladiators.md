@@ -146,13 +146,19 @@ Below are Ralfs first two known concepts of the guild (please remember, before i
 
 The second concept also exists in a [colorised version here](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist-offizier-coloured.jpg). The coat that he wears is made in the very same style as his early [watermage concept](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/later/NLMagierMitt.jpg), which shows that his original idea was to present both guilds in a very similar style. It was one faction with two strongly linked guilds, one being specialised in fighting, one being specialised in magic (healing mostly, as they are opposed to the battlemages of the Old Camp). Even if these concrete concepts can surely be critizised in several regards (Ralf himself is not too proud of these early ideas), I see some value in the general idea of a shared style of the two guilds, which, based on the individualisation of armours and robes, can still be fulfilled in case of a few NPCs in at least a similar style, mixed with the general design direction of the later concepts. 
 
+The next and last known NC Guard armour designs by Ralf are the following:
+
+![last known NC Guard armour designs by Ralf](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/later/ralf-nc-guards.jpg)
+
+The light armour is now very much resembling what the armour would later become in the Alpha as presented below, only lacking the fur at the legs. It is the same armour that Gorn was shown wearing in the concepts by both Ralf and Tom Thiel. The medium armour is also already looking very much like the medium armour known from the game, but with no fur either. The heavy armour on the other hand has not too much resemblance to what it would finally turn into. It also may be noted that the three Guard armours are all shown with a blue hand as a distinctive mark (an idea that was completely rejected), while the organiser armours are all presented with a blue piece of fabric instead, which has been preserved and developed into the scarves of the alpha armours, with an exception of the heavy armour.
+
 <!--[AddSCreenshotofCharacterstandingwithSLD-LinArenaETC]
 [AddLaterGladiatorlikeconcepts]-->
 
 
 ### Concept vs. Ingame Discrepancies
 
-Todo: Add Ralfs final concept arts in comparison to the Alpha versions below and describe the differences between concept and ingame realisation and how we can improve the armours based on the concepts.
+The final armour design came from Mike himself, in cooperation with Mike Hoge, evolving the latest concepts that Ralf came up with. Below we will present the three mercenary armours as they have been conceptualised by Mike and compare them to the actual ingame realisation of these armours in the game. They resemble the concepts very well, but there are some details in which they clearly divert from the concepts. We will argue that in every case, these diversions seem to be based on either misinterpretations of the concepts or simply be caused by suboptimal or lazy execution, since they add nothing to the armours and rather make them less believable than they could have been if following the concepts more loyally. We will thus take the armours of the Alpha as we have reconstructed them based on the renderings and Alpha screenshots and improve them based on the details of the concepts from which they divert.
 
 
 #### SldL
