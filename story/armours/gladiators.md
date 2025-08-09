@@ -42,7 +42,7 @@ Mike deemed it important, that the player is informed, that they...
 
 ### Relationships
 
-### V1
+#### V1
 
 | How? | to whom? |
 | - | - |
@@ -51,7 +51,7 @@ Mike deemed it important, that the player is informed, that they...
 | Bad | Mafia, -snitches, -thugs, Old Diggers, Battlemages, Sect Gurus, Evil Witcher, Free Thieves |
 
 
-### V2
+#### V2
 
 **What they say about others:**
 * (OC) Junta: Barons? Licksplitters of the outside world we call you. 
@@ -99,7 +99,7 @@ Mike deemed it important, that the player is informed, that they...
 * AF: The only place where things are still handled justly is the abandoned fort.
 
 
-## Relevant Dialogues:**
+### Relevant Dialogues
 
 Jarvis on the SLD (0.94k): "Our goal is to break out of here. We work hard for this. We do not want to lounge around, like the rags from the Old Camp, who just rest on the shoulders of the miners."
 
@@ -150,21 +150,21 @@ The second concept also exists in a [colorised version here](https://images.goth
 [AddLaterGladiatorlikeconcepts]-->
 
 
-## Concept vs. Ingame Discrepancies
+### Concept vs. Ingame Discrepancies
 
 Todo: Add Ralfs final concept arts in comparison to the Alpha versions below and describe the differences between concept and ingame realisation and how we can improve the armours based on the concepts.
 
 
-### SldL
+#### SldL
 
 ![Garde Light in the Alpha](https://images.gothicarchive.org/artworks/npcs/Garde_light.jpg)
 
-### SldM
+#### SldM
 
 <!--![Ralfs SldM Concept](/_img/armours/sldm-concept-ralf.jpg)-->
 
 ![Garde Medium in the Alpha](https://images.gothicarchive.org/artworks/npcs/Garde_medium.jpg)
 
-### SldH
+#### SldH
 
 ![Garde Heavy in the Alpha](https://images.gothicarchive.org/artworks/npcs/nc_guard03.jpg)
