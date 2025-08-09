@@ -134,13 +134,19 @@ Kharim about the independence of the New Camp (1.06): "[...] You know nothing ab
 
 The armours will have to be a direct representation of the above summarised characteristics, combined with the specific conditions and limitations of their life in the colony. But let us start with the first relevant concepts. 
 
-Todo: Add here the early and later concepts by Ralf and scribbles by Mike that may be related and analyse them. 
+The following drawing by Mike can be seen as the very first idea for the armours of a member of this guild:
+
+![Mikes first NC Warrior drawing](https://images.gothicarchive.org/conceptart/mikehoge/npcs/signal-2021-02-03-110059_Arenafighter.jpg)
+
+It was roughly tried to be implemented into the game in form of the general fighter armour in v0.56c including the leather helmet that was often shown alongside this armour in early Alpha screenshots and has been modeled in the shape of the helmet in the drawing above. 
+
+Below are Ralfs first two known concepts of the guild (please remember, before imagening a mistake: "Garde" (Guard) was the name of the New Camp Warriors and "Söldner" (Mercenaries) was the name of the Old Camp Warriors at the time). It can clearly be seen how the concept below has taken Mikes drawing into account and tried to develop it in another direction.  
 
 ![Ralfs first known concept for a member of the NC Guard guild](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist1.jpg)
 
 ![Ralfs first known concept for a member of the NC Guard guild with the rank of an Officer](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist-offizier.jpg)
 
-The first concept here was a first draft by Ralf for an examplatory, regular member of the guild, the second one for an officer of the guild. The second also exists in a [colorised version here](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist-offizier-coloured.jpg). The coat that he wears is made in the very same style as his early [watermage concept here](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/later/NLMagierMitt.jpg), which shows that his original idea was to present both guilds in a very similar style. It was one faction with two strongly linked guilds, one being specialised in fighting, one being specialised in magic (healing mostly, as they are opposed to the battlemages of the Old Camp). Even if these concrete concepts can surely be critizised in several regards (Ralf himself is not too proud of these early ideas), I see some value in the general idea which, based on the individualisation of armours and robes, can still be fulfilled in case of a few NPCs in at least a similar style, mixed with the general design direction of the later concepts. 
+The second concept also exists in a [colorised version here](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist-offizier-coloured.jpg). The coat that he wears is made in the very same style as his early [watermage concept](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/later/NLMagierMitt.jpg), which shows that his original idea was to present both guilds in a very similar style. It was one faction with two strongly linked guilds, one being specialised in fighting, one being specialised in magic (healing mostly, as they are opposed to the battlemages of the Old Camp). Even if these concrete concepts can surely be critizised in several regards (Ralf himself is not too proud of these early ideas), I see some value in the general idea which, based on the individualisation of armours and robes, can still be fulfilled in case of a few NPCs in at least a similar style, mixed with the general design direction of the later concepts. 
 
 <!--[AddSCreenshotofCharacterstandingwithSLD-LinArenaETC]
 [AddLaterGladiatorlikeconcepts]-->
