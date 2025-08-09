@@ -136,15 +136,15 @@ The following drawing by Mike can be seen as the very first idea for the armours
 
 ![Mikes first NC Warrior drawing](https://images.gothicarchive.org/conceptart/mikehoge/npcs/signal-2021-02-03-110059_Arenafighter.jpg)
 
-It was roughly tried to be implemented into the game in form of the general fighter armour in v0.56c including the leather helmet that was often shown alongside this armour in early Alpha screenshots and has been modeled in the shape of the helmet in the drawing above. 
+It was, based on later sketches by Mike, roughly implemented into the game, in form of the general fighter armour in v0.56c including the leather helmet, [as it was often shown alongside this armour](https://images.gothicarchive.org/screenshots/orderedbylocation/newcamp/Gothic_1.jpg) in early Alpha screenshots. One may recognise how the helmet has been modeled in the shape of the helmet in the drawing above. 
 
-Below are Ralfs first two known concepts of the guild (please remember, before imagening a mistake: "Garde" (Guard) was the name of the New Camp Warriors and "Söldner" (Mercenaries) was the name of the Old Camp Warriors at the time). It can clearly be seen how the concept below has taken Mikes drawing into account and tried to develop it in another direction.  
+Below are Ralfs first two known concepts of the guild (please remember, before imagening a mistake: "Garde" (Guard) was the name of the New Camp Warriors and "Söldner" (Mercenaries) was the name of the Old Camp Warriors at the time). It can be seen how the concept below has taken Mikes drawing into account and tried to develop it in another direction. 
 
 ![Ralfs first known concept for a member of the NC Guard guild](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist1.jpg)
 
 ![Ralfs first known concept for a member of the NC Guard guild with the rank of an Officer](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist-offizier.jpg)
 
-The second concept also exists in a [colorised version here](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist-offizier-coloured.jpg). The coat that he wears is made in the very same style as his early [watermage concept](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/later/NLMagierMitt.jpg), which shows that his original idea was to present both guilds in a very similar style. It was one faction with two strongly linked guilds, one being specialised in fighting, one being specialised in magic (healing mostly, as they are opposed to the battlemages of the Old Camp). Even if these concrete concepts can surely be critizised in several regards (Ralf himself is not too proud of these early ideas), I see some value in the general idea which, based on the individualisation of armours and robes, can still be fulfilled in case of a few NPCs in at least a similar style, mixed with the general design direction of the later concepts. 
+The second concept also exists in a [colorised version here](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/early/gardist-offizier-coloured.jpg). The coat that he wears is made in the very same style as his early [watermage concept](https://images.gothicarchive.org/conceptart/ralfmarczinczik/costumes/later/NLMagierMitt.jpg), which shows that his original idea was to present both guilds in a very similar style. It was one faction with two strongly linked guilds, one being specialised in fighting, one being specialised in magic (healing mostly, as they are opposed to the battlemages of the Old Camp). Even if these concrete concepts can surely be critizised in several regards (Ralf himself is not too proud of these early ideas), I see some value in the general idea of a shared style of the two guilds, which, based on the individualisation of armours and robes, can still be fulfilled in case of a few NPCs in at least a similar style, mixed with the general design direction of the later concepts. 
 
 <!--[AddSCreenshotofCharacterstandingwithSLD-LinArenaETC]
 [AddLaterGladiatorlikeconcepts]-->
@@ -152,7 +152,7 @@ The second concept also exists in a [colorised version here](https://images.goth
 
 ## Concept vs. Ingame Discrepancies
 
-Todo: Add Ralfs final concept arts in comparison to the Alpha versions below and describe all the differences between concept and ingame realisation and how we can improve the armours based on the concepts.
+Todo: Add Ralfs final concept arts in comparison to the Alpha versions below and describe the differences between concept and ingame realisation and how we can improve the armours based on the concepts.
 
 
 ### SldL
