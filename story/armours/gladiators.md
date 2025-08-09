@@ -66,7 +66,7 @@ Mike deemed it important, that the player is informed, that they...
 * (PSI) Gurus: Scary Figures, they're in league with the evil / decadent. 
 * (PSI) Novices: Those Blinded with their offers are no temptation for us.
 * (PSI) Templars: Wake up - you could become good paladins/mercs. 
-* Evocator: The healing mages will now why they are so careful.
+* Evocator: The healing mages will know why they are so careful.
 * Outside World: We are your slaves no longer!
 
 **What others say about them:**
@@ -114,19 +114,18 @@ Kharim about the independence of the New Camp (1.06): "[...] You know nothing ab
 
 ### Summary
 
-* All of the mercenaries of the New Camp were former soldiers in the royal army, mercenaries and deserteurs. Their leader (Lee) was a general during the *War of Varant* and later a bodyguard of the king [ADDQUOTE!]. Lee (and some others, such as Cord) were already thrown into the colony before the creation of the barrier, that much is known. 
-* Thus based on them being originally described as gladiators, it is a logical consequence that when being thrown into the colony, these former soldiers were forced to fight for life in the arena to the amusement of the wardens. 
+* Almost all of the mercenaries/guards of the New Camp were former soldiers in the royal army, mercenaries and deserteurs. Their leader (Lee) was a general during the *War of Varant* under Rhobar II. and later a bodyguard of the king [ADDQUOTE!]. Lee (and some others, such as Cord) were already thrown into the colony before the creation of the barrier, that much is known. 
+* Thus based on them being originally described as gladiators, it is a logical consequence that when being thrown into the colony, these former soldiers were forced to fight for life in the arena to the amusement of the wardens; this is the root of their gladiator background and their armours. 
 * We know from the earliest Orpheus drafts that like the later orebarons they were also leaders of *the revolt*. 
-* After the revolt they split from the Old Camp in disagreement with the ore barons about the question of cooperation with the king, while the barons alone are now being celebrated as the "liberators" in the Old Camp. 
+* After the revolt they split from the Old Camp in disagreement with the ore barons about the question of cooperation with the king, while the barons alone are now being celebrated as the "liberators" in the Old Camp (due to which the OC was originally even be called the "liberal camp").  
 * The mercenaries see themselves as former slaves of the outside world  ("We are your slaves no longer!") - or more concretely - as former slaves of the king. They have broken their chains not in order to make themselves dependent from the king once again in form of a deal like the barons do. They do not care for gold nor ore, just for freedom (and revenge). 
 * Revenge is a major story thread for the guild; while not everyone was betrayed as worse as Lee [ADDQUOTE!CONTEXT], they were all betrayed insofar as that all of them once were servants of the king as soldiers and mercenaries in his war and were then imprisoned by the same. Thus, the guild is driven by a strong comradeship.
-* They were supposed to be the strongest fighters in the colony besides the orebarons and have some sort of a codex, which has to be developed, obviously focused on such things as (1) their responsibilities as protectors of the ore and the mages, (2) the almost sacred cause of freedom and their (3) independence from the outside world with an absolute refusal of cooperation with the king.
+* They were supposed to be the strongest fighters in the colony besides the orebarons and have some sort of a codex, which has to be developed, obviously focused on such things as (1) their responsibilities as protectors of the ore and the mages, (2) the almost sacred cause of freedom and their (3) independence from the outside world with an absolute refusal of cooperation with the king. This is a source of conflict with the Free Camp, because the Free Camp is sometimes secretly making deals with the Outside World, which the New Camp highly despises; an important factor that shows the independence of the Free Camp in the early vision). 
 
 [AddpicturesofOrikFromTheComic]
 
-* We know that some of them are still gladiators - Orik fought in the arena in the Comic, Kharim fights in the arena in the game; a pupil from Cord was supposed to fight in the arena in Story v3.3 and the player would be send as another of his pupils to kill him in the arena; later as a member of the Mercenaries he was to be send to fight in the arena against a baron. 
-* Thus it is reasonable to assume that this lifestyle of being a gladiator, of regularly going back to the arena (reliving the past by stepping into the footsteps of their leaders), is an essential part of their tradition. Fighting in the arena (and we are speaking of fights ot death here) is a kind of heroic act that they expect their men to go through. And this is why they (or the best of them) still call themselves "Gladiators" with pride.
-
+* We know that some of them are still gladiators - Orik fought in the arena in the Comic, Kharim fights in the arena in the game; a pupil from Cord was supposed to fight in the arena in Story v3.3 and the player would be send as another of his pupils to the arena in course of joining them; later as a member of the Mercenaries he was to be send to fight in the arena against a baron. 
+* Thus it is reasonable to assume that this lifestyle of being a gladiator, of regularly going back to the arena (reliving the past by stepping into the footsteps of their leaders), is an essential part of their tradition. Fighting in the arena (and we are speaking of fights to death here) is a kind of heroic act that they expect their men to go through. And this is why they (or the best of them) still call themselves "Gladiators" with pride. This way I have making sense of all the different ideas for the guild to create a full picture; and their armours only make sense, become believable, justified and meaningful through these explanations, that are all completely unknown to players of the release version.  
 
 
 ## Armour Design 
