@@ -2,7 +2,7 @@
 
 *flosha, 29.09.2024*
 
-Here we want to give an overview of all the characters of our gothic drama. We list all names in their english and their german version, according to the principle of translation of names as discussed in [/lore/nicknames](/lore/nicknames). They're structured in factions and guilds. More languages may be added later or will be appended at the end. 
+Here we want to give an overview of all the characters of our gothic drama. We list all names in their English and their German version, according to the principle of translation of names as discussed in [/lore/nicknames](/lore/nicknames). They're structured in factions and guilds. More languages may be added later or will be appended at the end. 
 
 "Characters" is the story-equivalent to "NPCs" in the game mechanics section. While in NPCs we have described how NPCs function internally in an abstract way, here they are in their concrete expression as characters in the game. 
 
@@ -236,23 +236,23 @@ Shad(ow) / ?       // "Kontakter"
 | Crumb    | Krümel/Krume |
 | Delon    | Delon    |
 | Derek    | Derek    |
-| Fisk     | Fisch?    |
+| Fisk     | Fisch?   |
 | Graham   | ?        | 
 | Gravo    | ?        |
-| Grim(face) | ?       |
+| Grim(face) | ?      |
 | Grumpy   | Grant (der Grantige) |
 | Guy      | Guido    |
-| Herek    | Herek  |
-| Huno     | Huno   |
+| Herek    | Herek    |
+| Huno     | Huno     |
 | Jesse    | ?        |
 | Jug      | ?        |
-| Kyle     | ?  |
-| Marus    | Marus  |
+| Kyle     | ?        |
+| Marus    | Marus    |
 | Mud      | Matsch(kopf)/Schlick |
-| ?        | Murks |
+| ?        | Murks    |
 | Numb     | der Taube |
 | Olon     | Olon     |
-| Ryan     | Ryan |
+| Ryan     | Ryan     |
 | Scarry   | vllt. Ex-Scatty, vllt. Ex Scar, raus? | 
 | Sleepy  | Schlafmütze (?) |
 | Smokie   | Raucher (?) |
@@ -326,9 +326,9 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Butch    | "Metz", "Schlacht" |
 | Cipher   | Null (arabisch sifr = null) |
 | Buster   | Fänger (?) |
-| Shark(y) | ... |
+| Shark(y) | ...      |
 | Okyl     | Okyl     |
-| Tark ?    | Tark Augenwischer    |
+| Tark ?   | Tark Augenwischer    |
 | Earl, the Ear | Orel, das Ohr |
 | TheEye   | das Auge (?) |
 | TheKey   | Schlüssel/Schlüssler (?) |
@@ -419,7 +419,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Kilan    | Kilan    |
 | Laars    | Laars    |
 | Ley?     | Lej      | 
-| Mihai    |        | 
+| Mihai    | ?        | 
 | OldMan   | der Alte |
 | Pieto, Orefinder? | Pieto, Erzfinder |
 | Ragna    | Ragna    |
@@ -430,7 +430,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Senyan   | Senyan   |
 | Swiney   | Schwein(chen)? |
 | Threp    | ?        |
-| Tito ?   | Tito Tunnelspūhrer |
+| Tito ?   | Tito Tunnelspūrer |
 | Vlukk    | Vlukk    |
 | Weeze    | ?        |
 | ?        | Zuhl     |
@@ -495,22 +495,22 @@ They are all using their own names or names given by the brotherhood based on th
 
 #### Templars
 
-* Gor-Na-Go
-* Gor-Na-Vid
-* Gor-Na-Tot
-* Gor-Na-Toth
-* Gor-Na-Ba
-* Gor-Na-Bar
-* Gor-Morbio
-* Gor-Grome
-* Gor-Na-Kash
-* Gor-Na-Kosh
-* Gor-Na-Ran
-* Gor-Na-Drak
-* Gor-Hanis
-* Gor-Bugol
-* Gor-Jona
-* Gor-Jug
+* Gor Na Go
+* Gor Na Vid
+* Gor Na Tot
+* Gor Na Toth
+* Gor Na Ba
+* Gor Na Bar
+* Gor Morbio
+* Gor Grome
+* Gor Na Kash
+* Gor Na Kosh
+* Gor Na Ran
+* Gor Na Drak
+* Gor Hanis
+* Gor Bugol
+* Gor Jona
+* Gor Jug
 * [Quentin]
 * Harun
 * [Balor]
@@ -529,8 +529,8 @@ They are all using their own names or names given by the brotherhood based on th
 * Cor Kalom // "Mastermind"
 * Tasman
 * [Fortuno]
-* Cor-Loran
-* Cor-Garrion
+* Cor Loran
+* Cor Garrion
 
 #### Slaves
 
@@ -553,7 +553,7 @@ They are all using their own or clerical names, none of them have to be translat
 * Drago // ...
 * Earon // Only KDF in 0.64b
 * Hellfire // Only KDF in 0.56c
-* Kiró // KdF Leader in Story 3.3
+* Kiró // KDF Leader in Story 3.3
 * Lotho // Only KDF in the Novel
 * Lusa // changed from "Looser", dead Apprentice in 0.56c
 * Milten // "der Deserteur"
@@ -661,12 +661,12 @@ What we will not address here is how the characters will develop in course of th
 
 ### Bloodwyn / ?
 
-* Original blodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?
+* Original Bloodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?
 
 
 ### Bruce 
 
-* The name comes from *Robert the Bruce* (Scottish Gaelic: *Raibeart am Brusach*), based on this we could germanise him as Brusach or simplify it to just Brus or Brusa. 
+* The name comes from *Robert the Bruce* (Scottish Gaelic: *Raibeart am Brusach*), based on this we could Germanise him as Brusach or simplify it to just Brus or Brusa. 
 * In french: Brus.
 
 * He is an Organiser, which in CH1 hangs around at the marketplace of the Old Camp. 
@@ -675,18 +675,18 @@ What we will not address here is how the characters will develop in course of th
 ### Earl / Orel
 
 * Earl, nickname "the Ear". 
-* A literal translation would be "Jarl" or "Graf", but *Earl* contains "ear" and thereby seems to remind of his role (of being the "ear" of the barons in the sense of their most important spy); we therefore choose a name that contains the german "Ohr" in a similar way to "Earl" containing "ear". This let us think of "Orell" or "Orel" from Aurelius, "Orl" or "Oran". 
+* A literal translation would be "Jarl" or "Graf", but *Earl* contains "ear" and thereby seems to remind of his role (of being the "ear" of the Barons in the sense of their most important spy); we therefore choose a name that contains the German "Ohr" in a similar way to "Earl" containing "ear". This let us think of "Orell" or "Orel" from Aurelius, "Orl" or "Oran". 
 
 
 ### Fletcher
 
 * To fletch means "befiedern"; Fletcher could thus be translated as "Fiederer".
-* On the other hand it reminds of the German "(Zähne) fletschen", which in English means "to bare ones teeth"; he could thus be translated as "Fletscher", which fully preserves the sound and may fit in meaning better than his english name. 
+* On the other hand it reminds of the German "(Zähne) fletschen", which in English means "to bare ones teeth"; he could thus be translated as "Fletscher", which fully preserves the sound and may fit in meaning better than his English name. 
 
 
 ### Gaist
 
-* Sounds identical to the german "Geist" (ghost), based on which we could identify him with the alpha NPC "Phantom", but Gaist is an organiser in the novel, while Phantom most likely was a shadow.
+* Sounds identical to the german "Geist" (ghost), based on which we could identify him with the alpha NPC "Phantom", but Gaist is an Organiser in the novel, while Phantom most likely was a Shadow.
 * When still holding on to this possible identity, he would have to be a double agent, but this does not fit the character description and style of Gaist; therefore we prefer to conceptualise them as different characters, but this makes it difficult to translate both of them.
 * Gaist can be translated into English as "Ghost". 
 
@@ -694,7 +694,7 @@ What we will not address here is how the characters will develop in course of th
 ### Phantom 
 
 * It is related to "fantasy", from latin phantasia (“imagination”), which in turn comes from from ancient Greek φαντασία (phantasía, “apparition”), from φαντάζω (phantázō, “to render visible”), from φαντός (phantós, “visible”), from φαίνω (phaínō, “to make visible”); from the same root as φάος (pháos, “light”); ultimately from Proto-Indo-European *bʰh₂nyéti, from the root *bʰeh₂- (“to shine”). 
-* It is funny how something that means "to make visible" has ultimately turned into an illusion in form of "phantom", it is apparently visible, but not to the eyes; this ambivalent kind of meaning is the very same as in the german "Schein". Something that "erscheint" is something that is obviously seen, just as the english "shine", but it is at the same time what in english is described as "to seem" - it may as well be an illusion.
+* It is funny how something that means "to make visible" has ultimately turned into an illusion in form of "phantom", it is apparently visible, but not to the eyes; this ambivalent kind of meaning is the very same as in the German "Schein". Something that "erscheint" is something that is obviously seen, just as the english "shine", but it is at the same time what in English is described as "to seem" - it may as well be an illusion.
 * But as a nickname, "Schein" doesn't seem like a good solution. 
 * *Schein* comes from Middle High German schīn, Old High German scīn, skīn (“shine, brightness, light, ray”), from Proto-West Germanic *skīn, from Proto-Germanic *skīną. Cognate with Old Norse skína, Old Saxon scīnan, Old English sċīn (“phantom, ghost”), Dutch schijn, English shine, Gothic 𐍃𐌺𐌴𐌹𐌽𐌰𐌽 (skeinan).
 * Skeinar, das Fantom?
@@ -712,11 +712,11 @@ NPC from Finster, see Gorn.
 
 ### Gygax
 
-NPC from Finsterr. Being the most powerful druid in Tolbenland, he lives at royal court of Cranwater.
+NPC from Finster. Being the most powerful druid in Tolbenland, he lives at Royal Court of Cranwater.
 
 ### Elmore
 
-Mage/alchemist, assistant of Gygax.
+Mage/Alchemist, assistant of Gygax.
 
 
 ### Fenwick
@@ -743,7 +743,7 @@ A king in Finster, father of Lyra. He is taken by the Mad Scientists from the no
 
 > Only moments after Peace dies, King Oruc sends an assassin after Patience. She easily dispatches him and leaves the castle, stopping to visit her father's preserved head in Slaves' Hall, where the heads of the wisest people are kept alive by headworms. Since the heads are coerced to speak only the truth, Patience forces her father to divulge his darkest secrets.
 
-> Peace reveals that since Patience's birth, he had been fighting a powerful compulsion to bring her to Cranning, home of the geblings. The "Cranning Call," as it was known, drew the world's greatest thinkers and achievers to make a pilgrimage to Cranning, never to be seen or heard from again. Peace says the source of the Call is the Unwyrm, attempting to summon Patience to his lair.
+> Peace reveals that since Patience's birth, he had been fighting a powerful compulsion to bring her to Cranning, home of the geblings. The "Cranning Call", as it was known, drew the world's greatest thinkers and achievers to make a pilgrimage to Cranning, never to be seen or heard from again. Peace says the source of the Call is the Unwyrm, attempting to summon Patience to his lair.
 
 The Mad Scientists also used Cranwater as a location, "Cran" as a folk/race and Unwyrn too, being heavily inspired by the novel. 
 
@@ -754,7 +754,7 @@ The Mad Scientists also used Cranwater as a location, "Cran" as a folk/race and 
 
 ### Lyra
 
-(Lyre?) sick daughter of the king Oruc.
+(Lyre?) Sick daughter of the King Oruc.
 From Finster.
 
 
@@ -775,14 +775,14 @@ Maybe rename into Judex, based on the anti-hero of the same name.
 
 ### Balam & Omid
 
-* Cooks of the barons.
+* Cooks of the Barons.
 * *Balaam* is a biblical name of a prophet.
 * *Omid* is a persian/kurdish name meaning "hope".
 
 
 ### Russel / Rotger
 
-We choose Rotger as his german equivalent, which is an old german name, nowadays most often spelled Roettger, with spelling variations like Ruder, Rodger, Rotheger, Rotoga, Reutter and *Russer*. 
+We choose Rotger as his German equivalent, which is an old German name, nowadays most often spelled Roettger, with spelling variations like Ruder, Rodger, Rotheger, Rotoga, Reutter and *Russer*. 
 
 
 ### Snogu
