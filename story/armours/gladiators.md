@@ -145,13 +145,13 @@ Mikes scribbles that may be related
 
 ### SldL
 
-...
-
+![Garde Light in the Alpha](https://images.gothicarchive.org/artworks/npcs/Garde_light.jpg)
 
 ### SldM
 
 ![Ralfs SldM Concept](/_img/armours/sldm-concept-ralf.jpg)
-![Garde Medium in the Alpha][/_img/armours/Garde_medium.jpg]
+
+![Garde Medium in the Alpha](https://images.gothicarchive.org/artworks/npcs/Garde_medium.jpg)
 
 
 
