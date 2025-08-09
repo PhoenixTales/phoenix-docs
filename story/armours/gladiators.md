@@ -1,9 +1,9 @@
 # Gladiators
 
-**Author:** *Flosha*
-**Written:** 14.04.2024
+**Author:** *Flosha*  
+**Written:** 14.04.2024  
 
-**Sources:** Guild System V1 & V2, NSCS per Guild, Sequel Design Docs 
+**Sources:** Guild System V1 & V2, NSCS per Guild, Sequel Design Docs  
 **Status:** *work in progress*
 
 In this article we will at first only deal with the facts about the guild and its design known from the different concept sources and builds, with both the relevant background story of the guild as well as the general appearance of members of the guild (in form of the armour design). At the end of each section we will put all of it together to summarise how we will present the guild in PHOENIX. What we will not consider here are the individual characters of the guild and their role; this will be done in a character section. 
