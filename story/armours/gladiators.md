@@ -132,16 +132,16 @@ Kharim about the independence of the New Camp (1.06): "[...] You know nothing ab
 
 The armours will have to be a direct representation of the above summarised characteristics, combined with the specific conditions and limitations of their life in the colony. But let us start with the first relevant concepts. 
 
-Ralfs concepts 1
-Ralfs concepts 2
-Mikes scribbles that may be related
+Todo: Add here the early and later concepts by Ralf and scribbles by Mike that may be related and analyse them. 
 
-[AddSCreenshotofCharacterstandingwithSLD-LinArenaETC]
-
-[AddLaterGladiatorlikeconcepts]
+<!--[AddSCreenshotofCharacterstandingwithSLD-LinArenaETC]
+[AddLaterGladiatorlikeconcepts]-->
 
 
 ## Concept Differences
+
+Todo: Add here Ralfs final concept arts and describe all the differences between concept and ingame realisation and how we can improve the armours based on the concepts.
+
 
 ### SldL
 
@@ -149,13 +149,10 @@ Mikes scribbles that may be related
 
 ### SldM
 
-![Ralfs SldM Concept](/_img/armours/sldm-concept-ralf.jpg)
+<!--![Ralfs SldM Concept](/_img/armours/sldm-concept-ralf.jpg)-->
 
 ![Garde Medium in the Alpha](https://images.gothicarchive.org/artworks/npcs/Garde_medium.jpg)
 
-
-
-
 ### SldH
 
-...
+![Garde Heavy in the Alpha](https://images.gothicarchive.org/artworks/npcs/nc_guard03.jpg)
