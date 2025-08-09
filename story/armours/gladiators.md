@@ -24,7 +24,7 @@ The Guild System and Sequel docs inform us, that they...
 * protect the peasants and receive food for free
 * tolerate the ore thieves 
 * believe in the escape plan of the healing mages
-* are the *best* lower fighter's guild (better than TPL & GRD)
+* are the *best* lower fighters guild (better than TPL & GRD; the only fighters stronger than them are barons, the only "higher" fighters guild).
 * teach *all* melee fighting techniques 
 * teach healing spells lev 1-3 and "natural healing"
 * can be joined when having enough fighting experience
