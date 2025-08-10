@@ -2,6 +2,7 @@
 
 **Author:** *Flosha*  
 **Written:** 14.04.2024  
+**Last update:** 09.08.2025  
 
 **Status:** *work in progress* (Todo: Add an equipment section; which weapons do they prefer, how do they fight etc.)
 
