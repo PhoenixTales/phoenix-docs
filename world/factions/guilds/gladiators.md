@@ -4,7 +4,7 @@
 **Written:** 14.04.2024  
 **Last update:** 09.08.2025  
 
-**Status:** *work in progress* (Todo: Add an equipment section; which weapons do they prefer, how do they fight etc.)
+**Status:** *work in progress*
 
 ![Heavy Gladiator Artwork](https://images.gothicarchive.org/artworks/uwemeier/refinedmodels/Garde_hard.jpg)
 
