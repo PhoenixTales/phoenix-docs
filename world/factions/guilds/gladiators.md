@@ -19,23 +19,17 @@ They were first described as "Gladiators" on the first sketches, then as "noble 
 ## Characteristics
 
 The Guild System and Sequel docs inform us, that they...
-* hate the Outside World and are "haters of the King"
+* hate the Outside World and are "haters of the King", which is their primary characteristics; the entire faction, before receiving any other name, being characterised as the "Anti-Outside-World" faction, they hate all Outside World "sympathisers" and collaborators. 
 * are based in the New/Gladiator Camp and protect the camp, the healing mages, the free diggers (scraper's union) and the peasants by order of the mages.
 * The mages heal them for free and the they receive food for free from the peasants.
-* They only "tolerate" the ore thieves 
-* believe in the escape plan of the healing mages
-* are the *best* lower fighters guild (better than TPL & GRD; the only fighters stronger than them are barons, the only "higher" fighters guild), and they are focused on melee combat.
-* teach *all* melee fighting techniques (which means, their members use a great variety of weapons: short and long swords, one-handed axes and bigger battle axes.  
+* only "tolerate" the ore thieves. 
+* believe in the escape plan of the healing mages.
+* are the *best* fighters in the colony apart from the ore barons and it was very important to Mike to inform the player of this fact (they are the best "lower" fighters guild, better than TPL & GRD; whereas the barons are the only "higher" fighters guild).
+* teach *all* melee fighting techniques and are focused on melee combat (which means that their members use a great variety of weapons: short and long swords, one-handed axes and bigger battle axes.  
 * teach healing spells lev 1-3 and "natural healing", wherefore the demon summoner despises them as "wasting the (arcane) gift", which may suggest that the healing mages initiated some of them to a low level of magic, breaking the established rules and traditions of the clergy and myrtanian priesthood. 
 * can be joined when having enough fighting experience as the primary factor they care about apart from the right attitude.
-
-Mike deemed it important, that the player is informed, that they...
-* are the best fighters in the colony apart from the ore barons
-* hate the outside world "sympathisers" or collaborators
-
-* In Story 3.3 it is mentioned that they have a "Kodex" (when the player joins the guild), Lee says: "From now on you are subject to our code to death. There is no more going back for you [...]"
-
-* According to *NPCs per Guild*, they were originally supposed to consist of 24 people. 8 of them at most were meant to have the above-mentioned basic healing skills given by the mages. The remaining 16 were not meant to have any magical capabilities. 
+* have a "Kodex"; when the player joins the guild, Lee says: "From now on you are subject to our code to death. There is no more going back for you [...]" (mentioned in Story 3.3)
+* were originally supposed to consist of 24 people (according to *NPCs per Guild*). 8 of them at most were meant to have the above-mentioned basic healing skills given by the mages, the remaining 16 were not meant to have any magical capabilities. 
 
 
 ### Relationships
