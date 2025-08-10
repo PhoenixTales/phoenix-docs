@@ -20,16 +20,14 @@ They were first described as "Gladiators" on the first sketches, then as "noble 
 
 The Guild System and Sequel docs inform us, that they...
 * hate the Outside World and are "haters of the King"
-* are based in the New/Gladiator Camp and protect the camp
-* protect the healing mages and are healed for free
-* protect the free diggers by order of the mages
-* protect the peasants and receive food for free
-* tolerate the ore thieves 
+* are based in the New/Gladiator Camp and protect the camp, the healing mages, the free diggers (scraper's union) and the peasants by order of the mages.
+* The mages heal them for free and the they receive food for free from the peasants.
+* They only "tolerate" the ore thieves 
 * believe in the escape plan of the healing mages
-* are the *best* lower fighters guild (better than TPL & GRD; the only fighters stronger than them are barons, the only "higher" fighters guild).
-* teach *all* melee fighting techniques 
-* teach healing spells lev 1-3 and "natural healing"
-* can be joined when having enough fighting experience
+* are the *best* lower fighters guild (better than TPL & GRD; the only fighters stronger than them are barons, the only "higher" fighters guild), and they are focused on melee combat.
+* teach *all* melee fighting techniques (which means, their members use a great variety of weapons: short and long swords, one-handed axes and bigger battle axes.  
+* teach healing spells lev 1-3 and "natural healing", wherefore the demon summoner despises them as "wasting the (arcane) gift", which may suggest that the healing mages initiated some of them to a low level of magic, breaking the established rules and traditions of the clergy and myrtanian priesthood. 
+* can be joined when having enough fighting experience as the primary factor they care about apart from the right attitude.
 
 Mike deemed it important, that the player is informed, that they...
 * are the best fighters in the colony apart from the ore barons
@@ -47,8 +45,7 @@ Mike deemed it important, that the player is informed, that they...
 | How? | to whom? |
 | - | - |
 | Good | Healing Mages, Halforcs | 
-| Neutral | Orethieves, Digger Bodyguards, Free Diggers, Sect Novices |
-| Bad | Mafia, -snitches, -thugs, Old Diggers, Battlemages, Sect Gurus, Evil Witcher, Free Thieves |
+| Neutral | Orethieves, Digger Bodyguards, Free Diggers, Sect Nad | Mafia, -snitches, -thugs, Old Diggers, Battlemages, Sect Gurus, Evil Witcher, Free Thieves |
 
 
 #### V2
