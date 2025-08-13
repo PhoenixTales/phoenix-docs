@@ -233,7 +233,7 @@ Or deal with items in the plot, when dealing with the exploration of specific lo
             4. Royals
                 * Royal Court
                 * Paladins
-                * [Royal Guard](/world/factions/guilds/royal-guard.md)
+                * [Royal Guard](/world/factions/guilds/royal-guard)
                 * Royal Army
             5. Law
                 * Royal Judges
