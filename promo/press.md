@@ -43,5 +43,8 @@ Soon.
 
 > **Arbax:** A new era of how and what the real World of Gothic should have been from the beginning. [...] The more I read about the story and how it progresses, the bigger and more detailed it gets, it feels like a story with such a big potential, like a Greek or Sumerian myth with intrigue and so much plot development.
 
+> **Avallach:** Regarding the Gothic Remake art design shift, I think one aspect worth pointing out is that they mistook the brutalism of Gothic I as a technical limitation rather than as a stylistic choice. Brutalism is raw, oppressive, overwhelming, severe, crude. Right at home in the Gothic 1 universe. / Flosha & Phoenix get it just right. / It's not a matter of low poly and primitive lighting. You can keep this style even with high poly and hd lighting. / It's not like that because they couldn't afford more polygons, it's a choice.
+It's the opposite of cute and inviting. Maybe opposite of humanistic. It's meant to make you feel small, alone and alienated. (24.08.2025)
+
 
   
