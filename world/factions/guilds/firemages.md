@@ -11,7 +11,6 @@ Created: 08.09.2024
 
 * Members of the Circles are (in regular cases) former monks being initiated into some of the [magic arts](). Only a small percentage of monks are allowed initiation. But sometimes a master may also initiate worthy laymen without a clerical background at his own discretion. 
 * Every initiated Mage both of the Circle of Fire and Water - at least formally - is also a Priest in the ancient sense (not so much in the christian sense). But not every Mage is actively involved in religious service in the temples of the realm. 
-* [There are no Priests of Beliar] 
 
 
 ## Livelihood & Lifestyle
