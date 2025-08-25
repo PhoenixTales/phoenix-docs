@@ -75,10 +75,9 @@ ToDo: More specific stuff like Archmages, the rank of those mages who created th
 
 
 
+## Add
 
-
-
-TO story and costume design:
+To story and costume design:
 Milten may have been a "Lehrling" in the Comic,
 but since the game he may have become an "Adept".
 Or he may become one in course of the game;
@@ -89,7 +88,9 @@ For example, a "Lehrling" may have some responsibility
 for a novice; so he serves you and you serve him. 
 But when he becomes an adept he cares more about his studies
 and you become an apprentice of Corristo yourself.
+
 ---
+
 In that case we can look at the Comic robe as an apprentice robe.
 Specific characteristics are: The leather parts are brown, not black.
 An initiate may not have any kind of clothing, or maybe just a skirt.
