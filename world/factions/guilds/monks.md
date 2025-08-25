@@ -45,6 +45,6 @@ Updated: 08.09.2024
 
 ## Inspirations
 
-![thief-intro-guards-1](/_img/thief_monk_guard-1.jpg)
-![thief-intro-guards-2](/_img/thief_monk_guard-2.jpg)
+![thief-intro-guards-1](/_img/factions/guilds/thief_monk_guard-1.jpg)
+![thief-intro-guards-2](/_img/factions/guilds/thief_monk_guard-2.jpg)
 ![monk-layers](/_img/factions/guilds/monks-1.jpg)
