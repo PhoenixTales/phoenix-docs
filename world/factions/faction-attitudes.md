@@ -4,7 +4,7 @@ In Act 1, every guild has an attitude to every other guild of the colony and eve
 
 In Act 2, we have to develop the same, in order to get a condensed overview of the relationships between the guilds and the thoughts of these guilds to specific locations. But before we deal with the attitudes of guilds, we summarise the general attitude of factions - that which the entire faction has in common in their attitude with all the other guilds or most of the guilds in that faction etc.
 
-The guild attitudes will then show more elaborared differences between the guilds of these factions, to dive a bit deeper.
+The guild attitudes will then show more elaborated differences between the guilds of these factions, to dive a bit deeper.
 
 Folk       // BDL, ARB, BTL, AUX
 Magnates   // MAF, VAG
