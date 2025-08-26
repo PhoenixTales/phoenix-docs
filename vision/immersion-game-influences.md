@@ -18,7 +18,7 @@ Raphael Colantonio wanted to make a Sequel to Ultima Underworld, but later it wo
 The main idea of Harvey Smith mailed back and forth to Warren Spector wrote back and forth how "to take Ultima Underworld and blend it with System Shock". Finally their exchange led to the creation of Deus Ex (2000), but in the first stages of development they called it "Underworld with Guns". 
 
 
-Arx Fatalis 2 was started to be developed based on the Source Engine of HL2, but was cancelled for financial reasons. Instead Arkane signed a deal with Ubisoft, where they made Dark Messiah and later - Dishonered and Prey (2017). But let's not go so far in history here. Other than that, I highly dislike the comicy, plastic-like artstyle of Dishonered. 
+Arx Fatalis 2 was started to be developed based on the Source Engine of HL2, but was cancelled for financial reasons. Instead Arkane signed a deal with Ubisoft, where they made Dark Messiah and later - Dishonored and Prey (2017). But let's not go so far in history here. Other than that, I highly dislike the comicy, plastic-like artstyle of Dishonored. 
 
 
 

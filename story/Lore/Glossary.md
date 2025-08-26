@@ -22,12 +22,12 @@ A glossary specifically for specific words used in the world of Phoenix which ar
 * *Lichtmond* (in eng. *Lightmoon*), old name for *Vollmond* (full moon). 
 * *Schwarzmond* (in eng. *Blackmoon*), old name for *Neumond* (new moon).
 * *Mime* - actor.
-* *Geheimkunst/Geheimkünste*, eng. secret art(s), summary for all magic and alchemical arts
-* Fuchsschwänzer, Schwanzfuchs, insult for a hypocryte. 
-* *Schwefelschnüffler*, insult for Xardas from Alex' story
-* *Prunksucht*, *prunksüchtig*, wird im Hinblick auf Barone etc. verwendet
-* *glanzgeil*, siehe *prunksüchtig*
-* *traumtrunken*, eng. dream-drunken, drunken from the own imagination
+* *Geheimkunst/Geheimkünste*, eng. secret art(s), summary for all magic and alchemical arts.
+* Fuchsschwänzer, Schwanzfuchs, insult for a hypocrite. 
+* *Schwefelschnüffler*, insult for Xardas from Alex' story.
+* *Prunksucht*, *prunksüchtig*, wird im Hinblick auf Barone etc. verwendet.
+* *glanzgeil*, siehe *prunksüchtig*.
+* *traumtrunken*, eng. dream-drunken, drunken from the own imagination.
 * *Grimmbart*, an old, grim guy, "der alte Grimmbart". 
 * *Schimmernacht*, ...
 * *Gewaltkuss*, 

@@ -3,25 +3,25 @@
 
 ## NPCs per Guild:
 
-Miked conceived them as being 24 people, consisting of...
+Mike conceived them as being 24 people, consisting of...
 * The "Lord-Protector": The highest guard, mission giver and a bit jealous of the dominance of the healing mages (level 6 (highest level))
 * The "Weaponmaster": Teacher of the Guard (level 5)
-* The Diplomat: Very charismatic, respected guard, keeps contact to other guilds and works as an agent for the guard (in reality: Double Agent for the Orebarons) (level 5)
+* The Diplomat: Very charismatic, respected guard, keeps contact to other guilds and works as an agent for the Guard (in reality: Double Agent for the Orebarons) (level 5)
 * The Merciless: Leads outside missions, is known for committing too brutal acts sometimes; the lord critisizes him for them again and again (level 4)
 * 4 Bodyguards: Privileged guards, who are primarily guarding the Lord (level 4), the lowest guards with healing skill; absolutely loyal
-* 12 Guards: Usual Guys (level 3) of the guard, no magic, absolutely loyal
-* 4 Knaves: Poor chased around servants of the guard; guard-recruits; constantly dreaming of being promoted to a guard (level 1).
+* 12 Guards: Usual Guys (level 3) of the Guard, no magic, absolutely loyal
+* 4 Knaves: Poor chased around servants of the Guard; guard-recruits; constantly dreaming of being promoted to a guard (level 1).
 
 
 Here add the Half-Orc section from the "NPC" document at the bottom:
-From 0.94k etc. They have Grunt. Grd has Shabak, Org has also a half-orc.
+From 0.94k etc. They have Grunt. GRD has Shabak, Org has also a half-orc.
 
 
 **Story 3.3:**
 
 It is mentioned that "Cole" is a deputy (he can give binding orders in absence of the General/Lord). The special role of Orik could be explained in the same way. Similarly it is mentioned that Grunt gives an order at some point and the order is binding. Thus Orik, Cole, Cord and Grunt have a high rank in the guild and it could be that Orik and Cole are the same. 
 
-Cord is described as having pupils that he trains and they compete in the arena of the OC. One of them defected to the Old Camp; Cord, after teaching the player, gives him a mission to go to the camp and kill him in the arena. This makes him fit the best as the "Weaponmaster" and "teacher of the guard". 
+Cord is described as having pupils that he trains and they compete in the arena of the OC. One of them defected to the Old Camp; Cord, after teaching the player, gives him a mission to go to the camp and kill him in the arena. This makes him fit the best as the "Weaponmaster" and "Teacher of the Guard". 
 
 
 
