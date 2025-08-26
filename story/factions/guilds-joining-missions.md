@@ -30,7 +30,7 @@ Snitches (STT): Admission test, when fulfilled PC is offered membership.
 
 Healing mages (KDW): PC needs to demonstrate Cure Spell. 
 
-Mercenaries (SLD): Fighter XP
+Mercenaries (SLD): Fighter XP.
 
 
 
