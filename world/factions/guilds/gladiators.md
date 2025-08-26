@@ -38,8 +38,8 @@ The Guild System and Sequel docs inform us, that they...
 
 | How? | to whom? |
 | - | - |
-| Good | Healing Mages, Halforcs | 
-| Neutral | Orethieves, Digger Bodyguards, Free Diggers, Sect Nad | Mafia, -snitches, -thugs, Old Diggers, Battlemages, Sect Gurus, Evil Witcher, Free Thieves |
+| Good | Healingmages, Halforcs | 
+| Neutral | Ore Thieves, Digger Bodyguards, Free Diggers, Sect Nad | Mafia, -Snitches, -Thugs, Old Diggers, Battlemages, Sect Gurus, Evil Witcher, Free Thieves |
 
 
 #### V2
@@ -65,7 +65,7 @@ The Guild System and Sequel docs inform us, that they...
 **What others say about them:**
 * (OC) Barons: Those peasants could have an easier life, good fighters, but not enough.
 * (OC) Thugs: Without your magic we destroy you. 
-* (OC) Snitchers: Never reveal yourself to one of those, these monsters are not willing to negotiate. 
+* (OC) Snitches: Never reveal yourself to one of those, these monsters are not willing to negotiate. 
 * (OC) Battlemages: When they wouldn't be so naive, they'd be an equal opponent.
 * (NC) Healing mages: Reliable protectors.
 * (NC) Ore thieves: Don't give me such an angry look or I'll tell it the healing mages.
