@@ -109,7 +109,7 @@ Here I translate the original handwritten notes by Mike, then summarise them in 
 First called *Junta* and internally described as a *Mafia* due to how they were supposed to feel and function, then *Orebarons*.
 
 V1 & V2 (identical): 
-* Joining conditions: Noble Mercs Lev 7, Temple Guard Lev 7, Mafia Snitcher Lev 7, Mafia Thug Lev 6+ -> Initiation Battle; PC must kill a member of the Mafia [= a Baron].
+* Joining conditions: Noble Mercs Lev 7, Temple Guard Lev 7, Mafia Snitch Lev 7, Mafia Thug Lev 6+ -> Initiation Battle; PC must kill a member of the Mafia [= a Baron].
 * MEBLAG V1: Joining the Mafia is a one-way decision; IF leaving should be possible regardless the Mafia and all their loyals (everyone with a *good* relationship) will be irreversible *sworn enemies*. / No higher guilds allowed.
 
 **Summary**: Mercenaries (NC) and Templars (PSI) can join the barons if they (1) reach the maximum level in their guild, thugs (OC Guards) can join if they reach at least level 6 and (2) if they kill a Baron in the arena. 
@@ -138,7 +138,7 @@ V1 & V2 (identical):
 The most likely way for this to happen, as they basically "take everyone", may be: The player is doing something bad in his guild like killing a member or stealing and is thrown out of the guild -> he can then still join the thugs if he has the necessary fighting XP; being thrown out of the New Camp, Psi Camp or Free Camp works to his advantage. Example Mages Apprentice: You did something wrong (morally wrong according to the circles codex), e.g. via physical violence and are thrown out of the circle and they tell you to rather join the thugs with this kind of behaviour.
 
 
-### Mafia Snitchers (STT)
+### Mafia Snitches (STT)
 
 V1:
 * Joining conditions: Admission test (mission) Lev 0, when succeeded: Offering of membership
@@ -148,7 +148,7 @@ V2:
 [We also quote their social function here as it describes an important particularity and limits of the guild's options to join another guild]  
 * Social function: Loose group. Low levels receive XP for jobs/infos to the guild master. They almost always end up as double agents, when they are caught by healing mages (which they may still need eventually) or PSI Gurus (which they cannot fool). This double cross can be maintained as long until MEBLAG is reached, then the other guilds do not want to have anything to do with them anymore. 
 * Joining Condition: Admission test: Assassination of an enemy / If PC already belongs to another guild: Assassination of a *former* guild comrade. 
-* MEBLAG: 5 for ore thieves, trappers / 3 for all else (otherwise too well known for the snitchers)
+* MEBLAG: 5 for ore thieves, trappers / 3 for all else (otherwise too well known for the snitches)
 
 **Summary**: Guildless PCs can join the snitches by a test mission in which they have to kill an enemy to prove their loyalty to the OC (not yet taking into account diverse other missions from other documents). If one belongs to another guild but wants to leave or has to leave because he is thrown out for whatever reason, he cannot have more than level 3 in that specific guild (and not more than level 1 when being an Orga) they want him to kill a former comrade in his guild to prove his loyalty; this possible switch has to happen before CH3 or 4(?).
 
@@ -158,20 +158,20 @@ But in Guild System V2 Mike turned this around. Now the Orgas as well as the Fre
 
 That said, the idea that the orga somehow should evolve into more of a fighter than the other thief guilds either seems to have been given up or not seen as relevant anymore and the maximum level for other thieves to join the shadows was raised, with a possible logic being: since they would be spies too they wouldn't necessarily be known too much. It was in this version and in this context that the double agent idea came into play. 
 
-When Mike writes "This double cross can be maintained as long until MEBLAG is reached, then the other guilds do not want to have anything to do with them anymore" - we have to assume that this should be understood as the maximum level that a shadow is allowed to have before potentially deflecting to the NC as a spy (so its the MEBLAG of Orgas) or the PSI as a Novice; it is unlikely that e.g. the Mages themselves would take such a snitcher, but they take him as an Orga when not over level 5, the same way as the Free Camp may accept them, or the Psionics as a Novice if not over level 3.
+When Mike writes "This double cross can be maintained as long until MEBLAG is reached, then the other guilds do not want to have anything to do with them anymore" - we have to assume that this should be understood as the maximum level that a shadow is allowed to have before potentially deflecting to the NC as a spy (so its the MEBLAG of Orgas) or the PSI as a Novice; it is unlikely that e.g. the Mages themselves would take such a snitch, but they take him as an Orga when not over level 5, the same way as the Free Camp may accept them, or the Psionics as a Novice if not over level 3.
 
 
 ### Secret Thieves (MST)
 
 V1:
-* Joining conditions: (Mafia Snitcher Lev 6?), Ore Thief Lev 6, Free Thief Lev 6
-* Exclusive from level: 0 (see Mafia) / The thieves guild approaches alumni of the above mentioned guilds. / No higher guilds allowed.
+* Joining conditions: (Mafia Snitch Lev 6?), Ore Thief Lev 6, Free Thief Lev 6
+* Exclusive from level: 0 (see Mafia) / The Thieves Guild approaches alumni of the above mentioned guilds. / No higher guilds allowed.
 
 V2:
-* Conditions: Snitch Lev 7, Orethief Lev 6+, Ranger Lev 6+
+* Conditions: Snitch Lev 7, Ore Thief Lev 6+, Ranger Lev 6+
 * Exclusive from level: (see above, no other guilds allowed) / (no higher guilds allowed)
 
-**Summary**: Orgas and Rangers are approached at some point by a member of the MST guild, depending on how fitting they consider him to be, offering him to join. Snitchers are too, but only if not too loyal to the Barons, that they despise (therefore written in brackets by Mike in V1). For this perhaps some sort of loyalty proof is needed. Alternatively, the shadow could as well somehow find out about the thieves guild at some point in his work, becoming a danger for them, and then either getting the option to join and betray the barons or to betray them and stay loyal to the Barons.
+**Summary**: Orgas and Rangers are approached at some point by a member of the MST guild, depending on how fitting they consider him to be, offering him to join. Snitches are too, but only if not too loyal to the Barons, that they despise (therefore written in brackets by Mike in V1). For this perhaps some sort of loyalty proof is needed. Alternatively, the shadow could as well somehow find out about the thieves guild at some point in his work, becoming a danger for them, and then either getting the option to join and betray the barons or to betray them and stay loyal to the Barons.
 
 
 ### Healing Mages (KDW)
@@ -190,12 +190,12 @@ First called the "Noble Mercs", then "Paladins", also "Gladiators", then "Guard"
 V1:
 * Joining conditions: Fighter XP
 * Exclusive from level: 1 for bad / 2 for neutral / 3 for good guild relationships
-* Important: The PC *must* be informed that the mercenaries are the *best* fighters guild (with the exception of the mafia, who he is far away from joining) and that they hate the Outside World sympathisers -> excluded from level 1.
+* Important: The PC *must* be informed that the mercenaries are the *best* fighters guild (with the exception of the Mafia, who he is far away from joining) and that they hate the Outside World sympathisers -> excluded from level 1.
 
 V2:
-* 1 Battlemages, thugs, snitchers
-* 2 novices, ore thieves
-* 3 healing mages, temple guard, rangers
+* 1 Battlemages, Thugs, Snitches
+* 2 Novices, Ore Thieves
+* 3 Healingmages, Temple Guard, Rangers
 
 **Summary**: The player just has to have a specific amount of combat experience. In V1 the joining conditions for other guilds are linked to the attitude of the Mercs towards these guilds. An approach that we probably should also take into account for other guilds. They hate the Old Camp guilds (which are meant with the Outside World sympathisers, as they cooperate with the king by bringing him their ore, the total opposite of the NC that refuses any cooperation) and exclude any OC member from joining above level 1. (In this context we could take Okyl from the Screenshot Story into account; he was a warrior, but with his rank in the guard he would not have been accepted by Lee; instead he joins the Organisation). 
 
@@ -210,12 +210,12 @@ V1:
 
 V2:
 * Joining conditions: Organise 3 ore, no matter how. 
-* Maximal allowed level of other guilds: 5 for snitchers / trappers, 3 for all else
+* Maximal allowed level of other guilds: 5 for Snitches / Trappers, 3 for all else
 
 **Summary**: While the shadows require an assassination, the Orgas want the player to be skilled in Acrobatics, Climbing or Disarm Traps. This is an important observation, as it tells a lot about the unique characteristics of these two thieves guilds in the early vision. The shadows are meant to be spies and assassins first and foremost, while the Orgas are actual thieves or "burglars", focusing on their abilities to overcome the walls of the Old Camps castle to steal ore.  
 The condition of V2, to organise 3 ore, is an additional confirmation about how much less ore was supposed to be around in the colony and how much harder the acquisition should be (the protection money was also meant to be just 3 ore).
 
-Version 1 sets the maximum joinable level for other guilds to 3, while V2 raises it to 5 for the thieves guilds of the OC and FC, analogous to the same conditions in V2 for the snitches.
+Version 1 sets the maximum joinable level for other guilds to 3, while V2 raises it to 5 for the Thieves Guilds of the OC and FC, analogous to the same conditions in V2 for the Snitches.
 
 
 ### Sect Novices (NOV)
@@ -315,11 +315,11 @@ There are no conditions mentioned. Mike wrote that they exclude all guilds above
 #### Free Diggers
 
 * Joining conditions: none
-* Exclusive from level: 1 Mafia Snitcher, Mafia thugs, Ore thieves / 3 everyone else
+* Exclusive from level: 1 Mafia Snitch, Mafia Thugs, Ore Thieves / 3 everyone else
 
-**Summary:** Just as the Old Diggers, the Free Diggers (from the FC) are also an internal guild and only mentioned in V1. While the conditions to join are described as "none", there are some exclusivities mentioned, and in their case they are not striked through. They exclude Mafia snitches and thugs (OC) and Ore thieves (from the NC) above level 1, and every other guild above 3. See "Free Thieves" above for an elaboration on that. 
+**Summary:** Just as the Old Diggers, the Free Diggers (from the FC) are also an internal guild and only mentioned in V1. While the conditions to join are described as "none", there are some exclusivities mentioned, and in their case they are not striked through. They exclude Mafia Snitches and Thugs (OC) and Ore Thieves (from the NC) above level 1, and every other guild above 3. See "Free Thieves" above for an elaboration on that. 
 
-That said, while they may not be joinable like other regular guilds, the joining conditions may be insofar of importance (for them and the Old Diggers as well), as the player may be tasked to infiltrate them at some point of the story as a Shadow or Orga, in which case he would disguise as a Free Digger (having it as a "fake guild"); and it is this which may be impossible above level 1 for Snitchers and Ore Thieves. We may come back to this in the story sections, since it suggests that the Free Camp (where the secret thieves guild has its headquarter) is very well informed and connected and knows when one joins one of the other thieves guilds, due to their informants in these other guilds, thus making the free camp extremely hard to infiltrate. 
+That said, while they may not be joinable like other regular guilds, the joining conditions may be insofar of importance (for them and the Old Diggers as well), as the player may be tasked to infiltrate them at some point of the story as a Shadow or Orga, in which case he would disguise as a Free Digger (having it as a "fake guild"); and it is this which may be impossible above level 1 for Snitches and Ore Thieves. We may come back to this in the story sections, since it suggests that the Free Camp (where the secret thieves guild has its headquarter) is very well informed and connected and knows when one joins one of the other thieves guilds, due to their informants in these other guilds, thus making the free camp extremely hard to infiltrate. 
 
 As far as learning is concerned: They would teach the player how to setup some traps, how to disarm some traps and some ranged combat. This shows again the original character of the Free Diggers (later "Scraper's Union"), which left the OC, among other reasons, for the lack of protection, deciding to protect themselves. While the "Bodyguards" and the "Rangers" where also an idea for the Free Camp of this same time in the conception phase, they obviously were not meant to be the only armed guilds in the camp and the mine. 
 
