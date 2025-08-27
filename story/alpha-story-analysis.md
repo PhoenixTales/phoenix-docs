@@ -96,7 +96,8 @@ In v3.3 of the story, the exploration progression correlates with the chapters i
 
 The main story writers consisted of Mike Hoge (who at that point, as far as we know, after outlining the essence of the main story, focused more on general game design and let others work on the development of that story, giving feedback on what they came up with), Stefan Nyul (who was main responsible for the specifics of all the chapters after Chapter 1, on which Mike focused most) and Matthias Filler. Additional story writers were Carsten Kißlat, Steffen Rühl, Jörg Bütow (he focused on the development of the New Camp; almost nothing of his work ended up in the game), Florian Jacobi and Navid Vahdat. No one else in the team was involved in the development of the Story. 
 
-We consider it necessary to point out once again, that Björn Pankratz, so often associated with the creation of Gothic or even as one of the "fathers" of Gothic by mistake, had *nothing* to do neither with the creation of the setting, nor the story, nor the world of the original Gothic. {: .subtext }
+We consider it necessary to point out once again, that Björn Pankratz, so often associated with the creation of Gothic or even as one of the "fathers" of Gothic by mistake, had *nothing* to do neither with the creation of the setting, nor the story, nor the world of the original Gothic. 
+{: .subtext }
 
 In story version 3 (and perhaps in V2 already) they introduced a system of dividing missions into Priority 1 and Priority 2 missions. 
 
