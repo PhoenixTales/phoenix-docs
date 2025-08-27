@@ -186,8 +186,12 @@ The later story approach from 1999 to 2000 goes alongside a change in the level 
 
 The underground Orccity still existed and the portal to the Ancient Temple was still meant to be found here, but the entrance to it was now put to the Surface and the separate Orc Graveyard with another separate access at the surface was introduced. The idea of an interconnected underworld with every level section being deeper and below the one before, in which the player was meant to proceed from the Surface to the Mines, from the Mines to the Natural Caves, from the Natural Caves to the Orc Caves and from the Orc Caves to the Temple, was now discarded at least to a substantial degree.
 
-
-
+What was added here:
+* The idea of the liberation party of the Old Camp in Chapter 1, in which an assassin tries to kill Gomez, but fails.
+* The idea of the classes was already gone to some degree, but the player was still meant to be able to join the mages from the beginning.
+* It was now clear that it was about the eggs of the minecrawler queen; they may have been part of earlier iterations already but it is here that they are specifically mentioned for the first time of all the documents we have access to.
+* After the great prayer/ritual in Chapter 2, the templars would now go to the "nearby" Orc Cave just as in the release version, which turns out to be an orc graveyard. The entire story around the power struggle between Angar and Kalom, Y'Berions assassination and the drug shortage etc. were no longer part of the story. But in difference to the release story the psionics were now meant to prepare for another mass meditation in the main hall of the graveyard.
+* In fear of the events following the great prayer of the Sect, the mages send the player to the demon summoner for the first time, but to no avail, as he rejects him. 
 
 
 <!--
