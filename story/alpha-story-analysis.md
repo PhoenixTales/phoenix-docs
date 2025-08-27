@@ -152,7 +152,17 @@ What was not yet present in this iteration and was not yet planned either (these
 
 ### Story Abstract as of May 1999
 
-[Add here the story from the table in the Main Mission doc?]
+The next available iteration of the story is found in a table in the Phoenix Mission document that we released on the Archive during our Gothic 20th Anniversary Month in 2021. The chapters are not given particular names here. 
+
+Chapter 1 remained conceptually the same.
+
+Chapter 2 did not change (just guild specific details changed or were added), except for two particular changes: 
+* A "first" crawler queen was introduced, which was meant to be found in Chapter 2 and be important for the ritual at the end of the chapter, as in the release story; but the other Crawler Queen was still meant to exist and play a role in the next chapter, as in Story 3. 
+* While developing the demon summoner further, they had the idea that he is a fire mage (this is the reason that in the release version of Gothic, Xardas is still using the KDF instance). During chapter 2 he would conduct experiments with demon summoning in the prison of the Castle. After a failed assassination attempt by a Shadow due to these experiments, the Demon Summoner leaves the Old Camp and errects the tower in which he lives from Chapter 3 onwards.  
+
+Chapter 3. In this chapter the Queen from Story 3 is found, it isn't killed but "milked". Another addition of this version is that the aftet the collapse of the Old Mine, the OC starts to work in the Abandoned Mine again. As an OC loyal player the player was meant to be involved in the preperation of the attack on the Free Mine. At the end of the chapter Kalom dies as in one of the possible outcomes in Story 3, during the OCs attack on the New Camp, in which the Psi Camp is also involved. But this frontal attack is only a distraction from the main attack on the Free Mine from behind. Other than that, the basic outline of the chapter remained the same. 
+
+Chapter 4: 
 
 
 ## Phoenix (1999-2000)
