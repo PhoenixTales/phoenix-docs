@@ -1,7 +1,7 @@
 # Alpha Story
 
 **Author:** Flosha  
-**Written:** 02.09.2023 - /
+**Written:** 02.09.2023 - 27.08.2025
 
 In order to analyse the original story concept of Gothic we have to differentiate between different phases of development. In course of time there were several iterations of the story that in the beginning evolved organically until the point of no return, where it had to be scrapped and was redone in the last couple of months in order to finish the game under the pressure of the publisher and time. The story was changed and reduced to such a degree, that the former story authors were confused and wondered what happened to the story when playing the final game. By summarising and comparing the narrative as it evolved until it was cut down to a fraction of it's original scope, we will be able to (1) point out the most comprehensive and profound iteration of the story and (2) clearly see whatever valuable is to be found in other iterations, (3) in order to harmonise the best of all in Phoenix; which is summarised in [Phoenix Story]().
 
@@ -208,6 +208,18 @@ Both the Orc Assault and Nemesis couldn't be realised. The OrcCity and all the s
 ## Phoenix Story
 
 The Phoenix story of Act I (chapter 1-6) is easily summarised. It is meant to contain everything that the Orpheus concept contained, everything of Story v3, based on the associated most complete version of the game world and interconnected underworld, while adding in the reasonable additions from the summarising table from 1999 and the early 2000 story that are not in conflict with the original level structure; thus only completing the Story 3 where it was lacking in aspects that were meant to be added anyway, such as the involvement in the plan of the watermages.
+
+
+<div class="authorship">
+    <img src="/_img/authors/flosha-sm.png" alt="Flosha">
+    <p>
+        <strong>Author:</strong> Flosha<br>  
+        <em>Creative Director</em><br>  
+        <br>
+        <strong>Written:</strong> 02.09.23 - 27.08.25
+    </p>
+</div>
+
 
 <!--
 
