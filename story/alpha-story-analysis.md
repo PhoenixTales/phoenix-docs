@@ -51,16 +51,16 @@ While the most important story arcs were defined (and some of these most importa
 
 ## Phoenix (1997-1999)
 
-The story described here is based on the earliest available story document, described as "Story 3.3", given to us in 2022. The Orpheus story outlined before can roughly be described as the "Story Version 1". That said, there was a story version 2 inbetween and we don't know anything about that. Perhaps it was just a transitional stage between the two without much or any additional information. But there is at least one difference we know of. In this stage the story was divided into chapters and at first there were supposed to be five. Thus we assume that the Story V2 can be identified with the story hinted at in the [Phoenix Pitch](), which mentions five chapters, while Story 3.3 has already six. 
+The next iteration of the story that we will describe below is based on the earliest available story document, described as "Story 3.3", given to us in 2022. The Orpheus story outlined before can roughly be described as the "Story Version 1". That said, there was a story version 2 inbetween and we don't know anything about it, other than that it was a transitional stage between the two, probably without much or any additional information. But there is at least one difference we know of. In V2 the story was divided into chapters and at first there were supposed to be five. Thus we assume that the Story V2 can be identified with the story hinted at in the [Phoenix Pitch](https://bin.gothicarchive.org/documents/phoenix/PhoenixPitch.pdf), which mentions five chapters, while Story 3.3 has already six. 
 
-The document is internally described as "Zusammenfassung Story-Meeting 27", that means, it is a summary of the 27th story meeting. The document was created in November 21th of 1995(!) and was updated last in May 24th of 1999[*]. 
+The document is internally described as "Zusammenfassung Story-Meeting 27" (summary of the 27th story meeting). The document was created in November 21th of 1995(!) and was updated last in May 24th of 1999[*]. 
 
-[*] People keep saying that Gothic was in development for about 3 or so years, because it was 1998 that the ZenGin was started to be developed and the actual production, in a technical sense, went from 1998 to 2001 or the end of 1997, to be precise. But this only refers to the stage of development under the working title *Phoenix*. If the whole conception phase and the *Orpheus* stage is taken into account, then the development has started as early as 1995 and in this sense Gothic was in development for at least 5 years.
+[*] People keep saying that Gothic was in development for about 3 or so years, because it was 1998 that the ZenGin was started to be developed and the actual production, in a technical sense, went from 1998 (or the end of 1997, to be precise) to 2001. But this only refers to the stage of development under the working title *Phoenix*. If the whole conception phase and the *Orpheus* stage is taken into account, then the development has started as early as 1995 and in this sense Gothic was in development for at least 5 years.
 {: .subtext }
 
 It is a document that was updated and evolved in the course of many years. Earlier iterations are most likely lost (unless some dev may still have an older backup), because the document was just constantly overwritten for years. A version control system was not yet in use. 
 
-We cannot say for sure whether or not the addition of a sixth chapter was accompanied by the addition of any actual story content or if - and we assume so - it was mostly a structural change. As seen above, we can already find all the important story arcs in the Orpheus concept (and even more - like the rebellion against the Barons which was either discarded, neglected or forgotten in later iterations); thus we do not think that there were any major changes in the story between Story V2 and Story V3. It seems that it was not much about what would happen, but why, about motivations, pacing and so on, because the Orpheus fragments raised many open questions in this regard. 
+We cannot say for sure whether or not the addition of a sixth chapter was accompanied by the addition of any actual story content or if - and we assume so - it was mostly a structural change. As seen above, we can find all the important story arcs in the Orpheus concept already (and even more - like the rebellion against the Barons which was either discarded, neglected or forgotten in later iterations); thus we do not think that there were any major changes in the story between Story V2 and Story V3. It seems that it was not that much about *what* would happen, but *why*. It was about motivations, pacing and so on. 
 
 Story 3.3 consists of the following chapters (the English translation is from us): 
 
@@ -73,15 +73,15 @@ Story 3.3 consists of the following chapters (the English translation is from us
 | Chapter 5 | Orc Assault          | Orksturm            |
 | Chapter 6 | Nemesis              | Nemesis             |
 
-The very different chapter names compared to the release version of the story are not a mere stylistic difference, but a reflection of the very different story that was developed at the time. 
+The different chapter names compared to the release version of the story are not a mere stylistic difference, but a reflection of the different story with that was developed at the time. It may seem like a more elaborated version of the same story, but there are major differences in *focus* and themes. 
 
-Alongside the chapters and the story progression, the player character progresses through six corresponding levels of his character automatically. That means the player is always on level 2 in chapter 2, on level 4 in chapter 4 and so on, with a maximum level of either 6 or 7, based on the earliest documents. This sort of character progression was not linked to the experience he gains, but simply to the story progress. 
+Alongside the chapters and the story progression, the player character progresses through six corresponding levels of his character automatically, which we may summarise as the "(character) level progression". That means the player is always on level 2 in chapter 2, on level 4 in chapter 4 and so on, with a maximum level of either 6 or 7, based on the earliest documents. This sort of character progression was not linked to the experience he gains, but simply to the story progress, due to the story-driven approach. 
 
 ---
 
-Another crucial aspects of the story, by which we can roughly structure it, is by which parts of the world are going to be explored in which chapter, which we can summarise as the "level progression". The progression through the levels of the game world goes along the story progression. The player has to access specific levels in order to progress in the story and has to progress in the story in order to access specific levels, as we have described them in /levelstructure. This version of the story corresponds exactly to the early Phoenix levelstructure with the four temple levels, as described in said document. 
+Another crucial aspects of the story, by which we can roughly structure it, is by which parts of the world are going to be explored in which chapter, which we may summarise as the "(world) exploration progression". The progression through the game world goes along the progression through the story. The player has to access specific levels (world parts) in order to progress in the story and has to progress in the story in order to access specific levels, as we have described them in [/world/levelstructure](/world/level-structure). This version of the story corresponds exactly to the early Phoenix levelstructure with the four temple levels, as described in said document. 
 
-In v3.3 of the story, the level progression correlates with the chapters in the following way:
+In v3.3 of the story, the exploration progression correlates with the chapters in the following way:
 
 | CH | Accessible Locations  |
 |----|-----------------------|
@@ -117,6 +117,13 @@ One shouldn't deduce from the above that there isn't much written about the firs
 
 
 [Add: Here summary of the Story 3.3 + comparison to the Orpheus story, how it evolved from there, what remained, what changed, what was removed]
+
+### Story 3 <> Story 1
+
+The Orpheus fragments provided a rough framework of what was meant to happen, while it was still unclear how and why all of that would be going on. Story v2 and v3 
+
+
+
 
 
 ### Story Abstract as of May 1999
