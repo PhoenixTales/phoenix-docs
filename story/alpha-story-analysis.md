@@ -157,20 +157,40 @@ The next available iteration of the story is found in a table in the Phoenix Mis
 Chapter 1 remained conceptually the same.
 
 Chapter 2 did not change (just guild specific details changed or were added), except for two particular changes: 
-* A "first" crawler queen was introduced, which was meant to be found in Chapter 2 and be important for the ritual at the end of the chapter, as in the release story; but the other Crawler Queen was still meant to exist and play a role in the next chapter, as in Story 3. 
+* A "first" crawler queen was introduced, which was meant to be found in Chapter 2 in the Old Mine (still using the model of what they would later use as the Free Mine) and be important for the ritual at the end of the chapter, as in the release story; but the other Crawler Queen was still meant to exist and play a role in the next chapter, as in Story 3. 
 * While developing the demon summoner further, they had the idea that he is a fire mage (this is the reason that in the release version of Gothic, Xardas is still using the KDF instance). During chapter 2 he would conduct experiments with demon summoning in the prison of the Castle. After a failed assassination attempt by a Shadow due to these experiments, the Demon Summoner leaves the Old Camp and errects the tower in which he lives from Chapter 3 onwards.  
 
-Chapter 3. In this chapter the Queen from Story 3 is found, it isn't killed but "milked". Another addition of this version is that the aftet the collapse of the Old Mine, the OC starts to work in the Abandoned Mine again. As an OC loyal player the player was meant to be involved in the preperation of the attack on the Free Mine. At the end of the chapter Kalom dies as in one of the possible outcomes in Story 3, during the OCs attack on the New Camp, in which the Psi Camp is also involved. But this frontal attack is only a distraction from the main attack on the Free Mine from behind. Other than that, the basic outline of the chapter remained the same. 
+Chapter 3. In this chapter the Queen from Story 3 is found in the natural caves, it isn't killed but "milked". Another addition of this version is that the aftet the collapse of the Old Mine, the OC starts to work in the Abandoned Mine again. As an OC loyal player the player was meant to be involved in the preperation of the attack on the Free Mine. At the end of the chapter Kalom dies as in one of the possible outcomes in Story 3, during the OCs attack on the New Camp, in which the Psi Camp is also involved. But this frontal attack is only a distraction from the main attack on the Free Mine from behind. Other than that, the basic outline of the chapter remained the same. 
 
-Chapter 4: 
+Chapter 4: The NC wants to re-conquer the Free Mine with the help of the Orcs. The New Camp secretly starts an alliance with the Orcs; guards from the New Camp wear specific helmets from now on with a mark by which the orcs recognise and respect them as allies. This version of the story introduced the so called Orcish Prophecies as an important story thread. It is by learning about and by the fulfillment of the prophecies that the player character will get access to the temple (but also drive the Orcs out to the Surface due to their fear in reaction to the prophecies being fulfilled). It was meant to be unclear whether the player character is somehow "elected" to do so or if he simply fulfills them by choice and for pragmatical reasons; depending on his choosen guild one or the other perspective seems more likely. The attack of the Orcs and the NC on the Free Mine to re-conquer the mine happens simultaneously to the opening of the Ancient Temple by behalf of the psionics. The player character is already in the area in front of the temple at that point. As the mine is being conquered, a shaman enters the stage and brings the shocking message, that the temple has been opened. The alliance is over. The orcs feel betrayed. Orc storm.
+
+Chapter 5. The New Camp loses many men and seeks alliance with the Old Camp now in order to survive and fight against the Orcs at the surface together. After the player character has explored the first temple level, the psionics enter the stage and explore the temple. In course of the story the player character will be the first to enter a specific temple area in some way or another and be able to explore it first, but thereby he also opens up the path for the sect to go deeper and deeper into the temple and the player has to deal with them; by opening up further areas and allowing them access to the temple he is unknowingly helping the awakening of the Sleeper. 
+
+Chapter 6. This chapter is excluded in the table and wasn't dealt with here. 
+
+As we see, this version of the story did not bring any major changes to the story, it seemed to keep everything intact that had been developed in Story 3 so far, just summarising it in a much more condensed manner in table form. It *added* some aspects like...
+* the demon summoner as a fire mage who goes into exile in chapter 2
+* the first crawler queen in chapter 2
+* the alliance between Orcs and New Camp in chapter 4
+* the orcish prophecies as an essential part of the story, in course of the fulfillment of which the temple would be opened   
+But it does not contain anything that would *conflict* with the version of the story presented before. 
+
+But all the aspects mentioned in the summary of Story v3, that were still lacking, are also still lacking here. 
 
 
 ## Phoenix (1999-2000)
 
-The "Main Mission" document was apparently created at July 17th in 2000 and last updated in September 17th 2000. They were trying to finalise the story as late as September 2000, if not for longer, but at least an important part of the document has to be of an earlier date and was most likely copied from another document. Therefore we can distinguish two different story approaches with a few differences within the same document. 
+The "Main Mission" document was apparently created at July 17th in 2000 and last updated in September 17th 2000. They were trying to finalise the story as late as September 2000, if not for longer, but at least an important part of the document has to be of an earlier date and was most likely copied from another document (this is the table dealt with above). Therefore we can distinguish two different story approaches with a few differences within the same document. 
+
+The later story approach from 1999 to 2000 goes alongside a change in the level structure of the world and is the stage that we describe as the "first cuts". 
+
+The underground Orccity still existed and the portal to the Ancient Temple was still meant to be found here, but the entrance to it was now put to the Surface and the separate Orc Graveyard with another separate access at the surface was introduced. The idea of an interconnected underworld with every level section being deeper and below the one before, in which the player was meant to proceed from the Surface to the Mines, from the Mines to the Natural Caves, from the Natural Caves to the Orc Caves and from the Orc Caves to the Temple, was now discarded at least to a substantial degree.
 
 
 
+
+
+<!--
 
 *Is there something behind why you were thrown into the prison, or will it be revealed further into the story?*
 [Tom Putzki]: Of course there is a reason...but at the beginning of the game the player doesn't know anything about it - the only thing he is absolutely sure about is: He is innocent. For more information you have to play the game ;-)
@@ -182,9 +202,11 @@ The "Main Mission" document was apparently created at July 17th in 2000 and last
 TODO:
 * Add Psychic Barrier.
 * Add the Four Crystals of Trazere pictures and intro text.
+-->
 
 
 
+<!--
 
 **You are thrown in the prison**
 
@@ -215,3 +237,5 @@ Something yet sleeping soon will awaken.
 And an evil grin, unseen by living eyes, shows the knowledge that its human pray on the surface won't escape.
 
 ---
+
+--> 
