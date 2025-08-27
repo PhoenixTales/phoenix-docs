@@ -191,7 +191,15 @@ What was added here:
 * The idea of the classes was already gone to some degree, but the player was still meant to be able to join the mages from the beginning.
 * It was now clear that it was about the eggs of the minecrawler queen; they may have been part of earlier iterations already but it is here that they are specifically mentioned for the first time of all the documents we have access to.
 * After the great prayer/ritual in Chapter 2, the templars would now go to the "nearby" Orc Cave just as in the release version, which turns out to be an orc graveyard. The entire story around the power struggle between Angar and Kalom, Y'Berions assassination and the drug shortage etc. were no longer part of the story. But in difference to the release story the psionics were now meant to prepare for another mass meditation in the main hall of the graveyard.
-* In fear of the events following the great prayer of the Sect, the mages send the player to the demon summoner for the first time, but to no avail, as he rejects him. 
+* In fear of the events following the great prayer of the Sect, the mages send the player to the demon summoner for the first time, but to no avail, as he rejects him.
+* The flooded Old Mine was still meant to be accessed as in Story 3. 
+* In Chapter 3 the escape plan of the watermages was finally introduced; after the player was involved in the plans of the Sect in Chapter 2 he would now be involved in the plans of the watermages. The idea was that the player had to find specific items (later focus stones) and that all the mages (fire and water mages) of the colony had to be present in order to perform their ritual. Depending on his guild the player was meant to be involved in different ways; since the Free Mine would only be attacked at the end of the chapter, the relationship between OC and NC was still stable; one of the possible guild specific missions involved visiting the fire mages and convincing them to help.
+* The idea of the killing of the fire mages was introduced in this version of the story. It is is ordered by Gomez exactly for this reason: The firemages decide to help the water mages with their ritual. Gomez and the barons do not want the barrier gone; what is a prison to most is their only protection from the royal forces and the warrantor of their power and the ore business. Thus Gomez secretly orders to kill the mages. They are crucified.
+* 
+
+
+
+
 
 
 <!--
