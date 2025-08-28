@@ -433,11 +433,11 @@ Regarding Gothic: I currently am working on a 2-player-splitscreen-coop-plugin f
 
 ---  
 
-![Silas](/appendix/behind-the-scenes/team/silas.png)
+![Silas](/appendix/behind-the-scenes/team/silas.jpg)
 
 ### Silas Serdar
 
-// Act 2, Supportive Story Writer
+// Act 2 Writer
 {: .second-comment }
 
 #### Who are you?
