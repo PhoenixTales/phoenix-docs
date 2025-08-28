@@ -109,6 +109,8 @@ Basically there should have been no missions that have no kind of relation to th
 One shouldn't deduce from the above that there isn't much written about the first chapter. On the contrary, the first chapter takes up about a third of the entire story 3.3 document with its 6 chapters. 
 {: .subtext }
 
+Due to this structure we will focus on the Prio 1 missions, but necessarily have to mention *some* of the Prio 2 missions too. The majority of Prio 2 missions cannot be mentioned and explained here, as we would lose sight of the main plot in question. They are part of what we call the guild plots and will be dealt with in the respective documents.
+
 
 ### Summary of Story 3
 
