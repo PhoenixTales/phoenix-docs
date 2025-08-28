@@ -205,7 +205,7 @@ While it added a few important aspects to the story that were lacking in former 
 
 ## Release Story
 
-The release story then from the end of 2000 to 2001 was an incomplete fracture of the already stripped-down story above. 
+The release story then from the end of 2000 to 2001 was a fraction of the already stripped-down story above. 
 
 Both the Orc Assault and Nemesis couldn't be realised. The OrcCity and all the story around the Orcs and the prophecy wasn't included. The killing of the firemages had no good reason anymore. OMFull and FMTaken were fused into a single event, with the collapse of the mine not even linked to the psi ritual anymore and so on and so on. The cuts were legion. The release story insofar as it diverted from this last iteration of the story above that at least still contained all the five story events, added nothing new, it only removed major aspects of the story in order to finish a game that was very, very close to being cancelled. 
 
