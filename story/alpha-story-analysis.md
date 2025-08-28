@@ -3,7 +3,7 @@
 **Author:** Flosha  
 **Written:** 02.09.2023 - 27.08.2025
 
-In order to analyse the original story concept of Gothic we have to differentiate between different phases of development. In course of time there were several iterations of the story that in the beginning evolved organically until the point of no return, where it had to be scrapped and was redone in the last couple of months in order to finish the game under the pressure of the publisher and time. The story was changed and reduced to such a degree, that the former story authors were confused and wondered what happened to the story when playing the final game. By summarising and comparing the narrative as it evolved until it was cut down to a fraction of it's original scope, we will be able to (1) point out the most comprehensive and profound iteration of the story and (2) clearly see whatever valuable is to be found in other iterations, (3) in order to harmonise the best of all in Phoenix; which is summarised in [Phoenix Story]().
+In order to analyse the original story concept of Gothic we have to differentiate between different phases of development. In course of time there were several iterations of the story that in the beginning evolved organically until about 1999. In 2000 the story was started to be cut partially alongside drastic changes of the game world and the overall concept (giving up on the immersive Sim approach to the four classes), until the point of no return at the end of 2000, where both the world and the story experienced the most dramatical cuts and was almost completely redone in the last couple of months in order to finish the game under the pressure of the publisher and time. The story was changed and reduced to such a degree, that the former story authors were confused and wondered what happened to the story when playing the final game. By summarising and comparing the narrative as it evolved until it was cut down to a fraction of it's original scope, we will be able to (1) point out the most comprehensive and profound iteration of the story and (2) clearly see whatever valuable aspect is to be found in other iterations, (3) in order to harmonise the best of all in Phoenix; which will be summarised in [Phoenix Story]().
 
 We distinguish between the following versions or iterations of the Story.
 
@@ -24,38 +24,38 @@ What was there from the very first concept:
 
 * Earthquakes and visions happen that are thought to be related with the Magical Barrier.
 * A Psi drug related with Minecrawler secretion is essential and widespread both among humans and orcs to resist the madness.
-* There are escape plans, only supposed to be revealed to the player in course of the story.
+* There are escape plans, supposed to be revealed to the player in course of the story.
 * The player experiences horrific visions of the Sleeper throughout the game and has a vision in a dream.
 * He is lured into the camp of the psionics early on in the story to be involved in their plans (later "PrepareRitual" event). 
 * The Psi Mages cause a madness wave in a mass ritual to awaken the Sleeper; earthquakes accompany the madness waves, resulting in the Old Mine being flooded (later "OmFull" event).
 * A vision in the fire during the ritual: A dead paladin is seen in the ancient temple behind a door, that was besieged by the Undead, he has a weapon with him that can harm the Sleeper (later Uriziel). 
-* In consequence of the ritual the Old Mine cannot deliver Ore anymore; thus at some point the Old Camp raids the Free Camp. New Camp and Old Camp turn hostile (later "FmTaken" event).
-* The Magic Barrier is in disorder; according to the Demon Evocator everyone is in danger.
+* In consequence of the ritual the Old Mine cannot deliver ore anymore; thus at some point the Old Camp raids the Free Camp. New Camp and Old Camp turn hostile (later "FMTaken" event).
+* The Magic Barrier is in disorder; according to the Demon Summoner everyone is in danger.
 * There is a magic amulet that has to be acquired to help against Madness, to come closer than ten meters to the (psychic) Barrier without becoming mad (not defined why; perhaps to research the Barrier and what is going on).
 * At some point in the story there was supposed to be a mass event in form of a revolt against the Barons, summarised in the sentence "Down with the Orebarons".
 * The Sleeper was supposed to sleep at the foot of the Barrier on a platform from stone. 
-* At some point, the Sleeper awakens.
-* Upon the threat of the awakening Sleeper, the Orcs flee to the Surface through the Free Mine; the New Camp is tarnished (later "OrcAssault" event).
+* At some point the Sleeper awakens.
+* Upon the threat of the awakening Sleeper the Orcs flee in shock to the Surface through the Free Mine; the New Camp is tarnished (later "OrcAssault" event).
 * The surface is unsafe and the orcs "use" the marketplace (exchange place) for some reason.
 * Open fights between the camps; the relationships go down resulting in chaos and overarching mutual killing sprees, secretly driven by the progressively more intense psi waves of the Sleeper that drives the whole Colony insane (later "Nemesis" event).
 * In some way the player enters the temple and tries to reach the deepest levels.
 * There is a Hood of a High Priest (undefined whether orcish or human, but most likely orcish) to protect from the wrath of the Sleeper, which would be given as a reward (undefined by whom, but apparently by the Priest himself as a reward for killing a specific powerful undead creature, such as the dragon below).
-* But an Undead Dragon or a dragon-like creature (it was not decided) blocks the way in a defile on the path to the Sleeper. 
+* But an Undead Dragon or a dragon-like creature (it was not decided what exactly it would be) blocks the way in a defile on the path to the Sleeper. 
 * Thus a weapon has to be found that enables to destroy the Undead.
 * The player acquires the weapon from the vision in the Paladin's Cave in the Temple, kills the dragon and somehow banishes the Sleeper.
 
-This was all part of the earliest iteration of the story. What was not yet included at this point or at least not yet mentioned in the documents available to us are the Minecrawler Queen (MCQ); the specifics of the player's involvement in the plans of the Sect and their internal struggle for power; the specifics of the player's involvement in the plan of the Watermages; the specifics of the involvement with the Demon Evocator and his role (it is also not clear if he was supposed to be part of the battlemages at the start (as was the case in a later iteration) or if he was living in his Demontower right from the beginning of the game, which is more likely); the specifics of how the player would get into the Orc Caves and the temple and what he would do there; and diverse connections of these different threads. 
+This was all part of the earliest iteration of the story. What was not yet included at this point or at least not yet mentioned in the documents available to us are the Minecrawler Queen (MCQ); the specifics of the player's involvement in the plans of the Sect and their internal struggle for power; the specifics of the player's involvement in the plan of the Watermages; the specifics of the involvement with the Demon Summoner and his role (it is also not clear if he was supposed to be part of the battlemages (later firemages) at the start (as was the case in a later iteration) or if he was living in his Demontower right from the beginning of the game, which is more likely); the specifics of how the player would get into the Orc Caves and the Temple and what he would do there; and diverse connections of these different threads. 
 
-While the most important story arcs were defined (and some of these most important story arcs were either not realised at all (to the regret of the developers, not because they rejected them) or heavily condensed), it was not yet sure what would lead to what and for which reason. Chapters were not yet introduced. 
+While the most important story arcs were defined (and some of these most important story arcs were either not realised at all (often to the regret of the developers, not because they rejected them) or heavily condensed), it was not yet sure what would lead to what and for which reason. Chapters were not yet introduced. 
 
 
 ## Phoenix (1997-1999)
 
-The next iteration of the story that we will describe below is based on the earliest available story document, described as "Story 3.3", given to us in 2022. The Orpheus story outlined before can roughly be described as the "Story Version 1". That said, there was a story version 2 inbetween and we don't know anything about it, other than that it was a transitional stage between the two, probably without much or any additional information. But there is at least one difference we know of. In V2 the story was divided into chapters and at first there were supposed to be five. Thus we assume that the Story V2 can be identified with the story hinted at in the [Phoenix Pitch](https://bin.gothicarchive.org/documents/phoenix/PhoenixPitch.pdf), which mentions five chapters, while Story 3.3 has already six. 
+The next iteration of the story that we will describe below is based on the earliest available story document, described as "Story 3.3", given to us and published by us in 2022. The Orpheus story outlined before can roughly be described as the "Story Version 1". That said, there was a story version 2 in between and we don't know anything about it, other than that it was a transitional stage between the two, probably without much or any additional information. But there is at least one difference we know of. In V2 the story was divided into chapters and at first there were supposed to be five. Thus we assume that the Story V2 can be identified with the story hinted at in the [Phoenix Pitch](https://bin.gothicarchive.org/documents/phoenix/PhoenixPitch.pdf), which mentions five chapters, while Story 3.3 has already six. 
 
 The document is internally described as "Zusammenfassung Story-Meeting 27" (summary of the 27th story meeting). The document was created in November 21th of 1995(!) and was updated last in May 24th of 1999[*]. 
 
-[*] People keep saying that Gothic was in development for about 3 or so years, because it was 1998 that the ZenGin was started to be developed and the actual production, in a technical sense, went from 1998 (or the end of 1997, to be precise) to 2001. But this only refers to the stage of development under the working title *Phoenix*. If the whole conception phase and the *Orpheus* stage is taken into account, then the development has started as early as 1995 and in this sense Gothic was in development for at least 5 years.
+People keep saying that Gothic was in development for about 3 or so years, because it was 1998 that the ZenGin was started to be developed and the actual production, in a technical sense, went from 1998 (or the end of 1997, to be precise) to 2001. But this only refers to the stage of development under the working title *Phoenix*. If the whole conception phase and the *Orpheus* stage is taken into account, then the development has started as early as 1995 and in this sense Gothic was in development for at least 5 years.
 {: .subtext }
 
 It is a document that was updated and evolved in the course of many years. Earlier iterations are most likely lost (unless some dev may still have an older backup), because the document was just constantly overwritten for years. A version control system was not yet in use. 
@@ -73,13 +73,13 @@ Story 3.3 consists of the following chapters (the English translation is from us
 | Chapter 5 | Orc Assault          | Orksturm            |
 | Chapter 6 | Nemesis              | Nemesis             |
 
-The different chapter names compared to the release version of the story are not a mere stylistic difference, but a reflection of the different story with that was developed at the time. It may seem like a more elaborated version of the same story, but there are major differences in *focus* and themes. 
+The different chapter names compared to the release version of the story are not a mere stylistic difference, but a reflection of the different story that was developed at the time. It may seem like a more elaborated version of the same story, but there are major differences in *focus* and themes. 
 
-Alongside the chapters and the story progression, the player character progresses through six corresponding levels of his character automatically, which we may summarise as the "(character) level progression". That means the player is always on level 2 in chapter 2, on level 4 in chapter 4 and so on, with a maximum level of either 6 or 7, based on the earliest documents. This sort of character progression was not linked to the experience he gains, but simply to the story progress, due to the story-driven approach. 
+Alongside the chapters and the story progression the player character progresses through six corresponding levels of his character automatically, which we may summarise as the "(character) level progression". That means the player is always on level 2 in chapter 2, on level 4 in chapter 4 and so on, with a maximum level of either 6 or 7, based on the earliest documents. This sort of character progression was *not* linked to EXPs, but simply to the story progress, due to the story-driven approach. 
 
 ---
 
-Another crucial aspects of the story, by which we can roughly structure it, is by which parts of the world are going to be explored in which chapter, which we may summarise as the "(world) exploration progression". The progression through the game world goes along the progression through the story. The player has to access specific levels (world parts) in order to progress in the story and has to progress in the story in order to access specific levels, as we have described them in [/world/levelstructure](/world/level-structure). This version of the story corresponds exactly to the early Phoenix levelstructure with the four temple levels, as described in said document. 
+Another crucial aspect, by which the story is roughly structured, is by which parts of the world are going to be explored (become accessible) in which chapter, which we may summarise as the "(world) exploration progression". The progression through the game world goes alongside the progression through the story. The player has to access specific levels (world parts) in order to progress in the story and has to progress in the story in order to access specific levels, as we have described them in [/world/levelstructure](/world/level-structure). This version of the story corresponds exactly to the early Phoenix levelstructure with the four temple levels, as described in said document. 
 
 In v3.3 of the story, the exploration progression correlates with the chapters in the following way:
 
@@ -96,7 +96,7 @@ In v3.3 of the story, the exploration progression correlates with the chapters i
 
 The main story writers consisted of Mike Hoge (who at that point, as far as we know, after outlining the essence of the main story, focused more on general game design and let others work on the development of that story, giving feedback on what they came up with), Stefan Nyul (who was main responsible for the specifics of all the chapters after Chapter 1, on which Mike focused most) and Matthias Filler. Additional story writers were Carsten Kißlat, Steffen Rühl, Jörg Bütow (he focused on the development of the New Camp; almost nothing of his work ended up in the game), Florian Jacobi and Navid Vahdat. No one else in the team was involved in the development of the Story. 
 
-We consider it necessary to point out once again, that Björn Pankratz, so often associated with the creation of Gothic or even as one of the "fathers" of Gothic by mistake, had *nothing* to do neither with the creation of the setting, nor the story, nor the world of the original Gothic. 
+We consider it necessary to point out once again, that Björn Pankratz, so often associated with the creation of Gothic, even described as one of the "fathers" of Gothic, had *nothing* to do neither with the creation of the setting, nor the story, nor the world of the original Gothic. 
 {: .subtext }
 
 In story version 3 (and perhaps in V2 already) they introduced a system of dividing missions into Priority 1 and Priority 2 missions. 
@@ -104,13 +104,13 @@ In story version 3 (and perhaps in V2 already) they introduced a system of divid
 * Priority 1 are main missions, that bring the story forward. 
 * Priority 2 are guild related missions that relate to the main missions either directly or indirectly.
 
-There should have been no missions at all that have no kind of relation to the story and thus no kind of relevance and urgency in relation to the main missions; they are all connected to it in some kind of way. The first and second chapters for instance do not contain any Prio 1 missions. While it is clear that he wants to escape from the prison, the first chapter serves the orientation of the player in the prison world, before he can even plan the escape. The implicit goal is to join a guild, which initiates chapter 2, in which the preparation of the Psi-Ritual begins (PrepareRitual). 
+Basically there should have been no missions that have no kind of relation to the story, no kind of relevance and urgency in relation to the main missions; they are all connected to it in some kind of way. The first and second chapters for instance do not contain any Prio 1 missions. While it is clear that he wants to escape from the prison, the first chapter serves the orientation of the player in the prison world, before he can even plan the escape. The implicit goal is to join a guild, which initiates chapter 2, in which the preparation of the Psi-Ritual begins (PrepareRitual). 
 
 One shouldn't deduce from the above that there isn't much written about the first chapter. On the contrary, the first chapter takes up about a third of the entire story 3.3 document with its 6 chapters. 
 {: .subtext }
 
 
-### Story 3.3 Story Summary in as short terms as possible
+### Story 3.3 Story Summary
 
 1. "Orientation phase": Player can explore the camps and mines, only side missions (Priority 2). Goal: JoinGuild = Player Lvl 2 & Initiation of Chapter 2.
 
