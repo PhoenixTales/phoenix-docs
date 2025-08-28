@@ -433,6 +433,54 @@ Regarding Gothic: I currently am working on a 2-player-splitscreen-coop-plugin f
 
 ---  
 
+![Silas](/appendix/behind-the-scenes/team/silas.png)
+
+### Silas Serdar
+
+// Act 2, Supportive Story Writer
+{: .second-comment }
+
+#### Who are you?
+I am a passionate storyteller, who works as an author on diverse mods and own projects as well. I’m also a trained actor, who does voice acting for modifications, English and German like wise.
+
+#### How did you come to Phoenix Tales?
+By coincidence. I saw Floshas last updates on the Phoenix-Project. After reading the latest updates and seeing the new Khorinis, I thought to myself: I want to contribute to this massive project.
+
+#### Why do you love Gothic so much?
+Gothic has this unique style and worldbuilding, which makes it different from other worlds like D&D, Middle-Earth and co. It’s grounded, the language is simple and direct, and the World has only two main humanoid races. Furthermore, the setting of the Mine Valley is unique and yet simple. 
+
+#### What do you do in the project?
+I’m an author for side stories and characters. First, I concept them, then, when they are green lit, I write their questlines.
+
+#### What are your favorite camps and guilds in Gothic/Phoenix?
+In Nemesis the demon hunters and the Varantians won my heart. While the demon hunters are these cool looking bad asses, who are very webbed into the main plot, the Varantians are diverse in their cast of leaders and members. As an author you can do much with them, giving several faces to this faction.
+
+#### What are your favorite games?
+Well, let's see...
+* Divinity: Original Sin 2
+* Pillars of Eternity I
+* Ghost of Tsushima
+* Fallout New Vegas
+* Sekiro
+* The Sands of Time-Trilogy of “Prince of Persia”
+
+The list is very long… 
+
+#### What is your favourite music?
+Geez. Where should I start? ;P
+Joke aside: My main source of favorite Music are the Soundtracks of Movies, Series and Games. They are not only a catalysator for my fantasy and spirit, but also a good drive to write characters, their quests or building my worlds and settings.  
+Aside these tracks I listen also to 80’s J-Pop, several tracks, which inspires me or cultural music from across the world. Especially the Music-Youtuber Farya Faraji makes a lot of different cultural and historic tracks, which I find wonderfully diverse and fitting depending on the story I’m working on.
+
+#### Any books you would like to recommend?
+I heartly recommend the Series around the Thief “Locke Lamora” by Scott Lynch. Not only is the setting of a fantasy Venice or renaissance refreshing. This world invites us to get immersed, let alone the colorful cast of thieves and scoundrels. Especially Locke Lamora and his partner are such delightful main characters, of whom I want to see more.  
+...  
+Excuse me. I must re-read the published three novels of my boy Lamora now.  
+
+#### What do you do other than that?
+When not working for diverse modifications, including Phoenix, I write and build new worlds and settings for different media. Parallel I’m drawing my own creation or concept arts of mod-ideas of my own, among them “The Fall of Jharkendar”.
+
+---
+
 ## Honorary Members
 
 ![Dmitriy](/appendix/behind-the-scenes/team/phantom.jpg)
