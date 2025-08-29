@@ -76,7 +76,7 @@ Story 3.3 consists of the following chapters (the English translation is from us
 
 The different chapter names compared to the release version of the story are not a mere stylistic difference, but a reflection of the different story that was developed at the time. It may seem like a more elaborated version of the same story, but there are major differences in *focus* and themes. 
 
-Alongside the chapters and the story progression the player character progresses through six corresponding levels of his character automatically, which we may summarise as the "(character) level progression". That means the player is always on level 2 in chapter 2, on level 4 in chapter 4 and so on, with a maximum level of either 6 or 7, based on the earliest documents. This sort of character progression was *not* linked to EXPs, but simply to the story progress, due to the story-driven approach. 
+Alongside the chapters and the story progression the player character progresses through six corresponding levels of his character automatically, which we may summarise as the "(character) level progression". That means the player is always on level 2 in chapter 2, on level 4 in chapter 4 and so on, with a maximum level of either 6 or 7, based on the earliest documents. This sort of character progression was *not* linked to EXPs, but simply to the story progress, due to the [story-driven approach](/mechanics/storydriven). 
 
 ---
 
