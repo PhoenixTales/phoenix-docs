@@ -2,7 +2,7 @@
 
 **Author:** Flosha  
 **Written:** 02.09.2023 - 27.08.2025  
-**Last update:** 28.08.2025
+**Last update:** 29.08.2025
 
 In order to analyse the original story concept of Gothic we have to differentiate between different phases of development. In course of time there were several iterations of the story that in the beginning evolved organically until about 1999. In 2000 the story was started to be cut partially alongside drastic changes of the game world and the overall concept (giving up on the immersive Sim approach to the four classes), until the point of no return at the end of 2000, where both the world and the story experienced the most dramatical cuts and was almost completely redone in the last couple of months in order to finish the game under the pressure of the publisher and time. The story was changed and reduced to such a degree, that the former story authors were confused and wondered what happened to the story when playing the final game. By summarising and comparing the narrative as it evolved until it was cut down to a fraction of it's original scope, we will be able to (1) point out the most comprehensive and profound iteration of the story and (2) clearly see whatever valuable aspect is to be found in other iterations, (3) in order to harmonise the best of all in Phoenix; which will be summarised in [Phoenix Story]().
 
@@ -52,7 +52,7 @@ While the most important story arcs were defined (and some of these most importa
 
 ## Phoenix (1997-1999)
 
-The next iteration of the story that we will describe below is based on the earliest available story document, described as "Story 3.3", given to us and published by us in 2022. The Orpheus story outlined before can roughly be described as the "Story Version 1". That said, there was a story version 2 in between and we don't know anything about it, other than that it was a transitional stage between the two, probably without much or any additional information. But there is at least one difference we know of. In V2 the story was divided into chapters and at first there were supposed to be five. Thus we assume that the Story V2 can be identified with the story hinted at in the [Phoenix Pitch](https://bin.gothicarchive.org/documents/phoenix/PhoenixPitch.pdf), which mentions five chapters, while Story 3.3 has already six. 
+The next iteration of the story that we will describe below is based on the earliest available story document, described as "Story 3.3", given to us and published by us in 2022. The Orpheus story outlined before can roughly be described as the "Story Version 1" (if not "zero"). That said, there was at least a story version 2 in between and we don't know anything about it, other than that it was a transitional stage between the two, probably without much or any additional information. But there is at least one difference we know of. In V3 the story was already divided into chapters and we know that at first there were supposed to be five. Thus we assume that the Story V2 can be identified with the story hinted at in the [Phoenix Pitch](https://bin.gothicarchive.org/documents/phoenix/PhoenixPitch.pdf), which mentions five chapters, while Story 3.3 has already six. 
 
 The document is internally described as "Zusammenfassung Story-Meeting 27" (summary of the 27th story meeting). The document was created in November 21th of 1995(!) and was updated last in May 24th of 1999[*]. 
 
@@ -94,7 +94,8 @@ In v3.3 of the story, the exploration progression correlates with the chapters i
 | 6  | Ancient Temple Lvl 3-4 |
 
 
-The main story writers consisted of Mike Hoge (who at that point, as far as we know, after outlining the essence of the main story, focused more on general game design and let others work on the development of that story, giving feedback on what they came up with), Stefan Nyul (who was main responsible for the specifics of all the chapters after Chapter 1, on which Mike focused most) and Matthias Filler. Additional story writers were Carsten Kißlat, Steffen Rühl, Jörg Bütow (he focused on the development of the New Camp; almost nothing of his work ended up in the game), Florian Jacobi and Navid Vahdat. No one else in the team was involved in the development of the Story. 
+The main story writers consisted of Mike Hoge (who at that point, as far as we know, after outlining the essence of the main story, focused more on general game design and let others work on the development of that story, giving feedback on what they came up with), Stefan Nyul (who was main responsible for the specifics of all the chapters after Chapter 1, on which Mike focused most) and Matthias Filler (he focused on the Psionics most, as far as we know).  
+Additional story writers were Carsten Kißlat, Steffen Rühl, Jörg Bütow (he focused on the development of the New Camp; almost nothing of his work ended up in the game), Florian Jacobi and Navid Vahdat. No one else in the team was involved in the development of the Story. 
 
 We consider it necessary to point out once again, that Björn Pankratz, so often associated with the creation of Gothic, even described as one of the "fathers" of Gothic, had *nothing* to do neither with the creation of the setting, nor the story, nor the world of the original Gothic. 
 {: .subtext }
