@@ -1,4 +1,4 @@
-![Oberwelt_FM_bunt](https://github.com/user-attachments/assets/2f7d0ef3-ae04-40ca-8530-1386f11c4146)![freieslager](https://github.com/user-attachments/assets/a6b60c5c-d5de-4bb0-b41b-7ac25961fb36)# Free Camp
+# Free Camp
 
 *Flosha, 07.09.2025*
 
