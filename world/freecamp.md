@@ -3,8 +3,12 @@
 *Flosha, 07.09.2025*
 
 * An anarchistic camp without leaders
-* Describing itself as the "most free camp in the colony"
-* With the least rascist opinions about the orcs, in good relationship with many half-orcs 
+* They describe it themselves as the only truly FREE place in the colony
+* They are in cooperation with both the New Camp and the Sect
+* One part of the ore is given to the New Camp; another part of the ore is given to the Psi Camp for their protection and exchanged for drug ingrediences and supplies at the exchange place, see "our Free Mine is the heart of the prison" and "our hard work keeps two camps alive".
+* In the Free Camp they're the least rascist opinions about the orcs, they are in good relationship with many half-orcs.
+* According to Guilds V1 the Free Camp it hosts the headquarter of the Secret Thieves Guild (Mst), that the four friends etc. belong to.
+* It is the Camp that the protagonist in the Gothic Novel *Sleeper's Ban* joins first as a guard and keeps returning to and cooperating with and having friends in, inspite of soon joining the Organisation of the New Camp.
 
 
 ## Guilds of the Free Camp
@@ -55,7 +59,9 @@ Gothic v0.56c:
 
 Gothic 0.56c:
 * Old Mine: "Much more could be extracted from the Old Mine, but who treats their ore diggers as slaves doesn't deserve any better."
-* 
+* Free Camp: "There is only one place in the entire prison, which is truly FREE. Our Free Camp."
+* Free Mine: "Our Free mine is the heart of the prison. Our hard work keeps two camps alive."
+
 
 
 
