@@ -141,7 +141,7 @@ Gothic 0.56c:
 * Exchange Place: "Our ore is escorted by friends [Templars] to the Exchange Place and exchanged for goods there with the outside world."
 * Magic Barrier: "The other day we stumbled upon the Magic Barrier in a new tunnel."
 * New Camp: "We deliver ore to the New Camp and get protection against the orebarons and their mercenary henchmen."
-* Psi Camp: "The sect camp in the middle of the ancient swamp, provides us with good escort and guard services. But they always want to get PSI from the outside world."
+* Psi Camp: "The sect camp in the middle of the eastern swamp, provides us with good escort and guard services. But they always want to get PSI from the outside world."
 * Abandoned Mine: "Once there were the best ore sources in the Abandoned Mine. But that's over for a long time."
 
 
