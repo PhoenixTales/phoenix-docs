@@ -193,7 +193,7 @@ Has not been written.
 
 Guilds V2: 
 * Barons: "Cutthroats! They want our ore"
-* Firemages: "They'd done nothing to us"
+* Firemages: "They haven't done us anything"
 * Thugs (OC Guards): "Dumb brutal plague - good that the Guard (NC) exists"
 * Shadows: "Get the hell out of here"
 * Watermages: "Heal us for a fair price"
