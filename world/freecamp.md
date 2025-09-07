@@ -172,7 +172,7 @@ Guilds V2:
 * Barons: "Harmless"
 * Guards (OC): "Good against mine rats. For bigger dangers one needs fighters"
 * Shadows: "They would be damn good thieves"
-* Firemages: <neutral>
+* Firemages: ``<neutral>``
 * Watermages: "You have to protect our diggers"
 * Guards (NC): "For them being simple foresters they make a good job"
 * Organisation: "We can learn a lot from each other, looking forward to cooperate"
