@@ -7,18 +7,18 @@
 * The Free Camp contains the entrance to the Free Mine (the model of the Free Mine is what has later, a few months before release, been changed to be the "Old Mine", while the original Old Mine model was later used for the Free Mine; originally the Free Mine was the bigger, and deeper of the two containing the Crawler's Nest and so forth.
 * They describe it themselves as the only truly FREE place in the colony
 * They are in cooperation with both the New Camp and the Sect
-* One part of the ore is given to the New Camp; another part of the ore is given to the Psi Camp for their protection and exchanged for drug ingrediences and supplies at the exchange place, see "our Free Mine is the heart of the prison" and "our hard work keeps two camps alive".
-* In the Free Camp there are the least rascist opinions about the orcs and they're in good relationship with many half-orcs, that almost anyone else hates. 
+* One part of the ore is given to the New Camp; another part of the ore is either given to the Psi Camp or exchanged for drugs [called "PSI"] that are given to the Psi Camp (which they may process further) in return for their protection, see "our Free Mine is the heart of the prison" and "our hard work keeps two camps alive". The idea of buying drugs from the outside world was soon replaced by the idea, that the psionics produce these drugs themselves; but that doesn't make the idea obsolete, because it can be about specific drug ingrediences just as well, that can only be provided from the Outside World.
+* The Free Camp thus uses the exchange place, deals with the Outside World, may also get supplies their in exchange for their ore, which puts them into a clear, independent position from the New Camp, which has the absolute refusal of any cooperation with the Outside World as their primary characteristic; it is literally the "Anti-Outside-World-Faction"; the Free Camp is so only in parts and not as dogmatic in that regard. 
+* Originally there was meant to be a group of half-orcs in the game, at first they were thought to have their hideout in the forest near the Psi Camp, later they were thought to live in the Free Mine; in the Free Camp there are the least rascist opinions about the orcs and they're in good relationship with many half-orcs, that very many others hate, see "What has everyone against them?"
 * According to Guilds V1 they host the headquarter of the Secret Thieves Guild (Mst), that the four friends and a few others belong to.
-* It is the Camp that the protagonist in the Gothic Novel *Sleeper's Ban* joins first as a guard and keeps returning to and cooperating with and having friends in, such as Tito Tunnelspürer, inspite of soon joining the Organisation of the New Camp.
-* It was originally meant to be a camp that the player could join too, even if only as a *Scraper* and later a *Ranger* too (an additional thieves guild besides the Organisation and the Shadows), an additional bodyguard guild was soon given up.
-* No other camp suffered as much from the cuts than the Free Camp and had so many NPCs that were removed, since there was no time left to include them and the Free Mine itself more into the story as it was meant to. 19 (!) NPCs with individual names have been removed in the time between v0.94k and v1.06. Even v1.01 still contained at least 12 of them. 
+* It was an early idea that they have an escaple plan on their own: "They try to dig themselves through under the barrier, but stumble upon the hindrance of the Temple and elsewhere upon mine crawlers, a hindrance too." This idea was already discarded in Guilds V2 in about 1996. We assume that it was discarded because it didn't seem very reasonable and it's too easy to find out that the barrier is a sphere that doesn't stop at the surface. Thus it made sense to let them support the escape plan of the watermages and link the two independent camps more closely together. 
+* Interestingly, from all the camps it is the Free Camp that the protagonist in the Gothic Novel *Sleeper's Ban* joins first as a guard and keeps returning to and cooperating with and having friends in, such as Tito Tunnelspürer, inspite of soon joining the Organisation of the New Camp. And in the Game the player was meant to be able to join them too, even if only as a *Scraper* and later a *Ranger* (an additional thieves guild besides the Organisation and the Shadows), the additional bodyguard guild was soon given up, see below.
+* No other camp suffered as much from the cuts than the Free Camp and had so many NPCs that were removed, since there was no time left to include them and the Mine itself more into the story as it was meant to. 19 (!) NPCs with individual names have been removed in the time between v0.94k and v1.06. Even v1.01 still contained at least 12 of them. 
 
 
 ## Guilds of the Free Camp
 
-The Free Camp is a special case in that all of its members belong to the so called *Scraper's Union*. The Union consists primarily of *Scrapers*, but also of *Rangers* and *Bodyguards*.
-* *Scrapers* also call themselves *Free Diggers*, in opposition to the Diggers of the Old Camp, which they describe as "Slave Diggers". It is also a scraper who (inofficially) leads the camp (again opposed to the Old Camp, where the diggers are the lowest of all groups).  
+* The *Scrapers* are organised in the so called "Scrapers Union". They also call themselves *Free Diggers*, in opposition to the Diggers of the Old Camp, which they describe as "Slave Diggers". It is also a scraper who (inofficially, with non-coercive natural authority in a camp that officially is without a leader) leads the camp (again opposed to the Old Camp, where the diggers are the lowest of all groups).  
 * *Rangers*, also described as *Free Thieves*, "provide" material for the Camp; they teach the diggers to set traps, to defend themselves from the monsters in the mine; they also work as hunters at the surface to provide the camp with food (see [here a concept for them by Mike](https://images.gothicarchive.org/conceptart/mikehoge/npcs/signal-2021-02-14-120600_Fallensteller-Src.jpeg). The Rangers have been discarded in an early phase of development, but were still part of v0.56c; some former Rangers have then apparently been turned into Orgas later (such as Gjan, a protagonist in the Screenshot Story). 
 * *Bodyguards* are just independent guards working for the Free Camp, they protect the diggers primarily against the Mafia and their thugs when the Scrapers make deals at the exchange place. They also explore new cave systems in order to make sure that they're safe; they have been discarded very early on, most likely because it seemed unnecessary and confusing to have additional bodyguards, since the idea was that they are protected by templars and a few New Camp guards instead due to their alliance.  
 
@@ -138,6 +138,11 @@ Gothic 0.56c:
 * Old Mine: "Much more could be extracted from the Old Mine, but who treats their ore diggers as slaves doesn't deserve any better."
 * Free Camp: "There is only one place in the entire prison, which is truly FREE. Our Free Camp."
 * Free Mine: "Our Free mine is the heart of the prison. Our hard work keeps two camps alive."
+* Exchange Place: "Our ore is escorted by friends [Templars] to the Exchange Place and exchanged for goods there with the outside world."
+* Magic Barrier: "The other day we stumbled upon the Magic Barrier in a new tunnel."
+* New Camp: "We deliver ore to the New Camp and get protection against the orebarons and their mercenary henchmen."
+* Psi Camp: "The sect camp in the middle of the ancient swamp, provides us with good escort and guard services. But they always want to get PSI from the outside world."
+* Abandoned Mine: "Once there were the best ore sources in the Abandoned Mine. But that's over for a long time."
 
 
 ## What others say about the Scrapers
@@ -203,11 +208,6 @@ Guilds V2:
 * Diggers: "Just keep yourselves getting suppressed, weaklings"
 * Scrapers: "Our best colleagues"
 * Half-Orcs: "What has everyone against them?"
-
-
-## Escape Plan
-
-It was an early idea that they have an escaple plan on their own: "They try to dig themselves through under the barrier, but stumble upon the hindrance of the Temple and elsewhere upon mine crawlers, a hindrance too." This idea was already discarded in Guilds V2 in about 1996. We assume that it was discarded because it didn't seem very reasonable and it's too easy to find out that the barrier is a sphere that doesn't stop at the surface. Thus it made sense to let them support the escape plan of the watermages and link the two independent camps more closely together. 
 
 
 ## Camp Design
