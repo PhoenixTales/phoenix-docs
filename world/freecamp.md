@@ -15,8 +15,53 @@ The Free Camp is a special case in that all of its members belong to the so call
 * *Bodyguards* are just independent guards working for the Free Camp, they protect the diggers primarily against the Mafia and their thugs when the Scrapers make deals at the exchange place. They also explore new cave systems in order to make sure that they're safe. 
 
 
+## What others say about the Free Camp
+
+Gothic v0.56c:  
+* Folk/Diggers (OC): "The renegades in the Free Camp are only still alive because they are protected by the Guard [NC] and the templars." 
+* Peasants: "Imagine, the Free Camp is build into a big crater and almost invisible from afar."
+* Organisation: "Have you ever rummaged around the Free Camp? Do it, it can be worthwile."
+* Guards (NC): "The scrapers from the Free Camp need our protection and we need their ore."
+* Watermages: "Honest and upright, the guys from the Free Camp. One can rely on them."
+* Gurus: "The Free Camp is a symbol of independence. And together with the New Camp we make sure, that it stays that way."
+* Templars: "Have you been in the Free Camp already? It's the fenced crater in the Northwest." [the position was changed soon to the Southwest of the Colony]
+* Novices: "The Scrapers Union digs in the Free Mine for ore and exchanges it for precious PSI with the outside world. Lucky for us."
+* Firemages: "It is remarkable that the Free Camp is asserting itself against the barons."
+* Barons: "A whole pack of rebellious scrapers have nested themselves in the Free Camp."
+* Guards (OC): "Free Camp, ha. Unfree weaklings all over. Servants of the Sect and the idiots from the New Camp."
+* Shadows: "The Free Camp is quite helpless in case of an attack, isn't it?"
+* Secret Thieves Guild: "The Free Camp is in great danger. The independence is hanging there by a thread."
+
+
+## What others say about the Free Mine
+
+Gothic v0.56c:
+* Folk/Diggers (OC): "When the Free Mine was discovered, several of our ore diggers left the Old Camp and since then try it on their own." 
+* Peasants: "I would like to know how it looks like in the Free Mine."
+* Organisation: "An interesting place, this free mine. But beware of the lower level, there are all kinds of animals roaming around there." 
+* Guards (NC): "To protect the Free Mine is real back-breaking work. From below the monsters and from above the danger from the Old Camp."
+* Watermages: "Whatever may come, the Free Mine will receive protection from us."
+* Gurus: "Our templars are everyday in the Free Mine and protect it from the assaults from the Old Camp."
+* Templars: "Just recently some templars came back with deep minecrawler bites from the guard service in the Free Mine."
+* Novices: "It is said that the Free Mine contains a passage way into deeper lying, unexplored caves."
+* Firemages: "Below the Free Camp there is a relatively new tunnel system [Stollensystem], that is commonly called the 'Free Mine'".  
+* Barons: "In fact we are entitled to the Free Mine. In foreseeable time this drawback will be fixed."
+* Guards (OC): "Renegade cowards are hiding in the Free Mine."
+* Shadows: "Let's see how long the Free Mine will be protected from the Guard [NC] and the Templars."
+* Secret Thieves Guild: "Deep below the Free Mine, live big, dangerous creatures, called Orcs." 
+
+
+## What the Scrapers say about different locations
+
+Gothic 0.56c:
+* Old Mine: "Much more could be extracted from the Old Mine, but who treats their ore diggers as slaves doesn't deserve any better."
+* 
+
+
+
 ## What others say about the Scrapers
 
+Guilds V2: 
 * Barons: "Hated Renegades (scratching at the throne)"
 * Guards (OC): "Renegades"
 * Shadows: "Free wild for Ore hunt"
@@ -30,9 +75,14 @@ The Free Camp is a special case in that all of its members belong to the so call
 * Demon Summoner: "brave Creatures"
 * Secret Thieves Guild: "Fodder"
 
+Gothic 0.56c:
+* Templars: "Escorting the Scraper's Union to the Exchange place is most often connected with trouble. Those damned mercenaries [OC]."
+* Novices: "Our Templars must be damn careful when escorting the Scrapers from the Free Camp to the exchange place."
+
 
 ## What others say about the Rangers
 
+Guilds V2: 
 * Barons: "Harmless"
 * Guards (OC): "Good against mine rats. For bigger dangers one needs fighters"
 * Shadows: "They would be damn good thieves"
@@ -49,11 +99,13 @@ The Free Camp is a special case in that all of its members belong to the so call
 
 ## What the Scrapers say about others
 
+Guilds V2:  
 Has not been written.
 
 
 ## What the Rangers say about others
 
+Guilds V2: 
 * Barons: "Cutthroats! They want our ore"
 * Firemages: "They'd done nothing to us"
 * Thugs (OC Guards): "Dumb brutal plague - good that the Guard (NC) exists"
