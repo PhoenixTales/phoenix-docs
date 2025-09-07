@@ -2,21 +2,24 @@
 
 *Flosha, 07.09.2025*
 
-* An anarchistic camp without leaders
+* An anarchistic camp without leaders, called "Freies Lager" (FL), "Free Camp" (FC), also "Free Mine Camp" (FMC).
+* Originally positioned in the Northwest of the Colony, north of the New Camp; later in the Southwest, switching places with the New Camp.
+* The Free Camp contains the entrance to the Free Mine (the model of the Free Mine is what has later, a few months before release, been changed to be the "Old Mine", while the original Old Mine model was later used for the Free Mine; originally the Free Mine was the bigger, and deeper of the two containing the Crawler's Nest and so forth.
 * They describe it themselves as the only truly FREE place in the colony
 * They are in cooperation with both the New Camp and the Sect
 * One part of the ore is given to the New Camp; another part of the ore is given to the Psi Camp for their protection and exchanged for drug ingrediences and supplies at the exchange place, see "our Free Mine is the heart of the prison" and "our hard work keeps two camps alive".
-* In the Free Camp they're the least rascist opinions about the orcs, they are in good relationship with many half-orcs.
-* According to Guilds V1 the Free Camp it hosts the headquarter of the Secret Thieves Guild (Mst), that the four friends etc. belong to.
-* It is the Camp that the protagonist in the Gothic Novel *Sleeper's Ban* joins first as a guard and keeps returning to and cooperating with and having friends in, inspite of soon joining the Organisation of the New Camp.
+* In the Free Camp there are the least rascist opinions about the orcs and they're in good relationship with many half-orcs, that almost anyone else hates. 
+* According to Guilds V1 they host the headquarter of the Secret Thieves Guild (Mst), that the four friends and a few others belong to.
+* It is the Camp that the protagonist in the Gothic Novel *Sleeper's Ban* joins first as a guard and keeps returning to and cooperating with and having friends in, such as Tito Tunnelspürer, inspite of soon joining the Organisation of the New Camp.
+* It was originally meant to be a camp that the player could join too, even if only as a *Scraper* and later a *Ranger* too (an additional thieves guild besides the Organisation and the Shadows), an additional bodyguard guild was soon given up. 
 
 
 ## Guilds of the Free Camp
 
 The Free Camp is a special case in that all of its members belong to the so called *Scraper's Union*. The Union consists primarily of *Scrapers*, but also of *Rangers* and *Bodyguards*.
 * *Scrapers* also call themselves *Free Diggers*, in opposition to the Diggers of the Old Camp, which they describe as "Slave Diggers". Scrapers are the leaders of the camp (again opposed to the Old Camp, where the diggers are the lowest of all groups).  
-* *Rangers*, also described as *Free Thieves*, "provide" material for the Camp; they teach the diggers to set traps, to defend themselves from the monsters in the mine; they also work as hunters at the surface to provide the camp with food (see [here a concept for them by Mike](https://images.gothicarchive.org/conceptart/mikehoge/npcs/signal-2021-02-14-120600_Fallensteller-Src.jpeg).
-* *Bodyguards* are just independent guards working for the Free Camp, they protect the diggers primarily against the Mafia and their thugs when the Scrapers make deals at the exchange place. They also explore new cave systems in order to make sure that they're safe. 
+* *Rangers*, also described as *Free Thieves*, "provide" material for the Camp; they teach the diggers to set traps, to defend themselves from the monsters in the mine; they also work as hunters at the surface to provide the camp with food (see [here a concept for them by Mike](https://images.gothicarchive.org/conceptart/mikehoge/npcs/signal-2021-02-14-120600_Fallensteller-Src.jpeg). The Rangers have been discarded in an early phase of development, but were still part of v0.56c; some former Rangers have then apparently been turned into Orgas later (such as Gjan, a protagonist in the Screenshot Story). 
+* *Bodyguards* are just independent guards working for the Free Camp, they protect the diggers primarily against the Mafia and their thugs when the Scrapers make deals at the exchange place. They also explore new cave systems in order to make sure that they're safe; they have been discarded very early on, most likely because it seemed unnecessary and confusing to have additional bodyguards, since the idea was that they are protected by templars and a few New Camp guards instead due to their alliance.  
 
 
 ## What others say about the Free Camp
