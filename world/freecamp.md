@@ -227,5 +227,5 @@ V2 by Ralf Marczinczik (Cave Example):
 Path to the Free Camp by Ralf Marczinczik:
 ![Path-to-FMC](https://images.gothicarchive.org/conceptart/ralfmarczinczik/surface/Abschnitt_A3_Tal-vor-FM-2.jpg)
 
-Path between Free Camp and New Camp ("Rock Cemetery") by Ralf Marczicnzik:
+Path between Free Camp and New Camp ("Rock Cemetery") by Ralf Marczinczik:
 ![Path-between-FC-and-NC](https://images.gothicarchive.org/conceptart/ralfmarczinczik/surface/Oberwelt_Weg-zum-NC-Ebene-2.jpg)
