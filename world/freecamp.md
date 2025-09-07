@@ -2,7 +2,9 @@
 
 *Flosha, 07.09.2025*
 
-An anarchistic camp without leaders, describing itself as the "most free camp in the colony". 
+* An anarchistic camp without leaders
+* Describing itself as the "most free camp in the colony"
+* With the least rascist opinions about the orcs, in good relationship with many half-orcs 
 
 
 ## Guilds of the Free Camp
@@ -12,7 +14,70 @@ The Free Camp is a special case in that all of its members belong to the so call
 * *Rangers*, also described as *Free Thieves*, "provide" material for the Camp; they teach the diggers to set traps, to defend themselves from the monsters in the mine; they also work as hunters at the surface to provide the camp with food (see [here a concept for them by Mike](https://images.gothicarchive.org/conceptart/mikehoge/npcs/signal-2021-02-14-120600_Fallensteller-Src.jpeg).
 * *Bodyguards* are just independent guards working for the Free Camp, they protect the diggers primarily against the Mafia and their thugs when the Scrapers make deals at the exchange place. They also explore new cave systems in order to make sure that they're safe. 
 
-* An early idea was that they have an escaple plan on their own: "They try to dig themselves through under the barrier, but stumble upon the hindrance of the Temple and elsewhere upon mine crawlers, a hindrance too." This idea was already discarded in Guilds V2
+
+## What others say about the Scrapers
+
+* Barons: "Hated Renegades (scratching at the throne)"
+* Guards (OC): "Renegades"
+* Shadows: "Free wild for Ore hunt"
+* Firemages: "clever boys"
+* Watermages: "What can we do for you?"
+* Guards (NC): "Honest workers"
+* Organisation: "You can trust me"
+* Gurus: "Business partners"
+* Novices: "Business partners"
+* Templars: "Who wants to do something to you?"
+* Demon Summoner: "brave Creatures"
+* Secret Thieves Guild: "Fodder"
+
+
+## What others say about the Rangers
+
+* Barons: "Harmless"
+* Guards (OC): "Good against mine rats. For bigger dangers one needs fighters"
+* Shadows: "They would be damn good thieves"
+* Firemages: <neutral>
+* Watermages: "You have to protect our diggers"
+* Guards (NC): "For them being simple foresters they make a good job"
+* Organisation: "We can learn a lot from each other, looking forward to cooperate"
+* Gurus: "no problems, as long as you don't withhold our drugs" (ingrediences)
+* Novices: "Are you holding? Let me try." ("Habt ihr den Stoff? Lass mal probieren.")
+* Templars: "Who shall we protect?"
+* Demon Summoner: "Watchdogs"
+* Secret Thieves Guild: [potential candidates]
+
+
+## What the Scrapers say about others
+
+Has not been written.
+
+
+## What the Rangers say about others
+
+* Barons: "Cutthroats! They want our ore"
+* Firemages: "They'd done nothing to us"
+* Thugs (OC Guards): "Dumb brutal plague - good that the Guard (NC) exists"
+* Shadows: "Get the hell out of here"
+* Watermages: "Heal us for a fair price"
+* Guards (NC): "Help us against monsters and thugs"
+* Organisation: "They'd never dare to steal from us (or would they?)"
+* Secret Thieves Guild: ? 
+* Rangers: X
+* Gurus: "Need our ore for drugs - good business partners"
+* Novices: "No problems"
+* Templars: "They're a welcome help, only the drivel about abstinence gets on our nerves" 
+* Demon Summoners: "Scary"
+* Diggers: "Just keep yourselves getting suppressed, weaklings"
+* Scrapers: "Our best colleagues"
+* Half-Orcs: "What has everyone against them?"
+
+
+
+
+
+## Escape Plan
+
+It was an early idea that they have an escaple plan on their own: "They try to dig themselves through under the barrier, but stumble upon the hindrance of the Temple and elsewhere upon mine crawlers, a hindrance too." This idea was already discarded in Guilds V2 in about 1996, because it didn't seem very reasonable and it's too easy to find out that the barrier is a sphere that doesn't stop at the surface. 
 
 
 
