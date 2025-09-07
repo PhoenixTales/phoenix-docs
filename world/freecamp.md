@@ -30,7 +30,7 @@ Character Descriptions by Mike:
 "The Scrapers Union"  
 *20 People:*  
 
-* 1x **The Mine Inspector** ["Mineninspektor"]: former warden, who had always stood up for the prisoners; he stayed here voluntarily and has earned great respect; primary target of the shadows & Archbarons (level 6); bosom friend of "Chief", who warns him of assassinations; hires the player as bodyguard or as "rescuer" of Sniffer. 
+* 1x **The Mine Inspector** ["Mineninspektor"]: former warden, who had always stood up for the prisoners; he stayed here voluntarily and has earned great respect; primary target of the shadows & orchbarons (level 6); bosom friend of "Chief", who warns him of assassinations; hires the player as bodyguard or as "rescuer" of Sniffer. 
 * 1x **The Ore Sniffer**: Second Man in the Scrapers Union; seems to literally smell ore veins; disappears again and again for a few days in the mines and then specifies [a] new drilling direction; knows ALL the secret passages & hiding places of the mines and orc caves (level 5)
 * 1x **The Builder** ["Baumeister"]: secures new & old tunnels with support structures; repairs tools & weapons in the Free Camp; friend of "Cave-Scare" ["Höhlenschreck; a ranger] -> Cooperation (level 5)
 * 2x **Sorters** ["Sortierer"]: experienced scrapers who sort the precious ore lumps from the chopped rock (level 4)
