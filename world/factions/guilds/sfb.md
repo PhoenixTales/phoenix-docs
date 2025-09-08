@@ -2,7 +2,7 @@
 
 *Flosha, 07.09.2025*
 
-![Alpha-Scraper](https://images.gothicarchive.org/artworks/npcs/scraper_light.jpg)
+![Scraper-Inspiration](/_img/factions/guilds/scraper-inspiration-1.jpg)
 
 Guilds V1:
 * Described as *Free Diggers* ("Freie Buddler", in Guilds V1)
@@ -16,4 +16,10 @@ Guilds V1:
 
 Relationships:  
 * Guilds V1: They are in a friendly relationship with the other guilds of the Free Camp (their *Free Thieves* and *Bodyguards*). They are in a friendly relationship with the healing/water mages and the New Camp's mercenaries (but the Mercenaries themselves have a neutral relationship to them), but in a bad relationship with the *Ore Thieves* (the "Organisation" of the New Camp, because they sometimes steal ore from the Free Camp too); they also have a friendly relationship with the whole Sect, due to their ongoing cooperation with the Union (Templars protect the diggers from crawlers and get their crawler secretion on the other hand). They are in a bad relationship with the Mafia (Barons), the Mafia's Thugs (Guards) and the Mafia's spies (Shadows) and neutral to everyone else (such as the Demon Summoner, the firemages, the peasants, the Old Camp's diggers and so on.
-* 
+
+
+## Visuals
+
+Alpha Scraper with identifying scarf.
+![Alpha-Scraper](https://images.gothicarchive.org/artworks/npcs/scraper_light.jpg)
+
