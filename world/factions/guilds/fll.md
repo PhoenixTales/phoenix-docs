@@ -77,4 +77,5 @@ Some potential former Rangers have apparently been turned into Orgas later, such
 ![Ranger Concept by Mike](https://images.gothicarchive.org/conceptart/mikehoge/npcs/signal-2021-02-14-120600_Fallensteller-Src.jpeg)
 Early Ranger concept by Mike Hoge
 
-[Todo: Add Dunkle Brut armour textures]
+Among new designs of our own, we will use a [few of the designs](https://www.worldofgothic.de/?go=moddb&action=view&fileID=360&cat=22&page=26&order=0) of the cancelled "Dunkle Brut" project for which very fitting armour textures have been created.
+{: .subtext }
