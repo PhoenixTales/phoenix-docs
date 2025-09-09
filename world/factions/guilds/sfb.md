@@ -7,6 +7,7 @@
 Guilds V1:
 * Described as *Free Diggers* ("Freie Buddler", in Guilds V1)
 * "medium-sized group, have split from the Old Diggers in order to not lose half of the earnings to the Mafia" (Guilds V1)
+* before reading this article, you should read the article [/world/freecamp](/world/freecamp] first.
 
 ---
 
@@ -20,12 +21,12 @@ Guilds V1:
 * They are in a bad relationship with the *Ore Thieves* (the "Organisation" of the New Camp, because they sometimes steal ore from the Free Camp too); they are in a bad relationship with the Mafia (Barons), the Mafia's Thugs (Guards) and the Mafia's spies (Shadows).
 * They are neutral to everyone else (such as the Demon Summoner, the firemages, the peasants, the Old Camp's diggers and so on.
 
-**Guilds V2:**  
 V2 does not tell us directly if the relationship of guilds is good, bad or neutral, but it contains opinions in the form of what other guilds say about the Scrapers and what the Scrapers say about them, from which we will be able to deduce if their relationship was meant to be good, bad or neutral at the time. 
 
 In the game they differentiated this system further, in (1) friendly, (2) neutral, (3) angry and (4) hostile. 
 {: .subtext }
 
+**Guilds V2:**  
 *What others say about the Scrapers:*
 * Barons: "Hated Renegades (scratching at the throne)"
 * Guards (OC): "Renegades"
@@ -39,6 +40,11 @@ In the game they differentiated this system further, in (1) friendly, (2) neutra
 * Templars: "Who wants to do something to you?"
 * Demon Summoner: "brave Creatures"
 * Secret Thieves Guild: "Fodder"
+
+**Gothic v0.56c:**  
+* Templars: "Escorting the Scraper's Union to the Exchange place is most often connected with trouble. Those damned mercenaries [OC]."
+* Novices: "Our Templars must be damn careful when escorting the Scrapers from the Free Camp to the exchange place."
+
 
 
 ## Visuals
