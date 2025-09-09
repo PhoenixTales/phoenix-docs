@@ -45,27 +45,19 @@ The idea of the leader of the Scrapers being a former warden has at least partia
 
 
 **Gothic v0.94k:**
-* Aiko
-* Gjan
-* Lej
-* Senyan
-* Garbar
-* Mihai
-* Gornios
-* Arto
-* Threp
-* Caer
-* Kilan
-* Herek
-* Weeze
-* Dagger
-* Swiney
-* Oldman
-* Renyu
-* Cyrl
-* Carris
-* Ragna
-* Azzo
+```
+Aiko        Herek 
+Gjan        Weeze
+Lej         Dagger
+Senyan      Swiney
+Garbar      Oldman
+Mihai       Renyu
+Gornios     Cyrl
+Arto        Carris
+Threp       Ragna
+Caer        Azzo
+Kilan
+```
 
 
 ## Relationships 
@@ -80,6 +72,7 @@ V2 does not tell us directly if the relationship of guilds is good, bad or neutr
 In the game they differentiated this system further, in (1) friendly, (2) neutral, (3) angry and (4) hostile. 
 {: .subtext }
 
+---
 
 **Guilds V2** (by Mike Hoge):  
 
@@ -100,6 +93,7 @@ In the game they differentiated this system further, in (1) friendly, (2) neutra
 *What the Scrapers say about others:* 
 [Hasn't been written by Mike.]
 
+---
 
 **Gothic v0.56c:**  
 * Templars: "Escorting the Scraper's Union to the Exchange place is most often connected with trouble. Those damned mercenaries [OC]."
