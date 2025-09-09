@@ -77,20 +77,20 @@ Gothic 0.56c:
 
 ## Camp Design
 
-V1 by Mike Hoge:
 ![Free-Camp-V1](https://images.gothicarchive.org/conceptart/mikehoge/locations/freieslager.jpg)
+Free Camp (FC) V1 by Mike Hoge
 
-V2 by Ralf Marczinczik (Outside View):
 ![Free-Camp-V2-Outside](https://images.gothicarchive.org/conceptart/ralfmarczinczik/surface/Oberwelt_FM.jpg)
+FC V2 by Ralf Marczinczik (Outside View)
 
-V2 by Ralf Marczinczik (Inside View):
 ![Free-Camp-V2-Inside](https://images.gothicarchive.org/conceptart/ralfmarczinczik/surface/Oberwelt_FM_Innen.jpg)
+FC V2 by Ralf Marczinczik (Inside View)
 
-V2 by Ralf Marczinczik (Cave Example):
 ![Free-Camp-V2-Cave](https://images.gothicarchive.org/conceptart/ralfmarczinczik/surface/Oberwelt_FM_Felswohnungen.jpg)
+FC V2 by Ralf Marczinczik (Cave Example)
 
-Path to the Free Camp by Ralf Marczinczik:
 ![Path-to-FMC](https://images.gothicarchive.org/conceptart/ralfmarczinczik/surface/Abschnitt_A3_Tal-vor-FM-2.jpg)
+Path to the Free Camp by Ralf Marczinczik
 
-Path between Free Camp and New Camp ("Rock Cemetery") by Ralf Marczinczik:
 ![Path-between-FC-and-NC](https://images.gothicarchive.org/conceptart/ralfmarczinczik/surface/Oberwelt_Weg-zum-NC-Ebene-2.jpg)
+Path between Free Camp and New Camp ("Rock Cemetery") by Ralf Marczinczik
