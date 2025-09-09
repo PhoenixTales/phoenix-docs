@@ -25,9 +25,10 @@ The Rangers have been discarded in an early phase of development, but were still
 
 ## Relationships
 
-**Guilds V1** (by Mike Hoge)
-
-* 
+**Guilds V1** (by Mike Hoge)  
+* They are in a friendly relationship with...
+* They are in a bad relationship with...
+* They are in a neutral relationship with...
 
 
 **Guilds V2** (by Mike Hoge)
