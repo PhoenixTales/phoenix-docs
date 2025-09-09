@@ -145,27 +145,6 @@ Gothic 0.56c:
 * Abandoned Mine: "Once there were the best ore sources in the Abandoned Mine. But that's over for a long time."
 
 
-## What others say about the Scrapers
-
-Guilds V2: 
-* Barons: "Hated Renegades (scratching at the throne)"
-* Guards (OC): "Renegades"
-* Shadows: "Free wild for Ore hunt"
-* Firemages: "clever boys"
-* Watermages: "What can we do for you?"
-* Guards (NC): "Honest workers"
-* Organisation: "You can trust me"
-* Gurus: "Business partners"
-* Novices: "Business partners"
-* Templars: "Who wants to do something to you?"
-* Demon Summoner: "brave Creatures"
-* Secret Thieves Guild: "Fodder"
-
-Gothic 0.56c:
-* Templars: "Escorting the Scraper's Union to the Exchange place is most often connected with trouble. Those damned mercenaries [OC]."
-* Novices: "Our Templars must be damn careful when escorting the Scrapers from the Free Camp to the exchange place."
-
-
 ## What others say about the Rangers
 
 Guilds V2: 
