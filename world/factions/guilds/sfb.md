@@ -52,4 +52,4 @@ Alpha Scraper with identifying scarf.
 ## Inspirations
 
 ![Scraper-Inspiration](/_img/factions/guilds/scraper-inspiration-1.jpg)
-AI generated image of medieval miners [[source](https://goldconsul.com/gold-mining-techniques-in-medieval-europe/)]
+AI generated image of medieval miners [[src](https://goldconsul.com/gold-mining-techniques-in-medieval-europe/)]
