@@ -2,9 +2,16 @@
 
 *flosha, 09.09.2025*
 
-The Rangers, also called Trappers ("Fallensteller", short Fll) "provide" material for the Camp; they teach the diggers to set traps, to defend themselves from the monsters in the mine and work as hunters at the surface to provide the camp with food. 
+The Rangers are also called Trappers ("Fallensteller", short Fll) and "Free Thieves" (Guilds V1).
 
-The Rangers have been discarded in an early phase of development, but were still part of v0.56c; some potential former Rangers have apparently been turned into Orgas later (such as Gjan, a protagonist in the Screenshot Story which wears an Organisation armour there, but in 0.94k belongs to the Scrapers Union, or Calash, an Organiser in the Alpha hanging around in the "Old Mine", who, perhaps, was a  Ranger before, supposed to hang out in the Free Mine, a remnant of the time before the models of the two mines have been switched). 
+> The Free Thieves "provide" material for the Camp; they teach the diggers to set traps, to defend themselves from the monsters in the mine. (Guilds V1)
+
+Also work as hunters at the surface to provide the camp with food. 
+
+The Rangers have been discarded in an early phase of development, but were still part of v0.56c.
+
+Some potential former Rangers have apparently been turned into Orgas later, such as Gjan, a protagonist in the Screenshot Story which wears an Organisation armour there, but in 0.94k belongs to the Scrapers Union, or Calash, an Organiser in the Alpha hanging around in the "Old Mine", who, perhaps, was a  Ranger before, supposed to hang out in the Free Mine (a remnant of the time before the models of the two mines have been switched). 
+{: .subtext }
 
 
 ## NPCs
@@ -26,10 +33,9 @@ The Rangers have been discarded in an early phase of development, but were still
 ## Relationships
 
 **Guilds V1** (by Mike Hoge)  
-* They are in a friendly relationship with...
-* They are in a bad relationship with...
-* They are in a neutral relationship with...
-
+* They are in a friendly relationship with the Scrapers, the Free Camps Guards and the Organisation
+* They are in a bad relationship with the NC Mercenaries (for yet unknown reasons)  
+* They are in a neutral relationship with the Healing mages, the entire Old Camp and the Sect
 
 **Guilds V2** (by Mike Hoge)
 
