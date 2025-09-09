@@ -2,7 +2,7 @@
 
 *Flosha, 07.09.2025*
 
-![Scrapers Union, simplified symbol](_img/factions/guilds/IMG_20250909_090513.jpg)
+![Scrapers Union, simplified symbol](/_img/factions/guilds/IMG_20250909_090513.jpg)
 
 The *Scrapers* are organised in the so called "Scrapers Union". They also call themselves *Free Diggers* ("Freie Buddler" in Guilds V1), in opposition to the Diggers of the Old Camp, which they describe as "Slave Diggers". It is also a scraper who (inofficially, with non-coercive natural authority in a camp that officially is without a leader) leads the camp (again opposed to the Old Camp, where the diggers are the lowest of all groups).  
 > "Medium-sized group, have split from the Old Diggers in order to not lose half of the earnings to the Mafia" (Guilds V1)
