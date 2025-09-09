@@ -148,8 +148,3 @@ Alpha Scraper with identifying scarf.
 
 [ToDo: Add renderings of light, medium, heavy scraper OR just a heavy one in a mining scene with ore, union flag, blueish light etc.]
 
-
-## Inspirations
-
-![Scraper-Inspiration](/_img/factions/guilds/scraper-inspiration-1.jpg)
-AI generated image of medieval miners [[src](https://goldconsul.com/gold-mining-techniques-in-medieval-europe/)]
