@@ -25,7 +25,44 @@ The Rangers have been discarded in an early phase of development, but were still
 
 ## Relationships
 
+**Guilds V1** (by Mike Hoge)
 
+* 
+
+
+**Guilds V2** (by Mike Hoge)
+
+*What others say about the Rangers:*
+* Barons: "Harmless"
+* Guards (OC): "Good against mine rats. For bigger dangers one needs fighters"
+* Shadows: "They would be damn good thieves"
+* Firemages: ``<neutral>``
+* Watermages: "You have to protect our diggers"
+* Guards (NC): "For them being simple foresters they make a good job"
+* Organisation: "We can learn a lot from each other, looking forward to cooperate"
+* Gurus: "no problems, as long as you don't withhold our drugs" (ingrediences)
+* Novices: "Are you holding? Let me try." ("Habt ihr den Stoff? Lass mal probieren.")
+* Templars: "Who shall we protect?"
+* Demon Summoner: "Watchdogs"
+* Secret Thieves Guild: [potential candidates]
+
+*What the Rangers say about others:*
+* Barons: "Cutthroats! They want our ore"
+* Firemages: "They haven't done us anything"
+* Thugs (OC Guards): "Dumb brutal plague - good that the Guard (NC) exists"
+* Shadows: "Get the hell out of here"
+* Watermages: "Heal us for a fair price"
+* Guards (NC): "Help us against monsters and thugs"
+* Organisation: "They'd never dare to steal from us (or would they?)"
+* Secret Thieves Guild: ? 
+* Rangers: X
+* Gurus: "Need our ore for drugs - good business partners"
+* Novices: "No problems"
+* Templars: "They're a welcome help, only the drivel about abstinence gets on our nerves" 
+* Demon Summoners: "Scary"
+* Diggers: "Just keep yourselves getting suppressed, weaklings"
+* Scrapers: "Our best colleagues"
+* Half-Orcs: "What has everyone against them?"
 
 
 ## Visuals
