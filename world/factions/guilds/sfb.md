@@ -4,14 +4,10 @@
 
 [ToDo: Add renderings of light, medium, heavy scraper OR just a heavy one in a mining scene with ore, union flag, blueish light etc.]
 
-Guilds V1:
-* Described as *Free Diggers* ("Freie Buddler", in Guilds V1)
-* "medium-sized group, have split from the Old Diggers in order to not lose half of the earnings to the Mafia" (Guilds V1)
-* before reading this article, you should read the article [/world/freecamp](/world/freecamp] first.
+The *Scrapers* are organised in the so called "Scrapers Union". They also call themselves *Free Diggers* ("Freie Buddler" in Guilds V1), in opposition to the Diggers of the Old Camp, which they describe as "Slave Diggers". It is also a scraper who (inofficially, with non-coercive natural authority in a camp that officially is without a leader) leads the camp (again opposed to the Old Camp, where the diggers are the lowest of all groups).  
+> "Medium-sized group, have split from the Old Diggers in order to not lose half of the earnings to the Mafia" (Guilds V1)
 
----
-
-* According to Guild System V1 the Free Camp hosts the headquarter of the Secret Thieves Guild (Mst), that the four friends etc. belong to
+Before reading this article, you should read the article [/world/freecamp](/world/freecamp] first.
 
 
 ## Relationships 
