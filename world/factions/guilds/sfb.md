@@ -1,6 +1,6 @@
 # Scrapers Union
 
-*Flosha, 07.09.2025*
+*Flosha, 07.09.2025 - 09.09.2025*
 
 ![Scrapers Union, simplified symbol](/_img/factions/guilds/IMG_20250909_090513.jpg)
 
