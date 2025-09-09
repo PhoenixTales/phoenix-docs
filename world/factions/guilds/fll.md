@@ -10,7 +10,7 @@ Also work as hunters at the surface to provide the camp with food.
 
 The Rangers have been discarded in an early phase of development, but were still part of v0.56c.
 
-Some potential former Rangers have apparently been turned into Orgas later, such as Gjan, a protagonist in the Screenshot Story which wears an Organisation armour there, but in 0.94k belongs to the Scrapers Union, or Calash, an Organiser in the Alpha hanging around in the "Old Mine", who, perhaps, was a  Ranger before, supposed to hang out in the Free Mine (a remnant of the time before the models of the two mines have been switched). 
+Some potential former Rangers have apparently been turned into Orgas later, such as Gjan, a protagonist in the Screenshot Story which wears an Organisation armour there, but in 0.94k belongs to the Scrapers Union. Calash, an Organiser in the Alpha hanging around in the "Old Mine", who, perhaps, was a  Ranger before, supposed to hang out in the Free Mine (a remnant of the time before the models of the two mines have been switched). Perhaps Wolf too, who was once meant to be a hunter and a sort of secret werewolf even.  
 {: .subtext }
 
 
