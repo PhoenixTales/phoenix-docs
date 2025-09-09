@@ -25,22 +25,7 @@
 
 ## NPCs of the Free Camp
 
-Character Descriptions by Mike:  
-
-"The Scrapers Union"  
-*20 People:*  
-
-* 1x **The Mine Inspector** ["Mineninspektor"]: former warden, who had always stood up for the prisoners; he stayed here voluntarily and has earned great respect; primary target of the shadows & orebarons (level 6); bosom friend of "Chief", who warns him of assassinations; hires the player as bodyguard or as "rescuer" of Sniffer. 
-* 1x **The Ore Sniffer**: Second Man in the Scrapers Union; seems to literally smell ore veins; disappears again and again for a few days in the mines and then specifies [a] new drilling direction; knows ALL the secret passages & hiding places of the mines and orc caves (level 5)
-* 1x **The Builder** ["Baumeister"]: secures new & old tunnels with support structures; repairs tools & weapons in the Free Camp; friend of "Cave-Scare" ["Höhlenschreck; a ranger] -> Cooperation (level 5)
-* 2x **Sorters** ["Sortierer"]: experienced scrapers who sort the precious ore lumps from the chopped rock (level 4)
-* 10x **Scrapers** ["Schürfer"]: Workhorses; Chopping & Shoveling (level 3)
-* 5x **Carriers** ["Träger"]: Carry ore from A to B; Errand boys and girls for everything (1)
-
-The idea of the leader of the Scrapers being a former warden has at least partially been preserved, in that in the release version the leader seems to be "Okyl"; while Okyl according to the Screenshot Story was a former guard in the Old Camp; but here he was a guard under the baron's rule, after the creation of the barrier, and he stayed there for a long time (almost until the conviction of the player). Only later joining the New Camp as an organiser, liberating Gjan, together with Lares, from the bandits (Quentin's guys), and later apparently taking responsibility in the Free Camp. The original idea was different, here it was about a warden at the time before the creation of the barrier who decided to stay in the prison inspite of *knowing* about the plan to create the barrier. 
-{: .subtext }
-
----
+Scrapers, see the respective document.
 
 "The Rangers"  
 *ca. 20 People:*  
@@ -52,48 +37,6 @@ The idea of the leader of the Scrapers being a former warden has at least partia
 * 2x **Hunters**: also procure food (level 3)
 * 4x **Miners**: constantly on duty to protect their Scrapers through traps from orcs & monsters (level 3)
 * 10x **Runners**: All-purpose people with modest bow/trap skills
-
----
-
-Scrapers in 'Sleeper's Ban':  
-* Tito "Tunnelspürer"
-* Pieto "Erzfinder"
-* Jan "Erznase"
-* Laars
-* Schondar
-* Zuhl
-* Vlukk
-* Ischka
-* Rigupp[?]
-* Jojo
-* Schlangengräber
-* Alfie Einhand (Fll?)
-* Lurik (Fll?)
-
----
-
-Gothic v0.94k:
-* Aiko
-* Gjan
-* Lej
-* Senyan
-* Garbar
-* Mihai
-* Gornios
-* Arto
-* Threp
-* Caer
-* Kilan
-* Herek
-* Weeze
-* Dagger
-* Swiney
-* Oldman
-* Renyu
-* Cyrl
-* Carris
-* Ragna
-* Azzo
 
 
 ## What others say about the Free Camp
