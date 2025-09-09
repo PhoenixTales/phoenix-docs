@@ -2,7 +2,7 @@
 
 *Flosha, 07.09.2025*
 
-![Scraper-Inspiration](/_img/factions/guilds/scraper-inspiration-1.jpg)
+[ToDo: Add renderings of light, medium, heavy scraper OR just a heavy one in a mining scene with ore, union flag, blueish light etc.]
 
 Guilds V1:
 * Described as *Free Diggers* ("Freie Buddler", in Guilds V1)
@@ -20,6 +20,11 @@ Relationships:
 
 ## Visuals
 
-Alpha Scraper with identifying scarf.
 ![Alpha-Scraper](https://images.gothicarchive.org/artworks/npcs/scraper_light.jpg)
+Alpha Scraper with identifying scarf.
 
+
+## Inspirations
+
+![Scraper-Inspiration](/_img/factions/guilds/scraper-inspiration-1.jpg)
+AI generated image of medieval miners [[source](https://goldconsul.com/gold-mining-techniques-in-medieval-europe/)]
