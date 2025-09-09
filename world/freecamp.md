@@ -23,22 +23,6 @@
 * *Bodyguards* are just independent guards working for the Free Camp, they protect the diggers primarily against the Mafia and their thugs when the Scrapers make deals at the exchange place. They also explore new cave systems in order to make sure that they're safe; they have been discarded very early on, most likely because it seemed unnecessary and confusing to have additional bodyguards, since the idea was that they are protected by templars and a few New Camp guards instead due to their alliance.  
 
 
-## NPCs of the Free Camp
-
-Scrapers, see the respective document.
-
-"The Rangers"  
-*ca. 20 People:*  
-
-* 1x **Chief**: Chief ranger/trapper; member of the "masters" [secret thieves guild]; often wanders around the forest for some leader (level 6); warns his bosom friend "Mine Inspector" about assassinations.
-* 1x **Hawkeye** ["Falkenauge"]: Best archer in the whole prison; right hand of the "Chief"; weapons instructor (level 5)
-* 1x **Cave-Scare** ["Höhlenschreck"]: extremely experienced underground trap setter; instructor in traps & cave tactics (level 5)
-* 1x **the Trapper** ["Trapper"]: uses trapping to procure food (level 4)
-* 2x **Hunters**: also procure food (level 3)
-* 4x **Miners**: constantly on duty to protect their Scrapers through traps from orcs & monsters (level 3)
-* 10x **Runners**: All-purpose people with modest bow/trap skills
-
-
 ## What others say about the Free Camp
 
 Gothic v0.56c:  
@@ -86,50 +70,6 @@ Gothic 0.56c:
 * New Camp: "We deliver ore to the New Camp and get protection against the orebarons and their mercenary henchmen."
 * Psi Camp: "The sect camp in the middle of the eastern swamp, provides us with good escort and guard services. But they always want to get PSI from the outside world."
 * Abandoned Mine: "Once there were the best ore sources in the Abandoned Mine. But that's over for a long time."
-
-
-## What others say about the Rangers
-
-Guilds V2: 
-* Barons: "Harmless"
-* Guards (OC): "Good against mine rats. For bigger dangers one needs fighters"
-* Shadows: "They would be damn good thieves"
-* Firemages: ``<neutral>``
-* Watermages: "You have to protect our diggers"
-* Guards (NC): "For them being simple foresters they make a good job"
-* Organisation: "We can learn a lot from each other, looking forward to cooperate"
-* Gurus: "no problems, as long as you don't withhold our drugs" (ingrediences)
-* Novices: "Are you holding? Let me try." ("Habt ihr den Stoff? Lass mal probieren.")
-* Templars: "Who shall we protect?"
-* Demon Summoner: "Watchdogs"
-* Secret Thieves Guild: [potential candidates]
-
-
-## What the Scrapers say about others
-
-Guilds V2:  
-Has not been written.
-
-
-## What the Rangers say about others
-
-Guilds V2: 
-* Barons: "Cutthroats! They want our ore"
-* Firemages: "They haven't done us anything"
-* Thugs (OC Guards): "Dumb brutal plague - good that the Guard (NC) exists"
-* Shadows: "Get the hell out of here"
-* Watermages: "Heal us for a fair price"
-* Guards (NC): "Help us against monsters and thugs"
-* Organisation: "They'd never dare to steal from us (or would they?)"
-* Secret Thieves Guild: ? 
-* Rangers: X
-* Gurus: "Need our ore for drugs - good business partners"
-* Novices: "No problems"
-* Templars: "They're a welcome help, only the drivel about abstinence gets on our nerves" 
-* Demon Summoners: "Scary"
-* Diggers: "Just keep yourselves getting suppressed, weaklings"
-* Scrapers: "Our best colleagues"
-* Half-Orcs: "What has everyone against them?"
 
 
 ## Camp Design
