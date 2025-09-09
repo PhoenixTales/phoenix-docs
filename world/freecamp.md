@@ -2,7 +2,7 @@
 
 *Flosha, 07.09.2025*
 
-* Anarchist camp, called "Freies Lager" (FL), "Free Camp" (FC), also "Free Mine Camp" (FMC).
+* Anarchist camp, called "Freies Lager" (FL), "Free Camp" (FC), also "Free Mine Camp" (FMC), founded *before* the New Camp.  
 * Originally conceptualised to be in the Northwest of the Colony, north of the New Camp, it was soon placed in the Southwest, switching places with the New Camp, in all known versions of the game world.
 * The Free Camp contains the entrance to the Free Mine (the model of the Free Mine is what has later, a few months before release, been changed to be the "Old Mine", while the original Old Mine model was later used for the Free Mine; originally the Free Mine was the bigger, and deeper of the two containing the Crawler's Nest and so forth.
 * They describe it themselves as the only truly FREE place in the colony
