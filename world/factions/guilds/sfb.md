@@ -15,7 +15,7 @@ Before reading this article, you should read the article [/world/freecamp](/worl
 
 **Author:** Mike Hoge 
 
-**"The Scrapers Union"** 
+**"The Scrapers Union"**  
 *20 People:*  
 
 * 1x **The Mine Inspector** ["Mineninspektor"]: former warden, who had always stood up for the prisoners; he stayed here voluntarily and has earned great respect; primary target of the shadows & orebarons (level 6); bosom friend of "Chief", who warns him of assassinations; hires the player as bodyguard or as "rescuer" of Sniffer. 
