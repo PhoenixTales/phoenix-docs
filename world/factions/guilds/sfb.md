@@ -28,6 +28,7 @@ Before reading this article, you should read the article [/world/freecamp](/worl
 The idea of the leader of the Scrapers being a former warden has at least partially been preserved, in that in the release version the leader seems to be "Okyl"; while Okyl according to the Screenshot Story was a former guard in the Old Camp; but here he was a guard under the baron's rule, after the creation of the barrier, and he stayed there for a long time (almost until the conviction of the player). Only later joining the New Camp as an organiser, liberating Gjan, together with Lares, from the bandits (Quentin's guys), and later apparently taking responsibility in the Free Camp. The original idea was different, here it was about a warden at the time before the creation of the barrier who decided to stay in the prison inspite of *knowing* about the plan to create the barrier. 
 {: .subtext }
 
+---
 
 **Scrapers in 'Sleeper's Ban':**  
 * Tito "Tunnelspürer"
@@ -44,6 +45,7 @@ The idea of the leader of the Scrapers being a former warden has at least partia
 * Alfie Einhand (Fll?)
 * Lurik (Fll?)
 
+---
 
 **Gothic v0.94k:**
 ```
@@ -58,6 +60,45 @@ Arto        Carris
 Threp       Ragna
 Caer        Azzo
 Kilan
+```
+
+---
+
+**Phoenix** (wip):
+```
+XXX, "Mineninspektor" // siehe oben
+
+Tito, "Tunnelspürer" // siehe Sniffer
+Pieto, "der Erzfinder" // siehe Sniffer
+Jan, "der Erznase" // große, bläuliche Nase
+
+Aiko, "der Baumeister" // siehe oben
+
+Garbar  // Sortierer 1
+
+Mihai   // Werkzeugausgabe etc.
+
+Senyan       
+Gornios  
+Arto    
+Threp       
+Caer        
+Kilan
+Herek
+Weeze
+Dagger
+Swiney
+Oldman
+Renyu
+Cyrl
+Carris
+Azzo
+
+Gjan    // Ranger
+Lej     // Ranger
+Ragna   // Ranger
+Lurik   // Ranger
+
 ```
 
 
