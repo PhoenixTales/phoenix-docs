@@ -70,7 +70,7 @@ The idea of the leader of the Scrapers being a former warden has at least partia
 
 ## Relationships 
 
-**Guilds V1:**  
+**Guilds V1** (by Mike Hoge):  
 * They are in a friendly relationship with the other guilds of the Free Camp (their *Free Thieves* and *Bodyguards*). They are in a friendly relationship with the healing/water mages and the New Camp's mercenaries (but the Mercenaries themselves have a neutral relationship to them). They also have a friendly relationship with the whole Sect, due to their ongoing cooperation with the Union (Templars protect the diggers from crawlers and get their crawler secretion on the other hand, escort them to the exchange place and get drug ingrediences in return). 
 * They are in a bad relationship with the *Ore Thieves* (the "Organisation" of the New Camp, because they sometimes steal ore from the Free Camp too); they are in a bad relationship with the Mafia (Barons), the Mafia's Thugs (Guards) and the Mafia's spies (Shadows).
 * They are neutral to everyone else (such as the Demon Summoner, the firemages, the peasants, the Old Camp's diggers and so on.
@@ -80,7 +80,9 @@ V2 does not tell us directly if the relationship of guilds is good, bad or neutr
 In the game they differentiated this system further, in (1) friendly, (2) neutral, (3) angry and (4) hostile. 
 {: .subtext }
 
-**Guilds V2:**  
+
+**Guilds V2** (by Mike Hoge):  
+
 *What others say about the Scrapers:*
 * Barons: "Hated Renegades (scratching at the throne)"
 * Guards (OC): "Renegades"
@@ -95,10 +97,13 @@ In the game they differentiated this system further, in (1) friendly, (2) neutra
 * Demon Summoner: "brave Creatures"
 * Secret Thieves Guild: "Fodder"
 
+*What the Scrapers say about others:* 
+[Hasn't been written by Mike.]
+
+
 **Gothic v0.56c:**  
 * Templars: "Escorting the Scraper's Union to the Exchange place is most often connected with trouble. Those damned mercenaries [OC]."
 * Novices: "Our Templars must be damn careful when escorting the Scrapers from the Free Camp to the exchange place."
-
 
 
 ## Visuals
