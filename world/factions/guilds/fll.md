@@ -68,5 +68,6 @@ The Rangers have been discarded in an early phase of development, but were still
 ## Visuals
 
 ![Ranger Concept by Mike](https://images.gothicarchive.org/conceptart/mikehoge/npcs/signal-2021-02-14-120600_Fallensteller-Src.jpeg)
+Early Ranger concept by Mike Hoge
 
 [Todo: Add Dunkle Brut armour textures]
