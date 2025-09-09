@@ -1,4 +1,4 @@
-# Scrapers Union
+# Scrapers
 
 *Flosha, 07.09.2025 - 09.09.2025*
 
@@ -8,7 +8,7 @@
 The *Scrapers* are organised in the so called "Scrapers Union" ("Schürferbund"). They also call themselves *Free Diggers* ("Freie Buddler" in Guilds V1), in opposition to the Diggers of the Old Camp, which they describe as "Slave Diggers". It is also a scraper who (inofficially, with non-coercive natural authority in a camp that officially is without a leader) leads the camp (again opposed to the Old Camp, where the diggers are the lowest of all groups).  
 > "Medium-sized group, have split from the Old Diggers in order to not lose half of the earnings to the Mafia" (Guilds V1)
 
-Before reading this article, you should read the article [/world/freecamp](/world/freecamp] first.
+Before reading this article, you should read the article [/world/freecamp](/world/freecamp) first.
 
 
 ## NPCs
@@ -73,7 +73,6 @@ V2 does not tell us directly if the relationship of guilds is good, bad or neutr
 In the game they differentiated this system further, in (1) friendly, (2) neutral, (3) angry and (4) hostile. 
 {: .subtext }
 
----
 
 **Guilds V2** (by Mike Hoge):  
 
