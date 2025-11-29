@@ -1,6 +1,7 @@
 # Characters
 
-*flosha, 29.09.2024*
+*flosha, 29.09.2024*  
+*Last change: 29.11.2025*  
 
 Here we want to give an overview of all the characters of our gothic drama. We list all names in their English and their German version, according to the principle of translation of names as discussed in [/lore/nicknames](/lore/nicknames). They're structured in factions and guilds. More languages may be added later or will be appended at the end. 
 
