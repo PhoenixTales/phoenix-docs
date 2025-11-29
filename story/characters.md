@@ -302,7 +302,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 * Strider / Schneider // 
 * Gorn                // Murderer
 * Cole / Kren         // Deputy
-* Ransom / ?          // 
+* Ransom / Ranzion    // 
 * Roscoe / ?          // 
 * Lou(is) / Lud(wig)? //
 * Earthquake / ?      // 
@@ -369,7 +369,7 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Tom     | ?       |
 | Halloran | ?      |
 | Judas   | ?       |
-| Miles   | ?       |
+| Miles   | Milo     |
 | ...     |         |
 
 
