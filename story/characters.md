@@ -775,6 +775,11 @@ Maybe rename into Judex, based on the anti-hero of the same name.
 * "Nek" ist eine Anspielung auf Tod.
 
 
+### Grag
+
+Siehe Grag und Otho/Otto, Anspielung.
+
+
 ### Balam & Omid
 
 * Cooks of the Barons.
