@@ -148,15 +148,13 @@ The names of the female slaves doesn't have to be translated.
 
 
 ##### Alte Mine
-
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| Ian      | Jan        | ?             | ?           | Minen Chef       |   5   |
-| Aaron    | "          | ?             | ?           | ?                |   ?   |
-| Asghan   | "          | ?             | ?           | ?                |   ?   |
-| Brandick | Brandrich  | ?             | ?           | ?                |   ?   |
-| Drake    | ?          | ?             | ?           | Minenwache Eing. |   ?   |
-| Ulbert   | Ulbert     | ?             | ?           | Lagerhauswache   |   ?   |
+* Ian, german Jan, Minen Chef, level 5
+* Aaron, german?, Job?
+* Asghan, Minenwache Innen, weiterer Job/Rolle?
+* Brandick, german Brandrich, Job?
+* Drake, german ???, Minenwache Eing. Innen
+* Ulbert, Lagerhauswache
+* Stono, german "Kiesel/Brock", Minenwache Außen (tagsüber), abends nachts im OC
 
 
 ##### Täufer
@@ -184,7 +182,6 @@ The names of the female slaves doesn't have to be translated.
 
 | ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
 |----------|------------|---------------|-------------|------------------|-------|
-| ?        | ?          | Kiesel/Brock  | Stono       | ?                |   ?   |
 | ?        | ?          | Kindtöter     | Childkiller | ?                |   ?   |
 | ?        | ?          | ?             | Fright(ening) | ?              |   ?   |
 | Orry     | Golder     | ?             | ?           | ?                |   ?   |
