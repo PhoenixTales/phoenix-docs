@@ -164,7 +164,7 @@ The names of the female slaves doesn't have to be translated.
 | ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
 |----------|------------|---------------|-------------|------------------|-------|
 | Parik    | "          | ?             | ?           | Täufer 1         |   ?   |
-| ?        | ?          | Glatzkopf     | Baldhead    | Täufer 1         |   ?   |
+| ?        | ?          | Glatzkopf/Glatze | Baldhead    | Täufer 1         |   ?   |
 | ?        | ?          | der Lispler   | ?           | Täufer 3         |   ?   |
 | ?        | ?          | der Nurrba    | the Nurrba  | ?                |   ?   | 
 | ?        | ?          | der Huegoth   | the Huegoth | ?                |   ?   | 
@@ -184,6 +184,7 @@ The names of the female slaves doesn't have to be translated.
 
 | ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
 |----------|------------|---------------|-------------|------------------|-------|
+| ?        | ?          | Kiesel/Brock  | Stono       | ?                |   ?   |
 | ?        | ?          | Kindtöter     | Childkiller | ?                |   ?   |
 | ?        | ?          | ?             | Fright(ening) | ?              |   ?   |
 | Orry     | Golder     | ?             | ?           | ?                |   ?   |
@@ -205,7 +206,7 @@ The names of the female slaves doesn't have to be translated.
 ENGLISH / DEUTSCH // ROLE(S)
 
 SECRET             // "Der Unsichtbare", Leader
-Dark(man) / Finster   // "Der Assassine"
+Dark(man) / Finster // "Der Assassine"
 Viper / ?          // Meuchler 1
 Snogu / ?          // Meuchler 2
 ?                  // Meuchler 3
@@ -214,7 +215,7 @@ Phantom / ?        // Spy 1
 Nimble(finger)     // Spy 2, "Flinkhand"
 Reese / Rhys       // Spy 3
 Fingers? / ?       // "...", Masterthief
-Dexter / ?         // "Der Hehler"
+Dexter/Dex         // "Der Hehler"
 Sly / List         // Snitch 1
 Whistler / Pfeifer // Snitch 2
 Raoul / Ralf?      // Snitch 3
