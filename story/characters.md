@@ -191,6 +191,7 @@ The names of the female slaves doesn't have to be translated.
 | ?        | ?          | Schlange      | Snake       | ?                |   ?   |
 | ?        | ?          | Kralle        | Talon       | ?                |   ?   |
 
+* Sharp(blade), maybe Sharper, German "Schärfer"
 
 
 #### Shadows
@@ -301,9 +302,11 @@ ENGLISH / DEUTSCH // ROLE(S)
 * Ransom / Ranzion    // 
 * Roscoe / ?          // 
 * Lou(is) / Lud(wig)? //
-* Earthquake / ?      // 
+* (Earth)Quake / ?    // 
 * Vlad / ?            //
 ```
+
+* Quake, German "Zitter". 
 
 
 #### Organisation
