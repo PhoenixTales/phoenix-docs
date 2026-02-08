@@ -159,13 +159,11 @@ The names of the female slaves doesn't have to be translated.
 
 ##### Täufer
 
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| Parik    | "          | ?             | ?           | Täufer 1         |   ?   |
-| ?        | ?          | Glatzkopf/Glatze | Baldhead    | Täufer 1         |   ?   |
-| ?        | ?          | der Lispler   | ?           | Täufer 3         |   ?   |
-| ?        | ?          | der Nurrba    | the Nurrba  | ?                |   ?   | 
-| ?        | ?          | der Huegoth   | the Huegoth | ?                |   ?   | 
+* Parik (Täufer 1)
+* Baldhead, German Glatzkopf/Glatze, Polish Glaca (Täufer 2)
+* Der Lispler, English ???, Polish ??? (Täufer 3)
+* Der Nurrba (Tribe), Nickname unsure in all languages
+* Der Huegoth (Tribe), Nickname unsure in all languages
 
 
 ##### Convoy
