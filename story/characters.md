@@ -67,13 +67,11 @@ The names of the female slaves doesn't have to be translated.
 
 ##### Castle 
 
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| Mort     | ?          | ?             | ?           | Gefängniswache 1 |   ?   |
-| ?        | ?          | Drücker       | Bullit      | ?                |   ?   |
-| ?        | ?          | Kipp?         | Skip        | Waffenausgabe    |   ?   |
-| Garak    | "          | ?             | ?           | Hofwache/Mauer   |   ?   |
-| ?        | ?          | der Stein     | Stone       | Schmied          |   ?   |
+* Stone, German "Steiner", Polish Skała, Smith in the OC Castle
+* Garak, same in all versions, Guard at the Castle Wall and Court
+* Skip, German "Kipp", Polish ???, Waffenausgabe
+* Bullit, German "Drücker"(?), Polish ???, ...
+* Mort, German ???, Polish ???, Prison Guard 1
 
 
 ##### Outside Ring 
@@ -154,7 +152,7 @@ The names of the female slaves doesn't have to be translated.
 * Brandick, german Brandrich, Job?
 * Drake, german ???, Minenwache Eing. Innen
 * Ulbert, Lagerhauswache
-* Stono, german "Kiesel/Brock", Minenwache Außen (tagsüber), abends nachts im OC
+* Stono, german "Kiesel/Brock", Polish Głaz, Minenwache Außen (tagsüber), abends nachts im OC
 
 
 ##### Täufer
@@ -192,7 +190,8 @@ The names of the female slaves doesn't have to be translated.
 | ?        | ?          | Kralle        | Talon       | ?                |   ?   |
 
 * Sharp(blade), maybe Sharper, German "Schärfer"
-
+* Hawk(eye), German Adler(auge), Polish Jastrząb, Scout, Crossbow
+ 
 
 #### Shadows
 
@@ -219,6 +218,8 @@ Grag / Greo        // Snitch 4
 Diego?             // Bote, "der Dieb"
 Shad(ow) / ?       // "Kontakter"
 ```
+
+* Phantom, German Fantom, Polish Zjawa 
 
 
 #### OC Folk 
