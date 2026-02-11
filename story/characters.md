@@ -317,8 +317,8 @@ Shabak       // Half-Orc, Carrier
 | Reese       | Rhys        | ???        |
 | Fingers     | Finger      | Rączka     |
 | Dexter/Dex  | ???         | ???        |
-| Sly         | List        | ???        |
-| Whistler    | Pfeifer     | ???        |
+| Sly         | List        | Zły        |
+| Whistler    | Pfeifer     | Świstak    |
 | Raoul       | ?? Ralf?    | ???        |
 | Grag        | Greo        | ???        |
 | Diego       | "           | "          |
