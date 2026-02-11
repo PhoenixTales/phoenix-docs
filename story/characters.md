@@ -1,11 +1,14 @@
 # Characters
 
 *flosha, 29.09.2024*  
-*Last change: 29.11.2025*  
+*Last change: 11.02.2026*  
 
-Here we want to give an overview of all the characters of our gothic drama. We list all names in their English and their German version, according to the principle of translation of names as discussed in [/lore/nicknames](/lore/nicknames). They're structured in factions and guilds. More languages may be added later or will be appended at the end. 
+Here we want to give an overview of all the characters of our gothic drama. We list all names in their English, German and Polish version, according to the principle of translation of names as discussed in [/lore/nicknames](/lore/nicknames). They're structured in factions and guilds. More languages may be added later. 
 
-"Characters" is the story-equivalent to "NPCs" in the game mechanics section. While in NPCs we have described how NPCs function internally in an abstract way, here they are in their concrete expression as characters in the game. 
+After listening all the NPCs we offer an NPC short *description*, based on (1) what we know about them from all the sources and (2) what we can additionally derive via reflections about their names, be it by what their prison nicknames may tell about them, be it by what we find from an etymological perspective or be it by comparison with characters of the same name in other media that they may have been inspired by. 
+
+What we will not address here is how the characters will develop in course of the story; this is the topic of the "Character Plots", starting with the Character Progression. "Characters" is the story-equivalent to "NPCs" in the game mechanics section. While in NPCs we have described how NPCs function internally in an abstract way, here they are in their concrete expression as characters in the game. 
+{: .subtext }
 
 And please note: For now we are only listing all the names to be found in the sources, in some cases there are two names that may later be identified with the same character and we have yet to decide which name to use or how to solve these conflicts.
 {: .subtext }
@@ -58,8 +61,17 @@ Maybe Santino, maybe Vasquez = Sangwah
 * Velaya
 
 ```
-The names of the female slaves don't have to be translated. 
+The names of the female slaves don't have to be translated.
+
+Balam   // Cook of the barons
+Omid    // Cook of the barons
 ```
+
+* **Balaam** is a biblical name of a prophet.
+* **Omid** is a persian/kurdish name meaning "hope".
+* **Joker:** No name found yet.
+* **Servant:** No name found yet. 
+
 
 #### Guards
 
@@ -454,6 +466,9 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 * Vlad       // Ex-Gladiator
 ```
 
+* **Gorn:** Gorn is an NPC from the Finster Demo that found its way into Gothic. In Finster he is a guard of the "Tolben" people from Tolbenland, like *Damos*, so we could include Damos as a friend outside (Act 2).
+
+
 #### Organisation
 
 | ENGLISH  | DEUTSCH  | POLISH    |
@@ -774,8 +789,33 @@ Mages are all using their own or clerical names, none of them have to be transla
 * Ingmar
 * ...
 
+
+### Finster NPCs
+
+* **Gorn:** see above at "NC Mercs"
+* **Damos:** see Gorn at "NC Mercs"
+* **Gygax:** Being the most powerful druid in Tolbenland, he lives at Royal Court of Cranwater.
+* **Elmore:** Mage/Alchemist, assistant of Gygax.
+* **Fenwick:** A mage in Finster. Lives in a cave accessible by underwater tunnel leading from Cranwater moat.
+* **Verne:** Who is he? Sent scroll for Fenwick. "embittered old Cran".
+* **Mahr:** A Priest in Finster.
+* **Oruc:** A king in Finster, father of Lyra. He is taken by the Mad Scientists from the novel *Wyrms* (1987).  
+
+> King Oruc, fearing Patience or Peace could be a danger to his reign, keeps them under control by allowing only one of them to leave the castle at a time. However, this delicate hostage situation falls apart when Peace becomes ill. Before he dies, Patience cuts into Peace's shoulder to retrieve a crystal globe hidden under his skin. "The scepter of the Heptarchs," he says. "Never let a gebling know you have it."   
+> Only moments after Peace dies, King Oruc sends an assassin after Patience. She easily dispatches him and leaves the castle, stopping to visit her father's preserved head in Slaves' Hall, where the heads of the wisest people are kept alive by headworms. Since the heads are coerced to speak only the truth, Patience forces her father to divulge his darkest secrets.   
+> Peace reveals that since Patience's birth, he had been fighting a powerful compulsion to bring her to Cranning, home of the geblings. The "Cranning Call", as it was known, drew the world's greatest thinkers and achievers to make a pilgrimage to Cranning, never to be seen or heard from again. Peace says the source of the Call is the Unwyrm, attempting to summon Patience to his lair.   
+* The Mad Scientists also used Cranwater as a location, "Cran" as a folk/race and Unwyrn too, being heavily inspired by the novel.  
+> She relives the moment when the Starship Captain, lured through lust to the surface, mates with the Wyrm in its lair beneath a glacier that would later become Cranwater.
+
+* **Lyra:** (Lyre?) Sick daughter of the King Oruc.
+* **Gargravarr:** Someone who cursed some people to be ghosts? 
+
+
 ## Free Potential Nicknames
-Just list all that comes to mind and would make sense to use.
+
+```
+Just list all (nick)names that come to mind and would make sense to use.
+```
 
 * Owl / Eule
 * Finch / Fink
@@ -800,58 +840,6 @@ Just list all that comes to mind and would make sense to use.
 * Bug / Shug / Assel
 
 
-## Character Descriptions
-
-*work in progress*
-*30.09.2024*
-
-After listening all the NPCs we offer an NPC short *description*, based on (1) what we know about them from all the sources and (2) what we can additionally derive via reflections about their names, be it by what their prison nicknames may tell about them, be it by what we find from an etymological perspective or be it by comparison with characters of the same name in other media that they may have been inspired by. 
-
-What we will not address here is how the characters will develop in course of the story; this is the topic of the "Character Plots", starting with the Character Progression. 
 
 
-### Gorn
-NPC from Finster that found its way into Gothic. In Finster he is a guard of the "Tolben" people from Tolbenland, like *Damos*.
-Etymology: ...
-
-### Damos
-NPC from Finster, see Gorn.
-
-### Gygax
-NPC from Finster. Being the most powerful druid in Tolbenland, he lives at Royal Court of Cranwater.
-
-### Elmore
-Mage/Alchemist, assistant of Gygax.
-
-### Fenwick
-A mage in Finster. Lives in a cave accessible by underwater tunnel leading from Cranwater moat.
-
-### Verne
-Who is he?
-Sent scroll for Fenwick.
-"embittered old Cran".
-
-### Mahr 
-Priest in Finster.
-
-### Oruc 
-* A king in Finster, father of Lyra. He is taken by the Mad Scientists from the novel *Wyrms* (1987).  
-> King Oruc, fearing Patience or Peace could be a danger to his reign, keeps them under control by allowing only one of them to leave the castle at a time. However, this delicate hostage situation falls apart when Peace becomes ill. Before he dies, Patience cuts into Peace's shoulder to retrieve a crystal globe hidden under his skin. "The scepter of the Heptarchs," he says. "Never let a gebling know you have it."   
-> Only moments after Peace dies, King Oruc sends an assassin after Patience. She easily dispatches him and leaves the castle, stopping to visit her father's preserved head in Slaves' Hall, where the heads of the wisest people are kept alive by headworms. Since the heads are coerced to speak only the truth, Patience forces her father to divulge his darkest secrets.   
-> Peace reveals that since Patience's birth, he had been fighting a powerful compulsion to bring her to Cranning, home of the geblings. The "Cranning Call", as it was known, drew the world's greatest thinkers and achievers to make a pilgrimage to Cranning, never to be seen or heard from again. Peace says the source of the Call is the Unwyrm, attempting to summon Patience to his lair.   
-* The Mad Scientists also used Cranwater as a location, "Cran" as a folk/race and Unwyrn too, being heavily inspired by the novel.  
-> She relives the moment when the Starship Captain, lured through lust to the surface, mates with the Wyrm in its lair beneath a glacier that would later become Cranwater.
-
-### Lyra
-
-(Lyre?) Sick daughter of the King Oruc.
-From Finster.
-
-### Gargravarr 
-Someone who cursed some people to be ghosts? From Finster.
-
-### Balam & Omid
-* Cooks of the Barons.
-* *Balaam* is a biblical name of a prophet.
-* *Omid* is a persian/kurdish name meaning "hope".
 
