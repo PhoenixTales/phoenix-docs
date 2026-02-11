@@ -309,38 +309,38 @@ Shad(ow)  // "Kontakter"
 
 #### OC Folk 
 
-| ENGLISH  | DEUTSCH             | POLISH  |
-|----------|---------------------|---------| 
-| Alberto  | "                   | ???     |
+| ENGLISH  | DEUTSCH   | POLISH  |
+|----------|-----------|---------| 
+| Alberto  | "         | ???     |
 | Brownie  | der Braune / Brauni |         |
-| ?        | Brummel             |         |
-| Canthar  | Canthar             |         |
-| Cavalorn | ?                   |         |
-| Creep    | Kriecher (?)        |         |
-| Crumb    | Krümel/Krume        |         |
-| Delon    | Delon               |         |
-| Derek    | Derek               |         |
-| Fisk     | Fisch?              |         |
-| Graham   | ?                   |         | 
-| Gravo    | ?                   |         |
-| Grim(face) | ?                 |         |
+| ?        | Brummel    |         |
+| Canthar  | Canthar    |         |
+| Cavalorn | ?          |         |
+| Creep    | Kriecher (?) |         |
+| Crumb    | Krümel/Krume |         |
+| Delon    | " ??      |         |
+| Derek    | " ??      |         |
+| Fisk     | Fisch?    |         |
+| Graham   | ???       |         | 
+| Gravo    | "         |         |
+| Grim(face) | Grimm?  |         |
 | Grumpy   | Grant (der Grantige) |        |
 | Guy      | Guido    |         |
-| Herek    | Herek    |         |
-| Huno     | Huno     |         |
-| Jesse    | ?        |         |
-| Jug      | ?        |         |
-| Kyle     | ?        |         |
+| Herek    | " ?      |         |
+| Huno     | "        |         |
+| Jesse    | ???      |         |
+| Jug      | ???      |         |
+| Kyle     | ???      |         |
 | Marus    | Marus    |         | 
 | Mud      | Matsch(kopf)/Schlick |      |
-| ?        | Murks    |           |
+| ???      | Murks    |           |
 | Numb     | der Taube |          |
-| Olon     | Olon     |           |
+| Olon     | "         |           |
 | Ryan     | Ryan     |           |
 | Scarry   | ???      | Szrama/Tchórz | 
-| Sleepy  | Schlafmütze (?) |     |
+| Sleepy   | Schlafmütze (?) |     |
 | Smokie   | Raucher (?) | Zadymiarz ?  |
-| Snaf     | bleibt? Schnupf(er)? |   
+| Snaf     | bleibt? Schnupf(er)? |    |
 | Woody    | Holzkopf |          |
 | ?        | Kimbahl  |          |
 
@@ -349,18 +349,28 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 
 #### OC Miners / Diggers
 
-```
-ENGLISH / DEUTSCH // ROLE(S)
+| ENGLISH  | DEUTSCH  | POLISH    |
+|----------|----------|-----------|
+| Sira     | "        | "         |
+| Aleph    | Alef     | ??        |
+| Dusty    | Staub(fresser)/Staubi? | ??   |
+| Garp     | ???      | ???       |
+| Glen     | ??       | ??        |
+| Gilbert  | "        | ??        |
+| Grimes   | Schmuddel/Schmutz? | ??   |
+| Melvin   | "        | "         |
+| Snipes   | Schnäpfe(r)? | ??    |
 
-* Sira                  // "Buddlerchef"
-* Aleph                 // ?
-* Dusty / Staub(fresser?)/Staubi // ?
-* Garp / ?              // ?
-* Glen / ?              // ?
-* Gilbert               // ?
-* Grimes / Schmuddel/Schmutz // ?
-* Melvin                // ?
-* Snipes / Schnäpfe(r)? // ?
+```
+* Sira    // "Buddlerchef", here since before the revolt
+* Aleph   // ?
+* Dusty   // ?
+* Garp    // ?
+* Glen    // ?
+* Gilbert // ?
+* Grimes  // ?
+* Melvin  // ?
+* Snipes  // ?
 ```
 
 
@@ -368,34 +378,53 @@ ENGLISH / DEUTSCH // ROLE(S)
 
 #### Mercenaries
 
+| ENGLISH  | DEUTSCH  | POLISH    |
+|----------|----------|-----------|
+| Lee      | Li       | ?         |
+| Oric     | Orik     | ?         |
+| Torlof   | "        | ?         |
+| Baloro   | "        | ?         |
+| Blade    | Klinge   | ?         |
+| Cord     | Strick?  | ?         |
+| Damos    | ?        | ?         |
+| Dailah Iceskin | " Eishaut | " ??? |
+| Jarvis   | ?        | ?         |
+| Kharim   | "        | "         |
+| Klitho ??? | " Kampfhand | " ?  |
+| Grunt    | "        | "         |
+| Skunk    | "        | ?         |
+| Strider  | Schneider? | ???     |
+| Gorn     | "        | "         |
+| Cole     | Kren     | ?         |
+| Ransom   | Ranzion  | ??        |
+| Roscoe   | ?        | ?         |
+| Lou(is)  | Lu(dwig) | ?         |
+| (Earth)Quake | Beber/Zitter | ??   |
+| Vlad     | "        | "         |
+
 ```
-ENGLISH / DEUTSCH // ROLE(S)
-
-* Lee, Bonzo          // "Lord-Protektor"
-* Orik                // 
-* Torlof   
-* Baloro              // 
-* Blade / Klinge      // 
-* Cord  / Strick?     //
-* Damos / ?           // Friend of Gorn?
-* Dailah              //
-* Jarvis              // 
-* Kharim              //
-* Klitho              // Kampfhand
-* Grunt               // Half-Orc
-* Skunk               // Half-Orc
-* Strider / Schneider // 
-* Gorn                // Murderer
-* Cole / Kren         // Deputy
-* Ransom / Ranzion    // 
-* Roscoe / ?          // 
-* Lou(is) / Lud(wig)? //
-* (Earth)Quake / ?    // 
-* Vlad / ?            //
+* Lee, Bonzo // "Lord-Protektor"
+* Orik       // Commander, Ex-Gladiator
+* Torlof     // ?
+* Baloro     // ?
+* Blade      // Ex-Gladiator
+* Cord       // Friend of Lee from Old days, deputy, ex-gladiator
+* Damos      // Friend of Gorn?
+* Dailah     // Nickname Iceskin
+* Jarvis     // ?
+* Kharim     // Gladiator
+* Klitho     // Kampfhand
+* Grunt      // Half-Orc
+* Skunk      // Half-Orc
+* Strider    // Scout? 
+* Gorn       // Murderer
+* Cole       // Deputy
+* Ransom     // ??? 
+* Roscoe     // Lares Bodyguard?  // 
+* Lou        //
+* Quake      // ?? 
+* Vlad       // Ex-Gladiator
 ```
-
-* Quake, German "Zitter". 
-
 
 #### Organisation
 
