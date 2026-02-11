@@ -26,7 +26,7 @@ And please note: For now we are only listing all the names to be found in the so
 | Gomez    | Sangwah?   | "           |
 | Raven    | Rabe       | Kruk        |
 | Santino Garcia | "    | "           |
-| Scar     | Narbe      | Blizna      |
+| Scar     | Narbe/Narwa | Blizna      |
 | Vasquez  | Sangwah?   | "           |
 | Arto, Wardog | ", Kriegshund | ", Brytan |
 | The Keeper | Der Wächter | Nadzorca  |
@@ -41,10 +41,12 @@ And please note: For now we are only listing all the names to be found in the so
 * Wardog   // "Konvoiführer", "Jungbaron"
 * TheKeeper // Orchunter, dead/Zombie
 * Sangwah  // nickname/german name of either Gomez or Vasquez
-
-* Garcia could also be called "Garxa" in German
-* Vasquez could be called "Watzka" in German
 ```
+
+* **Garcia** could also be called "Garxa" in German
+* **Vasquez** could be called "Watzka" in German, as some czech-germans used it as an equivalent name.
+* **Scar** instead of translating him as *Narbe* in German could also be translated as *Schmiss* or in the old high german form Narwa. This has the advantage that we could also change it into "Narwah" and have then something close to "Sangwah" in style.
+
 
 ### Slaves
 
