@@ -98,12 +98,12 @@ Mort: Guard in Prison Level 1.
 |-----------------|--------------------|-------------|
 | Fletcher        | Fiederer/Fletscher | ???         | 
 | Jackal          | Schakal            | ???         |
-| Bloodwyn        | ???                | ???         |
+| Bloodwyn        | Blutvin            | ???         |
 | Nek             | ???                | ???         |
 | Rigosh Twoknife | Rigosch Zweimesser | ???         |
 | Snore           | Schnarcher         | ???         |
 
-Bloodwyn: May be kept untranslated. Alternative ideas. German: "Bluter", "Blutwein".
+Bloodwyn: May be kept untranslated. Alternative ideas. German: "Bluter", "Blutwein". Or: If we see the "wyn" like in "Marvin", then it can mean something like "loving" blood. If so, then simply "Der Blutrünstige" would be fitting or a simply germanising the name, so that its spelled "Blutvin" in German with almost the same pronounciation, just not as english. 
 Twoknife, real name: Rigosh, German Rigosch, Polish ???
 
 
