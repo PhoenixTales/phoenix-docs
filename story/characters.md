@@ -492,7 +492,7 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 | Frost(hand) | ???   | Szron     |
 | Wedge    | Keil/Winkel | Klin   |
 | Butch    | "Metz", "Schlacht" |     |
-| Cipher   | Null (arabisch sifr = null) |   |
+| Cipher   | ??? | ???  |
 | Buster   | Fänger (?) |       |
 | Shark(y) | ...      |         |
 | Okyl     | Okyl     | ???     |
@@ -508,8 +508,9 @@ Drexel  // Maybe an earlier name for Drax, therefore maybe combine it with Drax 
 Bruce   // Organiser, which in CH1 hangs around at the marketplace of the Old Camp. 
 ```
 
-* **Gaist**: Sounds identical to the german "Geist" (ghost), based on which we could identify him with the alpha NPC "Phantom", but Gaist is an Organiser in the novel, while Phantom most likely was a Shadow. When still holding on to this possible identity, he would have to be a double agent, but this does not fit the character description and style of Gaist; therefore we prefer to conceptualise them as different characters, which makes it difficult to translate both of them.
-* **Bruce**: The name comes from *Robert the Bruce* (Scottish Gaelic: *Raibeart am Brusach*), based on this we could either germanise him as Brusach or simplify it to just Brus or Brusa. In french: Brus.
+* **Gaist:** Sounds identical to the german "Geist" (ghost), based on which we could identify him with the alpha NPC "Phantom", but Gaist is an Organiser in the novel, while Phantom most likely was a Shadow. When still holding on to this possible identity, he would have to be a double agent, but this does not fit the character description and style of Gaist; therefore we prefer to conceptualise them as different characters, which makes it difficult to translate both of them.
+* **Bruce:** The name comes from *Robert the Bruce* (Scottish Gaelic: *Raibeart am Brusach*), based on this we could either germanise him as Brusach or simplify it to just Brus or Brusa. In french: Brus.
+* **Cipher:** Cipher comes from arabic sifr, german "Ziffer", which also means zero, german "null". No idea how to translate it though. 
 
 
 ### NC Folk
