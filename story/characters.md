@@ -127,14 +127,14 @@ Mort   // Guard in Prison Level 1.
 
 #### Outside Ring Mercs
 
-| ENGLISH         | DEUTSCH            | POLISH      |
-|-----------------|--------------------|-------------|
-| Fletcher        | Fleschner  | Rzeźnik ?         | 
-| Jackal          | Schakal            | Szakal         |
-| Bloodwyn        | Bladwin            | Bladwin         |
-| Nek             | ???                | ???         |
+| ENGLISH     | DEUTSCH       | POLISH      |
+|-------------|---------------|-------------|
+| Fletcher    | Flechner      | Rzeźnik / Garbarz ? | 
+| Jackal      | Schakal       | Szakal      |
+| Bloodwyn    | Bladwin       | Bladwin     |
+| Nek         | ???           | ???         |
 | Rigosh Twoknife | Rigosch Zweimesser | Rigosch Dwa Ostrza |
-| Snore           | Schnarcher         | ???         |
+| Snore       | Schnarcher    | ???         |
 
 ```
 Fletcher  //
@@ -146,7 +146,7 @@ Snore     // sleeps at the Gate
 ```
 
 * **Bloodwyn:** May be kept untranslated. Alternative ideas. Mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter? Or "Bluter" or "Blutwein". But if we understand the "wyn" like in "Marvin", then it can mean something like "loving" blood. If so, then simply "Der Blutrünstige" would be fitting or simply germanising the name, so that its spelled "Blutvin" in German with almost the same pronounciation, just not as english. // As it seems, an earlier of the name can be found in the documents as Bladwin, which clarifies the meaning (same as Baldwin, as it seems) and also offers the exact same pronouncation as the English Bloodwyn in German and with a more german appearing name. 
-* **Fletcher:** To fletch means "befiedern"; Fletcher could thus be translated as "Fiederer" in German. On the other hand it reminds of the German "(Zähne) fletschen", as it sounds the same, which in English means "to bare ones teeth"; he could thus be translated as "Fletscher", which fully preserves the sound and may fit in meaning better than his English name. At the same time in french it is called "flechner" and there is the german name "Fleschner" which can mean, for example, as much as "Butcher" from flesh, german "Fleisch". In this sense, the name could have an almost cynical meaning, in the sense that he wasn't an arrow-maker, who puts feathers onto something ("befiedern"), but rather removed the feathers from e.g. the animals (mainly vultures, if they had feathers...) that he kills and prepares for the cooks. It is also fitting since a butcher is lacking in the OC so far. 
+* **Fletcher:** To fletch means "befiedern"; Fletcher could thus be translated as "Fiederer" in German. On the other hand it reminds of the German "(Zähne) fletschen", as it sounds the same, which in English means "to bare ones teeth"; he could thus be translated as "Fletscher", which fully preserves the sound and may fit in meaning better than his English name. At the same time there is the german name/term/profession "Flechner" which can mean, for example, as much as "Butcher" or Tanner, and reminds of flesh, german "Fleisch". In this sense, the name could have an almost cynical meaning, in the sense that he wasn't an arrow-maker, who puts feathers onto something ("befiedern"), but rather removed the feathers (or skin in this case) from e.g. the animals. It is also fitting since both butcher and tanner are lacking in the OC so far. 
 * **Nek:** "Nek" is an allusion to "Death". Can either be kept in all languages or translated to something similar with the same allusion. 
 
 
