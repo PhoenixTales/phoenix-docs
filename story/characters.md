@@ -254,14 +254,14 @@ After the prologue these mercs can play roles in the Outside Ring and fill some 
 | Baldhead  | Glatzkopf/Glatze | Glaca      |
 | Lisper    | Lispler          | Świstuch   |
 | [Nurrba]  | ???              | ???        |
-| [Huegoth] | ???              | ???        |
+| [Hueroth] | ???              | ???        |
 
 ```
 * Parik     // Arrogant Boss of the gang. 
 * Baldhead  // ...
 * Lispler   // ...
 * Nurrba    // "Nurrba" is just his tribe, Nickname unsure in all languages
-* Huegoth   // "Huegoth" is just his tribe, Nickname unsure in all languages
+* Hueroth   // "Hueroth" is just his tribe, Nickname unsure in all languages, red beard, blue eyes, barbaric look, only decayed woven pants and shirt, broad belt, a two-handed sword on his back. 
 ```
 
 #### Convoy
