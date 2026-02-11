@@ -15,6 +15,9 @@ And please note: For now we are only listing all the names to be found in the so
 
 <!-- TOC_PLACEHOLDER -->
 
+Authorship: The german translation of nicknames (or the english translation in case of older names that were only known in german) was done by Flosha. For the polish translation of names, the original translation team of the polish edition of Gothic is to be credited, while all additional new translations were done by...
+
+
 
 ## Old Camp
 
@@ -128,9 +131,9 @@ Mort   // Guard in Prison Level 1.
 |-----------------|--------------------|-------------|
 | Fletcher        | Fleschner  | ???         | 
 | Jackal          | Schakal            | Szakal         |
-| Bloodwyn        | Bladwin            | ???         |
+| Bloodwyn        | Bladwin            | Bladwin         |
 | Nek             | ???                | ???         |
-| Rigosh Twoknife | Rigosch Zweimesser | ???         |
+| Rigosh Twoknife | Rigosch Zweimesser | Rigosch Dwa Ostrza |
 | Snore           | Schnarcher         | ???         |
 
 ```
@@ -277,16 +280,16 @@ Shabak       // Half-Orc, Carrier
 
 | ENGLISH       | DEUTSCH     | POLISH     |
 |---------------|-------------|------------|
-| Childkiller   | Kindtöter   | ???        |
+| Childkiller   | Kindtöter   | Dzieciobójca? |
 | Fright(ening) | ???         | ???        |
 | Orry          | Golder?     | ???        |
 | Pacho         | Kurzer?     | ???        |
 | Hawk(eye)     | Adler(auge) | Jastrząb   |
-| Sharp(blade)  | Schärfer?   | ???        |
+| Sharp(blade)  | Schärfer?   | Ostry?       |
 | Skunk         | "           | Cap        |
 | Smoerk        | Smörk       | ???        |
 | Snake         | Schlange    | ???        |
-| Talon         | Kralle      | ???        | 
+| Talon         | Kralle      | Szpon        | 
 
 ```
 * Childkiller   // ???
@@ -308,7 +311,7 @@ Shabak       // Half-Orc, Carrier
 |-------------|-------------|------------|
 | The Invisible | Der Unsichtbare | ???  |
 | Dark(man)   | Finster?    | ???        |
-| Viper       | ???         | Wąż        |
+| Viper       | ???         | Wąż / Zmija |
 | Snogu       | ???         | ???        |
 | Assassin 3  | ???         | ???        |
 | Earl, the Ear | Orel, das Ohr | ???    |
@@ -360,7 +363,7 @@ Shad(ow)  // "Kontakter"
 | Canthar  | Canthar    |         |
 | Cavalorn | ?          |         |
 | Creep    | Kriecher (?) |         |
-| Crumb    | Krümel/Krume |         |
+| Crumb    | Krümel/Krume | Kruchy?  |
 | Delon    | " ??      |         |
 | Derek    | " ??      |         |
 | Fisk     | Fisch?    |         |
@@ -496,7 +499,7 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 | Tark ?   | " Augenwischer  | " ???     |
 | Earl, the Ear | Orel, das Ohr |     |
 | TheEye   | das Auge (?) | ??           |
-| TheKey   | Schlüssel/Schlüssler (?) | ??  |
+| TheKey   | Schlüsselmacher (?) | Klucznik |
 | Fodder   | Zottel oder Aas | ??         |
 | Henry    | Heinrich, Heinz? |  ???      |
 
