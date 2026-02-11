@@ -43,6 +43,7 @@ And please note: For now we are only listing all the names to be found in the so
 * Sangwah  // nickname/german name of either Gomez or Vasquez
 ```
 
+* **Gomez** "is a common Spanish patronymic surname of Germanic origin meaning "son of Gome"."
 * **Garcia** could also be called "Garxa" in German
 * **Vasquez** could be called "Watzka" in German, as some czech-germans used it as an equivalent name.
 * **Scar** instead of translating him as *Narbe* in German could also be translated as *Schmiss* or in the old high german form Narwa. This has the advantage that we could also change it into "Narwah" and have then something close to "Sangwah" in style.
