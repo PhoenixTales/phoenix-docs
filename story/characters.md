@@ -23,16 +23,16 @@ Authorship: The german translation of nicknames (or the english translation in c
 
 ### Barons
 
-| ENGLISH  | DEUTSCH    | POLISH      | RUSSIAN | ITALIAN   |
-|----------|------------|-------------|---------|-----------|
-| Gomez    | Sangwah?   | "           |         | ???       |
-| Raven    | Krah(wah)  | Kruk        |         | Corvo     |
-| Scar     | Narwah     | Blizna      |         | Cicatrice |
-| Bartholo | "          | "           |         | |
-| Vasquez  | Watzka?    | "           |         | |
-| Santino Garcia | Garxa? | "         |         | |
-| Arto, Wardog | Arth(ur), Kriegshund | ", Brytan | |
-| The Keeper | Der Wächter | Nadzorca  |        | |
+| ENGLISH  | DEUTSCH    | POLISH      |
+|----------|------------|-------------|
+| Gomez    | Sangwah?   | "           |
+| Raven    | Krah(wah)  | Kruk        |
+| Scar     | Narwah     | Blizna      |
+| Bartholo | "          | "           |
+| Vasquez  | Watzka?    | "           |
+| Santino Garcia | Garxa? | "         |
+| Arto, Wardog | Arth(ur), Kriegshund | ", Brytan |
+| The Keeper | Der Wächter | Nadzorca  |
 
 ```
 * Bartholo // "Außenminister", "Schatzmeister"
@@ -83,17 +83,17 @@ Omid    // Cook of the barons
 
 #### Leaders & Teachers
 
-| ENGLISH  | DEUTSCH    | POLISH      | RUSSIAN | ITALIAN |
-|----------|------------|-------------|---------|---------|
-| Arto, Wardog | Arth(ur), Kriegshund | ???, Brytan | | |
-| Brabak   | "          | "           | |            |
-| Scatty   | ???        | Kloc ?      | |           |
-| One-Eye  | Einauge    | ???         | | Monocchio |
-| Thorus   | "          | "           | | "         |
-| Grinder  | Schleifer  | Mielec ?    | |           |
-| Scorpio  | Skorpion?  | Skorpion    | |          |
-| Hunter   | Jäger      | Łowca       | | Cacciatore |
-| Ian      | Ijan       | ???         | |        |
+| ENGLISH  | DEUTSCH    | POLISH      |
+|----------|------------|-------------|
+| Arto, Wardog | Arth(ur), Kriegshund | ???, Brytan |
+| Brabak   | "          | "           |
+| Scatty   | ???        | Kloc ?      |
+| One-Eye  | Einauge    | ???         |
+| Thorus   | "          | "           |
+| Grinder  | Schleifer  | Mielec ?    |
+| Scorpio  | Skorpion?  | Skorpion    |
+| Hunter   | Jäger      | Łowca       |
+| Ian      | Ijan       | ???         |
 
 ```
 Arto    // nickname "Wardog": Söldnerhauptmann
@@ -109,13 +109,13 @@ Ian     // Old Mine Chief
 
 #### Castle 
 
-| ENGLISH  | DEUTSCH    | POLISH      | RUSSIAN    | ITALIAN    |
-|----------|------------|-------------|------------|------------|
-| Stone    | Steiner    | Skała       |            | Pietro     |
-| Garak    | "          | "           |            |            |
-| Skip     | Kipp?      | ???         |            |            |
-| Bullit   | Drücker?   | Byk ?       |            |            |
-| Mort     | ???        | ???         |            |            |
+| ENGLISH  | DEUTSCH    | POLISH      |
+|----------|------------|-------------|
+| Stone    | Steiner    | Skała       |
+| Garak    | "          | "           |
+| Skip     | Kipp?      | ???         |
+| Bullit   | Drücker?   | Byk ?       |
+| Mort     | ???        | ???         |
 
 ```
 Stone  // Smith in the Castle.
@@ -127,14 +127,14 @@ Mort   // Guard in Prison Level 1.
 
 #### Outside Ring Mercs
 
-| ENGLISH     | DEUTSCH       | POLISH      | RUSSIAN     | ITALIAN    |
-|-------------|---------------|-------------|-------------|------------|
-| Fletcher    | Flechner      | Rzeźnik / Garbarz ? |     | Frecciaio  |
-| Jackal      | Schakal       | Szakal      |             | Sciacallo  |
-| Bloodwyn    | Bladwin       | Bladwin     |             |            |
-| Nek         | ???           | ???         |             |            |
-| Rigosh Twoknife | Rigosch Zweimesser | Rigosch Dwa Ostrza | | " Due-Coltelli |
-| Snore       | Schnarcher    | ???         |             | Russatore  |
+| ENGLISH     | DEUTSCH       | POLISH      |
+|-------------|---------------|-------------|
+| Fletcher    | Flechner      | Rzeźnik / Garbarz ? | 
+| Jackal      | Schakal       | Szakal      |
+| Bloodwyn    | Bladwin       | Bladwin     |
+| Nek         | ???           | ???         |
+| Rigosh Twoknife | Rigosch Zweimesser | Rigosch Dwa Ostrza |
+| Snore       | Schnarcher    | ???         |
 
 ```
 Fletcher  //
@@ -152,13 +152,13 @@ Snore     // sleeps at the Gate
 
 #### Arena 
 
-| ENGLISH         | DEUTSCH       | POLISH      | RUSSIAN    | ITALIAN     |
-|-----------------|---------------|-------------|------------|-------------|
-| Scatty          | ???           | ???         |            |             |
-| Scar            | Narbe         | ???         |            |             |
-| Cutter          | Kapper?       | Siekacz     |            | Tagliatore  |
-| Benwick         | "             | "           |            |             |
-| Kirgo           | "             | "           |            |             |
+| ENGLISH         | DEUTSCH       | POLISH      |
+|-----------------|---------------|-------------|
+| Scatty          | ???           | ???         |
+| Scar            | Narbe         | ???         |
+| Cutter          | Kapper?       | Siekacz     |
+| Benwick         | "             | "           |
+| Kirgo           | "             | "           |
 
 ```
 Scatty   // Arenamaster (4-5)
@@ -168,14 +168,14 @@ Scar (6), Cutter (5), Benwick (4-5), Kirgo (3-4) // OC Gladiators.
 
 #### North Gate Guards
 
-| ENGLISH  | DEUTSCH    | POLISH      | RUSSIAN | ITALIAN |
-|----------|------------|-------------|---------|---------|
-| Jack     | Jockel?    | ???         | |  |
-| Greg     | ???        | ???         | |  |
-| Borik    | "          | "           | |  |
-| Bloodwyn | Blutvin?   | ???         | |  |
-| Dust     | Staub      | ???         | | Polvere |
-| Spot     | Fleck      | ???         | |  |
+| ENGLISH  | DEUTSCH    | POLISH      |
+|----------|------------|-------------|
+| Jack     | Jockel?    | ???         |
+| Greg     | ???        | ???         |
+| Borik    | "          | "           |
+| Bloodwyn | Blutvin?   | ???         |
+| Dust     | Staub      | ???         |
+| Spot     | Fleck      | ???         |
 
 ```
 Borik  // Guard, here since the revolt.
