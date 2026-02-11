@@ -371,11 +371,11 @@ Shad(ow)  // "Kontakter"
 |----------|-----------|---------| 
 | Alberto  | "         | ???     |
 | Brownie  | der Braune / Brauni |         |
-| ?        | Brummel    |         |
-| Canthar  | Canthar    |         |
-| Cavalorn | ?          |         |
+| ?        | Brummel   | Mruk    |
+| Canthar  | Canthar   |         |
+| Cavalorn | ?         |         |
 | Creep    | Kriecher (?) |         |
-| Crumb    | Krümel/Krume | Kruchy?  |
+| Crumb    | Krümel/Krume | Kruchy? |
 | Delon    | "         | "      |
 | Derek    | " ??      |         |
 | Fisk     | Fisch?    |         |
