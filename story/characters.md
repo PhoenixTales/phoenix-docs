@@ -308,7 +308,7 @@ Shabak       // Half-Orc, Carrier
 |-------------|-------------|------------|
 | The Invisible | Der Unsichtbare | ???  |
 | Dark(man)   | Finster?    | ???        |
-| Viper       | ???         | ???        |
+| Viper       | ???         | Wąż        |
 | Snogu       | ???         | ???        |
 | Assassin 3  | ???         | ???        |
 | Earl, the Ear | Orel, das Ohr | ???    |
