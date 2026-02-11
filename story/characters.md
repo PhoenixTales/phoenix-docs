@@ -54,7 +54,7 @@ The names of the female slaves doesn't have to be translated.
 
 | ENGLISH  | DEUTSCH    | POLISH      |
 |----------|------------|-------------|
-| Wardog   | Kriegshund | ???         | 
+| Wardog   | Kriegshund | Brytan      | 
 | Brabak   | "          | "           |
 | Scatty   | ???        | ???         |
 | One-Eye  | Einauge    | ???         |
@@ -254,31 +254,45 @@ Shabak: Half-Orc, Carrier
 
 #### Shadows
 
-*15 persons*
+| ENGLISH     | DEUTSCH     | POLISH     |
+|-------------|-------------|------------|
+| The Invisible | Der Unsichtbare | ???  |
+| Dark(man)   | Finster?    | ???        |
+| Viper       | ???         | ???        |
+| Snogu       | ???         | ???        |
+| Assassin 3  | ???         | ???        |
+| Earl, the Ear | Orel, das Ohr | ???    |
+| Phantom     | Fantom?     | Zjawa      |
+| Nimble      | Flinkhand   | Lepki      |
+| Reese       | Rhys        | ???        |
+| Fingers     | ???         | ???        |
+| Dexter/Dex  | ???         | ???        |
+| Sly         | List        | ???        |
+| Whistler    | Pfeifer     | ???        |
+| Raoul       | ?? Ralf?    | ???        |
+| Grag        | Greo        | ???        |
+| Diego       | "           | "          |
+| Shad(ow)    | Schatt?     | ???        |
 
 ```
-ENGLISH / DEUTSCH // ROLE(S)
-
-SECRET             // "Der Unsichtbare", Leader
-Dark(man) / Finster // "Der Assassine"
-Viper / ?          // Meuchler 1
-Snogu / ?          // Meuchler 2
-?                  // Meuchler 3
-Earl / Orel        // "Das Ohr", Masterspy
-Phantom / ?        // Spy 1
-Nimble(finger)     // Spy 2, "Flinkhand"
-Reese / Rhys       // Spy 3
-Fingers? / ?       // "...", Masterthief
-Dexter/Dex         // "Der Hehler"
-Sly / List         // Snitch 1
-Whistler / Pfeifer // Snitch 2
-Raoul / Ralf?      // Snitch 3
-Grag / Greo        // Snitch 4
-Diego?             // Bote, "der Dieb"
-Shad(ow) / ?       // "Kontakter"
+SECRET    // "Der Unsichtbare", Leader
+Dark(man) // "Der Assassine"
+Viper     // Meuchler 1
+Snogu     // Meuchler 2
+?         // Meuchler 3
+Earl      // "Das Ohr", Masterspy
+Phantom   // Spy 1
+Nimble    // Spy 2, "Flinkhand"
+Reese     // Spy 3
+Fingers   // "...", Masterthief
+Dexter    // "Der Hehler"
+Sly       // Snitch 1
+Whistler  // Snitch 2
+Raoul     // Snitch 3
+Grag      // Snitch 4
+Diego?    // Bote, "der Dieb"
+Shad(ow)  // "Kontakter"
 ```
-
-* Phantom, German Fantom, Polish Zjawa 
 
 
 #### OC Folk 
@@ -371,45 +385,52 @@ ENGLISH / DEUTSCH // ROLE(S)
 
 #### Organisation
 
-| ENGLISH  | DEUTSCH  |
-|----------|----------|
-| Lares    | Lares    |
-| Gaist    | Gaist    |
-| Bruce    | Brus     |
-| Fox      | Fuchs    |
-| Drexel   | Maybe earlier name for Drax - delete?       |
-| Mordrag  | Mordrag  |
-| Wolf     | Wolf     |
-| ?        | Stöberer |
-| ?        | Frosthand |
-| Wedge    | "Keil", Winkel (?) |
-| Butch    | "Metz", "Schlacht" |
-| Cipher   | Null (arabisch sifr = null) |
-| Buster   | Fänger (?) |
-| Shark(y) | ...      |
-| Okyl     | Okyl     |
-| Tark ?   | Tark Augenwischer    |
-| Earl, the Ear | Orel, das Ohr |
-| TheEye   | das Auge (?) |
-| TheKey   | Schlüssel/Schlüssler (?) |
-| Fodder   | Zottel oder Aas |
-| Henry    | Heinrich, Heinz? |
+| ENGLISH  | DEUTSCH  | POLISH    |
+|----------|----------|-----------|
+| Lares    | Lares    | "         |
+| Ghost    | Gaist    | ???       |
+| Bruce    | Brus     | ???       |
+| Drexel   | "        | ???       |
+| Fox      | Fuchs    | Lis       |
+| Mordrag  | Mordrag  | ???       |
+| Wolf     | Wolf     | ???       |
+| ?        | Stöberer | ???       |
+| ?        | Frosthand |          |
+| Wedge    | "Keil", Winkel (?) |   |
+| Butch    | "Metz", "Schlacht" |     |
+| Cipher   | Null (arabisch sifr = null) |   |
+| Buster   | Fänger (?) |       |
+| Shark(y) | ...      |         |
+| Okyl     | Okyl     | ???     |
+| Tark ?   | Tark Augenwischer  |     |
+| Earl, the Ear | Orel, das Ohr |     |
+| TheEye   | das Auge (?) |           |
+| TheKey   | Schlüssel/Schlüssler (?) |   |
+| Fodder   | Zottel oder Aas |          |
+| Henry    | Heinrich, Heinz? |        |
+
+Drexel: Maybe an earlier name for Drax, therefore maybe combine it with Drax as its German name instead of a separate NPC? Check.
+
 
 
 #### NC Folk
 
-| ENGLISH  | DEUTSCH  |
-|----------|----------|
-| Homer    | die Taube (Homer = Brieftaube, ala der Nestbauer) oder der Biber (weil Erbauer der "Biberburg" im NC) |
-| Jeremiah/Ricelord | Jeremia, ? |
-| Lefty    | Link, der Linke (?) |
-| Shrike   | Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels |
-| Silas    | Silas    |
-| Miles    | ?        |
-| Lukas    | Lukas    |
-| Russel   | Rotger   |
-| Urxai    | Urxai    |
-| Marvin   | Marvin   |
+| ENGLISH  | DEUTSCH   | POLISH    |
+|----------|-----------|-----------|
+| Homer    | Taube/Biber | ???     |
+| Jeremiah | Jeremia   |           |
+| Lefty    | Link      | ???       |
+| Shrike   | Fink/Spießer |        |
+| Silas    | "         | "         |
+| Miles    | ???       | ???       |
+| Lukas    | Lukas     | ???       |
+| Russel   | Rotger    | ???       |
+| Urxai    | Urxai     | "         |
+| Marvin   | Marvin    | ???       |
+
+Homer = Taube in German = Brieftaube, ala der Nestbauer, alternative a better fitting name in German would be "Biber" (Beaver), as the "Builder of the "Beavercastle" of the NC
+Jeremiah = Ricelord
+Shrike: In German either Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels
 
 
 #### Peasants 
@@ -451,12 +472,14 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Aidan    | Aidan    |
 | Calash   | ?        |
 | Dagger   | Messer, besser als Dolch? |
-| Drax     | ?        |
+| Drax     | Drexel   |
 | Gjan     | Gjan     |
 | Lurik    | Lurik    |
 | Ratford  | ?        |
 | Benedikt | Benedikt |
 | Craven   | ?        |
+
+Drexel: Maybe an earlier name for Drax, therefore maybe combine it with Drax as its German name instead of a separate NPC? Check.
 
 
 #### Scraper's Union
