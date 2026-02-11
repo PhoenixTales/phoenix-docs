@@ -211,7 +211,7 @@ Borik: Here since the revolt.
 |-----------|------------------|------------|
 | Parik     | "                | Parik      |
 | Baldhead  | Glatzkopf/Glatze | Glaca      |
-| ???       | Lispler          | ???        |
+| Lisper    | Lispler          | Świstuch   |
 | [Nurrba]  | ???              | ???        |
 | [Huegoth] | ???              | ???        |
 
