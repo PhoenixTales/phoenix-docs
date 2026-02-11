@@ -481,13 +481,13 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 
 | ENGLISH  | DEUTSCH  | POLISH    |
 |----------|----------|-----------|
-| Lares    | Lares    | "         |
+| Lares    | "        | "         |
 | Ghost    | Gaist    | ???       |
 | Bruce    | Brus     | ???       |
 | Drexel   | "        | ???       |
 | Fox      | Fuchs    | Lis       |
-| Mordrag  | Mordrag  | ???       |
-| Wolf     | Wolf     | ???       |
+| Mordrag  | "        | "         |
+| Wolf     | Wolf     | Wilk      |
 | ?        | Stöberer | Myszor ?  |
 | Frost(hand) | ???   | Szron     |
 | Wedge    | Keil/Winkel | Klin   |
