@@ -171,14 +171,14 @@ Scar (6), Cutter (5), Benwick (4-5), Kirgo (3-4) // OC Gladiators.
 | ENGLISH  | DEUTSCH    | POLISH      |
 |----------|------------|-------------|
 | Jack     | Jockel?    | ???         |
-| Greg     | ???        | ???         |
-| Borik    | "          | "           |
-| Bloodwyn | Blutvin?   | ???         |
+| Greg     | Gregor     | Grzegorz    |
+| Boric    | Borik      | Borik       |
+| Bloodwyn | Bladvin    | Bladvin     |
 | Dust     | Staub      | ???         |
 | Spot     | Fleck      | ???         |
 
 ```
-Borik  // Guard, here since the revolt.
+Boric  // Guard, here since the revolt.
 ```
 
 #### South Gate Guards
@@ -536,7 +536,7 @@ Bruce   // Organiser, which in CH1 hangs around at the marketplace of the Old Ca
 | Silas    | "         | "         |
 | Miles    | ???       | ???       |
 | Lukas    | Lukas     | ???       |
-| Russel   | Rotger/Russer  | ???       |
+| Russel   | Rotger/Russer  | Rusław  |
 | Urxai    | Urxai     | "         |
 | Marvin   | Marvin    | ???       |
 
