@@ -24,13 +24,13 @@ And please note: For now we are only listing all the names to be found in the so
 |----------|------------|-------------|
 | Bartholo | "          | "           |
 | Gomez    | "          | "           |
-| Raven    | Rabe       | ??          |
+| Raven    | Rabe       | Kruk        |
 | Santino ??? | " Sangwah | ??        |
-| Scar     | Narbe      | ??          |
+| Scar     | Narbe      | Blizna      |
 | Vasquez  | "          | ??          |
 | Arto, Wardog | ", Kriegshund | ", Brytan |
-| TheKeeper | Der Wächter | ??        |
-| Garcia    | Garcia/Garxa? | ???     |
+| TheKeeper | Der Wächter | Nadzorca  |
+| Garcia    | "         | "           |
 
 ```
 * Bartholo // "Außenminister", "Schatzmeister"
@@ -44,6 +44,8 @@ And please note: For now we are only listing all the names to be found in the so
 * Garcia   // ...
 
 Maybe Santino, maybe Vasquez = Sangwah
+Garcia could also be called "Garxa" in German
+Santino and Garcia could be merged to Santino Garcia
 ```
 
 ### Slaves
