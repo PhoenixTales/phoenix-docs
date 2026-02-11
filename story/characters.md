@@ -329,6 +329,8 @@ Shad(ow)  // "Kontakter"
 
 * **Phantom:** Etymologically related to "fantasy", from latin phantasia (“imagination”), which in turn comes from ancient Greek φαντασία (phantasía, “apparition”), from φαντάζω (phantázō, “to render visible”), from φαντός (phantós, “visible”), from φαίνω (phaínō, “to make visible”); from the same root as φάος (pháos, “light”); ultimately from Proto-Indo-European *bʰh₂nyéti, from the root *bʰeh₂- (“to shine”). Interpretation: It is funny how something that means "to make visible" has ultimately turned into an illusion in form of "phantom", it is apparently visible, but not to the eyes; this ambivalent kind of meaning is the very same as in the German "Schein". Something that "erscheint" is something that is obviously seen, just as the english "shine", but it is at the same time what in English is described as "to seem" - it may as well be an illusion, only *seems* to be. But as a nickname, "Schein" doesn't seem like a good solution. *Schein* comes from Middle High German schīn, Old High German scīn, skīn (“shine, brightness, light, ray”), from Proto-West Germanic *skīn, from Proto-Germanic *skīną. Cognate with Old Norse skína, Old Saxon scīnan, Old English sċīn (“phantom, ghost”), Dutch schijn, English shine, Gothic 𐍃𐌺𐌴𐌹𐌽𐌰𐌽 (skeinan). Therefore, in German: Skeinar, das Fantom? Skeinar as his real name, Fantom/Phantom as his nickname,
 * **Snogu:** To "snog" is slang and means as much as "to kiss" and to hold someone sexually. Based on this idea Snogu could be something like "Küsser", "Necker", but "Snogger" would be a more fitting nickname in that case... What could Snogu mean other than that?
+* **Earl:** A literal translation in meaning would be "Jarl" or "Graf", but *Earl* as a word contains "ear" (which is his nickname, "the Ear") and it can be assumed to be on purpose, as it reminds of his role (of being the "ear" of the Barons in the sense of their most important spy); we therefore choose a name that contains the German "Ohr" in a similar way to "Earl" containing "ear". This let us think of "Orell" or "Orel" from Aurelius, "Orl" or "Oran". 
+
 
 
 #### OC Folk 
@@ -804,10 +806,6 @@ Just list all that comes to mind and would make sense to use.
 After listening all the NPCs we offer an NPC short *description*, based on (1) what we know about them from all the sources and (2) what we can additionally derive via reflections about their names, be it by what their prison nicknames may tell about them, be it by what we find from an etymological perspective or be it by comparison with characters of the same name in other media that they may have been inspired by. 
 
 What we will not address here is how the characters will develop in course of the story; this is the topic of the "Character Plots", starting with the Character Progression. 
-
-### Earl / Orel
-* Earl, nickname "the Ear". 
-* A literal translation in meaning would be "Jarl" or "Graf", but *Earl* contains "ear" and it can be assumed to be on purpose, as it reminds of his role (of being the "ear" of the Barons in the sense of their most important spy); we therefore choose a name that contains the German "Ohr" in a similar way to "Earl" containing "ear". This let us think of "Orell" or "Orel" from Aurelius, "Orl" or "Oran". 
 
 
 ### Gorn
