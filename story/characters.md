@@ -376,7 +376,7 @@ Shad(ow)  // "Kontakter"
 | Huno     | "        |         |
 | Jesse    | ???      |         |
 | Jug      | ???      |         |
-| Kyle     | ???      |         |
+| Kyle     | Horst    |         |
 | Marus    | Marus    |         | 
 | Mud      | Matsch(kopf)/Schlick |      |
 | ???      | Murks    |           |
@@ -489,8 +489,8 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 | Mordrag  | Mordrag  | ???       |
 | Wolf     | Wolf     | ???       |
 | ?        | Stöberer | Myszor ?  |
-| Frost(hand) | ???   | Szron    |
-| Wedge    | "Keil", Winkel (?) |   |
+| Frost(hand) | ???   | Szron     |
+| Wedge    | Keil/Winkel | Klin   |
 | Butch    | "Metz", "Schlacht" |     |
 | Cipher   | Null (arabisch sifr = null) |   |
 | Buster   | Fänger (?) |       |
@@ -518,8 +518,8 @@ Bruce   // Organiser, which in CH1 hangs around at the marketplace of the Old Ca
 |----------|-----------|-----------|
 | Homer    | Taube/Biber | ???     |
 | Jeremiah | Jeremia   |           |
-| Lefty    | Link      | ???       |
-| Shrike   | Fink/Spießer |        |
+| Lefty    | Link      | Lewus     |
+| Shrike   | Fink/Spießer | Krzykacz |
 | Silas    | "         | "         |
 | Miles    | ???       | ???       |
 | Lukas    | Lukas     | ???       |
