@@ -275,7 +275,7 @@ Shabak: Half-Orc, Carrier
 | Assassin 3  | ???         | ???        |
 | Earl, the Ear | Orel, das Ohr | ???    |
 | Phantom     | Fantom?     | Zjawa      |
-| Nimble      | Flinkhand   | Lepki      |
+| Nimble(finger) | Flinkhand   | Lepki      |
 | Reese       | Rhys        | ???        |
 | Fingers     | ???         | ???        |
 | Dexter/Dex  | ???         | ???        |
@@ -409,19 +409,19 @@ ENGLISH / DEUTSCH // ROLE(S)
 | Mordrag  | Mordrag  | ???       |
 | Wolf     | Wolf     | ???       |
 | ?        | Stöberer | ???       |
-| ?        | Frosthand |          |
+| Frost(hand) | ???   | Szron    |
 | Wedge    | "Keil", Winkel (?) |   |
 | Butch    | "Metz", "Schlacht" |     |
 | Cipher   | Null (arabisch sifr = null) |   |
 | Buster   | Fänger (?) |       |
 | Shark(y) | ...      |         |
 | Okyl     | Okyl     | ???     |
-| Tark ?   | Tark Augenwischer  |     |
+| Tark ?   | " Augenwischer  | " ???     |
 | Earl, the Ear | Orel, das Ohr |     |
-| TheEye   | das Auge (?) |           |
-| TheKey   | Schlüssel/Schlüssler (?) |   |
-| Fodder   | Zottel oder Aas |          |
-| Henry    | Heinrich, Heinz? |        |
+| TheEye   | das Auge (?) | ??           |
+| TheKey   | Schlüssel/Schlüssler (?) | ??  |
+| Fodder   | Zottel oder Aas | ??         |
+| Henry    | Heinrich, Heinz? |  ???      |
 
 Drexel: Maybe an earlier name for Drax, therefore maybe combine it with Drax as its German name instead of a separate NPC? Check.
 
