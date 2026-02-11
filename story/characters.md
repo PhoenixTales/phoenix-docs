@@ -26,7 +26,7 @@ And please note: For now we are only listing all the names to be found in the so
 | Gomez    | Sangwah?   | "           |
 | Raven    | Rabe       | Kruk        |
 | Santino Garcia | "    | "           |
-| Scar     | Narbe/Narwa | Blizna      |
+| Scar     | Narwah     | Blizna      |
 | Vasquez  | Sangwah?   | "           |
 | Arto, Wardog | ", Kriegshund | ", Brytan |
 | The Keeper | Der Wächter | Nadzorca  |
