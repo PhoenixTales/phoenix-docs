@@ -1,4 +1,4 @@
-# Characters
+# Character Names & Meanings
 
 *flosha, 29.09.2024*  
 *Last change: 11.02.2026*  
