@@ -285,11 +285,11 @@ Shabak       // Half-Orc, Carrier
 | Orry          | Golder?     | ???        |
 | Pacho         | Kurzer?     | ???        |
 | Hawk(eye)     | Adler(auge) | Jastrząb   |
-| Sharp(blade)  | Schärfer?   | Ostry?       |
+| Sharp(blade)  | Schärfer?   | Ostry?     |
 | Skunk         | "           | Cap        |
 | Smoerk        | Smörk       | ???        |
-| Snake         | Schlange    | ???        |
-| Talon         | Kralle      | Szpon        | 
+| Snake         | Schlange    | Wąż        |
+| Talon         | Kralle      | Szpon      | 
 
 ```
 * Childkiller   // ???
@@ -311,7 +311,7 @@ Shabak       // Half-Orc, Carrier
 |-------------|-------------|------------|
 | The Invisible | Der Unsichtbare | ???  |
 | Dark(man)   | Finster?    | ???        |
-| Viper       | ???         | Wąż / Żmija |
+| Viper       | ???         | Żmija ?    |
 | Snogu       | ???         | ???        |
 | Assassin 3  | ???         | ???        |
 | Earl, the Ear | Orel, das Ohr | ???    |
