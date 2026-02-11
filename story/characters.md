@@ -44,7 +44,7 @@ And please note: For now we are only listing all the names to be found in the so
 ```
 
 * **Gomez** "is a common Spanish patronymic surname of Germanic origin meaning "son of Gome". [...] Gome is derived from the Visigothic word guma, man." 
-* **Garcia** could als be called "Garxa" in German
+* **Santino Garcia**. Garcia could be called "Garxa" in German. While Santino is a very popular name in the respective regions and means as much as "little saint", there is no direct german translation or equivalent, that would fit, but "Siegfried" or "Heinrich" would convey a similar feeling and a similar "Würde" in a german context. Thus "Heinrich Garxa" could be considered a germanic equivalent.
 * **Vasquez** could be called "Watzka" in German, as some czech-germans used it as an equivalent name.
 * **Scar** instead of translating him as *Narbe* in German could also be translated as *Schmiss* or in the old high german form Narwa. This has the advantage that we could also change it into "Narwah" and have then something close to "Sangwah" in style.
 * **Raven** could be translated literally as *Rabe*, but he could as well be called *Krah*, which is similar to the Polish name *Kruk*, which sounds well and is a german surname that reminds of "Krähe" (crow) and resembles their sound. Other than that also a new creation such as "Krahwah" is imagineable. 
