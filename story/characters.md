@@ -488,7 +488,7 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 | Fox      | Fuchs    | Lis       |
 | Mordrag  | Mordrag  | ???       |
 | Wolf     | Wolf     | ???       |
-| ?        | Stöberer | ???       |
+| ?        | Stöberer | Myszor ?  |
 | Frost(hand) | ???   | Szron    |
 | Wedge    | "Keil", Winkel (?) |   |
 | Butch    | "Metz", "Schlacht" |     |
