@@ -82,7 +82,7 @@ Omid    // Cook of the barons
 
 | ENGLISH  | DEUTSCH    | POLISH      |
 |----------|------------|-------------|
-| Arto, Wardog | ", Kriegshund | ", Brytan      | 
+| Arto, Wardog | Arth(ur), Kriegshund | ???, Brytan      | 
 | Brabak   | "          | "           |
 | Scatty   | ???        | ???         |
 | One-Eye  | Einauge    | ???         |
@@ -222,7 +222,7 @@ Borik  // Guard, here since the revolt.
 | Aaron    | Aaron/Job? | ?          |
 | Asghan   | "          | ?          |
 | Brandick | Brandrich  | ???        |
-| Drake    | ???        | ???        |
+| Drake    | Draka      | ???        |
 | Ulbert   | "          | ???        |
 | Stono    | Brock?     | Głaz       |
 
@@ -235,6 +235,9 @@ Borik  // Guard, here since the revolt.
 * Ulbert    // Storage Guard
 * Stono     // Mine Guard Outside (at day), evening/night at OC
 ```
+
+* **Drake** is an english name and comes from old english draca, meaning dragon. Another form, which may work in German, would be Drak, but this is used already by Gor Na Drak. Alternatively he can thus be named Draka and proncounced german.
+
 
 #### Baptizers
 
