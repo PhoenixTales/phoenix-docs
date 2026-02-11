@@ -364,7 +364,7 @@ Shad(ow)  // "Kontakter"
 | Cavalorn | ?          |         |
 | Creep    | Kriecher (?) |         |
 | Crumb    | Krümel/Krume | Kruchy?  |
-| Delon    | " ??      |         |
+| Delon    | "         | "      |
 | Derek    | " ??      |         |
 | Fisk     | Fisch?    |         |
 | Graham   | ???       |         | 
@@ -432,7 +432,7 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 | Oric     | Orik     | ?         |
 | Torlof   | "        | ?         |
 | Baloro   | "        | ?         |
-| Blade    | Klinge   | ?         |
+| Blade    | Klinge   | Kosa      |
 | Cord     | Strick?  | ?         |
 | Damos    | ?        | ?         |
 | Dailah Iceskin | " Eishaut | " Zimnoskóra ?? |
