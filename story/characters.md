@@ -127,7 +127,7 @@ Mort   // Guard in Prison Level 1.
 | ENGLISH         | DEUTSCH            | POLISH      |
 |-----------------|--------------------|-------------|
 | Fletcher        | Fiederer/Fletscher | ???         | 
-| Jackal          | Schakal            | ???         |
+| Jackal          | Schakal            | Szakal         |
 | Bloodwyn        | Blutvin            | ???         |
 | Nek             | ???                | ???         |
 | Rigosh Twoknife | Rigosch Zweimesser | ???         |
