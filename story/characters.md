@@ -129,7 +129,7 @@ Snore     // sleeps at the Gate
 
 * **Bloodwyn:** May be kept untranslated. Alternative ideas. Mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter? Or "Bluter" or "Blutwein". But if we understand the "wyn" like in "Marvin", then it can mean something like "loving" blood. If so, then simply "Der Blutrünstige" would be fitting or simply germanising the name, so that its spelled "Blutvin" in German with almost the same pronounciation, just not as english. 
 * **Fletcher:** To fletch means "befiedern"; Fletcher could thus be translated as "Fiederer" in German. On the other hand it reminds of the German "(Zähne) fletschen", as it sounds the same, which in English means "to bare ones teeth"; he could thus be translated as "Fletscher", which fully preserves the sound and may fit in meaning better than his English name. 
-
+* **Nek:** "Nek" is an allusion to "Death". Can either be kept in all languages or translated to something similar with the same allusion. 
 
 
 ##### Arena 
@@ -279,7 +279,7 @@ Shabak       // Half-Orc, Carrier
 * Hawk(eye)     // Scout, Crossbow, Exchange Guard
 * Sharp(blade)  // maybe "Sharper", German "Schärfer": ???
 * Skunk         // Half-Orc
-* Smörk         // Half-Orc
+* Smörk         // Half-Orc, maybe Gladiator
 * Snake         // ???
 * Talon         // ??? 
 ```
@@ -327,10 +327,10 @@ Diego?    // Bote, "der Dieb"
 Shad(ow)  // "Kontakter"
 ```
 
-* **Phantom:** Etymologically related to "fantasy", from latin phantasia (“imagination”), which in turn comes from ancient Greek φαντασία (phantasía, “apparition”), from φαντάζω (phantázō, “to render visible”), from φαντός (phantós, “visible”), from φαίνω (phaínō, “to make visible”); from the same root as φάος (pháos, “light”); ultimately from Proto-Indo-European *bʰh₂nyéti, from the root *bʰeh₂- (“to shine”). Interpretation: It is funny how something that means "to make visible" has ultimately turned into an illusion in form of "phantom", it is apparently visible, but not to the eyes; this ambivalent kind of meaning is the very same as in the German "Schein". Something that "erscheint" is something that is obviously seen, just as the english "shine", but it is at the same time what in English is described as "to seem" - it may as well be an illusion, only *seems* to be. But as a nickname, "Schein" doesn't seem like a good solution. *Schein* comes from Middle High German schīn, Old High German scīn, skīn (“shine, brightness, light, ray”), from Proto-West Germanic *skīn, from Proto-Germanic *skīną. Cognate with Old Norse skína, Old Saxon scīnan, Old English sċīn (“phantom, ghost”), Dutch schijn, English shine, Gothic 𐍃𐌺𐌴𐌹𐌽𐌰𐌽 (skeinan). Therefore, in German: Skeinar, das Fantom? Skeinar as his real name, Fantom/Phantom as his nickname,
+* **Phantom:** Etymologically related to "fantasy", from latin phantasia (“imagination”), which in turn comes from ancient Greek φαντασία (phantasía, “apparition”), from φαντάζω (phantázō, “to render visible”), from φαντός (phantós, “visible”), from φαίνω (phaínō, “to make visible”); from the same root as φάος (pháos, “light”); ultimately from Proto-Indo-European *bʰh₂nyéti, from the root *bʰeh₂- (“to shine”). Interpretation: It is funny how something that means "to make visible" has ultimately turned into an illusion in form of "phantom", it is apparently visible, but not to the eyes; this ambivalent kind of meaning is the very same as in the German "Schein". Something that "erscheint" is something that is obviously seen, just as the english "shine", but it is at the same time what in English is described as "to seem" - it may as well be an illusion, only *seems* to be. But as a nickname, "Schein" doesn't seem like a good solution. *Schein* comes from Middle High German schīn, Old High German scīn, skīn (“shine, brightness, light, ray”), from Proto-West Germanic *skīn, from Proto-Germanic *skīną. Cognate with Old Norse skína, Old Saxon scīnan, Old English sċīn (“phantom, ghost”), Dutch schijn, English shine, Gothic 𐍃𐌺𐌴𐌹𐌽𐌰𐌽 (skeinan). Therefore, in German: Skeinar, das Fantom? Skeinar as his real name, Fantom/Phantom as his nickname.
 * **Snogu:** To "snog" is slang and means as much as "to kiss" and to hold someone sexually. Based on this idea Snogu could be something like "Küsser", "Necker", but "Snogger" would be a more fitting nickname in that case... What could Snogu mean other than that?
 * **Earl:** A literal translation in meaning would be "Jarl" or "Graf", but *Earl* as a word contains "ear" (which is his nickname, "the Ear") and it can be assumed to be on purpose, as it reminds of his role (of being the "ear" of the Barons in the sense of their most important spy); we therefore choose a name that contains the German "Ohr" in a similar way to "Earl" containing "ear". This let us think of "Orell" or "Orel" from Aurelius, "Orl" or "Oran". 
-
+* **Grag:** See "Grag and Otto" (google search), or Otho, may thus be kept and used as an allusion to that. Maybe Half-Orcs too? 
 
 
 #### OC Folk 
@@ -532,9 +532,11 @@ Lefty      //
 | Sam     | Sam     | ??       |
 | Tom     | "       | ??       |
 | Halloran | ?      | ??       |
-| Judas   | ?       | ??       |
+| Judex   | "       | ??       |
 | Miles   | Milo    | ??       |
 | ...     |         | ??       |
+
+* **Judex**: Originally named "Judas" in the documents. To avoid using this biblical name and all its associations we renamed him into Judex, based on the anti-hero of the same name. 
 
 
 #### Bandits / Renegades
@@ -847,16 +849,6 @@ From Finster.
 
 ### Gargravarr 
 Someone who cursed some people to be ghosts? From Finster.
-
-### Judas
-Maybe rename into Judex, based on the anti-hero of the same name. 
-
-### Nek 
-* "Nek" ist eine Anspielung auf Tod.
-
-### Grag
-Siehe Grag und Otho/Otto, Anspielung.
-Maybe Half-Orcs.
 
 ### Balam & Omid
 * Cooks of the Barons.
