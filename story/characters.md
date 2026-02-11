@@ -1,4 +1,4 @@
-# Character Names & Meanings
+# Character Names & Meanings (Act 1)
 
 *flosha, 29.09.2024*  
 *Last change: 11.02.2026*  
