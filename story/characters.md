@@ -20,18 +20,30 @@ And please note: For now we are only listing all the names to be found in the so
 
 #### Barons
 
-```
-ENGLISH / DEUTSCH  // ROLE(S)
+| ENGLISH  | DEUTSCH    | POLISH      |
+|----------|------------|-------------|
+| Bartholo | "          | "           |
+| Gomez    | "          | "           |
+| Raven    | Rabe       | ??          |
+| Santino ??? | " Sangwah | ??        |
+| Scar     | Narbe      | ??          |
+| Vasquez  | "          | ??          |
+| Arto, Wardog | ", Kriegshund | ", Brytan |
+| TheKeeper | Der Wächter | ??        |
+| Garcia    | Garcia/Garxa? | ???     |
 
-* Bartholo / "     // "Außenminister", "Schatzmeister"
-* Gomez            // "Big Boss"
-* Raven / Rabe     // "Schattenbaron", "Rechte Hand"
-* Santino / Sangwah // ?  
-* Scar / Narbe     // "Söldnerbaron", "Linke Hand"
-* Vasquez / " ?    // "Grauer Baron"
-* Wardog / Kriegshund // "Konvoiführer", "Jungbaron"
-* TheKeeper ?      // X, Orkjaeger
-* Garcia / Garxa?  // ...
+```
+* Bartholo // "Außenminister", "Schatzmeister"
+* Gomez    // "Big Boss"
+* Raven    // "Schattenbaron", "Rechte Hand"
+* Santino/Sangwah // ?  
+* Scar     // "Söldnerbaron", "Linke Hand"
+* Vasquez  // "Grauer Baron"
+* Wardog   // "Konvoiführer", "Jungbaron"
+* TheKeeper // Orchunter, dead/Zombie
+* Garcia   // ...
+
+Maybe Santino, maybe Vasquez = Sangwah
 ```
 
 #### Slaves
@@ -54,14 +66,14 @@ The names of the female slaves doesn't have to be translated.
 
 | ENGLISH  | DEUTSCH    | POLISH      |
 |----------|------------|-------------|
-| Wardog   | Kriegshund | Brytan      | 
+| Arto, Wardog | ", Kriegshund | ", Brytan      | 
 | Brabak   | "          | "           |
 | Scatty   | ???        | ???         |
 | One-Eye  | Einauge    | ???         |
 | Thorus   | "          | "           |
 | Grinder  | Schleifer  | ???         |
 | Scorpio  | ???        | ???         |
-| Hunter   | Jäger      | ???         |
+| Hunter   | Jäger      | Łowca       |
 | Ian      | Ijan       | ???         |
 
 Wardog (real name "Arto"): Söldnerhauptmann
@@ -325,12 +337,14 @@ Shad(ow)  // "Kontakter"
 | Numb     | der Taube |          |
 | Olon     | Olon     |           |
 | Ryan     | Ryan     |           |
-| Scarry   | vllt. Ex-Scatty, vllt. Ex Scar, raus? |    | 
-| Sleepy  | Schlafmütze (?) |         |
-| Smokie   | Raucher (?) |            |
-| Snaf     | bleibt? Schnupf(er)? |      |
+| Scarry   | ???      | Szrama/Tchórz | 
+| Sleepy  | Schlafmütze (?) |     |
+| Smokie   | Raucher (?) |        |
+| Snaf     | bleibt? Schnupf(er)? |   
 | Woody    | Holzkopf |          |
 | ?        | Kimbahl  |          |
+
+Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be deleted 
 
 
 #### OC Miners / Diggers
@@ -412,7 +426,6 @@ ENGLISH / DEUTSCH // ROLE(S)
 Drexel: Maybe an earlier name for Drax, therefore maybe combine it with Drax as its German name instead of a separate NPC? Check.
 
 
-
 #### NC Folk
 
 | ENGLISH  | DEUTSCH   | POLISH    |
@@ -435,86 +448,92 @@ Shrike: In German either Fink (beides Sperlinge) oder "Spießer" wegen der Bedeu
 
 #### Peasants 
 
-| ENGLISH | DEUTSCH |
-|---------|---------|
-| Horace? | Horatio? |
-| Larp    | ?       |
-| Melvin  | Melvin  |
-| NoBrain | ?       |
-| Phil    | ?       |
-| Pock    | Pock    |
-| Poke    | = Pock? |
-| Rufus   | ?       | 
-| Sam     | Sam     |
-| Tom     | ?       |
-| Halloran | ?      |
-| Judas   | ?       |
-| Miles   | Milo     |
-| ...     |         |
+| ENGLISH | DEUTSCH | POLISH   |
+|---------|---------|----------|
+| Horace  | Horatio | ???      |
+| Larp    | ?       | ??       |
+| Melvin  | Melvin  | ??       |
+| NoBrain | ?       | ??       |
+| Phil    | ?       | ??       |
+| Pock    | Pock    | ??       |
+| Poke    | = Pock? | ??       |
+| Rufus   | ?       | ??       |
+| Sam     | Sam     | ??       |
+| Tom     | "       | ??       |
+| Halloran | ?      | ??       |
+| Judas   | ?       | ??       |
+| Miles   | Milo    | ??       |
+| ...     |         | ??       |
 
 
 #### Bandits / Renegades
 
-| ENGLISH  | DEUTSCH  |
-|----------|----------|
-| Jacko    | Jacko    |
-| Kilian   | Kilian   |
-| Quentin  | Quentin (der "Fünfte") |
-| Renyu    | Renyu    |
+| ENGLISH  | DEUTSCH  | POLISH  |
+|----------|----------|---------|
+| Jacko    | Jacko    | ???     |
+| Kilian   | "        | "       |
+| Quentin  | Quentin  | ???     |
+| Renyu    | Renju    | ???     |
+
+Quentin: German "der Fünfte".
 
 
 ### Freedom
 
 #### Rangers
  
-| ENGLISH  | DEUTSCH  |
-|----------|----------|
-| Aidan    | Aidan    |
-| Calash   | ?        |
-| Dagger   | Messer, besser als Dolch? |
-| Drax     | Drexel   |
-| Gjan     | Gjan     |
-| Lurik    | Lurik    |
-| Ratford  | ?        |
-| Benedikt | Benedikt |
-| Craven   | ?        |
+| ENGLISH  | DEUTSCH  | POLISH   |
+|----------|----------|----------|
+| Aidan    | ???      | ??       |
+| Calash   | ???      | ??       |
+| Dagger   | Messer   | ??       |
+| Drax     | Drexel   | ??       |
+| Gyan??   | Gjan     | ??       |
+| Luric    | Lurik    | ??       |
+| Ratford  | ???      | ??       |
+| Benedict | Benedikt | ??       |
+| Craven   | ???      | ??       |
 
 Drexel: Maybe an earlier name for Drax, therefore maybe combine it with Drax as its German name instead of a separate NPC? Check.
+Dagger: Messer, besser als Dolch?
+Craven: Reminds of "Craving", could thus be associated with German "Sehnsucht", "Verlangen", "Begierde" etc., such as in a name like "Sehner" etc.
 
 
 #### Scraper's Union
 
-* Aiko, no other name, same in all versions
-* Alfie Einhand (english Alphie Onehand?)
-* Arto, no other name, same in all versions 
-* Azzo, any other variant per language? Meaning?
-* Caer
-* Carris 
-* Cyrl
-* Garbar, same in all versions
-* Gornios, same in all versions
-* Herek, same in all versions
-* Ishka, german Ischka
-* Jan Erznase, english Jan Orenose
-* Jojo, english Yoyo
-* Kilan, same in all versions
-* Laars
-* Ley, german Lej
-* Mihai 
-* Old Man, der Alte
-* Pieto Erzfinder, english Orefinder
-* Ragna, same in all versions
-* Renyu, german Renju?
-* "Schlangengräber", other name? 
-* Schondar, ?
-* Rigupp, ?
-* Senyan, same in all versions or german Senjan?
-* Swiney, german Schwein(chen)?
-* Threp, german ???
-* Tito Tunnelspūrer, english Tunnel...?
-* Vlukk
-* Weeze, german ???
-* Zuhl, ???
+| ENGLISH  | DEUTSCH   | POLISH    |
+|----------|-----------|-----------|
+| Aiko     | "         | "         |
+| Alphy Onehand | Alfie Einhand | ???       |
+| Arto     | "         | "         |
+| Azzo     | ???       | ???       |
+| Caer     | Caer?     | Caer?     |
+| Carris   | ???       | ???       |
+| Cyrl     | ???       | ???       |
+| Garbar   | "         | ???       |
+| Gornios? | Gornios   | ???       |
+| Herek    | "         | " ??      |
+| Ishka    | Ischka    | ???       |
+| Jan Orenose | " Erznase | " Rudowęch |
+| Yoyo     | Jojo      | ???       |
+| Kilan    | "         | "         |
+| Laars    | " ??      | " ??      |
+| Ley      | Lej       | ???       |
+| Mihai    | "         | "         |
+| Old Man  | der Alte  | ???       |
+| Pieto Orefinder | " Erzfinder | " ??? |
+| Ragna    | "         | "         |
+| Renyu    | Renju     | ???       |
+| ???      | Schlangengräber | ???  |
+| ???      | Schondar  | ???       |
+| ???      | Rigupp    | ???       |
+| Senyan   | Senjan    | ???       |
+| Swiney   | Schwein(chen)? | ???  |
+| Threp    | ???       | ???       |
+| Tito ??? | " Tunnelspürer | " ??? |
+| Vlukk    | "              | "     |
+| Weeze    | ???            | ???   |
+| Zuhl     | ???            | ???   |
 
 
 ### The Sect
