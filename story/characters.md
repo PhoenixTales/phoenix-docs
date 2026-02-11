@@ -315,7 +315,7 @@ Shabak       // Half-Orc, Carrier
 | Phantom     | Fantom?     | Zjawa      |
 | Nimble(finger) | Flinkhand   | Lepki      |
 | Reese       | Rhys        | ???        |
-| Fingers     | ???         | ???        |
+| Fingers     | ???         | Rączka     |
 | Dexter/Dex  | ???         | ???        |
 | Sly         | List        | ???        |
 | Whistler    | Pfeifer     | ???        |
