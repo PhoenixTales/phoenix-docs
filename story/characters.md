@@ -28,7 +28,7 @@ And please note: For now we are only listing all the names to be found in the so
 | Bartholo | "          | "           |
 | Vasquez  | Watzka?    | "           |
 | Santino Garcia | Garxa? | "         |
-| Arto, Wardog | ", Kriegshund | ", Brytan |
+| Arto, Wardog | Arth(ur), Kriegshund | ", Brytan |
 | The Keeper | Der Wächter | Nadzorca  |
 
 ```
@@ -49,7 +49,7 @@ And please note: For now we are only listing all the names to be found in the so
 * **Scar** instead of translating him as *Narbe* in German could also be translated as *Schmiss* or in the old high german form Narwa. This has the advantage that we could also change it into "Narwah" and have then something close to "Sangwah" in style.
 * **Raven** could be translated literally as *Rabe*, but he could as well be called *Krah*, which is similar to the Polish name *Kruk*, which sounds well and is a german surname that reminds of "Krähe" (crow) and resembles their sound. Other than that also a new creation such as "Krahwah" is imagineable. 
 * **Bartholo** comes from Bartholomew, in German Bartholomäus, which comes from Bar-Talmai, which means "son of Talmai". More germanic sounding forms could be "Barthalar", "Barthalah", "Barthola(r/h)", "Barthomar" or simply "Bartha".  
-
+* **Arto** is supposed to mean as much as "bear", it can be directly translated into German as "Arthur" or alternatively simply as "Arth", which is the common root. 
 
 
 ### Slaves
