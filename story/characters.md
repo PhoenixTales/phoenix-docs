@@ -52,26 +52,44 @@ The names of the female slaves doesn't have to be translated.
 
 ##### Leaders & Teachers
 
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| Arto     | "          | Kriegshund    | Wardog      | Söldnerhauptmann |   6   |
-| Brabak   | "          | ?             | ?           | Ex-Sld-Hauptmann |   X   |
-| ?        | ?          | ?             | Scatty      | Arenameister     |   5   |
-| ?        | ?          | der Einäugige | ?           | Außeneinsätze    |   ?   |
-| Thorus   | "          | Leutnant      | ?           | Wachorganisation |   ?   |
-| ?        | ?          | der Schleifer | the Grinder | Sadis. Ausbilder |   5   |
-| Scorpio  | ?          | ?             | ?           | Nahkampflehrer   |   ?   |
-| ?        | ?          | Jäger         | Hunter      | Fernkampflehrer  |   ?   |
-| Ian      | Jan        | ?             | ?           | Minen Chef       |   5   |
+| ENGLISH  | DEUTSCH    | POLISH      |
+|----------|------------|-------------|
+| Wardog   | Kriegshund | ???         | 
+| Brabak   | "          | "           |
+| Scatty   | ???        | ???         |
+| One-Eye  | Einauge    | ???         |
+| Thorus   | "          | "           |
+| Grinder  | Schleifer  | ???         |
+| Scorpio  | ???        | ???         |
+| Hunter   | Jäger      | ???         |
+| Ian      | Ijan       | ???         |
+
+Wardog (real name "Arto"): Söldnerhauptmann
+Brabak: Ex-Sld-Hauptmann (dead)
+Scatty: Arenameister
+One-Eye: Außeneinsätze
+Thorus: Leutnant, Guard Organisation
+Grinder: Sadistic Teacher of Recruits
+Scorpio: Melee Combat Teacher
+Hunter: Ranged Combat Teacher (Crossbow)
+Ian: Old Mine Chief
 
 
 ##### Castle 
 
-* Stone, German "Steiner", Polish Skała, Smith in the OC Castle
-* Garak, same in all versions, Guard at the Castle Wall and Court
-* Skip, German "Kipp", Polish ???, Waffenausgabe
-* Bullit, German "Drücker"(?), Polish ???, ...
-* Mort, German ???, Polish ???, Prison Guard 1
+| ENGLISH  | DEUTSCH    | POLISH      |
+|----------|------------|-------------|
+| Stone    | Steiner    | Skała       | 
+| Garak    | "          | "           |
+| Skip     | Kipp?      | ???         |
+| Bullit   | Drücker?   | ???         |
+| Mort     | ???        | ???         |
+
+Stone: Smith in the Castle.
+Garak: Castle Wall/Court Guard. Here since the revolt.
+Skip: Arsenal Manager / Distributes weapons to the guards.
+Bullit: Administrative tasks in regard to the Convoy for Bartholo. 
+Mort: Guard in Prison Level 1. 
 
 
 ##### Outside Ring 
@@ -86,6 +104,8 @@ The names of the female slaves doesn't have to be translated.
 | ?        | ?          | Schnarcher    | Snore       | ?                |   ?   |
 
 
+
+
 ##### Arena 
 
 | ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
@@ -97,100 +117,135 @@ The names of the female slaves doesn't have to be translated.
 | Kirgo    | "          | ?             | ?           | Gladiator 3      |  3-4  |
 
 
-##### North Gate
-
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| Jack     | Jockel?    | ?             | ?           | Nordtorwache 1   |   ?   |
-| Greg     | ?          | ?             | ?           | Nordtorwache 2   |   ?   |
-| ?        | Borik      | ?             | ?           | Nordtorwache 3   |   ?   |
-| Bloodwyn | ?          | ?             | ?           | Nordtorwache 4   |   ?   |
-| ?        | ?          | ?             | Dust        | Nordtorwache 5   |   ?   |
-| ?        | ?          | ?             | Spot        | Nordtorwache 6   |   ?   |
+##### North Gate Guards
 
 
-##### South Gate
+| ENGLISH  | DEUTSCH    | POLISH      | 
+|----------|------------|-------------|
+| Jack     | Jockel?    | ???         |
+| Greg     | ???        | ???         |
+| Borik    | "          | "           |
+| Bloodwyn | ???        | ???         |
+| Dust     | Staub      | ???         |
+| Spot     | Fleck      | ???         |
 
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| Mack     | "          | ?             | ?           | Südtorwache 1    |   ?   |
-| Tack     | "          | ?             | ?           | Südtorwache 2    |   ?   |
-| Belvo    | "          | ?             | ?           | Südtorwache 3    |   ?   |
-| ?        | "          | ?             | ?           | Südtorwache 4    |   ?   |
-| ?        | "          | ?             | ?           | Südtorwache 5    |   ?   |
-| ?        | "          | ?             | ?           | Südtorwache 6    |   ?   |
+Borik: Here since the revolt.
+
+
+##### South Gate Guards
+
+| ENGLISH  | DEUTSCH    | POLISH     |
+|----------|------------|------------|
+| Mack     | "          | "          | 
+| Tack     | "          | "          |
+| Belvo    | "          | "          | 
+| Guard 4  | ???        | ???        | 
+| Guard 5  | ???        | ???        | 
+| Guard 6  | ???        | ???        | 
 
 
 ##### Palace Guards
 
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| ?        | ?          | ?             | ?           | Palastwache 1    |   ?   |
-| ?        | ?          | ?             | ?           | Palastwache 2    |   ?   |
-| ?        | ?          | ?             | ?           | Palastwache 3    |   ?   |
-| ?        | ?          | ?             | ?           | Palastwache 4    |   ?   |
-| ?        | ?          | ?             | ?           | Palastwache 5    |   ?   |
-| ?        | ?          | ?             | ?           | Palastwache 6    |   ?   |
+| ENGLISH  | DEUTSCH    | POLISH     |
+|----------|------------|------------|
+| ?        | ?          | ?          |
+| ?        | ?          | ?          | 
+| ?        | ?          | ?          |
+| ?        | ?          | ?          |
+| ?        | ?          | ?          |
+| ?        | ?          | ?          |
 
 
 ##### Kornkammer
 
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| ?        | ?          | ?             | ?           | Portalwache 1    |   ?   |
-| ?        | ?          | ?             | ?           | Portalwache 2    |   ?   |
-| ?        | ?          | ?             | ?           | Portalwache 3    |   ?   |
-| ?        | ?          | ?             | ?           | Portalwache 4    |   ?   |
-| ?        | ?          | ?             | ?           | Portalwache 5    |   ?   |
-| ?        | ?          | ?             | ?           | Portalwache 6    |   ?   |
+| ENGLISH  | DEUTSCH    | POLISH     | 
+|----------|------------|------------|
+| ?        | ?          | ?          |
+| ?        | ?          | ?          |
+| ?        | ?          | ?          |
+| ?        | ?          | ?          |
+| ?        | ?          | ?          |
+| ?        | ?          | ?          |
 
 
 ##### Alte Mine
-* Ian, german Jan, Minen Chef, level 5
-* Aaron, german?, Job?
-* Asghan, Minenwache Innen, weiterer Job/Rolle?
-* Brandick, german Brandrich, Job?
-* Drake, german ???, Minenwache Eing. Innen
-* Ulbert, Lagerhauswache
-* Stono, german "Kiesel/Brock", Polish Głaz, Minenwache Außen (tagsüber), abends nachts im OC
+
+| ENGLISH  | DEUTSCH    | POLISH     | 
+|----------|------------|------------|
+| Ian      | Ijan       | ???        |
+| Aaron    | Aaron/Job? | ?          |
+| Asghan   | "          | ?          |
+| Brandick | Brandrich  | ???        |
+| Drake    | ???        | ???        |
+| Ulbert   | "          | ???        |
+| Stono    | Brock?     | Głaz       |
+
+* Ian: Mine Chief/Administrator, level 5
+* Aaron: ???
+* Asghan: Main Mine Guard, Commander
+* Brandick: ???
+* Drake: Mine Guard at the Entrance Inside
+* Ulbert: Storage Guard
+* Stono: Mine Guard Outside (at day), evening/night at OC
 
 
-##### Täufer
+##### Baptizer
 
-* Parik (Täufer 1)
-* Baldhead, German Glatzkopf/Glatze, Polish Glaca (Täufer 2)
-* Der Lispler, English ???, Polish ??? (Täufer 3)
+| ENGLISH   | DEUTSCH          | POLISH     | 
+|-----------|------------------|------------|
+| Parik     | "                | Parik      |
+| Baldhead  | Glatzkopf/Glatze | Glaca      |
+| ???       | Lispler          | ???        |
+| [Nurrba]  | ???              | ???        |
+| [Huegoth] | ???              | ???        |
+
+* Parik: Arrogant Boss of the gang. 
+* Baldhead: ...
+* Lispler: ...
 * Der Nurrba (Tribe), Nickname unsure in all languages
 * Der Huegoth (Tribe), Nickname unsure in all languages
 
 
 ##### Convoy
 
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| ?        | "          | ?             | ?           | Convoiwache 1    |   ?   |
-| Ulgar    | "          | ?             | ?           | Convoiwache 2    |   ?   |
-| ?        | "          | ?             | ?           | Convoiwache 3    |   ?   |
-| Shabak   | "          | -             | -           | Halbork (Träger?) |   ?  |
+| ENGLISH  | DEUTSCH    | POLISH     |
+|----------|------------|------------|
+| ???      | ???        | ???        |
+| Ulgar    | "          | "          |
+| ???      | ???        | ???        |
+| Shabak   | "          | "          |
+
+Convoy Guard 1: ?
+Ulgar: Convoy Guard 2
+Convoy Guard 3: ?
+Shabak: Half-Orc, Carrier
 
 
 ##### Unsure
 
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| ?        | ?          | Kindtöter     | Childkiller | ?                |   ?   |
-| ?        | ?          | ?             | Fright(ening) | ?              |   ?   |
-| Orry     | Golder     | ?             | ?           | ?                |   ?   |
-| Pacho    | Kurzer     | ?             | ?           | ?                |   ?   |
-| ?        | ?          | Adler(auge)   | Hawk(eye)   | ?                |   ?   |
-| ?        | ?          | ?             | Sharp(blade) | ?               |   ?   |
-| ?        | ?          | Stinker       | Skunk       | ?                |   ?   |
-| ?        | Smörk      | -             | -           | ?, Halbork       |   ?   |
-| ?        | ?          | Schlange      | Snake       | ?                |   ?   |
-| ?        | ?          | Kralle        | Talon       | ?                |   ?   |
+| ENGLISH       | DEUTSCH     | POLISH     |
+|---------------|-------------|------------|
+| Childkiller   | Kindtöter   | ???        |
+| Fright(ening) | ???         | ???        |
+| Orry          | Golder?     | ???        |
+| Pacho         | Kurzer?     | ???        |
+| Hawk(eye)     | Adler(auge) | Jastrząb   |
+| Sharp(blade)  | Schärfer?   | ???        |
+| Skunk         | "           | ???        |
+| Smoerk        | Smörk       | ???        |
+| Snake         | Schlange    | ???        |
+| Talon         | Kralle      | ???        | 
 
-* Sharp(blade), maybe Sharper, German "Schärfer"
-* Hawk(eye), German Adler(auge), Polish Jastrząb, Scout, Crossbow
+* Childkiller: ???
+* Fright: ???
+* Orry: Exchange Guard
+* Pacho: ???
+* Hawk(eye): Scout, Crossbow, Exchange Guard
+* Sharp(blade), maybe "Sharper", German "Schärfer": ???
+* Skunk: Half-Orc
+* Smörk: Half-Orc
+* Snake: ???
+* Talon: ??? 
  
 
 #### Shadows
