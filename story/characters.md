@@ -87,10 +87,10 @@ Omid    // Cook of the barons
 |----------|------------|-------------|
 | Arto, Wardog | Arth(ur), Kriegshund | ???, Brytan      | 
 | Brabak   | "          | "           |
-| Scatty   | ???        | ???         |
+| Scatty   | ???        | Kloc ?      |
 | One-Eye  | Einauge    | ???         |
 | Thorus   | "          | "           |
-| Grinder  | Schleifer  | ???         |
+| Grinder  | Schleifer  | Mielec ?     |
 | Scorpio  | Skorpion?  | Skorpion    |
 | Hunter   | Jäger      | Łowca       |
 | Ian      | Ijan       | ???         |
