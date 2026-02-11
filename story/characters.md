@@ -24,7 +24,7 @@ And please note: For now we are only listing all the names to be found in the so
 |----------|------------|-------------|
 | Bartholo | "          | "           |
 | Gomez    | Sangwah?   | "           |
-| Raven    | Rabe       | Kruk        |
+| Raven    | Krah       | Kruk        |
 | Santino Garcia | "    | "           |
 | Scar     | Narwah     | Blizna      |
 | Vasquez  | Sangwah?   | "           |
