@@ -23,11 +23,11 @@ And please note: For now we are only listing all the names to be found in the so
 | ENGLISH  | DEUTSCH    | POLISH      |
 |----------|------------|-------------|
 | Bartholo | "          | "           |
-| Gomez    | "          | "           |
+| Gomez    | Sangwah?   | "           |
 | Raven    | Rabe       | Kruk        |
 | Santino Garcia | "    | "           |
 | Scar     | Narbe      | Blizna      |
-| Vasquez / Sangwah | " | "           |
+| Vasquez  | Sangwah?   | "           |
 | Arto, Wardog | ", Kriegshund | ", Brytan |
 | The Keeper | Der Wächter | Nadzorca  |
 
@@ -43,6 +43,7 @@ And please note: For now we are only listing all the names to be found in the so
 * Sangwah  // nickname/german name of either Gomez or Vasquez
 
 * Garcia could also be called "Garxa" in German
+* Vasquez could be called "Watzka" in German
 ```
 
 ### Slaves
