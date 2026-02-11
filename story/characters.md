@@ -92,29 +92,33 @@ Bullit: Administrative tasks in regard to the Convoy for Bartholo.
 Mort: Guard in Prison Level 1. 
 
 
-##### Outside Ring 
+##### Outside Ring Mercs
 
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| ?        | ?          | Fiederer?     | Fletcher    | Nordviertel      |   ?   |
-| ?        | ?          | Schakal       | Jackal      | Arenaviertel     |   ?   |
-| ?        | ?          | Bluter        | Bloodwyn    | Marktviertel     |   ?   |
-| Nek      | ?          | ?             | ?           | Ex-Nordviertel   |   ?   |
-| Rigosh?  | Rigosch    | Zweimesser    | Twoknife?   | ?                |   ?   |
-| ?        | ?          | Schnarcher    | Snore       | ?                |   ?   |
+| ENGLISH         | DEUTSCH            | POLISH      |
+|-----------------|--------------------|-------------|
+| Fletcher        | Fiederer/Fletscher | ???         | 
+| Jackal          | Schakal            | ???         |
+| Bloodwyn        | ???                | ???         |
+| Nek             | ???                | ???         |
+| Rigosh Twoknife | Rigosch Zweimesser | ???         |
+| Snore           | Schnarcher         | ???         |
 
-
+Bloodwyn: May be kept untranslated. Alternative ideas. German: "Bluter", "Blutwein".
+Twoknife, real name: Rigosh, German Rigosch, Polish ???
 
 
 ##### Arena 
 
-| ENGLISH  | DEUTSCH    | NICK (DE)     | NICK (EN)   | ROLE(S)          | LEVEL |
-|----------|------------|---------------|-------------|------------------|-------|
-| ?        | ?          | ?             | Scatty      | Arenameister     |   5   |
-| ?        | ?          | Narbe         | Scar        | [Gladiator]      |   6   |
-| ?        | ?          | Kapper?       | Cutter?     | Gladiator 1      |   5   |
-| Benwick  | "          | ?             | ?           | Gladiator 2      |  4-5  |
-| Kirgo    | "          | ?             | ?           | Gladiator 3      |  3-4  |
+| ENGLISH         | DEUTSCH       | POLISH      |
+|-----------------|---------------|-------------|
+| Scatty          | ???           | ???         | 
+| Scar            | Narbe         | ???         |
+| Cutter          | Kapper?       | ???         |
+| Benwick         | "             | "           |
+| Kirgo           | "             | "           |
+
+Scatty: Arenamaster (4-5)
+Scar (6), Cutter (5), Benwick (4-5), Kirgo (3-4): OC Gladiators.
 
 
 ##### North Gate Guards
@@ -279,40 +283,40 @@ Shad(ow) / ?       // "Kontakter"
 
 #### OC Folk 
 
-| ENGLISH  | DEUTSCH  |
-|----------|----------|
-| Alberto  | Alberto  |
-| Brownie  | der Braune / Brauni |
-| ?        | Brummel  |
-| Canthar  | Canthar  |
-| Cavalorn | ?        |
-| Creep    | Kriecher (?) |
-| Crumb    | Krümel/Krume |
-| Delon    | Delon    |
-| Derek    | Derek    |
-| Fisk     | Fisch?   |
-| Graham   | ?        | 
-| Gravo    | ?        |
-| Grim(face) | ?      |
-| Grumpy   | Grant (der Grantige) |
-| Guy      | Guido    |
-| Herek    | Herek    |
-| Huno     | Huno     |
-| Jesse    | ?        |
-| Jug      | ?        |
-| Kyle     | ?        |
-| Marus    | Marus    |
-| Mud      | Matsch(kopf)/Schlick |
-| ?        | Murks    |
-| Numb     | der Taube |
-| Olon     | Olon     |
-| Ryan     | Ryan     |
-| Scarry   | vllt. Ex-Scatty, vllt. Ex Scar, raus? | 
-| Sleepy  | Schlafmütze (?) |
-| Smokie   | Raucher (?) |
-| Snaf     | bleibt? Schnupf(er)? |
-| Woody    | Holzkopf |
-| ?        | Kimbahl  |
+| ENGLISH  | DEUTSCH             | POLISH  |
+|----------|---------------------|---------| 
+| Alberto  | "                   | ???     |
+| Brownie  | der Braune / Brauni |         |
+| ?        | Brummel             |         |
+| Canthar  | Canthar             |         |
+| Cavalorn | ?                   |         |
+| Creep    | Kriecher (?)        |         |
+| Crumb    | Krümel/Krume        |         |
+| Delon    | Delon               |         |
+| Derek    | Derek               |         |
+| Fisk     | Fisch?              |         |
+| Graham   | ?                   |         | 
+| Gravo    | ?                   |         |
+| Grim(face) | ?                 |         |
+| Grumpy   | Grant (der Grantige) |        |
+| Guy      | Guido    |         |
+| Herek    | Herek    |         |
+| Huno     | Huno     |         |
+| Jesse    | ?        |         |
+| Jug      | ?        |         |
+| Kyle     | ?        |         |
+| Marus    | Marus    |         | 
+| Mud      | Matsch(kopf)/Schlick |      |
+| ?        | Murks    |           |
+| Numb     | der Taube |          |
+| Olon     | Olon     |           |
+| Ryan     | Ryan     |           |
+| Scarry   | vllt. Ex-Scatty, vllt. Ex Scar, raus? |    | 
+| Sleepy  | Schlafmütze (?) |         |
+| Smokie   | Raucher (?) |            |
+| Snaf     | bleibt? Schnupf(er)? |      |
+| Woody    | Holzkopf |          |
+| ?        | Kimbahl  |          |
 
 
 #### OC Miners / Diggers
