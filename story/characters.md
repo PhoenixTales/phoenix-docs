@@ -86,7 +86,7 @@ Omid    // Cook of the barons
 | One-Eye  | Einauge    | ???         |
 | Thorus   | "          | "           |
 | Grinder  | Schleifer  | ???         |
-| Scorpio  | ???        | ???         |
+| Scorpio  | Skorpion?  | Skorpion    |
 | Hunter   | Jäger      | Łowca       |
 | Ian      | Ijan       | ???         |
 
