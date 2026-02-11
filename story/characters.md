@@ -244,6 +244,10 @@ Borik  // Guard, here since the revolt.
 
 #### Baptizers
 
+```
+After the prologue these mercs can play roles in the Outside Ring and fill some gaps (e.g. for the lacking South Gate Guards or guarding the "Kornkammer".
+```
+
 | ENGLISH   | DEUTSCH          | POLISH     | 
 |-----------|------------------|------------|
 | Parik     | "                | Parik      |
@@ -262,6 +266,10 @@ Borik  // Guard, here since the revolt.
 
 #### Convoy
 
+```
+After the prologue these mercs, just as the baptisers, can play roles in the Outside Ring and fill gaps (e.g. for the lacking South Gate Guards or guarding the "Kornkammer".
+```
+
 | ENGLISH  | DEUTSCH    | POLISH     |
 |----------|------------|------------|
 | ???      | ???        | ???        |
@@ -277,6 +285,10 @@ Shabak       // Half-Orc, Carrier
 ```
 
 #### Unsure
+
+```
+Some of these NPCs may be used in the castle, others can play roles in the Outside Ring and fill gaps (e.g. for the lacking South Gate Guards or guarding the "Kornkammer".
+```
 
 | ENGLISH       | DEUTSCH     | POLISH     |
 |---------------|-------------|------------|
