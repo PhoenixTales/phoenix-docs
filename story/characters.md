@@ -15,7 +15,7 @@ And please note: For now we are only listing all the names to be found in the so
 
 <!-- TOC_PLACEHOLDER -->
 
-Authorship: The german translation of nicknames (or the english translation in case of older names that were only known in german) was done by Flosha. For the polish translation of names, the original translation team of the polish edition of Gothic is to be credited, while all additional new translations were done by...
+Authorship: The german translation of nicknames (or the english translation in case of older names that were only known in german) was done by Flosha. For the polish translation of names, the original translation team of the polish edition of Gothic is to be credited, while all additional new translations were done by *adi95*.
 
 
 
