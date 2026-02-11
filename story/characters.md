@@ -128,7 +128,7 @@ Mort   // Guard in Prison Level 1.
 |-----------------|--------------------|-------------|
 | Fletcher        | Fiederer/Fletscher | ???         | 
 | Jackal          | Schakal            | Szakal         |
-| Bloodwyn        | Blutvin            | ???         |
+| Bloodwyn        | Bladwin            | ???         |
 | Nek             | ???                | ???         |
 | Rigosh Twoknife | Rigosch Zweimesser | ???         |
 | Snore           | Schnarcher         | ???         |
@@ -142,7 +142,7 @@ Rigosh    // Nickname "Twoknife"?
 Snore     // sleeps at the Gate
 ```
 
-* **Bloodwyn:** May be kept untranslated. Alternative ideas. Mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter? Or "Bluter" or "Blutwein". But if we understand the "wyn" like in "Marvin", then it can mean something like "loving" blood. If so, then simply "Der Blutrünstige" would be fitting or simply germanising the name, so that its spelled "Blutvin" in German with almost the same pronounciation, just not as english. 
+* **Bloodwyn:** May be kept untranslated. Alternative ideas. Mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter? Or "Bluter" or "Blutwein". But if we understand the "wyn" like in "Marvin", then it can mean something like "loving" blood. If so, then simply "Der Blutrünstige" would be fitting or simply germanising the name, so that its spelled "Blutvin" in German with almost the same pronounciation, just not as english. // As it seems, an earlier of the name can be found in the documents as Bladwin, which clarifies the meaning (same as Baldwin, as it seems) and also offers the exact same pronouncation as the English Bloodwyn in German and with a more german appearing name. 
 * **Fletcher:** To fletch means "befiedern"; Fletcher could thus be translated as "Fiederer" in German. On the other hand it reminds of the German "(Zähne) fletschen", as it sounds the same, which in English means "to bare ones teeth"; he could thus be translated as "Fletscher", which fully preserves the sound and may fit in meaning better than his English name. 
 * **Nek:** "Nek" is an allusion to "Death". Can either be kept in all languages or translated to something similar with the same allusion. 
 
