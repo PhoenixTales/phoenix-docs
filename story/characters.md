@@ -48,8 +48,6 @@ Maybe Santino, maybe Vasquez = Sangwah
 
 #### Slaves
 
-The names of the female slaves doesn't have to be translated. 
-
 * Balam
 * Elvira
 * [Servant]
@@ -59,6 +57,9 @@ The names of the female slaves doesn't have to be translated.
 * Syra
 * Velaya
 
+```
+The names of the female slaves don't have to be translated. 
+```
 
 #### Guards
 
@@ -76,16 +77,17 @@ The names of the female slaves doesn't have to be translated.
 | Hunter   | Jäger      | Łowca       |
 | Ian      | Ijan       | ???         |
 
-Wardog (real name "Arto"): Söldnerhauptmann
-Brabak: Ex-Sld-Hauptmann (dead)
-Scatty: Arenameister
-One-Eye: Außeneinsätze
-Thorus: Leutnant, Guard Organisation
-Grinder: Sadistic Teacher of Recruits
-Scorpio: Melee Combat Teacher
-Hunter: Ranged Combat Teacher (Crossbow)
-Ian: Old Mine Chief
-
+```
+Arto    // nickname "Wardog": Söldnerhauptmann
+Brabak  // Ex-Sld-Hauptmann (dead)
+Scatty  // Arenameister
+One-Eye // Außeneinsätze
+Thorus  // Leutnant, Guard Organisation
+Grinder // Sadistic Teacher of Recruits
+Scorpio // Melee Combat Teacher
+Hunter  // Ranged Combat Teacher (Crossbow)
+Ian     // Old Mine Chief
+```
 
 ##### Castle 
 
@@ -97,12 +99,13 @@ Ian: Old Mine Chief
 | Bullit   | Drücker?   | Byk ?       |
 | Mort     | ???        | ???         |
 
-Stone: Smith in the Castle.
-Garak: Castle Wall/Court Guard. Here since the revolt.
-Skip: Arsenal Manager / Distributes weapons to the guards.
-Bullit: Administrative tasks in regard to the Convoy for Bartholo. 
-Mort: Guard in Prison Level 1. 
-
+```
+Stone  // Smith in the Castle.
+Garak  // Castle Wall/Court Guard. Here since the revolt.
+Skip   // Arsenal Manager, distributes weapons to the guards.
+Bullit // Administrative and protection tasks in regard to the Convois for Bartholo. 
+Mort   // Guard in Prison Level 1. 
+```
 
 ##### Outside Ring Mercs
 
@@ -115,8 +118,18 @@ Mort: Guard in Prison Level 1.
 | Rigosh Twoknife | Rigosch Zweimesser | ???         |
 | Snore           | Schnarcher         | ???         |
 
-Bloodwyn: May be kept untranslated. Alternative ideas. German: "Bluter", "Blutwein". Or: If we see the "wyn" like in "Marvin", then it can mean something like "loving" blood. If so, then simply "Der Blutrünstige" would be fitting or a simply germanising the name, so that its spelled "Blutvin" in German with almost the same pronounciation, just not as english. 
-Twoknife, real name: Rigosh, German Rigosch, Polish ???
+```
+Fletcher  //
+Jackal    //
+Bloodwyn  //
+Nek       // dead Guard, ...
+Rigosh    // Nickname "Twoknife"?
+Snore     // sleeps at the Gate
+```
+
+* **Bloodwyn:** May be kept untranslated. Alternative ideas. Mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter? Or "Bluter" or "Blutwein". But if we understand the "wyn" like in "Marvin", then it can mean something like "loving" blood. If so, then simply "Der Blutrünstige" would be fitting or simply germanising the name, so that its spelled "Blutvin" in German with almost the same pronounciation, just not as english. 
+* **Fletcher:** To fletch means "befiedern"; Fletcher could thus be translated as "Fiederer" in German. On the other hand it reminds of the German "(Zähne) fletschen", as it sounds the same, which in English means "to bare ones teeth"; he could thus be translated as "Fletscher", which fully preserves the sound and may fit in meaning better than his English name. 
+
 
 
 ##### Arena 
@@ -129,8 +142,10 @@ Twoknife, real name: Rigosh, German Rigosch, Polish ???
 | Benwick         | "             | "           |
 | Kirgo           | "             | "           |
 
-Scatty: Arenamaster (4-5)
-Scar (6), Cutter (5), Benwick (4-5), Kirgo (3-4): OC Gladiators.
+```
+Scatty   // Arenamaster (4-5)
+Scar (6), Cutter (5), Benwick (4-5), Kirgo (3-4) // OC Gladiators.
+```
 
 
 ##### North Gate Guards
@@ -145,8 +160,9 @@ Scar (6), Cutter (5), Benwick (4-5), Kirgo (3-4): OC Gladiators.
 | Dust     | Staub      | ???         |
 | Spot     | Fleck      | ???         |
 
-Borik: Here since the revolt.
-
+```
+Borik  // Guard, here since the revolt.
+```
 
 ##### South Gate Guards
 
@@ -164,24 +180,24 @@ Borik: Here since the revolt.
 
 | ENGLISH  | DEUTSCH    | POLISH     |
 |----------|------------|------------|
-| ?        | ?          | ?          |
-| ?        | ?          | ?          | 
-| ?        | ?          | ?          |
-| ?        | ?          | ?          |
-| ?        | ?          | ?          |
-| ?        | ?          | ?          |
+| Guard 1  | ?          | ?          |
+| Guard 2  | ?          | ?          | 
+| Guard 3  | ?          | ?          |
+| Guard 4  | ?          | ?          |
+| Guard 5  | ?          | ?          |
+| Guard 6  | ?          | ?          |
 
 
 ##### Kornkammer
 
 | ENGLISH  | DEUTSCH    | POLISH     | 
 |----------|------------|------------|
-| ?        | ?          | ?          |
-| ?        | ?          | ?          |
-| ?        | ?          | ?          |
-| ?        | ?          | ?          |
-| ?        | ?          | ?          |
-| ?        | ?          | ?          |
+| Guard 1  | ?          | ?          |
+| Guard 2  | ?          | ?          | 
+| Guard 3  | ?          | ?          |
+| Guard 4  | ?          | ?          |
+| Guard 5  | ?          | ?          |
+| Guard 6  | ?          | ?          |
 
 
 ##### Alte Mine
@@ -196,16 +212,17 @@ Borik: Here since the revolt.
 | Ulbert   | "          | ???        |
 | Stono    | Brock?     | Głaz       |
 
-* Ian: Mine Chief/Administrator, level 5
-* Aaron: ???
-* Asghan: Main Mine Guard, Commander
-* Brandick: ???
-* Drake: Mine Guard at the Entrance Inside
-* Ulbert: Storage Guard
-* Stono: Mine Guard Outside (at day), evening/night at OC
+```
+* Ian       // Mine Chief/Administrator, level 5
+* Aaron     // ???
+* Asghan    // Main Mine Guard, Commander
+* Brandick  // ???
+* Drake     // Mine Guard at the Entrance Inside
+* Ulbert    // Storage Guard
+* Stono     // Mine Guard Outside (at day), evening/night at OC
+```
 
-
-##### Baptizer
+##### Baptizers
 
 | ENGLISH   | DEUTSCH          | POLISH     | 
 |-----------|------------------|------------|
@@ -215,12 +232,13 @@ Borik: Here since the revolt.
 | [Nurrba]  | ???              | ???        |
 | [Huegoth] | ???              | ???        |
 
-* Parik: Arrogant Boss of the gang. 
-* Baldhead: ...
-* Lispler: ...
-* Der Nurrba (Tribe), Nickname unsure in all languages
-* Der Huegoth (Tribe), Nickname unsure in all languages
-
+```
+* Parik     // Arrogant Boss of the gang. 
+* Baldhead  // ...
+* Lispler   // ...
+* Nurrba    // "Nurrba" is just his tribe, Nickname unsure in all languages
+* Huegoth   // "Huegoth" is just his tribe, Nickname unsure in all languages
+```
 
 ##### Convoy
 
@@ -231,11 +249,12 @@ Borik: Here since the revolt.
 | ???      | ???        | ???        |
 | Shabak   | "          | "          |
 
-Convoy Guard 1: ?
-Ulgar: Convoy Guard 2
-Convoy Guard 3: ?
-Shabak: Half-Orc, Carrier
-
+```
+Convoy Grd 1 // ? -- Maybe Bullit(!)
+Ulgar        // Convoy Guard 2
+Convoy Grd 3 // ...
+Shabak       // Half-Orc, Carrier
+```
 
 ##### Unsure
 
@@ -252,17 +271,19 @@ Shabak: Half-Orc, Carrier
 | Snake         | Schlange    | ???        |
 | Talon         | Kralle      | ???        | 
 
-* Childkiller: ???
-* Fright: ???
-* Orry: Exchange Guard
-* Pacho: ???
-* Hawk(eye): Scout, Crossbow, Exchange Guard
-* Sharp(blade), maybe "Sharper", German "Schärfer": ???
-* Skunk: Half-Orc
-* Smörk: Half-Orc
-* Snake: ???
-* Talon: ??? 
- 
+```
+* Childkiller   // ???
+* Fright        // ???
+* Orry          // Exchange Guard
+* Pacho         // ???
+* Hawk(eye)     // Scout, Crossbow, Exchange Guard
+* Sharp(blade)  // maybe "Sharper", German "Schärfer": ???
+* Skunk         // Half-Orc
+* Smörk         // Half-Orc
+* Snake         // ???
+* Talon         // ??? 
+```
+
 
 #### Shadows
 
@@ -306,6 +327,9 @@ Diego?    // Bote, "der Dieb"
 Shad(ow)  // "Kontakter"
 ```
 
+* **Phantom:** Etymologically related to "fantasy", from latin phantasia (“imagination”), which in turn comes from ancient Greek φαντασία (phantasía, “apparition”), from φαντάζω (phantázō, “to render visible”), from φαντός (phantós, “visible”), from φαίνω (phaínō, “to make visible”); from the same root as φάος (pháos, “light”); ultimately from Proto-Indo-European *bʰh₂nyéti, from the root *bʰeh₂- (“to shine”). Interpretation: It is funny how something that means "to make visible" has ultimately turned into an illusion in form of "phantom", it is apparently visible, but not to the eyes; this ambivalent kind of meaning is the very same as in the German "Schein". Something that "erscheint" is something that is obviously seen, just as the english "shine", but it is at the same time what in English is described as "to seem" - it may as well be an illusion, only *seems* to be. But as a nickname, "Schein" doesn't seem like a good solution. *Schein* comes from Middle High German schīn, Old High German scīn, skīn (“shine, brightness, light, ray”), from Proto-West Germanic *skīn, from Proto-Germanic *skīną. Cognate with Old Norse skína, Old Saxon scīnan, Old English sċīn (“phantom, ghost”), Dutch schijn, English shine, Gothic 𐍃𐌺𐌴𐌹𐌽𐌰𐌽 (skeinan). Therefore, in German: Skeinar, das Fantom? Skeinar as his real name, Fantom/Phantom as his nickname,
+* **Snogu:** To "snog" is slang and means as much as "to kiss" and to hold someone sexually. Based on this idea Snogu could be something like "Küsser", "Necker", but "Snogger" would be a more fitting nickname in that case... What could Snogu mean other than that?
+
 
 #### OC Folk 
 
@@ -344,7 +368,9 @@ Shad(ow)  // "Kontakter"
 | Woody    | Holzkopf |          |
 | ?        | Kimbahl  |          |
 
+```
 Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be deleted 
+```
 
 
 #### OC Miners / Diggers
@@ -452,7 +478,14 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 | Fodder   | Zottel oder Aas | ??         |
 | Henry    | Heinrich, Heinz? |  ???      |
 
-Drexel: Maybe an earlier name for Drax, therefore maybe combine it with Drax as its German name instead of a separate NPC? Check.
+```
+Drexel  // Maybe an earlier name for Drax, therefore maybe combine it with Drax as its German name instead of a separate NPC? Check.
+Bruce   // Organiser, which in CH1 hangs around at the marketplace of the Old Camp. 
+```
+
+* **Gaist**: Sounds identical to the german "Geist" (ghost), based on which we could identify him with the alpha NPC "Phantom", but Gaist is an Organiser in the novel, while Phantom most likely was a Shadow. When still holding on to this possible identity, he would have to be a double agent, but this does not fit the character description and style of Gaist; therefore we prefer to conceptualise them as different characters, which makes it difficult to translate both of them.
+* **Bruce**: The name comes from *Robert the Bruce* (Scottish Gaelic: *Raibeart am Brusach*), based on this we could either germanise him as Brusach or simplify it to just Brus or Brusa. In french: Brus.
+
 
 
 #### NC Folk
@@ -466,13 +499,20 @@ Drexel: Maybe an earlier name for Drax, therefore maybe combine it with Drax as 
 | Silas    | "         | "         |
 | Miles    | ???       | ???       |
 | Lukas    | Lukas     | ???       |
-| Russel   | Rotger    | ???       |
+| Russel   | Rotger/Russer  | ???       |
 | Urxai    | Urxai     | "         |
 | Marvin   | Marvin    | ???       |
 
-Homer = Taube in German = Brieftaube, ala der Nestbauer, alternative a better fitting name in German would be "Biber" (Beaver), as the "Builder of the "Beavercastle" of the NC
-Jeremiah = Ricelord
-Shrike: In German either Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels
+```
+Homer      // Builder of the Dam and the "Beavercastle"
+Jeremiah   // Ricelord
+Lefty      //
+...
+```
+
+* **Homer:** Literally "Taube" in German = Brieftaube, ala "Nestbauer", alternatively a better fitting name in German would be "Biber" (Beaver), as the "Builder of the "Beavercastle" of the NC.
+* **Shrike:** In German either Fink (beides Sperlinge) oder "Spießer" wegen der Bedeutung des Namens und dem Verhalten des Vogels
+* **Russel:** We may choose Rotger as his German equivalent. It is an old German name, nowadays most often spelled Roettger, with spelling variations like Ruder, Rodger, Rotheger, Rotoga, Reutter and *Russer*. Russer would also work, as it comes closer to the english original. 
 
 
 #### Peasants 
@@ -504,7 +544,9 @@ Shrike: In German either Fink (beides Sperlinge) oder "Spießer" wegen der Bedeu
 | Quentin  | Quentin  | ???     |
 | Renyu    | Renju    | ???     |
 
+```
 Quentin: German "der Fünfte".
+```
 
 
 ### Freedom
@@ -523,9 +565,11 @@ Quentin: German "der Fünfte".
 | Benedict | Benedikt | ??       |
 | Craven   | ???      | ??       |
 
+```
 Drexel: Maybe an earlier name for Drax, therefore maybe combine it with Drax as its German name instead of a separate NPC? Check.
 Dagger: Messer, besser als Dolch?
 Craven: Reminds of "Craving", could thus be associated with German "Sehnsucht", "Verlangen", "Begierde" etc., such as in a name like "Sehner" etc.
+```
 
 
 #### Scraper's Union
@@ -662,7 +706,10 @@ They are all using their own names or names given by the brotherhood based on th
 * ... 
 
 ### Mages
-They are all using their own or clerical names, none of them have to be translated. 
+
+```
+Mages are all using their own or clerical names, none of them have to be translated. 
+```
 
 #### Circle of Fire
 * Carasco // Milten Clone in ~0.7
@@ -758,33 +805,10 @@ After listening all the NPCs we offer an NPC short *description*, based on (1) w
 
 What we will not address here is how the characters will develop in course of the story; this is the topic of the "Character Plots", starting with the Character Progression. 
 
-
-### Bloodwyn / ?
-* Original Bloodwyn, mix with blood, mix of blood/blossom, Blut/Blüte -> Blüter?
-
-### Bruce 
-* The name comes from *Robert the Bruce* (Scottish Gaelic: *Raibeart am Brusach*), based on this we could either germanise him as Brusach or simplify it to just Brus or Brusa. 
-* In french: Brus.
-* He is an Organiser, which in CH1 hangs around at the marketplace of the Old Camp. 
-
 ### Earl / Orel
 * Earl, nickname "the Ear". 
 * A literal translation in meaning would be "Jarl" or "Graf", but *Earl* contains "ear" and it can be assumed to be on purpose, as it reminds of his role (of being the "ear" of the Barons in the sense of their most important spy); we therefore choose a name that contains the German "Ohr" in a similar way to "Earl" containing "ear". This let us think of "Orell" or "Orel" from Aurelius, "Orl" or "Oran". 
 
-### Fletcher
-* To fletch means "befiedern"; Fletcher could thus be translated as "Fiederer".
-* On the other hand it reminds of the German "(Zähne) fletschen", which in English means "to bare ones teeth"; he could thus be translated as "Fletscher", which fully preserves the sound and may fit in meaning better than his English name. 
-
-### Gaist
-* Sounds identical to the german "Geist" (ghost), based on which we could identify him with the alpha NPC "Phantom", but Gaist is an Organiser in the novel, while Phantom most likely was a Shadow.
-* When still holding on to this possible identity, he would have to be a double agent, but this does not fit the character description and style of Gaist; therefore we prefer to conceptualise them as different characters, which makes it difficult to translate both of them.
-* Gaist can be translated into English as "Ghost". 
-
-### Phantom 
-* Etymology: It is related to "fantasy", from latin phantasia (“imagination”), which in turn comes from ancient Greek φαντασία (phantasía, “apparition”), from φαντάζω (phantázō, “to render visible”), from φαντός (phantós, “visible”), from φαίνω (phaínō, “to make visible”); from the same root as φάος (pháos, “light”); ultimately from Proto-Indo-European *bʰh₂nyéti, from the root *bʰeh₂- (“to shine”).
-* Interpretation: It is funny how something that means "to make visible" has ultimately turned into an illusion in form of "phantom", it is apparently visible, but not to the eyes; this ambivalent kind of meaning is the very same as in the German "Schein". Something that "erscheint" is something that is obviously seen, just as the english "shine", but it is at the same time what in English is described as "to seem" - it may as well be an illusion, only *seems* to be. 
-* But as a nickname, "Schein" doesn't seem like a good solution. *Schein* comes from Middle High German schīn, Old High German scīn, skīn (“shine, brightness, light, ray”), from Proto-West Germanic *skīn, from Proto-Germanic *skīną. Cognate with Old Norse skína, Old Saxon scīnan, Old English sċīn (“phantom, ghost”), Dutch schijn, English shine, Gothic 𐍃𐌺𐌴𐌹𐌽𐌰𐌽 (skeinan).
-* Skeinar, das Fantom?
 
 ### Gorn
 NPC from Finster that found its way into Gothic. In Finster he is a guard of the "Tolben" people from Tolbenland, like *Damos*.
@@ -841,8 +865,3 @@ Maybe Half-Orcs.
 * *Balaam* is a biblical name of a prophet.
 * *Omid* is a persian/kurdish name meaning "hope".
 
-### Russel / Rotger
-We choose Rotger as his German equivalent, which is an old German name, nowadays most often spelled Roettger, with spelling variations like Ruder, Rodger, Rotheger, Rotoga, Reutter and *Russer*. 
-
-### Snogu
-* To "snog" is slang and means as much as "to kiss" and to hold someone sexually. Based on this idea Snogu could be something like "Küsser", "Necker", but "Snogger" would be a more fitting nickname in that case... What could Snogu mean other than that?
