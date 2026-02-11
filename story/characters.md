@@ -151,7 +151,7 @@ Snore     // sleeps at the Gate
 |-----------------|---------------|-------------|
 | Scatty          | ???           | ???         | 
 | Scar            | Narbe         | ???         |
-| Cutter          | Kapper?       | ???         |
+| Cutter          | Kapper?       | Siekacz         |
 | Benwick         | "             | "           |
 | Kirgo           | "             | "           |
 
