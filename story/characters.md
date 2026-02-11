@@ -278,7 +278,7 @@ Shabak       // Half-Orc, Carrier
 | Pacho         | Kurzer?     | ???        |
 | Hawk(eye)     | Adler(auge) | Jastrząb   |
 | Sharp(blade)  | Schärfer?   | ???        |
-| Skunk         | "           | ???        |
+| Skunk         | "           | Cap        |
 | Smoerk        | Smörk       | ???        |
 | Snake         | Schlange    | ???        |
 | Talon         | Kralle      | ???        | 
