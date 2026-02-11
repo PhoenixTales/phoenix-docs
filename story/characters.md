@@ -311,7 +311,7 @@ Shabak       // Half-Orc, Carrier
 |-------------|-------------|------------|
 | The Invisible | Der Unsichtbare | ???  |
 | Dark(man)   | Finster?    | ???        |
-| Viper       | ???         | Wąż / Zmija |
+| Viper       | ???         | Wąż / Żmija |
 | Snogu       | ???         | ???        |
 | Assassin 3  | ???         | ???        |
 | Earl, the Ear | Orel, das Ohr | ???    |
@@ -435,7 +435,7 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 | Blade    | Klinge   | ?         |
 | Cord     | Strick?  | ?         |
 | Damos    | ?        | ?         |
-| Dailah Iceskin | " Eishaut | " ??? |
+| Dailah Iceskin | " Eishaut | " Zimnoskóra ?? |
 | Jarvis   | ?        | ?         |
 | Kharim   | "        | "         |
 | Klitho ??? | " Kampfhand | " ?  |
@@ -619,7 +619,7 @@ Craven: Reminds of "Craving", could thus be associated with German "Sehnsucht", 
 | Laars    | " ??      | " ??      |
 | Ley      | Lej       | ???       |
 | Mihai    | "         | "         |
-| Old Man  | der Alte  | ???       |
+| Old Man  | der Alte  | Starzec ? |
 | Pieto Orefinder | " Erzfinder | " ??? |
 | Ragna    | "         | "         |
 | Renyu    | Renju     | ???       |
