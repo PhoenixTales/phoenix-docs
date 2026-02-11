@@ -25,27 +25,24 @@ And please note: For now we are only listing all the names to be found in the so
 | Bartholo | "          | "           |
 | Gomez    | "          | "           |
 | Raven    | Rabe       | Kruk        |
-| Santino ??? | " Sangwah | ??        |
+| Santino Garcia | "    | "           |
 | Scar     | Narbe      | Blizna      |
-| Vasquez  | "          | ??          |
+| Vasquez / Sangwah | " | "           |
 | Arto, Wardog | ", Kriegshund | ", Brytan |
-| TheKeeper | Der Wächter | Nadzorca  |
-| Garcia    | "         | "           |
+| The Keeper | Der Wächter | Nadzorca  |
 
 ```
 * Bartholo // "Außenminister", "Schatzmeister"
 * Gomez    // "Big Boss"
 * Raven    // "Schattenbaron", "Rechte Hand"
-* Santino/Sangwah // ?  
+* Santino  // surname Garcia
 * Scar     // "Söldnerbaron", "Linke Hand"
 * Vasquez  // "Grauer Baron"
 * Wardog   // "Konvoiführer", "Jungbaron"
 * TheKeeper // Orchunter, dead/Zombie
-* Garcia   // ...
+* Sangwah  // nickname/german name of either Gomez or Vasquez
 
-Maybe Santino, maybe Vasquez = Sangwah
-Garcia could also be called "Garxa" in German
-Santino and Garcia could be merged to Santino Garcia
+* Garcia could also be called "Garxa" in German
 ```
 
 ### Slaves
