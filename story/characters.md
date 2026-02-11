@@ -635,7 +635,7 @@ Craven: Reminds of "Craving", could thus be associated with German "Sehnsucht", 
 ## The Sect
 
 ```
-They are all using their own names or names given by the brotherhood based on the old language; none of the names have to be translated. 
+They are all using their own names or names given by the brotherhood based on the old language; only a few of the names have to be translated. 
 ```
 
 ### Novices
@@ -678,7 +678,7 @@ They are all using their own names or names given by the brotherhood based on th
 * Salm
 * Uzul
 * Fortuno
-* Caine
+* Caine, German Kain
 * Lester // "der Ketzer"
 * Joru
 * Darrion
@@ -688,6 +688,18 @@ They are all using their own names or names given by the brotherhood based on th
 * Viran
 * Balor
 * Ghorim
+
+| ENGLISH  | DEUTSCH   | POLISH    |
+|----------|-----------|-----------|
+| Moc      | Mok       | Mok       |
+| Mace     | ???       | ???       |
+| Sean     | ???       | ???       |
+| Kile     | ???       | ???       |
+| Caine    | Kain      | ???       |
+
+* Kile may be deleted (older version of Kyle)
+* Santino may be deleted, or one of the barons may defect, same for Bartholo (just a former usage of the name for a different, lower ranked NPC)
+
 
 ### Templars
 * Gor Na Go
@@ -716,6 +728,11 @@ They are all using their own names or names given by the brotherhood based on th
 * Luke
 * [Lou]
 * [Bladwin]
+
+* **Luke**, if he stays, has to be translated in German, Polish etc.
+* **Lou** appears as an NC peasant too, thus may defect etc.
+* **Bladwin** can be assumed to be an older version of Bloodwyn and potentially to be deleted. 
+
 
 ### Gurus
 * Y'Berion // "der Erleuchtete"
