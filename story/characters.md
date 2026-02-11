@@ -94,7 +94,7 @@ Ian: Old Mine Chief
 | Stone    | Steiner    | Skała       | 
 | Garak    | "          | "           |
 | Skip     | Kipp?      | ???         |
-| Bullit   | Drücker?   | ???         |
+| Bullit   | Drücker?   | Byk ?       |
 | Mort     | ???        | ???         |
 
 Stone: Smith in the Castle.
@@ -141,7 +141,7 @@ Scar (6), Cutter (5), Benwick (4-5), Kirgo (3-4): OC Gladiators.
 | Jack     | Jockel?    | ???         |
 | Greg     | ???        | ???         |
 | Borik    | "          | "           |
-| Bloodwyn | ???        | ???         |
+| Bloodwyn | Blutvin?   | ???         |
 | Dust     | Staub      | ???         |
 | Spot     | Fleck      | ???         |
 
@@ -339,7 +339,7 @@ Shad(ow)  // "Kontakter"
 | Ryan     | Ryan     |           |
 | Scarry   | ???      | Szrama/Tchórz | 
 | Sleepy  | Schlafmütze (?) |     |
-| Smokie   | Raucher (?) |        |
+| Smokie   | Raucher (?) | Zadymiarz ?  |
 | Snaf     | bleibt? Schnupf(er)? |   
 | Woody    | Holzkopf |          |
 | ?        | Kimbahl  |          |
