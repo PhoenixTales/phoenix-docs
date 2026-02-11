@@ -16,12 +16,9 @@ And please note: For now we are only listing all the names to be found in the so
 <!-- TOC_PLACEHOLDER -->
 
 
-## Character Names
+## Old Camp
 
-
-### Old Camp
-
-#### Barons
+### Barons
 
 | ENGLISH  | DEUTSCH    | POLISH      |
 |----------|------------|-------------|
@@ -49,7 +46,7 @@ And please note: For now we are only listing all the names to be found in the so
 Maybe Santino, maybe Vasquez = Sangwah
 ```
 
-#### Slaves
+### Slaves
 
 * Balam
 * Elvira
@@ -73,9 +70,9 @@ Omid    // Cook of the barons
 * **Servant:** No name found yet. 
 
 
-#### Guards
+### Guards
 
-##### Leaders & Teachers
+#### Leaders & Teachers
 
 | ENGLISH  | DEUTSCH    | POLISH      |
 |----------|------------|-------------|
@@ -101,7 +98,7 @@ Hunter  // Ranged Combat Teacher (Crossbow)
 Ian     // Old Mine Chief
 ```
 
-##### Castle 
+#### Castle 
 
 | ENGLISH  | DEUTSCH    | POLISH      |
 |----------|------------|-------------|
@@ -119,7 +116,7 @@ Bullit // Administrative and protection tasks in regard to the Convois for Barth
 Mort   // Guard in Prison Level 1. 
 ```
 
-##### Outside Ring Mercs
+#### Outside Ring Mercs
 
 | ENGLISH         | DEUTSCH            | POLISH      |
 |-----------------|--------------------|-------------|
@@ -144,7 +141,7 @@ Snore     // sleeps at the Gate
 * **Nek:** "Nek" is an allusion to "Death". Can either be kept in all languages or translated to something similar with the same allusion. 
 
 
-##### Arena 
+#### Arena 
 
 | ENGLISH         | DEUTSCH       | POLISH      |
 |-----------------|---------------|-------------|
@@ -160,8 +157,7 @@ Scar (6), Cutter (5), Benwick (4-5), Kirgo (3-4) // OC Gladiators.
 ```
 
 
-##### North Gate Guards
-
+#### North Gate Guards
 
 | ENGLISH  | DEUTSCH    | POLISH      | 
 |----------|------------|-------------|
@@ -176,7 +172,7 @@ Scar (6), Cutter (5), Benwick (4-5), Kirgo (3-4) // OC Gladiators.
 Borik  // Guard, here since the revolt.
 ```
 
-##### South Gate Guards
+#### South Gate Guards
 
 | ENGLISH  | DEUTSCH    | POLISH     |
 |----------|------------|------------|
@@ -188,7 +184,7 @@ Borik  // Guard, here since the revolt.
 | Guard 6  | ???        | ???        | 
 
 
-##### Palace Guards
+#### Palace Guards
 
 | ENGLISH  | DEUTSCH    | POLISH     |
 |----------|------------|------------|
@@ -200,7 +196,7 @@ Borik  // Guard, here since the revolt.
 | Guard 6  | ?          | ?          |
 
 
-##### Kornkammer
+#### Kornkammer
 
 | ENGLISH  | DEUTSCH    | POLISH     | 
 |----------|------------|------------|
@@ -212,7 +208,7 @@ Borik  // Guard, here since the revolt.
 | Guard 6  | ?          | ?          |
 
 
-##### Alte Mine
+#### Alte Mine
 
 | ENGLISH  | DEUTSCH    | POLISH     | 
 |----------|------------|------------|
@@ -234,7 +230,7 @@ Borik  // Guard, here since the revolt.
 * Stono     // Mine Guard Outside (at day), evening/night at OC
 ```
 
-##### Baptizers
+#### Baptizers
 
 | ENGLISH   | DEUTSCH          | POLISH     | 
 |-----------|------------------|------------|
@@ -252,7 +248,7 @@ Borik  // Guard, here since the revolt.
 * Huegoth   // "Huegoth" is just his tribe, Nickname unsure in all languages
 ```
 
-##### Convoy
+#### Convoy
 
 | ENGLISH  | DEUTSCH    | POLISH     |
 |----------|------------|------------|
@@ -268,7 +264,7 @@ Convoy Grd 3 // ...
 Shabak       // Half-Orc, Carrier
 ```
 
-##### Unsure
+#### Unsure
 
 | ENGLISH       | DEUTSCH     | POLISH     |
 |---------------|-------------|------------|
@@ -297,7 +293,7 @@ Shabak       // Half-Orc, Carrier
 ```
 
 
-#### Shadows
+### Shadows
 
 | ENGLISH     | DEUTSCH     | POLISH     |
 |-------------|-------------|------------|
@@ -345,7 +341,7 @@ Shad(ow)  // "Kontakter"
 * **Grag:** See "Grag and Otto" (google search), or Otho, may thus be kept and used as an allusion to that. Maybe Half-Orcs too? 
 
 
-#### OC Folk 
+### OC Folk 
 
 | ENGLISH  | DEUTSCH   | POLISH  |
 |----------|-----------|---------| 
@@ -387,7 +383,7 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 ```
 
 
-#### OC Miners / Diggers
+### OC Miners / Diggers
 
 | ENGLISH  | DEUTSCH  | POLISH    |
 |----------|----------|-----------|
@@ -414,9 +410,9 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 ```
 
 
-### New Camp
+## New Camp
 
-#### Mercenaries
+### Mercenaries
 
 | ENGLISH  | DEUTSCH  | POLISH    |
 |----------|----------|-----------|
@@ -469,7 +465,7 @@ Scarry: He may be an Ex-Scatty or an earlier version of Scar, potentially to be 
 * **Gorn:** Gorn is an NPC from the Finster Demo that found its way into Gothic. In Finster he is a guard of the "Tolben" people from Tolbenland, like *Damos*, so we could include Damos as a friend outside (Act 2).
 
 
-#### Organisation
+### Organisation
 
 | ENGLISH  | DEUTSCH  | POLISH    |
 |----------|----------|-----------|
@@ -504,8 +500,7 @@ Bruce   // Organiser, which in CH1 hangs around at the marketplace of the Old Ca
 * **Bruce**: The name comes from *Robert the Bruce* (Scottish Gaelic: *Raibeart am Brusach*), based on this we could either germanise him as Brusach or simplify it to just Brus or Brusa. In french: Brus.
 
 
-
-#### NC Folk
+### NC Folk
 
 | ENGLISH  | DEUTSCH   | POLISH    |
 |----------|-----------|-----------|
@@ -532,7 +527,7 @@ Lefty      //
 * **Russel:** We may choose Rotger as his German equivalent. It is an old German name, nowadays most often spelled Roettger, with spelling variations like Ruder, Rodger, Rotheger, Rotoga, Reutter and *Russer*. Russer would also work, as it comes closer to the english original. 
 
 
-#### Peasants 
+### Peasants 
 
 | ENGLISH | DEUTSCH | POLISH   |
 |---------|---------|----------|
@@ -554,7 +549,7 @@ Lefty      //
 * **Judex**: Originally named "Judas" in the documents. To avoid using this biblical name and all its associations we renamed him into Judex, based on the anti-hero of the same name. 
 
 
-#### Bandits / Renegades
+### Bandits / Renegades
 
 | ENGLISH  | DEUTSCH  | POLISH  |
 |----------|----------|---------|
@@ -568,9 +563,9 @@ Quentin: German "der Fünfte".
 ```
 
 
-### Freedom
+## Free Camp
 
-#### Rangers
+### Rangers
  
 | ENGLISH  | DEUTSCH  | POLISH   |
 |----------|----------|----------|
@@ -591,7 +586,7 @@ Craven: Reminds of "Craving", could thus be associated with German "Sehnsucht", 
 ```
 
 
-#### Scraper's Union
+### Scraper's Union
 
 | ENGLISH  | DEUTSCH   | POLISH    |
 |----------|-----------|-----------|
@@ -628,10 +623,13 @@ Craven: Reminds of "Craving", could thus be associated with German "Sehnsucht", 
 | Zuhl     | ???            | ???   |
 
 
-### The Sect
-They are all using their own names or names given by the brotherhood based on the old language; none of the names have to be translated. 
+## The Sect
 
-#### Novices
+```
+They are all using their own names or names given by the brotherhood based on the old language; none of the names have to be translated. 
+```
+
+### Novices
 * Ka Garon
 * Ka Lib
 * Ka Limae
@@ -682,7 +680,7 @@ They are all using their own names or names given by the brotherhood based on th
 * Balor
 * Ghorim
 
-#### Templars
+### Templars
 * Gor Na Go
 * Gor Na Vid
 * Gor Na Tot
@@ -710,7 +708,7 @@ They are all using their own names or names given by the brotherhood based on th
 * [Lou]
 * [Bladwin]
 
-#### Gurus
+### Gurus
 * Y'Berion // "der Erleuchtete"
 * Cor Angar // "der Rächer"
 * Cor Kalom // "Mastermind"
@@ -719,18 +717,19 @@ They are all using their own names or names given by the brotherhood based on th
 * [Cor] Fortuno // discarded - changed into a Novice
 * Cor Garrion // discarded - changed into...
 
-#### Slaves
+### Slaves
 * Chani
 * Natalia
 * ... 
 
-### Mages
+
+## Mages
 
 ```
 Mages are all using their own or clerical names, none of them have to be translated. 
 ```
 
-#### Circle of Fire
+### Circle of Fire
 * Carasco // Milten Clone in ~0.7
 * Corristo 
 * Damarok // Alchemist?   
@@ -743,13 +742,15 @@ Mages are all using their own or clerical names, none of them have to be transla
 * Rodriguez // ...
 * Torrez // we equate him with "Hellfire" (only KDF in 0.56c)
 
-#### Royal Mages (Sequel)
+<!--
+### Royal Mages (Sequel)
 * Catmaol // Leader
 * Feoras // Runemaker 
 * Morogh // Alchemist
 * Nereus // ...
+-->
 
-#### Circle of Water
+### Circle of Water
 * Abraxus // Story 3.3
 * Cronos
 * Kaskoh // KDW in the Novel
@@ -761,12 +762,14 @@ Mages are all using their own or clerical names, none of them have to be transla
 * Saturas // Leader of KDW since at least Story 3.3
 * Torin // Story 3.3
 
-#### DMB
+### DMB
 * Xardas / Necron (in Story 3.3)
 
-#### Druids
-* Gygax [F]
-* Elmore [F]
+<!--
+### Druids
+* **Gygax:** Being the most powerful druid in Tolbenland, he lives at Royal Court of Cranwater.
+* **Elmore:** Mage/Alchemist, assistant of Gygax.
+-->
 
 ### Orcs of Bloodearth Clan
 * Uruk
@@ -779,6 +782,7 @@ Mages are all using their own or clerical names, none of them have to be transla
 * Arushat
 * ...
 
+<!--
 ### Royals/Paladins
 * Rhobar (II.)
 * Princess
@@ -788,7 +792,7 @@ Mages are all using their own or clerical names, none of them have to be transla
 * Radulf
 * Ingmar
 * ...
-
+-->
 
 ### Finster NPCs
 
