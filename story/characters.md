@@ -259,8 +259,8 @@ After the prologue these mercs can play roles in the Outside Ring and fill some 
 ```
 Baptizers (3 people):
 * Narbengesicht: Big man, "Hüne", blond, old decayed, patchwork leather armor and leather pants, at his belt a leather-wrapped "Holzkeule". A big scar all through the face, as if parting the face diagonally in two, from his hairline to the middle of his chin. 
-* Baldhead  // Smiling to show several black teeth. Leather pants and no shirt, scars on his upper body, a broken nose being off-centered, a big (bad) snake tattoo from the top of the head to the throat. Carrying a small, threatening "Wurfaxt". 
-* Lispler  // Skinny guy, grey woven coat, "Umhang", decayed Filzkappe (brown?), big gap between the front teeth (Schneidezähne).
+* Baldhead  // Smiling to show several black teeth. Leather pants and no shirt, scars on his upper body, a broken nose being off-centered, a big (bad) snake tattoo from the top of the head to the throat. Carrying a small, threatening "Wurfaxt". Dies soom after first encounter in the forest, somewhere towards the AM/VM. 
+* Lispler  // Skinny guy, grey woven coat, "Umhang", decayed Filzkappe (brown?), big gap between the front teeth (Schneidezähne). 
 
 Second Welcome Comittee (4 people):
 * Parik - Boss of the gang?
