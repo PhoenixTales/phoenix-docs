@@ -652,6 +652,8 @@ Craven: Reminds of "Craving", could thus be associated with German "Sehnsucht", 
 | Weeze    | ???            | ???   |
 | Zuhl     | ???            | ???   |
 
+* **The Old Man:** Mysterious man with yellowish eyes with a illuminating, byt friendly expression. Hageres Gesicht, sitting in tailors pose, smoking Pfeife, friendly or critical expression, old, crushed/zerdrückte Filzkappe, under it a grey "Haarkranz" standing to all sides, "schütteres Haar". Skinny body, decayed grey woolen shirt and a very broken down, see-through cloak (Umhang), colour undefined.
+
 
 ## The Sect
 
