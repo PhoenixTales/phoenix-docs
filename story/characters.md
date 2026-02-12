@@ -257,8 +257,8 @@ After the prologue these mercs can play roles in the Outside Ring and fill some 
 | [Hueroth] | ???              | ???        |
 
 ```
-* Parik     // Arrogant Boss of the gang. 
-* Baldhead  // He has a single, long, black "Skalplocke" at the back of his head, standing upwards bouncing, several pieces of bone at his ears, smiling tentatively. Leather pants and shirt.
+* Parik     // Arrogant Boss of the gang. Big man, "Hüne", blond, old decayed, patchwork leather armor and leather pants, at his belt a leather-wrapped "Holzkeule". A big scar all through the face, as if parting the face diagonally in two, from his hairline to the middle of his chin. 
+* Baldhead  // He has a single, long, black "Skalplocke" at the back of his head, standing upwards bouncing, several pieces of bone at his ears, smiling tentatively. Leather pants and no shirt, scars on his upper body, a broken nose being off-centered, a big (bad) snake tattoo from the top of the head to the throat.
 * Lispler   // ...
 * Nurrba    // "Nurrba" is just his tribe, Nickname unsure in all languages. Dark skin, long, waving, green hair bound together, wears leather pants and shirt like baldhead, different from the Hueroth (wider, woven pants). Eisenknüppel. 
 * Hueroth   // "Hueroth" is just his tribe, Nickname unsure in all languages, red beard, blue eyes, barbaric look, only decayed woven pants and shirt, broad belt, a two-handed sword on his back. 
