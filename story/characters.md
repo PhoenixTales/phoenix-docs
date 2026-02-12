@@ -258,9 +258,9 @@ After the prologue these mercs can play roles in the Outside Ring and fill some 
 
 ```
 * Parik     // Arrogant Boss of the gang. 
-* Baldhead  // ...
+* Baldhead  // He has a single, long, black "Skalplocke" at the back of his head, standing upwards bouncing, several pieces of bone at his ears.
 * Lispler   // ...
-* Nurrba    // "Nurrba" is just his tribe, Nickname unsure in all languages
+* Nurrba    // "Nurrba" is just his tribe, Nickname unsure in all languages. Dark skin, long, waving, green hair bound together, . 
 * Hueroth   // "Hueroth" is just his tribe, Nickname unsure in all languages, red beard, blue eyes, barbaric look, only decayed woven pants and shirt, broad belt, a two-handed sword on his back. 
 ```
 
