@@ -49,3 +49,41 @@ Therefore the following rule:
 If he solves all 6 inter-camp missions or if he reaches at least +2 for one camp, the intra-camp missions (JoinGuild Stage 2) will become available (only in the one or two camp(s) that he has developed a preference for). After receiving or rather *accepting* the intra-camp missions in one camp, the intra-camp missions in the other camp (in case that he had equal preference for two), will be omitted.
 
 
+## (2) Class Decision
+
+The class decision tree is a complex of missions between the guilds (representing classes) of a camp (which camp depends on how he solved the camp decision complex), that the player can solve in a specific playstyle in favour of a class and in disfavour of others, ultimately developing a preference for one particular class that he *wants* to play, while also developing the necessary attributes and skills of the class in question. Depending on his camp decision (see #1) he will have to solve missions dealing with the relationship of (and/or with conflicts between) the following guilds:
+   * OC: Stt <> Grd <> KdF
+   * NC: Org <> Sld <> KdW
+   * FC: Sfb <> Fll
+   * Psi: Nov <> Tpl
+
+* **OC:**
+   * Stt <> Grd
+   * Grd <> KdF
+   * Kdf <> Stt
+* **NC:**
+   * Org <> Sld
+   * Sld <> KdW
+   * KdW <> Org
+* **FC:** / (no decision, because they do not have fixed guilds, everyone belongs to the Scraper's Union and serves according to his abilities, thereby the FC-SC automatically becomes a sort of Warrior-Thief Hybrid, the "Guerilla" class.)
+* **Psi:** Nov <> Tpl
+
+Process:  
+* If he solves one of these missions, e.g. Stt <> Grd and decides it for Stt, the warrior path will be ruled out. Only then he receives the second mission left, Kdf <> Stt and decides it for e.g. Stt (Thief). If he would have decided for the Grd Class first, ruling out the thief path in favour of the warrior path, he would receive the Grd <> KdF mission instead, to decide between Warrior and Mage. Then the (3) guild decision mission(s) will be unlocked. 
+* While the former missions had camp preference as their primary focus, with class preference being of secondary importance, these missions have class preference (playstyle) as their primary focus and guild loyalty as their secondary focus. Therefore the mission between two classes of a camp (e.g. Stt <> Kdf), has to be solveable by either using a thief or a mage playstyle primarily, while building some degree of guild loyalty secondarily. After these missions (one or two, depending on the camp), the class is fixed.
+
+
+## (3) Guild Decision
+
+Now that the player has decided for a class, he will have to solve a final set of exactly two missions between guilds of the same class across the camps, to seal his loyalty and finally join a guild: 
+ 
+* Intra Thief Class:
+    1. Org vs. Stt
+    2. If for Org: Org vs. FC. If for Stt: Stt vs. FC.
+* Intra Mage/Psi Class:
+     1. Circles vs. Psi
+     2. If for Circles: KdW vs. KdF. If for Psi: Indirect Psi Joining → Nov. 
+* Intra Warrior Class:
+    1. Grd/Sld vs. Sect
+    2. If for Grd/Sld: Grd <> Sld. If for Sect: Indirect Psi Joining → Tpl.
+ 
