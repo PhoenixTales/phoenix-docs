@@ -15,12 +15,7 @@ The inter-camp decision tree is a complex of missions, by which the player can i
 * FC to NC
 * Psi to FC
 
-With three camps, there have to be three missions to deal with the relationship of each camp + one final mission in case that he decides for a different camp in every former mission. This is how it was planned in the Phoenix Docs from 17.09.2000:
-   * OC to NC
-   * OC to Psi
-   * Psi to NC
-   * OC to NC to Psi
-But with the Free Camp as a fourth camp, following the older ideas, we have to include the above six missions in order to deal with the relationships of each camp.
+With three camps, there have to be three missions to deal with the relationship of each camp + one final mission in case that he decides for a different camp in every former mission. This is how it was planned in the Phoenix Docs from 17.09.2000: (1) OC to NC, (2) OC to Psi, (3) Psi to NC and (4) OC to NC to Psi. But with the Free Camp as a fourth camp, following the older ideas, we have to include the above six missions in order to deal with the relationships of each camp. 
 {: .subtext }
 
 
@@ -34,7 +29,7 @@ Let us assume the players preference is clear and he prefers the Free Camp, and 
   * FC to NC (+1 FC -1 NC)
   * Psi to FC (+1 FC -1 Psi)
 
-Every decision is a decision for one camp and against another. Therefore there are not only plus points, but minus points too. By solving the missions as above, he will have -3 for OC, which is a very bad relationship (enemy). He will have +2 for NC, which is a positive relationship. He will have -1 for Psi, which is a slightly negative one, and he will have +3 for FC, which means he is a friend. In such a case, the decision for the Free Camp is clear and the relationship with the OC is fucked.
+Every decision is a decision for one camp and against another. Therefore in difference to the original idea we will not only have plus points, but minus points too. By solving the missions as above, he will have -3 for OC, which is a very bad relationship (enemy). He will have +2 for NC, which is a positive relationship. He will have -1 for Psi, which is a slightly negative one, and he will have +3 for FC, which means he is a friend. In such a case, the decision for the Free Camp is clear and the relationship with the OC is fucked.
 
 Let us now assume the player decides these missions in the following way, very diversely:
    * OC to NC (+1 OC -1 NC)
