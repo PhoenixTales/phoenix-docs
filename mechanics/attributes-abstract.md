@@ -4,23 +4,23 @@ Abstract of the Attribute System of Phoenix
 *Flosha, July 20th, 2026*
 
 ## Structure of Attributes
-NPCs have (1) general attributes, that all NPCs share and (2) special attributes, that are limited to specific species, classes or individuals. 
+NPCs have (1) general attributes, that all NPCs share and (2) special attributes, that are limited to specific species, classes or individuals. Of these general and special attributes, some or "primary" attributes, which are represented in the character sheet in form of clear text terms, while others are "secondary" attributes, which appear only in form of icons or bars.  
 
 ## General Attributes
-All NPCs (Humans and Monsters) share the following attributes (although different species have different maximum values). General attributes are displayed in the character sheet from the very beginning: 
-* `ATR_CONSTITUTION` (related to their Physical Condition, which scales their endurance)
+All NPCs (Humans and Monsters) share the following attributes (although different species have different maximum values). General attributes are displayed in the character sheet from the very beginning. They are linked with the secondary attributes listed below them:   
+* `ATR_CONSTITUTION` // "Konstitution". Related to Physical Condition, which scales endurance.
   * `ATR_ENDURANCE` 
 * `ATR_MADNESS` (related to their Mental Condition)
 * `ATR_STRENGTH` (related to their Physical Strength which scales their hitpoints and their damage points). 
   * `ATR_HITPOINTS` (short HP: The Hits/Damage that can be endured)
-  * `ATR_DAMAGEPOINTS` (short DP: The Damage that can be inflicted) 
+  * `ATR_DAMAGEPOINTS` (short DP: The Damage or physical Force that can be inflicted) 
   * 
-* `ATR_WILL` (related to their Mental Strength)
+* `ATR_WILL` (related to Mental Strength: Will scales the resistance against Psi (in form of psionic attacks, psi waves or psi radiation) and defines how much Psi Points (`ATR_PSI`) an NPC skilled in Psionics (`EXP_PSIONICS`) can maximally have). 
 
 ## Special Attributes
 The following attributes are limited to specific species, classes or individuals. They only appear in the character sheet when the character has more than 0 points in them. 
 * `ATR_DEXTERITY` (related to Physical Control)
-* `ATR_PSI` (related to Mental Control in form of Psionic Power) 
+* `ATR_PSI` (related to Mental Control in form of Psionic Power). 
 
 
 ## Secondary Attributes
