@@ -9,8 +9,8 @@ NPCs have (1) general attributes, that all NPCs share and (2) special attributes
 ## General Attributes
 All NPCs (Humans and Monsters) share the following attributes (although different species have different maximum values). General attributes are displayed in the character sheet from the very beginning. Below are primary attributes; secondary attributes are listed below the primary attributes to which they are linked:   
 * `ATR_CONSTITUTION` // "Konstitution" or ones Physical Condition; relates to ones maximum endurance. 
-  * `ATR_ENDURANCE` 
-* `ATR_MADNESS` // "Wahnsinn" or ones Mental Condition. Increases by exposure to psionic attacks, PSI waves or PSI radiation, when the value of the exposure is beyond ones treshold of *Will*. 
+  * `ATR_ENDURANCE` & `ATR_ENDURANCE_MAX` 
+* `ATR_MADNESS` & `ATR_MADNESS_MAX` // "Wahnsinn" or ones Mental Condition, increases by exposure to psionic attacks, PSI waves or PSI radiation, when the value of the exposure is beyond ones treshold of *Will*. 
 * `ATR_STRENGTH` // "Kraft", relates to ones Physical Strength which scales hitpoints and damage/force points. 
   * `HP` // "Lebenspunkte", Hitpoints or Damage that can be endured: `ATR_HITPOINTS` and `ATR_HITPOINTS_MAX`. 
   * `DMG` // "Trefferpunkte", Damage or physical force that can be inflicted (Strength scales damage to 100% in fist fighting, 50% in melee combat (the other 50% depends on the weapon) and 0% in ranged combat - here it is the weapon and ammunition alone that define the damage).   
@@ -19,7 +19,7 @@ All NPCs (Humans and Monsters) share the following attributes (although differen
 ## Special Attributes
 The following attributes are limited to specific species, classes or individuals. They only appear in the character sheet when the character has more than 0 points in them. 
 * `ATR_DEXTERITY` // "Geschick", related to Physical Control that influences critical hit chances in combat and risk of failure in stealth interactions. Specific levels of dexterity are requisites for learning agility and acrobatic related skills.
-* `ATR_PSI` // related to Mental Control in form of Psionic Power; can only be acquired by first gaining the necessary psionic experience (`EXP_PSIONIC`) and then by finding psi knots or consuming PSI drugs with permanent boni. 
+* `ATR_PSI` // related to Mental Control in form of Psionic Power gained in the Psi Class. 
 * `ATR_MANA` // "Mana", "Magische Kraft", can only be acquired by first gaining the necessary arcane knowledge (`EXP_ARCANE`) and then by consuming Mana potions with permanent boni. 
 
 
@@ -53,6 +53,35 @@ The player then knows he is at will lvl 8 (an unyielding will, as teachers will 
 
 ## Secondary Attributes
 
-Secondary Attributes have differing maximum values and are displayed by Icons or Bars in the character sheet and in the HUD. 
+Secondary Attributes have differing maximum values and are *not* displayed like the primary ones in clear text form, but in form of Icons or Bars only. 
+
+
+### ATR_WILL & ATR_PSI
+
+PSI can only be acquired by first gaining the necessary psionic experience (`EXP_PSIONIC`) and then by finding psi knots or consuming PSI drugs with permanent boni. *Will* determines the maximum level of PSI that one can acquire: 
+
+```
++--------------+
+| Will | ≤ Psi |
+|------+-------|
+| Lv1  |     3 |
+| Lv2  |     6 |
+| Lv3  |     9 |
+| Lv4  |    12 |
+| Lv5  |    15 |
+| Lv6  |    18 |
+| Lv7  |    21 |
+| Lv8  |    24 |
+| Lv9  |    27 |
+| Lv10 |    30 |
++--------------+
+```
+
+Thus, human NPCs have a maximum PSI value of 30. For monsters PSI is scaled by factor 2.
+Thus, the Sleeper at Lv10 has 60 Psi. 
+
+When casting PSI spells, if one learns this skill, they can be continued to be casted even if ones PSI is at zero. If ones PSI is 0, every additional second of casting beyond ones PSI energy, increases ones Madness by one point. 
+
+
  
 
