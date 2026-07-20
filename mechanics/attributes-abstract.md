@@ -12,8 +12,8 @@ All NPCs (Humans and Monsters) share the following attributes (although differen
   * `ATR_ENDURANCE` 
 * `ATR_MADNESS` // "Wahnsinn" or ones Mental Condition. Increases by exposure to psionic attacks, PSI waves or PSI radiation, when the value of the exposure is beyond ones treshold of *Will*. 
 * `ATR_STRENGTH` // "Kraft", relates to ones Physical Strength which scales hitpoints and damage/force points. 
-  * `HP` // "Lebenspunkte", Hitpoints or Damage that can be endured.
-  * `DMG` // "Trefferpunkte", Damage or physical force that can be inflicted (Strength scales damage to 100% in fist fighting, 50% in melee combat (the other 50% depends on the weapon) and 0% in ranged combat - here it is the weapon and ammunition alone that define the damage)  
+  * `HP` // "Lebenspunkte", Hitpoints or Damage that can be endured: `ATR_HITPOINTS` and `ATR_HITPOINTS_MAX`. 
+  * `DMG` // "Trefferpunkte", Damage or physical force that can be inflicted (Strength scales damage to 100% in fist fighting, 50% in melee combat (the other 50% depends on the weapon) and 0% in ranged combat - here it is the weapon and ammunition alone that define the damage).   
 * `ATR_WILL` (related to Mental Strength: Will scales the resistance against PSI (in form of psionic attacks, PSI waves or PSI radiation) and defines how much PSI Points (`ATR_PSI`) an NPC skilled in Psionics (`EXP_PSIONICS`) can maximally have). 
 
 ## Special Attributes
@@ -23,12 +23,9 @@ The following attributes are limited to specific species, classes or individuals
 * `ATR_MANA` (
 
 
-## Secondary Attributes
-There are 
 
+## Attribute Levels
 
-
-## Progression of Primary Attributes 
 Primary Attributes always have 10 maximum levels (and 0) and are never displayed to the player as numerical values. Each level is represented by a descriptive term, but internally the 10 levels are linked to a maximum of 100 points. 10 points per level. E.g. below 10 the character is at lvl 0. If he reaches 10 points until 19 he is at lvl 1, 20 to 29 at lvl 2 and so on.  
 This is how it should look like in the scripts, at the example of ATR_WILL, with examples of how NPCs may refer to it:  
 ```
@@ -46,39 +43,12 @@ CONST STRING TXT_ATR_WILL [MAX_TXT_ATR] = {
 }
 ```
 
-## Display of Primary Attributes 
 In the character sheet the Attributes are displayed to the player in form of the attribute name (or an associated image) and the related term of the attribute level he currently is at. For clarities sake and for testing purposes we can additionally show the total points gained in brackets behind. Example:  
 ```
 Wille: unbeugsam (85)
 ```
 The player then knows he is at will lvl 8 (an unyielding will, as teachers will tell him) and has 5 more Willpoints to gain in order to reach the next level (iron will). 
 
-## Progression and Display of Secondary Attributes
 Secondary Attributes have differing maximum values and are displayed by Icons or Bars in the character sheet and in the HUD. 
-
-## 2. Attributes of Condition
-There are two attributes related to the characters physical and mental condition; these conditions are influenced by different secondary attributes in differing ways:  
-* `ATR_CONSTITUTION` (Physical Condition)
-* `ATR_SANITY` (Mental Condition)
  
-## 3. Attributes of Strength
-There are two attributes related to the characters physical and mental strength. These strengths are influenced by different secondary attributes in different ways:  
-* `ATR_STRENGTH` (Physical Strength)
-* `ATR_WILL` (Mental Strength)
-
-## 3. Attributes of Control
-There are two attributes related to the characters physical and mental control:  
-* `ATR_DEX` (Physical Control)
-* `ATR_PSI` (Mental Control)  
-
-
-## Relation of Primary and Secondary Attributes
-
-* 
-
-
-atrributes:
-* ATR_Strength
-* ATR_Hitpoints
-  * ATR_Hitpoints_Max
 
