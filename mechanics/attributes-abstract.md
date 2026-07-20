@@ -8,19 +8,19 @@ NPCs have (1) general attributes, that all NPCs share and (2) special attributes
 
 ## General Attributes
 All NPCs (Humans and Monsters) share the following attributes (although different species have different maximum values). General attributes are displayed in the character sheet from the very beginning. They are linked with the secondary attributes listed below them:   
-* `ATR_CONSTITUTION` // "Konstitution". Related to Physical Condition, which scales endurance.
+* `ATR_CONSTITUTION` // "Konstitution" or ones Physical Condition; relates to ones maximum endurance. 
   * `ATR_ENDURANCE` 
-* `ATR_MADNESS` (related to their Mental Condition)
-* `ATR_STRENGTH` (related to their Physical Strength which scales their hitpoints and their damage points). 
-  * `ATR_HITPOINTS` (short HP: The Hits/Damage that can be endured)
-  * `ATR_DAMAGEPOINTS` (short DP: The Damage or physical Force that can be inflicted) 
-  * 
-* `ATR_WILL` (related to Mental Strength: Will scales the resistance against Psi (in form of psionic attacks, psi waves or psi radiation) and defines how much Psi Points (`ATR_PSI`) an NPC skilled in Psionics (`EXP_PSIONICS`) can maximally have). 
+* `ATR_MADNESS` // "Wahnsinn" or ones Mental Condition. Increases by exposure to psionic attacks, PSI waves or PSI radiation, when the value of the exposure is beyond ones treshold of *Will*. 
+* `ATR_STRENGTH` // "Kraft", relates to ones Physical Strength which scales hitpoints and damage/force points. 
+  * `HP` // "Lebenspunkte", Hitpoints or Damage that can be endured.
+  * `DMG` // "Trefferpunkte", Damage or physical force that can be inflicted (Strength scales damage to 100% in fist fighting, 50% in melee combat (the other 50% depends on the weapon) and 0% in ranged combat - here it is the weapon and ammunition alone that define the damage)  
+* `ATR_WILL` (related to Mental Strength: Will scales the resistance against PSI (in form of psionic attacks, PSI waves or PSI radiation) and defines how much PSI Points (`ATR_PSI`) an NPC skilled in Psionics (`EXP_PSIONICS`) can maximally have). 
 
 ## Special Attributes
 The following attributes are limited to specific species, classes or individuals. They only appear in the character sheet when the character has more than 0 points in them. 
-* `ATR_DEXTERITY` (related to Physical Control)
-* `ATR_PSI` (related to Mental Control in form of Psionic Power). 
+* `ATR_DEXTERITY` // "Geschick", related to Physical Control that influences critical hit chances in combat and risk of failure in stealth interactions. Specific levels of dexterity are requisites for learning agility and acrobatic related skills.
+* `ATR_PSI` // related to Mental Control in form of Psionic Power; can only be acquired by gaining psionic experience (`EXP_PSIONIC`) and by finding psi knots or consuming PSI drugs with permanent boni. 
+* `ATR_MANA` (
 
 
 ## Secondary Attributes
