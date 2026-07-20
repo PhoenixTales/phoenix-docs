@@ -8,12 +8,12 @@ NPCs have (1) general attributes, that all NPCs share and (2) special attributes
 
 ## General Attributes
 All NPCs (Humans and Monsters) share the following attributes (although different species have different maximum values). General attributes are displayed in the character sheet from the very beginning. Below are primary attributes; secondary attributes are listed below the primary attributes to which they are linked:   
-* `ATR_CONSTITUTION` // "Konstitution" or ones Physical Condition; relates to ones maximum endurance. 
-  * `ATR_ENDURANCE` & `ATR_ENDURANCE_MAX` 
+* `ATR_CONSTITUTION` // "Konstitution" or ones Physical Condition; relates to ones stamina points.  
+  * `ATR_STAMINA` & `ATR_STAMINA_MAX` // "Ausdauer" 
 * `ATR_MADNESS` & `ATR_MADNESS_MAX` // "Wahnsinn" or ones Mental Condition, increases by exposure to psionic attacks, PSI waves or PSI radiation, when the value of the exposure is beyond ones treshold of *Will*. 
 * `ATR_STRENGTH` // "Kraft", relates to ones Physical Strength which scales hitpoints and damage/force points. 
   * `HP` // "Lebenspunkte", Hitpoints or Damage that can be endured: `ATR_HITPOINTS` and `ATR_HITPOINTS_MAX`. 
-  * `DMG` // "Trefferpunkte", Damage or physical force that can be inflicted (Strength scales damage to 100% in fist fighting, 50% in melee combat (the other 50% depends on the weapon) and 0% in ranged combat - here it is the weapon and ammunition alone that define the damage).   
+  * `DMG` // "Trefferpunkte", Damage or physical force that can be inflicted.    
 * `ATR_WILL` (related to Mental Strength: Will scales the resistance against PSI (in form of psionic attacks, PSI waves or PSI radiation) and defines how much PSI Points (`ATR_PSI`) an NPC skilled in Psionics (`EXP_PSIONICS`) can maximally have). 
 
 ## Special Attributes
@@ -56,9 +56,24 @@ The player then knows he is at will lvl 8 (an unyielding will, as teachers will 
 Secondary Attributes have differing maximum values and are *not* displayed like the primary ones in clear text form, but in form of Icons or Bars only. 
 
 
+### ATR_CONSTITUTION & ATR_STAMINA
+
+Constitution has 10 levels and a maximum of 100 points. 100 equals lvl 10, 90 equals lvl 9 etc. Stamina has 100 points as well. The constitution level determines the maximum amount of Stamina that can be gained. 
+
+
+### ATR_STRENGTH & ATR_HITPOINTS
+
+
+
+
+### ATR_STRENGTH & DMG
+
+Strength scales damage to 100% in fist fighting, 50% in melee combat (the other 50% depends on the weapon) and 0% in ranged combat (here it is the weapon and ammunition alone that define the damage).
+
+
 ### ATR_WILL & ATR_PSI
 
-PSI can only be acquired by first gaining the necessary psionic experience (`EXP_PSIONIC`) and then by finding psi knots or consuming PSI drugs with permanent boni. *Will* determines the maximum level of PSI that one can acquire: 
+PSI can only be acquired by first gaining the necessary psionic experience (`EXP_PSIONIC`) and then by finding psi knots or consuming PSI drugs with permanent boni. Only characters of the PSI class, Undead Orcish Shamans and the Sleeper have PSI. *Will* determines the maximum level of PSI that one can acquire: 
 
 ```
 +--------------+
@@ -77,10 +92,9 @@ PSI can only be acquired by first gaining the necessary psionic experience (`EXP
 +--------------+
 ```
 
-Thus, human NPCs have a maximum PSI value of 30. For monsters PSI is scaled by factor 2.
-Thus, the Sleeper at Lv10 has 60 Psi. 
+Human NPCs have a maximum PSI value of 30. For Undead Shamans the maximum PSI value is scaled by factor 1.5. For monsters by factor 2. Thus, the strongest human Psionic (Y'Berion) has 30 PSI, the strongest Undead Shaman has 45 PSI and the Sleeper has 60 Psi. 
 
-When casting PSI spells, if one learns this skill, they can be continued to be casted even if ones PSI is at zero. If ones PSI is 0, every additional second of casting beyond ones PSI energy, increases ones Madness by one point. 
+**Casting into Madness:** When casting PSI spells they can be continued to be casted even if ones PSI is at zero. If ones PSI is 0, every additional second of casting beyond ones PSI energy, increases ones Madness by one point. PSI spells can be *continued* to be casted with 0 PSI points "into madness", but they cannot *started* to be casted with 0 PSI points. 
 
 
  
