@@ -61,24 +61,21 @@ Secondary Attributes have differing maximum values and are *not* displayed like 
 
 ### ATR_CONSTITUTION & ATR_STAMINA
 
-Constitution has 10 levels and a maximum of 100 points. 100 equals lvl 10, 90 equals lvl 9 etc. Stamina has a maximum of 100 points as well. The constitution level determines the maximum amount of Stamina that can be gained. 
+Constitution (primary attribute) has 10 levels and a maximum of 100 points. 100 equals lvl 10, 90 equals lvl 9 etc. Stamina has a maximum of 100 points as well. The constitution level determines the maximum amount of Stamina that can be gained. 
 
 
-### ATR_STRENGTH & ATR_HITPOINTS
+### ATR_STRENGTH & ATR_HITPOINTS & ATR_DAMAGEPOINTS
 
+Strength (primary attribute) has 10 levels in clear text form. 
+* Whereas Hitpoints are a maximum of 30 for Human NPCs, 60 for Orcs and 90 for Monsters.
+* And Damagepoints are a maximum of 15 for Human NPCs, 30 for Orcs and 60 for Monsters. 
 
-
-
-### ATR_STRENGTH & DMG
-
-
-
-Strength scales damage to 100% in fist fighting, 50% in melee combat (the other 50% depends on the weapon) and 0% in ranged combat (here it is the weapon and ammunition alone that define the damage). 
+Strength scales damage to 100% in fist fighting (and for monsters except Gobbos with weapons), 50% in melee combat (the other 50% depends on the weapon) and 0% in ranged combat (here it is the weapon and ammunition alone that define the damage). 
 
 
 ### ATR_WILL & ATR_PSI
 
-PSI can only be acquired by first gaining the necessary basic psionic experience (`EXP_PSIONIC`) and then by finding psi knots or consuming PSI drugs with permanent boni. Only characters of the PSI class, Undead Orcish Shamans and the Sleeper have PSI. *Will* determines the maximum level of PSI that one can acquire (otherwise trying to consume more PSI will lead to PSI radiation, leading to Madness); beyond the basic knowledge of PSI, `EXP_PSIONIC` is related to the PSI spells one can learn. 
+PSI can only be acquired by first gaining the necessary basic psionic experience (`EXP_PSIONIC`) and then by finding PSI knots or consuming PSI drugs with permanent boni. Only characters of the PSI class, Undead Orcish Shamans and the Sleeper have PSI. *Will* determines the maximum level of PSI that one can acquire (otherwise trying to consume more PSI will lead to PSI radiation, leading to Madness); beyond the basic knowledge of PSI, `EXP_PSIONIC` is related to the PSI spells one can learn. 
 
 ```
 +--------------+
