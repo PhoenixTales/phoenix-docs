@@ -5,7 +5,7 @@
 
 ## What has been achieved as of 2026
 
-As of now, Phoenix is in development since about 10 years. In these years a lot has been achieved, mainly the Gothic Archive with several phases of new publications and a plethora of digitisation of material that hasn't been seen, our Alpha Research based on our Archive, in which we could clarify many questions that people have been speculated about for many years, and our Phoenix Documentation (that is partially public), in which we have developed our vision (both the game's mechanics and story) in a very detailed degree.
+As of now, Phoenix is in development since about 10 years. In these years a lot has been achieved, mainly the Gothic Archive with several phases of new publications and a lot of newly digitised material that hasn't been seen before, our Alpha Research based on our Archive, in which we could clarify many questions that people have been speculated about for many years, and our Phoenix Documentation (that is partially public), in which we have developed our vision (both the game's mechanics and story) in a very detailed degree.
 
 Substantial progress also has been made in regard to our world model. Years have been spend with the reconstruction of earlier versions of the world model based on screenshots, which later turned out to be unnecessary (other than for very valuable modeling practice) as we received the original models of these very versions in course of the years, that we hadn't had access to before. Since then much work has been invested in re-modeling the entire world based on concept art and written ideas about the world, that haven't been modeled before.  
 
