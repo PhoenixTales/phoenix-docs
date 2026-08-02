@@ -4,7 +4,7 @@ Abstract of the Attribute System of Phoenix
 *Flosha, July 20th, 2026*
 
 ## Structure of Attributes
-NPCs have (1) general attributes, that all NPCs share and (2) special attributes, that are limited to specific species, classes or individuals. Of these general and special attributes, some or "primary" attributes, which are represented in the character sheet in form of clear text terms, while others are "secondary" attributes, which appear only in form of icons or bars.  
+NPCs have (1) general attributes, that all NPCs share and (2) special attributes, that are limited to specific species, classes or individuals. Of these general and special attributes, some are "primary" attributes, which are represented in the character sheet in form of clear text terms, while others are "secondary" attributes, which appear only in form of icons or bars.  
 
 ## General Attributes
 All NPCs (Humans and Monsters) share the following attributes (although different species have different maximum values). General attributes are displayed in the character sheet from the very beginning. Below are primary attributes; secondary attributes are listed below the primary attributes to which they are linked:   
