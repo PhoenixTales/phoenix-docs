@@ -23,7 +23,8 @@ All NPCs (Humans and Monsters) share the following attributes (although differen
 The following attributes are limited to specific species, classes or individuals. They only appear in the character sheet when the character has more than 0 points in them. 
 * `ATR_DEXTERITY` // "Geschick", related to Physical Control that influences critical hit chances in combat and risk of failure in stealth interactions. Specific levels of dexterity are requisites for learning agility and acrobatic related skills.
 * `ATR_PSI` // related to Mental Control in form of Psionic Power gained in the Psi Class. 
-* `ATR_MANA` // "Mana", "Magische Kraft" 
+* `ATR_MANA` // "Mana", "Magische Kraft"
+* `ATR_FOCUS` // Focus, the equivalent of Mana/Psi for the Warrior & Thief Class, enables special moves, special attacks and slow motion (see Focus article). 
 
 
 ## Attribute Levels & Scaling
