@@ -101,11 +101,9 @@ Human NPCs have a maximum PSI value of 30. For Undead Shamans the maximum PSI va
 
 ### ATR_MANA 
 
-Similar to PSI, Mana can only be acquired by first gaining the necessary arcane knowledge (`EXP_ARCANE`) and then by consuming Mana potions with permanent boni. The arcane knowledge determines how much Mana can be permanently increased without fatal intoxication, like the *Will* of a Psionic defines how much PSI can be consumed without becoming permanently mad. 
+Similar to PSI, Mana can only be acquired by first gaining the necessary arcane knowledge (`EXP_ARCANE`) and then by consuming Mana potions with permanent boni. The arcane knowledge determines how much Mana can be permanently increased without fatal intoxication, like the *Will* (and Psionic Knowledge) of a Psionic defines how much PSI can be consumed without becoming permanently mad. 
 
-
----
-
+<!---
 TODO:
 * How to technically include Hunger, Fatigue, Intoxication (physical poisoning) and Radiation (mental poisoning)? Via ATR_* or with some new constants on their own? 
-
+-->
