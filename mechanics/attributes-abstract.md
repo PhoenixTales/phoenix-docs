@@ -7,7 +7,7 @@ Abstract of the Attribute System of Phoenix
 NPCs have (1) general attributes, that all NPCs share and (2) special attributes, that are limited to specific species, classes or individuals. Of these general and special attributes, some are "primary" attributes, which are represented in the character sheet in form of clear text terms, while others are "secondary" attributes, which appear only in form of icons or bars.  
 
 ## General Attributes
-All NPCs (Humans and Monsters) share the following attributes (although different species have different maximum values). General attributes are displayed in the character sheet from the very beginning. Below are primary attributes; secondary attributes are listed below the primary attributes to which they are linked:   
+All NPCs (Humans and Monsters) share the following attributes (although different species have different maximum values). General attributes are displayed in the character sheet from the very beginning. Below are primary attributes; secondary attributes I will list here below the primary attributes to which they are linked:   
 * `ATR_CONSTITUTION` // "Konstitution" or ones Physical Condition; relates to ones stamina points.  
   * `ATR_STAMINA` & `ATR_STAMINA_MAX` // "Ausdauer": Has an extra bar that relates to sprinting and diving and to fighting with medium and heavy armor
   * `ATR_HUNGER`, `ATR_THIRST` & `ATR_FATIGUE`: They aren't affecting Hitpoints in any way, but they affect regeneration parameters (REG_LIFE, REG_STAMINA, REG_MANA, REG_SANITY).
@@ -20,7 +20,7 @@ All NPCs (Humans and Monsters) share the following attributes (although differen
 * `ATR_WILL` (related to Mental Strength: Will scales the resistance against PSI (in form of psionic attacks, PSI waves or PSI radiation) and defines how much PSI Points (`ATR_PSI`) an NPC skilled in Psionics (`EXP_PSIONICS`) can maximally have). 
 
 ## Special Attributes
-The following attributes are limited to specific species, classes or individuals. They only appear in the character sheet when the character has more than 0 points in them. 
+The following attributes are limited to specific species, classes or individuals. They only appear in the character sheet when the character has more than 0 points in them. As a new convict, the player character has 0. 
 * `ATR_DEXTERITY` // "Geschick", related to Physical Control that influences critical hit chances in combat and risk of failure in stealth interactions. Specific levels of dexterity are requisites for learning agility and acrobatic related skills.
 * `ATR_PSI` // related to Mental Control in form of Psionic Power gained in the Psi Class. 
 * `ATR_MANA` // "Mana", "Magische Kraft"
@@ -31,7 +31,7 @@ The following attributes are limited to specific species, classes or individuals
 
 ### Primary Attributes
 
-Primary Attributes always have 10 maximum levels (and 0) and are never displayed to the player as numerical values. Each level is represented by a descriptive term, but internally the 10 levels are linked to a maximum of 100 points. 10 points per level. E.g. below 10 the character is at lvl 0. If he reaches 10 points until 19 he is at lvl 1, 20 to 29 at lvl 2 and so on.  
+Primary Attributes always have 10 maximum points or levels and are never displayed to the player as numerical values. Each level is represented by a descriptive term, but internally the 10 points are linked to a maximum of 100 "subpoints". 10 subpoints per level. E.g. below 10 the character is at lvl 0. If he reaches 10 subpoints until 19 he is at lvl 1 (one full point), 20 to 29 at lvl 2 (two full points) and so on.  
 This is how it should look like in the scripts, at the example of ATR_WILL, with examples of how NPCs may refer to it:  
 ```
 CONST STRING TXT_ATR_WILL [MAX_TXT_ATR] = {
@@ -52,17 +52,21 @@ In the character sheet the Attributes are displayed to the player in form of the
 ```
 Wille: unbeugsam (85)
 ```
-The player then knows he is at will lvl 8 (an unyielding will, as teachers will tell him) and has 5 more Willpoints to gain in order to reach the next level (iron will). 
+The player then knows he is at will lvl 8 (an unyielding will, as teachers will tell him) and has 5 more Willpoints (subpoints) to gain in order to reach the next level (iron will). 
 
 
 ## Secondary Attributes
 
-Secondary Attributes have differing maximum values and are *not* displayed like the primary ones in clear text form, but in form of Icons or Bars only. 
+Secondary Attributes have differing maximum values and are *not* displayed like the primary ones in clear text form, but in form of Icons or Bars only (depending on whether the player has chosen the Icon HUD or Bar HUD in the menu).  
+
+**Important clarification:**   
+While the attributes, internally, have a maximum of 100 subpoints, 10 subpoints per level (which give us more opportunity to reward the player with bonus points, since otherwise we only could give him 10 total boni in total throughout the entire playthrough), these internal subpoints should not be confused with the full points. The "subpoints" (one of 100) are needed to reach one new "full" point (one of 10). But for taking damage as well as for regeneration these subpoints do *not* matter.  
+That means: Any enemy, if he attacks and makes any amount of damage, will always at least make one full point of damage, not a subpoint. If one has 5 HP points in total, five "full points", and is attacked by a young scavenger which may cause some limited amount of damage, it costs at least one full point in the icon HUD or a fifth of the bar in the bar HUD. In the same way, if one casts a spell that costs mana, and one may have e.g. six full mana points, any kind of spell will at least cost 1 of these points, there are no half points or something like that; or, in case of the bar hud, it would reduce at least a sixth of the bar. 
 
 
 ### ATR_CONSTITUTION & ATR_STAMINA
 
-Constitution (primary attribute) has 10 levels and a maximum of 100 points. 100 equals lvl 10, 90 equals lvl 9 etc. Stamina has a maximum of 100 points as well. The constitution level determines the maximum amount of Stamina that can be gained. 
+Constitution (primary attribute) has 10 levels and a maximum of 100 subpoints. 100 equals lvl 10, 90 equals lvl 9 etc. Stamina has a maximum of 100 subpoints as well. The constitution level determines the maximum amount of Stamina that can be gained. 
 
 
 ### ATR_STRENGTH & ATR_HITPOINTS & ATR_DAMAGEPOINTS
