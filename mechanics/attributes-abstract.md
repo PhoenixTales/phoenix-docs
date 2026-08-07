@@ -18,10 +18,10 @@ All NPCs (Humans and Monsters) share the following attributes (although differen
   * `HP` // "Lebenspunkte", Hitpoints or Damage that can be endured: `ATR_HITPOINTS` and `ATR_HITPOINTS_MAX`. 
   * `DMG` // "Trefferpunkte", Damage or physical force that can be inflicted.    
 * `ATR_WILL` (related to Mental Strength: Will scales the resistance against PSI (in form of psionic attacks, PSI waves or PSI radiation) and defines how much PSI Points (`ATR_PSI`) an NPC skilled in Psionics (`EXP_PSIONICS`) can maximally have). 
+* `ATR_DEXTERITY` // "Geschick", related to Physical Control that influences critical hit chances in combat and risk of failure in stealth interactions. Specific levels of dexterity are requisites for learning agility and acrobatic related skills.
 
 ## Special Attributes
 The following attributes are limited to specific species, classes or individuals. They only appear in the character sheet when the character has more than 0 points in them. As a new convict, the player character has 0. 
-* `ATR_DEXTERITY` // "Geschick", related to Physical Control that influences critical hit chances in combat and risk of failure in stealth interactions. Specific levels of dexterity are requisites for learning agility and acrobatic related skills.
 * `ATR_PSI` // related to Mental Control in form of Psionic Power gained in the Psi Class. 
 * `ATR_MANA` // "Mana", "Magische Kraft"
 * `ATR_FOCUS` // Focus, the equivalent of Mana/Psi for the Warrior & Thief Class, enables special moves, special attacks and slow motion (see Focus article). 
