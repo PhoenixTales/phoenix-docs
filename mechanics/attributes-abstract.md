@@ -27,7 +27,7 @@ The following attributes also appear in the character sheet for every character,
 
 ## Tertiary Attributes 
 Could be described as "Visualised Health/Management Stats".   
-* `ATR_HUNGER`, `ATR_THIRST`, `ATR_FATIGUE` & `ATR_INTOXICATION`: Hunger, Thirst and Fatigue aren't affecting Hitpoints in any way, but they affect regeneration parameters (REG_LIFE, REG_STAMINA, REG_MANA, REG_SANITY). Intoxication `does`affect Hitpoints. During any amount of Intoxication every regeneration of HP is stopped completely. Depending on the severity of intoxication, HP is either getting reduced a specific amount or contineously until being fatal if not healed. (Icon HUD: One icon each for the four conditions; yet to be designed. Bar HUD: They will colorise the red HP bar, turning it e.g. into a toxic green, when intoxicated, into a dark red when thirsty (representing the "thickening of blood"); for Hunger and Fatigue I don't know yet).  
+* `ATR_HUNGER`, `ATR_THIRST`, `ATR_FATIGUE` & `ATR_INTOXICATION`: Hunger, Thirst and Fatigue aren't affecting Hitpoints in any way, but they affect regeneration parameters (REG_LIFE, REG_STAMINA, REG_MANA, REG_SANITY). Intoxication *does* affect Hitpoints. During any amount of Intoxication every regeneration of HP is stopped completely. Depending on the severity of intoxication, HP is either getting reduced a specific amount or contineously until being fatal if not healed. (Icon HUD: One icon each for the four conditions; yet to be designed. Bar HUD: They will colorise the red HP bar, turning it e.g. into a toxic green, when intoxicated, into a dark red when thirsty (representing the "thickening of blood"); for Hunger and Fatigue I don't know yet). All these values have 10 maximum points.  
 * `ATR_MADNESS` & `*_MAX` // "Wahnsinn" or ones Mental Condition, increases by exposure to psionic attacks, PSI waves or PSI radiation, when the value of the exposure is beyond ones treshold of *Will*. As intoxication affects HP, Radiation affects Sanity by slow increasements of Madness; if the radiation is low it may increase madness only to a specific amount, if it is very high it may increase it contineously until being fatal if not healed (Icon HUD: Madness Symbols. Bar HUD: It is represented by a Purple-Black bar (turns more black the more it increases, as a simple color-fade). 
 
 Note: "Radiation" is no attribute, but a value we have later to link to specific global events in the Game World (during Madness Waves) or to specific locations in the world through Trigger Zones set in the Spacer.
@@ -35,11 +35,21 @@ Note: "Radiation" is no attribute, but a value we have later to link to specific
 
 ## Attribute Levels & Scaling
 
-### Primary Attribute Scaling
+### Primary Attribute Levels & Scaling
 
-Primary Attributes always have 10 maximum points or levels and are never displayed to the player as numerical values. Each level is represented by a descriptive term, but internally the 10 points are linked to a maximum of 100 "subpoints". 10 subpoints per level. E.g. below 10 the character is at lvl 0. If he reaches 10 subpoints until 19 he is at lvl 1 (one full point), 20 to 29 at lvl 2 (two full points) and so on.  
+Primary Attributes always have 10 maximum points or levels, for all NPCs independent of their species:
+
+| Primary Attribute   | Level  | Subpoints |
+|---------------------|--------|-----------|
+| `ATR_CONSTITUTION`  | 1-10   | 1-100     |
+| `ATR_POWER`         | 1-10   | 1-100     |
+| `ATR_WILL`          | 1-10   | 1-100     |
+
+They are never displayed to the player as numerical values. Each level is represented by a descriptive term, but internally the 10 points are linked to a maximum of 100 "subpoints". 10 subpoints per level. E.g. below 10 the character is at lvl 0. If he reaches 10 subpoints until 19 he is at lvl 1 (one full point), 20 to 29 at lvl 2 (two full points) and so on.  
 This is how it should look like in the scripts, at the example of ATR_WILL, with examples of how NPCs may refer to it:  
 ```
+CONST INT MAX_TXT_ATR = 10;
+
 CONST STRING TXT_ATR_WILL [MAX_TXT_ATR] = {
 	"besessen", // You are possessed.
 	"keinen", // You have no willpower at all. // Willenlos.  
@@ -64,11 +74,32 @@ The player then knows he is at will lvl 8 (an unyielding will, as teachers will 
 Primary Attributes, internally, have a fixed maximum number of 100 subpoints, with always 10 subpoints per full point. This gives us more opportunity to reward the player with bonus points, since otherwise we only could give him 10 total boni in total throughout the entire playthrough. These internal subpoints should not be confused with the full points. The "subpoints" (one of 100) are needed to reach one new "full" point (one of 10). But for taking damage as well as for regeneration these subpoints do *not* matter. This ONLY applies to the primary attributes: Constitution, Power (Physical Power), Will (Mental Power) and the four Arts (Categories of Experience).  
 
 
-### Secondary & Tertiary Attribute Scaling
+### Secondary & Tertiary Attribute Levels & Scaling
 
-Secondary Attributes have differing maximum values and are *not* displayed like the primary ones in clear text form, but in form of Icons or Bars only (depending on whether the player has chosen the Icon HUD or Bar HUD in the menu).  
+Secondary Attributes have differing maximum values and are *not* displayed like the primary ones in clear text form, but in form of Icons or Bars only (depending on whether the player has chosen the Icon HUD or Bar HUD in the menu). Range of Values per Species (HUM = Human, Orc = Orc, MON = Monsters):  						
 
-#### Secondary and "tertiary" attributes are ALWAYS integers (whole numbers).**  
+| Attributes      | HUM  | ORC   |  MON  |
+|-----------------|------|-------|-------|
+| `ATR_HITPOINTS` | 5-30 | 15-45 |  ≤100 |
+| `ATR_STRENGTH`  | 1-15 | 10-30 |  1-60 |
+| `ATR_DEXTERITY` | 1-15 |  1-10 |  1-10 |
+| `ATR_MANA`      | 0-30 |     0 |     0 |
+| `ATR_PSI`       | 0-30 |  0-50 |  ≤100 |
+| `ATR_FOCUS`     | 0-10 |  0-20 |  0-30 |
+| `ATR_STAMINA`   | 0-30 |  0-30 |  0-60 |
+| `ATR_HUNGER`    | 0-15 |  0-15 |  0-15 |
+| `ATR_THIRST`    | 0-15 |  0-15 |  0-15 |
+| `ATR_FATIGUE`   | 0-15 |  0-15 |  0-15 |
+| `ATR_INTOX[..]` | 0-15 |  0-15 |  0-15 |
+| `ATR_MADNESS`   | 0-15 |  0-15 |  0-15 |
+
+The values above are meant as a range of values for NPCs that we will manually give the NPCs in the scripts. It does NOT mean that a Human always has 5 `ATR_HITPOINTS`, it only means that 5 is the minimum amount that human NPCs usually have as ATR_HITPOINTS_MAX maximum; the player will also start with 5 HP. But of course one can be injured and get below 5 HP or be dead (0 HP); same for the other values. 
+
+The three health related attributes Hunger, Thirst and Fatigue, are internally consisting of these 0-15 points, but they aren't meant to be displayed like the other values in form of 0-15 icons. Instead they are meant to work like this: At 0 points -> no symbol. Between 1 and 5 points -> a "light" symbol. Between 6 and 10 points -> a "medium" symbol. And between 11 and 15 points -> "heavy" symbol. That means, one is either *slightly*, or *moderately*, or *very* hungry/thirsty/tired. Each of these three levels affects the regeneration more, slowing it down further or, at "very" stopping it completely. All three values, hunger, thirst and fatigue stay for a fixed amount of time at 0 (because one has eaten food and consumes the energy, is sufficiently hydrated, is sufficiently rested etc.), and only when the energy is depleted, they slowly start to increase from 1 to 15. 
+
+In case of intoxication it is similar in the icon HUD: At 0 intoxiation: No symbol. When someone is slightly intoxicated (e.g. drinking a bit of alcohol) it will be around 1 and 5. When excessively drinking or consuming mana beyond ones arcane knowledge or when poisoned by a monster or a poisoned arrow or whatever else, it will increase similarly in these three levels, with a different symbol for each level. In case of the Bar HUD the intoxication will just be shown by colorising the HP Bar and beginning to deplenish the energy; between 1 and 5 not at all (just stopping any regeneration). Between 6 and 10 it will deplenish the HP slowly and between 11 and 15 it will deplenish the HP fast; the coloration may change in each level, to let it appear more dangerous, it could also later be accompanied by an effect on the bar (e.g. slight pulsating etc.), not to mention animation overlays for the character.
+
+#### Secondary and "tertiary" attributes are ALWAYS integers (whole numbers)
 
 Other than the primary attributes, secondary and tertiary attributes do NOT have the above mentioned subpoints. This makes it much easier to handle technically, since some of those attributes have as much as 90 points (e.g. Health of some Monsters). It also makes it much more clear and consistent for the player.  
 * If he receives a message on the screen like "+1 Life gained", then this will immediately and actually be shown as one new Heart Icon (or in our later to be made improved Bar HUD it will be visible through an increased bar size and an unobtrusive visual effect to show this increasement). If he gains "+1 Strength" he will see one more fist icon and so on. Otherwise, if that would not be the case and if it would work like with the primary attributes, players would always be confused, since the apparent increasement is not actually shown and isn't immediately visible; he would then always have to consult the character sheet, which we try to prevent, as our HUD is supposed to give him all the relevant information without a need to check the character sheet.
