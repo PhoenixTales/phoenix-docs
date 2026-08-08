@@ -66,7 +66,7 @@ CONST STRING TXT_ATR_WILL [MAX_TXT_ATR] = {
 
 A full WIP table of the primary attributes is given below (it includes the "arts" / categories of experience as well):
 
-| Points | Kraft          | Konstitution     | Wille          | Waffenkunst   | Diebeskunst    | Arkane Gabe | Psionik      |
+| Points | Kraft (Power)  | Konstitution     | Wille          | Waffenkunst   | Diebeskunst    | Arkane Gabe | Psionik      |
 |--------|----------------|------------------|----------------|---------------|----------------|-------------|--------------|
 | 0-9    | gelähmt        | halbtot          | besessen       | keine         | keine          | keine       | narkotisch   |
 | 10-19  | schwindsüchtig | komatisch        | keinen         | wehrlos       | unbeholfen     | Kreis 1     | schlafend    |
