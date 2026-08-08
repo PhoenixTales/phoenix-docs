@@ -53,7 +53,7 @@ Below I provide two text-based layout concepts, at the example of Y'Berion. In b
 
 
 **Layout Concept V1**  
-*with status attributes displayed on the right side*   
+*with status attributes displayed on the right side, with no relation to the left*   
 
 ```
 +--------------------------------------------------------------------------+
@@ -102,6 +102,35 @@ displayed sufficiently in the HUD)*
 +---------------------------------+
 ```
 
+**Layout Concept V3**  
+*with status attributes displayed on the right side,*  
+*but **with** a relation to the left; at least partially:*  
+*Kraft scales Leben & Stärke, Konstitution scales Ausdauer  
+and Wille scales Psi and protects from Wahnsinn; but sadly  
+Geschick doesn't fit here and the four health values would  
+also fit somehow to both Kraft & Konstitution, affecting it.  
+But no idea yet if that can somehow be visualised nicely  
+and if it has to; since it also works fine as above.*  
+
+```
++--------------------------------------------------------------------------+
+| Name: Y'Berion         Gilde: Gurus      Rang:  Der Erleuchtete (lvl: 7) |  
+|--------------------------------------------------------------------------|
+|            ATTRIBUTE            |              STATUSWERTE               |  
+|---------------------------------|----------------------------------------|
+| Kraft              schwach (30) |   Leben       10      Stärke        5  |
+| Konstitution      anfällig (32) |   Ausdauer     ?      Geschick      5  |
+| Wille               eisern (85) |   Psi         30      Wahnsinn      5  |
+|                                 |                                        |
+| Waffenkunst       wehrhaft (25) |    Hunger      x      Durst         x  |
+| Diebeskunst     unbeholfen (10) |    Müdigkeit   x      Vergiftung    x  |
+| Arkane Gabe          keine  (0) |                                        |
+| Psionik         erleuchtet (80) |                                        |
+|                                 |                                        |
+| Alchemie              XYZ  (20) |                                        |
+| Sprachkunst           XYZ  (30) |                                        |
++--------------------------------------------------------------------------+
+```
 
 
 
