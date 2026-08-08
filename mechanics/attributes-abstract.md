@@ -37,7 +37,7 @@ Note: "Radiation" is no attribute, but a value we have later to link to specific
 
 ### Primary Attribute Levels & Scaling
 
-Primary Attributes always have 10 maximum points or levels, for all NPCs independent of their species:
+Primary Attributes always have 10 maximum points or levels, for all NPCs independent of their species (below them the main arts (see `experience-abstract.md` should be listed as well):
 
 | Primary Attribute   | Level  | Subpoints |
 |---------------------|--------|-----------|
@@ -90,7 +90,7 @@ Secondary Attributes have differing maximum values and are *not* displayed like 
 | `ATR_HUNGER`    | 0-15 |  0-15 |  0-15 |
 | `ATR_THIRST`    | 0-15 |  0-15 |  0-15 |
 | `ATR_FATIGUE`   | 0-15 |  0-15 |  0-15 |
-| `ATR_INTOX[..]` | 0-15 |  0-15 |  0-15 |
+| `ATR_INTOXATION` | 0-15 |  0-15 |  0-15 |
 | `ATR_MADNESS`   | 0-15 |  0-15 |  0-15 |
 
 The values above are meant as a range of values for NPCs that we will manually give the NPCs in the scripts. It does NOT mean that a Human always has 5 `ATR_HITPOINTS`, it only means that 5 is the minimum amount that human NPCs usually have as ATR_HITPOINTS_MAX maximum; the player will also start with 5 HP. But of course one can be injured and get below 5 HP or be dead (0 HP); same for the other values. 
@@ -109,10 +109,9 @@ Other than the primary attributes, secondary and tertiary attributes do NOT have
 PSI can only be acquired by first gaining the necessary basic psionic experience (`EXP_PSIONIC`) and then by finding PSI knots or consuming PSI drugs with permanent boni. Only characters of the PSI class, Undead Orcish Shamans and the Sleeper have PSI. *Will* determines the maximum level of PSI that one can acquire (otherwise trying to consume more PSI will lead to PSI radiation, leading to Madness); beyond the basic knowledge of PSI, `EXP_PSIONIC` is related to the PSI spells one can learn. 
 
 For the player character, the amount of Will determines the maximum amount of Psi he can *acquire* at that point, as listed below (e.g. with 1 Will he can maximally have 3 Psi, with 2 Will he can maximally have 6 Psi and so on), while non player characters, which belong to the psionic class (one of the three PSI guilds), won't have to acquire the Psi, but when an NPC has 1 Will, we will give him 3 Psi and so on. 
-```
-+--------------+
+
 | Will | ≤ Psi |
-|------+-------|
+|------|-------|
 | Lv1  |     3 |
 | Lv2  |     6 |
 | Lv3  |     9 |
@@ -123,8 +122,6 @@ For the player character, the amount of Will determines the maximum amount of Ps
 | Lv8  |    24 |
 | Lv9  |    27 |
 | Lv10 |    30 |
-+--------------+
-```
 
 Human NPCs have a maximum PSI value of 30. For Undead Shamans the maximum PSI value is scaled by factor 1.5. For monsters by factor 2. Thus, the strongest human Psionic (Y'Berion) has 30 PSI, the strongest Undead Shaman has 45 PSI and the Sleeper has 60 Psi. 
 
@@ -134,6 +131,19 @@ Human NPCs have a maximum PSI value of 30. For Undead Shamans the maximum PSI va
 #### Clarification in regard to Mana
 
 Similar to PSI, Mana can only be acquired by first gaining the necessary arcane knowledge (`EXP_ARCANE`) and then by consuming Mana potions with permanent boni. The arcane knowledge determines how much Mana can be permanently increased without fatal (physical, mana-induced) intoxication, like the *Will* (and Psionic Knowledge) of a Psionic defines how much PSI can be consumed without fatal madness. 
+
+| Arcane | ≤ Mana |
+|--------|--------|
+| Lv1    |      3 |
+| Lv2    |      6 |
+| Lv3    |      9 |
+| Lv4    |     12 |
+| Lv5    |     15 |
+| Lv6    |     18 |
+| Lv7    |     21 |
+| Lv8    |     24 |
+| Lv9    |     27 |
+| Lv10   |     30 |
 
 <!---
 TODO:
