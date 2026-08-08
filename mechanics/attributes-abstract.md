@@ -4,7 +4,7 @@ Abstract of the Attribute System of Phoenix
 *Flosha, August 8th, 2026, V2*
 
 ## Structure of Attributes
-NPCs have (1) primary attributes, that all NPCs share and (2) secondary or "status" attributes. While the primary attributes are represented in the character sheet in form of clear text terms, "secondary" attributes only appear in form of icons or bars.  
+NPCs have (1) primary attributes, that all NPCs share and (2) secondary or "status" attributes (with a few listed as "tertiary" basically functioning in the same way, but they are explained further below). While the primary attributes are represented in the character sheet in form of clear text terms, "secondary" attributes only appear in form of icons or bars.  
 
 ## Primary Attributes 
 Could be described as "Verbalised/Immersive Character Stats".  
