@@ -37,7 +37,7 @@ Note: "Radiation" is no attribute, but a value we have later to link to specific
 
 ### Primary Attribute Levels & Scaling
 
-Primary Attributes always have 10 maximum points or levels, for all NPCs independent of their species (below them the main arts (see `experience-abstract.md` should be listed as well):
+Primary Attributes always have 10 maximum points or levels, for all NPCs independent of their species (below them the main arts (see `experience-abstract.md`) should be listed as well):
 
 | Primary Attribute   | Level  | Subpoints |
 |---------------------|--------|-----------|
