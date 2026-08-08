@@ -59,7 +59,7 @@ Below I provide two text-based layout concepts, at the example of Y'Berion. In b
 +--------------------------------------------------------------------------+
 | Name: Y'Berion         Gilde: Gurus      Rang:  Der Erleuchtete (lvl: 7) |  
 |--------------------------------------------------------------------------|
-|          ATTRIBUTE              |               STATUSWERTE              |  
+|            ATTRIBUTE            |              STATUSWERTE               |  
 |---------------------------------|----------------------------------------|
 | Konstitution      anfällig (32) |        Lebensenergie               10  |
 | Kraft              schwach (30) |        Stärke                       5  |
@@ -86,7 +86,7 @@ displayed sufficiently in the HUD)*
 | Gilde: Gurus                    |
 | Rang:  Der Erleuchtete (lvl: 7) |  
 |---------------------------------|
-|          ATTRIBUTE              |
+|           ATTRIBUTE             |
 |---------------------------------|
 | Konstitution      anfällig (32) |
 | Kraft              schwach (30) |
