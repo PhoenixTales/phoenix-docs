@@ -75,9 +75,9 @@ A full WIP table of the primary attributes is given below (it includes the "arts
 | 40-49  | kräftig        | robust           | zaghaft        | treffsicher   | geschickt      | Kreis 4     | eingekehrt   |
 | 50-59  | stark          | widerstandsfähig | gefestigt      | sehr behände  | fingerfertig   | Kreis 5     | durchbrochen |
 | 60-69  | bärenstark     | athletisch       | stark          | Meister       | meisterhaft    | Kreis 6     | geblendet    |
-| 70-79  | unbezwingbar   | zäh wie Leder    | unbeugsam      | [WIP]         | Fingerkünstler | Secret      | versunken    |
-| 80-89  | Secret         | Secret           | eisern         | [WIP]         | [WIP]          | Secret      | erleuchtet   |
-| 90-100 | Secret         | Secret           | frei           | Schwertsänger | [WIP]          | Secret      | erwacht      |
+| 70-79  | unbezwingbar   | zäh wie Leder    | unbeugsam      | Level 8       | Fingerkünstler | Secret      | versunken    |
+| 80-89  | Secret         | Secret           | eisern         | Level 9       | Level 9        | Secret      | erleuchtet   |
+| 90-100 | Secret         | Secret           | frei           | Schwertsänger | Level 10       | Secret      | erwacht      |
 
 
 In the character sheet the Attributes are displayed to the player in form of the attribute name (or an associated image) and the related term of the attribute level he currently is at. For clarities sake and for testing purposes we can additionally show the total points gained in brackets behind. Example:  
