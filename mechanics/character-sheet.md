@@ -7,7 +7,7 @@ Info: A rough WIP mockup of the character sheet; first in text form before apply
 
 ## General guidelines
 
-We use the latest known top layout as presented in v0.94k, but we (1) do not display the spells, we will (2) not display talents/skills and we well also (2) not display active/old missions on the character screen. Instead...
+We use the latest known top layout as presented in v0.94k, but we (1) do not display the spells, we will (2) not display talents/skills and we'll also (2) not display active/old missions on the character screen. Instead...
   * We will display spells in a dedicated spell book of the mage; which may as well be a subcategory of his log screen with an extra design/texture, because the amount of spells would be just too much and it wouldn't serve warriors/thieves anything to have a display of spells in there. 
   * We will list talents in the log screen as well, where there will be a "talent" (Skills/"Fertigkeiten") category, in which all learned talents will be listed, ordered into the different arts that they belong to, because there are way too many weapon and thief skills most of all, and some arcane and psi related skills as well, that will take up too much space and most won't be relevant for the character due to his class. 
   * Missions we will list as usual in the log screen too, as established by the later versions of the game.
