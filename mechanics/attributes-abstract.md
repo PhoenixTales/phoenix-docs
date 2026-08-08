@@ -82,9 +82,9 @@ A full WIP table of the primary attributes is given below (it includes the "arts
 
 In the character sheet the Attributes are displayed to the player in form of the attribute name (or an associated image) and the related term of the attribute level he currently is at. For clarities sake and for testing purposes we can additionally show the total points gained in brackets behind. Example:  
 ```
-Wille: unbeugsam (85)
+Wille: unbeugsam (75)
 ```
-The player then knows he is at will lvl 8 (an unyielding will, as teachers will tell him) and has 5 more point boni to gain in order to reach the next level (iron will). 
+The player then knows that he has an "unyielding will" as NPC teachers will tell him (which equals "will lvl 8") and has 5 more point boni to gain in order to reach the next level (iron will at 80 points). 
 
 **Important clarification:**   
 Primary Attributes, internally, have a fixed maximum number of 100 points, with always 10 points per level. This gives us more opportunity to reward the player with bonus points, since otherwise we only could give him 10 total boni in total throughout the entire playthrough. These internal points should not be confused with the primary attribute levels or with the points of secondary attributes, therefore we could describe them as "subpoints" as well, while referring to the primary attribute levels as "full points". Subpoints (one of 100) are needed to reach one new "full" point (one of 10 levels). This ONLY applies to the primary attributes: Constitution, Power (Physical Power), Will (Mental Power) and the four Arts (Categories of Experience).  
