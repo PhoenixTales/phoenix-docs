@@ -37,7 +37,7 @@ Note: "Radiation" is no attribute, but a value we have later to link to specific
 
 ### Primary Attribute Levels & Scaling
 
-Primary Attributes always have 10 maximum points or levels, for all NPCs independent of their species (below them the main arts (see `experience-abstract.md`) should be listed as well):
+Primary Attributes always have 10 maximum levels, for all NPCs independent of their species (below them the main arts (see `experience-abstract.md`) should be listed as well):
 
 | Primary Attribute   | Level  | Subpoints |
 |---------------------|--------|-----------|
@@ -45,7 +45,7 @@ Primary Attributes always have 10 maximum points or levels, for all NPCs indepen
 | `ATR_POWER`         | 1-10   | 1-100     |
 | `ATR_WILL`          | 1-10   | 1-100     |
 
-They are never displayed to the player as numerical values. Each level is represented by a descriptive term, but internally the 10 points are linked to a maximum of 100 "subpoints". 10 subpoints per level. E.g. below 10 the character is at lvl 0. If he reaches 10 subpoints until 19 he is at lvl 1 (one full point), 20 to 29 at lvl 2 (two full points) and so on.  
+They are never displayed to the player as numerical values. Each level is represented by a descriptive term, but internally the 10 levels are linked to a maximum of 100 "points". 10 points per level. E.g. below 10 the character is at lvl 0. If he reaches 10 points until 19 he is at lvl 1, 20 to 29 at lvl 2 and so on.  
 This is how it should look like in the scripts, at the example of ATR_WILL, with examples of how NPCs may refer to it:  
 ```
 CONST INT MAX_TXT_ATR = 10;
@@ -68,10 +68,10 @@ In the character sheet the Attributes are displayed to the player in form of the
 ```
 Wille: unbeugsam (85)
 ```
-The player then knows he is at will lvl 8 (an unyielding will, as teachers will tell him) and has 5 more Willpoints (subpoints) to gain in order to reach the next level (iron will). 
+The player then knows he is at will lvl 8 (an unyielding will, as teachers will tell him) and has 5 more point boni to gain in order to reach the next level (iron will). 
 
 **Important clarification:**   
-Primary Attributes, internally, have a fixed maximum number of 100 subpoints, with always 10 subpoints per full point. This gives us more opportunity to reward the player with bonus points, since otherwise we only could give him 10 total boni in total throughout the entire playthrough. These internal subpoints should not be confused with the full points. The "subpoints" (one of 100) are needed to reach one new "full" point (one of 10). But for taking damage as well as for regeneration these subpoints do *not* matter. This ONLY applies to the primary attributes: Constitution, Power (Physical Power), Will (Mental Power) and the four Arts (Categories of Experience).  
+Primary Attributes, internally, have a fixed maximum number of 100 points, with always 10 points per level. This gives us more opportunity to reward the player with bonus points, since otherwise we only could give him 10 total boni in total throughout the entire playthrough. These internal points should not be confused with the primary attribute levels or with the points of secondary attributes, therefore we could describe them as "subpoints" as well, while referring to the primary attribute levels as "full points". Subpoints (one of 100) are needed to reach one new "full" point (one of 10 levels). This ONLY applies to the primary attributes: Constitution, Power (Physical Power), Will (Mental Power) and the four Arts (Categories of Experience).  
 
 
 ### Secondary & Tertiary Attribute Levels & Scaling
