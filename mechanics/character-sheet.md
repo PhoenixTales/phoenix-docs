@@ -132,9 +132,7 @@ and if it has to; since it also works fine as above.*
 +--------------------------------------------------------------------------+
 ```
 
-
-
-
+Personally, for now, I prefer Layout V1 for our current purposes. - Flosha
 
 
 
