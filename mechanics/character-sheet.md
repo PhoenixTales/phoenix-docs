@@ -46,7 +46,7 @@ For a neat, consistent order, we also could somehow summarise the above informat
 
 ## Text-based Mockup
 
-Below I provide two text-based layout concepts, at the example of Y'Berion. In both cases, the information would easily fit into the character screen as well as into the right side of the log screen. As secondary professions he knows minor alchemy and orcish (language) basics; no other art is displayed when an NPC has not learned any other additional art (e.g. huntsmanship etc.). Also, in case that status values are displayed (V1), only those status values are displayed that are relevant to the character's class. 
+Below I provide two text-based layout concepts, at the example of Y'Berion. In both cases, the information would easily fit into the character screen as well as into the right side of the log screen. As secondary professions he knows minor alchemy and orcish (language) basics; no other art is displayed when an NPC has not learned any other additional art (e.g. huntsmanship etc.). Also, in case that status values are displayed (V1), only those status values are displayed that are relevant to the character's class. Since this is the case, we could do the same to the main arts as well, at least in case of the player character. He can receive the "Weaponry" entry when he actually has any amount of weaponry experience. He can receive the "thievery" entry, if he has any amount of thievery experience and so on. This makes the charakter sheet very clean and adds things to it in course of the players playthrough, while experiencing more and more.  
 * Guildless characters, thieves or warriors: No mana, no psi.
 * Mages: Only Mana, no psi.
 * Psionics: Only psi, no mana.
