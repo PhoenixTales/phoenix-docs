@@ -35,7 +35,7 @@ Note: "Radiation" is no attribute, but a value we have later to link to specific
 
 ## Attribute Levels & Scaling
 
-### Primary Attribute Levels & Scaling
+#### Primary Attribute Levels & Scaling
 
 Primary Attributes always have 10 maximum levels, for all NPCs independent of their species (below them the main arts (see `experience-abstract.md`) should be listed as well):
 
@@ -63,6 +63,22 @@ CONST STRING TXT_ATR_WILL [MAX_TXT_ATR] = {
 	"frei" // You have attained free will. 
 }
 ```
+
+A full WIP table of the primary attributes is given below (it includes the "arts" / categories of experience as well):
+
+| Points | Kraft          | Konstitution     | Wille          | Waffenkunst   | Diebeskunst    | Arkane Gabe | Psionik      |
+|--------|----------------|------------------|----------------|---------------|----------------|-------------|--------------|
+| 0-9    | gelähmt        | halbtot          | besessen       | keine         | keine          | keine       | narkotisch   |
+| 10-19  | schwindsüchtig | komatisch        | keinen         | wehrlos       | unbeholfen     | Kreis 1     | schlafend    |
+| 20-29  | schwächlich    | kränklich        | schwach        | unsicher      | tollpatschig   | Kreis 2     | träumend     |
+| 30-39  | schwach        | anfällig         | flüchtig       | wehrhaft      | ungeschickt    | Kreis 3     | fantasierend |
+| 40-49  | kräftig        | robust           | zaghaft        | treffsicher   | geschickt      | Kreis 4     | eingekehrt   |
+| 50-59  | stark          | widerstandsfähig | gefestigt      | sehr behände  | fingerfertig   | Kreis 5     | durchbrochen |
+| 60-69  | bärenstark     | athletisch       | stark          | Meister       | meisterhaft    | Kreis 6     | geblendet    |
+| 70-79  | unbezwingbar   | zäh wie Leder    | unbeugsam      | ...           | Fingerkünstler | Secret      | versunken    |
+| 80-89  | Secret         | Secret           | eisern         | ...           | ...            | Secret      | erleuchtet   |
+| 90-100 | Secret         | Secret           | frei           | Schwertsänger | ...            | Secret      | erwacht      |
+
 
 In the character sheet the Attributes are displayed to the player in form of the attribute name (or an associated image) and the related term of the attribute level he currently is at. For clarities sake and for testing purposes we can additionally show the total points gained in brackets behind. Example:  
 ```
