@@ -1,35 +1,38 @@
 # Attributes 
 
 Abstract of the Attribute System of Phoenix  
-*Flosha, July 20th, 2026*
+*Flosha, August 8th, 2026, V2*
 
 ## Structure of Attributes
-NPCs have (1) general attributes, that all NPCs share and (2) special attributes, that are limited to specific species, classes or individuals. Of these general and special attributes, some are "primary" attributes, which are represented in the character sheet in form of clear text terms, while others are "secondary" attributes, which appear only in form of icons or bars.  
+NPCs have (1) primary attributes, that all NPCs share and (2) secondary or "status" attributes. While the primary attributes are represented in the character sheet in form of clear text terms, "secondary" attributes only appear in form of icons or bars.  
 
-## General Attributes
-All NPCs (Humans and Monsters) share the following attributes (although different species have different maximum values). General attributes are displayed in the character sheet from the very beginning. Below are primary attributes; secondary attributes I will list here below the primary attributes to which they are linked:   
-* `ATR_CONSTITUTION` // "Konstitution" or ones Physical Condition; relates to ones stamina points.  
-  * `ATR_STAMINA` & `ATR_STAMINA_MAX` // "Ausdauer": Has an extra bar that relates to sprinting and diving and to fighting with medium and heavy armor
-  * `ATR_HUNGER`, `ATR_THIRST` & `ATR_FATIGUE`: They aren't affecting Hitpoints in any way, but they affect regeneration parameters (REG_LIFE, REG_STAMINA, REG_MANA, REG_SANITY).
-  * `ATR_INTOXICATION` // Every regeneration of HP is stopped and depending on the severity of intoxication, HP is either getting reduced a specific amount or contineously until being fatal if not healed. 
-* `ATR_MADNESS` & `ATR_MADNESS_MAX` // "Wahnsinn" or ones Mental Condition, increases by exposure to psionic attacks, PSI waves or PSI radiation, when the value of the exposure is beyond ones treshold of *Will*.
-  * `ATR_RADIATION` // As intoxication affects HP, Radiation affects Sanity by slow increasements of Madness; if the radiation is low it may increase madness only to a specific amount, if it is very high it may increase it contineously until being fatal if not healed. 
-* `ATR_STRENGTH` // "Kraft", relates to ones Physical Strength which scales hitpoints and damage/force points. 
-  * `HP` // "Lebenspunkte", Hitpoints or Damage that can be endured: `ATR_HITPOINTS` and `ATR_HITPOINTS_MAX`. 
-  * `DMG` // "Trefferpunkte", Damage or physical force that can be inflicted.    
-* `ATR_WILL` (related to Mental Strength: Will scales the resistance against PSI (in form of psionic attacks, PSI waves or PSI radiation) and defines how much PSI Points (`ATR_PSI`) an NPC skilled in Psionics (`EXP_PSIONICS`) can maximally have). 
+## Primary Attributes (Verbalised/Immersive Character Stats)
+All NPCs (Humans and Monsters) share the following three primary attributes. They are displayed in the character sheet in clear text form to be referred to by NPCs. Secondary attributes, that are scaled by these primary attributes, are listed under them. On top of these three attributes come the four "EXP" related Attributes or "Arts" (described in `experience-abstract.md`); those are also described in clear text form:   
+* `ATR_CONSTITUTION` // "Konstitution" or ones Physical Condition; relates to ones Stamina, Hunger, Thirst, Fatigue, Intoxication (physical health parameters) and Regeneration parameters.  
+* `ATR_POWER` // "Kraft", relates to ones Physical Strength which scales hitpoints and damage points (Strength). 
+* `ATR_WILL` (related to Mental Strength: Will scales the resistance against PSI (in form of psionic attacks, PSI waves or PSI radiation, which increase Madness) and defines how much PSI Points (`ATR_PSI` & `ATR_PSI_MAX`) an NPC skilled in Psionics (`EXP_PSIONICS`) can maximally have). 
 
-## Special Attributes
-The following attributes are limited to specific species, classes or individuals. They only appear in the character sheet when the character has more than 0 points in them. As a new convict, the player character has 0. 
-* `ATR_MANA` // "Mana", "Magische Kraft"
-* `ATR_PSI` // related to Mental Control in form of Psionic Power gained in the Psi Class. 
-* `ATR_DEXTERITY` // "Geschick", related to Physical Control that influences critical hit chances in combat and risk of failure in stealth interactions. Specific levels of dexterity are requisites for learning agility and acrobatic related skills.
-* `ATR_FOCUS` // Focus, the equivalent of Mana/Psi for the Warrior & Thief Class, enables special moves, special attacks and slow motion (see Focus article). 
+## Secondary Attributes (Visualised Roleplaying Stats)
+The following attributes also appear in the character sheet for every character, but Mana and Psi are excluded for Non-Mages and Non-Psionics (we may or may not only display them in the character sheet after having learned about them ingame by initiation into a magic circle or the Sect). 
+
+* `ATR_HITPOINTS` & `*_MAX` // "Lebenspunkte", Hitpoints or Damage that can be endured. Hitpoints are a maximum of 30 for Human NPCs, 60 for Orcs and 90 for Monsters. (Icon HUD: Life Icons. Bar HUD: Red Bar; different effects will be applied on the bar when hungry/exhausted/poisoned).
+* `ATR_STRENGTH` // "Stärke" (in difference to "Kraft"), related to the damage or maximum physical force output of the character, the damage one can inflict (= Damagepoints, "Schadenspunkte" or "Trefferpunkte"). Strength has a maximum value of 15 for Human NPCs, 30 for Orcs and 60 for Monsters. Strength scales damage to 100% in fist fighting (and for monsters except Gobbos with weapons), 50% in melee combat (the other 50% depends on the weapon) and 0% in ranged combat, where it is the weapon and ammunition alone that define the damage (Icon HUD: Fist Icons. Bar HUD: Only displayed in Character Screen).  
+* `ATR_DEXTERITY` // "Geschick", related to Physical Control that influences (maybe the critical hit chances in combat, but definitely influences) the risk of failure in stealth interactions and ranged combat. Specific levels of dexterity are requisites for learning agility and acrobatic related skills (Icon HUD: Hand Icons. Bar HUD: Only displayed in Character Screen). 
+* `ATR_MANA` & `ATR_MANA_MAX` // "Mana", "Magische Kraft" (Icon HUD: Blue Star Icons. Bar HUD: Blue Bar).
+* `ATR_PSI` & `ATR_PSI_MAX` // related to Mental Control in form of Psionic Power gained in the Psi Class (Icon HUD: StoneFace Icons. Bar HUD: Green Bar); referred to ingame by Psionics as their "Willpower" (Willenskraft).  
+* `ATR_FOCUS` & `ATR_FOCUS_MAX` // Focus, the equivalent of Mana/Psi for the Warrior & Thief Class, enables special moves, special attacks and slow motion (see Focus article); comparable to the bullet time meter in *Max Payne* and *Enter the Matrix* or with the combo string for special tricks in *Pro Skater* (Icon HUD: No icons designed yet. Bar HUD: Orange Bar).   
+* `ATR_STAMINA` & `ATR_STAMINA_MAX` // "Ausdauer": Has an extra bar that relates to sprinting and diving and to fighting with medium and heavy armor. The constitution level determines the maximum amount of Stamina that can be gained, and it *is* gained (limited by the constitution) through practice, e.g. running with much weight, sprinting etc. (Icon HUD: Air Bubble Icon. Bar HUD: Yellow Bar). 
+
+## Tertiary Attributes (Visualised Health/Management Stats)
+* `ATR_HUNGER`, `ATR_THIRST`, `ATR_FATIGUE` & `ATR_INTOXICATION`: Hunger, Thirst and Fatigue aren't affecting Hitpoints in any way, but they affect regeneration parameters (REG_LIFE, REG_STAMINA, REG_MANA, REG_SANITY). Intoxication `does`affect Hitpoints. During any amount of Intoxication every regeneration of HP is stopped completely. Depending on the severity of intoxication, HP is either getting reduced a specific amount or contineously until being fatal if not healed. (Icon HUD: One icon each for the four conditions; yet to be designed. Bar HUD: They will colorise the red HP bar, turning it e.g. into a toxic green, when intoxicated, into a dark red when thirsty (representing the "thickening of blood"); for Hunger and Fatigue I don't know yet).  
+* `ATR_MADNESS` & `*_MAX` // "Wahnsinn" or ones Mental Condition, increases by exposure to psionic attacks, PSI waves or PSI radiation, when the value of the exposure is beyond ones treshold of *Will*. As intoxication affects HP, Radiation affects Sanity by slow increasements of Madness; if the radiation is low it may increase madness only to a specific amount, if it is very high it may increase it contineously until being fatal if not healed (Icon HUD: Madness Symbols. Bar HUD: It is represented by a Purple-Black bar (turns more black the more it increases, as a simple color-fade). 
+
+Note: "Radiation" is no attribute, but a value we have later to link to specific global events in the Game World (during Madness Waves) or to specific locations in the world through Trigger Zones set in the Spacer.
 
 
 ## Attribute Levels & Scaling
 
-### Primary Attributes
+### Primary Attribute Scaling
 
 Primary Attributes always have 10 maximum points or levels and are never displayed to the player as numerical values. Each level is represented by a descriptive term, but internally the 10 points are linked to a maximum of 100 "subpoints". 10 subpoints per level. E.g. below 10 the character is at lvl 0. If he reaches 10 subpoints until 19 he is at lvl 1 (one full point), 20 to 29 at lvl 2 (two full points) and so on.  
 This is how it should look like in the scripts, at the example of ATR_WILL, with examples of how NPCs may refer to it:  
@@ -54,34 +57,24 @@ Wille: unbeugsam (85)
 ```
 The player then knows he is at will lvl 8 (an unyielding will, as teachers will tell him) and has 5 more Willpoints (subpoints) to gain in order to reach the next level (iron will). 
 
+**Important clarification:**   
+Primary Attributes, internally, have a fixed maximum number of 100 subpoints, with always 10 subpoints per full point. This gives us more opportunity to reward the player with bonus points, since otherwise we only could give him 10 total boni in total throughout the entire playthrough. These internal subpoints should not be confused with the full points. The "subpoints" (one of 100) are needed to reach one new "full" point (one of 10). But for taking damage as well as for regeneration these subpoints do *not* matter. This ONLY applies to the primary attributes: Constitution, Power (Physical Power), Will (Mental Power) and the four Arts (Categories of Experience).  
 
-## Secondary Attributes
+
+### Secondary & Tertiary Attribute Scaling
 
 Secondary Attributes have differing maximum values and are *not* displayed like the primary ones in clear text form, but in form of Icons or Bars only (depending on whether the player has chosen the Icon HUD or Bar HUD in the menu).  
 
-**Important clarification:**   
-While the attributes, internally, have a maximum of 100 subpoints, 10 subpoints per level (which give us more opportunity to reward the player with bonus points, since otherwise we only could give him 10 total boni in total throughout the entire playthrough), these internal subpoints should not be confused with the full points. The "subpoints" (one of 100) are needed to reach one new "full" point (one of 10). But for taking damage as well as for regeneration these subpoints do *not* matter.  
-That means: Any enemy, if he attacks and makes any amount of damage, will always at least make one full point of damage, not a subpoint. If one has 5 HP points in total, five "full points", and is attacked by a young scavenger which may cause some limited amount of damage, it costs at least one full point in the icon HUD or a fifth of the bar in the bar HUD. In the same way, if one casts a spell that costs mana, and one may have e.g. six full mana points, any kind of spell will at least cost 1 of these points, there are no half points or something like that; or, in case of the bar hud, it would reduce at least a sixth of the bar. 
+#### Secondary and "tertiary" attributes are ALWAYS integers (whole numbers).**  
 
+Other than the primary attributes, secondary and tertiary attributes do NOT have the above mentioned subpoints. This makes it much easier to handle technically, since some of those attributes have as much as 90 points (e.g. Health of some Monsters). It also makes it much more clear and consistent for the player.  
+* If he receives a message on the screen like "+1 Life gained", then this will immediately and actually be shown as one new Heart Icon (or in our later to be made improved Bar HUD it will be visible through an increased bar size and an unobtrusive visual effect to show this increasement). If he gains "+1 Strength" he will see one more fist icon and so on. Otherwise, if that would not be the case and if it would work like with the primary attributes, players would always be confused, since the apparent increasement is not actually shown and isn't immediately visible; he would then always have to consult the character sheet, which we try to prevent, as our HUD is supposed to give him all the relevant information without a need to check the character sheet.
+* This also means: Any enemy, if he attacks and makes any amount of damage, will always at least make one full point of damage. If one has 5 HP points in total, five "full points", and is attacked by a young scavenger which may cause some limited amount of damage, it costs at least one full point in the icon HUD or a fifth of the bar in the bar HUD. In the same way, if one casts a spell that costs mana (scrolls don't), and one may have e.g. six full mana points, any kind of spell will at least cost 1 of these points, there are no half points or something like that; or, in case of the bar HUD, it would reduce at least a sixth of the bar. 
 
-### ATR_CONSTITUTION & ATR_STAMINA
-
-Constitution (primary attribute) has 10 levels and a maximum of 100 subpoints. 100 equals lvl 10, 90 equals lvl 9 etc. Stamina has a maximum of 100 subpoints as well. The constitution level determines the maximum amount of Stamina that can be gained. 
-
-
-### ATR_STRENGTH & ATR_HITPOINTS & ATR_DAMAGEPOINTS
-
-Strength (primary attribute) has 10 levels in clear text form. 
-* Whereas Hitpoints are a maximum of 30 for Human NPCs, 60 for Orcs and 90 for Monsters.
-* And Damagepoints are a maximum of 15 for Human NPCs, 30 for Orcs and 60 for Monsters. 
-
-Strength scales damage to 100% in fist fighting (and for monsters except Gobbos with weapons), 50% in melee combat (the other 50% depends on the weapon) and 0% in ranged combat (here it is the weapon and ammunition alone that define the damage). 
-
-
-### ATR_WILL & ATR_PSI
-
+#### Clarification in regard to PSI 
 PSI can only be acquired by first gaining the necessary basic psionic experience (`EXP_PSIONIC`) and then by finding PSI knots or consuming PSI drugs with permanent boni. Only characters of the PSI class, Undead Orcish Shamans and the Sleeper have PSI. *Will* determines the maximum level of PSI that one can acquire (otherwise trying to consume more PSI will lead to PSI radiation, leading to Madness); beyond the basic knowledge of PSI, `EXP_PSIONIC` is related to the PSI spells one can learn. 
 
+For the player character, the amount of Will determines the maximum amount of Psi he can *acquire* at that point, as listed below (e.g. with 1 Will he can maximally have 3 Psi, with 2 Will he can maximally have 6 Psi and so on), while non player characters, which belong to the psionic class (one of the three PSI guilds), won't have to acquire the Psi, but when an NPC has 1 Will, we will give him 3 Psi and so on. 
 ```
 +--------------+
 | Will | ≤ Psi |
@@ -104,9 +97,9 @@ Human NPCs have a maximum PSI value of 30. For Undead Shamans the maximum PSI va
 **Casting into Madness:** When casting PSI spells they can be continued to be casted even if ones PSI is at zero. If ones PSI is 0, every additional second of casting beyond ones PSI energy, increases ones Madness by one point. PSI spells can be *continued* to be casted with 0 PSI points "into madness", but they cannot *started* to be casted with 0 PSI points. 
 
 
-### ATR_MANA 
+#### Clarification in regard to Mana
 
-Similar to PSI, Mana can only be acquired by first gaining the necessary arcane knowledge (`EXP_ARCANE`) and then by consuming Mana potions with permanent boni. The arcane knowledge determines how much Mana can be permanently increased without fatal intoxication, like the *Will* (and Psionic Knowledge) of a Psionic defines how much PSI can be consumed without fatal madness. 
+Similar to PSI, Mana can only be acquired by first gaining the necessary arcane knowledge (`EXP_ARCANE`) and then by consuming Mana potions with permanent boni. The arcane knowledge determines how much Mana can be permanently increased without fatal (physical, mana-induced) intoxication, like the *Will* (and Psionic Knowledge) of a Psionic defines how much PSI can be consumed without fatal madness. 
 
 <!---
 TODO:
