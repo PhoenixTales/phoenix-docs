@@ -1,4 +1,4 @@
-# World v0-1
+# World v0-1 (WIP)
 
 *flosha, August 11, 2026*
 
