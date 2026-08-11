@@ -32,7 +32,7 @@ Verdict: These changes can be preserved and brought into harmony with the v0.9 v
 ### Old Temple / Monastery Ruins 
 
 The Alpha location known from the release version as the Monastery Ruins wasn't conceived as such in v0.9. It was named "Old Temple". 
-The Old Temple had been stylistically consistent and presented a small, coherent temple building in ruins, standing freely at the highest part of a cliff hovering over the sea. The model of the ruins weren't perfect and might have been deemed too small (they suggested a more vertically expanding than horizontally expanding building in accordance with the gothic aesthetics). The terrain around them was modeled roughly enough to be considered incomplete. But the overall presentation was sound, believable and coherent. 
+The Old Temple had been stylistically consistent and presented a small, coherent temple building in ruins, standing freely at the highest part of a cliff hovering over the sea. The model of the ruins wasn't perfect and might have been deemed too small (the Alpha ruins suggested a more vertically expanding than horizontally expanding building in accordance with the gothic aesthetics). The terrain around them was modeled roughly enough to be considered incomplete. But the overall presentation was sound, believable and coherent. 
 More than that, it contained a small, but uniquely designed dungeon in the basement of the temple, with an underground path leading to a hidden outside area at the cliff with a view towards the ocean.  
 
 [Add Images]
@@ -42,7 +42,7 @@ In difference to the coherent Alpha design, these architectural alterations turn
 
 [Add Images] 
 
-Not in conflict with the Alpha design is the addition of the two, small dungeons that have to be explored in the Release Story. But whereas being serviceable, they were a missed opportunity to present a unique Monastery dungeon. The Monastery of the release version did not contain any kind of basement as the Alpha Temple did. The two "dungeons" each only consisted of a single tunnel into a cave, and one of the dungeons contained a small room that they recycled several times in the world, making it everything else but unique. 
+Not in conflict with the Alpha design is the addition of the two, small dungeons that have to be explored in the Release Story. But whereas being serviceable, they were a missed opportunity to present a unique Monastery dungeon. The Monastery of the release version did not contain any kind of basement as the Alpha Temple did. The two dungeons each only consisted of a single linear tunnel into a cave, and one of the dungeons contained a small room that they recycled several times in the world, making it everything but unique. 
 
 (They added several such copies of already existing cave models at many (often questionable) places in the game world in the last few months of development, leaving them without any purpose in the story of the game nor with any environmental storytelling. In many cases they were left completely empty, without even random content in them.)  
 
@@ -50,11 +50,11 @@ The new design also served the purpose to make the ruins inaccessible to the pla
 
 (Note: In case of the Troll Canyon, in lack of time, they helped themselves with a randomly and totally unbelievably positioned winch that other Diego can move to prevent the player from accessing the Focus earlier. The Mountain Fortress model was as well changed to prevent the player from getting the focus, as that place was regularly accessible before (and thus a more believable part of the model, not as isolated as it seems to be later), adding the necessity of the Telekinesis spell). 
 
-Verdict: The changes weren't necessary and did not make the place any more believable than before. They were not necessary for story purposes either. In regard to the architectural presentation they made the ruins worse and destroyed their formerly coherent design. While it could be argued that the Alpha design was not very believable as a Monastery, the point is invalid in the context of our project, since it wasn't conceived as one – as the ruins of an old temple it worked well. They also removed a unique dungeon that could have been expanded if considered insufficient, but instead was removed.  
+Verdict: The changes weren't necessary and did not make the place any more believable than before. They were not necessary for story purposes either. In regard to the architectural presentation they made the ruins worse and destroyed their formerly coherent design. While it could be argued that the Alpha design was not very believable as a Monastery, the point is invalid in the context of our project, since it wasn't conceived as one at the time – as the ruins of an old temple it worked well. They also removed a unique dungeon that could have been expanded if considered insufficient, but instead was removed.  
 The purpose of making the ruins inaccessible for later exploration in the story could have been fulfilled just as well (and with little effort) without altering the established architecture of the building in such significant ways.  
 We therefore restore the Old Temple.  
 
-While serviceable, the later dungeons do not fit into the old terrain without changing said terrain and will therefore be re-implemented later in more deliberate ways. Our goal is to improve the terrain in a way that it feels like developing the idea further instead of altering the idea. 
+Side Note: While serviceable, the later dungeons do not fit into the old terrain without changing said terrain and will therefore be re-implemented later in more deliberate ways. Our goal is to improve the terrain in a way that it feels like developing the idea further instead of altering the idea. 
 
 
 ## Troll Canyon
