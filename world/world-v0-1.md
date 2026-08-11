@@ -87,4 +87,20 @@ Here we will describe how the world will be changed to proceed from the base wor
 
 From the base game before any modifications, we move towards v0.9, preserving what has been deemed preservable from later versions according to our analysis. Below is a summary of what the Phoenix World v1 will offer:
 
-* ...
+* Surface Level from v0.9, featuring...
+  * Old Path down the Valley
+  * Old Pass
+  * Old Temple (instead of Release Monastery)
+  * Old Troll Canyon (late Alpha)
+  * Added Mountain Fortress from v1.00 (slightly different from v1.06)
+  * Old Western Plains
+  * Old Psi Camp (late Alpha Model & Textures)
+  * Minor Changes to the New Camp (Alpha Textures)
+  * A few necessary fixes of the 0.9 surface model (such as holes in the model).  
+* The v0.9 State of the Underworld Levels:
+  * 
+
+What World v1 will not yet offer:
+  * No changes yet to the Old Camp in this version of the world.
+  * No 4 Ancient Temple Levels yet (the existing OrcTemple Level represents only two of them).  
+
