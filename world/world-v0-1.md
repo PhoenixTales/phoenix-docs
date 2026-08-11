@@ -8,12 +8,13 @@ The World v0-1 development is related with the Alpha World v0.9 to Gothic World 
 
 Where the Alpha and Release world conflict, our *criteria of reconstruction* apply.
 * As the Alpha is taking priority, all locations that are important for the constitution of the alpha vision (as it has been established through the promotional material of GOTHIC) are restored.
-* Locations that have been added in the release version are preserved, when they are (1) mere *additions* to the alpha world or (2) minor changes to existing areas, that we can without a doubt consider as *improvements* that are still in accordance with said vision and not *alterations* of it.
+* Locations that have been added in the release version are preserved, when they are (1) mere *additions* to the alpha world or (2) minor changes to existing areas, that we can without a doubt consider as *improvements* that are still in accordance with said vision and not *alterations* of it. In short:
 
-In short:
-* Phoenix World v0 = Gothic World v1.6
-* Phoenix World v1 = Gothic v0.9 - 1.6
-  * Phoenix World v1 ≠ Gothic World v0.9 
+```
+  Phoenix World v0 = Gothic World v1.6
+  Phoenix World v1 = Gothic World v0.9-1.6
+    Phoenix World v1 ≠ Gothic World v0.9 
+```
 
 
 ## Gothic World Changes from v0.9 to v1.6
