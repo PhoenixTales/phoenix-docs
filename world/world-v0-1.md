@@ -80,12 +80,14 @@ Verdict: ...
 * Free Camp
 * Abandoned Mine
 
+---
 
-## Phoenix World v1
+This is how the world will be changed to proceed from the base world v0 to Phoenix World v1 (first Demo World). 
 
-Here we will describe how the world will be changed to proceed from the base world v0 to Phoenix World v1 (first Demo World). 
 
-From the base game before any modifications, we move towards v0.9, preserving what has been deemed preservable from later versions according to our analysis. Below is a summary of what the Phoenix World v1 will offer:
+## Phoenix World v1 (Summary)
+
+From the base game, before any modifications, we move towards v0.9, preserving what has been deemed preservable from later versions according to our analysis, resulting in Phoenix World v1, which will offer:
 
 * Surface Level from v0.9, featuring...
   * Old Path down the Valley
@@ -98,9 +100,16 @@ From the base game before any modifications, we move towards v0.9, preserving wh
   * Minor Changes to the New Camp (Alpha Textures)
   * A few necessary fixes of the 0.9 surface model (such as holes in the model).  
 * The v0.9 State of the Underworld Levels:
-  * 
+  * The latest state of the Abandoned Mine by PB (1.00; only the first level section, as the second is incomplete). 
+  * The slightly differing Sleeper Temple of v1.00 restored (paving the way for the additional temple levels coming later). 
 
 What World v1 will not yet offer:
-  * No changes yet to the Old Camp in this version of the world.
-  * No 4 Ancient Temple Levels yet (the existing OrcTemple Level represents only two of them).  
+  * No changes yet to the Old Camp Model in this version of the world.
+  * No changes yet to the New Camp Model.
+  * No interconnected Underworld yet.
+  * No additional Natural Caves before the OrcCaves yet.
+  * No dungeons and level section reconstructions exclusively known from versions of the world earlier than v0.9. 
+  * No Underground forests yet. 
+  * No 4 Ancient Temple Levels yet (the existing OrcTemple Level represents only two of them).
+  * No reconstructions of Concept Art yet.  
 
