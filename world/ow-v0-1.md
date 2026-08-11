@@ -1,28 +1,36 @@
-# Overworld v0-1
+# World v0-1
 
 *flosha, August 11, 2026*
 
-OW (Overworld) v0-1 refers to our design documentation and development process from Phoenix World v0.0 to Phoenix World v0.1.
+World v0-1 refers to our design documentation and development process from Phoenix World v0 to Phoenix World v1.
 
-The OW v0-1 development is related with the Gothic Worlds v0.9 to v1.6. whereas, 1.06 equals Phoenix World v0.0, while Phoenix World v0.1 is our attempt and result of restoring the Alpha World of v0.9, while *preserving* the *relevant* additions from up to v1.06. 
+The World v0-1 development is related with the Alpha World v0.9 to Gothic World v1 (precisely v1.6), whereas v1.6 equals Phoenix World v0, while Phoenix World v1 is our attempt and result of restoring the Alpha World of v0.9, while *preserving* the *relevant* additions from up to v1.6. 
 
 Where the Alpha and Release world conflict, our *criteria of reconstruction* apply.
 * As the Alpha is taking priority, all locations that are important for the constitution of the alpha vision (as it has been established through the promotional material of GOTHIC) are restored.
-* Only those locations that of the release version are preserved, which we can consider as pure additions to the Alpha world at locations, where the Alpha world has been incomplete. 
+* Locations that have been added in the release version are preserved, when they are (1) mere *additions* to the alpha world or (2) minor changes to existing areas, that we can without a doubt consider as *improvements* that are still in accordance with said vision and not *alterations* of it.
 
- 
- the harmonisation of the Alpha and the Release World, with the Alpha World taking priority. 
-All locations  those locations of the release version are No location of the Alpha world is removed but those locations of the Release version are added that do *not conflict* with the Alpha world. In short:
-* Gothic World v1.6 = Phoenix World v0.0
-* Gothic World v0.9 ≠ Phoenix World v0.1
-* Phoenix World v0.1 = Gothic v0.9 - 1.6
+In short:
+* Phoenix World v0 = Gothic World v1.6
+* Phoenix World v1 = Gothic v0.9 - 1.6
+  * Phoenix World v1 ≠ Gothic World v0.9 
 
 
-World 1.6  is what we start with, the base game before any modifications. (our first demo).
+## Gothic World Changes from v0.9 to v1.6
+
+This is what we start with, the base game before any modifications. 
+
+* Surface
+* Old Mine
+* Free Mine
+* Old Camp
+* New Camp
+* Psi Camp
+* Free Camp
+* Abandoned Mine
 
 
+## Phoenix World v1
 
-
-
-The purpose of this document is to describe in which way the world will be changed to proceed from the base world v0 to Phoenix world v1. 
+Here we will describe how the world will be changed to proceed from the base world v0 to Phoenix World v1 (first Demo World). 
 
