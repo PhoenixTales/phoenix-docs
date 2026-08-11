@@ -8,7 +8,9 @@ The World v0-1 development is related with the Alpha World v0.9 to Gothic World 
 
 Where the Alpha and Release world conflict, our *criteria of reconstruction* apply.
 * As the Alpha is taking priority, all locations that are important for the constitution of the alpha vision (as it has been established through the promotional material of GOTHIC) are restored.
-* Locations that have been added in the release version are preserved, when they are (1) mere *additions* to the alpha world or (2) minor changes to existing areas, that we can without a doubt consider as *improvements* that are still in accordance with said vision and not *alterations* of it. In short:
+* Locations that have been added in the release version are preserved, when they are (1) mere *additions* to the alpha world or (2) minor changes to existing areas, that we can without a doubt consider as *improvements* that are still in accordance with said vision and not *alterations* of it.
+
+Summarised in short terms:
 
 ```
   Phoenix World v0 = Gothic World v1.6
@@ -23,7 +25,7 @@ This is what we start with, the base game before any modifications.
 
 ### Surface Changes
 
-* Exchange Place: The World Model has been slightly expanded, additional vobs have been placed to improve the locations presentation, without altering the existing idea nor the atmosphere.
+* Exchange Place: The World Model has been slightly expanded and additional vobs have been placed, to improve the locations presentation, without altering the existing idea nor the atmosphere. → These changes can be preserved. and brought into harmony with the v0.9 version of the place. 
 *  
 
 * Old Mine
