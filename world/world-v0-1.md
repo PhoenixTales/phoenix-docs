@@ -21,7 +21,11 @@ Where the Alpha and Release world conflict, our *criteria of reconstruction* app
 
 This is what we start with, the base game before any modifications. 
 
-* Surface
+### Surface Changes
+
+* Exchange Place: The World Model has been slightly expanded, additional vobs have been placed to improve the locations presentation, without altering the existing idea nor the atmosphere.
+*  
+
 * Old Mine
 * Free Mine
 * Old Camp
