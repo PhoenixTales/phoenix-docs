@@ -2,7 +2,7 @@
 
 ### Island or Mainland
 
-As a matter of fact and as described above, the idea of the colony being situated on an island was considered obsolete in 1998. But it still remained as an idea in the back of Mikes head and it is also reasonable in regard to *Escape from New York* as the original inspiration for the setting, which takes place on the island of Manhattan. 
+As a matter of fact and as described above, the idea of the Colony being situated on an island was considered obsolete in 1998. But it still remained as an idea in the back of Mikes head and it is also reasonable in regard to *Escape from New York* as the original inspiration for the setting, which takes place on the island of Manhattan. 
 
 The Comic (as well as, by the way, G2), show the City of Khorinis as being very close to the Colony and as directly connected. Thus, if an island, both the Colony and the City have to be located on it. 
 

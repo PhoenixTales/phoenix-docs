@@ -16,12 +16,12 @@ In Phoenix, which is story-driven, the function of the player character is diffe
 
 ## Storyinteraction vs. Roleplaying
 
-One way is a solution like in the Witcher, where the character *has* a strong personality and opinions and the player has only one role to choose: his. But is this roleplaying? 
+One way is a solution like in the Witcher, where the character *has* a strong personality and opinions and the player has only one role to choose: his. But in which sense is this roleplaying? 
 
-How can it be roleplaying, if you have no influence on the role that you play? For it to be roleplaying you either have to be able to choose one of several roles, then play it accordingly (as in the old, traditional RPGs) and/or you have to be able to play a character which role you can influence and choose in course of the game (which Gothic/Phoenix ought to be). If you just play with one character with one fixed role, then there is no roleplaying here. Otherwise every simple shooter would be a RPG.
+For it to be roleplaying you either have to be able to choose one of several roles, then play it accordingly (as in the old, traditional RPGs) and/or you have to be able to play a more or less fixed character which role you can influence and choose in course of the game (whereas the Witcher would be an example for a "more fixed" character, whereas Phoenix ought to have a "less fixed" one). If you just play with one character with a very fixed role and no influence on how this character develops, then there is little roleplaying there. Otherwise every simple shooter would be a RPG too.
 
 In some so-called RPGs you have lots of decisions to make. Decisions such as how you skill. But these are tactical decisions, its like: "Which weapon do I choose?" in a shooter. That is not what makes an RPG.  
-You can also make a lot of decisions in the story within dialogues, but these dialogues do not seem to influence your character, how he relates to the world or how he sees himself, they only influence specific consequences in the story, the outcome of missions, at most his attitude towards one of two factions etc. This, for me, is not at the core of roleplaying either; it is interactive story-playing, not interactive role-playing. 
+You can also make a lot of decisions in the story within dialogues, but if these dialogues do not seem to influence your character, how he relates to the world or how he sees himself, and only influence specific consequences in the story, the outcome of missions, at most his attitude towards one of two factions etc., then that might fall under the category of RPG but for me it is not at the *core* of roleplaying; it is interactive story-playing, not interactive role-playing. 
 
 Gothic went a different way, in that it gives the player a character that almost remains free of personality in order to let the player project their own ideas unto him. But where is the roleplaying in that?  
 

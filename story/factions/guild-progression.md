@@ -92,7 +92,7 @@ A conclusion that stands to reason would be to choose the same number as the att
 |  4  | Adept      |     |    3    |
 |  5  | Alchemist  |     |         |
 |  6  | Mage       |     |    4    |
-|  7  | Naster     |     |         |
+|  7  | Master     |     |         |
 +-----+------------+     |    5    |
 |  8  | Disciple   |     |         |
 |  9  | Witcher    |     |    6    |
@@ -113,8 +113,8 @@ The only factors were:
 * The relationships between the guilds should be a relevant consideration for the ability to join, regarding trustworthiness, loyalty etc.
 
 What we do in Phoenix is
-* to take the relationships more serious (which will also make the first point thighter and in many cases lower the maximum level for a switch) and
-* add the class as a third factor 
+* to take the relationships more serious (which will also make the first point tighter and in many cases lower the maximum level for a switch) and
+* add the class as a third factor.
 
 Our system will then look like this:
 
@@ -137,8 +137,8 @@ If we assume 5 chapters, the guild progression would roughly be 2 levels per cha
 
 ## Exiled Mages
 
-According to Mikes Orpheus guild concepts mages of the two circles would have to remain guildless if being banned from their circle between level 4-6, as they could only defect to the other circle up to level 3, while the demon summoner only accepts mages of level 7. 
+According to Mikes Orpheus guild concepts mages of the two circles would have to remain guildless if being banned from their circle between level 4-6, as they could only defect to the other circle up to level 3, while the Demon Summoner only accepts Mages of level 7. 
 
 We will divert from this by giving the option, similar to the release version, of at least defecting to the other mages circle at up to level 4 or 5. (Although this may only be possible if the reason for the ban is not a crime that the other circle despises just as much.)  
 
-Additionally: While on the regular path the mage can only join the demon summoner after having reached level 7, being exiled from the circles may work to his advantage in the dark arts by raising his esteem in the eyes of the demon summoner and thus may allow him to become his disciple earlier. 
+Additionally: While on the regular path the Mage can only join the Demon Summoner after having reached level 7, being exiled from the circles may work to his advantage in the dark arts by raising his esteem in the eyes of the Demon Summoner and thus may allow him to become his disciple earlier. 
