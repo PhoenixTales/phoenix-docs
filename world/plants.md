@@ -7,6 +7,24 @@ In Gothic, plants were, for the most part, be divided into those regenerating he
 
 ## HP Reg Plants
 
+| DE | Internal | Effect | Note |
+|----|----------|--------|------|
+| Waldbeere | woodberry | +10 HP |   |
+| Flammendorn | flameberry | +12 HP |
+| Seraphis | seraphis | +14 HP | |
+| Velayis | velayis | +16 HP | unused |
+| Bergmoos | mountain moss | +18 HP | |
+| Grabmoos | gravemoss | +20 HP | |
+| Nachtschatten | nightshadow | +22 HP | |
+| Mondschatten | nightshadow_02 | +24 HP | |
+| Orkblatt | orcherb_01 | +26 HP | |
+| Eichenblatt | orcherb_02 | +28 HP | |
+| Heilkräuter 1 | | +30 HP | |
+| Heilkräuter 2 | | +39 HP | |
+| Heilkräuter 3 | | +49 HP | |
+
+All of these plants only impacted HP and had no other effects. From the woodberry to the healing herb they all gave progressively more HP bonus in steps of +2, until bigger jumps in case of the last two healing herbs. 
+
 ...
 
 ## Mana Reg Plants
