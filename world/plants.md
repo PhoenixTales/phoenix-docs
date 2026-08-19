@@ -54,7 +54,13 @@ The same principle as above, but only 6 instead of 13 plants and 3 instead of 6 
 In the Sequel documentation on plants and alchemy by Nyul and Filler, a few of those plants were not mentioned, while three additional ones were added. 
 
 Not mentioned were the following:
-...
+* Seraphis/Velayis
+* Grabmoos (?)
+* Eichenblatt
+* Sklavenbrot
+* Blutbuchensamen/Turmeichensamen
+* Dunkelkraut
+* Drachenwurzwl
 
 And these have been added:
 * Blutdistel (Blood Thistle)
