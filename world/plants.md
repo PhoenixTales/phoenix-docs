@@ -1,4 +1,4 @@
-# Plants & Alchemy
+# Plants, Mushrooms & Alchemy
 
 Author: *flosha*, add date from old docs  
 Last update: 20.08.2026
@@ -91,7 +91,8 @@ Some plants were meant to have a different effect in the Sequel:
 
 ### Naming Convention
 
-In the item scripts of Gothic there is an extra file (plants.d) reserved for plants, but it was left empty. Instead all plant IDs were written into the food file and named `ItFo_Plant_[Name]`. It makes sense insofar as that the plants have been an afterthought and couldn't be properly implemented into an alchemy crafting mechanic as they planned; they therefore served no other purpose anymore but as food. The Sequel wanted to correct this shortcoming. Consequentally the plants scripts were moved and a new naming convention was introduced, which we'll follow: `ItPl_[Name]`. 
+In the item scripts of Gothic there is an extra file (plants.d) reserved for plants, but it was left empty. Instead all plant IDs were written into the food file and named `ItFo_Plant_[Name]`. It makes sense insofar as that the plants have been an afterthought and couldn't be properly implemented into an alchemy crafting mechanic as they planned; they therefore served no other purpose anymore but as food. The Sequel wanted to correct this shortcoming. Consequentally the plants scripts were moved and a new naming convention was introduced, which we'll follow: `ItPl_[Name]`.  
+For Mushrooms we are using `ItMu_[Name]`. Since they even have an associated alpha talent (`Identify_Mushrooms`) and as there will be much more mushrooms than the two remaining in the release version, they are in a script file on their own (mushrooms.d).  
 
 ---
 
