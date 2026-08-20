@@ -132,8 +132,26 @@ Special Potion 1 | 1 Quecksilber, 1 Eichenblatt, 1 Mondschatten | +4 Str/Dex |
 Special Potion 2 | 1 Quecksilber, 2 Eichenblatt, 2 Mondschatten | +6 Str/Dex	|
 
 Balancing:  
-Due to the alpha attribute values, the potion values have to be modified to fit into this scheme. In general, perm plants should give a bonus of at most between 1 and 3. "Light" plant +1, "medium" plant +2, "heavy" plant +3. But since plants, for the most part, have two variants only, it would be +1 and +2. Potions then start from +3 to a maximum of +5. Light potions +3, medium potions +4 and heavy potions +5. 
+Due to the alpha attribute values, the potion values have to be heavily modified to fit into this scheme. 
+When there is a maximum of 15 Strength, 30 HP, 30 Psi, 30 Mana etc., perm potions cannot give boni as high as they did in the release version where one could acquire three or more times as much points.  
+We follow the simple scheme of "light", "medium" and "heavy" potions:
+* Essences: Light Perm Potions: +1
+* Extracts: Medium Perm Potions: +2
+* Elixiers: Heavy Perm Potions +3
 
+Since we have to restrict the boni of potions as much, the rare plants required for these potions won't give any perm values on their own. They have to be used for potions in order to make full use of them. 
+
+The player can buy potions, he can craft potions himself (if he he has the necessary alchemical knowledge; or, if he hasn't,) he can ask and pay alchemists to do it for him (if he knows any who is capable and willing to help him).  
+
+
+### Etymology and Meaning
+
+The Sequel 
+Essences:
+
+Extracts:
+
+Elixirs: 
 
 
 
