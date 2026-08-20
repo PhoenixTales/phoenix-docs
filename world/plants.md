@@ -32,10 +32,9 @@ In Gothic, plants were, for the most part, be divided into those regenerating he
 | Waldpilz | ItMu_WoodMushroom | ? | Phoenix addition, based on the Comic |
 | Waldpilz 2 | ItMu_WoodMushroom_02 | ? | 
 | Honigpilz | ItMu_HoneyMushroom | ? | Alpha, especially rare wood mushroom |
-Phoenix addition, based on the Comic |
 | Höhlenpilz | ItMu_CaveMushroom | ? | Alpha/Sequel, more common cave mushroom |
 | Sklavenbrot | ItMu_CaveMushroom_02 | ? | | 
-| Erzpilz | ItMu_OreMushroom | ? | Poisonous Cave mushroom |
+| Erzpilz | ItMu_OreMushroom | ? | Poisonous Cave mushroom, Phoenix addition, based on the Comic |
 | Teufelspilz | ItMu_DevilsMushroom | ? | very rare mushroom, poisonous by touch |
 
 All of these plants only impacted HP and had no other effects. From the woodberry to the healing herb they all gave progressively more HP bonus in steps of +2, until bigger jumps in case of the last two healing herbs. These 13 plants can be divided into 6 categories: 
