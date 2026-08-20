@@ -1,4 +1,4 @@
-# Plants
+# Plants & Alchemy
 
 Author: *flosha*, add date from old docs
 Last update: 20.08.2026
@@ -79,3 +79,21 @@ Some plants were meant to have a different effect in the Sequel:
 
 In the item scripts of Gothic there is an extra file (plants.d) reserved for plants, but it was left empty. Instead all plant IDs were written into the food file and named `ItFo_Plant_[Name]`. It makes sense insofar as that the plants have been an afterthought and couldn't be properly implemented into an alchemy crafting mechanic as they planned; they therefore served no other purpose anymore but as food. The Sequel wanted to correct this shortcoming. Consequentally the plants scripts were moved and a new naming convention was introduced, which we'll follow: `ItPl_[Name]`. 
 
+---
+
+## Plants as alchemical ingrediences
+
+There are potions with temporary and potions with permanent effect. Temporary potions require *Alcohol* as their (Lösungsmittel?), permanent potions require *Quicksilver*. 
+
+| Potion | Ingrediences | Effect |
+|--------|--------------|--------|
+| Essenz der Heilung	| 1 Alkohol, 1 Bergmoos, 1 Seraphis | 25 HP |
+| Extrakt der Heilung | 1 Alkohol, 1 Bergmoos, 2 Seraphis | 50 HP |
+| Elixier der Heilung | 1 Alkohol, 1 Bergmoos, 3 Seraphis | 100 HP |
+| Mana Essenz |	1 Alkohol, 1 Steinwurzel, 1 Rabenkraut | 25 Mana |
+| Mana Extrakt | 1 Alkohol, 1 Steinwurzel, 2 Rabenkraut | 45 Mana |
+| Mana Elixier | 1 Alkohol, 1 Steinwurzel, 3 Rabenkraut | 65 Mana
+
+Const. Potion 1	1 Alkohol, 1 Blutdistel, 1 Honig			1 Min
+Const. Potion 2	1 Alkohol, 2 Blutdistel, 2 Honig			2 Min
+Const. Potion 3	1 Alkohol, 1 Blutdistel, 3 Honig			3 Min
