@@ -4,7 +4,7 @@ Author: *flosha*, add date from old docs
 Last update: 20.08.2026
 
 
-In Gothic, plants were, for the most part, be divided into those regenerating health (short "hp reg") and those regenerating mana (short "mana reg"). Following this categorization we can list them as follows:
+In Gothic, plants were, for the most part, divided into those regenerating health (short "hp reg") and those regenerating mana (short "mana reg"). Following this categorization we can list them as follows:
 
 ## HP Reg Plants
 
