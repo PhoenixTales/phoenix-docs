@@ -69,7 +69,7 @@ And these have been added:
 * Königstrost (-)
 * Blutfarn (also mentioned somewhere in the scripts?)
 
-But the Blood Thistle used the Seraphis model and texture. It could be that some plants weren't removed or replaced, but rather renamed. If so, Seraphis could be the scientific term (as used by Alchemists), while blood thistle would be the more common name. The visuals should not be considered to be final. 
+While Seraphis as a name did no longer appear, the Blood Thistle used Seraphis' old model and texture. It could well be that some plants weren't removed or replaced, but rather renamed. If so, Seraphis could be the scientific term (as used by Alchemists), while blood thistle would be the more common name. The visuals should not be considered to be final either. 
 
 Some plants were meant to have a different effect in the Sequel: 
 * ...
@@ -77,5 +77,5 @@ Some plants were meant to have a different effect in the Sequel:
 
 ### Naming Convention
 
-Strangely, in the item scripts of Gothic, there is an extra file (plants.d) reserved for plants, but it is empty. Instead, all plant IDs were written into the food file and named `ItFo_Plant_[Name]`. It makes sense insofar as that the plants have been an afterthought and couldn't be properly implemented into an alchemy crafting mechanic as they planned. The Sequel wanted to correct this shortcoming. Consequentally the plants scripts were moved and a new naming convention was introduced, which we'll follow: `ItPl_[Name]`. 
+In the item scripts of Gothic there is an extra file (plants.d) reserved for plants, but it was left empty. Instead all plant IDs were written into the food file and named `ItFo_Plant_[Name]`. It makes sense insofar as that the plants have been an afterthought and couldn't be properly implemented into an alchemy crafting mechanic as they planned; they therefore served no other purpose anymore but as food. The Sequel wanted to correct this shortcoming. Consequentally the plants scripts were moved and a new naming convention was introduced, which we'll follow: `ItPl_[Name]`. 
 
