@@ -1,6 +1,6 @@
 # Plants & Alchemy
 
-Author: *flosha*, add date from old docs
+Author: *flosha*, add date from old docs  
 Last update: 20.08.2026
 
 
@@ -152,7 +152,7 @@ Each potion requires a "resolvent" (Lösungsmittel). In Phoenix, potions of temp
 
 When we design alchemy as a crafting mechanic, as they have planned, the meaning of those terms should be clarified, since teachers have to explain them ingame and it will have to influence how the respective potions are made. 
 
-"Tincture": When plants are soaked in alcohol to slowly give (solve) their essence into the resolvent, the result is called a tincture. This term is not used in the game yet. 
+"Tincture": When plants are soaked in alcohol to slowly give (solve) their essence into the resolvent, the result is called a tincture. This term is not used in the game yet. It should be done in a ratio of about 1:10 between plant and resolvent (e.g. 100g of the plant, 1 liter Alcohol). 
 
 
 Essences: An essence is a concentrated liquid, e.g. by cooking something so much that only reduced and concentrated stuff remains, while the resolvent is reduced to minimum volume. 
