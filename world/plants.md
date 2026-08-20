@@ -1,6 +1,7 @@
 # Plants
 
-Author: *flosha*, 20.08.2026
+Author: *flosha*, add date from old docs
+Last update: 20.08.2026
 
 
 In Gothic, plants were, for the most part, be divided into those regenerating health (short "hp reg") and those regenerating mana (short "mana reg"). Following this categorization we can list them as follows:
@@ -51,7 +52,7 @@ The same principle as above, but only 6 instead of 13 plants and 3 instead of 6 
 
 ## Sequel Plants
 
-In the Sequel documentation on plants and alchemy by Nyul and Filler, a few of those plants were not mentioned, while three additional ones were added. 
+In the Sequel documentation on plants and alchemy by Nyul and Filler, a few of those plants were not mentioned, while apparently three additional ones were added. 
 
 Not mentioned were the following:
 * Seraphis/Velayis
@@ -66,6 +67,15 @@ And these have been added:
 * Blutdistel (Blood Thistle)
 * Silberfarn (Silver Fern)
 * Königstrost (-)
+* Blutfarn (also mentioned somewhere in the scripts?)
+
+But the Blood Thistle used the Seraphis model and texture. It could be that some plants weren't removed or replaced, but rather renamed. If so, Seraphis could be the scientific term (as used by Alchemists), while blood thistle would be the more common name. The visuals should not be considered to be final. 
 
 Some plants were meant to have a different effect in the Sequel: 
 * ...
+
+
+### Naming Convention
+
+Strangely, in the item scripts of Gothic, there is an extra file (plants.d) reserved for plants, but it is empty. Instead, all plant IDs were written into the food file and named `ItFo_Plant_[Name]`. It makes sense insofar as that the plants have been an afterthought and couldn't be properly implemented into an alchemy crafting mechanic as they planned. The Sequel wanted to correct this shortcoming. Consequentally the plants scripts were moved and a new naming convention was introduced, which we'll follow: `ItPl_[Name]`. 
+
