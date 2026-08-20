@@ -87,13 +87,14 @@ There are potions with temporary and potions with permanent effect. Temporary po
 
 | Potion | Ingrediences | Effect |
 |--------|--------------|--------|
-| Essenz der Heilung	| 1 Alkohol, 1 Bergmoos, 1 Seraphis | 25 HP |
-| Extrakt der Heilung | 1 Alkohol, 1 Bergmoos, 2 Seraphis | 50 HP |
-| Elixier der Heilung | 1 Alkohol, 1 Bergmoos, 3 Seraphis | 100 HP |
+| Essenz der Heilung	| 1 Alkohol, 1 Bergmoos, 1 Waldbeere | 25 HP |
+| Extrakt der Heilung | 1 Alkohol, 1 Bergmoos, 2 Waldbeere | 50 HP |
+| Elixier der Heilung | 1 Alkohol, 1 Bergmoos, 3 Waldbeere | 100 HP |
 | Mana Essenz |	1 Alkohol, 1 Steinwurzel, 1 Rabenkraut | 25 Mana |
 | Mana Extrakt | 1 Alkohol, 1 Steinwurzel, 2 Rabenkraut | 45 Mana |
-| Mana Elixier | 1 Alkohol, 1 Steinwurzel, 3 Rabenkraut | 65 Mana
+| Mana Elixier | 1 Alkohol, 1 Steinwurzel, 3 Rabenkraut | 65 Mana |
+| Essenz der Ausdauer	| 1 Alkohol, 1 Blutdistel, 1 Honig	|	1 Min |
+| Extrakt der Ausdauer | 1 Alkohol, 2 Blutdistel, 2 Honig	|	2 Min |
+| Elixier der Ausdauer | 1 Alkohol, 1 Blutdistel, 3 Honig |	3 Min |
 
-Const. Potion 1	1 Alkohol, 1 Blutdistel, 1 Honig			1 Min
-Const. Potion 2	1 Alkohol, 2 Blutdistel, 2 Honig			2 Min
-Const. Potion 3	1 Alkohol, 1 Blutdistel, 3 Honig			3 Min
+
