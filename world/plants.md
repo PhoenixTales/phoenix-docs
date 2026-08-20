@@ -119,9 +119,9 @@ Mana Perm. 3 | 1 Quecksilber, 3 Drachenwurzel, 3 Dunkelkraut, 3 Nachts. | +15 Ma
 Const. Perm 1	| 1 Quecksilber, 1 Königstrost, 1 Honigpilz, 1 Nachts. | +5 Const. |
 Const. Perm 2 |	1 Quecksilber, 2 Königstrost, 2 Honigpilz, 2 Nachts. | +10 Const. |
 Const. Perm 3 |	1 Quecksilber, 3 Königstrost, 3 Honigpilz, 3 Nachts. | +15 Const. |
-Psi Perm. 1 | 1 Quecksilber, 5 Crawlerzangen, 1 Sumpfkraut, 1 Nachts.	| +5 Will	|
-Psi Perm. 2	| 1 Quecksilber, 10 Crawlerzangen, 2 Sumpfkraut, 2 Nachts.	| +10 Will |
-Psi Perm. 3	| 1 Quecksilber, 20 Crawlerzangen, 3 Sumpfkraut, 3 Nachts. |	+15 Will |
+Psi Perm. 1 | 1 Quecksilber, 1x Psi-Wurzel, 5x Crawlersekret, 1 Sumpfkraut, 1 Nachts. | +5 Will	|
+Psi Perm. 2	| 1 Quecksilber, 1x Psi-Wurzel, 10x Crawlersekret, 2 Sumpfkraut, 1x 2 Nachts. | +10 Will |
+Psi Perm. 3	| 1 Quecksilber, 1x Psi-Wurzel, 20 Crawlerzangen, 3 Sumpfkraut, 3 Nachts. | +15 Will |
 Str perm.	1	| 1 Quecksilber, 1 Eichenblatt, 1 Sklavenbrot, 1 Nachts. | +2 Str |
 Str. perm. 2 | 1 Quecksilber, 2 Eichenblatt, 2 Sklavenbrot, 2 Nachts. | +4 Str |
 Str. perm. 3 | 1 Quecksilber, 3 Eichenblatt, 3 Sklavenbrot, 3 Nachts. | +8 Str |
