@@ -113,9 +113,9 @@ ToDo: Change Effect values to fit to the Alpha attribute values.
 | HP Perm. 1 | 1 Quecksilber, 1 Grabmoos, 1 Velayis, 1 Nachtschatten | +5 Leben |
 | HP Perm. 2 | 1 Quecksilber, 1 Grabmoos, 2 Velayis, 2 Nachtschatten | +10 HP |
 | HP perm. 3 | 1 Quecksilber, 1 Grabmoos, 3 Velayis, 3 Nachtschatten | +15 HP |
-Mana Perm. 1 | 1 Quecksilber, 1 Drachenwurzel, 1 Dunkelkraut, 1 Nachts. | +5 Mana |
-Mana Perm. 2 | 1 Quecksilber, 2 Drachenwurzel, 2 Dunkelkraut, 2 Nachts. | +10 Mana |
-Mana Perm. 3 | 1 Quecksilber, 3 Drachenwurzel, 3 Dunkelkraut, 3 Nachts. | +15 Mana |
+Mana Perm. 1 | 1 Quecksilber, Erzpulver, 1 Drachenwurzel, 1 Dunkelkraut, 1 Nachts. | +5 Mana |
+Mana Perm. 2 | 1 Quecksilber, Erzpulver, 2 Drachenwurzel, 2 Dunkelkraut, 2 Nachts. | +10 Mana |
+Mana Perm. 3 | 1 Quecksilber, Erzpulver, 3 Drachenwurzel, 3 Dunkelkraut, 3 Nachts. | +15 Mana |
 Const. Perm 1	| 1 Quecksilber, 1 Königstrost, 1 Honigpilz, 1 Nachts. | +5 Const. |
 Const. Perm 2 |	1 Quecksilber, 2 Königstrost, 2 Honigpilz, 2 Nachts. | +10 Const. |
 Const. Perm 3 |	1 Quecksilber, 3 Königstrost, 3 Honigpilz, 3 Nachts. | +15 Const. |
