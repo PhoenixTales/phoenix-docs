@@ -83,7 +83,9 @@ And these have been added:
 * Königstrost (-)
 * Blutfarn (also mentioned somewhere in the scripts?)
 
-While Seraphis as a name did no longer appear, the Blood Thistle used Seraphis' old model and texture. It could well be that some plants weren't removed or replaced, but rather renamed. If so, Seraphis could be the scientific term (as used by Alchemists), while blood thistle would be the more common name. The visuals should not be considered to be final either. 
+While Seraphis as a name did no longer appear, the Blood Thistle used Seraphis' and Velayis' old model and texture. It could well be that some plants weren't removed or replaced, but rather renamed. If so, Seraphis or Velayis could be the scientific term (as used by Alchemists), while blood thistle would be the more common name. The visuals should not be considered to be final either. 
+
+While there does not seem to be a real blood thistle - regular thistles very much have the color Seraphis comes with; we would only have to regard the purple berry texture that the middle part uses as a placeholder for a thistle blossom. If we would follow the example of Silverfern and Bloodfern, there could as well be a silver thistle (which actually exists) and a blood thistle, which would be the more rare variant.  
 
 Some plants were meant to have a different effect in the Sequel: 
 * ...
