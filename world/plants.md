@@ -24,6 +24,20 @@ In Gothic, plants were, for the most part, be divided into those regenerating he
 | Heilkräuter 2 | | +39 HP | |
 | Heilkräuter 3 | | +49 HP | |
 
+
+**Mushrooms:**  
+
+| DE | Internal | Effect | Note |
+|----|----------|--------|------|
+| Waldpilz | ItMu_WoodMushroom | ? | Phoenix addition, based on the Comic |
+| Waldpilz 2 | ItMu_WoodMushroom_02 | ? | 
+| Honigpilz | ItMu_HoneyMushroom | ? | Alpha, especially rare wood mushroom |
+Phoenix addition, based on the Comic |
+| Höhlenpilz | ItMu_CaveMushroom | ? | Alpha/Sequel, more common cave mushroom |
+| Sklavenbrot | ItMu_CaveMushroom_02 | ? | | 
+| Erzpilz | ItMu_OreMushroom | ? | Poisonous Cave mushroom |
+| Teufelspilz | ItMu_DevilsMushroom | ? | very rare mushroom, poisonous by touch |
+
 All of these plants only impacted HP and had no other effects. From the woodberry to the healing herb they all gave progressively more HP bonus in steps of +2, until bigger jumps in case of the last two healing herbs. These 13 plants can be divided into 6 categories: 
 1. Berries (to which also a third berry counts, the Trollkirsche (Troll Cherry), which is poisonous and gives -20 HP, unused like Velayis). 
 2. Velayis + Seraphis (perhaps "flowers".
@@ -31,6 +45,7 @@ All of these plants only impacted HP and had no other effects. From the woodberr
 4. Nightshade Plants
 5. "Leaves"
 6. Healing Herbs
+7. Mushrooms
 
 ...
 
