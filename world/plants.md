@@ -75,7 +75,7 @@ Not mentioned were the following:
 * Sklavenbrot
 * Blutbuchensamen/Turmeichensamen
 * Dunkelkraut
-* Drachenwurzwl
+* Drachenwurzel
 
 And these have been added:
 * Blutdistel (Blood Thistle)
