@@ -148,9 +148,11 @@ The player can buy potions, he can craft potions himself (if he he has the neces
 
 Gothic divided potions into "Essences", "Extracts" and "Elixirs", regarding each of those to be a stronger "extractions" than the former, therefore having a stronger effect.  
 
-But when we design alchemy as a crafting mechanic, as they have planned, the meaning of those terms should be clarified, since teachers have to explain them ingame and since it will have to influence how the respective potions are made. 
+Each potion requires a "resolvent" (Lösungsmittel). In Phoenix, potions of temporary effect require Alcohol as their resolvent, following the Sequel design, while potions of permanent effect require the much more costly Quicksilver as their resolvent, by which we incorporate another unused alchemical item. 
 
-Essences:
+When we design alchemy as a crafting mechanic, as they have planned, the meaning of those terms should be clarified, since teachers have to explain them ingame and it will have to influence how the respective potions are made. 
+
+Essences: An essence is a concentrated liquid, e.g. by cooking something so much that only reduced and concentrated stuff remains, while the resolvent is reduced to minimum volume. 
 
 Extracts:
 
