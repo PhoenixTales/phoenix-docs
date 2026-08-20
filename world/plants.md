@@ -152,19 +152,15 @@ Each potion requires a "resolvent" (Lösungsmittel). In Phoenix, potions of temp
 
 When we design alchemy as a crafting mechanic, as they have planned, the meaning of those terms should be clarified, since teachers have to explain them ingame and it will have to influence how the respective potions are made. 
 
-**"Tincture"**: When plants are soaked in alcohol to slowly give (solve) their essence into the resolvent, the result is called a tincture. This term is not used in the game yet. 
+**Extracts or "Tinctures"**: When plants are soaked in alcohol to slowly give (solve) their essence into the resolvent, the result is called a tincture. This term is not used in the game yet. 
 * It should be done in a ratio of about 1:10 between plant and resolvent (e.g. 100g of the plant, 1 liter Alcohol).
 * It can be done with fresh plants (resulting in weaker tinctures) or with dried, pulverized plants (resulting in stronger tinctures, about twice as strong).
 * A tincture is always an "extract", but an "extract" is not always a tincture. The difference is that there are dry and liquid extracts and tinctures are liquid extracts. This means, that all extracts in the game, being liquid, are tinctures.
 
-* **Essence**: What is the difference between an extract or tincture and an essence? 
+* **Essences**: What is the difference between an extract or tincture and an essence? In the alchemical context, essences are to be seen as weaker in (physical) effect than extracts, but are more complex to make and may be speculated to be higher in effect in other, more subtle and spiritual ways. From a materialist perspective an extract contains more than an essence, more measurable concentrated material, while from an alchemical perspective the essence may be considered to be of higher quality and effect.
+* This leads to some conflict with the game, where the essence is clearly considered to be the weaker of the two. A way to dissolve this conflict, may be: An essence contains (materially) less, but exactly for this reason it may be necessary, since an extract may be too strong to handle (e.g. for the initiant mage), and to create such an essence, which will alter the mage in substantial, spiritual ways, e.g. making him receptable for the mana in general, more skill may be required. In this way, essences can remain the theoretically weaker potion in the game, but require higher skill to make. Potentially the highest. For non-alchemists it may be relatively easy to create mana extracts, but they will always be poisonous. Only if prepared through an essence can one handle the consumption of materially stronger extracts. 
 
-
-Essences: An essence is a concentrated liquid, e.g. by cooking something so much that only reduced and concentrated stuff remains, while the resolvent is reduced to minimum volume. 
-
-Extracts:
-
-Elixirs: 
+**Elixirs**: 
 
 
 
