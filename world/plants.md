@@ -131,6 +131,8 @@ Dex Potion 3 | 1 Quecksilber, 3 Blutfarn, 3 Honig, 3 Nachtschatten	| +8 Dex |
 Special Potion 1 | 1 Quecksilber, 1 Eichenblatt, 1 Mondschatten | +4 Str/Dex |
 Special Potion 2 | 1 Quecksilber, 2 Eichenblatt, 2 Mondschatten | +6 Str/Dex	|
 
+Balancing:  
+Due to the alpha attribute values, the potion values have to be modified to fit into this scheme. In general, perm plants should give a bonus of at most between 1 and 3. "Light" plant +1, "medium" plant +2, "heavy" plant +3. But since plants, for the most part, have two variants only, it would be +1 and +2. Potions then start from +3 to a maximum of +5. Light potions +3, medium potions +4 and heavy potions +5. 
 
 
 
