@@ -96,5 +96,8 @@ There are potions with temporary and potions with permanent effect. Temporary po
 | Essenz der Ausdauer	| 1 Alkohol, 1 Blutdistel, 1 Honig	|	1 Min |
 | Extrakt der Ausdauer | 1 Alkohol, 2 Blutdistel, 2 Honig	|	2 Min |
 | Elixier der Ausdauer | 1 Alkohol, 1 Blutdistel, 3 Honig |	3 Min |
+| Psi Essenz | 1 Alkohol, 1x Crawlersekret, 1x Sumpfkraut | 25 Psi |
+| Psi Extrakt | 1 Alkohol, 1x Crawlersekret, 2x Sumpfkraut | 45 Psi |
+| Psi Elixier | 1 Alkohol, 1x Crawlersekret, 3x Sumpfkraut | 65 Psi |
 
-
+ToDo: Change Effect values to fit to the Alpha attribute values. 
