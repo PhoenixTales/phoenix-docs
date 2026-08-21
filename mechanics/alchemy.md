@@ -8,7 +8,7 @@
 ## Potion Ingrediences
 
 
-### Temp Potions
+### Temp Potions G1
 
 | Potion     | Ingrediences                             | 
 |------------|------------------------------------------|
@@ -28,7 +28,7 @@
 ToDo: Change Effect values to fit to the Alpha attribute values. 
 
 
-### Perm Potions
+### Perm Potions G1
 
 | Potion         | Ingrediences                                           |
 |----------------|--------------------------------------------------------|
