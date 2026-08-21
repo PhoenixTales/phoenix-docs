@@ -54,7 +54,7 @@ ToDo: Change Effect values to fit to the Alpha attribute values.
 | Trank der Herrschaft         | ItFo_Potion_Master_02       | +6 Str & Dex	|
 
 
-### Additional Phenix Potions
+### Additional Phoenix Potions
 
 | Potion               | Internal Name | Effect    |
 |----------------------|---------------|-----------|
@@ -64,10 +64,14 @@ ToDo: Change Effect values to fit to the Alpha attribute values.
 
 
 
-## Phoenix Balancing
+## Phoenix Potions
 
+**Balancing:**  
 Due to the alpha attribute values, the potion values had to be heavily modified to fit into this scheme. 
 When there is a maximum of 15 Strength, 30 HP, 30 Psi, 30 Mana etc., perm potions cannot give boni as high as they did in the release version (e.g. +5, +10, +15) where one could acquire three or more times as much points.
 
+**Naming Convention:**  
+Potions follow a new, simpler and more descriptive naming convention:  
+`ItFo_Potion_[Name]` → `ItPo_[Name]`
 
 
