@@ -1,6 +1,7 @@
 # Potions
 
 **Author:** *flosha*, 20.08.2026
+-- WIP --
 
 Todo: 
 * Add Sequel names/values
@@ -75,10 +76,26 @@ When there is a maximum of 15 Strength, 30 HP, 30 Psi, 30 Mana etc., perm potion
 
 ### Perm Potions (Phoenix) 
 
-| Potion               | Internal Name | Effect    |
-|----------------------|---------------|-----------|
-| Psi Perm. 1          |               | +1 Psi    |
-| Psi Perm. 2	         |               | +2 Psi    |
-| Psi Perm. 3	         |               | +3 Psi    |
+| Potion                       | Internal Name       | Effect       |
+|------------------------------|---------------------|--------------|
+| Essenz des Lebens            | ItPo_Health_Perm_01 | +5 HP        |
+| Extrakt des Lebens           | ItPo_Health_Perm_02 | +10 HP       |
+| Elixier des Lebens           | ItPo_Health_Perm_03 | +15 HP       |
+| Essenz des Geistes           | ItPo_Mana_Perm_01   | +5 Mana      |
+| Extrakt des Geistes          | ItPo_Mana_Perm_02   | +10 Mana     |
+| Elixier des Geistes          | ItPo_Mana_Perm_03   | +15 Mana     |
+| Psi Perm. 1                  | ItPo_Psi_Perm_01    | +1 Psi       |
+| Psi Perm. 2	                 | ItPo_Psi_Perm_02    | +2 Psi       |
+| Psi Perm. 3	                 | ItPo_Psi_Perm_03    | +3 Psi       |
+| Essenz der Geschicklichkeit  | ItPo_Dex_01         | +3 Dex       |
+| Extrakt der Geschicklichkeit | ItPo_Dex_02         | +5 Dex       |
+| Elixier der Geschicklichkeit | ItPo_Dex_03         | +8 Dex       |
+| Essenz der Stärke            | ItPo_Strength_01    | +3 Str       |
+| Extrakt der Stärke           | ItPo_Strength_02    | +5 Str       |
+| Elixier der Stärke           | ItPo_Strength_03    | +8 Str       |
+| Trank der Macht              | ItPo_Master_01      | +4 Str & Dex |
+| Trank der Herrschaft         | ItPo_Master_02      | +6 Str & Dex	|
+
+
 
 
