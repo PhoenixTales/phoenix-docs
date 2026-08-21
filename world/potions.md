@@ -22,15 +22,6 @@ Todo:
 | Trank der Schnelligkeit   | ItFo_Potion_Haste_02  | 2 Min   |
 | Trank der Eile            | ItFo_Potion_Haste_03  | 5 Min   |
 
-
-### Additional Phoenix Potions
-
-| Potion                    | Internal Name         | Effect  |
-|---------------------------|-----------------------|---------|
-| Psi Essenz                | ItFo_Potion_Psi_01    | 25 Psi  |
-| Psi Extrakt               | ItFo_Potion_Psi_02    | 45 Psi  |
-| Psi Elixier               | ItFo_Potion_Psi_03    | 65 Psi  |
-
 ToDo: Change Effect values to fit to the Alpha attribute values. 
 
 
@@ -54,24 +45,40 @@ ToDo: Change Effect values to fit to the Alpha attribute values.
 | Trank der Herrschaft         | ItFo_Potion_Master_02       | +6 Str & Dex	|
 
 
-### Additional Phoenix Potions
+## Phoenix Potions
+
+**Balancing:** Due to the alpha attribute values, the potion values had to be heavily modified to fit into this scheme. 
+When there is a maximum of 15 Strength, 30 HP, 30 Psi, 30 Mana etc., perm potions cannot give boni as high as they did in the release version (e.g. +5, +10, +15) where one could acquire three or more times as much points.
+
+**Psi Potions:** Due to the additional Psi Attribute, associated Psi potions are added. 
+
+**Naming Convention:** Potions follow a new, simpler and more descriptive naming convention: `ItFo_Potion_[Name]` → `ItPo_[Name]`
+
+
+### Temp Potions (Phoenix)
+
+| Potion                    | Internal Name  | Effect  |
+|---------------------------|----------------|---------|
+| Essenz heilender Kraft    | ItPo_Health_01 | 10 HP   |
+| Extrakt heilender Kraft   | ItPo_Health_02 | 20 HP   |
+| Elixier heilender Kraft   | ItPo_Health_03 | 30 HP   |
+| Essenz magischer Energie  | ItPo_Mana_01   | 10 Mana |
+| Extrakt magischer Energie | ItPo_Mana_01   | 20 Mana |
+| Elixier magischer Energie | ItPo_Mana_01   | 30 Mana |
+| Psi Essenz                | ItPo_Psi_01    | 10 Psi  |
+| Psi Extrakt               | ItPo_Psi_02    | 20 Psi  |
+| Psi Elixier               | ItPo_Psi_03    | 30 Psi  |
+| Trank der Geschwindigkeit	| ItPo_Haste_01  | 1 Min   |
+| Trank der Schnelligkeit   | ItPo_Haste_02  | 2 Min   |
+| Trank der Eile            | ItPo_Haste_03  | 5 Min   |
+
+
+### Perm Potions (Phoenix) 
 
 | Potion               | Internal Name | Effect    |
 |----------------------|---------------|-----------|
 | Psi Perm. 1          |               | +1 Psi    |
 | Psi Perm. 2	         |               | +2 Psi    |
 | Psi Perm. 3	         |               | +3 Psi    |
-
-
-
-## Phoenix Potions
-
-**Balancing:**  
-Due to the alpha attribute values, the potion values had to be heavily modified to fit into this scheme. 
-When there is a maximum of 15 Strength, 30 HP, 30 Psi, 30 Mana etc., perm potions cannot give boni as high as they did in the release version (e.g. +5, +10, +15) where one could acquire three or more times as much points.
-
-**Naming Convention:**  
-Potions follow a new, simpler and more descriptive naming convention:  
-`ItFo_Potion_[Name]` → `ItPo_[Name]`
 
 
