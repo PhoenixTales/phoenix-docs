@@ -2,6 +2,11 @@
 
 **Author:** *flosha*, 20.08.2026
 
+Todo: 
+* Add Sequel names/values
+* Add Alpha potions/values
+* Add Phoenix potions/values
+
 
 ## Temp Potions (Gothic)
 
