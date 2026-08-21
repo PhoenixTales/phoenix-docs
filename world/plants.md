@@ -115,6 +115,8 @@ The team behind the Gothic Sequel, Nyul and Filler in particular, wanted to fix 
 
 > Guiding Principle: The more valuable the plant, the less of it there is and the more hidden is the plant. 
 
+Todo: Add distribution list with distribution guidelines for each camp. 
+
 
 ## Naming Convention
 
@@ -129,53 +131,11 @@ For Mushrooms we are using `ItMu_[Name]`. Since they even have an associated alp
 
 There are potions with temporary and potions with permanent effect. Temporary potions require *Alcohol* as their resolvent, permanent potions require *Quicksilver*. 
 
-
-### Temp Potions
-
-| Potion | Ingrediences | Effect |
-|--------|--------------|--------|
-| Essenz der Heilung	| 1 Alkohol, 1 Bergmoos, 1 Waldbeere | 25 HP |
-| Extrakt der Heilung | 1 Alkohol, 1 Bergmoos, 2 Waldbeere | 50 HP |
-| Elixier der Heilung | 1 Alkohol, 1 Bergmoos, 3 Waldbeere | 100 HP |
-| Mana Essenz |	1 Alkohol, 1 Steinwurzel, 1 Rabenkraut | 25 Mana |
-| Mana Extrakt | 1 Alkohol, 1 Steinwurzel, 2 Rabenkraut | 45 Mana |
-| Mana Elixier | 1 Alkohol, 1 Steinwurzel, 3 Rabenkraut | 65 Mana |
-| Essenz der Ausdauer	| 1 Alkohol, 1 Blutdistel, 1 Honig	|	1 Min |
-| Extrakt der Ausdauer | 1 Alkohol, 2 Blutdistel, 2 Honig	|	2 Min |
-| Elixier der Ausdauer | 1 Alkohol, 1 Blutdistel, 3 Honig |	3 Min |
-| Psi Essenz | 1 Alkohol, 1x Crawlersekret, 1x Sumpfkraut | 25 Psi |
-| Psi Extrakt | 1 Alkohol, 1x Crawlersekret, 2x Sumpfkraut | 45 Psi |
-| Psi Elixier | 1 Alkohol, 1x Crawlersekret, 3x Sumpfkraut | 65 Psi |
+---
 
 ToDo: Change Effect values to fit to the Alpha attribute values. 
 
-
-### Perm Potions
-
-| Potion | Ingrediences | Effect |
-|--------|--------------|--------|
-| HP Perm. 1 | 1 Quecksilber, 1 Grabmoos, 1 Velayis, 1 Nachtschatten | +1 Leben |
-| HP Perm. 2 | 1 Quecksilber, 1 Grabmoos, 2 Velayis, 2 Nachtschatten | +2 HP |
-| HP perm. 3 | 1 Quecksilber, 1 Grabmoos, 3 Velayis, 3 Nachtschatten | +3 HP |
-Mana Perm. 1 | 1 Quecksilber, 1x Erzpulver, 1 Drachenwurzel, 1 Dunkelkraut, 1 Nachts. | +1 Mana |
-Mana Perm. 2 | 1 Quecksilber, 2x Erzpulver, 2 Drachenwurzel, 2 Dunkelkraut, 2 Nachts. | +2 Mana |
-Mana Perm. 3 | 1 Quecksilber, 3x Erzpulver, 3 Drachenwurzel, 3 Dunkelkraut, 3 Nachts. | +3 Mana |
-Const. Perm 1	| 1 Quecksilber, 1 Königstrost, 1 Honigpilz, 1 Nachts. | +1 Const. |
-Const. Perm 2 |	1 Quecksilber, 2 Königstrost, 2 Honigpilz, 2 Nachts. | +2 Const. |
-Const. Perm 3 |	1 Quecksilber, 3 Königstrost, 3 Honigpilz, 3 Nachts. | +3 Const. |
-Psi Perm. 1 | 1 Quecksilber, 1x Psi-Wurzel, 5x Crawlersekret, 1 Sumpfkraut, 1 Nachts. | +1 Psi |
-Psi Perm. 2	| 1 Quecksilber, 1x Psi-Wurzel, 10x Crawlersekret, 2 Sumpfkraut, 1x 2 Nachts. | +2 Psi |
-Psi Perm. 3	| 1 Quecksilber, 1x Psi-Wurzel, 20 Crawlerzangen, 3 Sumpfkraut, 3 Nachts. | +3 Psi |
-Str perm.	1	| 1 Quecksilber, 1 Eichenblatt, 1 Sklavenbrot, 1 Nachts. | +1 Str |
-Str. perm. 2 | 1 Quecksilber, 2 Eichenblatt, 2 Sklavenbrot, 2 Nachts. | +2 Str |
-Str. perm. 3 | 1 Quecksilber, 3 Eichenblatt, 3 Sklavenbrot, 3 Nachts. | +3 Str |
-Dex Perm | 1 Quecksilber, 1 Blutfarn, 1 Honig, 1 Nachtschatten |	+1 Dex |
-Dex Potion 2 | 1 Quecksilber, 2 Blutfarn, 2 Honig, 2 Nachtschatten	| +2 Dex |
-Dex Potion 3 | 1 Quecksilber, 3 Blutfarn, 3 Honig, 3 Nachtschatten	| +3 Dex |
-<!-- 
-Special Potion 1 | 1 Quecksilber, 1 Eichenblatt, 1 Mondschatten | +4 Str/Dex |
-Special Potion 2 | 1 Quecksilber, 2 Eichenblatt, 2 Mondschatten | +6 Str/Dex	|
--->
+---
 
 Balancing:  
 Due to the alpha attribute values, the potion values had to be heavily modified to fit into this scheme. 
