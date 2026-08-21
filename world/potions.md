@@ -36,25 +36,25 @@ ToDo: Change Effect values to fit to the Alpha attribute values.
 
 ## Perm Potions (Gothic)
 
-| Potion                       | Internal Name | Effect       |
-|------------------------------|------------------------------|--------------|
+| Potion                       | Internal Name               | Effect       |
+|------------------------------|-----------------------------|--------------|
 | Essenz des Lebens            | ItFo_Potion_Health_Perma_01 | +5 HP        |
 | Extrakt des Lebens           | ItFo_Potion_Health_Perma_02 | +10 HP       |
 | Elixier des Lebens           | ItFo_Potion_Health_Perma_03 | +15 HP       |
 | Essenz des Geistes           | ItFo_Potion_Mana_Perma_01   | +5 Mana      |
-| Extrakt des Geistes          | ItFo_Potion_Mana_Perma_01   | +10 Mana     |
-| Elixier des Geistes          |               | +15 Mana     |
-| Essenz der Geschicklichkeit  | ItFo_Potion_Dex_01 | +3 Dex       |
-| Extrakt der Geschicklichkeit | ItFo_Potion_Dex_02 | +5 Dex       |
-| Elixier der Geschicklichkeit | ItFo_Potion_Dex_03 | +8 Dex       |
-| Essenz der Stärke            |               | +3 Str       |
-| Extrakt der Stärke           |               | +5 Str       |
-| Elixier der Stärke           |               | +8 Str       |
-| Trank der Macht              |               | +4 Str & Dex |
-| Trank der Herrschaft         |               | +6 Str & Dex	|
+| Extrakt des Geistes          | ItFo_Potion_Mana_Perma_02   | +10 Mana     |
+| Elixier des Geistes          | ItFo_Potion_Mana_Perma_03   | +15 Mana     |
+| Essenz der Geschicklichkeit  | ItFo_Potion_Dex_01          | +3 Dex       |
+| Extrakt der Geschicklichkeit | ItFo_Potion_Dex_02          | +5 Dex       |
+| Elixier der Geschicklichkeit | ItFo_Potion_Dex_03          | +8 Dex       |
+| Essenz der Stärke            | ItFo_Potion_Strength_01     | +3 Str       |
+| Extrakt der Stärke           | ItFo_Potion_Strength_02     | +5 Str       |
+| Elixier der Stärke           | ItFo_Potion_Strength_03     | +8 Str       |
+| Trank der Macht              | ItFo_Potion_Master_01       | +4 Str & Dex |
+| Trank der Herrschaft         | ItFo_Potion_Master_02       | +6 Str & Dex	|
 
 
-### Additional Phoenix Potions
+### Additional Phenix Potions
 
 | Potion               | Internal Name | Effect    |
 |----------------------|---------------|-----------|
