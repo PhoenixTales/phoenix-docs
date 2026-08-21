@@ -10,48 +10,48 @@ Todo:
 
 ## Temp Potions (Gothic)
 
-| Potion                    | Internal Name | Effect  |
-|---------------------------|---------------|---------|
-| Essenz heilender Kraft    |               | 25 HP   |
-| Extrakt heilender Kraft   |               | 35 HP   |
-| Elixier heilender Kraft   |               | 50 HP   |
-| Essenz magischer Energie  |               | 25 Mana |
-| Extrakt magischer Energie |               | 45 Mana |
-| Elixier magischer Energie |               | 65 Mana |
-| Trank der Geschwindigkeit	|               | 1 Min   |
-| Trank der Schnelligkeit   |               | 2 Min   |
-| Trank der Eile            |               | 5 Min   |
+| Potion                    | Internal Name         | Effect  |
+|---------------------------|-----------------------|---------|
+| Essenz heilender Kraft    | ItFo_Potion_Health_01 | 25 HP   |
+| Extrakt heilender Kraft   | ItFo_Potion_Health_02 | 35 HP   |
+| Elixier heilender Kraft   | ItFo_Potion_Health_03 | 50 HP   |
+| Essenz magischer Energie  | ItFo_Potion_Mana_01   | 25 Mana |
+| Extrakt magischer Energie | ItFo_Potion_Mana_01   | 45 Mana |
+| Elixier magischer Energie | ItFo_Potion_Mana_01   | 65 Mana |
+| Trank der Geschwindigkeit	| ItFo_Potion_Haste_01  | 1 Min   |
+| Trank der Schnelligkeit   | ItFo_Potion_Haste_02  | 2 Min   |
+| Trank der Eile            | ItFo_Potion_Haste_03  | 5 Min   |
 
 
 ### Additional Phoenix Potions
 
-| Potion               | Internal Name | Effect  |
-|----------------------|---------------|---------|
-| Psi Essenz           |               | 25 Psi  |
-| Psi Extrakt          |               | 45 Psi  |
-| Psi Elixier          |               | 65 Psi  |
+| Potion                    | Internal Name         | Effect  |
+|---------------------------|-----------------------|---------|
+| Psi Essenz                | ItFo_Potion_Psi_01    | 25 Psi  |
+| Psi Extrakt               | ItFo_Potion_Psi_02    | 45 Psi  |
+| Psi Elixier               | ItFo_Potion_Psi_03    | 65 Psi  |
 
 ToDo: Change Effect values to fit to the Alpha attribute values. 
 
 
 ## Perm Potions (Gothic)
 
-| Potion               | Internal Name | Effect       |
-|----------------------|---------------|--------------|
-| Essenz des Lebens    |               | +5 HP        |
-| Extrakt des Lebens   |               | +10 HP       |
-| Elixier des Lebens   |               | +15 HP       |
-| Essenz des Geistes   |               | +5 Mana      |
-| Extrakt des Geistes  |               | +10 Mana     |
-| Elixier des Geistes  |               | +15 Mana     |
-| Essenz der Geschicklichkeit  |       | +3 Dex       |
-| Extrakt der Geschicklichkeit |	     | +5 Dex       |
-| Elixier der Geschicklichkeit |       | +8 Dex       |
-| Essenz der Stärke    |               | +3 Str       |
-| Extrakt der Stärke   |               | +5 Str       |
-| Elixier der Stärke   |               | +8 Str       |
-| Trank der Macht      |               | +4 Str & Dex |
-| Trank der Herrschaft |               | +6 Str & Dex	|
+| Potion                       | Internal Name | Effect       |
+|------------------------------|------------------------------|--------------|
+| Essenz des Lebens            | ItFo_Potion_Health_Perma_01 | +5 HP        |
+| Extrakt des Lebens           | ItFo_Potion_Health_Perma_02 | +10 HP       |
+| Elixier des Lebens           | ItFo_Potion_Health_Perma_03 | +15 HP       |
+| Essenz des Geistes           | ItFo_Potion_Mana_Perma_01   | +5 Mana      |
+| Extrakt des Geistes          | ItFo_Potion_Mana_Perma_01   | +10 Mana     |
+| Elixier des Geistes          |               | +15 Mana     |
+| Essenz der Geschicklichkeit  | ItFo_Potion_Dex_01 | +3 Dex       |
+| Extrakt der Geschicklichkeit | ItFo_Potion_Dex_02 | +5 Dex       |
+| Elixier der Geschicklichkeit | ItFo_Potion_Dex_03 | +8 Dex       |
+| Essenz der Stärke            |               | +3 Str       |
+| Extrakt der Stärke           |               | +5 Str       |
+| Elixier der Stärke           |               | +8 Str       |
+| Trank der Macht              |               | +4 Str & Dex |
+| Trank der Herrschaft         |               | +6 Str & Dex	|
 
 
 ### Additional Phoenix Potions
