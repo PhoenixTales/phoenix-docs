@@ -5,17 +5,17 @@
 
 ## Temp Potions (Gothic)
 
-| Potion               | Internal Name | Effect  |
-|----------------------|---------------|---------|
-| Essenz der Heilung   |               | 25 HP   |
-| Extrakt der Heilung  |               | 50 HP   |
-| Elixier der Heilung  |               | 100 HP  |
-| Mana Essenz          |               | 25 Mana |
-| Mana Extrakt         |               | 45 Mana |
-| Mana Elixier         |               | 65 Mana |
-| Essenz der Ausdauer	 |               | 1 Min   |
-| Extrakt der Ausdauer |               | 2 Min   |
-| Elixier der Ausdauer |               | 3 Min   |
+| Potion                    | Internal Name | Effect  |
+|---------------------------|---------------|---------|
+| Essenz heilender Kraft    |               | 25 HP   |
+| Extrakt heilender Kraft   |               | 35 HP   |
+| Elixier heilender Kraft   |               | 50 HP   |
+| Essenz magischer Energie  |               | 25 Mana |
+| Extrakt magischer Energie |               | 45 Mana |
+| Elixier magischer Energie |               | 65 Mana |
+| Trank der Geschwindigkeit	|               | 1 Min   |
+| Trank der Schnelligkeit   |               | 2 Min   |
+| Trank der Eile            |               | 5 Min   |
 
 
 ### Additional Phoenix Potions
@@ -29,27 +29,24 @@
 ToDo: Change Effect values to fit to the Alpha attribute values. 
 
 
-## Perm Potions
+## Perm Potions (Gothic)
 
-| Potion               | Internal Name | Effect    |
-|----------------------|---------------|-----------|
-| HP Perm. 1           |               | +1 HP     |
-| HP Perm. 2           |               | +2 HP     |
-| HP perm. 3           |               | +3 HP     |
-| Mana Perm. 1         |               | +1 Mana   |
-| Mana Perm. 2         |               | +2 Mana   |
-| Mana Perm. 3         |               | +3 Mana   |
-| Const. Perm 1	       |               | +1 Const. |
-| Const. Perm 2        |	             | +2 Const. |
-| Const. Perm 3        |               | +3 Const. |
-| Str perm.	1          |               | +1 Str    |
-| Str. perm. 2         |               | +2 Str    |
-| Str. perm. 3         |               | +3 Str    |
-| Dex Perm             |               | +1 Dex    |
-| Dex Potion 2         |               | +2 Dex    |
-| Dex Potion 3         |               | +3 Dex    |
-| Special Potion 1     |               | +4 Str/Dex |
-| Special Potion 2     |               | +6 Str/Dex	|
+| Potion               | Internal Name | Effect       |
+|----------------------|---------------|--------------|
+| Essenz des Lebens    |               | +5 HP        |
+| Extrakt des Lebens   |               | +10 HP       |
+| Elixier des Lebens   |               | +15 HP       |
+| Essenz des Geistes   |               | +5 Mana      |
+| Extrakt des Geistes  |               | +10 Mana     |
+| Elixier des Geistes  |               | +15 Mana     |
+| Essenz der Geschicklichkeit  |       | +3 Dex       |
+| Extrakt der Geschicklichkeit |	     | +5 Dex       |
+| Elixier der Geschicklichkeit |       | +8 Dex       |
+| Essenz der Stärke    |               | +3 Str       |
+| Extrakt der Stärke   |               | +5 Str       |
+| Elixier der Stärke   |               | +8 Str       |
+| Trank der Macht      |               | +4 Str & Dex |
+| Trank der Herrschaft |               | +6 Str & Dex	|
 
 
 ### Additional Phoenix Potions
