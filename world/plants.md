@@ -60,8 +60,8 @@ The same principle as above, but only 6 instead of 15 plants and 3 instead of 6 
 
 ### Mushrooms
 
-| DE | Internal | Effect | Note |
-|----|----------|--------|------|
+| DE       | Internal | Effect | Note |
+|----------|----------|--------|------|
 | Waldpilz | ItMu_WoodMushroom | ? | Phoenix addition, based on the Comic |
 | Waldpilz 2 | ItMu_WoodMushroom_02 | ? | 
 | Honigpilz | ItMu_HoneyMushroom | ? | Alpha, especially rare wood mushroom |
@@ -69,6 +69,9 @@ The same principle as above, but only 6 instead of 15 plants and 3 instead of 6 
 | Sklavenbrot | ItMu_CaveMushroom_02 | ? | | 
 | Erzpilz | ItMu_OreMushroom | ? | Poisonous Cave mushroom, Phoenix addition, based on the Comic |
 | Teufelspilz | ItMu_DevilsMushroom | ? | very rare mushroom, poisonous by touch |
+
+mushroom_01
+mushroom_02
 
 
 ## Sequel Plants
@@ -127,11 +130,26 @@ Todo: Add distribution list with distribution guidelines for each camp.
 
 ## Naming Convention
 
-In the item scripts of Gothic there is an extra file (plants.d) reserved for plants, but it was left empty. Instead all plant IDs were written into the food file and named `ItFo_Plant_[Name]`. It makes sense insofar as that the plants have been an afterthought and couldn't be properly implemented into an alchemy crafting mechanic as they planned; they therefore served no other purpose anymore but as food. The Sequel wanted to correct this shortcoming. Consequentally the plants scripts were moved and a new naming convention was introduced, which we'll follow: `ItPl_[Name]`.  
-For Mushrooms we are using `ItMu_[Name]`. Since they even have an associated alpha talent (`Identify_Mushrooms`) and as there will be much more mushrooms than the two remaining in the release version, they are in a script file on their own (mushrooms.d).  
+In the item scripts of Gothic there is an extra file (plants.d) reserved for plants, but it was left empty. Instead all plant IDs were written into the food file and named `ItFo_Plant_[ID]`. It makes sense insofar as that the plants have been an afterthought and couldn't be properly implemented into an alchemy crafting mechanic as they planned; they therefore served no other purpose anymore but as food. The Sequel wanted to correct this shortcoming. Consequentally the plants scripts were moved and a new naming convention was introduced, which we'll follow: `ItPl_[ID]`.  
+For Mushrooms we are using `ItMu_[ID]`. Since they even have an associated alpha talent (`Identify_Mushrooms`) and as there will be much more mushrooms than the two remaining in the release version, they are in a script file on their own (mushrooms.d).  
 
 
 ---
+
+
+## Phoenix Plants & Mushrooms
+
+| DE          | Internal             | Effect | Note         |
+|-------------|----------------------|--------|--------------|
+| Waldpilz    | ItMu_WoodMushroom    | ?      | Comic        |
+| Waldpilz 2  | ItMu_WoodMushroom_02 | ?      |              |
+| Honigpilz   | ItMu_HoneyMushroom   | ?      | Alpha        |
+| Höhlenpilz  | ItMu_CaveMushroom    | ?      | Alpha/Sequel |
+| Sklavenbrot | ItMu_CaveMushroom_02 | ?      |              | 
+| Erzpilz     | ItMu_OreMushroom     | ?      | Comic        | Poisonous Cave mushroom, Phoenix addition, based on the Comic |
+| Teufelspilz | ItMu_DevilsMushroom  | ?      | Alpha        | very rare mushroom, poisonous by touch |
+
+
 
 
 ## Plants as alchemical ingrediences
