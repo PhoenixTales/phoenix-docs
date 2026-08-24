@@ -53,7 +53,7 @@ When there is a maximum of 15 Strength, 30 HP, 30 Psi, 30 Mana etc., perm potion
 
 **Psi Potions:** Due to the additional Psi Attribute, associated Psi potions are added. 
 
-**Naming Convention:** Potions follow a new, simpler and more descriptive naming convention: `ItFo_Potion_[ID]` → `ItPo_[ID]`
+**Naming Convention:** Potions follow a new, simpler and more descriptive naming convention: Formerly `ItFo_Potion_[ID]` → now `ItPo_[ID]`. 
 
 
 ### Temp Potions (Phoenix)
