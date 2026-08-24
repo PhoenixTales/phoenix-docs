@@ -42,7 +42,7 @@ All of these plants only impacted HP and had no other effects. From the woodberr
 | Rabenkraut      | ItFo_Plants_RavenHerb_01 | +15 HP   |
 | Dunkelkraut     | ItFo_Plants_RavenHerb_02 | +20 Mana |
 | Steinwurzel     | ItFo_Plants_Stoneroot_01 | +25 Nana |
-| Drachenwurzel   | ItFo_Plants_Stoneroot_01 | +30 Mana |
+| Drachenwurzel   | ItFo_Plants_Stoneroot_02 | +30 Mana |
 
 The same principle as above, but only 6 instead of 13 plants and 3 instead of 6 categories:
 1. (Mana) Seeds
