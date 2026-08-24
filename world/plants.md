@@ -144,6 +144,32 @@ For Mushrooms we are using `ItMu_[ID]`. Since they even have an associated alpha
 
 ## Phoenix 
 
+### Plants
+
+| DE              | Internal             | Effect   | Note   |
+|-----------------|----------------------|----------|--------|
+| Waldbeere       | ItPl_WoodBerry_01    | +10 HP   |        |
+| Flammendorn     | ItPl_FlameBerry_01   | +12 HP   |        |
+| Trollkirsche    | ItPl_TrollBerry_01   | -20 HP   | unused |
+| Seraphis        | ItPl_Seraphis_01     | +14 HP   |        |
+| Velayis         | ItPl_Velayis_01      | +16 HP   | unused |
+| Bergmoos        | ItPl_MountainMoss_01 | +18 HP   |        |
+| Grabmoos        | ItPl_MountainMoss_02 | +20 HP   |        |
+| Nachtschatten   | ItPl_NightShade_01   | +22 HP   |        |
+| Mondschatten    | ItPl_NightShade_02   | +24 HP   |        |
+| Orkblatt        | ItPl_OrcLeaf_01      | +26 HP   |        |
+| Eichenblatt     | ItPl_OrcLeaf_02      | +28 HP   |        |
+| Heilkräuter 1   | ItPl_Herb_01         | +30 HP   |        |
+| Heilkräuter 2   | ItPl_Herb_02         | +39 HP   |        |
+| Heilkräuter 3   | ItPl_Herb_03         | +49 HP   |        |
+| Sumpfkraut      | ItPl_SwampHerb_01    |          |        |
+| Blutbuchensamen | ItPl_BloodWood_01    |  +5 Mana |        |
+| Turmeichensamen | ItPl_Towerwood_01    | +10 Mana | unused |
+| Rabenkraut      | ItPl_RavenHerb_01    | +15 HP   |        |
+| Dunkelkraut     | ItPl_RavenHerb_02    | +20 Mana |        |
+| Steinwurzel     | ItPl_Stoneroot_01    | +25 Nana |        |
+| Drachenwurzel   | ItPl_Stoneroot_02    | +30 Mana |        |
+
 
 ### Mushrooms
 
