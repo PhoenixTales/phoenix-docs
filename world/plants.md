@@ -11,7 +11,7 @@ In Gothic, plants were, for the most part, divided into those regenerating healt
 | DE | Internal | Effect | Note |
 |----|----------|--------|------|
 | Waldbeere | woodberry | +10 HP |   |
-| Flammendorn | flameberry | +12 HP |
+| Flammendorn | flameberry | +12 HP | 
 | Seraphis | seraphis | +14 HP | |
 | Velayis | velayis | +16 HP | unused |
 | Bergmoos | mountain moss | +18 HP | |
@@ -24,9 +24,16 @@ In Gothic, plants were, for the most part, divided into those regenerating healt
 | Heilkräuter 2 | | +39 HP | |
 | Heilkräuter 3 | | +49 HP | |
 
-All of these plants only impacted HP and had no other effects. From the woodberry to the healing herb they all gave progressively more HP bonus in steps of +2, until bigger jumps in case of the last two healing herbs. These 13 plants can be divided into 6 categories: 
-1. Berries (to which also a third berry counts, the Trollkirsche (Troll Cherry), which is poisonous and gives -20 HP, unused like Velayis)
-2. Velayis + Seraphis (perhaps "flowers" or "thistles")
+
+### Poisonous Plants
+
+| DE           | Internal       | Effect |
+|--------------|----------------|--------|
+| Trollkirsche | Trollberrys_01 | -20 HP |
+
+All of these plants only impacted HP and had no other effects. From the woodberry to the healing herb they all gave progressively more HP bonus in steps of +2, until bigger jumps in case of the last two healing herbs. These 14 plants can be divided into 6 categories: 
+1. Berries
+2. "Flowers" or "Thistles" (Seraphis/Velayis)
 3. Moss
 4. Nightshade Plants
 5. "Leaves"
