@@ -4,25 +4,26 @@ Author: *flosha*, add date from old docs
 Last update: 20.08.2026
 
 
-In Gothic, plants were, for the most part, divided into those regenerating health (short "hp reg") and those regenerating mana (short "mana reg"). Following this categorization we can list them as follows:
+In Gothic, plants were, for the most part, divided into those regenerating health (short "hp reg") and those regenerating mana (short "mana reg"). Following this categorization we can list them as follows (internally, they followed the scheme `ItFo_Plants_[ID]`; for simplcities sake we ommit the prefixes and only list the IDs below): 
 
 ## HP Reg Plants
 
-| DE | Internal | Effect | Note |
-|----|----------|--------|------|
-| Waldbeere | woodberry | +10 HP |   |
-| Flammendorn | flameberry | +12 HP | 
-| Seraphis | seraphis | +14 HP | |
-| Velayis | velayis | +16 HP | unused |
-| Bergmoos | mountain moss | +18 HP | |
-| Grabmoos | gravemoss | +20 HP | |
-| Nachtschatten | nightshadow | +22 HP | |
-| Mondschatten | nightshadow_02 | +24 HP | |
-| Orkblatt | orcherb_01 | +26 HP | |
-| Eichenblatt | orcherb_02 | +28 HP | |
+| DE            | Internal        | Effect | Note   |
+|---------------|-----------------|--------|--------|
+| Waldbeere     | berries_01      | +10 HP |        |
+| Flammendorn   | flameberry_01   | +12 HP |        |
+| Seraphis      | seraphis_01     | +14 HP |        |
+| Velayis       | velayis_01      | +16 HP | unused |
+| Bergmoos      | mountainmoos_01 | +18 HP | |
+| Grabmoos      | mountainmoos_02 | +20 HP | |
+| Nachtschatten | nightshadow_01  | +22 HP | |
+| Mondschatten  | nightshadow_02 | +24 HP | |
+| Orkblatt      | orcherb_01 | +26 HP | |
+| Eichenblatt   | orcherb_02 | +28 HP | |
 | Heilkräuter 1 | | +30 HP | |
 | Heilkräuter 2 | | +39 HP | |
 | Heilkräuter 3 | | +49 HP | |
+| Sumpfkraut    | Swampherb_01 |  |  |
 
 
 ### Poisonous Plants
@@ -37,7 +38,7 @@ All of these plants only impacted HP and had no other effects. From the woodberr
 3. Moss
 4. Nightshade Plants
 5. "Leaves"
-6. Healing Herbs
+6. Herbs
 
 
 ## Mana Reg Plants
