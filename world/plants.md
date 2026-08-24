@@ -14,45 +14,45 @@ In Gothic, plants were, for the most part, divided into those regenerating healt
 | Flammendorn   | flameberry_01   | +12 HP |        |
 | Seraphis      | seraphis_01     | +14 HP |        |
 | Velayis       | velayis_01      | +16 HP | unused |
-| Bergmoos      | mountainmoos_01 | +18 HP | |
-| Grabmoos      | mountainmoos_02 | +20 HP | |
-| Nachtschatten | nightshadow_01  | +22 HP | |
-| Mondschatten  | nightshadow_02 | +24 HP | |
-| Orkblatt      | orcherb_01 | +26 HP | |
-| Eichenblatt   | orcherb_02 | +28 HP | |
-| Heilkräuter 1 | | +30 HP | |
-| Heilkräuter 2 | | +39 HP | |
-| Heilkräuter 3 | | +49 HP | |
-| Sumpfkraut    | Swampherb_01 |  |  |
+| Bergmoos      | mountainmoos_01 | +18 HP |        |
+| Grabmoos      | mountainmoos_02 | +20 HP |        |
+| Nachtschatten | nightshadow_01  | +22 HP |        |
+| Mondschatten  | nightshadow_02  | +24 HP |        |
+| Orkblatt      | orcherb_01      | +26 HP |        |
+| Eichenblatt   | orcherb_02      | +28 HP |        |
+| Heilkräuter 1 | herb_01         | +30 HP |        |
+| Heilkräuter 2 | herb_02         | +39 HP |        |
+| Heilkräuter 3 | herb_03         | +49 HP |        |
+| Sumpfkraut    | swampherb_01    |        |        |
 
 
 ### Poisonous Plants
 
-| DE           | Internal       | Effect |
-|--------------|----------------|--------|
-| Trollkirsche | Trollberrys_01 | -20 HP |
+| DE            | Internal        | Effect | Note   |
+|---------------|-----------------|--------|--------|
+| Trollkirsche  | Trollberrys_01  | -20 HP | unused |
 
-All of these plants only impacted HP and had no other effects. From the woodberry to the healing herb they all gave progressively more HP bonus in steps of +2, until bigger jumps in case of the last two healing herbs. These 14 plants can be divided into 6 categories: 
+All of these plants only impacted HP and had no other effects. From the woodberry to the swanp/healing herbs they all gave progressively more HP bonus in steps of +2, until bigger jumps in case of the last two healing herbs. These 15 plants can be divided into 6 categories: 
 1. Berries
 2. "Flowers" or "Thistles" (Seraphis/Velayis)
 3. Moss
 4. Nightshade Plants
 5. "Leaves"
-6. Herbs
+6. (Swamp) Herbs
 
 
 ## Mana Reg Plants
 
-| DE              | Internal                 | Effect   |
-|-----------------|--------------------------|----------|
-| Blutbuchensamen | ItFo_Plants_Bloodwood_01 | +5 Mana  |
-| Turmeichensamen | ItFo_Plants_Towerwood_01 | +10 Mana |
-| Rabenkraut      | ItFo_Plants_RavenHerb_01 | +15 HP   |
-| Dunkelkraut     | ItFo_Plants_RavenHerb_02 | +20 Mana |
-| Steinwurzel     | ItFo_Plants_Stoneroot_01 | +25 Nana |
-| Drachenwurzel   | ItFo_Plants_Stoneroot_02 | +30 Mana |
+| DE              | Internal     | Effect   | Note   |
+|-----------------|--------------|----------|--------|
+| Blutbuchensamen | bloodwood_01 |  +5 Mana |        |
+| Turmeichensamen | towerwood_01 | +10 Mana | unused |
+| Rabenkraut      | RavenHerb_01 | +15 HP   |        |
+| Dunkelkraut     | RavenHerb_02 | +20 Mana |        |
+| Steinwurzel     | Stoneroot_01 | +25 Nana |        |
+| Drachenwurzel   | Stoneroot_02 | +30 Mana |        |
 
-The same principle as above, but only 6 instead of 13 plants and 3 instead of 6 categories:
+The same principle as above, but only 6 instead of 15 plants and 3 instead of 6 categories:
 1. (Mana) Seeds
 2. (Mana) Herbs
 3. (Mana) Roots
