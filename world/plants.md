@@ -4,7 +4,7 @@ Author: *flosha*, add date from old docs
 Last update: 20.08.2026
 
 
-## Gothic Plants & Mushrooms
+## Gothic (Release)
 
 In Gothic, plants were, for the most part, divided into those regenerating health (short "hp reg") and those regenerating mana (short "mana reg"). Following this categorization we can list them as follows (internally, they followed the scheme `ItFo_Plants_[ID]`; for simplcities sake we ommit the prefixes and only list the IDs below): 
 
@@ -76,7 +76,7 @@ The same principle as above, but only 6 instead of 15 plants and 3 instead of 6 
 | Teufelspilz | ToDo        | ToDo   |      |
 
 
-## Sequel Plants & Mushrooms
+## Gothic Sequel
 
 In the Sequel documentation on plants and alchemy by Nyul and Filler, a few of those plants were not mentioned, while apparently three additional ones were added. 
 
@@ -139,7 +139,7 @@ For Mushrooms we are using `ItMu_[ID]`. Since they even have an associated alpha
 ---
 
 
-## Phoenix Plants & Mushrooms
+## Phoenix 
 
 | DE          | Internal             | Effect | Note         |
 |-------------|----------------------|--------|--------------|
