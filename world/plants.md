@@ -177,11 +177,11 @@ For Mushrooms we are using `ItMu_[ID]`. Since they even have an associated alpha
 |-------------|----------------------|--------|--------------|
 | Waldpilz    | ItMu_WoodMushroom    | ?      | Comic        |
 | Waldpilz 2  | ItMu_WoodMushroom_02 | ?      |              |
-| Honigpilz   | ItMu_HoneyMushroom   | ?      | Alpha        |
+| Honigpilz   | ItMu_HoneyMushroom   | ?      | Alpha v0.56c       |
 | Höhlenpilz  | ItMu_CaveMushroom    | ?      | Alpha/Sequel |
 | Sklavenbrot | ItMu_CaveMushroom_02 | ?      |              | 
 | Erzpilz     | ItMu_OreMushroom     | ?      | Comic        |  
-| Teufelspilz | ItMu_DevilsMushroom  | ?      | Alpha        | 
+| Teufelspilz | ItMu_DevilsMushroom  | ?      | Alpha v0.56c        | 
 
 
 ### Description & Distribution
@@ -231,9 +231,9 @@ Wurzeln:
 * Königstrost?
 
 Waldpilze:  
-* Waldpilz: ...
-* Honigpilz: A rare wood mushroom (there is about 1 Honey Mushroom on 20 wood mushrooms), that only grows near bee hives; if a bee hive is spotted, the player can assume honey mushrooms to be near and when he spots a honey mushroom, he can assume to have a bee hive nearby.  
-* Teufelspilz: Very rare mushroom, poisonous on touch. About ~3 at most on the Surface and ~5-10 underground.
+* Waldpilz: Very common mushroom inside and nearby the forests of the colony, of red-brown colour, inspired by the Comic.  
+* Honigpilz: A rare wood mushroom (there is about 1 Honey Mushroom on 20 wood mushrooms), that only grows near bee hives; if a bee hive is spotted, the player can assume honey mushrooms to be near and when he spots a honey mushroom, he can assume to have a bee hive nearby. Based on the mushroom of the same name from v0.56c. 
+* Teufelspilz: Very rare mushroom, poisonous on touch. About ~3 at most on the Colony Surface and ~3 underground. Based on the mushroom of the same name from v0.56c. 
 
 Dunkelpilze:  
 * Höhlenpilz: ...
