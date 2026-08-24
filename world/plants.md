@@ -113,33 +113,39 @@ The team behind the Gothic Sequel, Nyul and Filler in particular, wanted to fix 
 
 > Die Pflanzen sollen nicht "wie in Gothic" mal hier und dort mitten auf dem Weg kreuz und quer durcheinander verteilt werden, sondern aufgrund dieser Verteilungsliste in bestimmten Gebieten in kleinen Gruppen verteilt werden.
 
-> EN: Plants shouldn't "like in Gothic" be distributed messily here and there in the middle of the road, but they should be distributed based on this distribution list in particular small groups. 
-  
 > Locations nutzen die neben den Wegen liegen! Es gibt unglaublich viele Locations die der Spieler durch herumlaufen/klettern erreichen kann, die in GOTHIC leer waren. Der Spieler soll durch das Erreichen/entdecken  dieser Locations mit ein paar Pflanzen belohnt werden.		
-
-> Use locations that are on the side of the road! There are unbelievably many locations that the player can reach by running around or climbing, which were empty in GOTHIC. The player should be rewarded by reaching/discovering these locations. 
 
 > Das bedeutet allerdings nicht, das der Spieler "on_the_fly" nicht ein paar Pflanzen einsacken kann, weil er nur auf dem Weg läuft. Auch hier wird er fündig, aber das Gro der Pflanzen will gefunden werden! Pflanzen wachsen in Gruppen :) zu (mind)zwei - X(max) zusammen. (Inflation bedenken! Findet der Spieler 20 wertvolle Pflanzen an einer Location ist er reich!	
 
-> This does not mean though, that the player cannot loot some plants "on_the_fly", as he only walks on the road. Here too he will find something, but the majority of plants wants to be found! Plants grow in groups :) at a minimum of two to X (max) together. (Consider inflation! If the player finds 20 valuable plants at one location he is rich!)
-
 > Verteilungsrichtlinie: Je wertvoller die Pflanze desto weniger gibt es davon und desto versteckter ist die Pflanze.		
 
-> Guiding Principle: The more valuable the plant, the less of it there is and the more hidden is the plant. 
+English Translation: 
+
+> EN: Plants shouldn't "like in Gothic" be distributed messily here and there in the middle of the road, but they should be distributed based on this distribution list in particular small groups.
+
+> Use locations that are on the side of the road! There are unbelievably many locations that the player can reach by running around or climbing, which were empty in GOTHIC. The player should be rewarded by reaching/discovering these locations. 
+
+> This does not mean though, that the player cannot loot some plants "on_the_fly", as he only walks on the road. Here too he will find something, but the majority of plants wants to be found! Plants grow in groups :) at a minimum of two to X (max) together. (Consider inflation! If the player finds 20 valuable plants at one location he is rich!)
+
+> Guiding Principle: The more valuable the plant, the less of it there is and the more hidden is the plant.
+
+---
 
 Todo: Add distribution list with distribution guidelines for each camp. 
 
+---
 
 ## Naming Convention
 
 In the item scripts of Gothic there is an extra file (plants.d) reserved for plants, but it was left empty. Instead all plant IDs were written into the food file and named `ItFo_Plant_[ID]`. It makes sense insofar as that the plants have been an afterthought and couldn't be properly implemented into an alchemy crafting mechanic as they planned; they therefore served no other purpose anymore but as food. The Sequel wanted to correct this shortcoming. Consequentally the plants scripts were moved and a new naming convention was introduced, which we'll follow: `ItPl_[ID]`.  
 For Mushrooms we are using `ItMu_[ID]`. Since they even have an associated alpha talent (`Identify_Mushrooms`) and as there will be much more mushrooms than the two remaining in the release version, they are in a script file on their own (mushrooms.d).  
 
-
 ---
 
-
 ## Phoenix 
+
+
+### Mushrooms
 
 | DE          | Internal             | Effect | Note         |
 |-------------|----------------------|--------|--------------|
