@@ -79,6 +79,7 @@ The same principle as above, but only 6 instead of 15 plants and 3 instead of 6 
 |-------------|-------------|--------|------|
 | Honigpilz   | ToDo        | ToDo   |      |
 | Teufelspilz | ToDo        | ToDo   |      |
+| Psi Wurzel  | -           | -      |      |
 
 
 ## Gothic Sequel
