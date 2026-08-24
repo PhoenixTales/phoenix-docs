@@ -31,7 +31,6 @@ In Gothic, plants were, for the most part, divided into those regenerating healt
 #### Names and Meanings
 
 Interestingly, the Nightshadow plant V1 (in the Sequel the internal name has been corrected to "Nightshade"), in the English version, is called *Solanaceae* ingame, and the Moonshadow (or "Moonshade" = Nightshade V2), in the English version, is called *Lunanaceae* ingame.  
-While Lunanaceae makes sense as a technical term for a plant named "Moonshadow" or "Moonshade", Solanaceae for "Nightshade" seems very counter-intuitive. 
 
 
 ### Poisonous Plants
@@ -210,7 +209,7 @@ Moose:
 * Grabmoos: ...
 
 Nachtschattengewächse:  
-* Nachtschatten: ...
+* Nachtschatten: "Er wächst in der Sonne, doch nur im Schatten der Nacht entfalten er seine magische Wirkung."  
 * Mondschatten: ...
 
 Blätter:  
