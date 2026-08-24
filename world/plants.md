@@ -4,9 +4,11 @@ Author: *flosha*, add date from old docs
 Last update: 20.08.2026
 
 
+## Gothic Plants & Mushrooms
+
 In Gothic, plants were, for the most part, divided into those regenerating health (short "hp reg") and those regenerating mana (short "mana reg"). Following this categorization we can list them as follows (internally, they followed the scheme `ItFo_Plants_[ID]`; for simplcities sake we ommit the prefixes and only list the IDs below): 
 
-## HP Reg Plants
+### HP Reg Plants
 
 | DE            | Internal        | Effect | Note   |
 |---------------|-----------------|--------|--------|
@@ -41,7 +43,7 @@ All of these plants only impacted HP and had no other effects. From the woodberr
 6. (Swamp) Herbs
 
 
-## Mana Reg Plants
+### Mana Reg Plants
 
 | DE              | Internal     | Effect   | Note   |
 |-----------------|--------------|----------|--------|
@@ -60,21 +62,21 @@ The same principle as above, but only 6 instead of 15 plants and 3 instead of 6 
 
 ### Mushrooms
 
-| DE       | Internal | Effect | Note |
-|----------|----------|--------|------|
-| Waldpilz | ItMu_WoodMushroom | ? | Phoenix addition, based on the Comic |
-| Waldpilz 2 | ItMu_WoodMushroom_02 | ? | 
-| Honigpilz | ItMu_HoneyMushroom | ? | Alpha, especially rare wood mushroom |
-| Höhlenpilz | ItMu_CaveMushroom | ? | Alpha/Sequel, more common cave mushroom |
-| Sklavenbrot | ItMu_CaveMushroom_02 | ? | | 
-| Erzpilz | ItMu_OreMushroom | ? | Poisonous Cave mushroom, Phoenix addition, based on the Comic |
-| Teufelspilz | ItMu_DevilsMushroom | ? | very rare mushroom, poisonous by touch |
-
-mushroom_01
-mushroom_02
+| DE          | Internal    | Effect | Note |
+|-------------|-------------|--------|------|
+| Höllenpilz  | mushroom_01 |        |      |
+| Sklavenbrot | mushroom_02 |        |      |
 
 
-## Sequel Plants
+## Alpha Plants & Mushrooms
+
+| DE          | Internal    | Effect | Note |
+|-------------|-------------|--------|------|
+| Honigpilz   | ToDo        | ToDo   |      |
+| Teufelspilz | ToDo        | ToDo   |      |
+
+
+## Sequel Plants & Mushrooms
 
 In the Sequel documentation on plants and alchemy by Nyul and Filler, a few of those plants were not mentioned, while apparently three additional ones were added. 
 
@@ -91,14 +93,14 @@ And these have been added:
 * Blutdistel (Blood Thistle)
 * Silberfarn (Silver Fern)
 * Königstrost (-)
-* Blutfarn (also mentioned somewhere in the scripts?)
+* Blutfarn (Todo: Also mentioned somewhere in the scripts?)
 
 While Seraphis as a name did no longer appear, the Blood Thistle used Seraphis' and Velayis' old model and texture. It could well be that some plants weren't removed or replaced, but rather renamed. If so, Seraphis or Velayis could be the scientific term (as used by Alchemists), while blood thistle would be the more common name. The visuals should not be considered to be final either. 
 
 While there does not seem to be a real blood thistle - regular thistles very much have the color Seraphis comes with; we would only have to regard the purple berry texture that the middle part uses as a placeholder for a thistle blossom. If we would follow the example of Silverfern and Bloodfern, there could as well be a silver thistle (which actually exists) and a blood thistle, which would be the more rare variant.  
 
 Some plants were meant to have a different effect in the Sequel: 
-* ...
+* ToDo
 
 
 ## Plant Distribution
