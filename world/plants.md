@@ -195,6 +195,11 @@ For Mushrooms we are using `ItMu_[ID]`. Since they even have an associated alpha
 
 ### Description & Distribution
 
+Bäume:
+* Blutbuche (deduced from the Blutbuchensamen): The trees with copper-colored leaves. They are not related to the leaves changing color in the fall, as within the barriere there are no seasons; the leaves have this colour all year.
+* Turmeiche (deduced from the Turmeichensamen): The biggest trees in the game with a much rougher and slightly brighter bark.
+* ...
+
 Beeren:  
 * Waldbeere: ...
 * Flammendorn: ...
@@ -214,12 +219,12 @@ Moose:
 * Grabmoos: ...
 
 Nachtschattengewächse:  
-* Nachtschatten: "Er wächst in der Sonne, doch nur im Schatten der Nacht entfalten er seine magische Wirkung."  
+* Nachtschatten: "Er wächst in der Sonne, doch nur im Schatten der Nacht entfaltet er seine magische Wirkung; dann muss er geerntet werden."  
 * Mondschatten: ...
 
 Blätter:  
-* Orkblatt
-* Eichenblatt
+* Orkblatt: 
+* Eichenblatt: Only grows near the "Turmeiche", the biggest of the trees in the game.  
 
 Sumpfkräuter / Heilkräuter:  
 * Heilkraut 1: ...
