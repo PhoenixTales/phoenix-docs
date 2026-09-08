@@ -73,17 +73,15 @@ The same principle as above, but only 6 instead of 15 plants and 3 instead of 6 
 | Sklavenbrot | mushroom_02 |        |      |
 
 
-## Gothic (Alpha)
+## Gothic (Alpha/Concepts/Mentioned)
 
 | DE          | Internal    | Effect | Note |
 |-------------|-------------|--------|------|
-| Höhlenpilz  | mushroom_01 | ToDo   |      |
+| Höhlenpilz  | mushroom_01 | ToDo   | later "Höllenpilz" |
+| Syoskraut   | -           | -      | mentioned in ingame book "Recipes" |
 | Honigpilz   | ToDo        | ToDo   |      |
 | Teufelspilz | ToDo        | ToDo   |      |
 | Psi Wurzel  | -           | -      |      |
-
-Only mentioned ingame in the book *Recipes*, but not appearing as an item, is the "Syos Kraut" (Syos Herb). It is mixed with grapes for the "wine of oblivion" and described as the "common" (gemeines) Syos herb, suggestimg that it may likely appear everywhere in the kingdom.  
-I regard it comparable to the *Ysop*, which is also commonly called "Weinespenkraut".
 
 
 ## Gothic Sequel
@@ -251,5 +249,9 @@ Dunkelpilze:
 * Sklavenbrot: ...
 * Erzpilz: Poisonous cave mushroom, a Phoenix addition, based on the Comic.
 
-
+Syoskraut (syos herb):  
+Mentioned ingame in the book *Recipes*, but not appearing as an item. Mixed with grapes for the "wine of oblivion", it is described as the "common" (gemeines) Syos herb, suggestimg that it may likely appear at most places in the kingdom.  
+I regard it comparable to the *Ysop*. It can optically be mistaken for Thymian and is also used as a seasoning herb. Ysop is also commonly called "Weinespenkraut" (Plinius wrote on wine made of Ysop in the first Century A.D., and benedictine monks added Ysop to liqueurs) or "Bienenkraut" (as bees seem to like it).  
+In the game there is an ambient "kitchen stuff" model with three different plants or plant parts, one of it is simply a dark green bunch of a herb hanged to dry. We use it to represent the Syoskraut and make a new item from the model. 
+ 
 
