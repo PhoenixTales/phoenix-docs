@@ -83,6 +83,7 @@ The same principle as above, but only 6 instead of 15 plants and 3 instead of 6 
 | Psi Wurzel  | -           | -      |      |
 
 Only mentioned ingame in the book *Recipes*, but not appearing as an item, is the "Syos Kraut" (Syos Herb). It is mixed with grapes for the "wine of oblivion" and described as the "common" (gemeines) Syos herb, suggestimg that it may likely appear everywhere in the kingdom.  
+I regard it comparable to the *Ysop*, which is also commonly called "Weinespenkraut".
 
 
 ## Gothic Sequel
