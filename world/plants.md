@@ -197,8 +197,8 @@ For Mushrooms we are using `ItMu_[ID]`. Since they even have an associated alpha
 
 Bäume:
 * Blutbuche (deduced from the Blutbuchensamen): The trees with copper-colored leaves. They are not related to the leaves changing color in the fall, as within the barriere there are no seasons; the leaves have this colour all year.
-* Turmeiche (deduced from the Turmeichensamen): The biggest trees in the game with a much rougher and slightly brighter bark.
-* ...
+* Turmeiche (deduced from the Turmeichensamen): The biggest trees in the game with a much rougher and slightly brighter bark. Rarely found in forests, as it requires much light. 
+* The only other sort of tree that is found in the game we will therefore explain to be a form of "Erle" or "Esche". 
 
 Beeren:  
 * Waldbeere: ...
