@@ -39,7 +39,7 @@ Interestingly, the Nightshadow plant V1 (in the Sequel the internal name has bee
 |---------------|-----------------|--------|--------|
 | Trollkirsche  | Trollberrys_01  | -20 HP | unused |
 
-All of these plants only impacted HP and had no other effects. From the woodberry to the swanp/healing herbs they all gave progressively more HP bonus in steps of +2, until bigger jumps in case of the last two healing herbs. These 15 plants can be divided into 6 categories: 
+All of these plants only impacted HP and had no other effects. From the woodberry to the swamp/healing herbs they all gave progressively more HP bonus in steps of +2, until bigger jumps in case of the last two healing herbs. These 15 plants can be divided into 6 categories: 
 1. Berries
 2. "Flowers" or "Thistles" (Seraphis/Velayis)
 3. Moss
@@ -77,9 +77,13 @@ The same principle as above, but only 6 instead of 15 plants and 3 instead of 6 
 
 | DE          | Internal    | Effect | Note |
 |-------------|-------------|--------|------|
+| Höhlenpilz  | mushroom_01 | ToDo   |      |
 | Honigpilz   | ToDo        | ToDo   |      |
 | Teufelspilz | ToDo        | ToDo   |      |
 | Psi Wurzel  | -           | -      |      |
+
+
+Only mentioned ingame in a book, but not appearing as an item, is the "Syos Kraut" (Syos Herb).  
 
 
 ## Gothic Sequel
@@ -91,7 +95,8 @@ Not mentioned were the following:
 * Grabmoos (?)
 * Eichenblatt
 * Sklavenbrot
-* Blutbuchensamen/Turmeichensamen
+* Blutbuchensamen
+* Turmeichensamen
 * Dunkelkraut
 * Drachenwurzel
 
