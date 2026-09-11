@@ -1,7 +1,7 @@
 # Weapon Stats
 
 *flosha*, 11.09.2026  
-*Heretyk & SaluteAdEzio*  
+*Heretyk & SaluteAdEzio & Avallach*  
 
 According to the Alpha we follow the following structure: 
 * Old/rusty weapons have a damage between 1-5.
@@ -26,11 +26,10 @@ How I would do it gameplay wise:
 | [=] most armors have medium piercing resistance | [=] normal damage | [=] medium reach (they are heavy) |
 | [-] restricted to daggers -> short reach | [-] most armors have high cut resistance | [-] low damage / slow |
 
+Avallach's idea: Light but sharp weapons like daggers or rapiers have low base damage but higher critical hit chance. And a critical hit, representing piercing a gap in armor, bypasses even very high damage negation. While heavier and blunter weapons have low critical hit chance and as such may be entirely or almost entirely negated by a sufficiently strong armor but can reliably take down unarmored enemies with a few hits. 
 
-also for armors 
+SaluteAdEzio: 
+* No armor/light armor opponents - animals, diggers, shadows/bandits - have low cutting resistance, so swords are fine against them
+* Heavy armored opponents - guards, merceneries, templars, minecrawlers - it's a good idea to pick a mace, as sword will have issues
+* Daggers are a high risk, high reward option
 
-no armor/light armor opponents - animals, diggers, shadows/bandits - have low cutting resistance so swords are fine against them
-
-heavy armored opponents - guards, merceneries, templars, minecrawlers - its a good idea to pick a mace, as sword will have issues
-
-daggers are a high risk, high reward option
