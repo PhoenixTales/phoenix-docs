@@ -1,7 +1,7 @@
 # Weapon Stats
 
-*flosha*, 11.09.2026
-*Some ideas have been contributed by Heretyk & SaluteAdEzio.*
+*flosha*, 11.09.2026  
+*Heretyk & SaluteAdEzio*  
 
 According to the Alpha we follow the following structure: 
 * Old/rusty weapons have a damage between 1-5.
