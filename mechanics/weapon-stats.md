@@ -18,8 +18,6 @@ Damage types:
 * Cuts - high stopping power, but generally less lethal (incapacitating but survivable), worst against armour 
 * Blunt - good against armor, ok stopping power and lethality
 
-How I would do it gameplay wise:
-
 | Piercing Weapons   | Cutting Weapons | Blunt Weapons |
 |--------------------|-----------------|---------------|
 | [+] Highest Damage | [+] Best Reach  | [+] Most armors have low blunt resistance |
