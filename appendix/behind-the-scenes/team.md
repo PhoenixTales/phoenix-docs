@@ -94,6 +94,7 @@ I mostly like post-rock, post-punk, nu-metal, some shoegaze, goth and any mixtur
 * Death in Rome
 * Depeche Mode
 * Felt
+* From the Mouth of the Sun
 * Ghostly Kisses
 * Gurriers
 * **Have A Nice Life**
@@ -101,11 +102,12 @@ I mostly like post-rock, post-punk, nu-metal, some shoegaze, goth and any mixtur
 * Interpol
 * **Sun Devoured Earth**
 * Les Discrets
-* Limp Bizkit / Wes Borland
+* Limp Bizkit 
 * Linkin Park (the old stuff)
 * Lost in Kiev
 * Nine Inch Nails
 * Ólafur Arnalds
+* POD
 * Rage Against the Machine
 * Russian Circles
 * She Wants Revenge
@@ -117,6 +119,7 @@ I mostly like post-rock, post-punk, nu-metal, some shoegaze, goth and any mixtur
 * The Hirsch Effekt 
 * Thornhill
 * Tool
+* Wes Borland
 
 #### Any books you would like to recommend?
 Hard question. But what I would like to recommend to everyone are the Memoirs of Vinoba Bhave: [Moved by Love](https://archive.org/details/MovedByLove-English-VinobaBhave). Nothing has influenced my thinking as much as Vinoba; he combined Vedanta and Anarchy, he practiced what he dreamed of more than anyone I ever heard of and his idea to unite the quest for internal liberation with the pursuit of a socio-economic revolution and to think them as mutual dependent from each other, that inspires me ever since.
