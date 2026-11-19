@@ -82,23 +82,24 @@ My favourite games from the last couple of years... probably [Dusk](https://newb
 The games I am waiting for right now are mostly Indie Games. The only exception would be [Alice 3](https://www.americanmcgee.com/) (update 2023: in the meantime it failed :`(), [Ready or Not](https://www.youtube.com/watch?v=hdJI3_8zG7A) and [Hellblade II](https://ninjatheory.com/). I also follow [Beta Decay](https://www.youtube.com/watch?v=AHqHYhX2tAI) and like its style, but I'm not sure the gameplay will be for me. Then there is [Gloomwood](https://www.youtube.com/watch?v=wGzx-sElP-I) of course, [Derelikt](https://visuwyg.itch.io/derelikt), [Compound Fracture](https://www.youtube.com/watch?v=7hdkmGLO0vQ) and I support and currently wait for project [*Red Rooster*](https://summereternal.com/redrooster) by [Summer Eternal](https://summereternal.com).
     
 #### What is your favourite music?
-I mostly like post-rock, post-punk, nu-metal, some shoegaze, goth and any mixture of these. Some of my favourites that I would name in particular (just in alphabetical order): 
+I mostly like post-rock, post-punk, nu-metal, some shoegaze, goth and any mixture of these. Some of my favourites that I would name in particular (just in alphabetical order). Projects that are especially dear to me currently are bold: 
 * A Perfect Circle
 * Alcest
-* Ascetic
+* **Ascetic**
 * Ashes Divide
 * Being as an Ocean
 * Bring me the Horizon
-* Clann
+* **Clann**
 * Clint Mansell (The Fountain)
 * Death in Rome
 * Depeche Mode
 * Felt
 * Ghostly Kisses
 * Gurriers
-* Have A Nice Life
+* **Have A Nice Life**
+* Hawthorne Heights
 * Interpol
-* Sun Devoured Earth
+* **Sun Devoured Earth**
 * Les Discrets
 * Limp Bizkit / Wes Borland
 * Linkin Park (the old stuff)
