@@ -88,6 +88,7 @@ I mostly like post-rock, post-punk, nu-metal, some shoegaze, goth and any mixtur
 * **Ascetic**
 * Ashes Divide
 * Being as an Ocean
+* Black Light Burns
 * Bring me the Horizon
 * **Clann**
 * Clint Mansell (The Fountain)
