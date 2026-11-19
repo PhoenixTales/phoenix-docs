@@ -63,7 +63,7 @@ I am an acrobat from Germany with a focus on Hand to Hand.
 I founded it (together with logx) in 2017. But I began to work on it with Issues in the end of 2015 (under the working title "Project Nyx").
 
 #### Why do you love Gothic so much?
-I love the vision of Gothic as it was announced by far more than what it turned out to be. But what I love the most is what I have characterised as its most important design choices in our design philosophy. How else to fix this broken dream without to know what it was made of? Which is, according to our analysis, essentially (1) the immersive gameplay, (2) the special setting, (3) the atmospheric density and the (4) unique aesthetics. As described in detail in our design concept. Gothic was amazing in its conception. It was still amazing in what it delivered. But it didn't deliver what the conception promised. I see Gothic as it was more than anything else as a proof of concept of what it could have done. And that is what we do, that is what I want Phoenix to be.
+I love the vision of Gothic as it was announced by far more than what it turned out to be. But what I love the most is what I have characterised as its most important design choices in our design philosophy. How else to fix this broken dream without to know what it was made of? Which is, according to our analysis, essentially (1) the immersive gameplay, (2) the unique setting, (3) the atmospheric density and the (4) gothic-fantasy style. As described in detail in our design philosophy. Gothic was amazing in its conception. It was still amazing in what it delivered. But it didn't deliver what the conception promised. I see Gothic as it was more than anything else as a proof of concept of what it could have done. And that is what we do, that is what I want Phoenix to be.
 
 #### What do you do in the project?
 I lead the project. I'm something like the creative director and I'm responsible for all the design decisions, for the majority of the story and the world design. I do the 3D modeling, spacering, mapping, basic 2D art, some animations and the majority of the scripting (npcs, monsters, routines, dialogues). I created all our logos and designed all our websites ([phoenixtales.de](https://phoenixtales.de), [gothicarchive.org](https://gothicarchive.org) and [phoenixthegame.com](https://phoenixthegame.com)). And I am main responsible for the design documentation and for designing all the gameplay mechanics that the programmers bring to life in code.
@@ -72,17 +72,50 @@ I lead the project. I'm something like the creative director and I'm responsible
 I am using Blender for 3D Modeling, Mapping and Animations. The Spacer (Gothic's World Editor) to work on the world. Discord for brainstorming; Obsidian for writing our actual documentation, GIMP for 2D, VSCodium for Scripting and Webdesign. I'm usually parallel on Windows and Arch or Void Linux with dwm. If we're able to overcome some still present limitations and have written a simple guide to set it up, I would be happy to switch to Linux completely.
 
 #### What are your favourite camps and guilds in Gothic/Phoenix?
-In Orpheus (our Alpha reconstruction) I symphatise with the New Camp and prefer the water mages. But I still may join the Old Camp or Psi Camp most of the time, because I like the thief and psionic gameplay and progression and atmosphere the most. In Nemesis (our Sequel continuation), my favourite camp is the refugee camp. My favourite guild(s) are the beggars and mystics I think (they're related).
+In Orpheus (our Alpha reconstruction) I symphatise with the Free Camp most. But I still may join the Old Camp or Psi Camp most of the time, because I like the thief and psionic gameplay, progression and atmosphere. In Nemesis (our Sequel continuation), my favourite camp is the refugee camp. My favourite guild(s) are the beggars and mystics I think (they're related).
 
 #### What are your favourite games?
 Phoenix first and foremost. Obviously. I want to play it myself. STALKER: Oblivion Lost; as with Gothic, I love the vision more than the result. American McGee's Alice, for the amazing allegorical story and artdesign. Evil Twin for similar reasons; the world and character design is outstanding, but the gameplay/camera makes it unplayable. Thief 1 & 2 and the amazing community content. Max Payne I & II for the character, the gritty atmosphere and gameplay. Mafia (I), for the story, not its underutilised and thus unnecessary open world. Pro Skater II. Still my favourite skateboarding game; I like the gameplay, it had a great soundtrack and it influenced me to start skateboarding as a child. And Hype.
 
-My favourite games from the last couple of years... probably [Dusk](https://newblood.games/dusk) (for me the best shooter since.. I don't know, System Shock II?), [Fran Bow](https://killmondaygames.com/fran-bow/), [Hellblade](https://hellblade.com/), [Total Chaos](https://www.moddb.com/mods/total-chaos) (I don't like the gameplay that much, but I love the art), [Hrot](https://www.gog.com/game/hrot) and [Hollow Knight](https://www.gog.com/game/hollow_knight) (metroidvania at its finest and precise controls).
+My favourite games from the last couple of years... probably [Dusk](https://newblood.games/dusk) (for me the best shooter since.. I don't know, System Shock II?), [Fran Bow](https://killmondaygames.com/fran-bow/), [Hellblade](https://hellblade.com/), [Total Chaos](https://www.moddb.com/mods/total-chaos) (I don't like the gameplay that much, but I love the art), [Hrot](https://www.gog.com/game/hrot) and [Hollow Knight](https://www.gog.com/game/hollow_knight) (metroidvania at its finest and precise controls). 
 
-The games I am waiting for right now are mostly Indie Games. The only exception would be [Alice 3](https://www.americanmcgee.com/) (update 2023: in the meantime it failed :`(), [Ready or Not](https://www.youtube.com/watch?v=hdJI3_8zG7A) and [Hellblade II](https://ninjatheory.com/). The project I am looking forward to the most is [Beta Decay](https://www.youtube.com/watch?v=AHqHYhX2tAI) (the artstyle almost exactly fits to my aesthetical preference as to what I would expect a Cyberpunk game to be), then there is [Gloomwood](https://www.youtube.com/watch?v=wGzx-sElP-I), [Derelikt](https://visuwyg.itch.io/derelikt), [Compound Fracture](https://www.youtube.com/watch?v=7hdkmGLO0vQ) and new to the list (as of December 2023): [Bloodthief](https://www.youtube.com/watch?v=zpTcXky_8yo).
+The games I am waiting for right now are mostly Indie Games. The only exception would be [Alice 3](https://www.americanmcgee.com/) (update 2023: in the meantime it failed :`(), [Ready or Not](https://www.youtube.com/watch?v=hdJI3_8zG7A) and [Hellblade II](https://ninjatheory.com/). I also follow [Beta Decay](https://www.youtube.com/watch?v=AHqHYhX2tAI) and like its style, but I'm not sure the gameplay will be for me. Then there is [Gloomwood](https://www.youtube.com/watch?v=wGzx-sElP-I) of course, [Derelikt](https://visuwyg.itch.io/derelikt), [Compound Fracture](https://www.youtube.com/watch?v=7hdkmGLO0vQ) and I support and currently wait for project [*Red Rooster*](https://summereternal.com/redrooster) by [Summer Eternal](https://summereternal.com).
     
 #### What is your favourite music?
-I would say, my favourites are: Have A Nice Life, Lost in Kiev, Being as an Ocean, Ólafur Arnalds, Clann, Sol Invictus, Clint Mansell (The Fountain), Ghostly Kisses, She Wants Revenge, Tool, A Perfect Circle, Rage Against the Machine, Nine Inch Nails, Interpol, Nu-Metal stuff like the early Linkin Park and all kinds of music from the late 1990s and early 2000s.
+I mostly like post-rock, post-punk, nu-metal, some shoegaze, goth and any mixture of these. Some of my favourites that I would name in particular (just in alphabetical order): 
+* A Perfect Circle
+* Alcest
+* Ascetic
+* Ashes Divide
+* Being as an Ocean
+* Bring me the Horizon
+* Clann
+* Clint Mansell (The Fountain)
+* Death in Rome
+* Depeche Mode
+* Felt
+* Ghostly Kisses
+* Gurriers
+* Have A Nice Life
+* Interpol
+* Sun Devoured Earth
+* Les Discrets
+* Limp Bizkit / Wes Borland
+* Linkin Park (the old stuff)
+* Lost in Kiev
+* Nine Inch Nails
+* Ólafur Arnalds
+* Rage Against the Machine
+* Russian Circles
+* She Wants Revenge
+* Sleep Token
+* Sol Invictus
+* Spiral 69
+* System of a Down
+* Talons
+* The Hirsch Effekt 
+* Thornhill
+* Tool
 
 #### Any books you would like to recommend?
 Hard question. But what I would like to recommend to everyone are the Memoirs of Vinoba Bhave: [Moved by Love](https://archive.org/details/MovedByLove-English-VinobaBhave). Nothing has influenced my thinking as much as Vinoba; he combined Vedanta and Anarchy, he practiced what he dreamed of more than anyone I ever heard of and his idea to unite the quest for internal liberation with the pursuit of a socio-economic revolution and to think them as mutual dependent from each other, that inspires me ever since.
